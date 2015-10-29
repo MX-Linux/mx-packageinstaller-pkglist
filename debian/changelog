@@ -1,0 +1,5 @@
+mx-packageinstaller-pkglist (15.10mx15) mx; urgency=medium
+
+  * Initial package
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 29 Oct 2015 10:16:15 -0400
