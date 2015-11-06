@@ -25,5 +25,6 @@ FLL_POST_PROCESSING=(
        "echo \"---- in postprocessing ----\""
        "echo \"Removing MX TEST repository from /etc/apt/sources.list.d/\""
 	"rm -f /etc/apt/sources.list.d/mxtestrepotemp.list"
+	"apt-get remove linux-image-liquorix-686 linux-headers-liquorix-686 -y"
 	"echo \"---- postprocessing done----\""
 )
