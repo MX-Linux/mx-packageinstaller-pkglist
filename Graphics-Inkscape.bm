@@ -13,6 +13,14 @@ FLL_PACKAGE_DEPMODS=(
 FLL_PACKAGES=(
 	
         inkscape
-              	
+        aspell
+    	imagemagick
+   	libgnomevfs2-extra
+    	libwmf-bin
+    	perlmagick
+   	pstoedit
+    	python-lxml
+    	python-numpy
+    	transfig     	
 )
 
