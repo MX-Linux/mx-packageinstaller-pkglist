@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (15.11mx15) mx; urgency=medium
+
+  * kernel package changes
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 06 Nov 2015 18:02:24 -0500
+
 mx-packageinstaller-pkglist (15.10mx15) mx; urgency=medium
 
   * Initial package
