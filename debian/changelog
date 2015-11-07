@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (15.11.1mx15) mx; urgency=medium
+
+  * update Inkspace with recommends
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 06 Nov 2015 19:23:38 -0500
+
 mx-packageinstaller-pkglist (15.11mx15) mx; urgency=medium
 
   * kernel package changes
