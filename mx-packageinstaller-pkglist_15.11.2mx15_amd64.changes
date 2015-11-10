@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Tue, 10 Nov 2015 17:49:32 -0500
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 15.11.2mx15
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (15.11.2mx15) mx; urgency=medium
+ .
+   * new and updated files for spotify, playonlinux, steam, virtualbox,
+     mplayer, and kernels
+Checksums-Sha1:
+ bbd3610455b7843c01d91638c2a0b347968c7080 1302 mx-packageinstaller-pkglist_15.11.2mx15.dsc
+ ba6478595f3e2b61505f7b29dce79fc84ba4a300 90112 mx-packageinstaller-pkglist_15.11.2mx15.tar.xz
+ 9a3a44b53a4c7a8d29aae96054a5fdd90282ef95 20554 mx-packageinstaller-pkglist_15.11.2mx15_all.deb
+Checksums-Sha256:
+ dd0ca5f76474264ca0817adaa40885989d426cbbf5d4484836d710431243966c 1302 mx-packageinstaller-pkglist_15.11.2mx15.dsc
+ 2dac349855398025384cd29e3174e0284048ab098c2a68bf2093496cb4967b25 90112 mx-packageinstaller-pkglist_15.11.2mx15.tar.xz
+ 7f831feed04a593e4aa70e775d036a06947c78b776c401caa3d8a4814a51e4a6 20554 mx-packageinstaller-pkglist_15.11.2mx15_all.deb
+Files:
+ 872e972c3b33f36ece9cc10824efc865 1302 admin optional mx-packageinstaller-pkglist_15.11.2mx15.dsc
+ 8c11b791f57af694c6f8abb04cf73693 90112 admin optional mx-packageinstaller-pkglist_15.11.2mx15.tar.xz
+ fa36ca174429cd47faa4c059319b98d4 20554 admin optional mx-packageinstaller-pkglist_15.11.2mx15_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJWQnS5AAoJEHCTjHgGee6Y46cH/Rv/dbAuqiHpUpTShJ2PCTYo
+cZM+FkC2JHxZ9hZY4vxn3ADFzDh9UxfJZ9f21yYYIQdBfwZqzUlRjGrKfgtbQZaY
+1mU1C3FUuXGnxrd8fFuHuLdzC1+CLFb1Q1ARyLydss5RlNmYMrFahvhAxNo5oZWn
+4LJzrjmcKXqWA4iZU1V4kiKVtiorwQHoLNeRw0QOT1+Tu976RQkuKIgBvSePUb7t
+GOCi0V1D5k8rUi0OXYuq/o9w1rOGSa7Irs37HWqvRxl9hO9zvcuD2zfFkYcPvTi+
+9QdLTdvj0DjON96ZSGFeJB9VnYjYuPI/Omi8UQjBZXoTvXfVjnPKL/8RoNcWN68=
+=cbXO
+-----END PGP SIGNATURE-----
