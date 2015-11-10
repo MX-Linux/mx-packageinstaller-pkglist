@@ -19,4 +19,9 @@ FLL_PACKAGES=(
 )
 
 FLL_POST_PROCESSING=(
+	"echo \"vboxdrv\">>/etc/modules-load.d/virtualbox.conf"
+	"echo \"vboxnetflt\">>/etc/modules-load.d/virtualbox.conf"
+	"echo \"vboxpci\">>/etc/modules-load.d/virtualbox.conf"
+	"echo \"vboxnetadp\">>/etc/modules-load.d/virtualbox.conf"
+
 )
