@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Mon, 16 Nov 2015 15:34:32 -0500
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 15.11.4mx15
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description: 
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes: 
+ mx-packageinstaller-pkglist (15.11.4mx15) mx; urgency=medium
+ .
+   * fixed steam bm so user can accept EULA.
+Checksums-Sha1: 
+ 3352cc6af73215ce6de45c16406ff7d56684a8cf 1317 mx-packageinstaller-pkglist_15.11.4mx15.dsc
+ 922912c342724df936dd01704b627f359d269579 166798 mx-packageinstaller-pkglist_15.11.4mx15.tar.gz
+ 8f051177e6b0412e7fc7de10fb51e6ee38d698d7 21864 mx-packageinstaller-pkglist_15.11.4mx15_all.deb
+Checksums-Sha256: 
+ cee69ca5652a88877766057dfdc3c4cb1281ce22819a2b8f0a2f0c355fb1247e 1317 mx-packageinstaller-pkglist_15.11.4mx15.dsc
+ 15513137d3853bd92666321d1b33eb146367bdd04b3fe20dd6595f36185a0604 166798 mx-packageinstaller-pkglist_15.11.4mx15.tar.gz
+ 85358ed8ea08fe8a8495cc5d7e35677d6a7af15dcfc6ab01bdaa1b8f340e7409 21864 mx-packageinstaller-pkglist_15.11.4mx15_all.deb
+Files: 
+ 8835de82598ec1faa8b649b2a0bfc02e 1317 admin optional mx-packageinstaller-pkglist_15.11.4mx15.dsc
+ 5d84490d32dc0f624ae2c2dabf2cb7b0 166798 admin optional mx-packageinstaller-pkglist_15.11.4mx15.tar.gz
+ ed6f8d34f71f10f883e0aca0299d35ce 21864 admin optional mx-packageinstaller-pkglist_15.11.4mx15_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJWSj36AAoJEHCTjHgGee6YBcgH/1Gh8KCTL9OJbhRgkjgpMPPs
+eVBa1UBhbaGOhRODvBApAu45NvK/XnKNebgvhIFCG4nVa2M1SfO+/N03qqXyNFUb
+UmQ7v2WreQ+YpgMAUG3r7Ef3858gs9ypBPRQ5fMgVTwOyZ5kyXv48NzD7O/1b0dx
+OAJDwj/yS+NoWSjlj8TEFb3pcup92bHfa/F0w488isxhYuQVDfC2rN5KBO0nGjrI
+Wj5EFKwvQxJXU2s821xk9TbMhydsHAMY7+o/jMTLOXVY6LXs4pv+bRMAQ3hThkFg
+7hRSbN0ynwzX+VfgoquD6flGikvWBqlZzva2D1PUx56cwVPG+WhgnY2p+fs/Ehc=
+=Ic3T
+-----END PGP SIGNATURE-----
