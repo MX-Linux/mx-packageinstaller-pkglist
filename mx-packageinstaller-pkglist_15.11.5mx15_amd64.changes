@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 20 Nov 2015 14:35:32 -0500
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 15.11.5mx15
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphinoracle@gmail.com>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (15.11.5mx15) mx; urgency=medium
+ .
+   * added google-earth
+Checksums-Sha1:
+ 7a6da10e746f9a07352656ad23734dbf786d269d 737 mx-packageinstaller-pkglist_15.11.5mx15.dsc
+ 01b64119223e2e18449b5a7b5325ce3f2dcee137 13016 mx-packageinstaller-pkglist_15.11.5mx15.tar.xz
+ 969e4eb9e9b5746a5ab9db3ab69c045ed619446d 20766 mx-packageinstaller-pkglist_15.11.5mx15_all.deb
+Checksums-Sha256:
+ bdba3ef14379a61d122b3c468e899a6e9c305501694f809f381b340ceee3c99c 737 mx-packageinstaller-pkglist_15.11.5mx15.dsc
+ e40c791e70777b739e1b94e6480fb95ee1c372cc17faabea0ac3ed9d6032ad75 13016 mx-packageinstaller-pkglist_15.11.5mx15.tar.xz
+ 99a3f1ecdde92ed023497c0b9c1b10c162c4e93584d774985c02bb1708d50129 20766 mx-packageinstaller-pkglist_15.11.5mx15_all.deb
+Files:
+ fc4c3553f1cd4c4fa9a9bffafad07f19 737 admin optional mx-packageinstaller-pkglist_15.11.5mx15.dsc
+ 9539c2109d3105268923bad2847e94a7 13016 admin optional mx-packageinstaller-pkglist_15.11.5mx15.tar.xz
+ 6a7a5684a41149c803915208bf831d75 20766 admin optional mx-packageinstaller-pkglist_15.11.5mx15_all.deb

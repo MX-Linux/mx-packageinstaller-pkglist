@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (15.11.5mx15) mx; urgency=medium
+ 
+  * added google-earth
+
+ -- dolphin_oracle <dolphinoracle@gmail.com> Fri, 20 Nov 2015 14:35:32 -0500
+
 mx-packageinstaller-pkglist (15.11.4mx15) mx; urgency=medium
 
   * fixed steam bm so user can accept EULA.
