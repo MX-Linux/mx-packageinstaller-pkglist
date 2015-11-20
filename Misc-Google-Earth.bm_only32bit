@@ -1,0 +1,20 @@
+FLL_DESCRIPTION="Google Earth"
+
+FLL_PRE_PROCESSING=(
+   "#!/bin/bash"
+        "echo \"---- in preprocessing ----\""
+        "echo \"Connecting to dl.google.com and downloading the latest version of Google Earth\""  
+        "wget http://dl.google.com/dl/earth/client/current/google-earth-stable_current_i386.deb"
+        "echo \"Installing Google Earth\"" 
+        "dpkg -i google-earth-stable*.deb"
+        "apt-get -f install -y"
+        "echo \"Installation completed.\"" 
+	"rm google-earth-stable*.deb"
+        "echo \"---- preprocessing done----\""
+)
+
+FLL_PACKAGE_DEPMODS=(
+)
+
+FLL_PACKAGES=(
+)
