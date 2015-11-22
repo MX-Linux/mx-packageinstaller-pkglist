@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (15.11.7mx16) mx; urgency=medium
+
+  * revised meld bm file
+
+ -- dolphin_oracle <dolphin@littlebyte>  Sun, 22 Nov 2015 14:11:30 -0500
+
 mx-packageinstaller-pkglist (15.11.6mx15) mx; urgency=medium
 
   *  add development category
