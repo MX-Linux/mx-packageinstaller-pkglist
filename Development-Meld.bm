@@ -1,5 +1,5 @@
 
-FLL_DESCRIPTION="MELD - graphical tool to diff and merge files"
+FLL_DESCRIPTION="Meld - graphical tool to diff and merge files"
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
