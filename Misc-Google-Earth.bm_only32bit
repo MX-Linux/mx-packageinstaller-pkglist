@@ -17,4 +17,5 @@ FLL_PACKAGE_DEPMODS=(
 )
 
 FLL_PACKAGES=(
+	google-earth-stable
 )
