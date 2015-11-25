@@ -1,5 +1,5 @@
 
-FLL_DESCRIPTION="SuperTuxKart from jessie-backports"
+FLL_DESCRIPTION="SuperTuxKart \"Mario kart style racig\""
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"

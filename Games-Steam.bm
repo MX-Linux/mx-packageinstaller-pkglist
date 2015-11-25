@@ -4,6 +4,7 @@ FLL_PRE_PROCESSING=(
    "#!/bin/bash"
    "echo \"---- in preprocessing ----\""
    "xfce4-terminal -x apt-get install steam"
+   "apt-get install -f"
    "echo \"---- preprocessing done----\""
 )
 
@@ -11,9 +12,8 @@ FLL_PACKAGE_DEPMODS=(
 )
 
 FLL_PACKAGES=(
-
+	steam
 )
 
 FLL_POST_PROCESSING=(
-	apt-get install -f
-)
+	)
