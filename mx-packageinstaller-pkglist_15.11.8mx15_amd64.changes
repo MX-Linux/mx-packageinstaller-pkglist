@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 25 Nov 2015 18:54:57 -0500
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 15.11.8mx15
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphin@mx1>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (15.11.8mx15) mx; urgency=medium
+ .
+   * removed broken bm files (portugese(br)
+   * fixed gnome_ultra bm to gnome_min bm
+   * corrected some language packs so because they did not install due to errors
+   * updated skype, steam, supertuxkart, and google-earth bm's so they would show as installed after installation
+   * fixed build dependencies in debian control
+Checksums-Sha1:
+ d1f2bfec140b40a1672505cf33e9cce3005edbb2 737 mx-packageinstaller-pkglist_15.11.8mx15.dsc
+ f7a1f930ead1124f270cb5ae1f49d00630b6b204 13504 mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
+ da9e7a10aeff3d03ada3a64f33e15a259276c549 21402 mx-packageinstaller-pkglist_15.11.8mx15_all.deb
+Checksums-Sha256:
+ 89782d093fcd92451f2bad55f5d5d303406df514c1042b979bc3d53ae90cc2db 737 mx-packageinstaller-pkglist_15.11.8mx15.dsc
+ 79ddd85d7979b372397b067faa7842fed04d76f6f35fbf3d263d8eef094698fc 13504 mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
+ 9ad376c19414e8438a34630c559cbb15a7bbcd59eeb40444d052ae83fb517854 21402 mx-packageinstaller-pkglist_15.11.8mx15_all.deb
+Files:
+ 94686c3e33be928eaddb4e172b48d693 737 admin optional mx-packageinstaller-pkglist_15.11.8mx15.dsc
+ c435600e799b2bc8d7465c3af455b9be 13504 admin optional mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
+ b4decc390b09c4ce4729ce5e21484343 21402 admin optional mx-packageinstaller-pkglist_15.11.8mx15_all.deb
