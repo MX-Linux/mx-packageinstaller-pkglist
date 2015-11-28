@@ -13,7 +13,6 @@ FLL_PACKAGE_DEPMODS=(
 FLL_PACKAGES=(
       aspell-cs
       myspell-cs
-      manpages-cs
       
 )
 

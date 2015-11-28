@@ -12,7 +12,6 @@ FLL_PACKAGE_DEPMODS=(
 
 FLL_PACKAGES=(
 	xfonts-wqy	
-	ttf-arphic-uming
 	ttf-freefont
 	ttf-wqy-zenhei
 )

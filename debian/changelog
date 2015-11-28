@@ -1,3 +1,14 @@
+mx-packageinstaller-pkglist (15.11.8mx15) mx; urgency=medium
+
+  * removed broken bm files (portugese(br)
+  * fixed gnome_ultra bm to gnome_min bm
+  * corrected some language packs so because they did not install due to errors
+  * updated skype, steam, supertuxkart, and google-earth bm's so they would show as installed after installation
+  * fixed build dependencies in debian control
+  * hacked audio-pulseaudio, children-primary, graphics-inkscape and graphics-blender so they show installed (this does not fix basic problem)
+
+ -- dolphin_oracle <dolphin@mx1>  Wed, 28 Nov 2015 18:11:57 -0500
+
 mx-packageinstaller-pkglist (15.11.7mx16) mx; urgency=medium
 
   * revised meld bm file

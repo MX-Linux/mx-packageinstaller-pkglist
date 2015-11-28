@@ -1,8 +1,9 @@
-FLL_DESCRIPTION="Gnome-ultra"
+FLL_DESCRIPTION="Gnome (minimal install)"
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
 	"echo \"---- in preprocessing ----\""
+	"xfce4-terminal -x apt-get install -y gdm3"
 	"echo \"---- preprocessing done----\""
 )
 
@@ -13,6 +14,8 @@ FLL_PACKAGES=(
         gnome-session 
         gnome-control-center
         gnome-themes 
-
+	gnome-panel
+	gnome-shell-extensions
+	nautilus
 )
 
