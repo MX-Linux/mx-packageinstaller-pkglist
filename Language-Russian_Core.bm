@@ -13,7 +13,6 @@ FLL_PACKAGE_DEPMODS=(
 FLL_PACKAGES=(
 	aspell-ru
 	console-cyrillic
-	manpages-ru
 	myspell-ru
 	irussian
 

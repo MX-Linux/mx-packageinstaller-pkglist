@@ -4,6 +4,7 @@ FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
         "echo \"---- in preprocessing ----\""
 	"# paste your code here (not necessary for normal install, only for preconfigs)"
+	"apt-get install -y gstreamer0.10-pulseaudio"
         "echo \"---- preprocessing done----\""
 )
 
@@ -14,7 +15,6 @@ FLL_PACKAGES=(
     
      pulseaudio
      pulseaudio-module-x11  
-     gstreamer0.10-pulseaudio 
      rtkit
      pavucontrol
 

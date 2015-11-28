@@ -1,8 +1,8 @@
  dpkg-buildpackage -rfakeroot -D -us -uc
 dpkg-buildpackage: source package mx-packageinstaller-pkglist
-dpkg-buildpackage: source version 15.11.7mx15
+dpkg-buildpackage: source version 15.11.8mx15
 dpkg-buildpackage: source distribution mx
-dpkg-buildpackage: source changed by dolphin_oracle <dolphin@littlebyte>
+dpkg-buildpackage: source changed by dolphin_oracle <dolphin@mx1>
  dpkg-source --before-build build
 dpkg-buildpackage: host architecture amd64
  fakeroot debian/rules clean
@@ -12,8 +12,8 @@ dh clean
    dh_clean
  dpkg-source -b build
 dpkg-source: info: using source format `3.0 (native)'
-dpkg-source: info: building mx-packageinstaller-pkglist in mx-packageinstaller-pkglist_15.11.7mx15.tar.xz
-dpkg-source: info: building mx-packageinstaller-pkglist in mx-packageinstaller-pkglist_15.11.7mx15.dsc
+dpkg-source: info: building mx-packageinstaller-pkglist in mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
+dpkg-source: info: building mx-packageinstaller-pkglist in mx-packageinstaller-pkglist_15.11.8mx15.dsc
  debian/rules build
 dh build
    dh_testdir
@@ -39,8 +39,8 @@ dh_pysupport: This program is deprecated, you should use dh_python2 instead. Mig
 dpkg-gencontrol: warning: File::FcntlLock not available; using flock which is not NFS-safe
    dh_md5sums
    dh_builddeb
-dpkg-deb: building package `mx-packageinstaller-pkglist' in `../mx-packageinstaller-pkglist_15.11.7mx15_all.deb'.
- dpkg-genchanges  >../mx-packageinstaller-pkglist_15.11.7mx15_amd64.changes
+dpkg-deb: building package `mx-packageinstaller-pkglist' in `../mx-packageinstaller-pkglist_15.11.8mx15_all.deb'.
+ dpkg-genchanges  >../mx-packageinstaller-pkglist_15.11.8mx15_amd64.changes
 dpkg-genchanges: including full source code in upload
  dpkg-source --after-build build
 dpkg-buildpackage: full upload; Debian-native package (full source is included)
