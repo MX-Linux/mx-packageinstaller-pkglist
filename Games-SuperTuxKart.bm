@@ -1,5 +1,5 @@
 
-FLL_DESCRIPTION="SuperTuxKart \"Mario kart style racig\""
+FLL_DESCRIPTION="SuperTuxKart \"Mario kart style racing""
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
