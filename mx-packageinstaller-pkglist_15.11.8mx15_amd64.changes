@@ -20,14 +20,14 @@ Changes:
    * fixed build dependencies in debian control
    * hacked audio-pulseaudio, children-primary, graphics-inkscape and graphics-blender so they show installed (this does not fix basic problem)
 Checksums-Sha1:
- f469d2415a9103552108b2dd6a0a9c6d520b0ee7 737 mx-packageinstaller-pkglist_15.11.8mx15.dsc
- 4fb1b170e5a9abd06ffa76081b9efb30f07cc768 13592 mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
- 3520294137c9958cb1be39ba7566c7994179ae79 21502 mx-packageinstaller-pkglist_15.11.8mx15_all.deb
+ 505ef057e631619abac66ce94fc367f0624a609c 737 mx-packageinstaller-pkglist_15.11.8mx15.dsc
+ 52226e3c7658f27ed175f52c87853c98acbdf910 13620 mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
+ 3c57a6054336017f12a44628eb85befaa5a21cae 21508 mx-packageinstaller-pkglist_15.11.8mx15_all.deb
 Checksums-Sha256:
- fa9ff0a4979015b46b3bdf750f1538a0ac0badffd5f4b43f4edfcc764fed39ff 737 mx-packageinstaller-pkglist_15.11.8mx15.dsc
- 9a4b76aae21ff6ba76c62840a03df378b3d97ac9cdb667a87f6408ccbd987ef2 13592 mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
- 33cf433a17248c537a9970269ddeb733eb75cbf3c78957c7a40ea1e5be9ca288 21502 mx-packageinstaller-pkglist_15.11.8mx15_all.deb
+ dcb023c2484e8c45b58cfdb0f108cc8a29ab517e6de2c25a7fe698f08fbcdaf6 737 mx-packageinstaller-pkglist_15.11.8mx15.dsc
+ f5f09428ca63120566674d3c8128c52a93642fb38ed233604c5430b7ba588c35 13620 mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
+ b60cc67d34f09e16c66052508ac9ed3a43bdb28ea31fdfd56af8a15ebcc103c6 21508 mx-packageinstaller-pkglist_15.11.8mx15_all.deb
 Files:
- dc27bfd29636efa4f2233279dd3462e7 737 admin optional mx-packageinstaller-pkglist_15.11.8mx15.dsc
- e4b269be4ecfa5fa7dbb6599ed110f28 13592 admin optional mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
- 9d85e8e47acebe8016f5363f10d85480 21502 admin optional mx-packageinstaller-pkglist_15.11.8mx15_all.deb
+ ba31e80fbc0f431cc8dcca4b0ecfce03 737 admin optional mx-packageinstaller-pkglist_15.11.8mx15.dsc
+ 8ccfcb9ad7cccb51670881006e4ef5df 13620 admin optional mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
+ c6b19dd7694bfe00ed3c05cf9f60d777 21508 admin optional mx-packageinstaller-pkglist_15.11.8mx15_all.deb
