@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Wed, 25 Nov 2015 18:54:57 -0500
+Date: Wed, 28 Nov 2015 18:11:57 -0500
 Source: mx-packageinstaller-pkglist
 Binary: mx-packageinstaller-pkglist
 Architecture: source all
@@ -18,15 +18,16 @@ Changes:
    * corrected some language packs so because they did not install due to errors
    * updated skype, steam, supertuxkart, and google-earth bm's so they would show as installed after installation
    * fixed build dependencies in debian control
+   * hacked audio-pulseaudio, children-primary, graphics-inkscape and graphics-blender so they show installed (this does not fix basic problem)
 Checksums-Sha1:
- d1f2bfec140b40a1672505cf33e9cce3005edbb2 737 mx-packageinstaller-pkglist_15.11.8mx15.dsc
- f7a1f930ead1124f270cb5ae1f49d00630b6b204 13504 mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
- da9e7a10aeff3d03ada3a64f33e15a259276c549 21402 mx-packageinstaller-pkglist_15.11.8mx15_all.deb
+ f469d2415a9103552108b2dd6a0a9c6d520b0ee7 737 mx-packageinstaller-pkglist_15.11.8mx15.dsc
+ 4fb1b170e5a9abd06ffa76081b9efb30f07cc768 13592 mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
+ 3520294137c9958cb1be39ba7566c7994179ae79 21502 mx-packageinstaller-pkglist_15.11.8mx15_all.deb
 Checksums-Sha256:
- 89782d093fcd92451f2bad55f5d5d303406df514c1042b979bc3d53ae90cc2db 737 mx-packageinstaller-pkglist_15.11.8mx15.dsc
- 79ddd85d7979b372397b067faa7842fed04d76f6f35fbf3d263d8eef094698fc 13504 mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
- 9ad376c19414e8438a34630c559cbb15a7bbcd59eeb40444d052ae83fb517854 21402 mx-packageinstaller-pkglist_15.11.8mx15_all.deb
+ fa9ff0a4979015b46b3bdf750f1538a0ac0badffd5f4b43f4edfcc764fed39ff 737 mx-packageinstaller-pkglist_15.11.8mx15.dsc
+ 9a4b76aae21ff6ba76c62840a03df378b3d97ac9cdb667a87f6408ccbd987ef2 13592 mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
+ 33cf433a17248c537a9970269ddeb733eb75cbf3c78957c7a40ea1e5be9ca288 21502 mx-packageinstaller-pkglist_15.11.8mx15_all.deb
 Files:
- 94686c3e33be928eaddb4e172b48d693 737 admin optional mx-packageinstaller-pkglist_15.11.8mx15.dsc
- c435600e799b2bc8d7465c3af455b9be 13504 admin optional mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
- b4decc390b09c4ce4729ce5e21484343 21402 admin optional mx-packageinstaller-pkglist_15.11.8mx15_all.deb
+ dc27bfd29636efa4f2233279dd3462e7 737 admin optional mx-packageinstaller-pkglist_15.11.8mx15.dsc
+ e4b269be4ecfa5fa7dbb6599ed110f28 13592 admin optional mx-packageinstaller-pkglist_15.11.8mx15.tar.xz
+ 9d85e8e47acebe8016f5363f10d85480 21502 admin optional mx-packageinstaller-pkglist_15.11.8mx15_all.deb
