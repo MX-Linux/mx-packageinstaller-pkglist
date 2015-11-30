@@ -2,6 +2,7 @@ mx-packageinstaller-pkglist (15.11.9mx15) mx; urgency=medium
 
   * modified adobe reader bm file to allow plugin installation
   * added ftp and docks sections
+  * added tor-browser to browser section
 
  -- dolphin_oracle <dolphin@mx1>  Sun, 29 Nov 2015 14:25:54 -0500
 
