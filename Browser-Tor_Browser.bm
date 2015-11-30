@@ -1,13 +1,13 @@
 
-FLL_DESCRIPTION="SuperTuxKart (Mario kart style racing)"
+FLL_DESCRIPTION="Tor Browser (jessie-backports version)"
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
 	"echo \"---- in preprocessing ----\""
         "echo \"Adding Jessie-Backports repository to /etc/apt/sources.list.d/debian.list\""
-	"echo \"deb http://http.debian.net/debian jessie-backports main\">/etc/apt/sources.list.d/jessiebackport.list"
+	"echo \"deb http://http.debian.net/debian jessie-backports main contrib\">/etc/apt/sources.list.d/jessiebackport.list"
         "apt-get update"
-	"apt-get install -y -t jessie-backports supertuxkart supertuxkart-data"
+	"apt-get install -y -t jessie-backports torbrowser-launcher"
         "echo \"---- preprocessing done----\""
 )
 
@@ -15,7 +15,7 @@ FLL_PACKAGE_DEPMODS=(
 )
 
 FLL_PACKAGES=(
-	supertuxkart	
+	torbrowser-launcher
 )
 FLL_POST_PROCESSING=(
        "#!/bin/bash"
