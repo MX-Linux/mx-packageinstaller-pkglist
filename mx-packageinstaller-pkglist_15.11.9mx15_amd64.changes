@@ -15,15 +15,16 @@ Changes:
  .
    * modified adobe reader bm file to allow plugin installation
    * added ftp and docks sections
+   * added tor-browser to browser section
 Checksums-Sha1:
- c8a74cfaee9c2553fd7a8d981261937cee8ca142 737 mx-packageinstaller-pkglist_15.11.9mx15.dsc
- a09018a601f37db47d9203a6525157b4c57a708e 13908 mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
- c32939d820787a652d07c5b1dce389fac5b720fb 21982 mx-packageinstaller-pkglist_15.11.9mx15_all.deb
+ 654d1ed53529341e5aba14e5f5a6084af71f32b7 737 mx-packageinstaller-pkglist_15.11.9mx15.dsc
+ 88fb7e5840c823eaf9494266b9dbdc7c99723ca9 14000 mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
+ ffd121c644d1ede5034e12c518d5b8efda2d8a40 22108 mx-packageinstaller-pkglist_15.11.9mx15_all.deb
 Checksums-Sha256:
- 8b67273a0715174d52b7b95bae800070569247e87d21481411f44d9e79ff8a99 737 mx-packageinstaller-pkglist_15.11.9mx15.dsc
- 321c54ed9db2864a8304593db72b130f450f611e8a98bcf12b18efaf627e4b8f 13908 mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
- dd4e7900341ef3ed9dff5a99d7b42e340d75269d639e1cde61ae1736f8f1fff7 21982 mx-packageinstaller-pkglist_15.11.9mx15_all.deb
+ 51ddf17be5584b227adaa98816e4783d03fc6197cda68f7d6b55ca904eb06cc3 737 mx-packageinstaller-pkglist_15.11.9mx15.dsc
+ 0da664e35faec33442a73d94c9c404787d3003437c2376f5a7bb9811ae275204 14000 mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
+ 48734f7231c2967d38a1905e93512fcdc67d0d50eed9d9158388ae377f2c4d6a 22108 mx-packageinstaller-pkglist_15.11.9mx15_all.deb
 Files:
- 7bc0e9eb243ff7573a2da9dc91718846 737 admin optional mx-packageinstaller-pkglist_15.11.9mx15.dsc
- 6397fdaa3d37d2c156518dcd2a5864f8 13908 admin optional mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
- ecfed123a6d7fa36d08ee201325c998f 21982 admin optional mx-packageinstaller-pkglist_15.11.9mx15_all.deb
+ 7daf77ec06c9dea6cf86ae0b02d4f84f 737 admin optional mx-packageinstaller-pkglist_15.11.9mx15.dsc
+ 95f8ea338bab6263e8f7e6cb9f5067bf 14000 admin optional mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
+ 3fdea46bac73b54005901840dd06b516 22108 admin optional mx-packageinstaller-pkglist_15.11.9mx15_all.deb
