@@ -14,15 +14,16 @@ Changes:
  mx-packageinstaller-pkglist (15.11.9mx15) mx; urgency=medium
  .
    * modified adobe reader bm file to allow plugin installation
+   * added ftp and docks sections
 Checksums-Sha1:
- c1556559652363756dac774823582c5920e957e2 737 mx-packageinstaller-pkglist_15.11.9mx15.dsc
- 53382c831de7106901832872f9d1172f9a68e361 13568 mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
- 19fc201db13756cfcb528aca1e8c6c49e7077342 21506 mx-packageinstaller-pkglist_15.11.9mx15_all.deb
+ c8a74cfaee9c2553fd7a8d981261937cee8ca142 737 mx-packageinstaller-pkglist_15.11.9mx15.dsc
+ a09018a601f37db47d9203a6525157b4c57a708e 13908 mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
+ c32939d820787a652d07c5b1dce389fac5b720fb 21982 mx-packageinstaller-pkglist_15.11.9mx15_all.deb
 Checksums-Sha256:
- c2267e5f46b46e83d7cef81c7a2d5f3d774d161b37ec18333541b1fbbc0b7b71 737 mx-packageinstaller-pkglist_15.11.9mx15.dsc
- 7ab8c59605e6ba8601c35ef65352bdb220c12ee3a30ffc0e8d3409abf64915d2 13568 mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
- 7a0d3bd25e6d756756dc284ed9ef543b140204bba9d20b13c39805e54af02fe8 21506 mx-packageinstaller-pkglist_15.11.9mx15_all.deb
+ 8b67273a0715174d52b7b95bae800070569247e87d21481411f44d9e79ff8a99 737 mx-packageinstaller-pkglist_15.11.9mx15.dsc
+ 321c54ed9db2864a8304593db72b130f450f611e8a98bcf12b18efaf627e4b8f 13908 mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
+ dd4e7900341ef3ed9dff5a99d7b42e340d75269d639e1cde61ae1736f8f1fff7 21982 mx-packageinstaller-pkglist_15.11.9mx15_all.deb
 Files:
- 6dab93fa02c2bf95820f3a61bd5ab650 737 admin optional mx-packageinstaller-pkglist_15.11.9mx15.dsc
- ba62f72428d96aea2dde24a2b00c0296 13568 admin optional mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
- 13199afd74d5f610be4876f931e46f32 21506 admin optional mx-packageinstaller-pkglist_15.11.9mx15_all.deb
+ 7bc0e9eb243ff7573a2da9dc91718846 737 admin optional mx-packageinstaller-pkglist_15.11.9mx15.dsc
+ 6397fdaa3d37d2c156518dcd2a5864f8 13908 admin optional mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
+ ecfed123a6d7fa36d08ee201325c998f 21982 admin optional mx-packageinstaller-pkglist_15.11.9mx15_all.deb
