@@ -1,5 +1,5 @@
 
-FLL_DESCRIPTION="Tor Browser (jessie-backports version"
+FLL_DESCRIPTION="Tor Browser (jessie-backports version)"
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
