@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Sun, 29 Nov 2015 14:25:54 -0500
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 15.11.9mx15
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphin@mx1>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (15.11.9mx15) mx; urgency=medium
+ .
+   * modified adobe reader bm file to allow plugin installation
+   * added ftp and docks sections
+   * added tor-browser to browser section
+Checksums-Sha1:
+ 83d9cf55e52671cb16b0a816fb2dcf7d589a1edf 737 mx-packageinstaller-pkglist_15.11.9mx15.dsc
+ a075cf642a68c91f62f9157b4323668de2953004 14004 mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
+ 80b44f0745b25d4e859fa2c816d9e7cf64970095 22104 mx-packageinstaller-pkglist_15.11.9mx15_all.deb
+Checksums-Sha256:
+ 63b683c55fa71fcf8b0f7144c524a8bb506d6e81275b1ac7c51b8373ddc5a5cc 737 mx-packageinstaller-pkglist_15.11.9mx15.dsc
+ 7ffe9873c26f8fe81f1b04e572e2cb29ad28ff1698eef871b558c64b81587ae1 14004 mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
+ f3adc9566cd1870040055b3f1f9e4b43f2b364bd9188a5b6d1b4ce7f09ec501c 22104 mx-packageinstaller-pkglist_15.11.9mx15_all.deb
+Files:
+ bb4f61a28f36aef72f0797485195223b 737 admin optional mx-packageinstaller-pkglist_15.11.9mx15.dsc
+ c98be6a4cb57d9ceed9ab1cd827a7a2a 14004 admin optional mx-packageinstaller-pkglist_15.11.9mx15.tar.xz
+ 9ac3751bed91467fe11c88cde8934fa7 22104 admin optional mx-packageinstaller-pkglist_15.11.9mx15_all.deb
