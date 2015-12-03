@@ -9,7 +9,7 @@ FLL_PRE_PROCESSING=(
         "dpkg -i skype-install.deb"
         "apt-get -f install -y"
 	"apt-get install pulseaudio pulseaudio-module-x11 gstreamer0.10-pulseaudio rtkit pavucontrol"
-	"rm -f skype-install.deb
+	"rm -f skype-install.deb"
         "echo \"Installation completed.\""  
         "echo \"---- preprocessing done----\""
 )
