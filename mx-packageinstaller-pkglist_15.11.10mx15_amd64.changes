@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Wed, 02 Dec 2015 20:30:49 -0500
+Date: Wed, 04 Dec 2015 20:21:49 -0500
 Source: mx-packageinstaller-pkglist
 Binary: mx-packageinstaller-pkglist
 Architecture: source all
@@ -15,15 +15,16 @@ Changes:
  .
    * updated spotify bms to install 32bit testing and 64 bit stable
    * fixed a minor bug in skype bm
+   * updated misc-wine and playonlinux bms to use wine-staging-compat
 Checksums-Sha1:
- c8aeaddec9c9f0e00857563b31ae2cbf6a02125f 741 mx-packageinstaller-pkglist_15.11.10mx15.dsc
- 1e0aa283be154fb4b41980e2a5c4916213d5b92a 14076 mx-packageinstaller-pkglist_15.11.10mx15.tar.xz
- a33e438ff83c85e59385fa23dd701701952ea3f7 22222 mx-packageinstaller-pkglist_15.11.10mx15_all.deb
+ 25a2a4caf6a2729fa11d44991fc3a52f6477b8f4 741 mx-packageinstaller-pkglist_15.11.10mx15.dsc
+ 5ad4208bd63c0f347018cbf5fc7b46e500ad9c31 87448 mx-packageinstaller-pkglist_15.11.10mx15.tar.xz
+ 3eaab6f549fe47ab94a3d138c5cdcb1903eba331 22274 mx-packageinstaller-pkglist_15.11.10mx15_all.deb
 Checksums-Sha256:
- 5984af3d15b70e9bac269ec2e419f7971af4eb616d3a351f89cf4080e5e58160 741 mx-packageinstaller-pkglist_15.11.10mx15.dsc
- 5d5e8ac91e161c2058e99924adbff0cfcd1e3ce740377c99854c313ce9d5645a 14076 mx-packageinstaller-pkglist_15.11.10mx15.tar.xz
- 9c77a6c4d3b23d38f3cb61409c0609818a021eda8c346985fcf7a913247f43c2 22222 mx-packageinstaller-pkglist_15.11.10mx15_all.deb
+ e892128e169779a07b997cd4e10786ba5b3a1b2a689dac8d118461af41efae52 741 mx-packageinstaller-pkglist_15.11.10mx15.dsc
+ 37657299618546cc2c25107723dd0cd559ce4829db15fa5a8cec436da6551050 87448 mx-packageinstaller-pkglist_15.11.10mx15.tar.xz
+ c84bdfa1b1fb23e881c19c2749112da1161acf21ad42e35d03aa1ad51df3a4f4 22274 mx-packageinstaller-pkglist_15.11.10mx15_all.deb
 Files:
- 3f3de403026c9b2d041b7ec363b2c4f8 741 admin optional mx-packageinstaller-pkglist_15.11.10mx15.dsc
- f92845ef184a21aaccc744c562ff1fd0 14076 admin optional mx-packageinstaller-pkglist_15.11.10mx15.tar.xz
- db22f1e3ce3b6986ffdcee019958be50 22222 admin optional mx-packageinstaller-pkglist_15.11.10mx15_all.deb
+ 57c5c9990c9c1902042603123e4f0f6b 741 admin optional mx-packageinstaller-pkglist_15.11.10mx15.dsc
+ 55add7513bc85e82f0e5d9697e9aa9b3 87448 admin optional mx-packageinstaller-pkglist_15.11.10mx15.tar.xz
+ 87e69b5b24da7796aede74da4501828d 22274 admin optional mx-packageinstaller-pkglist_15.11.10mx15_all.deb
