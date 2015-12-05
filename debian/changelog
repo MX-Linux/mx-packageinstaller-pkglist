@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (15.11.10mx15) mx; urgency=medium
+
+  * updated spotify bms to install 32bit testing and 64 bit stable
+  * fixed a minor bug in skype bm
+  * updated misc-wine and playonlinux bms to use wine-staging-compat
+
+ -- dolphin_oracle <dolphin@mx1>  Wed, 04 Dec 2015 20:21:49 -0500
+
 mx-packageinstaller-pkglist (15.11.9mx15) mx; urgency=medium
 
   * modified adobe reader bm file to allow plugin installation
