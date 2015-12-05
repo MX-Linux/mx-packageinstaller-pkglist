@@ -11,7 +11,8 @@ FLL_PACKAGE_DEPMODS=(
 
 FLL_PACKAGES=(
 
-	wine
+	wine-staging
+	wine-staging-compat
 	playonlinux
 )
 
