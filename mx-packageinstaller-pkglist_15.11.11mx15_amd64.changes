@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 04 Dec 2015 20:21:49 -0500
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 15.11.11mx15
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphin@mx1>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (15.11.11mx15) mx; urgency=medium
+ .
+   * updated misc-virtualbox to install extensions
+   * added Browser-Palemoon
+Checksums-Sha1:
+ b7234b1ef9b79580926e5f04edca4f9226de0aef 741 mx-packageinstaller-pkglist_15.11.11mx15.dsc
+ b812feadad623be764afde230325f79823f8647a 14288 mx-packageinstaller-pkglist_15.11.11mx15.tar.xz
+ 78143f61638a392a46ddf952e44603405e9ae8cd 22492 mx-packageinstaller-pkglist_15.11.11mx15_all.deb
+Checksums-Sha256:
+ 51fc529e0417296e671f9e8306714b6bbff01c820e2db4ae98aaba993ae8efa1 741 mx-packageinstaller-pkglist_15.11.11mx15.dsc
+ 192d8696ff98ed73018b88921534588dc050bea1a674624fd7d78eda9508e660 14288 mx-packageinstaller-pkglist_15.11.11mx15.tar.xz
+ 9ccd7fb9cbebd000431859d321c6d4bb3098a9f7faf8e5b2a9c697f456200645 22492 mx-packageinstaller-pkglist_15.11.11mx15_all.deb
+Files:
+ 02675bda128e4795434c01bf05b38b26 741 admin optional mx-packageinstaller-pkglist_15.11.11mx15.dsc
+ b25cf2d9840ee75ef41e98d2b4d832f7 14288 admin optional mx-packageinstaller-pkglist_15.11.11mx15.tar.xz
+ c12c0a734e46926cf8ce4fb23a8446e5 22492 admin optional mx-packageinstaller-pkglist_15.11.11mx15_all.deb

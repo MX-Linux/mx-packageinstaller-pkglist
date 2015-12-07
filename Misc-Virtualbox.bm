@@ -19,5 +19,9 @@ FLL_PACKAGES=(
 )
 
 FLL_POST_PROCESSING=(
-
+	"#!/bin/bash"
+	"echo \"---Downloading VirtualBox Extenstions---\""
+	"wget http://download.virtualbox.org/virtualbox/$(echo $(vboxmanage -v) | cut -d 'r' -f 1)/Oracle_VM_VirtualBox_Extension_Pack-$(echo $(vboxmanage -v) | cut -d 'r' -f 1)-$(echo $(vboxmanage -v) | cut -d 'r' -f 2).vbox-extpack"
+	"vboxmanage extpack install Oracle_VM_VirtualBox_Extension_Pack-$(echo $(vboxmanage -v) | cut -d 'r' -f 1)-$(echo $(vboxmanage -v) | cut -d 'r' -f 2).vbox-extpack --replace"
+	"rm -f Oracle_VM_VirtualBox_Extension_Pack-$(echo $(vboxmanage -v) | cut -d 'r' -f 1)-$(echo $(vboxmanage -v) | cut -d 'r' -f 2).vbox-extpack"
 )
