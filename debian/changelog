@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (15.11.11mx15) mx; urgency=medium
+
+  * added browser-palemoon
+  * modifed misc-virtualbox to enable automatic extenstions install
+  * added MediaConverter category, with arista, winff, and handbrake
+
+ -- dolphin_oracle <dolphin@mx1>  Wed, 09 Dec 2015 14:02:58 -0500
+
 mx-packageinstaller-pkglist (15.11.10mx15) mx; urgency=medium
 
   * updated spotify bms to install 32bit testing and 64 bit stable
