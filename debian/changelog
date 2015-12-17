@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (15.11.12mx15) mx; urgency=medium
+
+  * changed default kernel bm to match new default
+  * added libreoffice_5
+  * updated Browser-operat
+
+ -- dolphin_oracle <dolphin@mx1>  Wed, 17 Dec 2015 10:39:58 -0500
+
 mx-packageinstaller-pkglist (15.11.11mx15) mx; urgency=medium
 
   * added browser-palemoon
