@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 16 Dec 2015 23:47:58 -0500
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 15.11.12mx15
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphin@mx1>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (15.11.12mx15) mx; urgency=medium
+ .
+   * changed default kernel bm to match new default
+   * added libreoffice_5
+Checksums-Sha1:
+ e58f85bd4aeb86e6dd6211b717b4fa7b9449a03e 741 mx-packageinstaller-pkglist_15.11.12mx15.dsc
+ c87d10874645807da0ef7f6ad60db278a74fb27e 14824 mx-packageinstaller-pkglist_15.11.12mx15.tar.xz
+ 8932bd2ddc121ba02bb59f7794a33fbea47eaeee 23162 mx-packageinstaller-pkglist_15.11.12mx15_all.deb
+Checksums-Sha256:
+ 846d917ca31c17eaf46db1ac560d699af802c2424911cb1709588a51ca561454 741 mx-packageinstaller-pkglist_15.11.12mx15.dsc
+ e034b720c11bb9dbd57026815be882d645220c69f4a56c2062b1942ca15b24f0 14824 mx-packageinstaller-pkglist_15.11.12mx15.tar.xz
+ fd49e479db2ba6d6cd0c7dc5df07b8d19fad62fadb8b09147f098f0f35456787 23162 mx-packageinstaller-pkglist_15.11.12mx15_all.deb
+Files:
+ 53d13b70060ea1aef7dba471ff8916f9 741 admin optional mx-packageinstaller-pkglist_15.11.12mx15.dsc
+ 928f89518eb2914089a2f5ce15e0d336 14824 admin optional mx-packageinstaller-pkglist_15.11.12mx15.tar.xz
+ 2be447b2bd2a8eb4c14cc3b893cd1683 23162 admin optional mx-packageinstaller-pkglist_15.11.12mx15_all.deb
