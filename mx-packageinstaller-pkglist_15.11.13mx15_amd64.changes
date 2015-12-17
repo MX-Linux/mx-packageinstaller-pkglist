@@ -17,14 +17,14 @@ Changes:
    * mixed missing libreoffice bm file
    *
 Checksums-Sha1:
- 628983139836077a27172d88c4b3089813555992 741 mx-packageinstaller-pkglist_15.11.13mx15.dsc
- 2ec175711ff8312b629dc7d7cb7360508968f3cb 14856 mx-packageinstaller-pkglist_15.11.13mx15.tar.xz
- 74065fee88937fe9eab10783fff903aa4953f21d 23200 mx-packageinstaller-pkglist_15.11.13mx15_all.deb
+ 896d604254945ff014e93cd85f823d5d8bc741ad 741 mx-packageinstaller-pkglist_15.11.13mx15.dsc
+ edc7c59ae75b672d97f24831f228b38a51301950 14852 mx-packageinstaller-pkglist_15.11.13mx15.tar.xz
+ 99295cb39938461177607c92b144bd73e7ae32a2 23198 mx-packageinstaller-pkglist_15.11.13mx15_all.deb
 Checksums-Sha256:
- f906a6b0186faa2c90fada6b7717117661f4de85b7c5c4ccf01ec7f4b776545e 741 mx-packageinstaller-pkglist_15.11.13mx15.dsc
- 17750a430a82621f24362497c15af65db0297dc543bd13cf65843abb0ee1b333 14856 mx-packageinstaller-pkglist_15.11.13mx15.tar.xz
- fb81e60577a815cee93be85aaaf454506e2cf0faf1bffc6bf5e7a86029ba9304 23200 mx-packageinstaller-pkglist_15.11.13mx15_all.deb
+ 0c2dba8ac4bf2885ddfeb8395ff7409fcff1ec6d351f4f1142840d65eece6403 741 mx-packageinstaller-pkglist_15.11.13mx15.dsc
+ a4ba7f9bd75c64acf7edf9d0e3f2dac0bfa9b07a885cb752e58129531810a09b 14852 mx-packageinstaller-pkglist_15.11.13mx15.tar.xz
+ a7ce72b871ad828d515d78dfd9e6ec9d3f6b497e7a9ba5f78c8a3a87fceee563 23198 mx-packageinstaller-pkglist_15.11.13mx15_all.deb
 Files:
- 80e4d556e2e67fab3b99e540e69857bb 741 admin optional mx-packageinstaller-pkglist_15.11.13mx15.dsc
- c3a605db107473939a58c6c27436e329 14856 admin optional mx-packageinstaller-pkglist_15.11.13mx15.tar.xz
- bbdce5011d71b1d3cabc856f72fa966d 23200 admin optional mx-packageinstaller-pkglist_15.11.13mx15_all.deb
+ 33738c013ab016930de4cba8b78eba2d 741 admin optional mx-packageinstaller-pkglist_15.11.13mx15.dsc
+ ed2711ebedd6e6338dfa881ab39e5fcd 14852 admin optional mx-packageinstaller-pkglist_15.11.13mx15.tar.xz
+ f0c761799cbb7c4edf3c6c38acb197f0 23198 admin optional mx-packageinstaller-pkglist_15.11.13mx15_all.deb
