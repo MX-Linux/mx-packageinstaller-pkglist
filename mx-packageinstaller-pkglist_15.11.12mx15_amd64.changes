@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Wed, 16 Dec 2015 23:47:58 -0500
+Date: Wed, 17 Dec 2015 10:39:58 -0500
 Source: mx-packageinstaller-pkglist
 Binary: mx-packageinstaller-pkglist
 Architecture: source all
@@ -15,15 +15,16 @@ Changes:
  .
    * changed default kernel bm to match new default
    * added libreoffice_5
+   * updated Browser-operat
 Checksums-Sha1:
- 56f346929eb07a34d234288a49c013d57b483932 741 mx-packageinstaller-pkglist_15.11.12mx15.dsc
- 634c7b6ed338feee007b4611a95aab94c8db20fd 14784 mx-packageinstaller-pkglist_15.11.12mx15.tar.xz
- dfda44d7a49e4bec94b5073d3c6121abfc2ba513 23100 mx-packageinstaller-pkglist_15.11.12mx15_all.deb
+ 80c7e46ff023c8c9234c7b094f426a716055d854 741 mx-packageinstaller-pkglist_15.11.12mx15.dsc
+ 0ed9d38624230d7322e99290d4f1c4aecb1a6b5a 14600 mx-packageinstaller-pkglist_15.11.12mx15.tar.xz
+ eaaf1ba3877ba56f33db4faa65b058c948a96d02 22882 mx-packageinstaller-pkglist_15.11.12mx15_all.deb
 Checksums-Sha256:
- 928c2048b6fdf6cbd4f4d05197012eeb8e85b17ad31862f4a30ab2fdb9413272 741 mx-packageinstaller-pkglist_15.11.12mx15.dsc
- 927b400219eab262c92f7bc7d5291e65bdf04cc0b30a79cbf7529da03d42838d 14784 mx-packageinstaller-pkglist_15.11.12mx15.tar.xz
- 9016d4c6c68b4210305ba86ae68dae4494dcfca198bce25452a5fa12a69e9ee0 23100 mx-packageinstaller-pkglist_15.11.12mx15_all.deb
+ 363e6946e71b2f60128cb4e35b778ffb89b8b9460b1ce5dcfe312c1d0a1f2b9a 741 mx-packageinstaller-pkglist_15.11.12mx15.dsc
+ f94f18155c35cc6ecf5228f17c091ec42a4852474107807d422710988e16cffa 14600 mx-packageinstaller-pkglist_15.11.12mx15.tar.xz
+ 8e0295738658358ceca14d19236c0565f4a88dfcd89712caf2f36c9705bcf783 22882 mx-packageinstaller-pkglist_15.11.12mx15_all.deb
 Files:
- 96b6898d3b6ca1d18531d3d21a3e5c9b 741 admin optional mx-packageinstaller-pkglist_15.11.12mx15.dsc
- 8cf3c9cab4416d5548847effcc49c7fc 14784 admin optional mx-packageinstaller-pkglist_15.11.12mx15.tar.xz
- 15882db309ba25eadd2a2001e78f290c 23100 admin optional mx-packageinstaller-pkglist_15.11.12mx15_all.deb
+ d0b4a772ecf1ccfc9d9243269a6bdc44 741 admin optional mx-packageinstaller-pkglist_15.11.12mx15.dsc
+ 3497b7ea8fdd5724c1822a70c373e443 14600 admin optional mx-packageinstaller-pkglist_15.11.12mx15.tar.xz
+ fb98719c74883a13ee935f8ceb3ec39d 22882 admin optional mx-packageinstaller-pkglist_15.11.12mx15_all.deb
