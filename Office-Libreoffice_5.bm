@@ -1,5 +1,5 @@
 
-FLL_DESCRIPTION="Libreoffice 5 from jessie-backports"
+FLL_DESCRIPTION="Libreoffice 5 from jessie-backports (click again for updates)"
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
@@ -8,7 +8,7 @@ FLL_PRE_PROCESSING=(
 	"echo \"deb http://http.debian.net/debian jessie-backports main\">/etc/apt/sources.list.d/jessielibrebackport.list"
         "apt-get update"
 	"yad --form --title=Information --button=gtk-ok --text=\"Please install any required language packs before upgrading libreoffice\" --buttons-layout=center"
-	"apt-get install -t jessie-backports libreoffice"
+	"xfce4-terminal -x apt-get install -t jessie-backports libreoffice"
         "echo \"---- preprocessing done----\""
 )
 
