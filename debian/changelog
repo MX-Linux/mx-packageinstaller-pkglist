@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (15.12.1mx15) mx; urgency=medium
+
+  * 
+  * changed 64bit google earth file.
+  * modified libreoffice bm
+
+ -- dolphin_oracle <dolphin@mx1>  Sun, 20 Dec 2015 20:22:58 -0500
+
 mx-packageinstaller-pkglist (15.11.13mx15) mx; urgency=medium
 
   * 
