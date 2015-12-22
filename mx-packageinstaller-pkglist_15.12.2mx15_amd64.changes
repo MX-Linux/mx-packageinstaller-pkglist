@@ -17,14 +17,14 @@ Changes:
    * modified gnome-min bm to eliminate warning messages
    * modified steam to eliminate warning messages
 Checksums-Sha1:
- 5be80da3b87bbc0738e4d0f0b240303e69980519 737 mx-packageinstaller-pkglist_15.12.2mx15.dsc
- 0657cc27955ea5dfc365406ba3ffbb0420b2c408 15000 mx-packageinstaller-pkglist_15.12.2mx15.tar.xz
- 18d84b24c49f4c5aaff788a1a8041e78bf2f50ef 23338 mx-packageinstaller-pkglist_15.12.2mx15_all.deb
+ 0aa080d17b4593d51cd0e7e94d9aa009a39d194f 737 mx-packageinstaller-pkglist_15.12.2mx15.dsc
+ 43ad5bcd82c54a63fbfc4da94868e94a60777fa4 15000 mx-packageinstaller-pkglist_15.12.2mx15.tar.xz
+ f00c763c28a0724d7fec2cf45178f546db71689b 23324 mx-packageinstaller-pkglist_15.12.2mx15_all.deb
 Checksums-Sha256:
- d096bb3bbe419440b8e5759cfe6089ba8d6d1767c03d762d285bd7202f11c464 737 mx-packageinstaller-pkglist_15.12.2mx15.dsc
- 947e2e29fd4db49c2b8fbbc43732c6f5455919dc71b920f6da42de07c140dadf 15000 mx-packageinstaller-pkglist_15.12.2mx15.tar.xz
- d677f3870ace5b0f458a8c9ca3ae5b20583e36c89290aa8d9b8678c2ccff0ba3 23338 mx-packageinstaller-pkglist_15.12.2mx15_all.deb
+ b706bfd8e2d91e60ee9b308f849a59ad524ba1cf9c4e3745f89a309cb7b48d4e 737 mx-packageinstaller-pkglist_15.12.2mx15.dsc
+ 1e3fd1d0f3c0f9fe148005e811201cbb6808f3c34438c31bbf8e77b4c3eddd60 15000 mx-packageinstaller-pkglist_15.12.2mx15.tar.xz
+ fa1d148bed20a34221c50379cbdf297abe5cc2164359c3b875c83d1500977ef2 23324 mx-packageinstaller-pkglist_15.12.2mx15_all.deb
 Files:
- f881e8da9a62563f8d31ae59df25301c 737 admin optional mx-packageinstaller-pkglist_15.12.2mx15.dsc
- d22d4734d1178011f27daaffc9b642a4 15000 admin optional mx-packageinstaller-pkglist_15.12.2mx15.tar.xz
- 3e6178f769aa8159f8cbdfc814f72956 23338 admin optional mx-packageinstaller-pkglist_15.12.2mx15_all.deb
+ a5ff71fe993bc03cc25a2ddfbccf79be 737 admin optional mx-packageinstaller-pkglist_15.12.2mx15.dsc
+ 138099b8060cf225078778be5d27c2fb 15000 admin optional mx-packageinstaller-pkglist_15.12.2mx15.tar.xz
+ dcd68b06c001eb131c75dc8c821660b9 23324 admin optional mx-packageinstaller-pkglist_15.12.2mx15_all.deb
