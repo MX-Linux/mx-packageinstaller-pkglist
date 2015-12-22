@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (15.12.2mx15) mx; urgency=medium
+
+  * modified libreoffice bm to eliminate warning messages
+  * modified gnome-min bm to eliminate warning messages
+  * modified steam to eliminate warning messages
+
+ -- dolphin_oracle <dolphin@mx1>  Tues, 22 Dec 2015 15:17:58 -0500
+
 mx-packageinstaller-pkglist (15.12.1mx15) mx; urgency=medium
 
   * 
