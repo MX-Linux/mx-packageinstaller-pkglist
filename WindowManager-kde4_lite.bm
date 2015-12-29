@@ -12,5 +12,6 @@ FLL_PACKAGE_DEPMODS=(
 
 FLL_PACKAGES=(
 	kde-plasma-desktop
+	phonon4qt5
 )
 
