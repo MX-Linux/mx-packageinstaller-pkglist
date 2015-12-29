@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (15.12.3mx15) mx; urgency=medium
+
+  * revised opera bm file to reflect different 32 and 64 bit options
+  * fixed minor bug in steam bm file
+  * added phonon4qt5 to kde bm files
+
+ -- dolphin_oracle <dolphin@mx1>  Mon, 28 Dec 2015 22:38:53 -0500
+
 mx-packageinstaller-pkglist (15.12.2mx15) mx; urgency=medium
 
   * modified libreoffice bm to eliminate warning messages
