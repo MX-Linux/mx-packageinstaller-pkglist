@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 28 Dec 2015 22:38:53 -0500
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 15.12.3mx15
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphin@mx1>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (15.12.3mx15) mx; urgency=medium
+ .
+   * revised opera bm file to reflect different 32 and 64 bit options
+   * fixed minor bug in steam bm file
+   * added phonon4qt5 to kde bm files
+Checksums-Sha1:
+ 9911efd023f4be4e7e55cd0f7b1f103c75d31946 737 mx-packageinstaller-pkglist_15.12.3mx15.dsc
+ 4b3d8042338b470e9ec374312c2f01aa52dd9339 15184 mx-packageinstaller-pkglist_15.12.3mx15.tar.xz
+ dc7fb7a9199ddf1cc73631f498abedcebb12222b 23572 mx-packageinstaller-pkglist_15.12.3mx15_all.deb
+Checksums-Sha256:
+ 781e1ddac946265610e966b6efc24ee51d70bbb61323ecbab80c43f79701c68a 737 mx-packageinstaller-pkglist_15.12.3mx15.dsc
+ ef7a21a034e83d6003706d66e78f6d229a1d0b3b78d6307f25c2b9c9b3acda96 15184 mx-packageinstaller-pkglist_15.12.3mx15.tar.xz
+ 02815803eb1ff46222a39e52f5fac9b6f37dae84e724feb339a253aceb7bc246 23572 mx-packageinstaller-pkglist_15.12.3mx15_all.deb
+Files:
+ d54720dd05fbee40175313c145147b49 737 admin optional mx-packageinstaller-pkglist_15.12.3mx15.dsc
+ 6137fb428b7f1b67f9f86597cd19e56b 15184 admin optional mx-packageinstaller-pkglist_15.12.3mx15.tar.xz
+ 5be4e93f3cdfa7a1c86109ea73dd7359 23572 admin optional mx-packageinstaller-pkglist_15.12.3mx15_all.deb

@@ -14,5 +14,6 @@ FLL_PACKAGES=(
 	kde-standard
         #kdm
         virtuoso-minimal
+	phonon4qt5
 )
 
