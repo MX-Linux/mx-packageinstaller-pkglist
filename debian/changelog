@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (15.12.4mx15) mx; urgency=medium
+
+  * updated libreoffice-5 bm file to bring in help documents
+  * updated virtual box to add all users in "users" group to "vboxusers" 
+
+ -- dolphin_oracle <dolphin@mx1>  Fri, 01 Jan 2016 21:21:48 -0500
+
 mx-packageinstaller-pkglist (15.12.3mx15) mx; urgency=medium
 
   * revised opera bm file to reflect different 32 and 64 bit options
