@@ -8,7 +8,7 @@ FLL_PRE_PROCESSING=(
 	"echo \"deb http://http.debian.net/debian jessie-backports main\">/etc/apt/sources.list.d/jessielibrebackport.list"
         "apt-get update"
 	"yad --form --title=Information --button=gtk-ok --text=\"Please install any required language packs before upgrading libreoffice\" --buttons-layout=center"
-	"xfce4-terminal -e \"apt-get install libreoffice $(dpkg-query -l libreoffice-help* | grep ii | cut -d ' ' -f 3) -t jessie-backports\" 2>/dev/null"
+	"xfce4-terminal -e \"apt-get install libreoffice $(dpkg-query -l libreoffice* | grep ii | cut -d ' ' -f 3) -t jessie-backports\" 2>/dev/null"
 	"echo \"---- preprocessing done----\""
 )
 
