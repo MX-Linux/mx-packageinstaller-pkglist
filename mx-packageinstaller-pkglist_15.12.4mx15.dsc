@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 7.0.50~)
 Package-List:
  mx-packageinstaller-pkglist deb admin optional arch=all
 Checksums-Sha1:
- 2ca2b48e2f21afc7d73fb4d57f9891ceda091e81 15336 mx-packageinstaller-pkglist_15.12.4mx15.tar.xz
+ bacb553cc6df11e293d34f034ac5ca4630785d9f 15336 mx-packageinstaller-pkglist_15.12.4mx15.tar.xz
 Checksums-Sha256:
- ccc415aaa4f15519970c53786ce8b05606bdf40e37ac984d8ec138faf269c6ee 15336 mx-packageinstaller-pkglist_15.12.4mx15.tar.xz
+ f37774742f27f2ddb4ccaf57726332f0a7fd58b394546a9bf0f09de8fba5f070 15336 mx-packageinstaller-pkglist_15.12.4mx15.tar.xz
 Files:
- de8755ad5148f54d125b2b428f208375 15336 mx-packageinstaller-pkglist_15.12.4mx15.tar.xz
+ 00414a87760f5c39f8c60f605a08ae94 15336 mx-packageinstaller-pkglist_15.12.4mx15.tar.xz
