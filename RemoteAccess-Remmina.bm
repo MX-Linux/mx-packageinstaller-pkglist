@@ -1,4 +1,4 @@
-FLL_DESCRIPTION="Remmina - a remote desktop client."
+FLL_DESCRIPTION="Remmina - a remote desktop client supporting vnc & rdp."
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
