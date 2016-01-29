@@ -1,4 +1,4 @@
-FLL_DESCRIPTION="1-to-1 Assistance - Remote access help app from antiX"
+FLL_DESCRIPTION="VNC server for X window environments"
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"

@@ -3,14 +3,6 @@ FLL_DESCRIPTION="Google Earth"
 FLL_PRE_PROCESSING=(
    "#!/bin/bash"
         "echo \"---- in preprocessing ----\""
-        "apt-get install googleearth-package"
-        "echo \"Installing Google Earth\"" 
-        "make-googleearth-package --force"
-	"dpkg -i googleearth_6.0.3.2197+1.2.0-1_amd64.deb"
-        "apt-get -f install -y"
-        "echo \"Installation completed.\"" 
-	"rm googleearth*.deb"
-	"rm GoogleEarthLinux.bin"
         "echo \"---- preprocessing done----\""
 )
 
@@ -18,5 +10,16 @@ FLL_PACKAGE_DEPMODS=(
 )
 
 FLL_PACKAGES=(
-	googleearth
+	googleearth-package
 ) 
+
+FLL_POST_PROCESSING=(
+	"echo \"Installing Google Earth\"" 
+        "make-googleearth-package --force"
+	"dpkg -i googleearth_6.0.3.2197+1.2.0-1_amd64.deb"
+        "apt-get -f install -y"
+        "echo \"Installation completed.\"" 
+	"rm googleearth*.deb"
+	"rm GoogleEarthLinux.bin"
+        "echo \"---- done installing----\""
+)
