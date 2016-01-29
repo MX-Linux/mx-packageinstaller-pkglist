@@ -1,5 +1,5 @@
 
-FLL_DESCRIPTION="SuperTuxKart (Mario kart style racing)"
+FLL_DESCRIPTION="SuperTuxKart (Mario kart style racing, run again for updates)"
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
@@ -7,7 +7,7 @@ FLL_PRE_PROCESSING=(
         "echo \"Adding Jessie-Backports repository to /etc/apt/sources.list.d/debian.list\""
 	"echo \"deb http://http.debian.net/debian jessie-backports main\">/etc/apt/sources.list.d/jessiebackport.list"
         "apt-get update"
-	"apt-get install -y -t jessie-backports supertuxkart supertuxkart-data"
+	"xfce4-terminal -e \"apt-get install -t jessie-backports supertuxkart supertuxkart-data\" 2>/dev/null"
         "echo \"---- preprocessing done----\""
 )
 
@@ -15,7 +15,7 @@ FLL_PACKAGE_DEPMODS=(
 )
 
 FLL_PACKAGES=(
-	supertuxkart	
+	
 )
 FLL_POST_PROCESSING=(
        "#!/bin/bash"
