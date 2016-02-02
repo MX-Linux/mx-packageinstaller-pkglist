@@ -22,6 +22,7 @@ FLL_POST_PROCESSING=(
        "echo \"---- in postprocessing ----\""
        "echo \"Removing jessie-backports repository from /etc/apt/sources.list.d/jessiebackport.list\""
        "rm -f /etc/apt/sources.list.d/jessiebackport.list"
-       "echo \"---- postprocessing done----\""
+       "apt-get update"
+	"echo \"---- postprocessing done----\""
 
 )

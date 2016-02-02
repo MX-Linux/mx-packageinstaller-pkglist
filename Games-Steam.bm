@@ -3,7 +3,7 @@ FLL_DESCRIPTION="Steam"
 FLL_PRE_PROCESSING=(
    "#!/bin/bash"
    "echo \"---- in preprocessing ----\""
-   "xfce4-terminal -x apt-get -y install steam 2>/dev/null"
+   "xfce4-terminal -x apt-get install steam 2>/dev/null"
    "apt-get install -f"
    "echo \"---- preprocessing done----\""
 )
