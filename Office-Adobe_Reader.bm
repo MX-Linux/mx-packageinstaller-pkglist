@@ -26,6 +26,7 @@ FLL_POST_PROCESSING=(
        "echo \"---- in postprocessing ----\""
        "echo \"Removing deb-multimedia repository from /etc/apt/sources.list.d/debmulti.list\""
        "rm -f /etc/apt/sources.list.d/debmulti.list"
+	"apt-get update"
        "echo \"---- postprocessing done----\""
 
 )

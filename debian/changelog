@@ -1,3 +1,12 @@
+mx-packageinstaller-pkglist (16.2.1mx15) mx; urgency=medium
+
+  * fixes to bm files that use mxtest or deb-multimedia
+  * fixes to bm files to correct hack made to make apps shown as installed
+  * simplify googleearth 64 bit bm file
+  * added mediacenter with plex and kodi
+
+ -- dolphin_oracle <dolphin@mx1>  Mon, 1 Feb 2016 19:22:24 -0500
+
 mx-packageinstaller-pkglist (16.1.1mx15) mx; urgency=medium
 
   * added RemoteAccess area.
