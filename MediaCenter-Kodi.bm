@@ -1,9 +1,8 @@
-FLL_DESCRIPTION="VNC server for X window environments"
+FLL_DESCRIPTION="Kodi Media Center (formerly XBMC)"
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
 	"echo \"---- in preprocessing ----\""
-	"# paste your code here (not necessary for normal install, only for preconfigs)"
 	"echo \"---- preprocessing done----\""
 )
 
@@ -11,8 +10,10 @@ FLL_PACKAGE_DEPMODS=(
 )
 
 FLL_PACKAGES=(
-	
-       x11vnc
+	kodi
 
 )
 
+FLL_POST_PROCESSING=(
+       
+)

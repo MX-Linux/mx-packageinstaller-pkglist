@@ -4,7 +4,6 @@ FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
 	"echo \"---- in preprocessing ----\""
 	"# paste your code here (not necessary for normal install, only for preconfigs)"
-	"apt-get install -y libgnomevfs2-extra"
 	"echo \"---- preprocessing done----\""
 )
 
@@ -21,6 +20,7 @@ FLL_PACKAGES=(
    	pstoedit
     	python-lxml
     	python-numpy
-    	transfig     	
+    	transfig
+	libgnomevfs2-extra     	
 )
 

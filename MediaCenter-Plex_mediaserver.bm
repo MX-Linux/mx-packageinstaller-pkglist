@@ -1,0 +1,30 @@
+FLL_DESCRIPTION="Plex Mediaserver (includes web client)"
+
+FLL_PRE_PROCESSING=(
+	"#!/bin/bash"
+	"echo \"---- in preprocessing ----\""
+	"echo \"Adding Plex repository GPG key\""
+	"curl http://shell.ninthgate.se/packages/shell-ninthgate-se-keyring.key |apt-key add -"
+	"echo \"Adding Plex repository to /etc/apt/sources.list.d/plex.list\""
+	"echo \"deb http://shell.ninthgate.se/packages/debian wheezy main\">/etc/apt/sources.list.d/plex.list"
+	"apt-get update"
+	"echo \"---- preprocessing done----\""
+)
+
+FLL_PACKAGE_DEPMODS=(
+)
+
+FLL_PACKAGES=(
+	plexmediaserver
+
+)
+
+FLL_POST_PROCESSING=(
+       "#!/bin/bash"
+       "echo \"---- in postprocessing ----\""
+       "echo \"Removing Plex repository from /etc/apt/sources.list.d/plex.list\""
+       "rm -f /etc/apt/sources.list.d/plex.list"
+	"apt-get update"
+       "echo \"---- postprocessing done----\""
+
+)
