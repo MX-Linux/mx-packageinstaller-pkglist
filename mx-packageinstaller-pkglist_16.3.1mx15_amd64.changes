@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 03 Mar 2016 18:17:37 -0500
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 16.3.1mx15
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphin@mx1>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (16.3.1mx15) mx; urgency=medium
+ .
+   * changed google-chrome browser to 64 bit only
+Checksums-Sha1:
+ 2af91f8058ec4e878b22915d8176a20c5f50da29 733 mx-packageinstaller-pkglist_16.3.1mx15.dsc
+ acc438643628b3c27e3262396e0720bd9c666c55 15888 mx-packageinstaller-pkglist_16.3.1mx15.tar.xz
+ 59860da1a76c712881c54141e668b4267c94dc07 24498 mx-packageinstaller-pkglist_16.3.1mx15_all.deb
+Checksums-Sha256:
+ e1960aa552aee614daaca07054b4f2d8d151be963d7545fdd0186ad06440aad0 733 mx-packageinstaller-pkglist_16.3.1mx15.dsc
+ 9eb457df457e0ff1893b42ab11eec4cd579424a7c88e0f679b7b77c6cafdf80e 15888 mx-packageinstaller-pkglist_16.3.1mx15.tar.xz
+ 9bd039ecce2d4c9a351b239d344ae0b114c66c00f23db776a0dd936dc431fbec 24498 mx-packageinstaller-pkglist_16.3.1mx15_all.deb
+Files:
+ c8fb09b7929e4fb4224e5724b4398d9d 733 admin optional mx-packageinstaller-pkglist_16.3.1mx15.dsc
+ a96766ce40b302f21ba4c80c4c8cde0e 15888 admin optional mx-packageinstaller-pkglist_16.3.1mx15.tar.xz
+ d7edf7f7a4245b35268b947a0ff9ebf6 24498 admin optional mx-packageinstaller-pkglist_16.3.1mx15_all.deb
