@@ -1,3 +1,16 @@
+mx-packageinstaller-pkglist (16.3.2mx15) UNRELEASED; urgency=medium
+
+  * changed iceweasel to iceweasel-esr, removed mozilla-backports
+  * modified firefox description to simply "latest"
+
+ -- dolphin_oracle <dolphin@mx1>  Sun, 12 Mar 2016 21:01:37 -0500
+
+mx-packageinstaller-pkglist (16.3.1mx15) UNRELEASED; urgency=medium
+
+  * changed google-chrome browser to 64 bit only
+
+ -- dolphin_oracle <dolphin@mx1>  Thu, 03 Mar 2016 18:17:37 -0500
+
 mx-packageinstaller-pkglist (16.2.1mx15) mx; urgency=medium
 
   * fixes to bm files that use mxtest or deb-multimedia
