@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sun, 12 Mar 2016 21:01:37 -0500
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 16.3.2mx15
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphin@mx1>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (16.3.2mx15) UNRELEASED; urgency=medium
+ .
+   * changed iceweasel to iceweasel-esr, removed mozilla-backports
+   * modified firefox description to simply "latest"
+Checksums-Sha1:
+ 9cae1930bfbfcb3ac14f5632dbfbe1cbd381df38 733 mx-packageinstaller-pkglist_16.3.2mx15.dsc
+ 81a619ddfab186752b659674bb230cc9b0af1d5a 15952 mx-packageinstaller-pkglist_16.3.2mx15.tar.xz
+ 2ae793517f085f972f351648adb16937bd3ea6f6 24590 mx-packageinstaller-pkglist_16.3.2mx15_all.deb
+Checksums-Sha256:
+ afea4f4b554f9bc4c88f01e0cfa4d603ec82e6331e92f5b671ae869e0763fd84 733 mx-packageinstaller-pkglist_16.3.2mx15.dsc
+ 1e7a18dbd9c4e910853bac3097916452755479b9b1eaacb1a7ec0c37ac6b8a63 15952 mx-packageinstaller-pkglist_16.3.2mx15.tar.xz
+ 0b3cfeca266453aa2ad640d26274ced0d32dd6a4138a3121ae9c9bdd5df5705e 24590 mx-packageinstaller-pkglist_16.3.2mx15_all.deb
+Files:
+ 42cdaf1063addc5410a3f8fbc43753d4 733 admin optional mx-packageinstaller-pkglist_16.3.2mx15.dsc
+ 2c88edcd4e2934437e8f9410339fdc4c 15952 admin optional mx-packageinstaller-pkglist_16.3.2mx15.tar.xz
+ 75452afe8b67921e332ad69f2bcbff14 24590 admin optional mx-packageinstaller-pkglist_16.3.2mx15_all.deb

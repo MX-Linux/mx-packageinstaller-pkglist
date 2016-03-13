@@ -1,4 +1,4 @@
-FLL_DESCRIPTION="Latest Firefox from MEPIS Community."
+FLL_DESCRIPTION="Latest Firefox"
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
