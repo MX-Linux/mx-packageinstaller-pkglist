@@ -1,0 +1,17 @@
+FLL_DESCRIPTION="Arista - a python based simple multimedia transcoder"
+
+FLL_PRE_PROCESSING=(
+	"#!/bin/bash"
+	"# paste your code here (not necessary for normal install, only for preconfigs)"
+        "echo \"---- preprocessing done----\""
+)
+
+FLL_PACKAGE_DEPMODS=(
+)
+
+FLL_PACKAGES=(
+     
+     arista
+
+)
+
