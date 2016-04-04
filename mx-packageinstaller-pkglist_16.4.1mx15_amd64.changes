@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 04 Apr 2016 18:50:21 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 16.4.1mx15
+Distribution: mx
+Urgency: low
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphinoracle@gmail.com>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (16.4.1mx15) mx; urgency=low
+ .
+   * added slimjet browser
+Checksums-Sha1:
+ ba0cc0e765c2d0ffba326930bdef0f956f45d14e 736 mx-packageinstaller-pkglist_16.4.1mx15.dsc
+ baf7a7fb5732899c61aeb7e00ac147042375723c 617560 mx-packageinstaller-pkglist_16.4.1mx15.tar.xz
+ d7c1bdf0ee8cc6b696ae3b6aba67125a2e4957b5 24792 mx-packageinstaller-pkglist_16.4.1mx15_all.deb
+Checksums-Sha256:
+ d583239aa6038506a6d56b1bd3ee9e277c46c3cd7d0dce133990e0cef2ac6395 736 mx-packageinstaller-pkglist_16.4.1mx15.dsc
+ eb2b53c5569b46fe42ded8929844541b4243cef49a0665e10cddcc9026cef56d 617560 mx-packageinstaller-pkglist_16.4.1mx15.tar.xz
+ 4e8992b2fc2b3ed28dd2ca20e7fe85f5100aa568305da1e459e01d829cc91878 24792 mx-packageinstaller-pkglist_16.4.1mx15_all.deb
+Files:
+ 39d11d72e9e44391a4b0162b4ae94e0f 736 admin optional mx-packageinstaller-pkglist_16.4.1mx15.dsc
+ 85de8dd3708ecd2f4e5600d6fb7006c6 617560 admin optional mx-packageinstaller-pkglist_16.4.1mx15.tar.xz
+ 6f92e474212c7bc4f4b090a98b574c46 24792 admin optional mx-packageinstaller-pkglist_16.4.1mx15_all.deb

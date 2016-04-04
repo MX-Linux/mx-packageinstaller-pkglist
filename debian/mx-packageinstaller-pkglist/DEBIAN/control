@@ -1,0 +1,10 @@
+Package: mx-packageinstaller-pkglist
+Version: 16.4.1mx15
+Architecture: all
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Installed-Size: 148
+Section: admin
+Priority: optional
+Description: Part of MX program for installing additional packages.
+ MX-packageinstaller is a program used for installing additional packages.
+ MX-packageinstaller-pkglist contains the list of packages and installation instructions.

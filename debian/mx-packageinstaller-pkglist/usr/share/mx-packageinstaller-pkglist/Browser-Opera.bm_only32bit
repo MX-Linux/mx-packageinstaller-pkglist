@@ -1,0 +1,23 @@
+FLL_DESCRIPTION="Opera browser (32 bit is beta-only)"
+
+FLL_PRE_PROCESSING=(
+	"#!/bin/bash"
+	"echo \"---- in preprocessing ----\""
+        "echo \"Adding Opera repository to /etc/apt/sources.list.d/various.list\""
+	"sed -i -r '/opera.com/ s/^#+//' /etc/apt/sources.list.d/various.list"
+        "wget -O - http://deb.opera.com/archive.key | apt-key add -" 
+        "apt-get update"
+        "echo \"---- preprocessing done----\""
+)
+
+FLL_PACKAGE_DEPMODS=(
+)
+
+FLL_PACKAGES=(
+     opera-beta
+
+)
+
+FLL_POST_PROCESSING=(
+        "if [ -f /etc/apt/sources.list.d/opera-stable.list ]; then sed -i -r '/opera.com/ s/^([^#])/#\1/' /etc/apt/sources.list.d/various.list; apt-get update; fi"
+)

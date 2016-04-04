@@ -1,0 +1,18 @@
+FLL_DESCRIPTION="Handbrake - versatile DVD ripper and video transcoder (cli & GUI)"
+
+FLL_PRE_PROCESSING=(
+	"#!/bin/bash"
+	"# paste your code here (not necessary for normal install, only for preconfigs)"
+        "echo \"---- preprocessing done----\""
+)
+
+FLL_PACKAGE_DEPMODS=(
+)
+
+FLL_PACKAGES=(
+     
+     handbrake
+     handbrake-cli 
+
+)
+

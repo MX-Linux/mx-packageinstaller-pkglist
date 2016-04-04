@@ -1,0 +1,20 @@
+FLL_DESCRIPTION="Default Kernel 64 bit"
+
+FLL_PRE_PROCESSING=(
+	"#!/bin/bash"
+	"echo \"---- preprocessing done----\""
+)
+
+FLL_PACKAGE_DEPMODS=(
+)
+
+FLL_PACKAGES=(
+	
+	linux-image-4.2.0-0.bpo.1-amd64
+	linux-headers-4.2.0-0.bpo.1-amd64
+	
+)
+
+FLL_POST_PROCESSING=(
+   
+)
