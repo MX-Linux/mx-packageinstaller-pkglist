@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Mon, 16 May 2016 21:40:15 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 16.5.1mx15
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphinoracle@gmail.com>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (16.5.1mx15) mx; urgency=medium
+ .
+   * added utility category
+   * added Pinta to Graphics
+Checksums-Sha1:
+ 036bb6f3a06cd77d995434c4df11fb6cb20c5c29 739 mx-packageinstaller-pkglist_16.5.1mx15.dsc
+ d9cf7be88918752fb8308c306f58f1084279cb78 1904192 mx-packageinstaller-pkglist_16.5.1mx15.tar.xz
+ d49a7cf53abb0ba3c6d7254bce958b1866cef252 25682 mx-packageinstaller-pkglist_16.5.1mx15_all.deb
+Checksums-Sha256:
+ bc8297cf9443a062b088ee908207158a6201c2c6c9db069b7024046723d19b74 739 mx-packageinstaller-pkglist_16.5.1mx15.dsc
+ d1a0f95a27643c0471c9d30cd5fd2f211739b300fe501f5a8d252fb0c1620ac5 1904192 mx-packageinstaller-pkglist_16.5.1mx15.tar.xz
+ 4d0155899bc30d50eec93ff9ea43025d811126f438be56fb74fd55eb203349b1 25682 mx-packageinstaller-pkglist_16.5.1mx15_all.deb
+Files:
+ fc9f51e99119d9ccafe8901b008754a4 739 admin optional mx-packageinstaller-pkglist_16.5.1mx15.dsc
+ da773364458d9dda30f1ab7f5fa770c6 1904192 admin optional mx-packageinstaller-pkglist_16.5.1mx15.tar.xz
+ a0473e2c14926a704371060f9592fc7f 25682 admin optional mx-packageinstaller-pkglist_16.5.1mx15_all.deb
