@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (16.5.1mx15) mx; urgency=medium
+
+  * added utility category
+  * added Pinta to Graphics
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Mon, 16 May 2016 21:40:15 -0400
+
 mx-packageinstaller-pkglist (16.4.1mx15) mx; urgency=low
 
   * added slimjet browser
