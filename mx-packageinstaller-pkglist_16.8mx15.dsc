@@ -2,7 +2,7 @@ Format: 3.0 (native)
 Source: mx-packageinstaller-pkglist
 Binary: mx-packageinstaller-pkglist
 Architecture: all
-Version: 16.5.1mx15
+Version: 16.8mx15
 Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
 Standards-Version: 3.9.5
 Vcs-Git: git://github.com/MX-Linux/mx-packageinstaller-pkglist
@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 7.0.50~)
 Package-List:
  mx-packageinstaller-pkglist deb admin optional arch=all
 Checksums-Sha1:
- f66c9b7f3a762d320a83a43c88744954cfcdcbf0 16504 mx-packageinstaller-pkglist_16.5.1mx15.tar.xz
+ 9d3dbd48c7627c1abd91f54ced90375b044c3f3a 60096 mx-packageinstaller-pkglist_16.8mx15.tar.xz
 Checksums-Sha256:
- e0c6309d0d1fbde509c3e1a4238f66981f352930d4b52bdc0e37a2faafbf4557 16504 mx-packageinstaller-pkglist_16.5.1mx15.tar.xz
+ fbb5e8a51bc2fa86e406517a63a656a4b852ea331c84f98bc0994c2d4e8813e8 60096 mx-packageinstaller-pkglist_16.8mx15.tar.xz
 Files:
- 9f17bcd46f1b9f3017a2c9916e07640e 16504 mx-packageinstaller-pkglist_16.5.1mx15.tar.xz
+ 4b8c084ed4d9c6f00e967a73b18beb9a 60096 mx-packageinstaller-pkglist_16.8mx15.tar.xz
