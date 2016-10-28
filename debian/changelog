@@ -1,3 +1,15 @@
+mx-packageinstaller-pkglist (16.10mx16) mx; urgency=medium
+
+  * removed entries for major bugged alternate kernel
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sat, 22 Oct 2016 12:32:15 -0400
+
+mx-packageinstaller-pkglist (16.8mx15) mx; urgency=medium
+
+  * added obs-studio
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Mon, 22 Aug 2016 22:05:15 -0400
+
 mx-packageinstaller-pkglist (16.5.1mx15) mx; urgency=medium
 
   * added utility category
