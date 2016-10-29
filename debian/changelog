@@ -1,3 +1,16 @@
+mx-packageinstaller-pkglist (16.10mx16+2) mx; urgency=medium
+
+  * removed libreoffice 5, utilities entries that are now included
+  * by default in mx16
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sat, 29 Oct 2016 17:23:15 -0400
+
+mx-packageinstaller-pkglist (16.10mx16+1) mx; urgency=medium
+
+  * revised kernel entries
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Fri, 28 Oct 2016 21:03:15 -0400
+
 mx-packageinstaller-pkglist (16.10mx16) mx; urgency=medium
 
   * removed entries for major bugged alternate kernel
