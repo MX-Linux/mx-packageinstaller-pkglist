@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (16.10mx16+3) mx; urgency=medium
+
+  * fixed plex, java 8 entries
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sun, 30 Oct 2016 08:55:15 -0400
+
 mx-packageinstaller-pkglist (16.10mx16+2) mx; urgency=medium
 
   * removed libreoffice 5, utilities entries that are now included

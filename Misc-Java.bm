@@ -1,4 +1,4 @@
-FLL_DESCRIPTION="Java - installs openjdk-7 and icedtea."
+FLL_DESCRIPTION="Java 8- installs openjdk-8 and icedtea."
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
@@ -12,10 +12,9 @@ FLL_PACKAGE_DEPMODS=(
 
 FLL_PACKAGES=(
   
-      openjdk-7-jre
-      openjdk-7-jre-headless
-      openjdk-7-jre-lib
-      icedtea-7-plugin 
+      openjdk-8-jre
+      openjdk-8-jre-headless
+      icedtea-8-plugin 
        
 )
 
