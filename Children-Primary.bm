@@ -24,5 +24,4 @@ FLL_PACKAGES=(
         tuxtype
 	marble-qt
 	marble-plugins
-	phonon-backend-vlc
 )
