@@ -1,3 +1,15 @@
+mx-packageinstaller-pkglist (16.11mx16) mx; urgency=medium
+
+  * mx16
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Thu, 10 Nov 2016 12:20:15 -0400
+
+mx-packageinstaller-pkglist (16.10mx16+4) mx; urgency=medium
+
+  * migration
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Thu, 10 Nov 2016 12:15:15 -0400
+
 mx-packageinstaller-pkglist (16.10mx16+3) mx; urgency=medium
 
   * fixed plex, java 8 entries, primary
