@@ -1,0 +1,29 @@
+
+FLL_DESCRIPTION="Migrate MX15 to MX16"
+
+FLL_PRE_PROCESSING=(
+	"#!/bin/bash"
+	"echo \"---- in preprocessing ----\""
+        "echo \"Adding MX16 repository to /etc/apt/sources.list.d/mx.list\""
+	"echo \"#MX16 repo\">>/etc/apt/sources.list.d/mx.list"
+	"echo $(grep "mx15 main non-free" /etc/apt/sources.list.d/mx.list|sed s/mx15/mx16/)>>/etc/apt/sources.list.d/mx.list"
+        "x-terminal-emulator -e \"apt-get update\" 2>/dev/null"
+	"x-terminal-emulator -e \"apt-get remove -y mx-event-sounds desktop-defaults-xfce-mx\" 2>/dev/null"
+	"x-terminal-emulator -e \"apt-get install -y desktop-defaults-xfce-mx16\" 2>/dev/null"
+	"x-terminal-emulator -e \"apt-get install apt-xapian-index mx16-artwork mx16-artwork-extras icedtea-8-plugin lightdm-gtk-greeter-mx16 mx-apps\" 2>/dev/null"
+	"x-terminal-emulator -e \"apt-get dist-upgrade\" 2>/dev/null"
+        "echo \"---- preprocessing done----\""
+)
+
+FLL_PACKAGE_DEPMODS=(
+)
+
+FLL_PACKAGES=(
+	
+)
+FLL_POST_PROCESSING=(
+       "#!/bin/bash"
+       "echo \"---- in postprocessing ----\""
+       "echo \"---- postprocessing done----\""
+
+)

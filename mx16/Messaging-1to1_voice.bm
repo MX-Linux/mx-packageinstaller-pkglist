@@ -1,0 +1,19 @@
+FLL_DESCRIPTION="1-to-1 Voice -voice chat between two pc's via encrypted mumble"
+
+FLL_PRE_PROCESSING=(
+	"#!/bin/bash"
+        "echo \"---- in preprocessing ----\""
+	"# paste your code here (not necessary for normal install, only for preconfigs)"
+        "echo \"---- preprocessing done----\""
+)
+
+FLL_PACKAGE_DEPMODS=(
+)
+
+FLL_PACKAGES=(
+  
+      1-to-1-voice-antix
+      
+    
+)
+
