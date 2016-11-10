@@ -6,7 +6,7 @@ FLL_PRE_PROCESSING=(
 	"echo \"---- in preprocessing ----\""
         "echo \"Adding MX16 repository to /etc/apt/sources.list.d/mx.list\""
 	"echo \"#MX16 repo\">>/etc/apt/sources.list.d/mx.list"
-	"echo $(grep "mx15 main non-free" /etc/apt/sources.list.d/mx.list|sed s/mx15/mx16/)>>/etc/apt/sources.list.d/mx.list"
+	"echo $(grep /repo/ /etc/apt/sources.list.d/mx.list|grep mx15 |sed s/mx15/mx16/)>>/etc/apt/sources.list.d/mx.list"
         "x-terminal-emulator -e \"apt-get update\" 2>/dev/null"
 	"x-terminal-emulator -e \"apt-get remove -y mx-event-sounds desktop-defaults-xfce-mx\" 2>/dev/null"
 	"x-terminal-emulator -e \"apt-get install -y desktop-defaults-xfce-mx16\" 2>/dev/null"
