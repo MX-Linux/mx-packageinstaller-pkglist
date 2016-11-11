@@ -16,6 +16,7 @@ FLL_PACKAGES=(
 FLL_POST_PROCESSING=(
        "#!/bin/bash"
        "echo \"---- in postprocessing ----\""
-       "echo \"---- postprocessing done----\""
+       "rm -f /etc/apt/sources.list.d/mx16temp.list"
+	"echo \"---- postprocessing done----\""
 
 )
