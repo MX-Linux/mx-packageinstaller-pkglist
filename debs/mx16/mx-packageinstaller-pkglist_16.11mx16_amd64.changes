@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Thu, 10 Nov 2016 11:45:15 -0400
+Date: Thu, 10 Nov 2016 12:20:15 -0400
 Source: mx-packageinstaller-pkglist
 Binary: mx-packageinstaller-pkglist
 Architecture: source all
@@ -15,14 +15,14 @@ Changes:
  .
    * mx16
 Checksums-Sha1:
- 86de0264ee2656adf2762f74f916d719fc08434a 729 mx-packageinstaller-pkglist_16.11mx16.dsc
- 606cb79dd54b3a7cebf4f01859506f4339a3f0af 59208 mx-packageinstaller-pkglist_16.11mx16.tar.xz
- a65455f7249d19402cc205fa7b4a56e272af8233 25280 mx-packageinstaller-pkglist_16.11mx16_all.deb
+ 1ad9382bc045347009d36323a45b6fab9b29a50e 729 mx-packageinstaller-pkglist_16.11mx16.dsc
+ 054880e4f904f25d5ca123d6c7b0bcf7ce8232b0 16544 mx-packageinstaller-pkglist_16.11mx16.tar.xz
+ 284dc4b2fd61cf50bd205786e9d81a6b90907955 25466 mx-packageinstaller-pkglist_16.11mx16_all.deb
 Checksums-Sha256:
- aae61c6ecaf7aab4af28a1e54a33e10c902cfb0f8e4bdad656240331fab4be9a 729 mx-packageinstaller-pkglist_16.11mx16.dsc
- d9708a5016a5395626cf85f6b3f43ffd2506b461d5fe9f43bf299041eba65c11 59208 mx-packageinstaller-pkglist_16.11mx16.tar.xz
- a2b5a22039d0f9b8e2a443895d371d7321ed7e9480966b176204dcd85eeda929 25280 mx-packageinstaller-pkglist_16.11mx16_all.deb
+ 82f206b485803f22d9a2ba5c1af63514b5756799e372142283b99fb213d4cfb8 729 mx-packageinstaller-pkglist_16.11mx16.dsc
+ 51d8232e7a8865fcaf712987219fed8954717614bcc22e353671d3b653f1b183 16544 mx-packageinstaller-pkglist_16.11mx16.tar.xz
+ ee65a00fa5dc77c7d613d8a50bd26c6f230d0c45b7ca61cad2595c695eb49833 25466 mx-packageinstaller-pkglist_16.11mx16_all.deb
 Files:
- a27a697c045ada45c196d475da2a2a46 729 admin optional mx-packageinstaller-pkglist_16.11mx16.dsc
- 7255e76128da6398b7d832cbfe9cb01a 59208 admin optional mx-packageinstaller-pkglist_16.11mx16.tar.xz
- 18f89ad96723beceef98dac803f0b224 25280 admin optional mx-packageinstaller-pkglist_16.11mx16_all.deb
+ e36c4ef6ac6a60cdb861b005da143965 729 admin optional mx-packageinstaller-pkglist_16.11mx16.dsc
+ 16001d45bb5a72e24069c070819b891f 16544 admin optional mx-packageinstaller-pkglist_16.11mx16.tar.xz
+ e8307ab5118e6a3e61e1b39be67a566b 25466 admin optional mx-packageinstaller-pkglist_16.11mx16_all.deb
