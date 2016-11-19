@@ -1,0 +1,220 @@
+mx-packageinstaller-pkglist (16.11mx16) mx; urgency=medium
+
+  * mx16
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Thu, 10 Nov 2016 12:20:15 -0400
+
+mx-packageinstaller-pkglist (16.10mx16+4) mx; urgency=medium
+
+  * migration
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Thu, 10 Nov 2016 12:15:15 -0400
+
+mx-packageinstaller-pkglist (16.10mx16+3) mx; urgency=medium
+
+  * fixed plex, java 8 entries, primary
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sun, 30 Oct 2016 08:55:15 -0400
+
+mx-packageinstaller-pkglist (16.10mx16+2) mx; urgency=medium
+
+  * removed libreoffice 5, utilities entries that are now included
+  * by default in mx16
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sat, 29 Oct 2016 17:23:15 -0400
+
+mx-packageinstaller-pkglist (16.10mx16+1) mx; urgency=medium
+
+  * revised kernel entries
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Fri, 28 Oct 2016 21:03:15 -0400
+
+mx-packageinstaller-pkglist (16.10mx16) mx; urgency=medium
+
+  * removed entries for major bugged alternate kernel
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sat, 22 Oct 2016 12:32:15 -0400
+
+mx-packageinstaller-pkglist (16.8mx15) mx; urgency=medium
+
+  * added obs-studio
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Mon, 22 Aug 2016 22:05:15 -0400
+
+mx-packageinstaller-pkglist (16.5.1mx15) mx; urgency=medium
+
+  * added utility category
+  * added Pinta to Graphics
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Mon, 16 May 2016 21:40:15 -0400
+
+mx-packageinstaller-pkglist (16.4.1mx15) mx; urgency=low
+
+  * added slimjet browser
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Mon, 04 Apr 2016 18:50:21 -0400
+
+mx-packageinstaller-pkglist (16.3.2mx15) UNRELEASED; urgency=medium
+
+  * changed iceweasel to iceweasel-esr, removed mozilla-backports
+  * modified firefox description to simply "latest"
+
+ -- dolphin_oracle <dolphin@mx1>  Sun, 12 Mar 2016 21:01:37 -0500
+
+mx-packageinstaller-pkglist (16.3.1mx15) UNRELEASED; urgency=medium
+
+  * changed google-chrome browser to 64 bit only
+
+ -- dolphin_oracle <dolphin@mx1>  Thu, 03 Mar 2016 18:17:37 -0500
+
+mx-packageinstaller-pkglist (16.2.1mx15) mx; urgency=medium
+
+  * fixes to bm files that use mxtest or deb-multimedia
+  * fixes to bm files to correct hack made to make apps shown as installed
+  * simplify googleearth 64 bit bm file
+  * added mediacenter with plex and kodi
+
+ -- dolphin_oracle <dolphin@mx1>  Mon, 1 Feb 2016 19:22:24 -0500
+
+mx-packageinstaller-pkglist (16.1.1mx15) mx; urgency=medium
+
+  * added RemoteAccess area.
+
+ -- dolphin_oracle <dolphin@mx1>  Mon, 18 Jan 2016 20:12:46 -0500
+
+mx-packageinstaller-pkglist (15.12.4mx15) mx; urgency=medium
+
+  * updated libreoffice-5 bm file to bring in help documents
+  * updated virtual box to add all users in "users" group to "vboxusers" 
+
+ -- dolphin_oracle <dolphin@mx1>  Fri, 01 Jan 2016 21:21:48 -0500
+
+mx-packageinstaller-pkglist (15.12.3mx15) mx; urgency=medium
+
+  * revised opera bm file to reflect different 32 and 64 bit options
+  * fixed minor bug in steam bm file
+  * added phonon4qt5 to kde bm files
+
+ -- dolphin_oracle <dolphin@mx1>  Mon, 28 Dec 2015 22:38:53 -0500
+
+mx-packageinstaller-pkglist (15.12.2mx15) mx; urgency=medium
+
+  * modified libreoffice bm to eliminate warning messages
+  * modified gnome-min bm to eliminate warning messages
+  * modified steam to eliminate warning messages
+
+ -- dolphin_oracle <dolphin@mx1>  Tues, 22 Dec 2015 15:17:58 -0500
+
+mx-packageinstaller-pkglist (15.12.1mx15) mx; urgency=medium
+
+  * 
+  * changed 64bit google earth file.
+  * modified libreoffice bm
+
+ -- dolphin_oracle <dolphin@mx1>  Sun, 20 Dec 2015 20:22:58 -0500
+
+mx-packageinstaller-pkglist (15.11.13mx15) mx; urgency=medium
+
+  * 
+  * mixed missing libreoffice bm file
+  * 
+
+ -- dolphin_oracle <dolphin@mx1>  Wed, 17 Dec 2015 10:39:58 -0500
+
+mx-packageinstaller-pkglist (15.11.12mx15) mx; urgency=medium
+
+  * changed default kernel bm to match new default
+  * added libreoffice_5
+  * updated Browser-operat
+
+ -- dolphin_oracle <dolphin@mx1>  Wed, 17 Dec 2015 10:39:58 -0500
+
+mx-packageinstaller-pkglist (15.11.11mx15) mx; urgency=medium
+
+  * added browser-palemoon
+  * modifed misc-virtualbox to enable automatic extenstions install
+  * added MediaConverter category, with arista, winff, and handbrake
+
+ -- dolphin_oracle <dolphin@mx1>  Wed, 09 Dec 2015 14:02:58 -0500
+
+mx-packageinstaller-pkglist (15.11.10mx15) mx; urgency=medium
+
+  * updated spotify bms to install 32bit testing and 64 bit stable
+  * fixed a minor bug in skype bm
+  * updated misc-wine and playonlinux bms to use wine-staging-compat
+
+ -- dolphin_oracle <dolphin@mx1>  Wed, 04 Dec 2015 20:21:49 -0500
+
+mx-packageinstaller-pkglist (15.11.9mx15) mx; urgency=medium
+
+  * modified adobe reader bm file to allow plugin installation
+  * added ftp and docks sections
+  * added tor-browser to browser section
+
+ -- dolphin_oracle <dolphin@mx1>  Sun, 29 Nov 2015 14:25:54 -0500
+
+mx-packageinstaller-pkglist (15.11.8mx15) mx; urgency=medium
+
+  * removed broken bm files (portugese(br)
+  * fixed gnome_ultra bm to gnome_min bm
+  * corrected some language packs so because they did not install due to errors
+  * updated skype, steam, supertuxkart, and google-earth bm's so they would show as installed after installation
+  * fixed build dependencies in debian control
+  * hacked audio-pulseaudio, children-primary, graphics-inkscape and graphics-blender so they show installed (this does not fix basic problem)
+
+ -- dolphin_oracle <dolphin@mx1>  Wed, 28 Nov 2015 18:11:57 -0500
+
+mx-packageinstaller-pkglist (15.11.7mx16) mx; urgency=medium
+
+  * revised meld bm file
+
+ -- dolphin_oracle <dolphin@littlebyte>  Sun, 22 Nov 2015 14:11:30 -0500
+
+mx-packageinstaller-pkglist (15.11.6mx15) mx; urgency=medium
+
+  *  add development category
+
+ -- dolphin_oracle <dolphin@littlebyte>  Sun, 22 Nov 2015 13:26:29 -0500
+
+mx-packageinstaller-pkglist (15.11.5mx15) mx; urgency=medium
+ 
+  * added google-earth
+
+ -- dolphin_oracle <dolphinoracle@gmail.com> Fri, 20 Nov 2015 14:35:32 -0500
+
+mx-packageinstaller-pkglist (15.11.4mx15) mx; urgency=medium
+
+  * fixed steam bm so user can accept EULA.
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 16 Nov 2015 15:34:32 -0500
+
+mx-packageinstaller-pkglist (15.11.3mx15) mx; urgency=medium
+
+  * vbox change
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 11 Nov 2015 09:06:50 -0500
+
+mx-packageinstaller-pkglist (15.11.2mx15) mx; urgency=medium
+
+  * new and updated files for spotify, playonlinux, steam, virtualbox,
+    mplayer, and kernels
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 10 Nov 2015 17:49:32 -0500
+
+mx-packageinstaller-pkglist (15.11.1mx15) mx; urgency=medium
+
+  * update Inkspace with recommends
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 06 Nov 2015 19:23:38 -0500
+
+mx-packageinstaller-pkglist (15.11mx15) mx; urgency=medium
+
+  * kernel package changes
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 06 Nov 2015 18:02:24 -0500
+
+mx-packageinstaller-pkglist (15.10mx15) mx; urgency=medium
+
+  * Initial package
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 29 Oct 2015 10:16:15 -0400
