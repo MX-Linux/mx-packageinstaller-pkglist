@@ -13,8 +13,7 @@ FLL_PACKAGE_DEPMODS=(
 FLL_PACKAGES=(
     
      pulseaudio
-     pulseaudio-module-x11  
-     rtkit
+     pulseaudio-module-x11
      pavucontrol
      gstreamer0.10-pulseaudio
 
