@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 10 Nov 2016 12:20:15 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 16.11mx16
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphinoracle@gmail.com>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (16.11mx16) mx; urgency=medium
+ .
+   * mx16
+Checksums-Sha1:
+ 1ad9382bc045347009d36323a45b6fab9b29a50e 729 mx-packageinstaller-pkglist_16.11mx16.dsc
+ 054880e4f904f25d5ca123d6c7b0bcf7ce8232b0 16544 mx-packageinstaller-pkglist_16.11mx16.tar.xz
+ 284dc4b2fd61cf50bd205786e9d81a6b90907955 25466 mx-packageinstaller-pkglist_16.11mx16_all.deb
+Checksums-Sha256:
+ 82f206b485803f22d9a2ba5c1af63514b5756799e372142283b99fb213d4cfb8 729 mx-packageinstaller-pkglist_16.11mx16.dsc
+ 51d8232e7a8865fcaf712987219fed8954717614bcc22e353671d3b653f1b183 16544 mx-packageinstaller-pkglist_16.11mx16.tar.xz
+ ee65a00fa5dc77c7d613d8a50bd26c6f230d0c45b7ca61cad2595c695eb49833 25466 mx-packageinstaller-pkglist_16.11mx16_all.deb
+Files:
+ e36c4ef6ac6a60cdb861b005da143965 729 admin optional mx-packageinstaller-pkglist_16.11mx16.dsc
+ 16001d45bb5a72e24069c070819b891f 16544 admin optional mx-packageinstaller-pkglist_16.11mx16.tar.xz
+ e8307ab5118e6a3e61e1b39be67a566b 25466 admin optional mx-packageinstaller-pkglist_16.11mx16_all.deb

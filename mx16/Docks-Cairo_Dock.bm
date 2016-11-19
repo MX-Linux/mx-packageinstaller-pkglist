@@ -1,0 +1,17 @@
+FLL_DESCRIPTION="Cairo Dock - 3d capable dock w/ plugins"
+
+FLL_PRE_PROCESSING=(
+	"#!/bin/bash"
+        "echo \"---- in preprocessing ----\""
+        "echo \"---- preprocessing done----\""
+)
+
+FLL_PACKAGE_DEPMODS=(
+)
+
+FLL_PACKAGES=(
+     cairo-dock
+     cairo-dock-xfce-integration-plug-in
+      
+)
+
