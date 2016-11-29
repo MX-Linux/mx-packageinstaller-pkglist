@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (16.10mx16+6) mx; urgency=medium
+
+  * migration re-added
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Mon, 28 Nov 2016 21:57:15 -0400
+
 mx-packageinstaller-pkglist (16.10mx16+5) mx; urgency=medium
 
   * migration removed
