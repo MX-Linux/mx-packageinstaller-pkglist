@@ -29,7 +29,7 @@ if [ "$defaults_check" = "500" ]; then
 	apt-get remove -y mx-event-sounds desktop-defaults-xfce-mx
 	apt-get install -y desktop-defaults-xfce-mx16
 	#install extra apps
-	apt-get install apt-xapian-index mx16-artwork mx16-artwork-extras icedtea-8-plugin lightdm-gtk-greeter-mx16 mx-apps
+	apt-get install apt-xapian-index papirus-gtk-icon-theme mx16-artwork mx16-artwork-extras icedtea-8-plugin lightdm-gtk-greeter-mx16 mx-apps
 	#dist-upgrade to polish things off
 	apt-get dist-upgrade
 else
