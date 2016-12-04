@@ -3,7 +3,7 @@ FLL_DESCRIPTION="Migrate MX15 to MX16"
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
-        "x-terminal-emulator -e \"/usr/share/mx-packageinstaller-pkglist/upgrade\" 2>/dev/null"
+        "x-terminal-emulator -e \"/usr/share/mx-packageinstaller-pkglist/upgrade.sh\" 2>/dev/null"
         "echo \"---- preprocessing done----\""
 )
 

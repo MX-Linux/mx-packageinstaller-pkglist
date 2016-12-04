@@ -15,14 +15,14 @@ Changes:
  .
    * migration re-added
 Checksums-Sha1:
- b85c20875be4ab42643cb842cabfefbbabdae0df 737 mx-packageinstaller-pkglist_16.10mx16+6.dsc
- b8590022e921bf241964cd32819da3a3c76ea6a0 17252 mx-packageinstaller-pkglist_16.10mx16+6.tar.xz
- 365be59a6af78898f4c6541367c212582053b405 26264 mx-packageinstaller-pkglist_16.10mx16+6_all.deb
+ a3f398872f52a64e44f66407ab103df59e51bbe5 737 mx-packageinstaller-pkglist_16.10mx16+6.dsc
+ 343e49e2e2d52709c4bbd067bd218fa1858476ae 17340 mx-packageinstaller-pkglist_16.10mx16+6.tar.xz
+ f73b17f7b9484b2ccb98a41d482ef946eb86bbfe 26292 mx-packageinstaller-pkglist_16.10mx16+6_all.deb
 Checksums-Sha256:
- f12acf049906bc70c7917290c2f04b102ab7090729b74689387295ffc0307536 737 mx-packageinstaller-pkglist_16.10mx16+6.dsc
- 67563a1758af80f50ff99b734496b460a32a9e78383279f6553e5515c8cb1588 17252 mx-packageinstaller-pkglist_16.10mx16+6.tar.xz
- 4050c5f0622d471aae7ffa08a98c6699378908cec481cf15bb4161a79a2ae23b 26264 mx-packageinstaller-pkglist_16.10mx16+6_all.deb
+ c06e2ed61b8a4653c8d40dbb1ea5059b8303ced4b79f2e5b1f576d7f996480bd 737 mx-packageinstaller-pkglist_16.10mx16+6.dsc
+ b48e964dd2893856f2aa41416275d9bd93780a1a32b18491492640fc7f09b002 17340 mx-packageinstaller-pkglist_16.10mx16+6.tar.xz
+ 18e33b0bd4b5669900bc985a9cc4ef4a3e45ed5d493c689eafe3227e415b3de4 26292 mx-packageinstaller-pkglist_16.10mx16+6_all.deb
 Files:
- 35dc16e1891b54bb99ec22623efdcad9 737 admin optional mx-packageinstaller-pkglist_16.10mx16+6.dsc
- 057f30e0d9a5f9346e7e90a4f4adf196 17252 admin optional mx-packageinstaller-pkglist_16.10mx16+6.tar.xz
- 9334344df89bc412302360aad1b57a35 26264 admin optional mx-packageinstaller-pkglist_16.10mx16+6_all.deb
+ 86200b0e21ce41744bf45fc4441c85ae 737 admin optional mx-packageinstaller-pkglist_16.10mx16+6.dsc
+ cca6fa921f5e4ec9bd6dc808736d7936 17340 admin optional mx-packageinstaller-pkglist_16.10mx16+6.tar.xz
+ 6378b50f2b7b0670e256ae963619f870 26292 admin optional mx-packageinstaller-pkglist_16.10mx16+6_all.deb
