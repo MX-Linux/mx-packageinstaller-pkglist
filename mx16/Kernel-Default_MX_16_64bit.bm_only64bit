@@ -10,7 +10,7 @@ FLL_PACKAGE_DEPMODS=(
 
 FLL_PACKAGES=(
 	
-	linux-image-4.7.0-0.bpo.1-amd64
+	linux-image-4.7.0-0.bpo.1-amd64-unsigned
 	linux-headers-4.7.0-0.bpo.1-amd64
 	
 )

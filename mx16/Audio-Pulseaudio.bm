@@ -15,7 +15,7 @@ FLL_PACKAGES=(
      pulseaudio
      pulseaudio-module-x11
      pavucontrol
-     gstreamer0.10-pulseaudio
+     gstreamer1.0-pulseaudio
 
 )
 
