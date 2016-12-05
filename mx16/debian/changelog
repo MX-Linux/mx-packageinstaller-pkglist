@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (16.12mx16) mx; urgency=medium
+
+  * mx16-fixed kernel and pulseaudio entries
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sun, 04 Dec 2016 19:13:15 -0400
+
 mx-packageinstaller-pkglist (16.11mx16) mx; urgency=medium
 
   * mx16
