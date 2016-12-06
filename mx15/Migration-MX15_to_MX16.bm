@@ -1,5 +1,5 @@
 
-FLL_DESCRIPTION="Migrate MX15 to MX16"
+FLL_DESCRIPTION="(TEST) Migrate MX15 to MX16"
 
 FLL_PRE_PROCESSING=(
 	"#!/bin/bash"
