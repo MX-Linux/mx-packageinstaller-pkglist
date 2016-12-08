@@ -17,4 +17,6 @@ FLL_PACKAGES=(
       
     
 )
-
+FLL_POST_PROCESSING=(
+	"/usr/share/mx-packageinstaller-pkglist/run_winecfg.sh"
+)

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 06 Dec 2016 19:05:15 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 16.12.02mx16
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphinoracle@gmail.com>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (16.12.02mx16) mx; urgency=medium
+ .
+   * modified wine to run winecfg as regular user
+Checksums-Sha1:
+ e2745db43a8bf624428eeaf7b1889241aa4a43e1 741 mx-packageinstaller-pkglist_16.12.02mx16.dsc
+ 77a42ebaaa98b36ebd482c8c3cf5c09a5e8d6cfc 16864 mx-packageinstaller-pkglist_16.12.02mx16.tar.xz
+ 2b9b9c9d9af3ebb8a43539cfef7a76a7889c4076 25876 mx-packageinstaller-pkglist_16.12.02mx16_all.deb
+Checksums-Sha256:
+ 43f49feb954f791d0534e60e526e0ada72569912e5916abf8452c60bb32b06da 741 mx-packageinstaller-pkglist_16.12.02mx16.dsc
+ 4deb322c3cd547abdb279524cb76d17c96f47162ffe831089a4701b67ab60982 16864 mx-packageinstaller-pkglist_16.12.02mx16.tar.xz
+ 90414c7aa53bd8d47800930b9620d92c9ac394805bdabb8f49f40cb0880a5a36 25876 mx-packageinstaller-pkglist_16.12.02mx16_all.deb
+Files:
+ fc8041782fe7dfa6bb861c7c3a353a48 741 admin optional mx-packageinstaller-pkglist_16.12.02mx16.dsc
+ 6569f4bfd623c87a853ed3c4d2846033 16864 admin optional mx-packageinstaller-pkglist_16.12.02mx16.tar.xz
+ 2c1ec1e7be08b0bcc69c4bda6c937425 25876 admin optional mx-packageinstaller-pkglist_16.12.02mx16_all.deb
