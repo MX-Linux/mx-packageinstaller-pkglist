@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (16.12.02mx16) mx; urgency=medium
+
+  * modified wine to run winecfg as regular user
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Tue, 06 Dec 2016 19:05:15 -0400
+
 mx-packageinstaller-pkglist (16.12.01mx16) mx; urgency=medium
 
   * mx16-fixing skype entry

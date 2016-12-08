@@ -15,7 +15,7 @@ FLL_PACKAGES=(
 
 FLL_POST_PROCESSING=(
 	"echo \"Installing Google Earth\"" 
-        "make-googleearth-package --force"
+        "x-terminal-emulator -e 'make-googleearth-package --force'"
 	"dpkg -i googleearth_6.0.3.2197+1.2.0-1_amd64.deb"
         "apt-get -f install -y"
         "echo \"Installation completed.\"" 
