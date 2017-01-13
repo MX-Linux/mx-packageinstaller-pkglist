@@ -15,14 +15,14 @@ Changes:
  .
    * added modification of lsb-release and antix-version to upgrade.sh
 Checksums-Sha1:
- b424ea67f61bb0d5973dc68ef5453a02e35a1dc4 737 mx-packageinstaller-pkglist_16.10mx16+7.dsc
- 410a8080fbd35b56d238a563c765c40991e47ce0 17532 mx-packageinstaller-pkglist_16.10mx16+7.tar.xz
- 85fbb016b6024a011ac99058f55245fefa3ff65b 26620 mx-packageinstaller-pkglist_16.10mx16+7_all.deb
+ f7e843162de5118be487e2c778f18262038ea188 737 mx-packageinstaller-pkglist_16.10mx16+7.dsc
+ 124581c8b882944ee67c0c8ed22a1c3ddafab9f1 17528 mx-packageinstaller-pkglist_16.10mx16+7.tar.xz
+ fb63bff62f008e6add3c8eaf4173d9ee1e90a1ea 26610 mx-packageinstaller-pkglist_16.10mx16+7_all.deb
 Checksums-Sha256:
- d3eecdc5519567b37cc95ad249500d9f8069dde7aaa727da3ae0bd4833a79066 737 mx-packageinstaller-pkglist_16.10mx16+7.dsc
- 48b427691e54feb6aaafb3babb20821114e0703e928ba623ef630f53ef751bdd 17532 mx-packageinstaller-pkglist_16.10mx16+7.tar.xz
- 4bd068cad0c9e5f8814c23d951f1eeda075dcfb4b11e0e31576b2007c92ef15a 26620 mx-packageinstaller-pkglist_16.10mx16+7_all.deb
+ 2a05d9bf83d5e0f698bb28e3309548533332e70c31bab821dbb6daadd4cf6d2b 737 mx-packageinstaller-pkglist_16.10mx16+7.dsc
+ ec10d385a4ee44ef14f9016264bad85ed87f3311e273dca0f5a738fcb230b7ef 17528 mx-packageinstaller-pkglist_16.10mx16+7.tar.xz
+ eafa9d6dac9f7aa728b61a8a65ced048a14e1e66c1b9671809a280044b725c6e 26610 mx-packageinstaller-pkglist_16.10mx16+7_all.deb
 Files:
- d950a25463abc451263b2b1b3219f5a0 737 admin optional mx-packageinstaller-pkglist_16.10mx16+7.dsc
- 731d0b544fe90f5fb5976fab078d295b 17532 admin optional mx-packageinstaller-pkglist_16.10mx16+7.tar.xz
- 170e29e6bc0ece71aedcf6635820bb43 26620 admin optional mx-packageinstaller-pkglist_16.10mx16+7_all.deb
+ 9ebce0b20e4cfdb10d535817422811a6 737 admin optional mx-packageinstaller-pkglist_16.10mx16+7.dsc
+ 78443a9f66ce9486e82295ae76b217ef 17528 admin optional mx-packageinstaller-pkglist_16.10mx16+7.tar.xz
+ a6b7f80eb73bcdf5ab5a6eb71d78bf61 26610 admin optional mx-packageinstaller-pkglist_16.10mx16+7_all.deb
