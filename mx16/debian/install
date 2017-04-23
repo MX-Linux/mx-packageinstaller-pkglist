@@ -1,5 +1,0 @@
-*.bm		usr/share/mx-packageinstaller-pkglist
-*.bm_only32bit	usr/share/mx-packageinstaller-pkglist
-*.bm_only64bit	usr/share/mx-packageinstaller-pkglist
-*.sh            usr/share/mx-packageinstaller-pkglist
-
