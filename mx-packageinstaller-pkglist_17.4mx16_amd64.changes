@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Sat, 22 Apr 2017 21:09:30 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 17.4mx16
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (17.4mx16) mx; urgency=medium
+ .
+   * New package with .pm files for the new verions of mx-packageinstaller
+Checksums-Sha1:
+ 1ca20dcd22bc9fb4681a0dc62a52ca7598bd2a41 1246 mx-packageinstaller-pkglist_17.4mx16.dsc
+ afc21b74c13cdfc7ec530837a7716ac309216487 40592 mx-packageinstaller-pkglist_17.4mx16.tar.xz
+ b169923512262dfa743cb2f18b8f0c0e678b2e03 25804 mx-packageinstaller-pkglist_17.4mx16_all.deb
+Checksums-Sha256:
+ d1131fe366024c4ae93cb633a96633468246864f5e68eedb2f5c6a646f56e278 1246 mx-packageinstaller-pkglist_17.4mx16.dsc
+ ce5a43f0b898f70fcda5a2cba44721f5d86fb2fc5aa43599907e32e619824d39 40592 mx-packageinstaller-pkglist_17.4mx16.tar.xz
+ e8c889e47c43a626982ec07a005a5310e0282be948f69430d16795504c13fd94 25804 mx-packageinstaller-pkglist_17.4mx16_all.deb
+Files:
+ c3b1d7c09c287a5f1d465a362917c844 1246 admin optional mx-packageinstaller-pkglist_17.4mx16.dsc
+ b927535f2338f69ad6a7d6473dc77e60 40592 admin optional mx-packageinstaller-pkglist_17.4mx16.tar.xz
+ a7975015bf9b2778290510af67627c23 25804 admin optional mx-packageinstaller-pkglist_17.4mx16_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJY/BDvAAoJEHCTjHgGee6YhrUIAKRhuwMiz0/KpPrwJNeLYzjc
+/RRR4uMzu32y0y8xn0+MyLDRE1CU1wG6NSYO53OBuNkG3VEfUYd6fZg6pLyWJblG
+2x9fJHYMjTQtHIE3oGzU5JjWQTsQWczdusw2Iz52i8NellNU+/RqDb+n5uyI5ASX
+mctcG1/YpUr1Lz/XmvWF9ASlvEcCJGZqKRCsZHsJ7Vkp+AAQEIoxyOQjVhxttkHB
+i3znp+37iZ7cvkPzhHeFxvcZUhtbTrGNsIbFPzbShkl1TZqh0OfkQOGYJxXH0Yba
+4ZYzd4aWdhKU/iGraBfLE6l7XYt0ru47K0pCLVu6DIeihGu87pi+TThGIsVcwhU=
+=BwfL
+-----END PGP SIGNATURE-----
