@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (17.5mx16) mx; urgency=medium
+
+  * changed maintainer
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 03 May 2017 11:20:49 -0400
+
 mx-packageinstaller-pkglist (17.4mx16) mx; urgency=medium
 
   * New package with .pm files for the new verions of mx-packageinstaller
