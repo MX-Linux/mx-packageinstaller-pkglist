@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 09 May 2017 22:05:30 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 17.5mx16
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphinoracle@gmail.com>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (17.5mx16) mx; urgency=medium
+ .
+   * modified virtual box setup
+Checksums-Sha1:
+ 295e564fc761f0ce7e1be0d7910bca3928a34f9e 728 mx-packageinstaller-pkglist_17.5mx16.dsc
+ 9a80b3705ba8082765c9cffe2e87b0bf4f37ddc2 109304 mx-packageinstaller-pkglist_17.5mx16.tar.xz
+ 506eb4e0d140b8aab8875549660e15661c0bbf1c 26022 mx-packageinstaller-pkglist_17.5mx16_all.deb
+Checksums-Sha256:
+ 849ed5f7de98d6c51bdef6c180667a75c8d635f2ee56b30e5d71043e178a1096 728 mx-packageinstaller-pkglist_17.5mx16.dsc
+ cf0a325b576c7d373a58ec3ba18cea5d7be28a8c7e34d645b68ef80e08f43556 109304 mx-packageinstaller-pkglist_17.5mx16.tar.xz
+ baabc9c22df8f567f461607fe4e49645286d9f86b391a0b227afa4f9bbacd0b1 26022 mx-packageinstaller-pkglist_17.5mx16_all.deb
+Files:
+ 3bd93ec1091a8cd2cc7f7489aef77aed 728 admin optional mx-packageinstaller-pkglist_17.5mx16.dsc
+ 6d09576f9f6a55fdc3fcab2a44ff88c1 109304 admin optional mx-packageinstaller-pkglist_17.5mx16.tar.xz
+ cbc77e12782328fbf0668a2be7872570 26022 admin optional mx-packageinstaller-pkglist_17.5mx16_all.deb
