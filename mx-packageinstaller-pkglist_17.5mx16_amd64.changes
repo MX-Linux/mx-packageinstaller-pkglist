@@ -15,14 +15,14 @@ Changes:
  .
    * modified virtual box setup
 Checksums-Sha1:
- 295e564fc761f0ce7e1be0d7910bca3928a34f9e 728 mx-packageinstaller-pkglist_17.5mx16.dsc
- 9a80b3705ba8082765c9cffe2e87b0bf4f37ddc2 109304 mx-packageinstaller-pkglist_17.5mx16.tar.xz
- 506eb4e0d140b8aab8875549660e15661c0bbf1c 26022 mx-packageinstaller-pkglist_17.5mx16_all.deb
+ 2b1b47ef7511d09d8be39d67571dd7645b41500f 728 mx-packageinstaller-pkglist_17.5mx16.dsc
+ a1e35a6a9a857198f2bbf9166b34e2bb76ffd387 178228 mx-packageinstaller-pkglist_17.5mx16.tar.xz
+ 0b742787f18267049d6680c65b6652ad317de17d 26018 mx-packageinstaller-pkglist_17.5mx16_all.deb
 Checksums-Sha256:
- 849ed5f7de98d6c51bdef6c180667a75c8d635f2ee56b30e5d71043e178a1096 728 mx-packageinstaller-pkglist_17.5mx16.dsc
- cf0a325b576c7d373a58ec3ba18cea5d7be28a8c7e34d645b68ef80e08f43556 109304 mx-packageinstaller-pkglist_17.5mx16.tar.xz
- baabc9c22df8f567f461607fe4e49645286d9f86b391a0b227afa4f9bbacd0b1 26022 mx-packageinstaller-pkglist_17.5mx16_all.deb
+ f182436561b3f897891feea6cca493a711a0baa78042b0648319e4417aa9154c 728 mx-packageinstaller-pkglist_17.5mx16.dsc
+ c502fd05906772e5e806306e36f20338412369b5bb111ebcbc5862a9350a3f78 178228 mx-packageinstaller-pkglist_17.5mx16.tar.xz
+ c47f39f2a74c10587909ef9e7e484ccb2b620b7bea8404c94823295cf0f19f3f 26018 mx-packageinstaller-pkglist_17.5mx16_all.deb
 Files:
- 3bd93ec1091a8cd2cc7f7489aef77aed 728 admin optional mx-packageinstaller-pkglist_17.5mx16.dsc
- 6d09576f9f6a55fdc3fcab2a44ff88c1 109304 admin optional mx-packageinstaller-pkglist_17.5mx16.tar.xz
- cbc77e12782328fbf0668a2be7872570 26022 admin optional mx-packageinstaller-pkglist_17.5mx16_all.deb
+ 8d28e6c206bebee7c7d58a305706667c 728 admin optional mx-packageinstaller-pkglist_17.5mx16.dsc
+ 0d8b16104c8ae26f0d9b497529f9f72f 178228 admin optional mx-packageinstaller-pkglist_17.5mx16.tar.xz
+ 13bc2aed53904a7da096dbe4f598ddc4 26018 admin optional mx-packageinstaller-pkglist_17.5mx16_all.deb
