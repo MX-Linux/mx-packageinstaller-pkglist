@@ -32,10 +32,7 @@ virtualbox-5.1
 
 
 <postinstall>
-wget http://download.virtualbox.org/virtualbox/$(echo $(vboxmanage -v) | cut -d 'r' -f 1)/Oracle_VM_VirtualBox_Extension_Pack-$(echo $(vboxmanage -v) | cut -d 'r' -f 1)-$(echo $(vboxmanage -v) | cut -d 'r' -f 2).vbox-extpack
-vboxmanage extpack install Oracle_VM_VirtualBox_Extension_Pack-$(echo $(vboxmanage -v) | cut -d 'r' -f 1)-$(echo $(vboxmanage -v) | cut -d 'r' -f 2).vbox-extpack --replace
-rm -f Oracle_VM_VirtualBox_Extension_Pack-$(echo $(vboxmanage -v) | cut -d 'r' -f 1)-$(echo $(vboxmanage -v) | cut -d 'r' -f 2).vbox-extpack
-gpasswd -M $(getent group users | cut -d: -f4) vboxusers
+x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/install_vb_extensions.sh
 </postinstall>
 
 

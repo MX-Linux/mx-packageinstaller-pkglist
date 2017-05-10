@@ -1,7 +1,7 @@
 Source: mx-packageinstaller-pkglist
 Section: admin
 Priority: optional
-Maintainer: Adrian <adrian@mxlinux.org>
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
 Build-Depends: debhelper (>=7.0.50~),
 Standards-Version: 3.9.5
 Vcs-Git: git://github.com/MX-Linux/mx-packageinstaller-pkglist
