@@ -1,43 +1,28 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA1
-
 Format: 1.8
-Date: Wed, 03 May 2017 11:20:49 -0400
+Date: Tue, 09 May 2017 22:05:30 -0400
 Source: mx-packageinstaller-pkglist
 Binary: mx-packageinstaller-pkglist
 Architecture: source all
 Version: 17.5mx16
 Distribution: mx
 Urgency: medium
-Maintainer: Adrian <adrian@mxlinux.org>
-Changed-By: Adrian <adrian@mxlinux.org>
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphinoracle@gmail.com>
 Description:
  mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
 Changes:
  mx-packageinstaller-pkglist (17.5mx16) mx; urgency=medium
  .
-   * changed maintainer
+   * modified virtual box setup
 Checksums-Sha1:
- b3ee3516ff3146eeee82a57231c0ba8754fcb2d0 1226 mx-packageinstaller-pkglist_17.5mx16.dsc
- 80c2f7b2ba1261066585090cc7bd102216ae1d26 6150028 mx-packageinstaller-pkglist_17.5mx16.tar.xz
- 631c60b1366cf1871d21fcac4d6c3350db94d3a7 25532 mx-packageinstaller-pkglist_17.5mx16_all.deb
+ 295e564fc761f0ce7e1be0d7910bca3928a34f9e 728 mx-packageinstaller-pkglist_17.5mx16.dsc
+ 9a80b3705ba8082765c9cffe2e87b0bf4f37ddc2 109304 mx-packageinstaller-pkglist_17.5mx16.tar.xz
+ 506eb4e0d140b8aab8875549660e15661c0bbf1c 26022 mx-packageinstaller-pkglist_17.5mx16_all.deb
 Checksums-Sha256:
- 28cfb2b4fc96ace23180e36bd88a85b9b4a4fad217741eb4d6e09adefa2e2292 1226 mx-packageinstaller-pkglist_17.5mx16.dsc
- 04f6ff75807a1fba6e0f4278ac910793c99557a57f4b65d83554fee615772e4b 6150028 mx-packageinstaller-pkglist_17.5mx16.tar.xz
- 90d9d96995483ceee5a4711d5264fd52f4c8ad664d0dd4319ecff8e52c14df5d 25532 mx-packageinstaller-pkglist_17.5mx16_all.deb
+ 849ed5f7de98d6c51bdef6c180667a75c8d635f2ee56b30e5d71043e178a1096 728 mx-packageinstaller-pkglist_17.5mx16.dsc
+ cf0a325b576c7d373a58ec3ba18cea5d7be28a8c7e34d645b68ef80e08f43556 109304 mx-packageinstaller-pkglist_17.5mx16.tar.xz
+ baabc9c22df8f567f461607fe4e49645286d9f86b391a0b227afa4f9bbacd0b1 26022 mx-packageinstaller-pkglist_17.5mx16_all.deb
 Files:
- 222ed77307ca326b994724abbbee7b21 1226 admin optional mx-packageinstaller-pkglist_17.5mx16.dsc
- 7357bf40450c34686e0b07bf02888482 6150028 admin optional mx-packageinstaller-pkglist_17.5mx16.tar.xz
- cedda7d2b49663cf5f110e8a49ca952c 25532 admin optional mx-packageinstaller-pkglist_17.5mx16_all.deb
-
------BEGIN PGP SIGNATURE-----
-Version: GnuPG v1
-
-iQEcBAEBAgAGBQJZCfYmAAoJEHCTjHgGee6Y8ToH/REQ4hI1dlarr30HZA1ulfgu
-tljYJtYPWkLoReJhJSHt34xCeq/x5/NntS08774+AB9Gung278EyIXAOhJ7WMXko
-ONeNiKhCIwSylUvTPYmhZ3sI3b+2vS78AF2QujAuSQILJecB1XYxGoO9jyn2Zl9d
-j7avvZI/JWNt1g0Kc0A22dub+UNSgS6a8/xy93wTlZm8R05fR5txmTqm/OKNLK5h
-IR/riDOAZWOOb1/G8lkyZo545XwqhopabwI8vN3uR4K92Gzq0oCRzmubWnB+YJ+G
-XKSbNlH6gU7E1ZCfdE0W6HhFrGjmWedWVUzNzEFUL/58C6mQUYurvA6IFqjGZJY=
-=cnW1
------END PGP SIGNATURE-----
+ 3bd93ec1091a8cd2cc7f7489aef77aed 728 admin optional mx-packageinstaller-pkglist_17.5mx16.dsc
+ 6d09576f9f6a55fdc3fcab2a44ff88c1 109304 admin optional mx-packageinstaller-pkglist_17.5mx16.tar.xz
+ cbc77e12782328fbf0668a2be7872570 26022 admin optional mx-packageinstaller-pkglist_17.5mx16_all.deb

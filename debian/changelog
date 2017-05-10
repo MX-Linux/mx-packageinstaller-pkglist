@@ -1,8 +1,8 @@
 mx-packageinstaller-pkglist (17.5mx16) mx; urgency=medium
 
-  * changed maintainer
+  * modified virtual box setup
 
- -- Adrian <adrian@mxlinux.org>  Wed, 03 May 2017 11:20:49 -0400
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Tue, 09 May 2017 22:05:30 -0400
 
 mx-packageinstaller-pkglist (17.4mx16) mx; urgency=medium
 
