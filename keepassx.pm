@@ -2,30 +2,29 @@
 <app>
 
 <category>
-Kernels
+Misc
 </category>
 
 <name>  
-MX15 64 bit
+KeepassX
 </name>
 
 <description>  
-Default Kernel MX-15 64 bit (4.2)
+KeePassX is a free/open-source password manager/safe
 </description>
 
 <installable>
-64
+all
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot>https://screenshots.debian.net/screenshots/000/015/308/large.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-linux-image-4.2.0-0.bpo.1-amd64
-linux-headers-4.2.0-0.bpo.1-amd64
+keepassx
 </install_package_names>
 
 
@@ -35,7 +34,6 @@ linux-headers-4.2.0-0.bpo.1-amd64
 
 
 <uninstall_package_names>
-linux-image-4.2.0-0.bpo.1-amd64
-linux-headers-4.2.0-0.bpo.1-amd64
+keepassx
 </uninstall_package_names>
 </app>
