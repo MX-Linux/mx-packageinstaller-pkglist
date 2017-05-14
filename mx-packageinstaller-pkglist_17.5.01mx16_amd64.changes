@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 13 May 2017 20:05:30 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 17.5.01mx16
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphinoracle@gmail.com>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (17.5.01mx16) mx; urgency=medium
+ .
+   * added qt5-docs, keepassx, kernel options
+Checksums-Sha1:
+ 6f844b4180b4351cad88c6387cbf85dd5e4471df 740 mx-packageinstaller-pkglist_17.5.01mx16.dsc
+ 2c36388d02b8753923b93e5ec4fb195b9d7c2b30 236444 mx-packageinstaller-pkglist_17.5.01mx16.tar.xz
+ d6fb3c1229fad480276a7571df08568eb6e72c3e 26488 mx-packageinstaller-pkglist_17.5.01mx16_all.deb
+Checksums-Sha256:
+ f2f8fcd648ad276be57a34375d759886b4bbfa9b1e835c317d0cd06a46951b71 740 mx-packageinstaller-pkglist_17.5.01mx16.dsc
+ c4d21961da5cdb35f97664a338a36cc169f9ba5741267158554818b17484ecf9 236444 mx-packageinstaller-pkglist_17.5.01mx16.tar.xz
+ 1d9c5aff053bd7f4171f5d1f9f1288cfdae3183d0a4a83dd55f9d79907e80f19 26488 mx-packageinstaller-pkglist_17.5.01mx16_all.deb
+Files:
+ 2ca10b064d103316adf85aba055a1092 740 admin optional mx-packageinstaller-pkglist_17.5.01mx16.dsc
+ 97b9aacdecee0a1fd520cdf187c8407e 236444 admin optional mx-packageinstaller-pkglist_17.5.01mx16.tar.xz
+ 4c08c834de61e509e878fc8746771136 26488 admin optional mx-packageinstaller-pkglist_17.5.01mx16_all.deb

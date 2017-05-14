@@ -10,7 +10,7 @@ MX16 Default
 </name>
 
 <description>  
-Default Kernel MX-16 64 bit
+Default Kernel MX-16 64 bit (4.7)
 </description>
 
 <installable>

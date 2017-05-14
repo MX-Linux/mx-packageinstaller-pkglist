@@ -6,15 +6,15 @@ Kernels
 </category>
 
 <name>  
-MX15 64 bit
+4.10 32 bit no-pae
 </name>
 
 <description>  
-Default Kernel MX-15 64 bit (4.2)
+antiX 4.10 kernel, 32 bit no-pae
 </description>
 
 <installable>
-64
+32
 </installable>
 
 <screenshot>none</screenshot>
@@ -24,8 +24,8 @@ Default Kernel MX-15 64 bit (4.2)
 </preinstall>
 
 <install_package_names>
-linux-image-4.2.0-0.bpo.1-amd64
-linux-headers-4.2.0-0.bpo.1-amd64
+linux-image-4.10.1-antix.1-486-smp
+linux-headers-4.10.1-antix.1-486-smp
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ linux-headers-4.2.0-0.bpo.1-amd64
 
 
 <uninstall_package_names>
-linux-image-4.2.0-0.bpo.1-amd64
-linux-headers-4.2.0-0.bpo.1-amd64
+linux-image-4.10.1-antix.1-486-smp
+linux-headers-4.10.1-antix.1-486-smp
 </uninstall_package_names>
 </app>
