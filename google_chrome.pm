@@ -6,7 +6,7 @@ Browser
 </category>
 
 <name>  
-Google_Chrome
+Google Chrome
 </name>
 
 <description>  

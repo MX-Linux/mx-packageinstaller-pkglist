@@ -6,7 +6,7 @@ Development
 </category>
 
 <name>  
-QT5_Dev_Env
+QT5 Dev Enviroment
 </name>
 
 <description>  
