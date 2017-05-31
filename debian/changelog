@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (17.5.02mx16) mx; urgency=medium
+
+  * added flash
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Tue, 30 May 2017 21:39:09 -0400
+
 mx-packageinstaller-pkglist (17.5.01mx16) mx; urgency=medium
 
   * added qt5-docs, keepassx, kernel options
