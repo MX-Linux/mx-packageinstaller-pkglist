@@ -34,7 +34,7 @@ ndiswrapper-dkms
 
 <postinstall>
 rm -f /etc/apt/sources.list.d/mxtestrepotemp.list
-apt-get remove linux-image-liquorix-amd64 linux-headers-liquorix-amd64
+apt-get -y remove linux-image-liquorix-amd64 linux-headers-liquorix-amd64
 x-terminal-emulator -e apt-get update
 </postinstall>
 
