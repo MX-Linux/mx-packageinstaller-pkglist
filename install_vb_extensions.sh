@@ -11,5 +11,5 @@ vboxmanage extpack install Oracle_VM_VirtualBox_Extension_Pack-$(echo $(vboxmana
 fi
 
 rm -f Oracle_VM_VirtualBox_Extension_Pack-$(echo $(vboxmanage -v) | cut -d 'r' -f 1)-$(echo $(vboxmanage -v) | cut -d 'r' -f 2).vbox-extpack
-gpasswd -M $(getent group users | cut -d: -f4) vboxuser
-sexit 0
+gpasswd -M $(getent group users | cut -d: -f4) vboxusers
+exit 0
