@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 02 Jul 2017 21:01:01 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 17.7mx16
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphinoracle@gmail.com>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (17.7mx16) mx; urgency=medium
+ .
+   * removed skype
+Checksums-Sha1:
+ c462ba77edd860222c478cfbddf4089c6733cbe9 725 mx-packageinstaller-pkglist_17.7mx16.dsc
+ 994609dfbb4aad56c5667c57d72382aadc868f57 29352 mx-packageinstaller-pkglist_17.7mx16.tar.xz
+ e2fc5626b10ac26cab4951ee857dcb6fa8013abf 26626 mx-packageinstaller-pkglist_17.7mx16_all.deb
+Checksums-Sha256:
+ 2e0a74382b61f26a3a95646bcbbd8c2a75b26cbfb3e64ae5ee6f661b0e8b4d2c 725 mx-packageinstaller-pkglist_17.7mx16.dsc
+ 93fa2f704c44e6e06cd0a562ff31f7192e9f3d9092dd9683bcd6ae74589dcd06 29352 mx-packageinstaller-pkglist_17.7mx16.tar.xz
+ a99ff107804cb636aeb1d6b50c934e84af60db38ca96fc795346803074d92cca 26626 mx-packageinstaller-pkglist_17.7mx16_all.deb
+Files:
+ 31c0cf4346d8344db2320e00c1217aa4 725 admin optional mx-packageinstaller-pkglist_17.7mx16.dsc
+ e83a959d02742c8f406a7ab93ec95237 29352 admin optional mx-packageinstaller-pkglist_17.7mx16.tar.xz
+ eb1a8919dd7a03374baf470e04346182 26626 admin optional mx-packageinstaller-pkglist_17.7mx16_all.deb
