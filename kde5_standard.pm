@@ -2,44 +2,40 @@
 <app>
 
 <category>
-Window Managers
+WindowManager
 </category>
 
 <name>  
-KDE4-standard
+WindowManager-kde5_standard
 </name>
 
 <description>  
-standard install of KDE4
+KDE5-standard
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/006/731/large.png</screenshot>
+<screenshot>none</screenshot>
 
 <preinstall>
-
+echo "---- in preprocessing ----"
+echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
 kde-standard
 virtuoso-minimal
-phonon4qt5
 </install_package_names>
-
 
 <postinstall>
 
 </postinstall>
 
-
 <uninstall_package_names>
-kde-plasma-desktop
-phonon4qt5
 kde-standard
 virtuoso-minimal
-phonon4qt5
 </uninstall_package_names>
+
 </app>
