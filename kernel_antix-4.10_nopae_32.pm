@@ -24,8 +24,8 @@ antiX 4.10 kernel, 32 bit no-pae
 </preinstall>
 
 <install_package_names>
-linux-image-4.10.1-antix.1-486-smp
-linux-headers-4.10.1-antix.1-486-smp
+linux-image-4.10.5-antix.3-486-smp
+linux-headers-4.10.5-antix.3-486-smp
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ linux-headers-4.10.1-antix.1-486-smp
 
 
 <uninstall_package_names>
-linux-image-4.10.1-antix.1-486-smp
-linux-headers-4.10.1-antix.1-486-smp
+linux-image-4.10.5-antix.3-486-smp
+linux-headers-4.10.5-antix.3-486-smp
 </uninstall_package_names>
 </app>
