@@ -2,40 +2,38 @@
 <app>
 
 <category>
-Window Managers
+WindowManager
 </category>
 
 <name>  
-KDE4-lite
+WindowManager-kde5_lite
 </name>
 
 <description>  
-minimal install of KDE4
+KDE5-lite
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/006/731/large.png</screenshot>
+<screenshot>none</screenshot>
 
 <preinstall>
-
+echo "---- in preprocessing ----"
+echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
 kde-plasma-desktop
-phonon4qt5
 </install_package_names>
-
 
 <postinstall>
 
 </postinstall>
 
-
 <uninstall_package_names>
 kde-plasma-desktop
-phonon4qt5
 </uninstall_package_names>
+
 </app>
