@@ -2,29 +2,30 @@
 <app>
 
 <category>
-Audio
+Kernels
 </category>
 
 <name>  
-Guayadeque
+4.10 kernel
 </name>
 
 <description>  
-a music management program designed for all music enthusiasts
+antiX 4.10 kernel, 64 bit 
 </description>
 
 <installable>
-all
+64
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/014/661/large.png</screenshot>
+<screenshot>none</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-guayadeque
+linux-image-4.10.5-antix.3-amd64-smp
+linux-headers-4.10.5-antix.3-amd64-smp
 </install_package_names>
 
 
@@ -34,6 +35,7 @@ guayadeque
 
 
 <uninstall_package_names>
-guayadeque
+linux-image-4.10.5-antix.3-686-smp-pae
+linux-headers-4.10.5-antix.3-686-smp-pae
 </uninstall_package_names>
 </app>
