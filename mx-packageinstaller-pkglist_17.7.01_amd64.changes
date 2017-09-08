@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 08 Sep 2017 18:50:01 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 17.7.01
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphinoracle@gmail.com>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (17.7.01) mx; urgency=medium
+ .
+   * updated virtualbox, dropbox, removed remmina and plex
+Checksums-Sha1:
+ d23013383209adeb4fb819d79ec49505a51ff4ad 721 mx-packageinstaller-pkglist_17.7.01.dsc
+ e707debda148f81292c9c710ce84b72fd478d75d 86248 mx-packageinstaller-pkglist_17.7.01.tar.xz
+ 08b662e1bd94a134ff0b3f77383c982a107ca68f 25352 mx-packageinstaller-pkglist_17.7.01_all.deb
+ 632a0505f2275b776784fd5d9547988393dde3cd 4802 mx-packageinstaller-pkglist_17.7.01_amd64.buildinfo
+Checksums-Sha256:
+ 39e6b3342d3f857cef482c1ece859aed89e281f73b6c2cde78bf984fe555e2d8 721 mx-packageinstaller-pkglist_17.7.01.dsc
+ 791a681b7923d05413136228ba69402851d4c701e0464af87927bf1b730bf59c 86248 mx-packageinstaller-pkglist_17.7.01.tar.xz
+ 0f93395a1def0d250c97a51ba3fd0475fe6396a789838820fb116ae7324a5ac0 25352 mx-packageinstaller-pkglist_17.7.01_all.deb
+ b39321d011538780fffdfa7293b3e73b7c8669d48e03631e448d2bff7d496fdb 4802 mx-packageinstaller-pkglist_17.7.01_amd64.buildinfo
+Files:
+ b02ef10d9f2391d5eb4114b53902a69b 721 admin optional mx-packageinstaller-pkglist_17.7.01.dsc
+ c4bcc7e6f27e8db3aa6caabcaddf0e56 86248 admin optional mx-packageinstaller-pkglist_17.7.01.tar.xz
+ 3dbbe01219ab96c6689b6245d82038cd 25352 admin optional mx-packageinstaller-pkglist_17.7.01_all.deb
+ c66089fb192996df6fbb883649140af1 4802 admin optional mx-packageinstaller-pkglist_17.7.01_amd64.buildinfo
