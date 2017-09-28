@@ -2,7 +2,7 @@
 <app>
 
 <category>
-WindowManager
+Window Managers
 </category>
 
 <name>  
