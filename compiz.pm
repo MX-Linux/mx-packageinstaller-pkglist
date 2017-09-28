@@ -6,11 +6,11 @@ Window Managers
 </category>
 
 <name>  
-WindowManager-kde5_standard
+Compiz
 </name>
 
 <description>  
-KDE5-standard
+OpenGL Window Manager with compositing
 </description>
 
 <installable>
@@ -20,22 +20,34 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "---- in preprocessing ----"
-echo "---- preprocessing done----"
+
 </preinstall>
 
 <install_package_names>
-kde-standard
-virtuoso-minimal
+compiz
 </install_package_names>
+
 
 <postinstall>
 
 </postinstall>
 
-<uninstall_package_names>
-kde-standard
-virtuoso-minimal
-</uninstall_package_names>
 
+<uninstall_package_names>
+compiz
+compiz-core 
+compiz-fusion-plugins-experimental 
+compiz-fusion-plugins-extra 
+compiz-fusion-plugins-main 
+compiz-gtk
+compiz-plugins 
+compizconfig-settings-manager 
+emerald 
+emerald-themes 
+fusion-icon 
+libcompizconfig0
+libemeraldengine0 
+python-compizconfig 
+simple-ccsm
+</uninstall_package_names>
 </app>
