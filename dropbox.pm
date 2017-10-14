@@ -10,7 +10,7 @@ Dropbox
 </name>
 
 <description>  
-a GTK+ bluetooth management utility
+Dropbox file sync utility
 </description>
 
 <installable>
