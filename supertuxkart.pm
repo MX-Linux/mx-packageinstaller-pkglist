@@ -10,7 +10,7 @@ SuperTuxKart
 </name>
 
 <description>  
-Mario kart style racing, run again for updates
+Mario kart style racing
 </description>
 
 <installable>
@@ -29,7 +29,8 @@ all
 
 
 <postinstall>
-
+supertuxkart
+supertuxkart-data
 </postinstall>
 
 

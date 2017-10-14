@@ -1,3 +1,15 @@
+mx-packageinstaller-pkglist (17.10.01) mx; urgency=medium
+
+  * mx17 bug fixes
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Fri, 13 Oct 2017 20:50:01 -0400
+
+mx-packageinstaller-pkglist (17.9.01) mx; urgency=medium
+
+  * added compiz
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Wed, 27 Sep 2017 21:00:01 -0400
+
 mx-packageinstaller-pkglist (17.7.01) mx; urgency=medium
 
   * updated virtualbox, dropbox, removed remmina and plex
