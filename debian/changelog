@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (17.10.02) mx; urgency=medium
+
+  * new entries
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sat, 14 Oct 2017 21:30:01 -0400
+
 mx-packageinstaller-pkglist (17.10.01) mx; urgency=medium
 
   * mx17 bug fixes
