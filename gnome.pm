@@ -27,7 +27,6 @@ all
 gdm3
 gnome-session
 gnome-control-center
-gnome-themes
 gnome-panel
 gnome-shell-extensions
 nautilus
@@ -43,7 +42,6 @@ nautilus
 gdm3
 gnome-session
 gnome-control-center
-gnome-themes
 gnome-panel
 gnome-shell-extensions
 </uninstall_package_names>

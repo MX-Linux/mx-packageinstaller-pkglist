@@ -1,4 +1,10 @@
-mx-packageinstaller-pkglist (17.10.02) mx; urgency=medium
+mx-packageinstaller-pkglist (17.10.03) mx; urgency=medium
+
+  * fix to gnome
+  
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sun, 22 Oct 2017 13:38:01 -0400
+ 
+ mx-packageinstaller-pkglist (17.10.02) mx; urgency=medium
 
   * new entries
 
