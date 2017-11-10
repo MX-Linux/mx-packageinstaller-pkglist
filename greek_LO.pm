@@ -31,8 +31,6 @@ libreoffice-calc
        libreoffice-writer
        libreoffice-l10n-el
        libreoffice-help-el
-       libreoffice-gtk
-
 </install_package_names>
 
 
@@ -49,7 +47,5 @@ libreoffice-calc
        libreoffice-writer
        libreoffice-l10n-el
        libreoffice-help-el
-       libreoffice-gtk
-
 </uninstall_package_names>
 </app>

@@ -31,7 +31,6 @@ libreoffice-math
 libreoffice-writer
 libreoffice-l10n-fr
 libreoffice-help-fr
-libreoffice-gtk
 </install_package_names>
 
 
@@ -48,6 +47,5 @@ libreoffice-math
 libreoffice-writer
 libreoffice-l10n-fr
 libreoffice-help-fr
-libreoffice-gtk
 </uninstall_package_names>
 </app>
