@@ -24,8 +24,8 @@ Default Debian 4.9 64bit linux kernel
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.0-3-amd64
-linux-headers-4.9.0-3-amd64
+linux-image-4.9.0-4-amd64
+linux-headers-4.9.0-4-amd64
 </install_package_names>
 
 
