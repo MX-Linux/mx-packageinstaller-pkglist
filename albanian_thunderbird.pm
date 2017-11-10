@@ -6,7 +6,7 @@ Language
 </category>
 
 <name>  
-Albanisan_Thunderbird
+Albanian_Thunderbird
 </name>
 
 <description>  

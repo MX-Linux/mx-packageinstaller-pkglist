@@ -2,29 +2,29 @@
 <app>
 
 <category>
-Graphics
+Development
 </category>
 
 <name>  
-Pinta
+Geany 
 </name>
 
 <description>  
-A Simple Paint Program
+fast and lightweight IDE and text editor
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/014/466/large.png</screenshot>
+<screenshot>http://screenshots.debian.net/screenshots/000/010/462/large.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-pinta
+geany
 </install_package_names>
 
 
@@ -34,6 +34,6 @@ pinta
 
 
 <uninstall_package_names>
-pinta
+geany
 </uninstall_package_names>
 </app>

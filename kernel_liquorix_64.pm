@@ -20,7 +20,7 @@ Liquorix Kernel (64 bit, latest 4.x from MX TEST repo)
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://main.mepis-deb.org/mx/testrepo/ mx15 test">/etc/apt/sources.list.d/mxtestrepotemp.list
+echo "deb http://mxrepo.com/mx/testrepo/ stretch test">/etc/apt/sources.list.d/mxtestrepotemp.list
 x-terminal-emulator -e apt-get update
 </preinstall>
 

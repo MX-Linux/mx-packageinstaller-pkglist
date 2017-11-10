@@ -2,30 +2,29 @@
 <app>
 
 <category>
-Kernels
+Graphics
 </category>
 
 <name>  
-Debian 32 bit w/pae
+Mirage
 </name>
 
 <description>  
-Default Debian 4.9 32bit linux kernel w/PAE
+fast and simple image viewer
 </description>
 
 <installable>
-32
+all
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot>http://screenshots.debian.net/screenshots/000/005/675/large.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.0-4-686-pae
-linux-headers-4.9.0-4-686-pae
+mirage
 </install_package_names>
 
 
@@ -35,7 +34,6 @@ linux-headers-4.9.0-4-686-pae
 
 
 <uninstall_package_names>
-linux-image-4.9.0-3-686-pae
-linux-headers-4.9.0-3-686-pae
+mirage
 </uninstall_package_names>
 </app>
