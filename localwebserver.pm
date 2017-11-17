@@ -10,7 +10,7 @@ Local Web Server
 </name>
 
 <description>  
-apache2, php5, mysql server applications
+apache2, php7, mariaDB 
 </description>
 
 <installable>
@@ -24,16 +24,20 @@ all
 </preinstall>
 
 <install_package_names>
-apache2
+apache2 
 apache2-utils
-apache2-mpm-prefork
-php5 
-php5-common
-mysql-server
-mysql-common
-libapache2-mod-php5
-php5-mysql
-phpmyadmin 
+curl
+mariadb-server 
+mariadb-client
+php7.0 
+libapache2-mod-php7.0 
+php7.0-mysql 
+php-common 
+php7.0-cli 
+php7.0-common 
+php7.0-json 
+php7.0-opcache 
+php7.0-readline 
 </install_package_names>
 
 
@@ -43,15 +47,19 @@ phpmyadmin
 
 
 <uninstall_package_names>
-apache2
+apache2 
 apache2-utils
-apache2-mpm-prefork
-php5 
-php5-common
-mysql-server
-mysql-common
-libapache2-mod-php5
-php5-mysql
-phpmyadmin
+curl
+mariadb-server 
+mariadb-client
+php7.0 
+libapache2-mod-php7.0 
+php7.0-mysql 
+php-common 
+php7.0-cli 
+php7.0-common 
+php7.0-json 
+php7.0-opcache 
+php7.0-readline
 </uninstall_package_names>
 </app>
