@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (17.11.03) mx; urgency=medium
+
+  * virtualbox-5.2
+  
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Fri, 17 Nov 2017 21:28:17 -0400
+
 mx-packageinstaller-pkglist (17.11.02) mx; urgency=medium
 
   * local server updates
