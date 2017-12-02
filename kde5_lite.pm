@@ -6,11 +6,11 @@ Window Managers
 </category>
 
 <name>  
-WindowManager-kde5_lite
+KDE5 Desktop-only
 </name>
 
 <description>  
-KDE5-lite
+Installs kde-plasma-desktop
 </description>
 
 <installable>
