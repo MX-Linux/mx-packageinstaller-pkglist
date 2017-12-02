@@ -6,11 +6,11 @@ Window Managers
 </category>
 
 <name>  
-WindowManager-kde5_standard
+KDE5 Standard
 </name>
 
 <description>  
-KDE5-standard
+Installs kde-standard, virtuoso-minimal
 </description>
 
 <installable>
