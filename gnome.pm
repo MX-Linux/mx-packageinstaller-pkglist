@@ -6,11 +6,11 @@ Window Managers
 </category>
 
 <name>  
-Gnome 
+Gnome Base
 </name>
 
 <description>  
-minimal install of gnome shell
+Minimal install of gnome shell
 </description>
 
 <installable>
