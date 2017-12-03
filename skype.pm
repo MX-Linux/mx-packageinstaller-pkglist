@@ -6,11 +6,11 @@ Messaging
 </category>
 
 <name>  
-Skype
+Skype (64bit only)
 </name>
 
 <description>  
-Peer-to-peer (64 bit only) video, voice, messaging
+Peer-to-peer video, voice, messaging
 </description>
 
 <installable>
@@ -23,7 +23,7 @@ Peer-to-peer (64 bit only) video, voice, messaging
 x-terminal-emulator -e wget https://go.skype.com/skypeforlinux-64.deb
 x-terminal-emulator -e dpkg -i skypeforlinux-64.deb
 x-terminal-emulator -e apt-get -f install
-rm teamviewer_i386.deb
+rm skypeforlinux-64.deb
 </preinstall>
 
 <install_package_names>
@@ -37,6 +37,6 @@ rm teamviewer_i386.deb
 
 
 <uninstall_package_names>
-skypeforlinux-64
+skypeforlinux
 </uninstall_package_names>
 </app>
