@@ -2,40 +2,41 @@
 <app>
 
 <category>
-Window Managers
+Messaging
 </category>
 
 <name>  
-KDE5 Standard
+Skype (64bit only)
 </name>
 
 <description>  
-Installs kde-standard, virtuoso-minimal
+Peer-to-peer video, voice, messaging
 </description>
 
 <installable>
-all
+64
 </installable>
 
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "---- in preprocessing ----"
-echo "---- preprocessing done----"
+x-terminal-emulator -e wget https://go.skype.com/skypeforlinux-64.deb
+x-terminal-emulator -e dpkg -i skypeforlinux-64.deb
+x-terminal-emulator -e apt-get -f install
+rm skypeforlinux-64.deb
 </preinstall>
 
 <install_package_names>
-kde-standard
-virtuoso-minimal
+
 </install_package_names>
+
 
 <postinstall>
 
 </postinstall>
 
-<uninstall_package_names>
-kde-standard
-virtuoso-minimal
-</uninstall_package_names>
 
+<uninstall_package_names>
+skypeforlinux
+</uninstall_package_names>
 </app>
