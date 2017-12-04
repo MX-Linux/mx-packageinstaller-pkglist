@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (17.12) mx; urgency=medium
+
+  * added skype, removed arista (paul) 
+
+ -- dolphin_oracle <dolphin@littlebyte>  Sun, 03 Dec 2017 22:13:16 -0500
+
 mx-packageinstaller-pkglist (17.11.04) mx; urgency=medium
 
   * added gthumb 
