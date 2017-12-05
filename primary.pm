@@ -24,7 +24,6 @@ all
 </preinstall>
 
 <install_package_names>
-celestia-gnome
 gcompris
 gcompris-sound-en
 laby
@@ -45,7 +44,6 @@ marble-plugins
 
 
 <uninstall_package_names>
-celestia-gnome
 gcompris
 gcompris-sound-en
 laby
