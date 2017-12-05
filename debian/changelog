@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (17.12.01) mx; urgency=medium
+
+  * added okular and evince (paul) 
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Tue, 05 Dec 2017 18:45:32 -0500
+
 mx-packageinstaller-pkglist (17.12) mx; urgency=medium
 
   * added skype, removed arista (paul) 
