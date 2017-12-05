@@ -2,37 +2,29 @@
 <app>
 
 <category>
-Children
+Office
 </category>
 
 <name>  
-Secondary
+Evince
 </name>
 
 <description>  
-Secondary. Includes: calibre, celestia, dia, laby, lightspeed, lybniz, melting, ri-li and stellarium
+a simple document (PostScript, PDF) viewer
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot>https://screenshots.debian.net/screenshots/000/015/840/large.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-calibre
-dia-gnome
-laby
-lightspeed
-lybniz
-melting
-melting-gui
-ri-li
-stellarium
+evince
 </install_package_names>
 
 
@@ -42,14 +34,6 @@ stellarium
 
 
 <uninstall_package_names>
-calibre
-dia-gnome
-laby
-lightspeed
-lybniz
-melting
-melting-gui
-ri-li
-stellarium
+evince
 </uninstall_package_names>
 </app>
