@@ -2,37 +2,29 @@
 <app>
 
 <category>
-Children
+Office
 </category>
 
 <name>  
-Secondary
+Okular
 </name>
 
 <description>  
-Secondary. Includes: calibre, celestia, dia, laby, lightspeed, lybniz, melting, ri-li and stellarium
+a universal document viewer -WARNING- pulls in elements of KDE
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot>https://screenshots.debian.net/screenshots/000/009/644/large.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-calibre
-dia-gnome
-laby
-lightspeed
-lybniz
-melting
-melting-gui
-ri-li
-stellarium
+okular
 </install_package_names>
 
 
@@ -42,14 +34,6 @@ stellarium
 
 
 <uninstall_package_names>
-calibre
-dia-gnome
-laby
-lightspeed
-lybniz
-melting
-melting-gui
-ri-li
-stellarium
+okular
 </uninstall_package_names>
 </app>
