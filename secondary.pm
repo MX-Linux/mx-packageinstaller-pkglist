@@ -25,7 +25,6 @@ all
 
 <install_package_names>
 calibre
-celestia-gnome
 dia-gnome
 laby
 lightspeed
@@ -44,7 +43,6 @@ stellarium
 
 <uninstall_package_names>
 calibre
-celestia-gnome
 dia-gnome
 laby
 lightspeed

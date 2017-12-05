@@ -24,13 +24,13 @@ all
 </preinstall>
 
 <install_package_names>
-
+supertuxkart
+supertuxkart-data
 </install_package_names>
 
 
 <postinstall>
-supertuxkart
-supertuxkart-data
+
 </postinstall>
 
 
