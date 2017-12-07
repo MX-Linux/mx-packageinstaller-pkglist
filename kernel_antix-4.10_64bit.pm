@@ -35,7 +35,7 @@ linux-headers-4.10.5-antix.3-amd64-smp
 
 
 <uninstall_package_names>
-linux-image-4.10.5-antix.3-686-smp-pae
-linux-headers-4.10.5-antix.3-686-smp-pae
+linux-image-4.10.5-antix.3-amd64-smp
+linux-headers-4.10.5-antix.3-amd64-smp
 </uninstall_package_names>
 </app>
