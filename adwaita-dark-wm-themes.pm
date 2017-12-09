@@ -2,30 +2,30 @@
 <app>
 
 <category>
-Kernels
+Themes
 </category>
 
 <name>  
-4.10 kernel
+Adwaita Dark WM Themes
 </name>
 
 <description>  
-antiX 4.10 kernel, 64 bit 
+Window Manager, border Themes to match the Obsidian-2 gtk Theme
 </description>
 
 <installable>
-64
+all
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot></screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-linux-image-4.10.5-antix.3-amd64-smp
-linux-headers-4.10.5-antix.3-amd64-smp
+adwaita-dark-squared-xfce-wm-theme 
+adwaita-dark-xfce-wm-theme
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ linux-headers-4.10.5-antix.3-amd64-smp
 
 
 <uninstall_package_names>
-linux-image-4.10.5-antix.3-amd64-smp
-linux-headers-4.10.5-antix.3-amd64-smp
+adwaita-dark-squared-xfce-wm-theme 
+adwaita-dark-xfce-wm-theme
 </uninstall_package_names>
 </app>

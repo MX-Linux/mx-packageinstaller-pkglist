@@ -2,30 +2,29 @@
 <app>
 
 <category>
-Kernels
+Themes
 </category>
 
 <name>  
-4.10 kernel
+Obsidian-2 gtk Theme
 </name>
 
 <description>  
-antiX 4.10 kernel, 64 bit 
+a dark gtk Theme
 </description>
 
 <installable>
-64
+all
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot></screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-linux-image-4.10.5-antix.3-amd64-smp
-linux-headers-4.10.5-antix.3-amd64-smp
+obsidian-2-gtk-theme
 </install_package_names>
 
 
@@ -35,7 +34,6 @@ linux-headers-4.10.5-antix.3-amd64-smp
 
 
 <uninstall_package_names>
-linux-image-4.10.5-antix.3-amd64-smp
-linux-headers-4.10.5-antix.3-amd64-smp
+obsidian-2-gtk-theme
 </uninstall_package_names>
 </app>
