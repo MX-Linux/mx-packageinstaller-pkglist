@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (17.12.02) mx; urgency=medium
+
+  * new themes added (paul)
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sat, 09 Dec 2017 18:14:05 -0500
+
 mx-packageinstaller-pkglist (17.12.01) mx; urgency=medium
 
   * added okular and evince (paul) 
