@@ -6,11 +6,11 @@ Themes
 </category>
 
 <name>  
-Adwaita Dark WM Themes
+Obsidian Icon Theme
 </name>
 
 <description>  
-Window Manager Themes to match the Obsidian-2 Gtk Theme
+an updated/refreshed Faenza-ish icon theme with many colour choices
 </description>
 
 <installable>
@@ -24,8 +24,7 @@ all
 </preinstall>
 
 <install_package_names>
-adwaita-dark-squared-xfce-wm-theme 
-adwaita-dark-xfce-wm-theme
+obsidian-icon-theme
 </install_package_names>
 
 
@@ -35,7 +34,6 @@ adwaita-dark-xfce-wm-theme
 
 
 <uninstall_package_names>
-adwaita-dark-squared-xfce-wm-theme 
-adwaita-dark-xfce-wm-theme
+obsidian-icon-theme
 </uninstall_package_names>
 </app>
