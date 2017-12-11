@@ -6,11 +6,11 @@ Themes
 </category>
 
 <name>  
-Adwaita Dark WM Themes
+Moka/Faba Icon Themes
 </name>
 
 <description>  
-Window Manager Themes to match the Obsidian-2 Gtk Theme
+a comprehensive icon set with a uniform flat "rounded square" look
 </description>
 
 <installable>
@@ -24,8 +24,8 @@ all
 </preinstall>
 
 <install_package_names>
-adwaita-dark-squared-xfce-wm-theme 
-adwaita-dark-xfce-wm-theme
+moka-icon-theme
+faba-icon-theme
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ adwaita-dark-xfce-wm-theme
 
 
 <uninstall_package_names>
-adwaita-dark-squared-xfce-wm-theme 
-adwaita-dark-xfce-wm-theme
+moka-icon-theme
+faba-icon-theme
 </uninstall_package_names>
 </app>

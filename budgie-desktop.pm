@@ -2,40 +2,40 @@
 <app>
 
 <category>
-Themes
+Window Managers
 </category>
 
 <name>  
-Adwaita Dark WM Themes
+Budgie Desktop
 </name>
 
 <description>  
-Window Manager Themes to match the Obsidian-2 Gtk Theme
+a lightweight desktop environment
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot></screenshot>
+<screenshot>none</screenshot>
 
 <preinstall>
-
+echo "---- in preprocessing ----"
+echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
-adwaita-dark-squared-xfce-wm-theme 
-adwaita-dark-xfce-wm-theme
+budgie-desktop
+budgie-desktop-doc
 </install_package_names>
-
 
 <postinstall>
 
 </postinstall>
 
-
 <uninstall_package_names>
-adwaita-dark-squared-xfce-wm-theme 
-adwaita-dark-xfce-wm-theme
+budgie-desktop
+budgie-desktop-doc
 </uninstall_package_names>
+
 </app>

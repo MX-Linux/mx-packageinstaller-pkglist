@@ -6,11 +6,11 @@ Themes
 </category>
 
 <name>  
-Obsidian-2 gtk Theme
+Obsidian-2 Gtk Theme
 </name>
 
 <description>  
-a dark gtk Theme
+a dark Gtk Theme
 </description>
 
 <installable>
