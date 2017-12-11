@@ -6,11 +6,11 @@ Themes
 </category>
 
 <name>  
-Adwaita Dark WM Themes
+Adapta gtk Theme
 </name>
 
 <description>  
-Window Manager Themes to match the Obsidian-2 Gtk Theme
+a modern flat theme in light and dark variants, with widgets having neon blue highlights
 </description>
 
 <installable>
@@ -24,8 +24,7 @@ all
 </preinstall>
 
 <install_package_names>
-adwaita-dark-squared-xfce-wm-theme 
-adwaita-dark-xfce-wm-theme
+adapta-gtk-theme
 </install_package_names>
 
 
@@ -35,7 +34,6 @@ adwaita-dark-xfce-wm-theme
 
 
 <uninstall_package_names>
-adwaita-dark-squared-xfce-wm-theme 
-adwaita-dark-xfce-wm-theme
+adapta-gtk-theme
 </uninstall_package_names>
 </app>
