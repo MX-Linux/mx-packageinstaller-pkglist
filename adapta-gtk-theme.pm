@@ -6,7 +6,7 @@ Themes
 </category>
 
 <name>  
-Adapta gtk Theme
+Adapta Gtk Theme
 </name>
 
 <description>  
