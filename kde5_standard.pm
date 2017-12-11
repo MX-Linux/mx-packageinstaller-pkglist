@@ -25,8 +25,10 @@ echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
+kwin-X11
 kde-standard
 virtuoso-minimal
+systemsettings
 </install_package_names>
 
 <postinstall>
@@ -34,8 +36,10 @@ virtuoso-minimal
 </postinstall>
 
 <uninstall_package_names>
+kwin-X11
 kde-standard
 virtuoso-minimal
+systemsettings
 </uninstall_package_names>
 
 </app>

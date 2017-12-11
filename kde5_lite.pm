@@ -25,7 +25,9 @@ echo "---- preprocessing done----"
 </preinstall>
 
 <install_package_names>
+kwin-X11
 kde-plasma-desktop
+systemsettings
 </install_package_names>
 
 <postinstall>
@@ -33,7 +35,9 @@ kde-plasma-desktop
 </postinstall>
 
 <uninstall_package_names>
+kwin-X11
 kde-plasma-desktop
+systemsettings
 </uninstall_package_names>
 
 </app>
