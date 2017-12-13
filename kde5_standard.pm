@@ -5,12 +5,12 @@
 Window Managers
 </category>
 
-<name>  
+<name>
 KDE5 Standard
 </name>
 
-<description>  
-Installs kde-standard, virtuoso-minimal
+<description>
+Installs kde-standard, kde-plasma-desktop
 </description>
 
 <installable>
@@ -20,15 +20,12 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "---- in preprocessing ----"
-echo "---- preprocessing done----"
+
 </preinstall>
 
 <install_package_names>
-kwin-X11
 kde-standard
-virtuoso-minimal
-systemsettings
+kde-plasma-desktop
 </install_package_names>
 
 <postinstall>
@@ -36,10 +33,8 @@ systemsettings
 </postinstall>
 
 <uninstall_package_names>
-kwin-X11
 kde-standard
-virtuoso-minimal
-systemsettings
+kde-standard
 </uninstall_package_names>
 
 </app>
