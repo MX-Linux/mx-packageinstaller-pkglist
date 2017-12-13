@@ -2,7 +2,7 @@
 <app>
 
 <category>
-Themes
+Icons
 </category>
 
 <name>  
