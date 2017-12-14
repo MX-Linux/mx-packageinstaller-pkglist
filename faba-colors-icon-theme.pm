@@ -2,15 +2,15 @@
 <app>
 
 <category>
-Themes
+Icons
 </category>
 
 <name>  
-Adapta Gtk Theme
+Faba Icon Colors
 </name>
 
 <description>  
-a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights
+a Faba icon theme with many colour choices
 </description>
 
 <installable>
@@ -24,7 +24,7 @@ all
 </preinstall>
 
 <install_package_names>
-adapta-gtk-theme
+faba-colors-icon-theme
 </install_package_names>
 
 
@@ -34,6 +34,6 @@ adapta-gtk-theme
 
 
 <uninstall_package_names>
-adapta-gtk-theme
+faba-colors-icon-theme
 </uninstall_package_names>
 </app>
