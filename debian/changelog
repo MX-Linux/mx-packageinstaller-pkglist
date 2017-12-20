@@ -1,8 +1,21 @@
+mx-packageinstaller-pkglist (17.12.05) mx; urgency=medium
+
+  *  moka/faba icons 
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Tue, 19 Dec 2017 20:23:02 -0500
+
+mx-packageinstaller-pkglist (17.12.04) mx; urgency=medium
+
+  * kde modified, more icon themes added (paul) 
+
+ -- dolphin_oracle <dolphin@littlebyte>  Wed, 13 Dec 2017 18:10:41 -0500
+
 mx-packageinstaller-pkglist (17.12.03) mx; urgency=medium
 
-  * moka/faba icons 
+  * more themes added (paul)
+  * budgie desktop option added (paul)
 
- -- dolphin_oracle <dolphinoracle@gmail.com>  Tue, 19 Dec 2017 19:42:30 -0500
+ -- dolphin_oracle <dolphin@littlebyte>  Sun, 10 Dec 2017 21:17:41 -0500
 
 mx-packageinstaller-pkglist (17.12.02) mx; urgency=medium
 
