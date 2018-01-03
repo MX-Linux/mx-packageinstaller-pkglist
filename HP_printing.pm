@@ -6,11 +6,11 @@ Printing
 </category>
 
 <name>  
-HP Printing extras
+HP Printing
 </name>
 
 <description>  
-HP printing extras
+HP Linux Imaging & Printing (HPLIP) and printing extras
 </description>
 
 <installable>
