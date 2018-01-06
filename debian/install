@@ -1,3 +1,4 @@
 *.pm		usr/share/mx-packageinstaller-pkglist
 *.sh            usr/share/mx-packageinstaller-pkglist
+plex_stuff/* usr/share/mx-packageinstaller-pkglist/plex_stuff
 
