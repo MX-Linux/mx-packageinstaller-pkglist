@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.01.05) mx; urgency=medium
+
+  * plex changes
+
+ -- dolphin_oracle <dolphin@littlebyte>  Fri, 05 Jan 2018 20:35:08 -0500
+
 mx-packageinstaller-pkglist (18.01.04) mx; urgency=medium
 
   * changes to hp printing, added plex 

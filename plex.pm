@@ -10,7 +10,7 @@ Plex
 </name>
 
 <description>  
-Plex Mediaserver (includes web client)
+Plex Mediaserver (includes web client)(requires reboot after install)
 </description>
 
 <installable>
@@ -38,7 +38,6 @@ rm /etc/init.d/plexmediaserver
 chown -R plex:plex /var/lib/plexmediaserver/
 cp /usr/share/mx-packageinstaller-pkglist/plex_stuff/init/plexmediaserver /etc/init.d/plexmediaserver
 update-rc.d plexmediaserver defaults
-nohup service plexmediaserver start >/var/log/plex_initial_start.log
 </postinstall>
 
 
