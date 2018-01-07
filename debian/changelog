@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.01mx16) mx; urgency=medium
+
+  * added backports kernel options
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sun, 07 Jan 2018 14:56:37 -0400
+
 mx-packageinstaller-pkglist (17.10.01mx16) mx; urgency=medium
 
   * Version changed so it will upgrade over stretch version
