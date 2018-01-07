@@ -22,7 +22,7 @@ Debian Backports Kernel (64 bit)
 <preinstall>
 echo "deb http://http.debian.net/debian jessie-backports main">/etc/apt/sources.list.d/jessiebackport.list
 x-terminal-emulator -e apt-get update
-x-terminal-emulator -e apt-get install -t jessie-backports 
+x-terminal-emulator -e apt-get install -t jessie-backports linux-image-amd64 linux-headers-amd64
 </preinstall>
 
 <install_package_names>

@@ -22,12 +22,11 @@ Debian Backports Kernel (32 bit No PAE)
 <preinstall>
 echo "deb http://http.debian.net/debian jessie-backports main">/etc/apt/sources.list.d/jessiebackport.list
 x-terminal-emulator -e apt-get update
-x-terminal-emulator -e apt-get install -t jessie-backports 
+x-terminal-emulator -e apt-get install -t jessie-backports linux-image-686 linux-headers-686
 </preinstall>
 
 <install_package_names>
-linux-image-686
-linux-headers-686
+
 </install_package_names>
 
 
