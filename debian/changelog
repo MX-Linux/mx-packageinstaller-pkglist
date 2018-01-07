@@ -1,4 +1,10 @@
-mx-packageinstaller-pkglist (18.01.05) mx; urgency=medium
+mx-packageinstaller-pkglist (18.01.06) mx; urgency=medium
+
+  * debian backports kernel options
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Sun, 07 Jan 2018 15:07:54 -0500
+ 
+ mx-packageinstaller-pkglist (18.01.05) mx; urgency=medium
 
   * plex changes
 
