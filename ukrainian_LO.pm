@@ -30,6 +30,7 @@ libreoffice-calc
         libreoffice-math
         libreoffice-writer
 	libreoffice-l10n-uk
+        libreoffice-gtk
 </install_package_names>
 
 
@@ -45,5 +46,6 @@ libreoffice-calc
         libreoffice-math
         libreoffice-writer
 	libreoffice-l10n-uk
+        libreoffice-gtk
 </uninstall_package_names>
 </app>

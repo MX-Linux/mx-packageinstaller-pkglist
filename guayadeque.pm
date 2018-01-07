@@ -2,29 +2,29 @@
 <app>
 
 <category>
-Themes
+Audio
 </category>
 
 <name>  
-Adapta Gtk Theme
+Guayadeque
 </name>
 
 <description>  
-a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights
+a music management program designed for all music enthusiasts
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot></screenshot>
+<screenshot>https://screenshots.debian.net/screenshots/000/014/661/large.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-adapta-gtk-theme
+guayadeque
 </install_package_names>
 
 
@@ -34,6 +34,6 @@ adapta-gtk-theme
 
 
 <uninstall_package_names>
-adapta-gtk-theme
+guayadeque
 </uninstall_package_names>
 </app>

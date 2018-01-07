@@ -29,12 +29,12 @@ gimp-data
 gimp-data-extras
 gimp-cbmplugs
 gimp-dcraw
-gimp-dds
-gimp-gap
-gimp-gluas
-gimp-gmic
-gimp-lensfun
-gimp-texturize
+gimp-dds 
+gimp-gap 
+gimp-gluas 
+gimp-gmic 
+gimp-lensfun  
+gimp-texturize 
 </install_package_names>
 
 

@@ -1,31 +1,32 @@
 <?xml version="1.0"?>
 <app>
 
-
 <category>
-Screenshot Utilities
+Remote Access
 </category>
 
 <name>  
-ksnip
+Remmina
 </name>
 
 <description>  
-Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools
+a remote desktop client supporting vnc and rdp
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://a.fsdn.com/con/app/proj/ksnip/screenshots/32b0eaefbc23f9053d9f2f68065fc2bcbb93.png</screenshot>
+<screenshot>https://screenshots.debian.net/screenshots/000/011/154/large.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-ksnip
+remmina
+remmina-plugin-vnc
+remmina-plugin-rdp
 </install_package_names>
 
 
@@ -35,7 +36,8 @@ ksnip
 
 
 <uninstall_package_names>
-ksnip
+remmina
+remmina-plugin-vnc
+remmina-plugin-rdp
 </uninstall_package_names>
-
 </app>

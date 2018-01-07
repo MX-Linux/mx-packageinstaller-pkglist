@@ -6,11 +6,11 @@ Window Managers
 </category>
 
 <name>  
-Gnome Base
+Gnome 
 </name>
 
 <description>  
-Minimal install of gnome shell
+minimal install of gnome shell
 </description>
 
 <installable>
@@ -27,6 +27,7 @@ all
 gdm3
 gnome-session
 gnome-control-center
+gnome-themes
 gnome-panel
 gnome-shell-extensions
 nautilus
@@ -42,6 +43,7 @@ nautilus
 gdm3
 gnome-session
 gnome-control-center
+gnome-themes
 gnome-panel
 gnome-shell-extensions
 </uninstall_package_names>

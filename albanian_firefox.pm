@@ -6,7 +6,7 @@ Language
 </category>
 
 <name>  
-Albanian_Firefox
+Albanisan_Firefox
 </name>
 
 <description>  

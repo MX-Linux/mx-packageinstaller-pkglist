@@ -2,29 +2,29 @@
 <app>
 
 <category>
-Icons
+Media Converter
 </category>
 
 <name>  
-Faba Icon Colors
+Arista
 </name>
 
 <description>  
-a Faba icon theme with many colour choices
+a python based simple multimedia transcoder
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot></screenshot>
+<screenshot>https://screenshots.debian.net/screenshots/000/004/665/large.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-faba-colors-icon-theme
+arista
 </install_package_names>
 
 
@@ -34,6 +34,6 @@ faba-colors-icon-theme
 
 
 <uninstall_package_names>
-faba-colors-icon-theme
+arista
 </uninstall_package_names>
 </app>

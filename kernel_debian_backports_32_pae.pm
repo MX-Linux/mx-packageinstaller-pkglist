@@ -2,42 +2,44 @@
 <app>
 
 <category>
-Games
+Kernels
 </category>
 
 <name>  
-SuperTuxKart
+Kernel Debian-Backports 32 bit PAE
 </name>
 
 <description>  
-Mario kart style racing, run again for updates
+Debian Backports Kernel (32 bit PAE)
 </description>
 
 <installable>
-all
+32
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/009/727/large.png</screenshot>
+<screenshot>none</screenshot>
 
 <preinstall>
 echo "deb http://http.debian.net/debian jessie-backports main">/etc/apt/sources.list.d/jessiebackport.list
 x-terminal-emulator -e apt-get update
-x-terminal-emulator -e apt-get install -t jessie-backports supertuxkart supertuxkart-data
+x-terminal-emulator -e apt-get install -t jessie-backports 
 </preinstall>
 
 <install_package_names>
-
+linux-image-686-pae
+linux-headers-686-pae
 </install_package_names>
 
 
 <postinstall>
-rm -f /etc/apt/sources.list.d/jessiebackports.list
+rm -f /etc/apt/sources.list.d/jessiebackport.list
+apt-get -y remove linux-image-686-pae linux-headers-686-pae
 x-terminal-emulator -e apt-get update
+x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh
 </postinstall>
 
 
 <uninstall_package_names>
-supertuxkart
-supertuxkart-data
+
 </uninstall_package_names>
 </app>

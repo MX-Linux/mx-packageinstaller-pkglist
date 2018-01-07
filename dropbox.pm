@@ -10,7 +10,7 @@ Dropbox
 </name>
 
 <description>  
-Dropbox file sync utility
+a GTK+ bluetooth management utility
 </description>
 
 <installable>
@@ -20,11 +20,13 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-
+echo "deb http://linux.dropbox.com/debian/ jessie main">/etc/apt/sources.list.d/dropbox.list
+apt-key adv --keyserver pgp.mit.edu --recv-keys 5044912E
+x-terminal-emulator -e apt-get update
 </preinstall>
 
 <install_package_names>
-nautilus-dropbox
+dropbox
 python-gpgme
 </install_package_names>
 
@@ -35,6 +37,6 @@ python-gpgme
 
 
 <uninstall_package_names>
-nautilus-dropbox
+dropbox
 </uninstall_package_names>
 </app>

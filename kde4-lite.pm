@@ -2,29 +2,30 @@
 <app>
 
 <category>
-Icons
+Window Managers
 </category>
 
 <name>  
-Obsidian Icon Theme
+KDE4-lite
 </name>
 
 <description>  
-an updated/refreshed Faenza-ish icon theme with many colour choices
+minimal install of KDE4
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot></screenshot>
+<screenshot>https://screenshots.debian.net/screenshots/000/006/731/large.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-obsidian-icon-theme
+kde-plasma-desktop
+phonon4qt5
 </install_package_names>
 
 
@@ -34,6 +35,7 @@ obsidian-icon-theme
 
 
 <uninstall_package_names>
-obsidian-icon-theme
+kde-plasma-desktop
+phonon4qt5
 </uninstall_package_names>
 </app>

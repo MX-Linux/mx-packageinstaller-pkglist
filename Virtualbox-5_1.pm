@@ -7,11 +7,11 @@ Misc
 </category>
 
 <name>  
-VirtualBox 5.2 (Oracle)
+VirtualBox 5.1 (Oracle)
 </name>
 
 <description>  
-Virtualbox 5.2 from Oracle.
+Virtualbox 5.1 from Oracle.
 </description>
 
 <installable>
@@ -27,7 +27,7 @@ x-terminal-emulator -e apt-get update
 </preinstall>
 
 <install_package_names>
-virtualbox-5.2
+virtualbox-5.1
 </install_package_names>
 
 
@@ -37,7 +37,7 @@ x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/install_vb_extensi
 
 
 <uninstall_package_names>
-virtualbox-5.2
+virtualbox-5.1
 </uninstall_package_names>
 
 </app>

@@ -10,7 +10,7 @@ Debian 32 bit no-pae
 </name>
 
 <description>  
-Default Debian 4.9 32bit linux kernel, no-PAE, single core
+Default Debian 3.16 32bit linux kernel, no-PAE, single core
 </description>
 
 <installable>
@@ -24,8 +24,8 @@ Default Debian 4.9 32bit linux kernel, no-PAE, single core
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.0-4-686
-linux-headers-4.9.0-4-686
+linux-image-3.16.0-4-586
+linux-headers-3.16.0-4-586
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ linux-headers-4.9.0-4-686
 
 
 <uninstall_package_names>
-linux-image-4.9.0-3-686
-linux-headers-4.9.0-3-686
+linux-image-3.16.0-4-586
+linux-headers-3.16.0-4-586
 </uninstall_package_names>
 </app>

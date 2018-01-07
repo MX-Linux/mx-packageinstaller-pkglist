@@ -2,29 +2,30 @@
 <app>
 
 <category>
-Office
+Kernels
 </category>
 
 <name>  
-Evince
+MX16 Default
 </name>
 
 <description>  
-a simple document (PostScript, PDF) viewer
+Default Kernel MX-16 64 bit (4.7)
 </description>
 
 <installable>
-all
+64
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/840/large.png</screenshot>
+<screenshot>none</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-evince
+linux-image-4.7.0-0.bpo.1-amd64-unsigned
+linux-headers-4.7.0-0.bpo.1-amd64
 </install_package_names>
 
 
@@ -34,6 +35,7 @@ evince
 
 
 <uninstall_package_names>
-evince
+linux-image-4.7.0-0.bpo.1-amd64-unsigned
+linux-headers-4.7.0-0.bpo.1-amd64
 </uninstall_package_names>
 </app>

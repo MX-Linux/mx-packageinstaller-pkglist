@@ -2,30 +2,30 @@
 <app>
 
 <category>
-Themes
+Kernels
 </category>
 
 <name>  
-Adwaita Dark WM Themes
+MX15 64 bit
 </name>
 
 <description>  
-Window Manager Themes to match the Obsidian-2 Gtk Theme
+Default Kernel MX-15 64 bit (4.2)
 </description>
 
 <installable>
-all
+64
 </installable>
 
-<screenshot></screenshot>
+<screenshot>none</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-adwaita-dark-squared-xfce-wm-theme 
-adwaita-dark-xfce-wm-theme
+linux-image-4.2.0-0.bpo.1-amd64
+linux-headers-4.2.0-0.bpo.1-amd64
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ adwaita-dark-xfce-wm-theme
 
 
 <uninstall_package_names>
-adwaita-dark-squared-xfce-wm-theme 
-adwaita-dark-xfce-wm-theme
+linux-image-4.2.0-0.bpo.1-amd64
+linux-headers-4.2.0-0.bpo.1-amd64
 </uninstall_package_names>
 </app>

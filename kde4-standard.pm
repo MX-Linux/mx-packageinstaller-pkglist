@@ -1,31 +1,32 @@
 <?xml version="1.0"?>
 <app>
 
-
 <category>
-Screenshot Utilities
+Window Managers
 </category>
 
 <name>  
-Shutter
+KDE4-standard
 </name>
 
 <description>  
-a feature rich screenshot app
+standard install of KDE4
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>http://shutter-project.org/wp-content/uploads/key_feature_030.png</screenshot>
+<screenshot>https://screenshots.debian.net/screenshots/000/006/731/large.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-shutter
+kde-standard
+virtuoso-minimal
+phonon4qt5
 </install_package_names>
 
 
@@ -35,7 +36,10 @@ shutter
 
 
 <uninstall_package_names>
-shutter
+kde-plasma-desktop
+phonon4qt5
+kde-standard
+virtuoso-minimal
+phonon4qt5
 </uninstall_package_names>
-
 </app>

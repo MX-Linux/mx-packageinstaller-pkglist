@@ -25,8 +25,6 @@ all
 
 <install_package_names>
 kdenlive
-frei0r-plugins
-breeze-icon-theme
 </install_package_names>
 
 
@@ -37,6 +35,5 @@ breeze-icon-theme
 
 <uninstall_package_names>
 kdenlive
-frei0r-plugins
 </uninstall_package_names>
 </app>

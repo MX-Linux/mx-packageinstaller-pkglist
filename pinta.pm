@@ -6,25 +6,25 @@ Graphics
 </category>
 
 <name>  
-gThumb
+Pinta
 </name>
 
 <description>  
-advanced image viewer and browser
+A Simple Paint Program
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/013/461/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/screenshots/000/014/466/large.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-gthumb
+pinta
 </install_package_names>
 
 
@@ -34,6 +34,6 @@ gthumb
 
 
 <uninstall_package_names>
-gthumb
+pinta
 </uninstall_package_names>
 </app>
