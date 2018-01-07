@@ -22,7 +22,7 @@ Debian Backports Kernel (64 bit)
 <preinstall>
 echo "deb http://ftp.debian.org/debian stretch-backports main">/etc/apt/sources.list.d/backport.list
 x-terminal-emulator -e apt-get update
-x-terminal-emulator -e apt-get install -t stretch-backports 
+x-terminal-emulator -e apt-get install -t stretch-backports linux-image-amd64 linux-headers-amd64
 </preinstall>
 
 <install_package_names>

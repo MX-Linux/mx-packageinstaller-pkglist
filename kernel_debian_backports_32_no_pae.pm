@@ -22,12 +22,11 @@ Debian Backports Kernel (32 bit No PAE)
 <preinstall>
 echo "deb http://ftp.debian.org/debian stretch-backports main">/etc/apt/sources.list.d/backport.list
 x-terminal-emulator -e apt-get update
-x-terminal-emulator -e apt-get install -t stretch-backports 
+x-terminal-emulator -e apt-get install -t stretch-backports linux-image-686 linux-headers-686
 </preinstall>
 
 <install_package_names>
-linux-image-686
-linux-headers-686
+
 </install_package_names>
 
 
