@@ -6,7 +6,7 @@ Kernels
 </category>
 
 <name>  
-Kernel Debian-Backports 64 bit
+Debian-Backports 64 bit
 </name>
 
 <description>  
