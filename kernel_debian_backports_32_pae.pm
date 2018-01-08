@@ -32,9 +32,9 @@ x-terminal-emulator -e apt-get install -t jessie-backports linux-image-686-pae l
 
 <postinstall>
 rm -f /etc/apt/sources.list.d/jessiebackport.list
+x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-amd64 linux-image-686-pae
 apt-get -y remove linux-image-686-pae linux-headers-686-pae
 x-terminal-emulator -e apt-get update
-x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh
 </postinstall>
 
 

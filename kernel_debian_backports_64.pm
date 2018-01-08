@@ -33,9 +33,9 @@ linux-headers-amd64
 
 <postinstall>
 rm -f /etc/apt/sources.list.d/jessiebackport.list
+x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-amd64
 apt-get -y remove linux-image-amd64 linux-headers-amd64
 x-terminal-emulator -e apt-get update
-x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh
 </postinstall>
 
 
