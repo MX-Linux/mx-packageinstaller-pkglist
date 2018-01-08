@@ -20,7 +20,7 @@ Debian Backports Kernel (64 bit)
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://ftp.debian.org/debian stretch-backports main">/etc/apt/sources.list.d/backport.list
+echo "deb http://http.debian.net/debian jessie-backports main">/etc/apt/sources.list.d/stretchbackport.list
 x-terminal-emulator -e apt-get update
 x-terminal-emulator -e apt-get install -t stretch-backports linux-image-amd64 linux-headers-amd64
 </preinstall>
@@ -32,10 +32,10 @@ linux-headers-amd64
 
 
 <postinstall>
-rm -f /etc/apt/sources.list.d/backport.list
+rm -f /etc/apt/sources.list.d/stretchbackport.list
+x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-amd64
 apt-get -y remove linux-image-amd64 linux-headers-amd64
 x-terminal-emulator -e apt-get update
-x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh
 </postinstall>
 
 
