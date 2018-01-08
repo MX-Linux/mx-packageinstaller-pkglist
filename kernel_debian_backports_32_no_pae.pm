@@ -6,7 +6,7 @@ Kernels
 </category>
 
 <name>  
-Kernel Debian-Backports 32 bit No PAE
+Debian-Backports 32 bit No PAE
 </name>
 
 <description>  
