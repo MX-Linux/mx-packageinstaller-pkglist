@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.01.07) mx; urgency=medium
+
+  * added mx 4.14 kernel options 
+
+ -- dolphin_oracle <dolphin@littlebyte>  Mon, 08 Jan 2018 21:02:43 -0500
+
 mx-packageinstaller-pkglist (18.01.06) mx; urgency=medium
 
   * debian backports kernel options
