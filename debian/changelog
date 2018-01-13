@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.02mx16) mx; urgency=medium
+
+  * changed fall back debian kernel options to KTPI patched versions
+
+ -- dolphin_oracle <dolphin@littlebyte>  Sat, 13 Jan 2018 13:23:25 -0500
+
 mx-packageinstaller-pkglist (18.01mx16) mx; urgency=medium
 
   * added backports kernel options
