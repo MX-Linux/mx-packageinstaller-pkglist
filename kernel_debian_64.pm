@@ -35,7 +35,7 @@ linux-headers-4.9.0-5-amd64
 
 
 <uninstall_package_names>
-linux-image-4.9.0-4-amd64
-linux-headers-4.9.0-4-amd64
+linux-image-4.9.0-5-amd64
+linux-headers-4.9.0-5-amd64
 </uninstall_package_names>
 </app>
