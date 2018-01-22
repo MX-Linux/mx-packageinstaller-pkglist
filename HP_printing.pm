@@ -10,7 +10,7 @@ HP Printing
 </name>
 
 <description>  
-HP Linux Imaging & Printing (HPLIP) and printing extras
+HPLIP and printing extras
 </description>
 
 <installable>
