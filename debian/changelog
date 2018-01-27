@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.01.10) mx; urgency=medium
+
+  * fix to hp printing
+
+ -- dolphin_oracle <dolphin@littlebyte>  Sat, 27 Jan 2018 18:15:12 -0500
+ 
 mx-packageinstaller-pkglist (18.01.09) mx; urgency=medium
 
   * adjusted debian kernel versions (paul) to current debian KTPI patched kernels
