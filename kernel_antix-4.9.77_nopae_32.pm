@@ -6,11 +6,11 @@ Kernels
 </category>
 
 <name>  
-4.10 32 bit no-pae
+antiX 32 bit no-pae
 </name>
 
 <description>  
-antiX 4.10 kernel, 32 bit no-pae
+antiX 4.9.77 kernel, 32 bit no-pae
 </description>
 
 <installable>
@@ -24,8 +24,8 @@ antiX 4.10 kernel, 32 bit no-pae
 </preinstall>
 
 <install_package_names>
-linux-image-4.10.5-antix.3-486-smp
-linux-headers-4.10.5-antix.3-486-smp
+linux-image-4.9.77-antix.1-486-smp
+linux-headers-4.9.77-antix.1-486-smp
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ linux-headers-4.10.5-antix.3-486-smp
 
 
 <uninstall_package_names>
-linux-image-4.10.5-antix.3-486-smp
-linux-headers-4.10.5-antix.3-486-smp
+linux-image-4.9.77-antix.1-486-smp
+linux-headers-4.9.77-antix.1-486-smp
 </uninstall_package_names>
 </app>

@@ -10,7 +10,7 @@ Debian 64 bit
 </name>
 
 <description>  
-Default Debian 4.9 64bit linux kernel
+Default Debian 4.9 kernel Meltdown patched, 64bit 
 </description>
 
 <installable>

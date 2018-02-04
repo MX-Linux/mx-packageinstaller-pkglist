@@ -6,11 +6,11 @@ Kernels
 </category>
 
 <name>  
-MX 4.14 kernel
+MX 4.14
 </name>
 
 <description>  
-MX 4.14 kernel, 64 bit
+MX 4.14 kernel Meltdown patched, 64 bit
 </description>
 
 <installable>
