@@ -6,7 +6,7 @@ Kernels
 </category>
 
 <name>  
-Liquorix Kernel 32 bit no-pae
+Liquorix 32 bit no-pae
 </name>
 
 <description>  

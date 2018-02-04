@@ -6,7 +6,7 @@ Kernels
 </category>
 
 <name>  
-MX 4.14 kernel no-pae
+MX 4.14 no-pae
 </name>
 
 <description>  
