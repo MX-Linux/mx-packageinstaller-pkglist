@@ -6,11 +6,11 @@ Kernels
 </category>
 
 <name>  
-4.10 kernel
+antiX 64 bit
 </name>
 
 <description>  
-antiX 4.10 kernel, 64 bit 
+antiX 4.9.77 kernel Meltdown patched, 64 bit 
 </description>
 
 <installable>
@@ -24,8 +24,8 @@ antiX 4.10 kernel, 64 bit
 </preinstall>
 
 <install_package_names>
-linux-image-4.10.5-antix.3-amd64-smp
-linux-headers-4.10.5-antix.3-amd64-smp
+linux-image-4.9.77-antix.1-amd64-smp
+linux-headers-4.9.77-antix.1-amd64-smp
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ linux-headers-4.10.5-antix.3-amd64-smp
 
 
 <uninstall_package_names>
-linux-image-4.10.5-antix.3-amd64-smp
-linux-headers-4.10.5-antix.3-amd64-smp
+linux-image-4.9.77-antix.1-amd64-smp
+linux-headers-4.9.77-antix.1-amd64-smp
 </uninstall_package_names>
 </app>

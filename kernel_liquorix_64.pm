@@ -6,11 +6,11 @@ Kernels
 </category>
 
 <name>  
-Liquorix Kernel 64 bit
+Liquorix 64 bit
 </name>
 
 <description>  
-Liquorix Kernel (64 bit, latest 4.x from MX TEST repo)
+Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo
 </description>
 
 <installable>

@@ -10,7 +10,7 @@ Debian-Backports 64 bit
 </name>
 
 <description>  
-Debian Backports Kernel (64 bit)
+Debian Backports kernel Meltdown patched, 64 bit
 </description>
 
 <installable>
