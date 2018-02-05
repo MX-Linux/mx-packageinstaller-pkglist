@@ -24,8 +24,7 @@ all
 </preinstall>
 
 <install_package_names>
-wine-staging
-wine-staging-compat
+winehq-staging
 </install_package_names>
 
 
@@ -35,7 +34,6 @@ wine-staging-compat
 
 
 <uninstall_package_names>
-wine-staging
-wine-staging-compat
+winehq-staging
 </uninstall_package_names>
 </app>
