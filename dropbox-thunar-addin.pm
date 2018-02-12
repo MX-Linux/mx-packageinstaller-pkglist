@@ -6,11 +6,11 @@ Network
 </category>
 
 <name>  
-Dropbox
+Dropbox Thunar Addin
 </name>
 
 <description>  
-Dropbox file sync utility
+Thunar Addin for Dropbox file sync utility
 </description>
 
 <installable>
@@ -20,14 +20,11 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://linux.dropbox.com/debian/ jessie main">/etc/apt/sources.list.d/dropbox.list
-apt-key adv --keyserver pgp.mit.edu --recv-keys 5044912E
-x-terminal-emulator -e apt-get update
+
 </preinstall>
 
 <install_package_names>
-dropbox
-python-gpgme
+thunar-dropbox-plugin
 </install_package_names>
 
 
@@ -37,6 +34,6 @@ python-gpgme
 
 
 <uninstall_package_names>
-dropbox
+thunar-dropbox-plugin
 </uninstall_package_names>
 </app>
