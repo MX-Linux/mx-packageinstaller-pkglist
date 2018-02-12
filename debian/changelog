@@ -1,8 +1,14 @@
-mx-packageinstaller-pkglist (18.02) mx; urgency=medium
+mx-packageinstaller-pkglist (18.02.02) mx; urgency=medium
 
   * added thunar-dropbox-plugin
 
  -- Adrian <adrian@mxlinux.org>  Mon, 12 Feb 2018 11:50:23 -0500
+ 
+mx-packageinstaller-pkglist (18.02.01) mx; urgency=medium
+
+  * revised kernel options , wine
+
+ -- dolphin_oracle <dolphin@littlebyte>  Sun, 04 Feb 2018 20:58:20 -0500
 
 mx-packageinstaller-pkglist (18.01.10) mx; urgency=medium
 
