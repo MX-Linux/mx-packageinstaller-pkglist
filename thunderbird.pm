@@ -6,7 +6,7 @@ Email
 </category>
 
 <name>  
-thunderbird
+Thunderbird
 </name>
 
 <description>  
