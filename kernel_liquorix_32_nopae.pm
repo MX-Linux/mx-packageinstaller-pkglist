@@ -21,7 +21,7 @@ Liquorix Kernel (no PAE, latest 4.x from MX TEST repo)
 
 <preinstall>
 echo "deb http://main.mepis-deb.org/mx/testrepo/ mx15 test">/etc/apt/sources.list.d/mxtestrepotemp.list
-x-terminal-emulator -e apt-get update
+apt-get update
 </preinstall>
 
 <install_package_names>
@@ -35,7 +35,7 @@ ndiswrapper-dkms
 <postinstall>
 rm -f /etc/apt/sources.list.d/mxtestrepotemp.list
 apt-get -y remove linux-image-liquorix-686 linux-headers-liquorix-686
-x-terminal-emulator -e apt-get update
+apt-get update
 </postinstall>
 
 

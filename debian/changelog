@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.02mx16+2) mx; urgency=medium
+
+  * changes for new mxpi interface 
+
+ -- doilphinoracle <dolphinoracle@gmail.com>  Sat, 17 Feb 2018 11:05:00 -0500
+
 mx-packageinstaller-pkglist (18.02mx16+1) mx; urgency=medium
 
   * add dropbox-thunar-addin 

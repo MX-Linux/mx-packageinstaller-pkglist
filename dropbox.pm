@@ -22,7 +22,7 @@ all
 <preinstall>
 echo "deb http://linux.dropbox.com/debian/ jessie main">/etc/apt/sources.list.d/dropbox.list
 apt-key adv --keyserver pgp.mit.edu --recv-keys 5044912E
-x-terminal-emulator -e apt-get update
+apt-get update
 </preinstall>
 
 <install_package_names>

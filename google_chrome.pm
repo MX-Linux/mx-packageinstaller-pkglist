@@ -21,7 +21,7 @@ Latest Google Chrome browser (stable)
 
 <preinstall>
 echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main">/etc/apt/sources.list.d/chrometemp.list
-x-terminal-emulator -e apt-get update
+apt-get update
 </preinstall>
 
 <install_package_names>

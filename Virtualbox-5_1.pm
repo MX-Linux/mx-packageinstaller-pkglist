@@ -23,7 +23,7 @@ all
 <preinstall>
 sed -i -r '/download.virtualbox.org/ s/^#+//' /etc/apt/sources.list.d/various.list
 wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
-x-terminal-emulator -e apt-get update
+apt-get update
 </preinstall>
 
 <install_package_names>
@@ -32,7 +32,7 @@ virtualbox-5.1
 
 
 <postinstall>
-x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/install_vb_extensions.sh
+/usr/share/mx-packageinstaller-pkglist/install_vb_extensions.sh
 </postinstall>
 
 
