@@ -20,9 +20,9 @@ Peer-to-peer video, voice, messaging
 <screenshot>none</screenshot>
 
 <preinstall>
-x-terminal-emulator -e wget https://repo.skype.com/latest/skypeforlinux-64.deb
-x-terminal-emulator -e dpkg -i skypeforlinux-64.deb
-x-terminal-emulator -e apt-get -f install
+wget https://repo.skype.com/latest/skypeforlinux-64.deb
+dpkg -i skypeforlinux-64.deb
+apt-get -f install
 rm skypeforlinux-64.deb
 </preinstall>
 

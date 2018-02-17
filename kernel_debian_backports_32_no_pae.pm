@@ -21,8 +21,8 @@ Debian Backports Kernel (32 bit No PAE)
 
 <preinstall>
 echo "deb http://http.debian.net/debian stretch-backports main">/etc/apt/sources.list.d/stretchbackport.list
-x-terminal-emulator -e apt-get update
-x-terminal-emulator -e apt-get install -t stretch-backports 
+apt-get update
+apt-get install -t stretch-backports 
 </preinstall>
 
 <install_package_names>
@@ -33,9 +33,9 @@ linux-headers-686
 
 <postinstall>
 rm -f /etc/apt/sources.list.d/stretchbackport.list
-x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-686
+/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-686
 apt-get -y remove linux-image-686 linux-headers-686
-x-terminal-emulator -e apt-get update
+apt-get update
 </postinstall>
 
 

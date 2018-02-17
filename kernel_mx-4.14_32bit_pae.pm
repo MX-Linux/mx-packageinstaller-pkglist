@@ -30,7 +30,7 @@ linux-headers-4.14.0-3-686-pae
 
 
 <postinstall>
-x-terminal-emulator -e /usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-4.14.0-3-686-pae
+/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-4.14.0-3-686-pae
 </postinstall>
 
 

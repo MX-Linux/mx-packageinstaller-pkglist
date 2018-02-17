@@ -23,7 +23,7 @@ all
 gpg --keyserver keyserver.ubuntu.com --recv-keys 5C808C2B65558117
 gpg --armor --export 5C808C2B65558117 | apt-key add -  
 echo "deb http://www.deb-multimedia.org/ jessie main non-free">/etc/apt/sources.list.d/debmulti.list
-x-terminal-emulator -e apt-get update
+apt-get update
 </preinstall>
 
 <install_package_names>
@@ -34,7 +34,7 @@ acroread-plugins
 
 <postinstall>
 rm -f /etc/apt/sources.list.d/debmulti.list
-x-terminal-emulator -e apt-get update
+apt-get update
 </postinstall>
 
 
