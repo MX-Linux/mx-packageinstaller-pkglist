@@ -22,7 +22,7 @@ Opera browser (32 bit is beta-only)
 <preinstall>
 sed -i -r '/opera.com/ s/^#+//' /etc/apt/sources.list.d/various.list
 wget -O - http://deb.opera.com/archive.key | apt-key add -
-x-terminal-emulator -e apt-get update
+apt-get update
 </preinstall>
 
 <install_package_names>
@@ -31,7 +31,7 @@ opera-beta
 
 
 <postinstall>
-if [ -f /etc/apt/sources.list.d/opera-stable.list ]; then sed -i -r '/opera.com/ s/^([^#])/#\1/' /etc/apt/sources.list.d/various.list; x-terminal-emulator -e apt-get update; fi
+if [ -f /etc/apt/sources.list.d/opera-stable.list ]; then sed -i -r '/opera.com/ s/^([^#])/#\1/' /etc/apt/sources.list.d/various.list;apt-get update; fi
 </postinstall>
 
 
