@@ -6,15 +6,15 @@ Kernels
 </category>
 
 <name>
-antiX 64 bit
+antiX 4.15 32 bit pae
 </name>
 
 <description>  
-antiX 4.9.79 kernel Meltdown patched, 64 bit 
+antiX 4.15.3 kernel pae 32 bit 
 </description>
 
 <installable>
-64
+32
 </installable>
 
 <screenshot>none</screenshot>
@@ -24,8 +24,8 @@ antiX 4.9.79 kernel Meltdown patched, 64 bit
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.79-antix.1-amd64-smp
-linux-headers-4.9.79-antix.1-amd64-smp
+linux-image-4.15.3-antix.1-686-smp-pae
+linux-headers-4.15.3-antix.1-686-smp-pae
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ linux-headers-4.9.79-antix.1-amd64-smp
 
 
 <uninstall_package_names>
-linux-image-4.9.79-antix.1-amd64-smp
-linux-headers-4.9.79-antix.1-amd64-smp
+linux-image-4.15.3-antix.1-686-smp-pae
+linux-headers-4.15.3-antix.1-686-smp-pae
 </uninstall_package_names>
 </app>
