@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.02.05) mx; urgency=medium
+
+  * updated kernel entries (paul) 
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Tue, 20 Feb 2018 21:43:22 -0500
+
 mx-packageinstaller-pkglist (18.02.04) mx; urgency=medium
 
   * modifications for new mxpi
