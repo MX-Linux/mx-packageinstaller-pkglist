@@ -20,7 +20,7 @@ Liquorix Kernel (PAE, latest 4.x from MX TEST repo)
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://main.mepis-deb.org/mx/testrepo/ mx15 test">/etc/apt/sources.list.d/mxtestrepotemp.list
+echo "deb http://mxrepo.com/mx/testrepo/ mx15 test">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 </preinstall>
 
@@ -33,7 +33,7 @@ ndiswrapper-dkms
 
 
 <postinstall>
-rm -f /etc/apt/sources.list.d/mxtestrepotemp.list
+rm -f /etc/apt/sources.list.d/mxpitemp.list
 apt-get -y remove linux-image-liquorix-686-pae linux-headers-liquorix-686-pae
 apt-get update
 </postinstall>

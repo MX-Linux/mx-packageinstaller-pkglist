@@ -20,7 +20,7 @@ Debian Backports Kernel (64 bit)
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://http.debian.net/debian jessie-backports main">/etc/apt/sources.list.d/jessiebackport.list
+echo "deb http://http.debian.net/debian jessie-backports main">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 apt-get install -t jessie-backports linux-image-amd64 linux-headers-amd64
 </preinstall>
@@ -32,7 +32,7 @@ linux-headers-amd64
 
 
 <postinstall>
-rm -f /etc/apt/sources.list.d/jessiebackport.list
+rm -f /etc/apt/sources.list.d/mxpitemp.list
 /usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-amd64
 apt-get -y remove linux-image-amd64 linux-headers-amd64
 apt-get update

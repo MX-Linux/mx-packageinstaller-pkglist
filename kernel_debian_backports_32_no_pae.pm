@@ -20,7 +20,7 @@ Debian Backports Kernel (32 bit No PAE)
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://http.debian.net/debian jessie-backports main">/etc/apt/sources.list.d/jessiebackport.list
+echo "deb http://http.debian.net/debian jessie-backports main">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 apt-get install -t jessie-backports linux-image-686 linux-headers-686
 </preinstall>
@@ -31,7 +31,7 @@ apt-get install -t jessie-backports linux-image-686 linux-headers-686
 
 
 <postinstall>
-rm -f /etc/apt/sources.list.d/jessiebackport.list
+rm -f /etc/apt/sources.list.d/mxpitemp.list
 apt-get -y remove linux-image-686 linux-headers-686
 apt-get update
 /usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh

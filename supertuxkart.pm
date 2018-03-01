@@ -20,7 +20,7 @@ all
 <screenshot>https://screenshots.debian.net/screenshots/000/009/727/large.png</screenshot>
 
 <preinstall>
-echo "deb http://http.debian.net/debian jessie-backports main">/etc/apt/sources.list.d/jessiebackport.list
+echo "deb http://http.debian.net/debian jessie-backports main">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 apt-get install -t jessie-backports supertuxkart supertuxkart-data
 </preinstall>
@@ -31,7 +31,7 @@ apt-get install -t jessie-backports supertuxkart supertuxkart-data
 
 
 <postinstall>
-rm -f /etc/apt/sources.list.d/jessiebackports.list
+rm -f /etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 </postinstall>
 
