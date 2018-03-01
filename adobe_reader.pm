@@ -22,7 +22,7 @@ all
 <preinstall>
 gpg --keyserver keyserver.ubuntu.com --recv-keys 5C808C2B65558117
 gpg --armor --export 5C808C2B65558117 | apt-key add -  
-echo "deb http://www.deb-multimedia.org/ jessie main non-free">/etc/apt/sources.list.d/debmulti.list
+echo "deb http://www.deb-multimedia.org/ jessie main non-free">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 </preinstall>
 
@@ -33,7 +33,7 @@ acroread-plugins
 
 
 <postinstall>
-rm -f /etc/apt/sources.list.d/debmulti.list
+rm -f /etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 </postinstall>
 

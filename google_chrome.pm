@@ -20,7 +20,7 @@ Latest Google Chrome browser (stable)
 <screenshot>https://www.google.com/chrome/assets/common/images/marquee/chrome-new.jpg</screenshot>
 
 <preinstall>
-echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main">/etc/apt/sources.list.d/chrometemp.list
+echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 </preinstall>
 
@@ -30,7 +30,7 @@ google-chrome-stable
 
 
 <postinstall>
-rm /etc/apt/sources.list.d/chrometemp.list
+rm /etc/apt/sources.list.d/mxpitemp.list
 </postinstall>
 
 

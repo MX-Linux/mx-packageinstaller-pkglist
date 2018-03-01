@@ -20,7 +20,7 @@ Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://mxrepo.com/mx/testrepo/ stretch test">/etc/apt/sources.list.d/mxtestrepotemp.list
+echo "deb http://mxrepo.com/mx/testrepo/ stretch test">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 </preinstall>
 
@@ -33,7 +33,7 @@ ndiswrapper-dkms
 
 
 <postinstall>
-rm -f /etc/apt/sources.list.d/mxtestrepotemp.list
+rm -f /etc/apt/sources.list.d/mxpitemp.list
 apt-get -y remove linux-image-liquorix-amd64 linux-headers-liquorix-amd64
 apt-get update
 </postinstall>
