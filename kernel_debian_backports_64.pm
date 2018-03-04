@@ -5,18 +5,18 @@
 Kernels
 </category>
 
-<name>  
+<name>
 Debian-Backports 64 bit
 </name>
 
-<description>  
+<description>
 Debian Backports kernel Meltdown patched, 64 bit
 </description>
 
 <installable>
 64
 </installable>
-
+ 
 <screenshot>none</screenshot>
 
 <preinstall>
