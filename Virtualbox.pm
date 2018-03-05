@@ -32,7 +32,7 @@ virtualbox-guest-additions-iso
 
 
 <postinstall>
-
+gpasswd -M $(getent group users | cut -d: -f4) vboxusers
 </postinstall>
 
 
