@@ -20,10 +20,10 @@ all
 <screenshot>https://www.plex.tv/wp-content/uploads/2016/06/image-block-plex-media-server-macbook.jpg</screenshot>
 
 <preinstall>
-x-terminal-emulator -e apt-get install apt-transport-https
+apt-get install apt-transport-https
 curl https://downloads.plex.tv/plex-keys/PlexSign.key | apt-key add -
 echo "deb https://downloads.plex.tv/repo/deb ./public main">/etc/apt/sources.list.d/plex.list
-x-terminal-emulator -e apt-get update
+apt-get update
 </preinstall>
 
 <install_package_names>
