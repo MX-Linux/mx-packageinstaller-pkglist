@@ -46,10 +46,10 @@ esac
 
 if [ -L /etc/init.d/plexmediaserver ]; then 
 	if [ "$(readlink "/etc/init.d/plexmediaserver")" -ef "/etc/init.d/plexserver" ]; then
-		main
+		main $1
 	else
 		ln -fs /etc/init.d/plexserver /etc/init.d/plexmediaserver
-		main
+		main $1
 	fi
 fi
 
