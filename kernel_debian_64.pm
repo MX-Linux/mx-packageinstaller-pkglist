@@ -24,8 +24,8 @@ Default Debian 4.9 kernel Meltdown patched, 64bit
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.0-5-amd64
-linux-headers-4.9.0-5-amd64
+linux-image-4.9.0-6-amd64
+linux-headers-4.9.0-6-amd64
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ linux-headers-4.9.0-5-amd64
 
 
 <uninstall_package_names>
-linux-image-4.9.0-5-amd64
-linux-headers-4.9.0-5-amd64
+linux-image-4.9.0-6-amd64
+linux-headers-4.9.0-6-amd64
 </uninstall_package_names>
 </app>
