@@ -1,3 +1,15 @@
+mx-packageinstaller-pkglist (18.03.06) mx; urgency=medium
+
+  * update kernel entries, add googlemusicmanager (paul) 
+
+ -- dolphinoracle <dolphin@mx>  Tue, 20 Mar 2018 20:51:14 -0400
+
+mx-packageinstaller-pkglist (18.03.05) mx; urgency=medium
+
+  * revised plex init script 
+
+ -- dolphinoracle <dolphin@littlebyte>  Sat, 10 Mar 2018 20:42:14 -0500
+
 mx-packageinstaller-pkglist (18.03.04) mx; urgency=medium
 
   * plex modifications 
