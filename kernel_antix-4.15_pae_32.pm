@@ -10,7 +10,7 @@ antiX 4.15 32 bit pae
 </name>
 
 <description>  
-antiX 4.15.9 kernel pae 32 bit 
+antiX 4.15.14 kernel pae 32 bit 
 </description>
 
 <installable>
@@ -24,8 +24,8 @@ antiX 4.15.9 kernel pae 32 bit
 </preinstall>
 
 <install_package_names>
-linux-image-4.15.9-antix.1-686-smp-pae
-linux-headers-4.15.9-antix.1-686-smp-pae
+linux-image-4.15.14-antix.1-686-smp-pae
+linux-headers-4.15.14-antix.1-686-smp-pae
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ linux-headers-4.15.9-antix.1-686-smp-pae
 
 
 <uninstall_package_names>
-linux-image-4.15.9-antix.1-686-smp-pae
-linux-headers-4.15.9-antix.1-686-smp-pae
+linux-image-4.15.14-antix.1-686-smp-pae
+linux-headers-4.15.14-antix.1-686-smp-pae
 </uninstall_package_names>
 </app>
