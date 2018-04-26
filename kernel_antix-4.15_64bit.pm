@@ -10,7 +10,7 @@ antiX 4.15 64 bit
 </name>
 
 <description>  
-antiX 4.15.9 kernel Meltdown and Spectre patched, 64 bit 
+antiX 4.15.14 kernel Meltdown and Spectre patched, 64 bit 
 </description>
 
 <installable>
@@ -24,8 +24,8 @@ antiX 4.15.9 kernel Meltdown and Spectre patched, 64 bit
 </preinstall>
 
 <install_package_names>
-linux-image-4.15.9-antix.1-amd64-smp
-linux-headers-4.15.9-antix.1-amd64-smp
+linux-image-4.15.14-antix.1-amd64-smp
+linux-headers-4.15.14-antix.1-amd64-smp
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ linux-headers-4.15.9-antix.1-amd64-smp
 
 
 <uninstall_package_names>
-linux-image-4.15.9-antix.1-amd64-smp
-linux-headers-4.15.9-antix.1-amd64-smp
+linux-image-4.15.14-antix.1-amd64-smp
+linux-headers-4.15.14-antix.1-amd64-smp
 </uninstall_package_names>
 </app>
