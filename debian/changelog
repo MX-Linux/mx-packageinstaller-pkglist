@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.05.01) mx; urgency=medium
+
+  * added master-pdf-editor, nomachine remote access and megasync client 
+
+ -- dolphinoracle <dolphin@mx>  Sat, 05 May 2018 20:28:42 -0400
+
 mx-packageinstaller-pkglist (18.03.07) mx; urgency=medium
 
   * update for antiX 4.9.91 and 4.15.14 kernels 
