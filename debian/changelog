@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (18.05.02) mx; urgency=medium
+
+  * added artwork packages, revised window managers
+  * fixed key info in megasync.pm
+
+ -- dolphinoracle <dolphin@mx>  Sun, 27 May 2018 22:25:27 -0400
+
 mx-packageinstaller-pkglist (18.05.01) mx; urgency=medium
 
   * added master-pdf-editor, nomachine remote access and megasync client 

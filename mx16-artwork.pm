@@ -2,30 +2,29 @@
 <app>
 
 <category>
-Desktop Environments
+Wallpapers
 </category>
 
 <name>  
-MATE
+MX 16 Wallpapers
 </name>
 
 <description>  
-basic install of MATE desktop
+backgrounds originally supplied with MX 16
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/010/990/large.png</screenshot>
+<screenshot>none</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-mate-core
-mate-desktop-environment
+mx16-artwork
 </install_package_names>
 
 
@@ -35,7 +34,6 @@ mate-desktop-environment
 
 
 <uninstall_package_names>
-mate-core
-mate-desktop-environment
+mx16-artwork
 </uninstall_package_names>
 </app>

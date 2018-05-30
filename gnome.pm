@@ -2,7 +2,7 @@
 <app>
 
 <category>
-Window Managers
+Desktop Environments
 </category>
 
 <name>  
