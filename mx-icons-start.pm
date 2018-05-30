@@ -2,30 +2,29 @@
 <app>
 
 <category>
-Desktop Environments
+Icons
 </category>
 
 <name>  
-MATE
+Start Menu Button Icons
 </name>
 
 <description>  
-basic install of MATE desktop
+extra icons for customizing the start menu button
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/010/990/large.png</screenshot>
+<screenshot>none</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-mate-core
-mate-desktop-environment
+mx-icons-start
 </install_package_names>
 
 
@@ -35,7 +34,6 @@ mate-desktop-environment
 
 
 <uninstall_package_names>
-mate-core
-mate-desktop-environment
+mx-icons-start
 </uninstall_package_names>
 </app>
