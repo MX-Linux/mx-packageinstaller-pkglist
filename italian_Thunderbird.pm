@@ -24,7 +24,8 @@ all
 </preinstall>
 
 <install_package_names>
-thunderbird-l10n-xpi-it
+thunderbird-l10n-it
+lightning-l10n-it
 </install_package_names>
 
 
@@ -34,6 +35,7 @@ thunderbird-l10n-xpi-it
 
 
 <uninstall_package_names>
-thunderbird-l10n-xpi-it
+thunderbird-l10n-it
+lightning-l10n-it
 </uninstall_package_names>
 </app>

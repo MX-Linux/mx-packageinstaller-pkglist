@@ -25,6 +25,7 @@ all
 
 <install_package_names>
 thunderbird-l10n-xpi-tr
+lightning-l10n-tr
 </install_package_names>
 
 
@@ -34,6 +35,7 @@ thunderbird-l10n-xpi-tr
 
 
 <uninstall_package_names>
-thunderbird-l10n-xpi-tr 
+thunderbird-l10n-xpi-tr
+lightning-l10n-tr
 </uninstall_package_names>
 </app>
