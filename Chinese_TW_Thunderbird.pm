@@ -6,11 +6,11 @@ Language
 </category>
 
 <name>  
-Turkish_Thunderbird
+Chinese_TW_Thunderbird
 </name>
 
 <description>  
-Turkish localisation of Thunderbird
+Chinese (Taiwan) localisation of Thunderbird
 </description>
 
 <installable>
@@ -24,8 +24,8 @@ all
 </preinstall>
 
 <install_package_names>
-thunderbird-l10n-tr
-lightning-l10n-tr
+thunderbird-l10n-zh-tw
+lightning-l10n-zh-tw
 </install_package_names>
 
 
@@ -35,7 +35,7 @@ lightning-l10n-tr
 
 
 <uninstall_package_names>
-thunderbird-l10n-tr
-lightning-l10n-tr
+thunderbird-l10n-zh-tw
+lightning-l10n-zh-tw
 </uninstall_package_names>
 </app>
