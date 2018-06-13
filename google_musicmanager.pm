@@ -20,14 +20,12 @@ Google Music Manager Beta, 64 bit
 <screenshot>none</screenshot>
 
 <preinstall>
-wget http://dl.google.com/linux/musicmanager/deb/pool/main/g/google-musicmanager-beta/google-musicmanager-beta_1.0.243.1116-r0_amd64.deb
-dpkg -i google-musicmanager-beta_1.0.243.1116-r0_amd64.deb
-apt-get -f install
-rm google-musicmanager-beta_1.0.243.1116-r0_amd64.deb
+echo "deb [arch=amd64] http://dl.google.com/linux/musicmanager/deb/ stable main">/etc/apt/sources.list.d/google-musicmanager.list
+apt-get update
 </preinstall>
 
 <install_package_names>
-
+google-musicmanager-beta
 </install_package_names>
 
 

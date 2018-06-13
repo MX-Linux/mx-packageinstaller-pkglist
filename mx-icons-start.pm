@@ -10,7 +10,7 @@ Start Menu Button Icons
 </name>
 
 <description>  
-extra icons for customizing the start menu button
+extra icons for customizing the start menu button (antechdesigns collection)
 </description>
 
 <installable>
