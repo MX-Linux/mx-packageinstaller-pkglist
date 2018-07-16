@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.07mx16+1) mx; urgency=medium
+
+  * add missing category file
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 16 Jul 2018 00:00:11 -0400
+
 mx-packageinstaller-pkglist (18.07mx16) mx; urgency=medium
 
   * Added category translation

@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Mon, 16 Jul 2018 00:00:11 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 18.07mx16+1
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (18.07mx16+1) mx; urgency=medium
+ .
+   * add missing category file
+Checksums-Sha1:
+ c76710e2f4629cbe7e52680727217400986f7468 1299 mx-packageinstaller-pkglist_18.07mx16+1.dsc
+ 2ed32ae7b73a873287e3515477cbc3621ba894f9 33560 mx-packageinstaller-pkglist_18.07mx16+1.tar.xz
+ 3d198b3cea2e68dddc2f563ff2aa819c0844ffb8 30478 mx-packageinstaller-pkglist_18.07mx16+1_all.deb
+ 59643cb12b842a52fdec63f4f9dc07b5163007f8 5655 mx-packageinstaller-pkglist_18.07mx16+1_amd64.buildinfo
+Checksums-Sha256:
+ b745e85c4760414095fac95b86c5bdf95d418f9bb5a0183bcbd43d55f4e4d16d 1299 mx-packageinstaller-pkglist_18.07mx16+1.dsc
+ 1b329eb6c3f68158b1e08e802e3d9d6efdbdc683ed874d49c3e8c9dcc7d94e1f 33560 mx-packageinstaller-pkglist_18.07mx16+1.tar.xz
+ adfdaa19211c8990c2f3979fc4daabc7a3abc202df6a709df086545ca5bbf9e0 30478 mx-packageinstaller-pkglist_18.07mx16+1_all.deb
+ f6efd9855ad8156421217f3d33da3b42cebb095385d5b04e05fda2db5273f678 5655 mx-packageinstaller-pkglist_18.07mx16+1_amd64.buildinfo
+Files:
+ a6b5808c0ac375fcbbdd64b34f32f2e9 1299 admin optional mx-packageinstaller-pkglist_18.07mx16+1.dsc
+ 177ed6b03453f05c8c8432b56cfc303c 33560 admin optional mx-packageinstaller-pkglist_18.07mx16+1.tar.xz
+ fba44c807ecf42eb37275f04d8bb6ed5 30478 admin optional mx-packageinstaller-pkglist_18.07mx16+1_all.deb
+ b3acedbdc3f9faaa5f4f93394a881a47 5655 admin optional mx-packageinstaller-pkglist_18.07mx16+1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCAAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAltMGH4THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMU/CADBeSm3+0ISUUDEznCI6USGlywiwHma
+r618U7id6oWTh/alUKjP5CyTMjY/oigDSz9qZve6OPqljFmFLUdRyT3I4SPYL2MC
+6Pjv4k+bxfTqs5GF9tpPZhytAN+4k/p+rah1qopjlgadRBX3NG6dERbCHF5nQSGH
+hJRiIVqMugaJik9wkSEgU7mUr71MRMINP1p7TuU/9NRTCUbk2CkHvcJ2NVJz/ae7
+MxtuAI7fcVXaCNqHRbQqh2H+GnHC6QOSOFZ6WN07gpfD5+PsFM8fZkIN6YC6jGs+
+lXIOEnTLWZlVULaRYtcJItIVXXoA4C2zp7Y8JUKFcHLxmXcN8/SZlJNV
+=+Tbc
+-----END PGP SIGNATURE-----
