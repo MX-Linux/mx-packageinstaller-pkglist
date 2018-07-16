@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 16 Jul 2018 19:34:35 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 18.07.01
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin <dolphinoracle@gmail.com>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (18.07.01) mx; urgency=medium
+ .
+   * revised debian kernels
+Checksums-Sha1:
+ 07fe13b14f52d7eaaca4f53ccffe2f4a4e2a5f78 725 mx-packageinstaller-pkglist_18.07.01.dsc
+ df3d3f9363d239ac2959a63cea4a1d2c9cda7900 67484 mx-packageinstaller-pkglist_18.07.01.tar.xz
+ 26b497a913a56544a373aa2d18a4f779428dfe53 65302 mx-packageinstaller-pkglist_18.07.01_all.deb
+ a0ce71393414c14df9e1cd965edc6611c43af1e2 5089 mx-packageinstaller-pkglist_18.07.01_amd64.buildinfo
+Checksums-Sha256:
+ 33aea1eb8ba6be19961fd25dc36b13e65af8913ce57fa51e99a13e399bcea129 725 mx-packageinstaller-pkglist_18.07.01.dsc
+ fce3f42867252a922dbe042628ca1c6384b349286d976bd674cf67d3356f3e06 67484 mx-packageinstaller-pkglist_18.07.01.tar.xz
+ d88d98a32f5b9218394ba5fc1840220abc59e0acba2387558841c76466e57b75 65302 mx-packageinstaller-pkglist_18.07.01_all.deb
+ 0360cee9245a5f854f0fbb4cd33e69482f1182fa54f452929f47ea412d41c265 5089 mx-packageinstaller-pkglist_18.07.01_amd64.buildinfo
+Files:
+ feda8d3e2c0212fe8111c282708d2056 725 admin optional mx-packageinstaller-pkglist_18.07.01.dsc
+ e9d8f60fed9474fc1d791f7ca6fb00df 67484 admin optional mx-packageinstaller-pkglist_18.07.01.tar.xz
+ cf935db443a8a4746a3811b461cefb9d 65302 admin optional mx-packageinstaller-pkglist_18.07.01_all.deb
+ ff6eea24fd854ebb59ec936c3c66785f 5089 admin optional mx-packageinstaller-pkglist_18.07.01_amd64.buildinfo
