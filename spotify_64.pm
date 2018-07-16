@@ -5,12 +5,38 @@
 Audio
 </category>
 
-<name>  
+<name>
 Spotify
 </name>
 
-<description>  
-Spotify from Spotify Testing Repo
+<description>
+   <am>Spotify from Spotify Testing Repo</am>
+   <ca>Spotify from Spotify Testing Repo</ca>
+   <cs>Spotify from Spotify Testing Repo</cs>
+   <de>Spotify vom Spotify Testing Repo</de>
+   <el>Spotify from Spotify Testing Repo</el>
+   <en>Spotify from Spotify Testing Repo</en>
+   <es>Spotify from Spotify Testing Repo</es>
+   <fi>Spotify from Spotify Testing Repo</fi>
+   <fr>Spotify from Spotify Testing Repo</fr>
+   <hi>Spotify from Spotify Testing Repo</hi>
+   <hr>Spotify from Spotify Testing Repo</hr>
+   <hu>Spotify from Spotify Testing Repo</hu>
+   <it>Spotify from Spotify Testing Repo</it>
+   <ja>Spotify from Spotify Testing Repo</ja>
+   <kk>Spotify from Spotify Testing Repo</kk>
+   <lt>Spotify from Spotify Testing Repo</lt>
+   <nl>Spotify from Spotify Testing Repo</nl>
+   <pl>Spotify from Spotify Testing Repo</pl>
+   <pt_BR>Spotify from Spotify Testing Repo</pt_BR>
+   <pt>Spotify from Spotify Testing Repo</pt>
+   <ro>Spotify from Spotify Testing Repo</ro>
+   <ru>Spotify from Spotify Testing Repo</ru>
+   <sk>Spotify from Spotify Testing Repo</sk>
+   <sv>Spotify från Spotify Testing Förråd</sv>
+   <tr>Spotify from Spotify Testing Repo</tr>
+   <uk>Spotify from Spotify Testing Repo</uk>
+   <zh_TW>Spotify from Spotify Testing Repo</zh_TW>
 </description>
 
 <installable>

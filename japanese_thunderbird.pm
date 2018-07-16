@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Japanses_Thunderbird
 </name>
 
-<description>  
-Japanese localisation of Thunderbird
+<description>
+   <am>Japanese localisation of Thunderbird</am>
+   <ca>Japanese localisation of Thunderbird</ca>
+   <cs>Japanese localisation of Thunderbird</cs>
+   <de>Japanische Lokalisierung von Thunderbird</de>
+   <el>Japanese localisation of Thunderbird</el>
+   <en>Japanese localisation of Thunderbird</en>
+   <es>Japanese localisation of Thunderbird</es>
+   <fi>Japanese localisation of Thunderbird</fi>
+   <fr>Japanese localisation of Thunderbird</fr>
+   <hi>Japanese localisation of Thunderbird</hi>
+   <hr>Japanese localisation of Thunderbird</hr>
+   <hu>Japanese localisation of Thunderbird</hu>
+   <it>Japanese localisation of Thunderbird</it>
+   <ja>Japanese localisation of Thunderbird</ja>
+   <kk>Japanese localisation of Thunderbird</kk>
+   <lt>Japanese localisation of Thunderbird</lt>
+   <nl>Japanese localisation of Thunderbird</nl>
+   <pl>Japanese localisation of Thunderbird</pl>
+   <pt_BR>Japanese localisation of Thunderbird</pt_BR>
+   <pt>Japanese localisation of Thunderbird</pt>
+   <ro>Japanese localisation of Thunderbird</ro>
+   <ru>Japanese localisation of Thunderbird</ru>
+   <sk>Japanese localisation of Thunderbird</sk>
+   <sv>Japansk lokalisering av Thunderbird</sv>
+   <tr>Japanese localisation of Thunderbird</tr>
+   <uk>Japanese localisation of Thunderbird</uk>
+   <zh_TW>Japanese localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

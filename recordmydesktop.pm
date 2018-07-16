@@ -6,12 +6,38 @@
 Screencast
 </category>
 
-<name>  
+<name>
 recordmydesktop
 </name>
 
-<description>  
-a desktop session recorder
+<description>
+   <am>a desktop session recorder</am>
+   <ca>a desktop session recorder</ca>
+   <cs>a desktop session recorder</cs>
+   <de>Ein Desktop-Session-Rekorder</de>
+   <el>a desktop session recorder</el>
+   <en>a desktop session recorder</en>
+   <es>a desktop session recorder</es>
+   <fi>a desktop session recorder</fi>
+   <fr>a desktop session recorder</fr>
+   <hi>a desktop session recorder</hi>
+   <hr>a desktop session recorder</hr>
+   <hu>a desktop session recorder</hu>
+   <it>a desktop session recorder</it>
+   <ja>a desktop session recorder</ja>
+   <kk>a desktop session recorder</kk>
+   <lt>a desktop session recorder</lt>
+   <nl>a desktop session recorder</nl>
+   <pl>a desktop session recorder</pl>
+   <pt_BR>a desktop session recorder</pt_BR>
+   <pt>a desktop session recorder</pt>
+   <ro>a desktop session recorder</ro>
+   <ru>a desktop session recorder</ru>
+   <sk>a desktop session recorder</sk>
+   <sv>en skrivbordssessions-inspelare</sv>
+   <tr>a desktop session recorder</tr>
+   <uk>a desktop session recorder</uk>
+   <zh_TW>a desktop session recorder</zh_TW>
 </description>
 
 <installable>

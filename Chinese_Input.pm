@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Chinese_Input
 </name>
 
-<description>  
-Chinese ibus
+<description>
+   <am>Chinese ibus</am>
+   <ca>IBUS en Xinès</ca>
+   <cs>Chinese ibus</cs>
+   <de>Chinesischer IBus</de>
+   <el>Chinese ibus</el>
+   <en>Chinese ibus</en>
+   <es>Chinese ibus</es>
+   <fi>Chinese ibus</fi>
+   <fr>Chinois ibus</fr>
+   <hi>Chinese ibus</hi>
+   <hr>Chinese ibus</hr>
+   <hu>Chinese ibus</hu>
+   <it>Chinese ibus</it>
+   <ja>Chinese ibus</ja>
+   <kk>Chinese ibus</kk>
+   <lt>Chinese ibus</lt>
+   <nl>Chinese ibus</nl>
+   <pl>Chinese ibus</pl>
+   <pt_BR>Chinese ibus</pt_BR>
+   <pt>Chinese ibus</pt>
+   <ro>Chinese ibus</ro>
+   <ru>Chinese ibus</ru>
+   <sk>Chinese ibus</sk>
+   <sv>Kinesisk ibus</sv>
+   <tr>Chinese ibus</tr>
+   <uk>Chinese ibus</uk>
+   <zh_TW>Chinese ibus</zh_TW>
 </description>
 
 <installable>

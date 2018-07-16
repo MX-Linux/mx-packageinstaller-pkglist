@@ -5,12 +5,38 @@
 Browser
 </category>
 
-<name>  
+<name>
 Vivaldi
 </name>
 
-<description>  
-Vivaldi web browser
+<description>
+   <am>Vivaldi web browser</am>
+   <ca>Navegador web Vivaldi</ca>
+   <cs>Vivaldi web browser</cs>
+   <de>Der Vivaldi Web-Browser</de>
+   <el>Vivaldi web browser</el>
+   <en>Vivaldi web browser</en>
+   <es>Vivaldi web browser</es>
+   <fi>Vivaldi web browser</fi>
+   <fr>Navigateur Web Vivaldi</fr>
+   <hi>Vivaldi web browser</hi>
+   <hr>Vivaldi web browser</hr>
+   <hu>Vivaldi web browser</hu>
+   <it>Vivaldi web browser</it>
+   <ja>Vivaldi web browser</ja>
+   <kk>Vivaldi web browser</kk>
+   <lt>Vivaldi web browser</lt>
+   <nl>Vivaldi web browser</nl>
+   <pl>Vivaldi web browser</pl>
+   <pt_BR>Vivaldi web browser</pt_BR>
+   <pt>Vivaldi web browser</pt>
+   <ro>Vivaldi web browser</ro>
+   <ru>Vivaldi web browser</ru>
+   <sk>Vivaldi web browser</sk>
+   <sv>Vivaldi webbläsare</sv>
+   <tr>Vivaldi web browser</tr>
+   <uk>Vivaldi web browser</uk>
+   <zh_TW>Vivaldi web browser</zh_TW>
 </description>
 
 <installable>

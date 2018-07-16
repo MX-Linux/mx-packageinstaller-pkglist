@@ -5,12 +5,38 @@
 Wallpapers
 </category>
 
-<name>  
+<name>
 MX 16 Wallpapers
 </name>
 
-<description>  
-backgrounds originally supplied with MX 16
+<description>
+   <am>backgrounds originally supplied with MX 16</am>
+   <ca>backgrounds originally supplied with MX 16</ca>
+   <cs>backgrounds originally supplied with MX 16</cs>
+   <de>Bildschirmhintergründe, die ursprünglich mit MX 16 geliefert wurden</de>
+   <el>backgrounds originally supplied with MX 16</el>
+   <en>backgrounds originally supplied with MX 16</en>
+   <es>backgrounds originally supplied with MX 16</es>
+   <fi>backgrounds originally supplied with MX 16</fi>
+   <fr>Fonds d'écran MX 16</fr>
+   <hi>backgrounds originally supplied with MX 16</hi>
+   <hr>backgrounds originally supplied with MX 16</hr>
+   <hu>backgrounds originally supplied with MX 16</hu>
+   <it>backgrounds originally supplied with MX 16</it>
+   <ja>backgrounds originally supplied with MX 16</ja>
+   <kk>backgrounds originally supplied with MX 16</kk>
+   <lt>backgrounds originally supplied with MX 16</lt>
+   <nl>backgrounds originally supplied with MX 16</nl>
+   <pl>backgrounds originally supplied with MX 16</pl>
+   <pt_BR>backgrounds originally supplied with MX 16</pt_BR>
+   <pt>backgrounds originally supplied with MX 16</pt>
+   <ro>backgrounds originally supplied with MX 16</ro>
+   <ru>backgrounds originally supplied with MX 16</ru>
+   <sk>backgrounds originally supplied with MX 16</sk>
+   <sv>wallpapers ursprungligen medföljande MX 16</sv>
+   <tr>backgrounds originally supplied with MX 16</tr>
+   <uk>backgrounds originally supplied with MX 16</uk>
+   <zh_TW>backgrounds originally supplied with MX 16</zh_TW>
 </description>
 
 <installable>

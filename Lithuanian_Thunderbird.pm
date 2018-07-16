@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Lithuanian_Thunderbird
 </name>
 
-<description>  
-Lithuanian localisation of Thunderbird
+<description>
+   <am>Lithuanian localisation of Thunderbird</am>
+   <ca>Lithuanian localisation of Thunderbird</ca>
+   <cs>Lithuanian localisation of Thunderbird</cs>
+   <de>Litauische Lokalisierung von Thunderbird</de>
+   <el>Lithuanian localisation of Thunderbird</el>
+   <en>Lithuanian localisation of Thunderbird</en>
+   <es>Lithuanian localisation of Thunderbird</es>
+   <fi>Lithuanian localisation of Thunderbird</fi>
+   <fr>Lithuanian localisation of Thunderbird</fr>
+   <hi>Lithuanian localisation of Thunderbird</hi>
+   <hr>Lithuanian localisation of Thunderbird</hr>
+   <hu>Lithuanian localisation of Thunderbird</hu>
+   <it>Lithuanian localisation of Thunderbird</it>
+   <ja>Lithuanian localisation of Thunderbird</ja>
+   <kk>Lithuanian localisation of Thunderbird</kk>
+   <lt>Lithuanian localisation of Thunderbird</lt>
+   <nl>Lithuanian localisation of Thunderbird</nl>
+   <pl>Lithuanian localisation of Thunderbird</pl>
+   <pt_BR>Lithuanian localisation of Thunderbird</pt_BR>
+   <pt>Lithuanian localisation of Thunderbird</pt>
+   <ro>Lithuanian localisation of Thunderbird</ro>
+   <ru>Lithuanian localisation of Thunderbird</ru>
+   <sk>Lithuanian localisation of Thunderbird</sk>
+   <sv>Litauisk lokalisering av Thunderbird </sv>
+   <tr>Lithuanian localisation of Thunderbird</tr>
+   <uk>Lithuanian localisation of Thunderbird</uk>
+   <zh_TW>Lithuanian localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

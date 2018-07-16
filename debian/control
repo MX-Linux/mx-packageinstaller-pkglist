@@ -8,7 +8,7 @@ Vcs-Git: git://github.com/MX-Linux/mx-packageinstaller-pkglist
 
 Package: mx-packageinstaller-pkglist
 Architecture: all
-Depends: mx-packageinstaller (>>17.12+5)
+Depends: mx-packageinstaller (>=18.7.2)
 Description: Part of MX program for installing additional packages.
  MX-packageinstaller is a program used for installing additional packages. 
  MX-packageinstaller-pkglist contains the list of packages and installation instructions.

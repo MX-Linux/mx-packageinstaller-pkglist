@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Bulgarian_Firefox
 </name>
 
-<description>  
-Bulgarian localisation of Firefox
+<description>
+   <am>Bulgarian localisation of Firefox</am>
+   <ca>Localització de Firefox en Búlgar</ca>
+   <cs>Bulgarian localisation of Firefox</cs>
+   <de>Bulgarische Lokalisierung von Firefox</de>
+   <el>Bulgarian localisation of Firefox</el>
+   <en>Bulgarian localisation of Firefox</en>
+   <es>Bulgarian localisation of Firefox</es>
+   <fi>Bulgarian localisation of Firefox</fi>
+   <fr>Localisation bulgare pour Firefox</fr>
+   <hi>Bulgarian localisation of Firefox</hi>
+   <hr>Bulgarian localisation of Firefox</hr>
+   <hu>Bulgarian localisation of Firefox</hu>
+   <it>Localizzazione bulgara di Firefox</it>
+   <ja>Bulgarian localisation of Firefox</ja>
+   <kk>Bulgarian localisation of Firefox</kk>
+   <lt>Bulgarian localisation of Firefox</lt>
+   <nl>Bulgarian localisation of Firefox</nl>
+   <pl>Bulgarian localisation of Firefox</pl>
+   <pt_BR>Bulgarian localisation of Firefox</pt_BR>
+   <pt>Bulgarian localisation of Firefox</pt>
+   <ro>Bulgarian localisation of Firefox</ro>
+   <ru>Bulgarian localisation of Firefox</ru>
+   <sk>Bulgarian localisation of Firefox</sk>
+   <sv>Bulgarisk lokalisering av  Firefox</sv>
+   <tr>Bulgarian localisation of Firefox</tr>
+   <uk>Bulgarian localisation of Firefox</uk>
+   <zh_TW>Bulgarian localisation of Firefox</zh_TW>
 </description>
 
 <installable>

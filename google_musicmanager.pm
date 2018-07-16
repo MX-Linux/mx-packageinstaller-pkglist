@@ -9,8 +9,34 @@ Audio
 Google Music Manager
 </name>
 
-<description>  
-Google Music Manager Beta, 64 bit
+<description>
+   <am>Google Music Manager Beta, 64 bit</am>
+   <ca>Google Music Manager Beta, 64 bit</ca>
+   <cs>Google Music Manager Beta, 64 bit</cs>
+   <de>Google Music Manager Beta, 64 bit</de>
+   <el>Google Music Manager Beta, 64 bit</el>
+   <en>Google Music Manager Beta, 64 bit</en>
+   <es>Google Music Manager Beta, 64 bit</es>
+   <fi>Google Music Manager Beta, 64 bit</fi>
+   <fr>Google Music Manager Beta, 64 bit</fr>
+   <hi>Google Music Manager Beta, 64 bit</hi>
+   <hr>Google Music Manager Beta, 64 bit</hr>
+   <hu>Google Music Manager Beta, 64 bit</hu>
+   <it>Google Music Manager Beta, 64 bit</it>
+   <ja>Google Music Manager Beta, 64 bit</ja>
+   <kk>Google Music Manager Beta, 64 bit</kk>
+   <lt>Google Music Manager Beta, 64 bit</lt>
+   <nl>Google Music Manager Beta, 64 bit</nl>
+   <pl>Google Music Manager Beta, 64 bit</pl>
+   <pt_BR>Google Music Manager Beta, 64 bit</pt_BR>
+   <pt>Google Music Manager Beta, 64 bit</pt>
+   <ro>Google Music Manager Beta, 64 bit</ro>
+   <ru>Google Music Manager Beta, 64 bit</ru>
+   <sk>Google Music Manager Beta, 64 bit</sk>
+   <sv>Google Music Manager Beta, 64 bit</sv>
+   <tr>Google Music Manager Beta, 64 bit</tr>
+   <uk>Google Music Manager Beta, 64 bit</uk>
+   <zh_TW>Google Music Manager Beta, 64 bit</zh_TW>
 </description>
 
 <installable>

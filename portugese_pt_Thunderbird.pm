@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Portugese(PT) Thunderbird
 </name>
 
-<description>  
-Portugese(PT) localisation of Thunderbird
+<description>
+   <am>Portugese(PT) localisation of Thunderbird</am>
+   <ca>Localització de Thunderbird en Portuguès (PT)</ca>
+   <cs>Portugese(PT) localisation of Thunderbird</cs>
+   <de>Portugiesische (PT) Lokalisierung von Thunderbird</de>
+   <el>Portugese(PT) localisation of Thunderbird</el>
+   <en>Portugese(PT) localisation of Thunderbird</en>
+   <es>Portugese(PT) localisation of Thunderbird</es>
+   <fi>Portugese(PT) localisation of Thunderbird</fi>
+   <fr>Portugese(PT) localisation of Thunderbird</fr>
+   <hi>Portugese(PT) localisation of Thunderbird</hi>
+   <hr>Portugese(PT) localisation of Thunderbird</hr>
+   <hu>Portugese(PT) localisation of Thunderbird</hu>
+   <it>Portugese(PT) localisation of Thunderbird</it>
+   <ja>Portugese(PT) localisation of Thunderbird</ja>
+   <kk>Portugese(PT) localisation of Thunderbird</kk>
+   <lt>Portugese(PT) localisation of Thunderbird</lt>
+   <nl>Portugese(PT) localisation of Thunderbird</nl>
+   <pl>Portugese(PT) localisation of Thunderbird</pl>
+   <pt_BR>Portugese(PT) localisation of Thunderbird</pt_BR>
+   <pt>Portugese(PT) localisation of Thunderbird</pt>
+   <ro>Portugese(PT) localisation of Thunderbird</ro>
+   <ru>Portugese(PT) localisation of Thunderbird</ru>
+   <sk>Portugese(PT) localisation of Thunderbird</sk>
+   <sv>Portugisisk (PT) lokalisering för Thunderbird</sv>
+   <tr>Portugese(PT) localisation of Thunderbird</tr>
+   <uk>Portugese(PT) localisation of Thunderbird</uk>
+   <zh_TW>Portugese(PT) localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

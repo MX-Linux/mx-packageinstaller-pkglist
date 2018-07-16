@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 US_English_Libreoffice
 </name>
 
-<description>  
-US English Help for LibreOffice
+<description>
+   <am>US English Help for LibreOffice</am>
+   <ca>Ajuda en anglès (USA) per LibreOffice</ca>
+   <cs>US English Help for LibreOffice</cs>
+   <de>Englische (US) Hilfe für LibreOffice</de>
+   <el>US English Help for LibreOffice</el>
+   <en>US English Help for LibreOffice</en>
+   <es>US English Help for LibreOffice</es>
+   <fi>US English Help for LibreOffice</fi>
+   <fr>US English Help for LibreOffice</fr>
+   <hi>US English Help for LibreOffice</hi>
+   <hr>US English Help for LibreOffice</hr>
+   <hu>US English Help for LibreOffice</hu>
+   <it>US English Help for LibreOffice</it>
+   <ja>US English Help for LibreOffice</ja>
+   <kk>US English Help for LibreOffice</kk>
+   <lt>US English Help for LibreOffice</lt>
+   <nl>US English Help for LibreOffice</nl>
+   <pl>US English Help for LibreOffice</pl>
+   <pt_BR>US English Help for LibreOffice</pt_BR>
+   <pt>US English Help for LibreOffice</pt>
+   <ro>US English Help for LibreOffice</ro>
+   <ru>US English Help for LibreOffice</ru>
+   <sk>US English Help for LibreOffice</sk>
+   <sv>US Engelsk Hjälp för LibreOffice</sv>
+   <tr>US English Help for LibreOffice</tr>
+   <uk>US English Help for LibreOffice</uk>
+   <zh_TW>US English Help for LibreOffice</zh_TW>
 </description>
 
 <installable>

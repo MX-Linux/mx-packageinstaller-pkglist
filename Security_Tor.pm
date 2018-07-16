@@ -5,12 +5,38 @@
 Network
 </category>
 
-<name>  
+<name>
 Tor and Privoxy
 </name>
 
-<description>  
-Tor and Privoxy
+<description>
+   <am>Tor and Privoxy</am>
+   <ca>Tor i Privoxy</ca>
+   <cs>Tor and Privoxy</cs>
+   <de>Tor und Privoxy</de>
+   <el>Tor and Privoxy</el>
+   <en>Tor and Privoxy</en>
+   <es>Tor and Privoxy</es>
+   <fi>Tor and Privoxy</fi>
+   <fr>Tor and Privoxy</fr>
+   <hi>Tor and Privoxy</hi>
+   <hr>Tor and Privoxy</hr>
+   <hu>Tor and Privoxy</hu>
+   <it>Tor and Privoxy</it>
+   <ja>Tor and Privoxy</ja>
+   <kk>Tor and Privoxy</kk>
+   <lt>Tor and Privoxy</lt>
+   <nl>Tor and Privoxy</nl>
+   <pl>Tor and Privoxy</pl>
+   <pt_BR>Tor and Privoxy</pt_BR>
+   <pt>Tor and Privoxy</pt>
+   <ro>Tor and Privoxy</ro>
+   <ru>Tor and Privoxy</ru>
+   <sk>Tor and Privoxy</sk>
+   <sv>Tor och Privoxy</sv>
+   <tr>Tor and Privoxy</tr>
+   <uk>Tor and Privoxy</uk>
+   <zh_TW>Tor and Privoxy</zh_TW>
 </description>
 
 <installable>

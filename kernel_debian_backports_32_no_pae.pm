@@ -5,12 +5,38 @@
 Kernels
 </category>
 
-<name>  
+<name>
 Debian-Backports 32 bit No PAE
 </name>
 
-<description>  
-Debian Backports Kernel (32 bit No PAE)
+<description>
+   <am>Debian Backports Kernel (32 bit No PAE)</am>
+   <ca>Debian Backports Kernel (32 bit No PAE)</ca>
+   <cs>Debian Backports Kernel (32 bit No PAE)</cs>
+   <de>Debian Backports Kernel (32 Bit ohne PAE)</de>
+   <el>Debian Backports Kernel (32 bit No PAE)</el>
+   <en>Debian Backports Kernel (32 bit No PAE)</en>
+   <es>Debian Backports Kernel (32 bit No PAE)</es>
+   <fi>Debian Backports Kernel (32 bit No PAE)</fi>
+   <fr>Noyau Debian Backports (32 bit No PAE)</fr>
+   <hi>Debian Backports Kernel (32 bit No PAE)</hi>
+   <hr>Debian Backports Kernel (32 bit No PAE)</hr>
+   <hu>Debian Backports Kernel (32 bit No PAE)</hu>
+   <it>Debian Backports Kernel (32 bit No PAE)</it>
+   <ja>Debian Backports Kernel (32 bit No PAE)</ja>
+   <kk>Debian Backports Kernel (32 bit No PAE)</kk>
+   <lt>Debian Backports Kernel (32 bit No PAE)</lt>
+   <nl>Debian Backports Kernel (32 bit No PAE)</nl>
+   <pl>Debian Backports Kernel (32 bit No PAE)</pl>
+   <pt_BR>Debian Backports Kernel (32 bit No PAE)</pt_BR>
+   <pt>Debian Backports Kernel (32 bit No PAE)</pt>
+   <ro>Debian Backports Kernel (32 bit No PAE)</ro>
+   <ru>Debian Backports Kernel (32 bit No PAE)</ru>
+   <sk>Debian Backports Kernel (32 bit No PAE)</sk>
+   <sv>Debian Backports Kärna (32 bit No PAE)</sv>
+   <tr>Debian Backports Kernel (32 bit No PAE)</tr>
+   <uk>Debian Backports Kernel (32 bit No PAE)</uk>
+   <zh_TW>Debian Backports Kernel (32 bit No PAE)</zh_TW>
 </description>
 
 <installable>
@@ -22,7 +48,7 @@ Debian Backports Kernel (32 bit No PAE)
 <preinstall>
 echo "deb http://http.debian.net/debian stretch-backports main">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
-apt-get install -t stretch-backports 
+apt-get install -t stretch-backports
 </preinstall>
 
 <install_package_names>

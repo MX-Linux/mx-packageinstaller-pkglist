@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Korean_Libreoffice
 </name>
 
-<description>  
-Korean localisation of LibreOffice
+<description>
+   <am>Korean localisation of LibreOffice</am>
+   <ca>Korean localisation of LibreOffice</ca>
+   <cs>Korean localisation of LibreOffice</cs>
+   <de>Koreanische Lokalisierung von LibreOffice</de>
+   <el>Korean localisation of LibreOffice</el>
+   <en>Korean localisation of LibreOffice</en>
+   <es>Korean localisation of LibreOffice</es>
+   <fi>Korean localisation of LibreOffice</fi>
+   <fr>Korean localisation of LibreOffice</fr>
+   <hi>Korean localisation of LibreOffice</hi>
+   <hr>Korean localisation of LibreOffice</hr>
+   <hu>Korean localisation of LibreOffice</hu>
+   <it>Korean localisation of LibreOffice</it>
+   <ja>Korean localisation of LibreOffice</ja>
+   <kk>Korean localisation of LibreOffice</kk>
+   <lt>Korean localisation of LibreOffice</lt>
+   <nl>Korean localisation of LibreOffice</nl>
+   <pl>Korean localisation of LibreOffice</pl>
+   <pt_BR>Korean localisation of LibreOffice</pt_BR>
+   <pt>Korean localisation of LibreOffice</pt>
+   <ro>Korean localisation of LibreOffice</ro>
+   <ru>Korean localisation of LibreOffice</ru>
+   <sk>Korean localisation of LibreOffice</sk>
+   <sv>Koreansk lokalisering av LibreOffice</sv>
+   <tr>Korean localisation of LibreOffice</tr>
+   <uk>Korean localisation of LibreOffice</uk>
+   <zh_TW>Korean localisation of LibreOffice</zh_TW>
 </description>
 
 <installable>
@@ -25,12 +51,12 @@ all
 
 <install_package_names>
 libreoffice-calc
-        libreoffice-draw     
-        libreoffice-impress 
-        libreoffice-math
-        libreoffice-writer
-	libreoffice-l10n-ko
-	libreoffice-help-ko
+libreoffice-draw
+libreoffice-impress
+libreoffice-math
+libreoffice-writer
+libreoffice-l10n-ko
+libreoffice-help-ko
 </install_package_names>
 
 
@@ -41,11 +67,11 @@ libreoffice-calc
 
 <uninstall_package_names>
 libreoffice-calc
-        libreoffice-draw     
-        libreoffice-impress 
-        libreoffice-math
-        libreoffice-writer
-	libreoffice-l10n-ko
-	libreoffice-help-ko
+libreoffice-draw
+libreoffice-impress
+libreoffice-math
+libreoffice-writer
+libreoffice-l10n-ko
+libreoffice-help-ko
 </uninstall_package_names>
 </app>

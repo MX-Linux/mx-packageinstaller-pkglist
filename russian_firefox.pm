@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Russian_Firefox
 </name>
 
-<description>  
-Russian localisation of Firefox
+<description>
+   <am>Russian localisation of Firefox</am>
+   <ca>Localització de Firefox en Rus</ca>
+   <cs>Russian localisation of Firefox</cs>
+   <de>Russische Lokalisierung von Firefox</de>
+   <el>Russian localisation of Firefox</el>
+   <en>Russian localisation of Firefox</en>
+   <es>Russian localisation of Firefox</es>
+   <fi>Russian localisation of Firefox</fi>
+   <fr>Russian localisation of Firefox</fr>
+   <hi>Russian localisation of Firefox</hi>
+   <hr>Russian localisation of Firefox</hr>
+   <hu>Russian localisation of Firefox</hu>
+   <it>Russian localisation of Firefox</it>
+   <ja>Russian localisation of Firefox</ja>
+   <kk>Russian localisation of Firefox</kk>
+   <lt>Russian localisation of Firefox</lt>
+   <nl>Russian localisation of Firefox</nl>
+   <pl>Russian localisation of Firefox</pl>
+   <pt_BR>Russian localisation of Firefox</pt_BR>
+   <pt>Russian localisation of Firefox</pt>
+   <ro>Russian localisation of Firefox</ro>
+   <ru>Russian localisation of Firefox</ru>
+   <sk>Russian localisation of Firefox</sk>
+   <sv>Rysk lokalisering av Firefox </sv>
+   <tr>Russian localisation of Firefox</tr>
+   <uk>Russian localisation of Firefox</uk>
+   <zh_TW>Russian localisation of Firefox</zh_TW>
 </description>
 
 <installable>

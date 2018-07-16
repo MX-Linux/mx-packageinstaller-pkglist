@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Chinese_Input_fcitx
 </name>
 
-<description>  
-Chinese fcitx
+<description>
+   <am>Chinese fcitx</am>
+   <ca>FCTIX en Xinès</ca>
+   <cs>Chinese fcitx</cs>
+   <de>Chinesisch Fcitx</de>
+   <el>Chinese fcitx</el>
+   <en>Chinese fcitx</en>
+   <es>Chinese fcitx</es>
+   <fi>Chinese fcitx</fi>
+   <fr>Chinois fcitx</fr>
+   <hi>Chinese fcitx</hi>
+   <hr>Chinese fcitx</hr>
+   <hu>Chinese fcitx</hu>
+   <it>Chinese fcitx</it>
+   <ja>Chinese fcitx</ja>
+   <kk>Chinese fcitx</kk>
+   <lt>Chinese fcitx</lt>
+   <nl>Chinese fcitx</nl>
+   <pl>Chinese fcitx</pl>
+   <pt_BR>Chinese fcitx</pt_BR>
+   <pt>Chinese fcitx</pt>
+   <ro>Chinese fcitx</ro>
+   <ru>Chinese fcitx</ru>
+   <sk>Chinese fcitx</sk>
+   <sv>Kinesisk fcitx</sv>
+   <tr>Chinese fcitx</tr>
+   <uk>Chinese fcitx</uk>
+   <zh_TW>Chinese fcitx</zh_TW>
 </description>
 
 <installable>
@@ -33,10 +59,10 @@ fcitx-ui-classic
 fcitx-ui-light
 fcitx-googlepinyin
 fcitx-libpinyin
-fcitx-rime 
+fcitx-rime
 fcitx-sunpinyin
 fcitx-chewing
-fcitx-table-all 
+fcitx-table-all
 fcitx-config-gtk2
 fcitx-frontend-gtk2
 fcitx-frontend-gtk3
@@ -61,10 +87,10 @@ fcitx-ui-classic
 fcitx-ui-light
 fcitx-googlepinyin
 fcitx-libpinyin
-fcitx-rime 
+fcitx-rime
 fcitx-sunpinyin
 fcitx-chewing
-fcitx-table-all 
+fcitx-table-all
 fcitx-config-gtk2
 fcitx-frontend-gtk2
 fcitx-frontend-gtk3
