@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Polish_Libreoffice
 </name>
 
-<description>  
-Polish Language Meta-Package for LibreOffice
+<description>
+   <am>Polish Language Meta-Package for LibreOffice</am>
+   <ca>Meta-paquet de llengua per LibreOffice en Polonès</ca>
+   <cs>Polish Language Meta-Package for LibreOffice</cs>
+   <de>Polnisches Meta-Paket für LibreOffice</de>
+   <el>Polish Language Meta-Package for LibreOffice</el>
+   <en>Polish Language Meta-Package for LibreOffice</en>
+   <es>Polish Language Meta-Package for LibreOffice</es>
+   <fi>Polish Language Meta-Package for LibreOffice</fi>
+   <fr>Polish Language Meta-Package for LibreOffice</fr>
+   <hi>Polish Language Meta-Package for LibreOffice</hi>
+   <hr>Polish Language Meta-Package for LibreOffice</hr>
+   <hu>Polish Language Meta-Package for LibreOffice</hu>
+   <it>Polish Language Meta-Package for LibreOffice</it>
+   <ja>Polish Language Meta-Package for LibreOffice</ja>
+   <kk>Polish Language Meta-Package for LibreOffice</kk>
+   <lt>Polish Language Meta-Package for LibreOffice</lt>
+   <nl>Polish Language Meta-Package for LibreOffice</nl>
+   <pl>Polish Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Polish Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Polish Language Meta-Package for LibreOffice</pt>
+   <ro>Polish Language Meta-Package for LibreOffice</ro>
+   <ru>Polish Language Meta-Package for LibreOffice</ru>
+   <sk>Polish Language Meta-Package for LibreOffice</sk>
+   <sv>Polskt Språk Meta-Paket för LibreOffice </sv>
+   <tr>Polish Language Meta-Package for LibreOffice</tr>
+   <uk>Polish Language Meta-Package for LibreOffice</uk>
+   <zh_TW>Polish Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>
@@ -25,12 +51,12 @@ all
 
 <install_package_names>
 libreoffice-calc
-        libreoffice-draw     
-        libreoffice-impress 
-        libreoffice-math
-        libreoffice-writer
-	libreoffice-l10n-pl
-	libreoffice-help-pl
+libreoffice-draw
+libreoffice-impress
+libreoffice-math
+libreoffice-writer
+libreoffice-l10n-pl
+libreoffice-help-pl
 </install_package_names>
 
 
@@ -41,11 +67,11 @@ libreoffice-calc
 
 <uninstall_package_names>
 libreoffice-calc
-        libreoffice-draw     
-        libreoffice-impress 
-        libreoffice-math
-        libreoffice-writer
-	libreoffice-l10n-pl
-	libreoffice-help-pl
+libreoffice-draw
+libreoffice-impress
+libreoffice-math
+libreoffice-writer
+libreoffice-l10n-pl
+libreoffice-help-pl
 </uninstall_package_names>
 </app>

@@ -5,12 +5,38 @@
 Browser
 </category>
 
-<name>  
+<name>
 Opera
 </name>
 
-<description>  
-Opera browser
+<description>
+   <am>Opera browser</am>
+   <ca>Navegador Opera</ca>
+   <cs>Opera browser</cs>
+   <de>Opera-Browser</de>
+   <el>Opera browser</el>
+   <en>Opera browser</en>
+   <es>Opera browser</es>
+   <fi>Opera browser</fi>
+   <fr>Navigateur Opera</fr>
+   <hi>Opera browser</hi>
+   <hr>Opera browser</hr>
+   <hu>Opera browser</hu>
+   <it>Opera browser</it>
+   <ja>Opera browser</ja>
+   <kk>Opera browser</kk>
+   <lt>Opera browser</lt>
+   <nl>Opera browser</nl>
+   <pl>Opera browser</pl>
+   <pt_BR>Opera browser</pt_BR>
+   <pt>Opera browser</pt>
+   <ro>Opera browser</ro>
+   <ru>Opera browser</ru>
+   <sk>Opera browser</sk>
+   <sv>Opera webbläsare</sv>
+   <tr>Opera browser</tr>
+   <uk>Opera browser</uk>
+   <zh_TW>Opera browser</zh_TW>
 </description>
 
 <installable>
@@ -31,7 +57,7 @@ opera-stable
 
 
 <postinstall>
-if [ -f /etc/apt/sources.list.d/opera-stable.list ]; then sed -i -r '/opera.com/ s/^([^#])/#\1/' /etc/apt/sources.list.d/various.list; apt-get update; fi
+if [ -f /etc/apt/sources.list.d/opera-stable.list ]; then sed -i -r '/opera.com/ s/^([^#])/#1/' /etc/apt/sources.list.d/various.list; apt-get update; fi
 </postinstall>
 
 

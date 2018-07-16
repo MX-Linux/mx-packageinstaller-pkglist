@@ -6,12 +6,38 @@
 Misc
 </category>
 
-<name>  
+<name>
 VirtualBox
 </name>
 
-<description>  
-Virtualbox 
+<description>
+   <am>Virtualbox</am>
+   <ca>Virtualbox</ca>
+   <cs>Virtualbox</cs>
+   <de>Die Virtualisierungssoftware VirtualBox</de>
+   <el>Virtualbox</el>
+   <en>Virtualbox</en>
+   <es>Virtualbox</es>
+   <fi>Virtualbox</fi>
+   <fr>Virtualbox</fr>
+   <hi>Virtualbox</hi>
+   <hr>Virtualbox</hr>
+   <hu>Virtualbox</hu>
+   <it>Virtualbox</it>
+   <ja>Virtualbox</ja>
+   <kk>Virtualbox</kk>
+   <lt>Virtualbox</lt>
+   <nl>Virtualbox</nl>
+   <pl>Virtualbox</pl>
+   <pt_BR>Virtualbox</pt_BR>
+   <pt>Virtualbox</pt>
+   <ro>Virtualbox</ro>
+   <ru>Virtualbox</ru>
+   <sk>Virtualbox</sk>
+   <sv>Virtualbox</sv>
+   <tr>Virtualbox</tr>
+   <uk>Virtualbox</uk>
+   <zh_TW>Virtualbox</zh_TW>
 </description>
 
 <installable>
@@ -27,7 +53,7 @@ all
 <install_package_names>
 virtualbox
 virtualbox-ext-pack
-virtualbox-guest-additions-iso 
+virtualbox-guest-additions-iso
 </install_package_names>
 
 
@@ -39,7 +65,7 @@ gpasswd -M $(getent group users | cut -d: -f4) vboxusers
 <uninstall_package_names>
 virtualbox
 virtualbox-ext-pack
-virtualbox-guest-additions-iso 
+virtualbox-guest-additions-iso
 </uninstall_package_names>
 
 </app>

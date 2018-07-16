@@ -5,12 +5,38 @@
 Desktop Environments
 </category>
 
-<name>  
+<name>
 MATE
 </name>
 
-<description>  
-basic install of MATE desktop
+<description>
+   <am>basic install of MATE desktop</am>
+   <ca>basic install of MATE desktop</ca>
+   <cs>basic install of MATE desktop</cs>
+   <de>Basisinstallation von MATE Desktop</de>
+   <el>basic install of MATE desktop</el>
+   <en>basic install of MATE desktop</en>
+   <es>basic install of MATE desktop</es>
+   <fi>basic install of MATE desktop</fi>
+   <fr>installation de base du bureau MATE</fr>
+   <hi>basic install of MATE desktop</hi>
+   <hr>basic install of MATE desktop</hr>
+   <hu>basic install of MATE desktop</hu>
+   <it>basic install of MATE desktop</it>
+   <ja>basic install of MATE desktop</ja>
+   <kk>basic install of MATE desktop</kk>
+   <lt>basic install of MATE desktop</lt>
+   <nl>basic install of MATE desktop</nl>
+   <pl>basic install of MATE desktop</pl>
+   <pt_BR>basic install of MATE desktop</pt_BR>
+   <pt>basic install of MATE desktop</pt>
+   <ro>basic install of MATE desktop</ro>
+   <ru>basic install of MATE desktop</ru>
+   <sk>basic install of MATE desktop</sk>
+   <sv>enkel installation av MATE skrivbord</sv>
+   <tr>basic install of MATE desktop</tr>
+   <uk>basic install of MATE desktop</uk>
+   <zh_TW>basic install of MATE desktop</zh_TW>
 </description>
 
 <installable>

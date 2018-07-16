@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Ukrainian
 </name>
 
-<description>  
-Ukrainian Language Meta-Package
+<description>
+   <am>Ukrainian Language Meta-Package</am>
+   <ca>Meta-paquet de llengua en Ucrainès</ca>
+   <cs>Ukrainian Language Meta-Package</cs>
+   <de>Ukrainisches Sprach-Meta-Paket</de>
+   <el>Ukrainian Language Meta-Package</el>
+   <en>Ukrainian Language Meta-Package</en>
+   <es>Ukrainian Language Meta-Package</es>
+   <fi>Ukrainian Language Meta-Package</fi>
+   <fr>Ukrainian Language Meta-Package</fr>
+   <hi>Ukrainian Language Meta-Package</hi>
+   <hr>Ukrainian Language Meta-Package</hr>
+   <hu>Ukrainian Language Meta-Package</hu>
+   <it>Ukrainian Language Meta-Package</it>
+   <ja>Ukrainian Language Meta-Package</ja>
+   <kk>Ukrainian Language Meta-Package</kk>
+   <lt>Ukrainian Language Meta-Package</lt>
+   <nl>Ukrainian Language Meta-Package</nl>
+   <pl>Ukrainian Language Meta-Package</pl>
+   <pt_BR>Ukrainian Language Meta-Package</pt_BR>
+   <pt>Ukrainian Language Meta-Package</pt>
+   <ro>Ukrainian Language Meta-Package</ro>
+   <ru>Ukrainian Language Meta-Package</ru>
+   <sk>Ukrainian Language Meta-Package</sk>
+   <sv>Ukrainskt Språk Meta-Paket </sv>
+   <tr>Ukrainian Language Meta-Package</tr>
+   <uk>Ukrainian Language Meta-Package</uk>
+   <zh_TW>Ukrainian Language Meta-Package</zh_TW>
 </description>
 
 <installable>
@@ -25,8 +51,8 @@ all
 
 <install_package_names>
 aspell-uk
-	console-cyrillic
-	myspell-uk
+console-cyrillic
+myspell-uk
 </install_package_names>
 
 
@@ -37,7 +63,7 @@ aspell-uk
 
 <uninstall_package_names>
 aspell-uk
-	console-cyrillic
-	myspell-uk 
+console-cyrillic
+myspell-uk
 </uninstall_package_names>
 </app>

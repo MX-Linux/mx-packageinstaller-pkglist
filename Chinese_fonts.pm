@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
-Chinese_fonts 
+<name>
+Chinese_fonts
 </name>
 
-<description>  
-Chinese fonts packages
+<description>
+   <am>Chinese fonts packages</am>
+   <ca>Paquets de tipus de lletra en Xinès</ca>
+   <cs>Chinese fonts packages</cs>
+   <de>Chinesische Schriftenpakete</de>
+   <el>Chinese fonts packages</el>
+   <en>Chinese fonts packages</en>
+   <es>Chinese fonts packages</es>
+   <fi>Chinese fonts packages</fi>
+   <fr>Paquets polices chinoises</fr>
+   <hi>Chinese fonts packages</hi>
+   <hr>Chinese fonts packages</hr>
+   <hu>Chinese fonts packages</hu>
+   <it>Pacchetti di fonts per il Cinese</it>
+   <ja>Chinese fonts packages</ja>
+   <kk>Chinese fonts packages</kk>
+   <lt>Chinese fonts packages</lt>
+   <nl>Chinese fonts packages</nl>
+   <pl>Chinese fonts packages</pl>
+   <pt_BR>Chinese fonts packages</pt_BR>
+   <pt>Chinese fonts packages</pt>
+   <ro>Chinese fonts packages</ro>
+   <ru>Chinese fonts packages</ru>
+   <sk>Chinese fonts packages</sk>
+   <sv>Kinesiska typsnitts-paket</sv>
+   <tr>Chinese fonts packages</tr>
+   <uk>Chinese fonts packages</uk>
+   <zh_TW>Chinese fonts packages</zh_TW>
 </description>
 
 <installable>
@@ -24,7 +50,7 @@ all
 </preinstall>
 
 <install_package_names>
-xfonts-wqy	
+xfonts-wqy
 ttf-freefont
 ttf-wqy-zenhei
 </install_package_names>
@@ -36,7 +62,7 @@ ttf-wqy-zenhei
 
 
 <uninstall_package_names>
-xfonts-wqy	
+xfonts-wqy
 ttf-freefont
 ttf-wqy-zenhei
 </uninstall_package_names>

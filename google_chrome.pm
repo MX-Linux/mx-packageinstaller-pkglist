@@ -5,12 +5,38 @@
 Browser
 </category>
 
-<name>  
+<name>
 Google Chrome
 </name>
 
-<description>  
-Latest Google Chrome browser (stable)
+<description>
+   <am>Latest Google Chrome browser (stable)</am>
+   <ca>Darrer navegador Chrome (estable)</ca>
+   <cs>Latest Google Chrome browser (stable)</cs>
+   <de>Aktueller Google Chrome-Browser (stabil)</de>
+   <el>Latest Google Chrome browser (stable)</el>
+   <en>Latest Google Chrome browser (stable)</en>
+   <es>Latest Google Chrome browser (stable)</es>
+   <fi>Latest Google Chrome browser (stable)</fi>
+   <fr>La dernière version de Google Chrome (stable)</fr>
+   <hi>Latest Google Chrome browser (stable)</hi>
+   <hr>Latest Google Chrome browser (stable)</hr>
+   <hu>Latest Google Chrome browser (stable)</hu>
+   <it>Latest Google Chrome browser (stable)</it>
+   <ja>Latest Google Chrome browser (stable)</ja>
+   <kk>Latest Google Chrome browser (stable)</kk>
+   <lt>Latest Google Chrome browser (stable)</lt>
+   <nl>Latest Google Chrome browser (stable)</nl>
+   <pl>Latest Google Chrome browser (stable)</pl>
+   <pt_BR>Latest Google Chrome browser (stable)</pt_BR>
+   <pt>Latest Google Chrome browser (stable)</pt>
+   <ro>Latest Google Chrome browser (stable)</ro>
+   <ru>Latest Google Chrome browser (stable)</ru>
+   <sk>Latest Google Chrome browser (stable)</sk>
+   <sv>SenasteGoogle Chrome webbläsare (stable)</sv>
+   <tr>Latest Google Chrome browser (stable)</tr>
+   <uk>Latest Google Chrome browser (stable)</uk>
+   <zh_TW>Latest Google Chrome browser (stable)</zh_TW>
 </description>
 
 <installable>

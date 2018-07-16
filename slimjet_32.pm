@@ -5,12 +5,38 @@
 Browser
 </category>
 
-<name>  
+<name>
 Slimjet
 </name>
 
-<description>  
-Latest Slimjet Browser (run again for updates)
+<description>
+   <am>Latest Slimjet Browser (run again for updates)</am>
+   <ca>Darrer navegador Slimjet (torneu a executar-lo per actualitzacions)</ca>
+   <cs>Latest Slimjet Browser (run again for updates)</cs>
+   <de>Neuester Slimjet Browser (zur Aktualisierung erneut ausführen)</de>
+   <el>Latest Slimjet Browser (run again for updates)</el>
+   <en>Latest Slimjet Browser (run again for updates)</en>
+   <es>Latest Slimjet Browser (run again for updates)</es>
+   <fi>Latest Slimjet Browser (run again for updates)</fi>
+   <fr>Latest Slimjet Browser (run again for updates)</fr>
+   <hi>Latest Slimjet Browser (run again for updates)</hi>
+   <hr>Latest Slimjet Browser (run again for updates)</hr>
+   <hu>Latest Slimjet Browser (run again for updates)</hu>
+   <it>Latest Slimjet Browser (run again for updates)</it>
+   <ja>Latest Slimjet Browser (run again for updates)</ja>
+   <kk>Latest Slimjet Browser (run again for updates)</kk>
+   <lt>Latest Slimjet Browser (run again for updates)</lt>
+   <nl>Latest Slimjet Browser (run again for updates)</nl>
+   <pl>Latest Slimjet Browser (run again for updates)</pl>
+   <pt_BR>Latest Slimjet Browser (run again for updates)</pt_BR>
+   <pt>Latest Slimjet Browser (run again for updates)</pt>
+   <ro>Latest Slimjet Browser (run again for updates)</ro>
+   <ru>Latest Slimjet Browser (run again for updates)</ru>
+   <sk>Latest Slimjet Browser (run again for updates)</sk>
+   <sv>Senaste Slimjet Webbläsare (kör igen för uppdateringar)</sv>
+   <tr>Latest Slimjet Browser (run again for updates)</tr>
+   <uk>Latest Slimjet Browser (run again for updates)</uk>
+   <zh_TW>Latest Slimjet Browser (run again for updates)</zh_TW>
 </description>
 
 <installable>

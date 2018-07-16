@@ -9,8 +9,34 @@ Remote Access
 Nomachine
 </name>
 
-<description>  
-Cross Platform Remote Access Software
+<description>
+   <am>Cross Platform Remote Access Software</am>
+   <ca>Cross Platform Remote Access Software</ca>
+   <cs>Cross Platform Remote Access Software</cs>
+   <de>Plattformübergreifende Remote Access Software</de>
+   <el>Cross Platform Remote Access Software</el>
+   <en>Cross Platform Remote Access Software</en>
+   <es>Cross Platform Remote Access Software</es>
+   <fi>Cross Platform Remote Access Software</fi>
+   <fr>Cross Platform Remote Access Software</fr>
+   <hi>Cross Platform Remote Access Software</hi>
+   <hr>Cross Platform Remote Access Software</hr>
+   <hu>Cross Platform Remote Access Software</hu>
+   <it>Cross Platform Remote Access Software</it>
+   <ja>Cross Platform Remote Access Software</ja>
+   <kk>Cross Platform Remote Access Software</kk>
+   <lt>Cross Platform Remote Access Software</lt>
+   <nl>Cross Platform Remote Access Software</nl>
+   <pl>Cross Platform Remote Access Software</pl>
+   <pt_BR>Cross Platform Remote Access Software</pt_BR>
+   <pt>Cross Platform Remote Access Software</pt>
+   <ro>Cross Platform Remote Access Software</ro>
+   <ru>Cross Platform Remote Access Software</ru>
+   <sk>Cross Platform Remote Access Software</sk>
+   <sv>Plattformsoberoende Fjärråtkomst-mjukvara</sv>
+   <tr>Cross Platform Remote Access Software</tr>
+   <uk>Cross Platform Remote Access Software</uk>
+   <zh_TW>Cross Platform Remote Access Software</zh_TW>
 </description>
 
 <installable>

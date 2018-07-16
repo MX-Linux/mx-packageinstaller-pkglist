@@ -10,13 +10,39 @@ Debian-Backports 64 bit
 </name>
 
 <description>
-Debian Backports kernel Meltdown patched, 64 bit
+   <am>Debian Backports kernel Meltdown patched, 64 bit</am>
+   <ca>Debian Backports kernel Meltdown patched, 64 bit</ca>
+   <cs>Debian Backports kernel Meltdown patched, 64 bit</cs>
+   <de>Debian Backports-Kernel Meltdown gepatcht, 64 Bit</de>
+   <el>Debian Backports kernel Meltdown patched, 64 bit</el>
+   <en>Debian Backports kernel Meltdown patched, 64 bit</en>
+   <es>Debian Backports kernel Meltdown patched, 64 bit</es>
+   <fi>Debian Backports kernel Meltdown patched, 64 bit</fi>
+   <fr>Noyau Debian Backports corrections Meltdown, 64 bit</fr>
+   <hi>Debian Backports kernel Meltdown patched, 64 bit</hi>
+   <hr>Debian Backports kernel Meltdown patched, 64 bit</hr>
+   <hu>Debian Backports kernel Meltdown patched, 64 bit</hu>
+   <it>Debian Backports kernel Meltdown patched, 64 bit</it>
+   <ja>Debian Backports kernel Meltdown patched, 64 bit</ja>
+   <kk>Debian Backports kernel Meltdown patched, 64 bit</kk>
+   <lt>Debian Backports kernel Meltdown patched, 64 bit</lt>
+   <nl>Debian Backports kernel Meltdown patched, 64 bit</nl>
+   <pl>Debian Backports kernel Meltdown patched, 64 bit</pl>
+   <pt_BR>Debian Backports kernel Meltdown patched, 64 bit</pt_BR>
+   <pt>Debian Backports kernel Meltdown patched, 64 bit</pt>
+   <ro>Debian Backports kernel Meltdown patched, 64 bit</ro>
+   <ru>Debian Backports kernel Meltdown patched, 64 bit</ru>
+   <sk>Debian Backports kernel Meltdown patched, 64 bit</sk>
+   <sv>Debian Backports kärna Meltdown patched, 64 bit</sv>
+   <tr>Debian Backports kernel Meltdown patched, 64 bit</tr>
+   <uk>Debian Backports kernel Meltdown patched, 64 bit</uk>
+   <zh_TW>Debian Backports kernel Meltdown patched, 64 bit</zh_TW>
 </description>
 
 <installable>
 64
 </installable>
- 
+
 <screenshot>none</screenshot>
 
 <preinstall>

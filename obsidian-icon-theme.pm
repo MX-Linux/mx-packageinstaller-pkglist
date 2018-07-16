@@ -5,12 +5,38 @@
 Icons
 </category>
 
-<name>  
+<name>
 Obsidian Icon Theme
 </name>
 
-<description>  
-an updated/refreshed Faenza-ish icon theme with many colour choices
+<description>
+   <am>an updated/refreshed Faenza-ish icon theme with many colour choices</am>
+   <ca>an updated/refreshed Faenza-ish icon theme with many colour choices</ca>
+   <cs>an updated/refreshed Faenza-ish icon theme with many colour choices</cs>
+   <de>Ein aktualisiertes/erfrischtes Faenza-ähnliches Icon-Thema mit vielen Farbvarianten</de>
+   <el>an updated/refreshed Faenza-ish icon theme with many colour choices</el>
+   <en>an updated/refreshed Faenza-ish icon theme with many colour choices</en>
+   <es>an updated/refreshed Faenza-ish icon theme with many colour choices</es>
+   <fi>an updated/refreshed Faenza-ish icon theme with many colour choices</fi>
+   <fr>an updated/refreshed Faenza-ish icon theme with many colour choices</fr>
+   <hi>an updated/refreshed Faenza-ish icon theme with many colour choices</hi>
+   <hr>an updated/refreshed Faenza-ish icon theme with many colour choices</hr>
+   <hu>an updated/refreshed Faenza-ish icon theme with many colour choices</hu>
+   <it>an updated/refreshed Faenza-ish icon theme with many colour choices</it>
+   <ja>an updated/refreshed Faenza-ish icon theme with many colour choices</ja>
+   <kk>an updated/refreshed Faenza-ish icon theme with many colour choices</kk>
+   <lt>an updated/refreshed Faenza-ish icon theme with many colour choices</lt>
+   <nl>an updated/refreshed Faenza-ish icon theme with many colour choices</nl>
+   <pl>an updated/refreshed Faenza-ish icon theme with many colour choices</pl>
+   <pt_BR>an updated/refreshed Faenza-ish icon theme with many colour choices</pt_BR>
+   <pt>an updated/refreshed Faenza-ish icon theme with many colour choices</pt>
+   <ro>an updated/refreshed Faenza-ish icon theme with many colour choices</ro>
+   <ru>an updated/refreshed Faenza-ish icon theme with many colour choices</ru>
+   <sk>an updated/refreshed Faenza-ish icon theme with many colour choices</sk>
+   <sv>ett uppdaterat/förbättrat Faenza-aktigt ikontema med många färgval</sv>
+   <tr>an updated/refreshed Faenza-ish icon theme with many colour choices</tr>
+   <uk>an updated/refreshed Faenza-ish icon theme with many colour choices</uk>
+   <zh_TW>an updated/refreshed Faenza-ish icon theme with many colour choices</zh_TW>
 </description>
 
 <installable>

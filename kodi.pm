@@ -5,12 +5,38 @@
 Media Center
 </category>
 
-<name>  
+<name>
 Kodi
 </name>
 
-<description>  
-Kodi Media Center (formerly XBMC)
+<description>
+   <am>Kodi Media Center (formerly XBMC)</am>
+   <ca>Kodi Media Center (formerly XBMC)</ca>
+   <cs>Kodi Media Center (formerly XBMC)</cs>
+   <de>Kodi Media Center (ehemals XBMC)</de>
+   <el>Kodi Media Center (formerly XBMC)</el>
+   <en>Kodi Media Center (formerly XBMC)</en>
+   <es>Kodi Media Center (formerly XBMC)</es>
+   <fi>Kodi Media Center (formerly XBMC)</fi>
+   <fr>Kodi Media Center (formerly XBMC)</fr>
+   <hi>Kodi Media Center (formerly XBMC)</hi>
+   <hr>Kodi Media Center (formerly XBMC)</hr>
+   <hu>Kodi Media Center (formerly XBMC)</hu>
+   <it>Kodi Media Center (formerly XBMC)</it>
+   <ja>Kodi Media Center (formerly XBMC)</ja>
+   <kk>Kodi Media Center (formerly XBMC)</kk>
+   <lt>Kodi Media Center (formerly XBMC)</lt>
+   <nl>Kodi Media Center (formerly XBMC)</nl>
+   <pl>Kodi Media Center (formerly XBMC)</pl>
+   <pt_BR>Kodi Media Center (formerly XBMC)</pt_BR>
+   <pt>Kodi Media Center (formerly XBMC)</pt>
+   <ro>Kodi Media Center (formerly XBMC)</ro>
+   <ru>Kodi Media Center (formerly XBMC)</ru>
+   <sk>Kodi Media Center (formerly XBMC)</sk>
+   <sv>Kodi Media Center (tidigare XBMC)</sv>
+   <tr>Kodi Media Center (formerly XBMC)</tr>
+   <uk>Kodi Media Center (formerly XBMC)</uk>
+   <zh_TW>Kodi Media Center (formerly XBMC)</zh_TW>
 </description>
 
 <installable>

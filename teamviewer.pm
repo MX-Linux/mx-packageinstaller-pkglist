@@ -5,12 +5,38 @@
 Remote Access
 </category>
 
-<name>  
+<name>
 TeamViewer
 </name>
 
-<description>  
-Teamviewer remote access
+<description>
+   <am>Teamviewer remote access</am>
+   <ca>Accés remot Teamviewer</ca>
+   <cs>Teamviewer remote access</cs>
+   <de>Fernzugriff mit Teamviewer</de>
+   <el>Teamviewer remote access</el>
+   <en>Teamviewer remote access</en>
+   <es>Teamviewer remote access</es>
+   <fi>Teamviewer remote access</fi>
+   <fr>Teamviewer accès à distance</fr>
+   <hi>Teamviewer remote access</hi>
+   <hr>Teamviewer remote access</hr>
+   <hu>Teamviewer remote access</hu>
+   <it>Teamviewer remote access</it>
+   <ja>Teamviewer remote access</ja>
+   <kk>Teamviewer remote access</kk>
+   <lt>Teamviewer remote access</lt>
+   <nl>Teamviewer remote access</nl>
+   <pl>Teamviewer remote access</pl>
+   <pt_BR>Teamviewer remote access</pt_BR>
+   <pt>Teamviewer remote access</pt>
+   <ro>Teamviewer remote access</ro>
+   <ru>Teamviewer remote access</ru>
+   <sk>Teamviewer remote access</sk>
+   <sv>Teamviewer fjärråtkomst</sv>
+   <tr>Teamviewer remote access</tr>
+   <uk>Teamviewer remote access</uk>
+   <zh_TW>Teamviewer remote access</zh_TW>
 </description>
 
 <installable>

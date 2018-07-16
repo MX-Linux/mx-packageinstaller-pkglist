@@ -5,12 +5,38 @@
 Browser
 </category>
 
-<name>  
+<name>
 Waterfox
 </name>
 
-<description>  
-alternative mozilla-based browser
+<description>
+   <am>alternative mozilla-based browser</am>
+   <ca>Navegador alternatiu basat en Mozilla</ca>
+   <cs>alternative mozilla-based browser</cs>
+   <de>Alternativer Mozilla-basierter Browser</de>
+   <el>alternative mozilla-based browser</el>
+   <en>alternative mozilla-based browser</en>
+   <es>alternative mozilla-based browser</es>
+   <fi>alternative mozilla-based browser</fi>
+   <fr>Navigateur alternatif basé sur Mozilla</fr>
+   <hi>alternative mozilla-based browser</hi>
+   <hr>alternative mozilla-based browser</hr>
+   <hu>alternative mozilla-based browser</hu>
+   <it>alternative mozilla-based browser</it>
+   <ja>alternative mozilla-based browser</ja>
+   <kk>alternative mozilla-based browser</kk>
+   <lt>alternative mozilla-based browser</lt>
+   <nl>alternative mozilla-based browser</nl>
+   <pl>alternative mozilla-based browser</pl>
+   <pt_BR>alternative mozilla-based browser</pt_BR>
+   <pt>alternative mozilla-based browser</pt>
+   <ro>alternative mozilla-based browser</ro>
+   <ru>alternative mozilla-based browser</ru>
+   <sk>alternative mozilla-based browser</sk>
+   <sv>alternativ mozilla-baserad webbläsare</sv>
+   <tr>alternative mozilla-based browser</tr>
+   <uk>alternative mozilla-based browser</uk>
+   <zh_TW>alternative mozilla-based browser</zh_TW>
 </description>
 
 <installable>

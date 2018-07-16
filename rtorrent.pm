@@ -5,12 +5,38 @@
 Torrent
 </category>
 
-<name>  
+<name>
 rTorrent
 </name>
 
-<description>  
-an ncurses BitTorrent client
+<description>
+   <am>an ncurses BitTorrent client</am>
+   <ca>Un client de BitTorrent en ncurses</ca>
+   <cs>an ncurses BitTorrent client</cs>
+   <de>Ein mit ncurses realisierter BitTorrent-Client</de>
+   <el>an ncurses BitTorrent client</el>
+   <en>an ncurses BitTorrent client</en>
+   <es>an ncurses BitTorrent client</es>
+   <fi>an ncurses BitTorrent client</fi>
+   <fr>an ncurses BitTorrent client</fr>
+   <hi>an ncurses BitTorrent client</hi>
+   <hr>an ncurses BitTorrent client</hr>
+   <hu>an ncurses BitTorrent client</hu>
+   <it>an ncurses BitTorrent client</it>
+   <ja>an ncurses BitTorrent client</ja>
+   <kk>an ncurses BitTorrent client</kk>
+   <lt>an ncurses BitTorrent client</lt>
+   <nl>an ncurses BitTorrent client</nl>
+   <pl>an ncurses BitTorrent client</pl>
+   <pt_BR>an ncurses BitTorrent client</pt_BR>
+   <pt>an ncurses BitTorrent client</pt>
+   <ro>an ncurses BitTorrent client</ro>
+   <ru>an ncurses BitTorrent client</ru>
+   <sk>an ncurses BitTorrent client</sk>
+   <sv>en ncurses BitTorrent klient</sv>
+   <tr>an ncurses BitTorrent client</tr>
+   <uk>an ncurses BitTorrent client</uk>
+   <zh_TW>an ncurses BitTorrent client</zh_TW>
 </description>
 
 <installable>

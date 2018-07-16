@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Ukrainian_Thunderbird
 </name>
 
-<description>  
-Ukrainian localisation of Thunderbird
+<description>
+   <am>Ukrainian localisation of Thunderbird</am>
+   <ca>Localització de Thunderbird en Ucrainès</ca>
+   <cs>Ukrainian localisation of Thunderbird</cs>
+   <de>Ukrainische Lokalisierung von Thunderbird</de>
+   <el>Ukrainian localisation of Thunderbird</el>
+   <en>Ukrainian localisation of Thunderbird</en>
+   <es>Ukrainian localisation of Thunderbird</es>
+   <fi>Ukrainian localisation of Thunderbird</fi>
+   <fr>Ukrainian localisation of Thunderbird</fr>
+   <hi>Ukrainian localisation of Thunderbird</hi>
+   <hr>Ukrainian localisation of Thunderbird</hr>
+   <hu>Ukrainian localisation of Thunderbird</hu>
+   <it>Ukrainian localisation of Thunderbird</it>
+   <ja>Ukrainian localisation of Thunderbird</ja>
+   <kk>Ukrainian localisation of Thunderbird</kk>
+   <lt>Ukrainian localisation of Thunderbird</lt>
+   <nl>Ukrainian localisation of Thunderbird</nl>
+   <pl>Ukrainian localisation of Thunderbird</pl>
+   <pt_BR>Ukrainian localisation of Thunderbird</pt_BR>
+   <pt>Ukrainian localisation of Thunderbird</pt>
+   <ro>Ukrainian localisation of Thunderbird</ro>
+   <ru>Ukrainian localisation of Thunderbird</ru>
+   <sk>Ukrainian localisation of Thunderbird</sk>
+   <sv>Ukrainsk lokalisering av Thunderbird</sv>
+   <tr>Ukrainian localisation of Thunderbird</tr>
+   <uk>Ukrainian localisation of Thunderbird</uk>
+   <zh_TW>Ukrainian localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

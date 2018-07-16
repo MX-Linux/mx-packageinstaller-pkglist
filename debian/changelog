@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.07) mx; urgency=medium
+
+  * added translations
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 15 Jul 2018 21:27:46 -0400
+
 mx-packageinstaller-pkglist (18.06.04) mx; urgency=medium
 
   * added waterfox 

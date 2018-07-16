@@ -5,12 +5,38 @@
 Language
 </category>
 
-<name>  
+<name>
 Catalan
 </name>
 
-<description>  
-Catalan Language Meta-Package
+<description>
+   <am>Catalan Language Meta-Package</am>
+   <ca>Meta-paquet per llengua Catalana</ca>
+   <cs>Catalan Language Meta-Package</cs>
+   <de>Katalanisches Sprach-Meta-Paket</de>
+   <el>Catalan Language Meta-Package</el>
+   <en>Catalan Language Meta-Package</en>
+   <es>Catalan Language Meta-Package</es>
+   <fi>Catalan Language Meta-Package</fi>
+   <fr>Méta-Paquet pour langue catalane</fr>
+   <hi>Catalan Language Meta-Package</hi>
+   <hr>Catalan Language Meta-Package</hr>
+   <hu>Catalan Language Meta-Package</hu>
+   <it>Meta-pacchetto della lingua catalana</it>
+   <ja>Catalan Language Meta-Package</ja>
+   <kk>Catalan Language Meta-Package</kk>
+   <lt>Catalan Language Meta-Package</lt>
+   <nl>Catalan Language Meta-Package</nl>
+   <pl>Catalan Language Meta-Package</pl>
+   <pt_BR>Catalan Language Meta-Package</pt_BR>
+   <pt>Catalan Language Meta-Package</pt>
+   <ro>Catalan Language Meta-Package</ro>
+   <ru>Catalan Language Meta-Package</ru>
+   <sk>Catalan Language Meta-Package</sk>
+   <sv>Katalansk Språk-Meta-Paket</sv>
+   <tr>Catalan Language Meta-Package</tr>
+   <uk>Catalan Language Meta-Package</uk>
+   <zh_TW>Catalan Language Meta-Package</zh_TW>
 </description>
 
 <installable>
