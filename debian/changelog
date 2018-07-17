@@ -1,8 +1,14 @@
-mx-packageinstaller-pkglist (18.07.1) mx; urgency=medium
+mx-packageinstaller-pkglist (18.07.02) mx; urgency=medium
 
-  * fix for missing escape char
+  * fix missing escape char 
 
- -- Adrian <adrian@mxlinux.org>  Tue, 17 Jul 2018 17:13:19 -0400
+ -- Adrian <adrian@mxlinux.org>  Tue, 17 Jul 2018 17:16:06 -0400
+
+mx-packageinstaller-pkglist (18.07.01) mx; urgency=medium
+
+  * revised debian kernels 
+
+ -- dolphin <dolphinoracle@gmail.com>  Mon, 16 Jul 2018 19:34:35 -0400
 
 mx-packageinstaller-pkglist (18.07) mx; urgency=medium
 

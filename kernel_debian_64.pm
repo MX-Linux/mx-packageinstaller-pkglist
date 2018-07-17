@@ -50,8 +50,8 @@ Debian 64 bit
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.0-6-amd64
-linux-headers-4.9.0-6-amd64
+linux-image-amd64
+linux-headers-amd64
 </install_package_names>
 
 
@@ -61,7 +61,7 @@ linux-headers-4.9.0-6-amd64
 
 
 <uninstall_package_names>
-linux-image-4.9.0-6-amd64
-linux-headers-4.9.0-6-amd64
+linux-image-amd64
+linux-headers-amd64
 </uninstall_package_names>
 </app>
