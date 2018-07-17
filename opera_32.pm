@@ -57,7 +57,7 @@ opera-beta
 
 
 <postinstall>
-if [ -f /etc/apt/sources.list.d/opera-stable.list ]; then sed -i -r '/opera.com/ s/^([^#])/#1/' /etc/apt/sources.list.d/various.list;apt-get update; fi
+if [ -f /etc/apt/sources.list.d/opera-stable.list ]; then sed -i -r '/opera.com/ s/^([^#])/#\1/' /etc/apt/sources.list.d/various.list;apt-get update; fi
 </postinstall>
 
 
