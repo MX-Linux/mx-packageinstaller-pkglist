@@ -50,8 +50,8 @@ Debian 32 bit no-pae
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.0-6-686
-linux-headers-4.9.0-6-686
+linux-image-686
+linux-headers-686
 </install_package_names>
 
 
@@ -61,7 +61,7 @@ linux-headers-4.9.0-6-686
 
 
 <uninstall_package_names>
-linux-image-4.9.0-6-686
-linux-headers-4.9.0-6-686
+linux-image-686
+linux-headers-686
 </uninstall_package_names>
 </app>
