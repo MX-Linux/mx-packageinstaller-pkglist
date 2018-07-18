@@ -46,7 +46,7 @@ Debian 32 bit no-pae
 <screenshot>none</screenshot>
 
 <preinstall>
-
+/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh
 </preinstall>
 
 <install_package_names>

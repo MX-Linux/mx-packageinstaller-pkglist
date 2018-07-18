@@ -56,7 +56,7 @@ linux-headers-4.9.91-antix.1-amd64-smp
 
 
 <postinstall>
-
+/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh
 </postinstall>
 
 

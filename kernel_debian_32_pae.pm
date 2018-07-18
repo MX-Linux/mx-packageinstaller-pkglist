@@ -56,7 +56,7 @@ linux-headers-686-pae
 
 
 <postinstall>
-
+/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh
 </postinstall>
 
 

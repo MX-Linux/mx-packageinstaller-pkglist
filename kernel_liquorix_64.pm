@@ -62,6 +62,7 @@ ndiswrapper-dkms
 rm -f /etc/apt/sources.list.d/mxpitemp.list
 apt-get -y remove linux-image-liquorix-amd64 linux-headers-liquorix-amd64
 apt-get update
+/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh
 </postinstall>
 
 
