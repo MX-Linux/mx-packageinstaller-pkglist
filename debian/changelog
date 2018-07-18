@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.07.03) mx; urgency=medium
+
+  *  revised kernel entries to force dkms rebuilds
+
+ -- dolphin <dolphinoracle@gmail.com>  Tue, 17 Jul 2018 20:55:40 -0400
+
 mx-packageinstaller-pkglist (18.07.02) mx; urgency=medium
 
   * fix missing escape char 
