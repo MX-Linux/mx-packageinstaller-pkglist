@@ -6,7 +6,7 @@ Misc
 </category>
 
 <name>
-Google Earth
+Google Earth Pro
 </name>
 
 <description>
@@ -46,25 +46,21 @@ Google Earth
 <screenshot>none</screenshot>
 
 <preinstall>
-
+echo "deb [arch=amd64] http://dl.google.com/linux/earth/deb/ stable main">/etc/apt/sources.list.d/mxpitemp.list
+apt-get update
 </preinstall>
 
 <install_package_names>
-googleearth-package
+google-earth-pro-stable
 </install_package_names>
 
 
 <postinstall>
-make-googleearth-package --force
-dpkg -i googleearth_6.0.3.2197+1.2.0-1_amd64.deb
-apt-get install -f
-rm googleearth*.deb
-rm GoogleEarthLinux.bin
+rm /etc/apt/sources.list.d/mxpitemp.list
 </postinstall>
 
 
 <uninstall_package_names>
-googleearth-package
-googleearth
+google-earth-pro-stable
 </uninstall_package_names>
 </app>

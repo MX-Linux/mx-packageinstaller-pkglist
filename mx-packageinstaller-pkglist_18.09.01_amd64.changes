@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 25 Sep 2018 20:46:13 -0400
+Source: mx-packageinstaller-pkglist
+Binary: mx-packageinstaller-pkglist
+Architecture: source all
+Version: 18.09.01
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin <dolphinoracle@gmail.com>
+Description:
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (18.09.01) mx; urgency=medium
+ .
+   * added discord
+   * replaced 64 bit google-earth with google-earth-pro
+Checksums-Sha1:
+ 8f148a175b04d46044be691cf1bd81fce450ae2e 725 mx-packageinstaller-pkglist_18.09.01.dsc
+ 45c2f36e16e4a38e7ea22f82d3333c46601ab2d5 67808 mx-packageinstaller-pkglist_18.09.01.tar.xz
+ cb9dd52e66364e77ae8dc15dd8fa6560bc6cecca 65794 mx-packageinstaller-pkglist_18.09.01_all.deb
+ 99e893a5db67d9b44bf807b5974d967e27b2dd13 5083 mx-packageinstaller-pkglist_18.09.01_amd64.buildinfo
+Checksums-Sha256:
+ 3adbaa3f33edf2b0f782a4f1840ed5685c5345ccc396a96bc8e520dba64a134e 725 mx-packageinstaller-pkglist_18.09.01.dsc
+ 09d51bdc1e021fb29a01ce558f1ee152fb3b3f1129c0936df092bc9a2b431962 67808 mx-packageinstaller-pkglist_18.09.01.tar.xz
+ 83d66297e5c4c956160c4ece86361ff78f0b281df32d1303f510287194cf433d 65794 mx-packageinstaller-pkglist_18.09.01_all.deb
+ 534427193ef325e17cbd5863723c9519923a3870a799c32e18e9e177c8762df1 5083 mx-packageinstaller-pkglist_18.09.01_amd64.buildinfo
+Files:
+ 982900c6f26f01c1ab139a65a89acbd9 725 admin optional mx-packageinstaller-pkglist_18.09.01.dsc
+ 0618f1c5801197afa7911e95973c9a6e 67808 admin optional mx-packageinstaller-pkglist_18.09.01.tar.xz
+ 293dc1234a9a23285cd17be6031c25ed 65794 admin optional mx-packageinstaller-pkglist_18.09.01_all.deb
+ b0ca50b02057714c1e8464f6f665dc48 5083 admin optional mx-packageinstaller-pkglist_18.09.01_amd64.buildinfo
