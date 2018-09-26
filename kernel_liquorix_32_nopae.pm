@@ -60,9 +60,10 @@ ndiswrapper-dkms
 
 <postinstall>
 rm -f /etc/apt/sources.list.d/mxpitemp.list
+/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-liquorix-686
 apt-get -y remove linux-image-liquorix-686 linux-headers-liquorix-686
 apt-get update
-/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh
+
 </postinstall>
 
 

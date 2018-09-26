@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (18.09.01) mx; urgency=medium
+
+  * added discord
+  * replaced 64 bit google-earth with google-earth-pro 
+
+ -- dolphin <dolphinoracle@gmail.com>  Tue, 25 Sep 2018 20:46:13 -0400
+
 mx-packageinstaller-pkglist (18.07.03) mx; urgency=medium
 
   *  revised kernel entries to force dkms rebuilds
