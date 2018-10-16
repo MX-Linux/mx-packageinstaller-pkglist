@@ -11,7 +11,7 @@ MX 4.14 PAE
 
 <description>
    <am>MX 4.14 kernel, 32 bit PAE</am>
-   <ca>MX 4.14 kernel, 32 bit PAE</ca>
+   <ca>Nucli de MX 4.14, 32 bit amb PAE</ca>
    <cs>MX 4.14 kernel, 32 bit PAE</cs>
    <de>MX 4.14 Kernel, 32 Bit PAE</de>
    <el>MX 4.14 kernel, 32 bit PAE</el>

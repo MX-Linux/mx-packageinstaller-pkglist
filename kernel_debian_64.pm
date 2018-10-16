@@ -11,25 +11,25 @@ Debian 64 bit
 
 <description>
    <am>Default Debian 4.9 kernel Meltdown patched, 64bit</am>
-   <ca>Default Debian 4.9 kernel Meltdown patched, 64bit</ca>
+   <ca>Nucli de Debian 4.9 64 bit, amb pedaç per Meltdown</ca>
    <cs>Default Debian 4.9 kernel Meltdown patched, 64bit</cs>
    <de>Standard Debian 4.9 Kernel Meltdown gepatcht, 64bit</de>
    <el>Default Debian 4.9 kernel Meltdown patched, 64bit</el>
    <en>Default Debian 4.9 kernel Meltdown patched, 64bit</en>
    <es>Default Debian 4.9 kernel Meltdown patched, 64bit</es>
    <fi>Default Debian 4.9 kernel Meltdown patched, 64bit</fi>
-   <fr>Noyau Debian 4.9 corrections Meltdown, 64bit</fr>
+   <fr>Noyau Debian 4.9 correctifs Meltdown, 64bit</fr>
    <hi>Default Debian 4.9 kernel Meltdown patched, 64bit</hi>
    <hr>Default Debian 4.9 kernel Meltdown patched, 64bit</hr>
    <hu>Default Debian 4.9 kernel Meltdown patched, 64bit</hu>
-   <it>Default Debian 4.9 kernel Meltdown patched, 64bit</it>
+   <it>Default Debian 4.9 kernel con la patch per Meltdown, 64bit</it>
    <ja>Default Debian 4.9 kernel Meltdown patched, 64bit</ja>
    <kk>Default Debian 4.9 kernel Meltdown patched, 64bit</kk>
    <lt>Default Debian 4.9 kernel Meltdown patched, 64bit</lt>
-   <nl>Default Debian 4.9 kernel Meltdown patched, 64bit</nl>
+   <nl>Standaard Debian 4.9 kernel Meltdown patched, 64bit</nl>
    <pl>Default Debian 4.9 kernel Meltdown patched, 64bit</pl>
    <pt_BR>Default Debian 4.9 kernel Meltdown patched, 64bit</pt_BR>
-   <pt>Default Debian 4.9 kernel Meltdown patched, 64bit</pt>
+   <pt>Núcleo padrão Debian 4.9 com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
    <ro>Default Debian 4.9 kernel Meltdown patched, 64bit</ro>
    <ru>Default Debian 4.9 kernel Meltdown patched, 64bit</ru>
    <sk>Default Debian 4.9 kernel Meltdown patched, 64bit</sk>

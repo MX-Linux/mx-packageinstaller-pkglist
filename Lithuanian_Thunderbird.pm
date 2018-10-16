@@ -18,18 +18,18 @@ Lithuanian_Thunderbird
    <en>Lithuanian localisation of Thunderbird</en>
    <es>Lithuanian localisation of Thunderbird</es>
    <fi>Lithuanian localisation of Thunderbird</fi>
-   <fr>Lithuanian localisation of Thunderbird</fr>
+   <fr>Localisation lithuanienne pour Thunderbird</fr>
    <hi>Lithuanian localisation of Thunderbird</hi>
    <hr>Lithuanian localisation of Thunderbird</hr>
    <hu>Lithuanian localisation of Thunderbird</hu>
-   <it>Lithuanian localisation of Thunderbird</it>
+   <it>Localizzazione lituana di Thunderbird</it>
    <ja>Lithuanian localisation of Thunderbird</ja>
    <kk>Lithuanian localisation of Thunderbird</kk>
    <lt>Lithuanian localisation of Thunderbird</lt>
-   <nl>Lithuanian localisation of Thunderbird</nl>
+   <nl>Litouwse lokalisatie van Thunderbird</nl>
    <pl>Lithuanian localisation of Thunderbird</pl>
-   <pt_BR>Lithuanian localisation of Thunderbird</pt_BR>
-   <pt>Lithuanian localisation of Thunderbird</pt>
+   <pt_BR>Lituano Localização para Thunderbird</pt_BR>
+   <pt>Lituano Localização para Thunderbird</pt>
    <ro>Lithuanian localisation of Thunderbird</ro>
    <ru>Lithuanian localisation of Thunderbird</ru>
    <sk>Lithuanian localisation of Thunderbird</sk>

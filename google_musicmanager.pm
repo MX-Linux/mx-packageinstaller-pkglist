@@ -11,7 +11,7 @@ Google Music Manager
 
 <description>
    <am>Google Music Manager Beta, 64 bit</am>
-   <ca>Google Music Manager Beta, 64 bit</ca>
+   <ca>Gestor de Google Music Beta, 64 bit</ca>
    <cs>Google Music Manager Beta, 64 bit</cs>
    <de>Google Music Manager Beta, 64 bit</de>
    <el>Google Music Manager Beta, 64 bit</el>
@@ -26,7 +26,7 @@ Google Music Manager
    <ja>Google Music Manager Beta, 64 bit</ja>
    <kk>Google Music Manager Beta, 64 bit</kk>
    <lt>Google Music Manager Beta, 64 bit</lt>
-   <nl>Google Music Manager Beta, 64 bit</nl>
+   <nl>Google Muziek Beheer Beta, 64 bit</nl>
    <pl>Google Music Manager Beta, 64 bit</pl>
    <pt_BR>Google Music Manager Beta, 64 bit</pt_BR>
    <pt>Google Music Manager Beta, 64 bit</pt>

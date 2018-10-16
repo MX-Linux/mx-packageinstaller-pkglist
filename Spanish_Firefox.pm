@@ -18,18 +18,18 @@ Spanish_Firefox
    <en>Spanish localisation of Firefox</en>
    <es>Spanish localisation of Firefox</es>
    <fi>Spanish localisation of Firefox</fi>
-   <fr>Spanish localisation of Firefox</fr>
+   <fr>Localisation espagnole pour Firefox</fr>
    <hi>Spanish localisation of Firefox</hi>
    <hr>Spanish localisation of Firefox</hr>
    <hu>Spanish localisation of Firefox</hu>
-   <it>Spanish localisation of Firefox</it>
+   <it>Localizzazione spagnola di Firefox</it>
    <ja>Spanish localisation of Firefox</ja>
    <kk>Spanish localisation of Firefox</kk>
    <lt>Spanish localisation of Firefox</lt>
-   <nl>Spanish localisation of Firefox</nl>
+   <nl>Spaanse lokalisatie van Firefox</nl>
    <pl>Spanish localisation of Firefox</pl>
-   <pt_BR>Spanish localisation of Firefox</pt_BR>
-   <pt>Spanish localisation of Firefox</pt>
+   <pt_BR>Castelhano Localização para Firefox</pt_BR>
+   <pt>Castelhano Localização para Firefox</pt>
    <ro>Spanish localisation of Firefox</ro>
    <ru>Spanish localisation of Firefox</ru>
    <sk>Spanish localisation of Firefox</sk>

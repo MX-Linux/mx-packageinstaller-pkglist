@@ -11,7 +11,7 @@ Netsurf
 
 <description>
    <am>Latest Netsurf Browser</am>
-   <ca>Latest Netsurf Browser</ca>
+   <ca>Darrer navegador Netsurf</ca>
    <cs>Latest Netsurf Browser</cs>
    <de>Aktueller Netsurf-Browser</de>
    <el>Latest Netsurf Browser</el>
@@ -22,14 +22,14 @@ Netsurf
    <hi>Latest Netsurf Browser</hi>
    <hr>Latest Netsurf Browser</hr>
    <hu>Latest Netsurf Browser</hu>
-   <it>Latest Netsurf Browser</it>
+   <it>Ultimo browser Netsurf</it>
    <ja>Latest Netsurf Browser</ja>
    <kk>Latest Netsurf Browser</kk>
    <lt>Latest Netsurf Browser</lt>
-   <nl>Latest Netsurf Browser</nl>
+   <nl>Meest Recente Netsurf Browser</nl>
    <pl>Latest Netsurf Browser</pl>
    <pt_BR>Latest Netsurf Browser</pt_BR>
-   <pt>Latest Netsurf Browser</pt>
+   <pt>Navegador web Netsurf, versão mais recente</pt>
    <ro>Latest Netsurf Browser</ro>
    <ru>Latest Netsurf Browser</ru>
    <sk>Latest Netsurf Browser</sk>

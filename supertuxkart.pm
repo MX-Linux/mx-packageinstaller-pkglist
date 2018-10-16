@@ -22,11 +22,11 @@ SuperTuxKart
    <hi>Mario kart style racing</hi>
    <hr>Mario kart style racing</hr>
    <hu>Mario kart style racing</hu>
-   <it>Mario kart style racing</it>
+   <it>gioco di corse con i kart stile SuperMario</it>
    <ja>Mario kart style racing</ja>
    <kk>Mario kart style racing</kk>
    <lt>Mario kart style racing</lt>
-   <nl>Mario kart style racing</nl>
+   <nl>Mario kart stijl racen</nl>
    <pl>Mario kart style racing</pl>
    <pt_BR>Mario kart style racing</pt_BR>
    <pt>Mario kart style racing</pt>

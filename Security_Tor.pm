@@ -18,15 +18,15 @@ Tor and Privoxy
    <en>Tor and Privoxy</en>
    <es>Tor and Privoxy</es>
    <fi>Tor and Privoxy</fi>
-   <fr>Tor and Privoxy</fr>
+   <fr>Tor et Privoxy</fr>
    <hi>Tor and Privoxy</hi>
    <hr>Tor and Privoxy</hr>
    <hu>Tor and Privoxy</hu>
-   <it>Tor and Privoxy</it>
+   <it>Tor e Privoxy</it>
    <ja>Tor and Privoxy</ja>
    <kk>Tor and Privoxy</kk>
    <lt>Tor and Privoxy</lt>
-   <nl>Tor and Privoxy</nl>
+   <nl>Tor en Privoxy</nl>
    <pl>Tor and Privoxy</pl>
    <pt_BR>Tor and Privoxy</pt_BR>
    <pt>Tor and Privoxy</pt>

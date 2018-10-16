@@ -11,25 +11,25 @@ Filezilla
 
 <description>
    <am>a full-featured FTP client with an easy-to-use GUI</am>
-   <ca>a full-featured FTP client with an easy-to-use GUI</ca>
+   <ca>un client de FTP complet amb IGU fàcil d'usar</ca>
    <cs>a full-featured FTP client with an easy-to-use GUI</cs>
    <de>Ein voll ausgestatter FTP-Client mit benutzerfreundliche Oberfläche</de>
    <el>a full-featured FTP client with an easy-to-use GUI</el>
    <en>a full-featured FTP client with an easy-to-use GUI</en>
    <es>a full-featured FTP client with an easy-to-use GUI</es>
    <fi>a full-featured FTP client with an easy-to-use GUI</fi>
-   <fr>a full-featured FTP client with an easy-to-use GUI</fr>
+   <fr>Un client FTP très complet avec une interface graphique intuitive</fr>
    <hi>a full-featured FTP client with an easy-to-use GUI</hi>
    <hr>a full-featured FTP client with an easy-to-use GUI</hr>
    <hu>a full-featured FTP client with an easy-to-use GUI</hu>
-   <it>a full-featured FTP client with an easy-to-use GUI</it>
+   <it>Client Ftp ad interfaccia grafica, completo e di facile uso</it>
    <ja>a full-featured FTP client with an easy-to-use GUI</ja>
    <kk>a full-featured FTP client with an easy-to-use GUI</kk>
    <lt>a full-featured FTP client with an easy-to-use GUI</lt>
-   <nl>a full-featured FTP client with an easy-to-use GUI</nl>
+   <nl>een volledig voorzien FTP programma met een makkelijk te gebruiken grafische werkomgeving</nl>
    <pl>a full-featured FTP client with an easy-to-use GUI</pl>
    <pt_BR>a full-featured FTP client with an easy-to-use GUI</pt_BR>
-   <pt>a full-featured FTP client with an easy-to-use GUI</pt>
+   <pt>Cliente FTP completo com interface gráfica intuitiva</pt>
    <ro>a full-featured FTP client with an easy-to-use GUI</ro>
    <ru>a full-featured FTP client with an easy-to-use GUI</ru>
    <sk>a full-featured FTP client with an easy-to-use GUI</sk>

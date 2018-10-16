@@ -16,7 +16,7 @@ Albanian_Thunderbird
    <de>Albanische Lokalisierung von Thunderbird</de>
    <el>Albanian localisation of Thunderbird</el>
    <en>Albanian localisation of Thunderbird</en>
-   <es>Albanian localisation of Thunderbird</es>
+   <es>Localización Albania de Thunderbird</es>
    <fi>Albanian localisation of Thunderbird</fi>
    <fr>Localisation albanaise pour Thunderbird</fr>
    <hi>Albanian localisation of Thunderbird</hi>
@@ -26,10 +26,10 @@ Albanian_Thunderbird
    <ja>Albanian localisation of Thunderbird</ja>
    <kk>Albanian localisation of Thunderbird</kk>
    <lt>Albanian localisation of Thunderbird</lt>
-   <nl>Albanian localisation of Thunderbird</nl>
+   <nl>Albanese lokalisatie van Thunderbird</nl>
    <pl>Albanian localisation of Thunderbird</pl>
-   <pt_BR>Albanian localisation of Thunderbird</pt_BR>
-   <pt>Albanian localisation of Thunderbird</pt>
+   <pt_BR>Albanês Localização para Thunderbird</pt_BR>
+   <pt>Albanês Localização para Thunderbird</pt>
    <ro>Albanian localisation of Thunderbird</ro>
    <ru>Albanian localisation of Thunderbird</ru>
    <sk>Albanian localisation of Thunderbird</sk>

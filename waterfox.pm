@@ -22,14 +22,14 @@ Waterfox
    <hi>alternative mozilla-based browser</hi>
    <hr>alternative mozilla-based browser</hr>
    <hu>alternative mozilla-based browser</hu>
-   <it>alternative mozilla-based browser</it>
+   <it>browser alternativo basato su mozilla</it>
    <ja>alternative mozilla-based browser</ja>
    <kk>alternative mozilla-based browser</kk>
    <lt>alternative mozilla-based browser</lt>
-   <nl>alternative mozilla-based browser</nl>
+   <nl>alternatieve op mozilla gebaseerde browser</nl>
    <pl>alternative mozilla-based browser</pl>
-   <pt_BR>alternative mozilla-based browser</pt_BR>
-   <pt>alternative mozilla-based browser</pt>
+   <pt_BR>Navegador web alternativo baseado em código da Mozilla</pt_BR>
+   <pt>Navegador web alternativo baseado no firefox da Mozilla</pt>
    <ro>alternative mozilla-based browser</ro>
    <ru>alternative mozilla-based browser</ru>
    <sk>alternative mozilla-based browser</sk>

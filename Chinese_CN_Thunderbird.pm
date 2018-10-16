@@ -26,10 +26,10 @@ Chinese_CN_Thunderbird
    <ja>Chinese_simplified localisation of Thunderbird</ja>
    <kk>Chinese_simplified localisation of Thunderbird</kk>
    <lt>Chinese_simplified localisation of Thunderbird</lt>
-   <nl>Chinese_simplified localisation of Thunderbird</nl>
+   <nl>Vereenvoudigd Chinese lokalisatie van Thunderbird</nl>
    <pl>Chinese_simplified localisation of Thunderbird</pl>
-   <pt_BR>Chinese_simplified localisation of Thunderbird</pt_BR>
-   <pt>Chinese_simplified localisation of Thunderbird</pt>
+   <pt_BR>Chinês_simplificado Localização para Thunderbird</pt_BR>
+   <pt>Chinês_simplificado Localização para Thunderbird</pt>
    <ro>Chinese_simplified localisation of Thunderbird</ro>
    <ru>Chinese_simplified localisation of Thunderbird</ru>
    <sk>Chinese_simplified localisation of Thunderbird</sk>

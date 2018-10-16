@@ -18,18 +18,18 @@ Steam
    <en>Steam powered games</en>
    <es>Steam powered games</es>
    <fi>Steam powered games</fi>
-   <fr>Steam powered games</fr>
+   <fr>Jeux fonctionnant avec Steam</fr>
    <hi>Steam powered games</hi>
    <hr>Steam powered games</hr>
    <hu>Steam powered games</hu>
-   <it>Steam powered games</it>
+   <it>Giochi offerti da Steam</it>
    <ja>Steam powered games</ja>
    <kk>Steam powered games</kk>
    <lt>Steam powered games</lt>
-   <nl>Steam powered games</nl>
+   <nl>Steam aangedreven spellen</nl>
    <pl>Steam powered games</pl>
    <pt_BR>Steam powered games</pt_BR>
-   <pt>Steam powered games</pt>
+   <pt>Jogos da Plataforma Steam</pt>
    <ro>Steam powered games</ro>
    <ru>Steam powered games</ru>
    <sk>Steam powered games</sk>

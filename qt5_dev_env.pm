@@ -18,15 +18,15 @@ QT5 Dev Enviroment
    <en>QT5 Development Environment</en>
    <es>QT5 Development Environment</es>
    <fi>QT5 Development Environment</fi>
-   <fr>QT5 Development Environment</fr>
+   <fr>Environnement de développement QT5</fr>
    <hi>QT5 Development Environment</hi>
    <hr>QT5 Development Environment</hr>
    <hu>QT5 Development Environment</hu>
-   <it>QT5 Development Environment</it>
+   <it>Ambiente di sviluppo QT5</it>
    <ja>QT5 Development Environment</ja>
    <kk>QT5 Development Environment</kk>
    <lt>QT5 Development Environment</lt>
-   <nl>QT5 Development Environment</nl>
+   <nl>QT5 Ontwikkelingsomgeving</nl>
    <pl>QT5 Development Environment</pl>
    <pt_BR>QT5 Development Environment</pt_BR>
    <pt>QT5 Development Environment</pt>

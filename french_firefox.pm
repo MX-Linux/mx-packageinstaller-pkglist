@@ -18,18 +18,18 @@ French_Firefox
    <en>French localisation of Firefox</en>
    <es>French localisation of Firefox</es>
    <fi>French localisation of Firefox</fi>
-   <fr>French localisation of Firefox</fr>
+   <fr>Localisation française pour Firefox</fr>
    <hi>French localisation of Firefox</hi>
    <hr>French localisation of Firefox</hr>
    <hu>French localisation of Firefox</hu>
-   <it>French localisation of Firefox</it>
+   <it>Localizzazione francese di Firefox</it>
    <ja>French localisation of Firefox</ja>
    <kk>French localisation of Firefox</kk>
    <lt>French localisation of Firefox</lt>
-   <nl>French localisation of Firefox</nl>
+   <nl>Franse lokalisatie van Firefox</nl>
    <pl>French localisation of Firefox</pl>
-   <pt_BR>French localisation of Firefox</pt_BR>
-   <pt>French localisation of Firefox</pt>
+   <pt_BR>Francês Localização para Firefox</pt_BR>
+   <pt>Francês Localização para Firefox</pt>
    <ro>French localisation of Firefox</ro>
    <ru>French localisation of Firefox</ru>
    <sk>French localisation of Firefox</sk>

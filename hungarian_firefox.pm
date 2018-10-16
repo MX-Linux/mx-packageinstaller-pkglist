@@ -18,18 +18,18 @@ Hungarian_Firefox
    <en>Hungarian localisation of Firefox</en>
    <es>Hungarian localisation of Firefox</es>
    <fi>Hungarian localisation of Firefox</fi>
-   <fr>Hungarian localisation of Firefox</fr>
+   <fr>Localisation hongroise pour Firefox</fr>
    <hi>Hungarian localisation of Firefox</hi>
    <hr>Hungarian localisation of Firefox</hr>
    <hu>Hungarian localisation of Firefox</hu>
-   <it>Hungarian localisation of Firefox</it>
+   <it>Localizzazione ungherese di Firefox</it>
    <ja>Hungarian localisation of Firefox</ja>
    <kk>Hungarian localisation of Firefox</kk>
    <lt>Hungarian localisation of Firefox</lt>
-   <nl>Hungarian localisation of Firefox</nl>
+   <nl>Hongaarse lokalisatie van Firefox</nl>
    <pl>Hungarian localisation of Firefox</pl>
-   <pt_BR>Hungarian localisation of Firefox</pt_BR>
-   <pt>Hungarian localisation of Firefox</pt>
+   <pt_BR>Húngaro Localização para Firefox</pt_BR>
+   <pt>Húngaro Localização para Firefox</pt>
    <ro>Hungarian localisation of Firefox</ro>
    <ru>Hungarian localisation of Firefox</ru>
    <sk>Hungarian localisation of Firefox</sk>

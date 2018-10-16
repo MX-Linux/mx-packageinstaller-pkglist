@@ -18,18 +18,18 @@ Turkish_Thunderbird
    <en>Turkish localisation of Thunderbird</en>
    <es>Turkish localisation of Thunderbird</es>
    <fi>Turkish localisation of Thunderbird</fi>
-   <fr>Turkish localisation of Thunderbird</fr>
+   <fr>Localisation turque pour Thunderbird</fr>
    <hi>Turkish localisation of Thunderbird</hi>
    <hr>Turkish localisation of Thunderbird</hr>
    <hu>Turkish localisation of Thunderbird</hu>
-   <it>Turkish localisation of Thunderbird</it>
+   <it>Localizzazione turca di Thunderbird</it>
    <ja>Turkish localisation of Thunderbird</ja>
    <kk>Turkish localisation of Thunderbird</kk>
    <lt>Turkish localisation of Thunderbird</lt>
-   <nl>Turkish localisation of Thunderbird</nl>
+   <nl>Turkse lokalisatie van Thunderbird</nl>
    <pl>Turkish localisation of Thunderbird</pl>
-   <pt_BR>Turkish localisation of Thunderbird</pt_BR>
-   <pt>Turkish localisation of Thunderbird</pt>
+   <pt_BR>Turco Localização para Thunderbird</pt_BR>
+   <pt>Turco Localização para Thunderbird</pt>
    <ro>Turkish localisation of Thunderbird</ro>
    <ru>Turkish localisation of Thunderbird</ru>
    <sk>Turkish localisation of Thunderbird</sk>

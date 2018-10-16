@@ -11,25 +11,25 @@ Meld
 
 <description>
    <am>graphical tool to diff and merge files</am>
-   <ca>graphical tool to diff and merge files</ca>
+   <ca>Eina gràfica per a fer diff i merge de fitxers</ca>
    <cs>graphical tool to diff and merge files</cs>
    <de>Grafisches Werkzeug zum Vergleichen und Zusammenführen von Dateien</de>
    <el>graphical tool to diff and merge files</el>
    <en>graphical tool to diff and merge files</en>
    <es>graphical tool to diff and merge files</es>
    <fi>graphical tool to diff and merge files</fi>
-   <fr>graphical tool to diff and merge files</fr>
+   <fr>Utilitaire graphique pour séparer et fusionner des dossiers</fr>
    <hi>graphical tool to diff and merge files</hi>
    <hr>graphical tool to diff and merge files</hr>
    <hu>graphical tool to diff and merge files</hu>
-   <it>graphical tool to diff and merge files</it>
+   <it>strumento grafico per valutare le differenze dei file attraverso diff e merge</it>
    <ja>graphical tool to diff and merge files</ja>
    <kk>graphical tool to diff and merge files</kk>
    <lt>graphical tool to diff and merge files</lt>
-   <nl>graphical tool to diff and merge files</nl>
+   <nl>grafisch hulpmiddel om bestanden te scheiden en samen te voegen</nl>
    <pl>graphical tool to diff and merge files</pl>
    <pt_BR>graphical tool to diff and merge files</pt_BR>
-   <pt>graphical tool to diff and merge files</pt>
+   <pt>Ferramenta gráfica para comparar (diff) e integrar (merge) ficheiros</pt>
    <ro>graphical tool to diff and merge files</ro>
    <ru>graphical tool to diff and merge files</ru>
    <sk>graphical tool to diff and merge files</sk>

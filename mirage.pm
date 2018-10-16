@@ -11,7 +11,7 @@ Mirage
 
 <description>
    <am>fast and simple image viewer</am>
-   <ca>fast and simple image viewer</ca>
+   <ca>visor d'imatges senzill i ràpid</ca>
    <cs>fast and simple image viewer</cs>
    <de>Schneller und einfacher Bildbetrachter</de>
    <el>fast and simple image viewer</el>
@@ -22,14 +22,14 @@ Mirage
    <hi>fast and simple image viewer</hi>
    <hr>fast and simple image viewer</hr>
    <hu>fast and simple image viewer</hu>
-   <it>fast and simple image viewer</it>
+   <it>visualizzatore di immagini semplice e veloce</it>
    <ja>fast and simple image viewer</ja>
    <kk>fast and simple image viewer</kk>
    <lt>fast and simple image viewer</lt>
-   <nl>fast and simple image viewer</nl>
+   <nl>snelle en eenvoudige afbeeldingsweergave</nl>
    <pl>fast and simple image viewer</pl>
    <pt_BR>fast and simple image viewer</pt_BR>
-   <pt>fast and simple image viewer</pt>
+   <pt>Visualizador de imagens rápido e simples</pt>
    <ro>fast and simple image viewer</ro>
    <ru>fast and simple image viewer</ru>
    <sk>fast and simple image viewer</sk>

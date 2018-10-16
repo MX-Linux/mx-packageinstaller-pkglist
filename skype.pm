@@ -18,15 +18,15 @@ Skype (64bit only)
    <en>Peer-to-peer video, voice, messaging</en>
    <es>Peer-to-peer video, voice, messaging</es>
    <fi>Peer-to-peer video, voice, messaging</fi>
-   <fr>Peer-to-peer video, voice, messaging</fr>
+   <fr>Messagerie vocale, vidéo, peer-to-peer</fr>
    <hi>Peer-to-peer video, voice, messaging</hi>
    <hr>Peer-to-peer video, voice, messaging</hr>
    <hu>Peer-to-peer video, voice, messaging</hu>
-   <it>Peer-to-peer video, voice, messaging</it>
+   <it>Peer-to-peer video, voce e messaggi</it>
    <ja>Peer-to-peer video, voice, messaging</ja>
    <kk>Peer-to-peer video, voice, messaging</kk>
    <lt>Peer-to-peer video, voice, messaging</lt>
-   <nl>Peer-to-peer video, voice, messaging</nl>
+   <nl>Peer-to-peer video, voice, berichten</nl>
    <pl>Peer-to-peer video, voice, messaging</pl>
    <pt_BR>Peer-to-peer video, voice, messaging</pt_BR>
    <pt>Peer-to-peer video, voice, messaging</pt>

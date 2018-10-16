@@ -18,18 +18,18 @@ French_Thunderbird
    <en>French localisation of Thunderbird</en>
    <es>French localisation of Thunderbird</es>
    <fi>French localisation of Thunderbird</fi>
-   <fr>French localisation of Thunderbird</fr>
+   <fr>Localisation française pour Thunderbird</fr>
    <hi>French localisation of Thunderbird</hi>
    <hr>French localisation of Thunderbird</hr>
    <hu>French localisation of Thunderbird</hu>
-   <it>French localisation of Thunderbird</it>
+   <it>Localizzazione francese di Thunderbird</it>
    <ja>French localisation of Thunderbird</ja>
    <kk>French localisation of Thunderbird</kk>
    <lt>French localisation of Thunderbird</lt>
-   <nl>French localisation of Thunderbird</nl>
+   <nl>Franse lokalisatie van Thunderbird</nl>
    <pl>French localisation of Thunderbird</pl>
-   <pt_BR>French localisation of Thunderbird</pt_BR>
-   <pt>French localisation of Thunderbird</pt>
+   <pt_BR>Francês Localização para Thunderbird</pt_BR>
+   <pt>Francês Localização para Thunderbird</pt>
    <ro>French localisation of Thunderbird</ro>
    <ru>French localisation of Thunderbird</ru>
    <sk>French localisation of Thunderbird</sk>

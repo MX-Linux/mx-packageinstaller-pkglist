@@ -18,18 +18,18 @@ SMtube
    <en>search and download Youtube videos</en>
    <es>search and download Youtube videos</es>
    <fi>search and download Youtube videos</fi>
-   <fr>search and download Youtube videos</fr>
+   <fr>Rechercher et télécharger des vidéos Youtube</fr>
    <hi>search and download Youtube videos</hi>
    <hr>search and download Youtube videos</hr>
    <hu>search and download Youtube videos</hu>
-   <it>search and download Youtube videos</it>
+   <it>cerca e scarica video da Youtube</it>
    <ja>search and download Youtube videos</ja>
    <kk>search and download Youtube videos</kk>
    <lt>search and download Youtube videos</lt>
-   <nl>search and download Youtube videos</nl>
+   <nl>zoek en download Youtube video's</nl>
    <pl>search and download Youtube videos</pl>
    <pt_BR>search and download Youtube videos</pt_BR>
-   <pt>search and download Youtube videos</pt>
+   <pt>pesquisar e descarregar vídeos do Youtube</pt>
    <ro>search and download Youtube videos</ro>
    <ru>search and download Youtube videos</ru>
    <sk>search and download Youtube videos</sk>

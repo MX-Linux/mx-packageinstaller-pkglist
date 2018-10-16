@@ -25,11 +25,11 @@ Vivaldi
    <it>Vivaldi web browser</it>
    <ja>Vivaldi web browser</ja>
    <kk>Vivaldi web browser</kk>
-   <lt>Vivaldi web browser</lt>
+   <lt>Vivaldi saityno naršyklė</lt>
    <nl>Vivaldi web browser</nl>
    <pl>Vivaldi web browser</pl>
-   <pt_BR>Vivaldi web browser</pt_BR>
-   <pt>Vivaldi web browser</pt>
+   <pt_BR>Navegador web Vivaldi</pt_BR>
+   <pt>Navegador web Vivaldi</pt>
    <ro>Vivaldi web browser</ro>
    <ru>Vivaldi web browser</ru>
    <sk>Vivaldi web browser</sk>

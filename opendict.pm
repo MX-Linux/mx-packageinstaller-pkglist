@@ -18,18 +18,18 @@ Dictionary
    <en>OpenDict Dictionary</en>
    <es>OpenDict Dictionary</es>
    <fi>OpenDict Dictionary</fi>
-   <fr>OpenDict Dictionary</fr>
+   <fr>Dictionnaire OpenDict</fr>
    <hi>OpenDict Dictionary</hi>
    <hr>OpenDict Dictionary</hr>
    <hu>OpenDict Dictionary</hu>
-   <it>OpenDict Dictionary</it>
+   <it>Dizionario OpenDict</it>
    <ja>OpenDict Dictionary</ja>
    <kk>OpenDict Dictionary</kk>
-   <lt>OpenDict Dictionary</lt>
-   <nl>OpenDict Dictionary</nl>
+   <lt>OpenDict žodynas</lt>
+   <nl>OpenDict Woordenboek</nl>
    <pl>OpenDict Dictionary</pl>
    <pt_BR>OpenDict Dictionary</pt_BR>
-   <pt>OpenDict Dictionary</pt>
+   <pt>Dicionário OpenDict</pt>
    <ro>OpenDict Dictionary</ro>
    <ru>OpenDict Dictionary</ru>
    <sk>OpenDict Dictionary</sk>

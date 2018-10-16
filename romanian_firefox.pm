@@ -18,18 +18,18 @@ Romanian_Firfox
    <en>Romanian localisation of Firefox</en>
    <es>Romanian localisation of Firefox</es>
    <fi>Romanian localisation of Firefox</fi>
-   <fr>Romanian localisation of Firefox</fr>
+   <fr>Localisation roumaine pour Firefox</fr>
    <hi>Romanian localisation of Firefox</hi>
    <hr>Romanian localisation of Firefox</hr>
    <hu>Romanian localisation of Firefox</hu>
-   <it>Romanian localisation of Firefox</it>
+   <it>Localizzazione rumena di Firefox</it>
    <ja>Romanian localisation of Firefox</ja>
    <kk>Romanian localisation of Firefox</kk>
    <lt>Romanian localisation of Firefox</lt>
-   <nl>Romanian localisation of Firefox</nl>
+   <nl>Roemeense lokalisatie van Firefox</nl>
    <pl>Romanian localisation of Firefox</pl>
-   <pt_BR>Romanian localisation of Firefox</pt_BR>
-   <pt>Romanian localisation of Firefox</pt>
+   <pt_BR>Romeno Localização para Firefox</pt_BR>
+   <pt>Romeno Localização para Firefox</pt>
    <ro>Romanian localisation of Firefox</ro>
    <ru>Romanian localisation of Firefox</ru>
    <sk>Romanian localisation of Firefox</sk>

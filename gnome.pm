@@ -11,25 +11,25 @@ Gnome Base
 
 <description>
    <am>Minimal install of gnome shell</am>
-   <ca>Minimal install of gnome shell</ca>
+   <ca>Instal·lació mínima de Gnome Shell</ca>
    <cs>Minimal install of gnome shell</cs>
    <de>Minimale Installation der Gnome-Shell</de>
    <el>Minimal install of gnome shell</el>
    <en>Minimal install of gnome shell</en>
    <es>Minimal install of gnome shell</es>
    <fi>Minimal install of gnome shell</fi>
-   <fr>Minimal install of gnome shell</fr>
+   <fr>Installation minimale de Gnome Shell</fr>
    <hi>Minimal install of gnome shell</hi>
    <hr>Minimal install of gnome shell</hr>
    <hu>Minimal install of gnome shell</hu>
-   <it>Minimal install of gnome shell</it>
+   <it>Installazione minimale di Gnome Shell</it>
    <ja>Minimal install of gnome shell</ja>
    <kk>Minimal install of gnome shell</kk>
    <lt>Minimal install of gnome shell</lt>
-   <nl>Minimal install of gnome shell</nl>
+   <nl>Minimale installatie van de gnome shell</nl>
    <pl>Minimal install of gnome shell</pl>
    <pt_BR>Minimal install of gnome shell</pt_BR>
-   <pt>Minimal install of gnome shell</pt>
+   <pt>Instalação mínima do interpretador de comandos (shell) gnome</pt>
    <ro>Minimal install of gnome shell</ro>
    <ru>Minimal install of gnome shell</ru>
    <sk>Minimal install of gnome shell</sk>

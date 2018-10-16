@@ -18,18 +18,18 @@ Slovenian_Thunderbird
    <en>Slovenian localisation of Thunderbird</en>
    <es>Slovenian localisation of Thunderbird</es>
    <fi>Slovenian localisation of Thunderbird</fi>
-   <fr>Slovenian localisation of Thunderbird</fr>
+   <fr>Localisation slovène pour Thunderbird</fr>
    <hi>Slovenian localisation of Thunderbird</hi>
    <hr>Slovenian localisation of Thunderbird</hr>
    <hu>Slovenian localisation of Thunderbird</hu>
-   <it>Slovenian localisation of Thunderbird</it>
+   <it>Localizzazione slovena di Thunderbird</it>
    <ja>Slovenian localisation of Thunderbird</ja>
    <kk>Slovenian localisation of Thunderbird</kk>
    <lt>Slovenian localisation of Thunderbird</lt>
-   <nl>Slovenian localisation of Thunderbird</nl>
+   <nl>Sloveense lokalisatie van Thunderbird</nl>
    <pl>Slovenian localisation of Thunderbird</pl>
-   <pt_BR>Slovenian localisation of Thunderbird</pt_BR>
-   <pt>Slovenian localisation of Thunderbird</pt>
+   <pt_BR>Esloveno Localização para Thunderbird</pt_BR>
+   <pt>Esloveno Localização para Thunderbird</pt>
    <ro>Slovenian localisation of Thunderbird</ro>
    <ru>Slovenian localisation of Thunderbird</ru>
    <sk>Slovenian localisation of Thunderbird</sk>

@@ -11,25 +11,25 @@ Pidgin
 
 <description>
    <am>an easy to use and free chat client</am>
-   <ca>an easy to use and free chat client</ca>
+   <ca>client de xat lliure i fàcil d'usar</ca>
    <cs>an easy to use and free chat client</cs>
    <de>Ein einfach zu bedienender und kostenloser Chat-Client</de>
    <el>an easy to use and free chat client</el>
    <en>an easy to use and free chat client</en>
    <es>an easy to use and free chat client</es>
    <fi>an easy to use and free chat client</fi>
-   <fr>an easy to use and free chat client</fr>
+   <fr>Un client de discussion libre et facile d'utilisation</fr>
    <hi>an easy to use and free chat client</hi>
    <hr>an easy to use and free chat client</hr>
    <hu>an easy to use and free chat client</hu>
-   <it>an easy to use and free chat client</it>
+   <it>client chat libero e di facile uso</it>
    <ja>an easy to use and free chat client</ja>
    <kk>an easy to use and free chat client</kk>
    <lt>an easy to use and free chat client</lt>
-   <nl>an easy to use and free chat client</nl>
+   <nl>een gebruiksvriendelijk en gratis chatprogramma</nl>
    <pl>an easy to use and free chat client</pl>
    <pt_BR>an easy to use and free chat client</pt_BR>
-   <pt>an easy to use and free chat client</pt>
+   <pt>Cliente de 'chat' livre e fácil de usar</pt>
    <ro>an easy to use and free chat client</ro>
    <ru>an easy to use and free chat client</ru>
    <sk>an easy to use and free chat client</sk>

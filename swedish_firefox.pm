@@ -18,18 +18,18 @@ Swedish_Firefox
    <en>Swedish localisation of Firefox</en>
    <es>Swedish localisation of Firefox</es>
    <fi>Swedish localisation of Firefox</fi>
-   <fr>Swedish localisation of Firefox</fr>
+   <fr>Localisation suédoise pour Firefox</fr>
    <hi>Swedish localisation of Firefox</hi>
    <hr>Swedish localisation of Firefox</hr>
    <hu>Swedish localisation of Firefox</hu>
-   <it>Swedish localisation of Firefox</it>
+   <it>Localizzazione svedese di Firefox</it>
    <ja>Swedish localisation of Firefox</ja>
    <kk>Swedish localisation of Firefox</kk>
    <lt>Swedish localisation of Firefox</lt>
-   <nl>Swedish localisation of Firefox</nl>
+   <nl>Zweedse lokalisatie van Firefox</nl>
    <pl>Swedish localisation of Firefox</pl>
-   <pt_BR>Swedish localisation of Firefox</pt_BR>
-   <pt>Swedish localisation of Firefox</pt>
+   <pt_BR>Sueco Localização para Firefox</pt_BR>
+   <pt>Sueco Localização para Firefox</pt>
    <ro>Swedish localisation of Firefox</ro>
    <ru>Swedish localisation of Firefox</ru>
    <sk>Swedish localisation of Firefox</sk>

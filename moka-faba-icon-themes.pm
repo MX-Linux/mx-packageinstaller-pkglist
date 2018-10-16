@@ -11,25 +11,25 @@ Moka/Faba Icon Themes
 
 <description>
    <am>a comprehensive icon set with a uniform flat "rounded square" look</am>
-   <ca>a comprehensive icon set with a uniform flat "rounded square" look</ca>
+   <ca>joc d'icones extens amb un aspecte uniforme de "quadrat arrodonit"</ca>
    <cs>a comprehensive icon set with a uniform flat "rounded square" look</cs>
    <de>Ein umfangreiches Icon-Set in einheitlich flacher "runder quadratischer" Optik</de>
    <el>a comprehensive icon set with a uniform flat "rounded square" look</el>
    <en>a comprehensive icon set with a uniform flat "rounded square" look</en>
    <es>a comprehensive icon set with a uniform flat "rounded square" look</es>
    <fi>a comprehensive icon set with a uniform flat "rounded square" look</fi>
-   <fr>a comprehensive icon set with a uniform flat "rounded square" look</fr>
+   <fr>Un jeu d'icônes clair à l'apparence uniforme flat "rounded square"</fr>
    <hi>a comprehensive icon set with a uniform flat "rounded square" look</hi>
    <hr>a comprehensive icon set with a uniform flat "rounded square" look</hr>
    <hu>a comprehensive icon set with a uniform flat "rounded square" look</hu>
-   <it>a comprehensive icon set with a uniform flat "rounded square" look</it>
+   <it>un set di icone completo con un look uniforme a "quadrato arrotondato"</it>
    <ja>a comprehensive icon set with a uniform flat "rounded square" look</ja>
    <kk>a comprehensive icon set with a uniform flat "rounded square" look</kk>
    <lt>a comprehensive icon set with a uniform flat "rounded square" look</lt>
-   <nl>a comprehensive icon set with a uniform flat "rounded square" look</nl>
+   <nl>een uitgebreide icoonenset met een uniform plat "rond vierkant" uiterlijk</nl>
    <pl>a comprehensive icon set with a uniform flat "rounded square" look</pl>
    <pt_BR>a comprehensive icon set with a uniform flat "rounded square" look</pt_BR>
-   <pt>a comprehensive icon set with a uniform flat "rounded square" look</pt>
+   <pt>Conjunto de ícones abrangente com aspecto "quadrado arredondado" simples e uniforme</pt>
    <ro>a comprehensive icon set with a uniform flat "rounded square" look</ro>
    <ru>a comprehensive icon set with a uniform flat "rounded square" look</ru>
    <sk>a comprehensive icon set with a uniform flat "rounded square" look</sk>

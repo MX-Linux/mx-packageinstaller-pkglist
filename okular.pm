@@ -11,25 +11,25 @@ Okular
 
 <description>
    <am>a universal document viewer -WARNING- pulls in elements of KDE</am>
-   <ca>a universal document viewer -WARNING- pulls in elements of KDE</ca>
+   <ca>visor de documents universal: COMPTE! descarrega elements de KDE</ca>
    <cs>a universal document viewer -WARNING- pulls in elements of KDE</cs>
    <de>Ein universeller Dokumentbetrachter -WARNUNG- zieht Elemente von KDE ein</de>
    <el>a universal document viewer -WARNING- pulls in elements of KDE</el>
    <en>a universal document viewer -WARNING- pulls in elements of KDE</en>
    <es>a universal document viewer -WARNING- pulls in elements of KDE</es>
    <fi>a universal document viewer -WARNING- pulls in elements of KDE</fi>
-   <fr>a universal document viewer -WARNING- pulls in elements of KDE</fr>
+   <fr>Visionneuse universelle de documments -ATTENTION- nécessite et installe des dépendances KDE</fr>
    <hi>a universal document viewer -WARNING- pulls in elements of KDE</hi>
    <hr>a universal document viewer -WARNING- pulls in elements of KDE</hr>
    <hu>a universal document viewer -WARNING- pulls in elements of KDE</hu>
-   <it>a universal document viewer -WARNING- pulls in elements of KDE</it>
+   <it>un visualizzatore universale di documenti -ATTENZIONE- richiama elementi di KDE</it>
    <ja>a universal document viewer -WARNING- pulls in elements of KDE</ja>
    <kk>a universal document viewer -WARNING- pulls in elements of KDE</kk>
    <lt>a universal document viewer -WARNING- pulls in elements of KDE</lt>
-   <nl>a universal document viewer -WARNING- pulls in elements of KDE</nl>
+   <nl>een universele document lezer -WAARSCHUWING- installeert elementen van KDE</nl>
    <pl>a universal document viewer -WARNING- pulls in elements of KDE</pl>
    <pt_BR>a universal document viewer -WARNING- pulls in elements of KDE</pt_BR>
-   <pt>a universal document viewer -WARNING- pulls in elements of KDE</pt>
+   <pt>Visualizador de documentos universal -AVISO- instala elementos do Ambiente de Trabalho KDE</pt>
    <ro>a universal document viewer -WARNING- pulls in elements of KDE</ro>
    <ru>a universal document viewer -WARNING- pulls in elements of KDE</ru>
    <sk>a universal document viewer -WARNING- pulls in elements of KDE</sk>

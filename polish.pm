@@ -18,18 +18,18 @@ Polish
    <en>Polish Language Meta-Package</en>
    <es>Polish Language Meta-Package</es>
    <fi>Polish Language Meta-Package</fi>
-   <fr>Polish Language Meta-Package</fr>
+   <fr>Méta-paquet pour langue polonaise</fr>
    <hi>Polish Language Meta-Package</hi>
    <hr>Polish Language Meta-Package</hr>
    <hu>Polish Language Meta-Package</hu>
-   <it>Polish Language Meta-Package</it>
+   <it>Meta-pacchetto della lingua polacca</it>
    <ja>Polish Language Meta-Package</ja>
    <kk>Polish Language Meta-Package</kk>
    <lt>Polish Language Meta-Package</lt>
-   <nl>Polish Language Meta-Package</nl>
+   <nl>Poolse Taal Meta-Pakket</nl>
    <pl>Polish Language Meta-Package</pl>
-   <pt_BR>Polish Language Meta-Package</pt_BR>
-   <pt>Polish Language Meta-Package</pt>
+   <pt_BR>Polonês Meta-Pacote de Idioma</pt_BR>
+   <pt>Polaco Meta-Pacote de Idioma</pt>
    <ro>Polish Language Meta-Package</ro>
    <ru>Polish Language Meta-Package</ru>
    <sk>Polish Language Meta-Package</sk>

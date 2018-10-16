@@ -11,7 +11,7 @@ Google Earth Pro
 
 <description>
    <am>Google Earth Globe</am>
-   <ca>Google Earth Globe</ca>
+   <ca>Mapamundi de Google Earth</ca>
    <cs>Google Earth Globe</cs>
    <de>Google Earth Globe</de>
    <el>Google Earth Globe</el>
@@ -26,10 +26,10 @@ Google Earth Pro
    <ja>Google Earth Globe</ja>
    <kk>Google Earth Globe</kk>
    <lt>Google Earth Globe</lt>
-   <nl>Google Earth Globe</nl>
+   <nl>Google Earth Wereldbol</nl>
    <pl>Google Earth Globe</pl>
    <pt_BR>Google Earth Globe</pt_BR>
-   <pt>Google Earth Globe</pt>
+   <pt>Ver a Terra a partir do espaço</pt>
    <ro>Google Earth Globe</ro>
    <ru>Google Earth Globe</ru>
    <sk>Google Earth Globe</sk>

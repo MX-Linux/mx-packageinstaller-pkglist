@@ -26,10 +26,10 @@ Czech_Firefox
    <ja>Czech localisation of Firefox</ja>
    <kk>Czech localisation of Firefox</kk>
    <lt>Czech localisation of Firefox</lt>
-   <nl>Czech localisation of Firefox</nl>
+   <nl>Tjechische lokalisatie van Firefox</nl>
    <pl>Czech localisation of Firefox</pl>
-   <pt_BR>Czech localisation of Firefox</pt_BR>
-   <pt>Czech localisation of Firefox</pt>
+   <pt_BR>Checo Localização para Firefox</pt_BR>
+   <pt>Checo Localização para Firefox</pt>
    <ro>Czech localisation of Firefox</ro>
    <ru>Czech localisation of Firefox</ru>
    <sk>Czech localisation of Firefox</sk>

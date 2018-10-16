@@ -18,18 +18,18 @@ Polish_Thunderbird
    <en>Polish localisation of Thunderbird</en>
    <es>Polish localisation of Thunderbird</es>
    <fi>Polish localisation of Thunderbird</fi>
-   <fr>Polish localisation of Thunderbird</fr>
+   <fr>Localisation polonaise pour Thunderbird</fr>
    <hi>Polish localisation of Thunderbird</hi>
    <hr>Polish localisation of Thunderbird</hr>
    <hu>Polish localisation of Thunderbird</hu>
-   <it>Polish localisation of Thunderbird</it>
+   <it>Localizzazione polacca di Thunderbird</it>
    <ja>Polish localisation of Thunderbird</ja>
    <kk>Polish localisation of Thunderbird</kk>
    <lt>Polish localisation of Thunderbird</lt>
-   <nl>Polish localisation of Thunderbird</nl>
+   <nl>Poolse lokalisatie van Thunderbird</nl>
    <pl>Polish localisation of Thunderbird</pl>
-   <pt_BR>Polish localisation of Thunderbird</pt_BR>
-   <pt>Polish localisation of Thunderbird</pt>
+   <pt_BR>Polonês Localização para Thunderbird</pt_BR>
+   <pt>Polaco Localização para Thunderbird</pt>
    <ro>Polish localisation of Thunderbird</ro>
    <ru>Polish localisation of Thunderbird</ru>
    <sk>Polish localisation of Thunderbird</sk>

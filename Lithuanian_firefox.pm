@@ -18,18 +18,18 @@ Lithuanian_Firefox
    <en>Lithuanian localisation of Firefox</en>
    <es>Lithuanian localisation of Firefox</es>
    <fi>Lithuanian localisation of Firefox</fi>
-   <fr>Lithuanian localisation of Firefox</fr>
+   <fr>Localisation lithuanienne pour Firefox</fr>
    <hi>Lithuanian localisation of Firefox</hi>
    <hr>Lithuanian localisation of Firefox</hr>
    <hu>Lithuanian localisation of Firefox</hu>
-   <it>Lithuanian localisation of Firefox</it>
+   <it>Localizzazione lituana di Firefox</it>
    <ja>Lithuanian localisation of Firefox</ja>
    <kk>Lithuanian localisation of Firefox</kk>
    <lt>Lithuanian localisation of Firefox</lt>
-   <nl>Lithuanian localisation of Firefox</nl>
+   <nl>Litouwse lokalisatie van Firefox</nl>
    <pl>Lithuanian localisation of Firefox</pl>
-   <pt_BR>Lithuanian localisation of Firefox</pt_BR>
-   <pt>Lithuanian localisation of Firefox</pt>
+   <pt_BR>Lituano Localização para Firefox</pt_BR>
+   <pt>Lituano Localização para Firefox</pt>
    <ro>Lithuanian localisation of Firefox</ro>
    <ru>Lithuanian localisation of Firefox</ru>
    <sk>Lithuanian localisation of Firefox</sk>

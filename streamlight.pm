@@ -18,18 +18,18 @@ Streamlight
    <en>View Youtube Videos outside the browser by selecting links</en>
    <es>View Youtube Videos outside the browser by selecting links</es>
    <fi>View Youtube Videos outside the browser by selecting links</fi>
-   <fr>View Youtube Videos outside the browser by selecting links</fr>
+   <fr>Regarder des vidéos Youtube sans navigateur par sélection de liens</fr>
    <hi>View Youtube Videos outside the browser by selecting links</hi>
    <hr>View Youtube Videos outside the browser by selecting links</hr>
    <hu>View Youtube Videos outside the browser by selecting links</hu>
-   <it>View Youtube Videos outside the browser by selecting links</it>
+   <it>facile modo per vedere video di Youtube fuori dal browser selezionando i links</it>
    <ja>View Youtube Videos outside the browser by selecting links</ja>
    <kk>View Youtube Videos outside the browser by selecting links</kk>
    <lt>View Youtube Videos outside the browser by selecting links</lt>
-   <nl>View Youtube Videos outside the browser by selecting links</nl>
+   <nl>Youtube-video's buiten de browser bekijken door links te selecteren</nl>
    <pl>View Youtube Videos outside the browser by selecting links</pl>
    <pt_BR>View Youtube Videos outside the browser by selecting links</pt_BR>
-   <pt>View Youtube Videos outside the browser by selecting links</pt>
+   <pt>Visualizar vídeos do Youtube fora do navegador, seleccionando as ligações (links)</pt>
    <ro>View Youtube Videos outside the browser by selecting links</ro>
    <ru>View Youtube Videos outside the browser by selecting links</ru>
    <sk>View Youtube Videos outside the browser by selecting links</sk>

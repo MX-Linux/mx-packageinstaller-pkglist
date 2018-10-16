@@ -18,18 +18,18 @@ Norwegian_Firefox
    <en>Norwegian localisation of Firefox</en>
    <es>Norwegian localisation of Firefox</es>
    <fi>Norwegian localisation of Firefox</fi>
-   <fr>Norwegian localisation of Firefox</fr>
+   <fr>Localisation norvégienne pour Firefox</fr>
    <hi>Norwegian localisation of Firefox</hi>
    <hr>Norwegian localisation of Firefox</hr>
    <hu>Norwegian localisation of Firefox</hu>
-   <it>Norwegian localisation of Firefox</it>
+   <it>Localizzazione norvegese di Firefox</it>
    <ja>Norwegian localisation of Firefox</ja>
    <kk>Norwegian localisation of Firefox</kk>
    <lt>Norwegian localisation of Firefox</lt>
-   <nl>Norwegian localisation of Firefox</nl>
+   <nl>Noorse lokalisatie van Firefox</nl>
    <pl>Norwegian localisation of Firefox</pl>
-   <pt_BR>Norwegian localisation of Firefox</pt_BR>
-   <pt>Norwegian localisation of Firefox</pt>
+   <pt_BR>Norueguês Localização para Firefox</pt_BR>
+   <pt>Norueguês Localização para Firefox</pt>
    <ro>Norwegian localisation of Firefox</ro>
    <ru>Norwegian localisation of Firefox</ru>
    <sk>Norwegian localisation of Firefox</sk>

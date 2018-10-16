@@ -18,18 +18,18 @@ Gnumeric
    <en>lightweight spreadsheet</en>
    <es>lightweight spreadsheet</es>
    <fi>lightweight spreadsheet</fi>
-   <fr>lightweight spreadsheet</fr>
+   <fr>Tableur léger</fr>
    <hi>lightweight spreadsheet</hi>
    <hr>lightweight spreadsheet</hr>
    <hu>lightweight spreadsheet</hu>
-   <it>lightweight spreadsheet</it>
+   <it>foglio di calcolo leggero</it>
    <ja>lightweight spreadsheet</ja>
    <kk>lightweight spreadsheet</kk>
    <lt>lightweight spreadsheet</lt>
-   <nl>lightweight spreadsheet</nl>
+   <nl>lichtgewicht speadsheet</nl>
    <pl>lightweight spreadsheet</pl>
    <pt_BR>lightweight spreadsheet</pt_BR>
-   <pt>lightweight spreadsheet</pt>
+   <pt>Folha de cálculo simples e ligeira</pt>
    <ro>lightweight spreadsheet</ro>
    <ru>lightweight spreadsheet</ru>
    <sk>lightweight spreadsheet</sk>

@@ -18,18 +18,18 @@ Slovak_Firefox
    <en>Slovak localisation of Firefox</en>
    <es>Slovak localisation of Firefox</es>
    <fi>Slovak localisation of Firefox</fi>
-   <fr>Slovak localisation of Firefox</fr>
+   <fr>Localisation slovaque pour Firefox</fr>
    <hi>Slovak localisation of Firefox</hi>
    <hr>Slovak localisation of Firefox</hr>
    <hu>Slovak localisation of Firefox</hu>
-   <it>Slovak localisation of Firefox</it>
+   <it>Localizzazione slovacca di Firefox</it>
    <ja>Slovak localisation of Firefox</ja>
    <kk>Slovak localisation of Firefox</kk>
    <lt>Slovak localisation of Firefox</lt>
-   <nl>Slovak localisation of Firefox</nl>
+   <nl>Slovaakse lokalisatie van Firefox</nl>
    <pl>Slovak localisation of Firefox</pl>
-   <pt_BR>Slovak localisation of Firefox</pt_BR>
-   <pt>Slovak localisation of Firefox</pt>
+   <pt_BR>Eslovaco Localização para Firefox</pt_BR>
+   <pt>Eslovaco Localização para Firefox</pt>
    <ro>Slovak localisation of Firefox</ro>
    <ru>Slovak localisation of Firefox</ru>
    <sk>Slovak localisation of Firefox</sk>

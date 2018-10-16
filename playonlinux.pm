@@ -26,10 +26,10 @@ Play on Linux
    <ja>Play on Linux</ja>
    <kk>Play on Linux</kk>
    <lt>Play on Linux</lt>
-   <nl>Play on Linux</nl>
+   <nl>Speel op Linux</nl>
    <pl>Play on Linux</pl>
    <pt_BR>Play on Linux</pt_BR>
-   <pt>Play on Linux</pt>
+   <pt>Instalar programas do Windows</pt>
    <ro>Play on Linux</ro>
    <ru>Play on Linux</ru>
    <sk>Play on Linux</sk>

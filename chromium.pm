@@ -26,10 +26,10 @@ Chromium
    <ja>Latest Chromium browser and language pack</ja>
    <kk>Latest Chromium browser and language pack</kk>
    <lt>Latest Chromium browser and language pack</lt>
-   <nl>Latest Chromium browser and language pack</nl>
+   <nl>Meest recente Chromium browser en talen pakket</nl>
    <pl>Latest Chromium browser and language pack</pl>
-   <pt_BR>Latest Chromium browser and language pack</pt_BR>
-   <pt>Latest Chromium browser and language pack</pt>
+   <pt_BR>Navegador Chromium mais recente e respectivo pacote de idiomas</pt_BR>
+   <pt>Navegador Chromium mais recente e respectivo pacote de idiomas</pt>
    <ro>Latest Chromium browser and language pack</ro>
    <ru>Latest Chromium browser and language pack</ru>
    <sk>Latest Chromium browser and language pack</sk>

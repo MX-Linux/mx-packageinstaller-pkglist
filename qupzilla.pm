@@ -18,18 +18,18 @@ Qupzilla
    <en>Latest Qupzilla lightweight browser</en>
    <es>Latest Qupzilla lightweight browser</es>
    <fi>Latest Qupzilla lightweight browser</fi>
-   <fr>Latest Qupzilla lightweight browser</fr>
+   <fr>La dernière version du navigateur léger Qupzilla</fr>
    <hi>Latest Qupzilla lightweight browser</hi>
    <hr>Latest Qupzilla lightweight browser</hr>
    <hu>Latest Qupzilla lightweight browser</hu>
-   <it>Latest Qupzilla lightweight browser</it>
+   <it>L'ultima versione del browser leggero Qupzilla</it>
    <ja>Latest Qupzilla lightweight browser</ja>
    <kk>Latest Qupzilla lightweight browser</kk>
-   <lt>Latest Qupzilla lightweight browser</lt>
-   <nl>Latest Qupzilla lightweight browser</nl>
+   <lt>Naujausia Qupzilla supaprastinta naršyklė</lt>
+   <nl>Meest recente Qupzilla lichtgewicht browser</nl>
    <pl>Latest Qupzilla lightweight browser</pl>
    <pt_BR>Latest Qupzilla lightweight browser</pt_BR>
-   <pt>Latest Qupzilla lightweight browser</pt>
+   <pt>Navegador web ligeiro Qupzilla, versão mais recente</pt>
    <ro>Latest Qupzilla lightweight browser</ro>
    <ru>Latest Qupzilla lightweight browser</ru>
    <sk>Latest Qupzilla lightweight browser</sk>

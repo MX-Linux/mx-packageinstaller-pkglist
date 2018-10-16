@@ -18,18 +18,18 @@ SMplayer
    <en>themable gui frontend to MPlayer with other interesting features</en>
    <es>themable gui frontend to MPlayer with other interesting features</es>
    <fi>themable gui frontend to MPlayer with other interesting features</fi>
-   <fr>themable gui frontend to MPlayer with other interesting features</fr>
+   <fr>Interface graphique/frontend personnalisable pour MPlayer themable avec fonctionnalités utiles</fr>
    <hi>themable gui frontend to MPlayer with other interesting features</hi>
    <hr>themable gui frontend to MPlayer with other interesting features</hr>
    <hu>themable gui frontend to MPlayer with other interesting features</hu>
-   <it>themable gui frontend to MPlayer with other interesting features</it>
+   <it>interfaccia grafica per MPlayer con ulteriori interessanti funzionalità</it>
    <ja>themable gui frontend to MPlayer with other interesting features</ja>
    <kk>themable gui frontend to MPlayer with other interesting features</kk>
    <lt>themable gui frontend to MPlayer with other interesting features</lt>
-   <nl>themable gui frontend to MPlayer with other interesting features</nl>
+   <nl>gui die van thema's kan worden voorzien, frontend voor MPlayer met andere interessante functies</nl>
    <pl>themable gui frontend to MPlayer with other interesting features</pl>
    <pt_BR>themable gui frontend to MPlayer with other interesting features</pt_BR>
-   <pt>themable gui frontend to MPlayer with other interesting features</pt>
+   <pt>Interface gráfica para o MPlayer com vários temas e com outras funcionalidades interessantes</pt>
    <ro>themable gui frontend to MPlayer with other interesting features</ro>
    <ru>themable gui frontend to MPlayer with other interesting features</ru>
    <sk>themable gui frontend to MPlayer with other interesting features</sk>

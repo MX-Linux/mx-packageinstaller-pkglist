@@ -22,11 +22,11 @@ TeamViewer
    <hi>Teamviewer remote access</hi>
    <hr>Teamviewer remote access</hr>
    <hu>Teamviewer remote access</hu>
-   <it>Teamviewer remote access</it>
+   <it>Teamviewer accesso remoto</it>
    <ja>Teamviewer remote access</ja>
    <kk>Teamviewer remote access</kk>
-   <lt>Teamviewer remote access</lt>
-   <nl>Teamviewer remote access</nl>
+   <lt>Teamviewer nuotolinė prieiga</lt>
+   <nl>Teamviewer afstand toegang</nl>
    <pl>Teamviewer remote access</pl>
    <pt_BR>Teamviewer remote access</pt_BR>
    <pt>Teamviewer remote access</pt>

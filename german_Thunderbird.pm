@@ -18,18 +18,18 @@ German_Thunderbird
    <en>German localisation of Thunderbird</en>
    <es>German localisation of Thunderbird</es>
    <fi>German localisation of Thunderbird</fi>
-   <fr>German localisation of Thunderbird</fr>
+   <fr>Localisation allemande pour Thunderbird</fr>
    <hi>German localisation of Thunderbird</hi>
    <hr>German localisation of Thunderbird</hr>
    <hu>German localisation of Thunderbird</hu>
-   <it>German localisation of Thunderbird</it>
+   <it>Localizzazione tedesca di Thunderbird</it>
    <ja>German localisation of Thunderbird</ja>
    <kk>German localisation of Thunderbird</kk>
    <lt>German localisation of Thunderbird</lt>
-   <nl>German localisation of Thunderbird</nl>
+   <nl>Duitse lokalisatie van Thunderbird</nl>
    <pl>German localisation of Thunderbird</pl>
-   <pt_BR>German localisation of Thunderbird</pt_BR>
-   <pt>German localisation of Thunderbird</pt>
+   <pt_BR>Alemão Localização para Thunderbird</pt_BR>
+   <pt>Alemão Localização para Thunderbird</pt>
    <ro>German localisation of Thunderbird</ro>
    <ru>German localisation of Thunderbird</ru>
    <sk>German localisation of Thunderbird</sk>

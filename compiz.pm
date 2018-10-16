@@ -11,7 +11,7 @@ Compiz
 
 <description>
    <am>OpenGL Window Manager with compositing</am>
-   <ca>OpenGL Window Manager with compositing</ca>
+   <ca>Gestor de finestres OpenGL amb composició</ca>
    <cs>OpenGL Window Manager with compositing</cs>
    <de>OpenGL Window Manager mit Compositing</de>
    <el>OpenGL Window Manager with compositing</el>
@@ -22,14 +22,14 @@ Compiz
    <hi>OpenGL Window Manager with compositing</hi>
    <hr>OpenGL Window Manager with compositing</hr>
    <hu>OpenGL Window Manager with compositing</hu>
-   <it>OpenGL Window Manager with compositing</it>
+   <it>Window Manager OpenGL con compositing</it>
    <ja>OpenGL Window Manager with compositing</ja>
    <kk>OpenGL Window Manager with compositing</kk>
    <lt>OpenGL Window Manager with compositing</lt>
-   <nl>OpenGL Window Manager with compositing</nl>
+   <nl>OpenGL Scherm Beheer met compositing</nl>
    <pl>OpenGL Window Manager with compositing</pl>
    <pt_BR>OpenGL Window Manager with compositing</pt_BR>
-   <pt>OpenGL Window Manager with compositing</pt>
+   <pt>Gestor de Janelas em OpenGL com composição (compositing)</pt>
    <ro>OpenGL Window Manager with compositing</ro>
    <ru>OpenGL Window Manager with compositing</ru>
    <sk>OpenGL Window Manager with compositing</sk>

@@ -26,10 +26,10 @@ Czech_Thunderbird
    <ja>Czech localisation of Thunderbird</ja>
    <kk>Czech localisation of Thunderbird</kk>
    <lt>Czech localisation of Thunderbird</lt>
-   <nl>Czech localisation of Thunderbird</nl>
+   <nl>Tjechische lokalisatie van Thunderbird</nl>
    <pl>Czech localisation of Thunderbird</pl>
-   <pt_BR>Czech localisation of Thunderbird</pt_BR>
-   <pt>Czech localisation of Thunderbird</pt>
+   <pt_BR>Checo Localização para Thunderbird</pt_BR>
+   <pt>Checo Localização para Thunderbird</pt>
    <ro>Czech localisation of Thunderbird</ro>
    <ru>Czech localisation of Thunderbird</ru>
    <sk>Czech localisation of Thunderbird</sk>

@@ -18,18 +18,18 @@ Ukrainian_Libreoffice
    <en>Ukrainian localisation of LibreOffice</en>
    <es>Ukrainian localisation of LibreOffice</es>
    <fi>Ukrainian localisation of LibreOffice</fi>
-   <fr>Ukrainian localisation of LibreOffice</fr>
+   <fr>Localisation ukrainienne pour LibreOffice</fr>
    <hi>Ukrainian localisation of LibreOffice</hi>
    <hr>Ukrainian localisation of LibreOffice</hr>
    <hu>Ukrainian localisation of LibreOffice</hu>
-   <it>Ukrainian localisation of LibreOffice</it>
+   <it>Localizzazione ucraina di LibreOffice</it>
    <ja>Ukrainian localisation of LibreOffice</ja>
    <kk>Ukrainian localisation of LibreOffice</kk>
    <lt>Ukrainian localisation of LibreOffice</lt>
-   <nl>Ukrainian localisation of LibreOffice</nl>
+   <nl>Oekraïense lokalisatie van LibreOffice</nl>
    <pl>Ukrainian localisation of LibreOffice</pl>
-   <pt_BR>Ukrainian localisation of LibreOffice</pt_BR>
-   <pt>Ukrainian localisation of LibreOffice</pt>
+   <pt_BR>Ucraniano Localização para LibreOffice</pt_BR>
+   <pt>Ucraniano Localização para LibreOffice</pt>
    <ro>Ukrainian localisation of LibreOffice</ro>
    <ru>Ukrainian localisation of LibreOffice</ru>
    <sk>Ukrainian localisation of LibreOffice</sk>

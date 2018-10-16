@@ -11,25 +11,25 @@ MPD Music Player Daemon
 
 <description>
    <am>a flexible, powerful, server-side application for playing music</am>
-   <ca>a flexible, powerful, server-side application for playing music</ca>
+   <ca>aplicació flexible i potent de servidor per reproduir música</ca>
    <cs>a flexible, powerful, server-side application for playing music</cs>
    <de>Eine flexible, leistungsfähige, serverseitige Anwendung zum Abspielen von Musik</de>
    <el>a flexible, powerful, server-side application for playing music</el>
    <en>a flexible, powerful, server-side application for playing music</en>
    <es>a flexible, powerful, server-side application for playing music</es>
    <fi>a flexible, powerful, server-side application for playing music</fi>
-   <fr>a flexible, powerful, server-side application for playing music</fr>
+   <fr>Une application server-side souple et puissante pour lire de la musique</fr>
    <hi>a flexible, powerful, server-side application for playing music</hi>
    <hr>a flexible, powerful, server-side application for playing music</hr>
    <hu>a flexible, powerful, server-side application for playing music</hu>
-   <it>a flexible, powerful, server-side application for playing music</it>
+   <it>è un'applicazione lato server, flessibile e potente, per la la riproduzione di file musicali</it>
    <ja>a flexible, powerful, server-side application for playing music</ja>
    <kk>a flexible, powerful, server-side application for playing music</kk>
    <lt>a flexible, powerful, server-side application for playing music</lt>
-   <nl>a flexible, powerful, server-side application for playing music</nl>
+   <nl>een flexibele, krachtige applicatie aan de serverzijde voor het afspelen van muziek</nl>
    <pl>a flexible, powerful, server-side application for playing music</pl>
    <pt_BR>a flexible, powerful, server-side application for playing music</pt_BR>
-   <pt>a flexible, powerful, server-side application for playing music</pt>
+   <pt>Aplicação de servidor, flexível e poderosa, para reprodução de música</pt>
    <ro>a flexible, powerful, server-side application for playing music</ro>
    <ru>a flexible, powerful, server-side application for playing music</ru>
    <sk>a flexible, powerful, server-side application for playing music</sk>

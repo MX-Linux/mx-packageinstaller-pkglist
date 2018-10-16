@@ -18,18 +18,18 @@ Serbian_Thunderbird
    <en>Serbian localisation of Thunderbird</en>
    <es>Serbian localisation of Thunderbird</es>
    <fi>Serbian localisation of Thunderbird</fi>
-   <fr>Serbian localisation of Thunderbird</fr>
+   <fr>Localisation serbe pour Thunderbird</fr>
    <hi>Serbian localisation of Thunderbird</hi>
    <hr>Serbian localisation of Thunderbird</hr>
    <hu>Serbian localisation of Thunderbird</hu>
-   <it>Serbian localisation of Thunderbird</it>
+   <it>Localizzazione serba di Thunderbird</it>
    <ja>Serbian localisation of Thunderbird</ja>
    <kk>Serbian localisation of Thunderbird</kk>
    <lt>Serbian localisation of Thunderbird</lt>
-   <nl>Serbian localisation of Thunderbird</nl>
+   <nl>Servische lokalisatie van Thunderbird</nl>
    <pl>Serbian localisation of Thunderbird</pl>
-   <pt_BR>Serbian localisation of Thunderbird</pt_BR>
-   <pt>Serbian localisation of Thunderbird</pt>
+   <pt_BR>Sérvio Localização para Thunderbird</pt_BR>
+   <pt>Sérvio Localização para Thunderbird</pt>
    <ro>Serbian localisation of Thunderbird</ro>
    <ru>Serbian localisation of Thunderbird</ru>
    <sk>Serbian localisation of Thunderbird</sk>

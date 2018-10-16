@@ -18,18 +18,18 @@ Preschool
    <en>Pre-School. Includes: gamine, gcompris and tuxpaint</en>
    <es>Pre-School. Includes: gamine, gcompris and tuxpaint</es>
    <fi>Pre-School. Includes: gamine, gcompris and tuxpaint</fi>
-   <fr>Pre-School. Includes: gamine, gcompris and tuxpaint</fr>
+   <fr>Maternelle. Inclus: gamine, gcompris et tuxpaint</fr>
    <hi>Pre-School. Includes: gamine, gcompris and tuxpaint</hi>
    <hr>Pre-School. Includes: gamine, gcompris and tuxpaint</hr>
    <hu>Pre-School. Includes: gamine, gcompris and tuxpaint</hu>
-   <it>Pre-School. Includes: gamine, gcompris and tuxpaint</it>
+   <it>Elementari. Include: gamine, gcompris e tuxpaint</it>
    <ja>Pre-School. Includes: gamine, gcompris and tuxpaint</ja>
    <kk>Pre-School. Includes: gamine, gcompris and tuxpaint</kk>
    <lt>Pre-School. Includes: gamine, gcompris and tuxpaint</lt>
-   <nl>Pre-School. Includes: gamine, gcompris and tuxpaint</nl>
+   <nl>Pre-School. Inclusief: gamine, gcompris en tuxpaint</nl>
    <pl>Pre-School. Includes: gamine, gcompris and tuxpaint</pl>
    <pt_BR>Pre-School. Includes: gamine, gcompris and tuxpaint</pt_BR>
-   <pt>Pre-School. Includes: gamine, gcompris and tuxpaint</pt>
+   <pt>Pré-escola/infantil. Inclui: gamine, gcompris e tuxpaint</pt>
    <ro>Pre-School. Includes: gamine, gcompris and tuxpaint</ro>
    <ru>Pre-School. Includes: gamine, gcompris and tuxpaint</ru>
    <sk>Pre-School. Includes: gamine, gcompris and tuxpaint</sk>

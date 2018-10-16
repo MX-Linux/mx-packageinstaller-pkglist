@@ -18,18 +18,18 @@ rTorrent
    <en>an ncurses BitTorrent client</en>
    <es>an ncurses BitTorrent client</es>
    <fi>an ncurses BitTorrent client</fi>
-   <fr>an ncurses BitTorrent client</fr>
+   <fr>Client BitTorrent ncurses</fr>
    <hi>an ncurses BitTorrent client</hi>
    <hr>an ncurses BitTorrent client</hr>
    <hu>an ncurses BitTorrent client</hu>
-   <it>an ncurses BitTorrent client</it>
+   <it>client BitTorrent che usa ncurses</it>
    <ja>an ncurses BitTorrent client</ja>
    <kk>an ncurses BitTorrent client</kk>
    <lt>an ncurses BitTorrent client</lt>
-   <nl>an ncurses BitTorrent client</nl>
+   <nl>een ncurses BitTorrent programma</nl>
    <pl>an ncurses BitTorrent client</pl>
    <pt_BR>an ncurses BitTorrent client</pt_BR>
-   <pt>an ncurses BitTorrent client</pt>
+   <pt>Cliente de BitTorrent baseado em ncurses</pt>
    <ro>an ncurses BitTorrent client</ro>
    <ru>an ncurses BitTorrent client</ru>
    <sk>an ncurses BitTorrent client</sk>

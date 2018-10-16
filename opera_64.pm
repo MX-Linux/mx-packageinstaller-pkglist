@@ -25,11 +25,11 @@ Opera
    <it>Opera browser</it>
    <ja>Opera browser</ja>
    <kk>Opera browser</kk>
-   <lt>Opera browser</lt>
+   <lt>Opera naršyklė</lt>
    <nl>Opera browser</nl>
    <pl>Opera browser</pl>
    <pt_BR>Opera browser</pt_BR>
-   <pt>Opera browser</pt>
+   <pt>Navegador web Opera</pt>
    <ro>Opera browser</ro>
    <ru>Opera browser</ru>
    <sk>Opera browser</sk>

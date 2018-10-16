@@ -19,18 +19,18 @@ Shutter
    <en>a feature rich screenshot app</en>
    <es>a feature rich screenshot app</es>
    <fi>a feature rich screenshot app</fi>
-   <fr>a feature rich screenshot app</fr>
+   <fr>Un outil complet de capture d'écran</fr>
    <hi>a feature rich screenshot app</hi>
    <hr>a feature rich screenshot app</hr>
    <hu>a feature rich screenshot app</hu>
-   <it>a feature rich screenshot app</it>
+   <it>applicazione per catturare lo schermo, ricca di funzioni.</it>
    <ja>a feature rich screenshot app</ja>
    <kk>a feature rich screenshot app</kk>
    <lt>a feature rich screenshot app</lt>
-   <nl>a feature rich screenshot app</nl>
+   <nl>een functie rijke screenshot app</nl>
    <pl>a feature rich screenshot app</pl>
    <pt_BR>a feature rich screenshot app</pt_BR>
-   <pt>a feature rich screenshot app</pt>
+   <pt>Aplicação de captura de ecrã plena de funcionalidades</pt>
    <ro>a feature rich screenshot app</ro>
    <ru>a feature rich screenshot app</ru>
    <sk>a feature rich screenshot app</sk>

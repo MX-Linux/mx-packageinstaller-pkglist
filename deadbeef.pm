@@ -11,25 +11,25 @@ DeaDBeeF
 
 <description>
    <am>simple audio player</am>
-   <ca>simple audio player</ca>
+   <ca>senzill reproductor d'àudio</ca>
    <cs>simple audio player</cs>
    <de>Einfacher Audio-Player</de>
    <el>simple audio player</el>
    <en>simple audio player</en>
    <es>simple audio player</es>
    <fi>simple audio player</fi>
-   <fr>lecteur audio basique</fr>
+   <fr>Lecteur audio basique</fr>
    <hi>simple audio player</hi>
    <hr>simple audio player</hr>
    <hu>simple audio player</hu>
    <it>Lettore di tracce audio semplice</it>
    <ja>simple audio player</ja>
    <kk>simple audio player</kk>
-   <lt>simple audio player</lt>
-   <nl>simple audio player</nl>
+   <lt>paprastas garso grotuvas</lt>
+   <nl>eenvoudige audio speler</nl>
    <pl>simple audio player</pl>
-   <pt_BR>simple audio player</pt_BR>
-   <pt>simple audio player</pt>
+   <pt_BR>Reprodutor de áudio muito simples</pt_BR>
+   <pt>Reprodutor de áudio simples e de fácil utilização</pt>
    <ro>simple audio player</ro>
    <ru>simple audio player</ru>
    <sk>simple audio player</sk>

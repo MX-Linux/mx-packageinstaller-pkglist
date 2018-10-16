@@ -12,25 +12,25 @@ ksnip
 
 <description>
    <am>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</am>
-   <ca>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</ca>
+   <ca>Eina de captures de pantalla basada en Qt (no KDE) inspirada per Windows Snipping Tools</ca>
    <cs>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</cs>
    <de>Qt (nicht KDE)-basiertes Screenshot-Tool inspiriert von den Windows Snipping Tools</de>
    <el>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</el>
    <en>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</en>
    <es>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</es>
    <fi>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</fi>
-   <fr>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</fr>
+   <fr>Outil de capture d'écran Qt (non kde) inspiré des utilitaires de découpage Windows</fr>
    <hi>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</hi>
    <hr>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</hr>
    <hu>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</hu>
-   <it>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</it>
+   <it>Strumento di cattura dello schermo basato sulle librerie Qt (non kde) simile a Snipping Tools</it>
    <ja>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</ja>
    <kk>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</kk>
    <lt>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</lt>
-   <nl>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</nl>
+   <nl>Qt (niet kde) -gebaseerd gereedschap voor screenshots geïnspireerd op de Windows Snipping Tools</nl>
    <pl>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</pl>
    <pt_BR>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</pt_BR>
-   <pt>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</pt>
+   <pt>Ferramenta de captação de ecrã baseada em Qt (não kde) inspirada no Windows Snipping Tools</pt>
    <ro>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</ro>
    <ru>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</ru>
    <sk>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</sk>

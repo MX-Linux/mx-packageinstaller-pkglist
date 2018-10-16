@@ -18,18 +18,18 @@ Finnish_Firefox
    <en>Finnish localisation of Firefox</en>
    <es>Finnish localisation of Firefox</es>
    <fi>Finnish localisation of Firefox</fi>
-   <fr>Finnish localisation of Firefox</fr>
+   <fr>Localisation finlandaise pour Firefox</fr>
    <hi>Finnish localisation of Firefox</hi>
    <hr>Finnish localisation of Firefox</hr>
    <hu>Finnish localisation of Firefox</hu>
-   <it>Finnish localisation of Firefox</it>
+   <it>Localizzazione finlandese di Firefox</it>
    <ja>Finnish localisation of Firefox</ja>
    <kk>Finnish localisation of Firefox</kk>
    <lt>Finnish localisation of Firefox</lt>
-   <nl>Finnish localisation of Firefox</nl>
+   <nl>Finse lokalisatie van Firefox</nl>
    <pl>Finnish localisation of Firefox</pl>
-   <pt_BR>Finnish localisation of Firefox</pt_BR>
-   <pt>Finnish localisation of Firefox</pt>
+   <pt_BR>Finlandês Localização para Firefox</pt_BR>
+   <pt>Finlandês Localização para Firefox</pt>
    <ro>Finnish localisation of Firefox</ro>
    <ru>Finnish localisation of Firefox</ru>
    <sk>Finnish localisation of Firefox</sk>

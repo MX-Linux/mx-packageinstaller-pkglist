@@ -18,15 +18,15 @@ Spotify
    <en>Spotify from Spotify Testing Repo</en>
    <es>Spotify from Spotify Testing Repo</es>
    <fi>Spotify from Spotify Testing Repo</fi>
-   <fr>Spotify from Spotify Testing Repo</fr>
+   <fr>Spotify du dépôt de test Spotify</fr>
    <hi>Spotify from Spotify Testing Repo</hi>
    <hr>Spotify from Spotify Testing Repo</hr>
    <hu>Spotify from Spotify Testing Repo</hu>
-   <it>Spotify from Spotify Testing Repo</it>
+   <it>Spotify dal repo testing di Spotify</it>
    <ja>Spotify from Spotify Testing Repo</ja>
    <kk>Spotify from Spotify Testing Repo</kk>
    <lt>Spotify from Spotify Testing Repo</lt>
-   <nl>Spotify from Spotify Testing Repo</nl>
+   <nl>Spotify uit Spotify Testing Pakketbron</nl>
    <pl>Spotify from Spotify Testing Repo</pl>
    <pt_BR>Spotify from Spotify Testing Repo</pt_BR>
    <pt>Spotify from Spotify Testing Repo</pt>

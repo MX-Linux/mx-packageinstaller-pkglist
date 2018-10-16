@@ -16,7 +16,7 @@ Basque_Firefox
    <de>Baskische Lokalisierung von Firefox</de>
    <el>Basque localisation of Firefox</el>
    <en>Basque localisation of Firefox</en>
-   <es>Basque localisation of Firefox</es>
+   <es>Localización Vasco de Firefox</es>
    <fi>Basque localisation of Firefox</fi>
    <fr>Localisation basque pour Firefox</fr>
    <hi>Basque localisation of Firefox</hi>
@@ -28,8 +28,8 @@ Basque_Firefox
    <lt>Basque localisation of Firefox</lt>
    <nl>Baskische lokalisatie van Firefox</nl>
    <pl>Basque localisation of Firefox</pl>
-   <pt_BR>Basque localisation of Firefox</pt_BR>
-   <pt>Basque localisation of Firefox</pt>
+   <pt_BR>Basco Localização para Firefox</pt_BR>
+   <pt>Basco Localização para Firefox</pt>
    <ro>Basque localisation of Firefox</ro>
    <ru>Basque localisation of Firefox</ru>
    <sk>Basque localisation of Firefox</sk>

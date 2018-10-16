@@ -18,18 +18,18 @@ Vietnamese_Input
    <en>Vietnamese Fonts and ibus</en>
    <es>Vietnamese Fonts and ibus</es>
    <fi>Vietnamese Fonts and ibus</fi>
-   <fr>Vietnamese Fonts and ibus</fr>
+   <fr>Polices vietnamiennes et ibus</fr>
    <hi>Vietnamese Fonts and ibus</hi>
    <hr>Vietnamese Fonts and ibus</hr>
    <hu>Vietnamese Fonts and ibus</hu>
-   <it>Vietnamese Fonts and ibus</it>
+   <it>Fonts e ibus per la lingua vietnamita</it>
    <ja>Vietnamese Fonts and ibus</ja>
    <kk>Vietnamese Fonts and ibus</kk>
    <lt>Vietnamese Fonts and ibus</lt>
-   <nl>Vietnamese Fonts and ibus</nl>
+   <nl>Vietnamese Fonts en ibus</nl>
    <pl>Vietnamese Fonts and ibus</pl>
-   <pt_BR>Vietnamese Fonts and ibus</pt_BR>
-   <pt>Vietnamese Fonts and ibus</pt>
+   <pt_BR>Vietnamita Fontes e ibus</pt_BR>
+   <pt>Vietnamita Fontes e ibus</pt>
    <ro>Vietnamese Fonts and ibus</ro>
    <ru>Vietnamese Fonts and ibus</ru>
    <sk>Vietnamese Fonts and ibus</sk>

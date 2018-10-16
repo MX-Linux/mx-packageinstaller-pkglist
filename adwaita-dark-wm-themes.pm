@@ -16,9 +16,9 @@ Adwaita Dark WM Themes
    <de>Window Manager Themen passend zum Obsidian-2 Gtk Thema</de>
    <el>Window Manager Themes to match the Obsidian-2 Gtk Theme</el>
    <en>Window Manager Themes to match the Obsidian-2 Gtk Theme</en>
-   <es>Window Manager Themes to match the Obsidian-2 Gtk Theme</es>
+   <es>Temas de Gestores de Ventanas para combinar con la Tema Obsidian-2 de Gtk</es>
    <fi>Window Manager Themes to match the Obsidian-2 Gtk Theme</fi>
-   <fr>Window Manager Themes to match the Obsidian-2 Gtk Theme</fr>
+   <fr>Thèmes de gestionnaire de fenêtres ajustés au thème Gtk Obsidian-2</fr>
    <hi>Window Manager Themes to match the Obsidian-2 Gtk Theme</hi>
    <hr>Window Manager Themes to match the Obsidian-2 Gtk Theme</hr>
    <hu>Window Manager Themes to match the Obsidian-2 Gtk Theme</hu>
@@ -26,10 +26,10 @@ Adwaita Dark WM Themes
    <ja>Window Manager Themes to match the Obsidian-2 Gtk Theme</ja>
    <kk>Window Manager Themes to match the Obsidian-2 Gtk Theme</kk>
    <lt>Window Manager Themes to match the Obsidian-2 Gtk Theme</lt>
-   <nl>Window Manager Themes to match the Obsidian-2 Gtk Theme</nl>
+   <nl>Window Manager Thema's die passen bij het Obsidian-2 Gtk Thema</nl>
    <pl>Window Manager Themes to match the Obsidian-2 Gtk Theme</pl>
-   <pt_BR>Window Manager Themes to match the Obsidian-2 Gtk Theme</pt_BR>
-   <pt>Window Manager Themes to match the Obsidian-2 Gtk Theme</pt>
+   <pt_BR>Temas para Gestores de Janelas combinando com o tema Obsidian do Gtk-2</pt_BR>
+   <pt>Temas para Gestores de Janelas a combinar com o tema Obsidian do Gtk-2</pt>
    <ro>Window Manager Themes to match the Obsidian-2 Gtk Theme</ro>
    <ru>Window Manager Themes to match the Obsidian-2 Gtk Theme</ru>
    <sk>Window Manager Themes to match the Obsidian-2 Gtk Theme</sk>

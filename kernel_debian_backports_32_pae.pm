@@ -11,7 +11,7 @@ Debian-Backports 32 bit PAE
 
 <description>
    <am>Debian Backports Kernel (32 bit PAE)</am>
-   <ca>Debian Backports Kernel (32 bit PAE)</ca>
+   <ca>Nucli de Debian Backports (32 bit amb PAE)</ca>
    <cs>Debian Backports Kernel (32 bit PAE)</cs>
    <de>Debian-Backports-Kernel (32-Bit-PAE)</de>
    <el>Debian Backports Kernel (32 bit PAE)</el>

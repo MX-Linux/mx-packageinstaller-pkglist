@@ -13,12 +13,12 @@ antiX 4.9 64 bit
    <am>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</am>
    <ca>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</ca>
    <cs>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</cs>
-   <de>antiX 4.9.126 Kernel Meltdown und Spectre gepatcht, 64 Bit</de>
+   <de>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</de>
    <el>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</el>
    <en>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</en>
    <es>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</es>
    <fi>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</fi>
-   <fr>Noyau antiX 4.9.126 corrections Meltdown et Spectre, 64 bit</fr>
+   <fr>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</fr>
    <hi>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</hi>
    <hr>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</hr>
    <hu>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</hu>
@@ -33,7 +33,7 @@ antiX 4.9 64 bit
    <ro>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</ro>
    <ru>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</ru>
    <sk>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</sk>
-   <sv>antiX 4.9.126 kärna Meltdown och Spectre patched, 64 bit</sv>
+   <sv>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</sv>
    <tr>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</tr>
    <uk>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</uk>
    <zh_TW>antiX 4.9.126 kernel Meltdown and Spectre patched, 64 bit</zh_TW>

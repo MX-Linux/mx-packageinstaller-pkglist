@@ -11,25 +11,25 @@ Japanese_Fonts
 
 <description>
    <am>Japanese fonts packages</am>
-   <ca>Japanese fonts packages</ca>
+   <ca>Paquets de tipus de lletra japoneses</ca>
    <cs>Japanese fonts packages</cs>
    <de>Japanische Schriftenpakete</de>
    <el>Japanese fonts packages</el>
    <en>Japanese fonts packages</en>
    <es>Japanese fonts packages</es>
    <fi>Japanese fonts packages</fi>
-   <fr>Japanese fonts packages</fr>
+   <fr>Paquets pour polices japonaises</fr>
    <hi>Japanese fonts packages</hi>
    <hr>Japanese fonts packages</hr>
    <hu>Japanese fonts packages</hu>
-   <it>Japanese fonts packages</it>
+   <it>Pacchetti di fonts per il Giapponese</it>
    <ja>Japanese fonts packages</ja>
    <kk>Japanese fonts packages</kk>
-   <lt>Japanese fonts packages</lt>
-   <nl>Japanese fonts packages</nl>
+   <lt>Japonų šriftų paketai</lt>
+   <nl>Japanse font pakketten</nl>
    <pl>Japanese fonts packages</pl>
-   <pt_BR>Japanese fonts packages</pt_BR>
-   <pt>Japanese fonts packages</pt>
+   <pt_BR>Japonês fonts Pacotes</pt_BR>
+   <pt>Japonês fonts Pacotes</pt>
    <ro>Japanese fonts packages</ro>
    <ru>Japanese fonts packages</ru>
    <sk>Japanese fonts packages</sk>

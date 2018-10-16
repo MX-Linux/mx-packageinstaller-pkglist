@@ -26,10 +26,10 @@ Croatian
    <ja>Croatian Language Meta-Package</ja>
    <kk>Croatian Language Meta-Package</kk>
    <lt>Croatian Language Meta-Package</lt>
-   <nl>Croatian Language Meta-Package</nl>
+   <nl>Kroatische Taal Meta-Pakket</nl>
    <pl>Croatian Language Meta-Package</pl>
-   <pt_BR>Croatian Language Meta-Package</pt_BR>
-   <pt>Croatian Language Meta-Package</pt>
+   <pt_BR>Croata Meta-Pacote de Idioma</pt_BR>
+   <pt>Croata Meta-Pacote de Idioma</pt>
    <ro>Croatian Language Meta-Package</ro>
    <ru>Croatian Language Meta-Package</ru>
    <sk>Croatian Language Meta-Package</sk>

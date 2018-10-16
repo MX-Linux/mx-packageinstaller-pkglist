@@ -18,18 +18,18 @@ Chinese_fonts
    <en>Chinese fonts packages</en>
    <es>Chinese fonts packages</es>
    <fi>Chinese fonts packages</fi>
-   <fr>Paquets polices chinoises</fr>
+   <fr>Paquets pour polices chinoises</fr>
    <hi>Chinese fonts packages</hi>
    <hr>Chinese fonts packages</hr>
    <hu>Chinese fonts packages</hu>
    <it>Pacchetti di fonts per il Cinese</it>
    <ja>Chinese fonts packages</ja>
    <kk>Chinese fonts packages</kk>
-   <lt>Chinese fonts packages</lt>
-   <nl>Chinese fonts packages</nl>
+   <lt>Kinų šriftų paketai</lt>
+   <nl>Chinese font pakketten</nl>
    <pl>Chinese fonts packages</pl>
-   <pt_BR>Chinese fonts packages</pt_BR>
-   <pt>Chinese fonts packages</pt>
+   <pt_BR>Chinês Pacotes de fontes</pt_BR>
+   <pt>Chinês Pacotes de fontes</pt>
    <ro>Chinese fonts packages</ro>
    <ru>Chinese fonts packages</ru>
    <sk>Chinese fonts packages</sk>

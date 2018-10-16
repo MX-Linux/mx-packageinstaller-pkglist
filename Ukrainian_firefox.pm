@@ -18,18 +18,18 @@ Ukrainian_Firefox
    <en>Ukrainian localisation of Firefox</en>
    <es>Ukrainian localisation of Firefox</es>
    <fi>Ukrainian localisation of Firefox</fi>
-   <fr>Ukrainian localisation of Firefox</fr>
+   <fr>Localisation ukrainienne pour Firefox</fr>
    <hi>Ukrainian localisation of Firefox</hi>
    <hr>Ukrainian localisation of Firefox</hr>
    <hu>Ukrainian localisation of Firefox</hu>
-   <it>Ukrainian localisation of Firefox</it>
+   <it>Localizzazione ucraina di Firefox</it>
    <ja>Ukrainian localisation of Firefox</ja>
    <kk>Ukrainian localisation of Firefox</kk>
    <lt>Ukrainian localisation of Firefox</lt>
-   <nl>Ukrainian localisation of Firefox</nl>
+   <nl>Oekraïense lokalisatie van Firefox</nl>
    <pl>Ukrainian localisation of Firefox</pl>
-   <pt_BR>Ukrainian localisation of Firefox</pt_BR>
-   <pt>Ukrainian localisation of Firefox</pt>
+   <pt_BR>Ucraniano Localização para Firefox</pt_BR>
+   <pt>Ucraniano Localização para Firefox</pt>
    <ro>Ukrainian localisation of Firefox</ro>
    <ru>Ukrainian localisation of Firefox</ru>
    <sk>Ukrainian localisation of Firefox</sk>

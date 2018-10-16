@@ -18,15 +18,15 @@ QT5 Documention
    <en>Documentation files for Qt-5 and QtCreator IDE</en>
    <es>Documentation files for Qt-5 and QtCreator IDE</es>
    <fi>Documentation files for Qt-5 and QtCreator IDE</fi>
-   <fr>Documentation files for Qt-5 and QtCreator IDE</fr>
+   <fr>Fichiers de documentation pour Qt-5 et QtCreator IDE</fr>
    <hi>Documentation files for Qt-5 and QtCreator IDE</hi>
    <hr>Documentation files for Qt-5 and QtCreator IDE</hr>
    <hu>Documentation files for Qt-5 and QtCreator IDE</hu>
-   <it>Documentation files for Qt-5 and QtCreator IDE</it>
+   <it>File di documentazione per Qt-5 e QtCreator IDE</it>
    <ja>Documentation files for Qt-5 and QtCreator IDE</ja>
    <kk>Documentation files for Qt-5 and QtCreator IDE</kk>
    <lt>Documentation files for Qt-5 and QtCreator IDE</lt>
-   <nl>Documentation files for Qt-5 and QtCreator IDE</nl>
+   <nl>Documentatiebestanden voor Qt-5 en QtCreator IDE</nl>
    <pl>Documentation files for Qt-5 and QtCreator IDE</pl>
    <pt_BR>Documentation files for Qt-5 and QtCreator IDE</pt_BR>
    <pt>Documentation files for Qt-5 and QtCreator IDE</pt>

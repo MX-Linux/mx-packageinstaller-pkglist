@@ -18,18 +18,18 @@ Korean_Firefox
    <en>Korean localisation of Firefox</en>
    <es>Korean localisation of Firefox</es>
    <fi>Korean localisation of Firefox</fi>
-   <fr>Korean localisation of Firefox</fr>
+   <fr>Localisation coréenne pour Firefox</fr>
    <hi>Korean localisation of Firefox</hi>
    <hr>Korean localisation of Firefox</hr>
    <hu>Korean localisation of Firefox</hu>
-   <it>Korean localisation of Firefox</it>
+   <it>Localizzazione coreana di Firefox</it>
    <ja>Korean localisation of Firefox</ja>
    <kk>Korean localisation of Firefox</kk>
    <lt>Korean localisation of Firefox</lt>
-   <nl>Korean localisation of Firefox</nl>
+   <nl>Koreaanse lokalisatie van Firefox</nl>
    <pl>Korean localisation of Firefox</pl>
-   <pt_BR>Korean localisation of Firefox</pt_BR>
-   <pt>Korean localisation of Firefox</pt>
+   <pt_BR>Coreano Localização para Firefox</pt_BR>
+   <pt>Coreano Localização para Firefox</pt>
    <ro>Korean localisation of Firefox</ro>
    <ru>Korean localisation of Firefox</ru>
    <sk>Korean localisation of Firefox</sk>

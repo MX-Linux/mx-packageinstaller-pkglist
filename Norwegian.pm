@@ -18,18 +18,18 @@ Norwegian
    <en>Norwegian Language Meta-Package</en>
    <es>Norwegian Language Meta-Package</es>
    <fi>Norwegian Language Meta-Package</fi>
-   <fr>Norwegian Language Meta-Package</fr>
+   <fr>Méta-paquet pour langue norvégienne</fr>
    <hi>Norwegian Language Meta-Package</hi>
    <hr>Norwegian Language Meta-Package</hr>
    <hu>Norwegian Language Meta-Package</hu>
-   <it>Norwegian Language Meta-Package</it>
+   <it>Meta-pacchetto della lingua norvegese</it>
    <ja>Norwegian Language Meta-Package</ja>
    <kk>Norwegian Language Meta-Package</kk>
    <lt>Norwegian Language Meta-Package</lt>
-   <nl>Norwegian Language Meta-Package</nl>
+   <nl>Noorse Taal Meta-Pakket</nl>
    <pl>Norwegian Language Meta-Package</pl>
-   <pt_BR>Norwegian Language Meta-Package</pt_BR>
-   <pt>Norwegian Language Meta-Package</pt>
+   <pt_BR>Norueguês Meta-Pacote de Idioma</pt_BR>
+   <pt>Norueguês Meta-Pacote de Idioma</pt>
    <ro>Norwegian Language Meta-Package</ro>
    <ru>Norwegian Language Meta-Package</ru>
    <sk>Norwegian Language Meta-Package</sk>

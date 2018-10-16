@@ -18,18 +18,18 @@ x11vnc
    <en>VNC server for X window environments</en>
    <es>VNC server for X window environments</es>
    <fi>VNC server for X window environments</fi>
-   <fr>VNC server for X window environments</fr>
+   <fr>Serveur VNC pour environnements X window</fr>
    <hi>VNC server for X window environments</hi>
    <hr>VNC server for X window environments</hr>
    <hu>VNC server for X window environments</hu>
-   <it>VNC server for X window environments</it>
+   <it>Server VNC per ambienti X Window</it>
    <ja>VNC server for X window environments</ja>
    <kk>VNC server for X window environments</kk>
    <lt>VNC server for X window environments</lt>
-   <nl>VNC server for X window environments</nl>
+   <nl>VNC server voor X window omgevingen</nl>
    <pl>VNC server for X window environments</pl>
-   <pt_BR>VNC server for X window environments</pt_BR>
-   <pt>VNC server for X window environments</pt>
+   <pt_BR>Servidor VNC para ambientes de janelas "X"</pt_BR>
+   <pt>Servidor VNC para ambientes de janelas "X"</pt>
    <ro>VNC server for X window environments</ro>
    <ru>VNC server for X window environments</ru>
    <sk>VNC server for X window environments</sk>

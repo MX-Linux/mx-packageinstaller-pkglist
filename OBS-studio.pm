@@ -12,22 +12,22 @@ OBS-Studio
 
 <description>
    <am>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</am>
-   <ca>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ca>
+   <ca>OBS-Studio - Streaming Video i Screencaster (cal maquinari OpenGL 3)</ca>
    <cs>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</cs>
    <de>OBS-Studio - Streaming Video und Screencaster (OpenGL 3 Hardware erforderlich)</de>
    <el>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</el>
    <en>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</en>
    <es>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</es>
    <fi>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</fi>
-   <fr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</fr>
+   <fr>OBS-Studio - Diffusion vidéo et capture vidéo d'écran (support OpenGL 3 nécessaire)</fr>
    <hi>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</hi>
    <hr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</hr>
    <hu>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</hu>
-   <it>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</it>
+   <it>OBS-Studio - Strumento di registrazione e streaming di contenuti video (è richiesto hardware OpenGL 3)</it>
    <ja>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ja>
    <kk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</kk>
    <lt>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</lt>
-   <nl>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</nl>
+   <nl>OBS-Studio - Video en Screencaster Streamen (OpenGL 3 hardware vereist)</nl>
    <pl>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</pl>
    <pt_BR>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</pt_BR>
    <pt>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</pt>

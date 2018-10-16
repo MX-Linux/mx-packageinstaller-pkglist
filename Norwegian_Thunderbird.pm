@@ -18,18 +18,18 @@ Norwegian_Thunderbird
    <en>Norwegian localisation of Thunderbird</en>
    <es>Norwegian localisation of Thunderbird</es>
    <fi>Norwegian localisation of Thunderbird</fi>
-   <fr>Norwegian localisation of Thunderbird</fr>
+   <fr>Localisation norvégienne pour Thunderbird</fr>
    <hi>Norwegian localisation of Thunderbird</hi>
    <hr>Norwegian localisation of Thunderbird</hr>
    <hu>Norwegian localisation of Thunderbird</hu>
-   <it>Norwegian localisation of Thunderbird</it>
+   <it>Localizzazione norvegese di Thunderbird</it>
    <ja>Norwegian localisation of Thunderbird</ja>
    <kk>Norwegian localisation of Thunderbird</kk>
    <lt>Norwegian localisation of Thunderbird</lt>
-   <nl>Norwegian localisation of Thunderbird</nl>
+   <nl>Noorse lokalisatie van Thunderbird</nl>
    <pl>Norwegian localisation of Thunderbird</pl>
-   <pt_BR>Norwegian localisation of Thunderbird</pt_BR>
-   <pt>Norwegian localisation of Thunderbird</pt>
+   <pt_BR>Norueguês Localização para Thunderbird</pt_BR>
+   <pt>Norueguês Localização para Thunderbird</pt>
    <ro>Norwegian localisation of Thunderbird</ro>
    <ru>Norwegian localisation of Thunderbird</ru>
    <sk>Norwegian localisation of Thunderbird</sk>

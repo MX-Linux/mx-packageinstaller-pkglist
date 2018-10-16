@@ -11,7 +11,7 @@ Palemoon
 
 <description>
    <am>Palemoon from the mx repo</am>
-   <ca>Palemoon from the mx repo</ca>
+   <ca>Palemoon del dipòsit de MX</ca>
    <cs>Palemoon from the mx repo</cs>
    <de>Pale Moon aus dem MX-Repo</de>
    <el>Palemoon from the mx repo</el>
@@ -22,14 +22,14 @@ Palemoon
    <hi>Palemoon from the mx repo</hi>
    <hr>Palemoon from the mx repo</hr>
    <hu>Palemoon from the mx repo</hu>
-   <it>Palemoon from the mx repo</it>
+   <it>Palemoon dal repo mx</it>
    <ja>Palemoon from the mx repo</ja>
    <kk>Palemoon from the mx repo</kk>
-   <lt>Palemoon from the mx repo</lt>
-   <nl>Palemoon from the mx repo</nl>
+   <lt>Palemoon iš mx saugyklos</lt>
+   <nl>Palemoon uit de mx pakketbron</nl>
    <pl>Palemoon from the mx repo</pl>
    <pt_BR>Palemoon from the mx repo</pt_BR>
-   <pt>Palemoon from the mx repo</pt>
+   <pt>Navegador web Palemoon do repositório mx repo</pt>
    <ro>Palemoon from the mx repo</ro>
    <ru>Palemoon from the mx repo</ru>
    <sk>Palemoon from the mx repo</sk>

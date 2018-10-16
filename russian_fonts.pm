@@ -18,18 +18,18 @@ Russian_Fonts
    <en>Russian fonts packages</en>
    <es>Russian fonts packages</es>
    <fi>Russian fonts packages</fi>
-   <fr>Russian fonts packages</fr>
+   <fr>Paquets pour polices russes</fr>
    <hi>Russian fonts packages</hi>
    <hr>Russian fonts packages</hr>
    <hu>Russian fonts packages</hu>
-   <it>Russian fonts packages</it>
+   <it>Pacchetti di fonts per il Russo</it>
    <ja>Russian fonts packages</ja>
    <kk>Russian fonts packages</kk>
-   <lt>Russian fonts packages</lt>
-   <nl>Russian fonts packages</nl>
+   <lt>Rusų šriftų paketai</lt>
+   <nl>Russische font pakketten</nl>
    <pl>Russian fonts packages</pl>
-   <pt_BR>Russian fonts packages</pt_BR>
-   <pt>Russian fonts packages</pt>
+   <pt_BR>Russo fonts Pacotes</pt_BR>
+   <pt>Russo pacotes de fontes</pt>
    <ro>Russian fonts packages</ro>
    <ru>Russian fonts packages</ru>
    <sk>Russian fonts packages</sk>

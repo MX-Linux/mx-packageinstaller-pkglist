@@ -19,15 +19,15 @@ SimpleScreenRecorder
    <en>a Qt-based screencast recorder</en>
    <es>a Qt-based screencast recorder</es>
    <fi>a Qt-based screencast recorder</fi>
-   <fr>a Qt-based screencast recorder</fr>
+   <fr>Outil de capture vidéo basé sur Qt</fr>
    <hi>a Qt-based screencast recorder</hi>
    <hr>a Qt-based screencast recorder</hr>
    <hu>a Qt-based screencast recorder</hu>
-   <it>a Qt-based screencast recorder</it>
+   <it>registratore dello schermo basato su librerie Qt</it>
    <ja>a Qt-based screencast recorder</ja>
    <kk>a Qt-based screencast recorder</kk>
    <lt>a Qt-based screencast recorder</lt>
-   <nl>a Qt-based screencast recorder</nl>
+   <nl>a Qt-gebaseerde screencast recorder</nl>
    <pl>a Qt-based screencast recorder</pl>
    <pt_BR>a Qt-based screencast recorder</pt_BR>
    <pt>a Qt-based screencast recorder</pt>

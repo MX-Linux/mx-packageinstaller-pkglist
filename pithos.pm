@@ -11,22 +11,22 @@ Pithos
 
 <description>
    <am>a native Pandora Radio client</am>
-   <ca>a native Pandora Radio client</ca>
+   <ca>client nadiu de Pandora Radio</ca>
    <cs>a native Pandora Radio client</cs>
    <de>Ein einheimischer Pandora-Radio-Client</de>
    <el>a native Pandora Radio client</el>
    <en>a native Pandora Radio client</en>
    <es>a native Pandora Radio client</es>
    <fi>a native Pandora Radio client</fi>
-   <fr>a native Pandora Radio client</fr>
+   <fr>Client Radio natif Pandora</fr>
    <hi>a native Pandora Radio client</hi>
    <hr>a native Pandora Radio client</hr>
    <hu>a native Pandora Radio client</hu>
-   <it>a native Pandora Radio client</it>
+   <it>client per la radio web Pandora</it>
    <ja>a native Pandora Radio client</ja>
    <kk>a native Pandora Radio client</kk>
    <lt>a native Pandora Radio client</lt>
-   <nl>a native Pandora Radio client</nl>
+   <nl>een origineel Pandora Radio programma</nl>
    <pl>a native Pandora Radio client</pl>
    <pt_BR>a native Pandora Radio client</pt_BR>
    <pt>a native Pandora Radio client</pt>

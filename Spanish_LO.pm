@@ -18,18 +18,18 @@ Spanish_Libreoffice
    <en>Spanish Language Meta-Package for LibreOffice</en>
    <es>Spanish Language Meta-Package for LibreOffice</es>
    <fi>Spanish Language Meta-Package for LibreOffice</fi>
-   <fr>Spanish Language Meta-Package for LibreOffice</fr>
+   <fr>Méta-paquet langue espagnole pour LibreOffice</fr>
    <hi>Spanish Language Meta-Package for LibreOffice</hi>
    <hr>Spanish Language Meta-Package for LibreOffice</hr>
    <hu>Spanish Language Meta-Package for LibreOffice</hu>
-   <it>Spanish Language Meta-Package for LibreOffice</it>
+   <it>Meta-pacchetto della lingua spagnola per LibreOffice</it>
    <ja>Spanish Language Meta-Package for LibreOffice</ja>
    <kk>Spanish Language Meta-Package for LibreOffice</kk>
    <lt>Spanish Language Meta-Package for LibreOffice</lt>
-   <nl>Spanish Language Meta-Package for LibreOffice</nl>
+   <nl>Spaanse Taal Meta-Pakket voor LibreOffice</nl>
    <pl>Spanish Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Spanish Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Spanish Language Meta-Package for LibreOffice</pt>
+   <pt_BR>Castelhano Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Castelhano Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Spanish Language Meta-Package for LibreOffice</ro>
    <ru>Spanish Language Meta-Package for LibreOffice</ru>
    <sk>Spanish Language Meta-Package for LibreOffice</sk>

@@ -11,7 +11,7 @@ MX 4.14 no-pae
 
 <description>
    <am>MX 4.14 kernel, 32 bit no-pae</am>
-   <ca>MX 4.14 kernel, 32 bit no-pae</ca>
+   <ca>Nucli de MX 4.14, 32 bit sense PAE</ca>
    <cs>MX 4.14 kernel, 32 bit no-pae</cs>
    <de>MX 4.14-Kernel, 32-Bit-No-PAE</de>
    <el>MX 4.14 kernel, 32 bit no-pae</el>
@@ -26,7 +26,7 @@ MX 4.14 no-pae
    <ja>MX 4.14 kernel, 32 bit no-pae</ja>
    <kk>MX 4.14 kernel, 32 bit no-pae</kk>
    <lt>MX 4.14 kernel, 32 bit no-pae</lt>
-   <nl>MX 4.14 kernel, 32 bit no-pae</nl>
+   <nl>MX 4.14 kernel, 32 bit geen pae</nl>
    <pl>MX 4.14 kernel, 32 bit no-pae</pl>
    <pt_BR>MX 4.14 kernel, 32 bit no-pae</pt_BR>
    <pt>MX 4.14 kernel, 32 bit no-pae</pt>

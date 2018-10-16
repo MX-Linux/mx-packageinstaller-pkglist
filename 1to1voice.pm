@@ -16,7 +16,7 @@ Messaging
    <de>Verschlüsselte Privatgespräche mittels Mumble über SSL</de>
    <el>voice chat between two pc's via encrypted mumble</el>
    <en>voice chat between two pc's via encrypted mumble</en>
-   <es>voice chat between two pc's via encrypted mumble</es>
+   <es>Chat de voz entre dos PCs vía mumble encriptado</es>
    <fi>voice chat between two pc's via encrypted mumble</fi>
    <fr>Échanges vocaux chiffrés entre deux PC via mumble</fr>
    <hi>voice chat between two pc's via encrypted mumble</hi>
@@ -28,8 +28,8 @@ Messaging
    <lt>voice chat between two pc's via encrypted mumble</lt>
    <nl>voice chat tussen twee PCs via beveiligde mumble</nl>
    <pl>voice chat between two pc's via encrypted mumble</pl>
-   <pt_BR>voice chat between two pc's via encrypted mumble</pt_BR>
-   <pt>voice chat between two pc's via encrypted mumble</pt>
+   <pt_BR>Chat de voz entre dois computadores via mumble encriptado</pt_BR>
+   <pt>Chat de voz entre dois computadores via mumble encriptado</pt>
    <ro>voice chat between two pc's via encrypted mumble</ro>
    <ru>voice chat between two pc's via encrypted mumble</ru>
    <sk>voice chat between two pc's via encrypted mumble</sk>

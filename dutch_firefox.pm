@@ -26,10 +26,10 @@ Dutch_Firefox
    <ja>Dutch localisation of Firefox</ja>
    <kk>Dutch localisation of Firefox</kk>
    <lt>Dutch localisation of Firefox</lt>
-   <nl>Dutch localisation of Firefox</nl>
+   <nl>Nederlandse lokalisatie van Firefox</nl>
    <pl>Dutch localisation of Firefox</pl>
-   <pt_BR>Dutch localisation of Firefox</pt_BR>
-   <pt>Dutch localisation of Firefox</pt>
+   <pt_BR>Holandês Localização para Firefox</pt_BR>
+   <pt>Holandês Localização para Firefox</pt>
    <ro>Dutch localisation of Firefox</ro>
    <ru>Dutch localisation of Firefox</ru>
    <sk>Dutch localisation of Firefox</sk>

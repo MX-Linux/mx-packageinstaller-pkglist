@@ -18,18 +18,18 @@ Slimjet
    <en>Latest Slimjet Browser (run again for updates)</en>
    <es>Latest Slimjet Browser (run again for updates)</es>
    <fi>Latest Slimjet Browser (run again for updates)</fi>
-   <fr>Latest Slimjet Browser (run again for updates)</fr>
+   <fr>La dernière version du navigateur Slimjet (relancer pour mise à jour)</fr>
    <hi>Latest Slimjet Browser (run again for updates)</hi>
    <hr>Latest Slimjet Browser (run again for updates)</hr>
    <hu>Latest Slimjet Browser (run again for updates)</hu>
-   <it>Latest Slimjet Browser (run again for updates)</it>
+   <it>Ultima versione del browser Slimjet (avvia nuovamente per gli aggiornamenti)</it>
    <ja>Latest Slimjet Browser (run again for updates)</ja>
    <kk>Latest Slimjet Browser (run again for updates)</kk>
    <lt>Latest Slimjet Browser (run again for updates)</lt>
-   <nl>Latest Slimjet Browser (run again for updates)</nl>
+   <nl>Meest recente Slimjet Browser (nogmaals uitvoeren voor updates)</nl>
    <pl>Latest Slimjet Browser (run again for updates)</pl>
    <pt_BR>Latest Slimjet Browser (run again for updates)</pt_BR>
-   <pt>Latest Slimjet Browser (run again for updates)</pt>
+   <pt>Navegador web Slimjet, versão mais recente (para obter actualizações, se disponíveis, voltar a executar)</pt>
    <ro>Latest Slimjet Browser (run again for updates)</ro>
    <ru>Latest Slimjet Browser (run again for updates)</ru>
    <sk>Latest Slimjet Browser (run again for updates)</sk>

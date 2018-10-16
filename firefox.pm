@@ -22,11 +22,11 @@ Firefox
    <hi>Latest Firefox</hi>
    <hr>Latest Firefox</hr>
    <hu>Latest Firefox</hu>
-   <it>Latest Firefox</it>
+   <it>Ultima versione di Firefox</it>
    <ja>Latest Firefox</ja>
    <kk>Latest Firefox</kk>
-   <lt>Latest Firefox</lt>
-   <nl>Latest Firefox</nl>
+   <lt>Naujausia Firefox</lt>
+   <nl>Meest recente Firefox</nl>
    <pl>Latest Firefox</pl>
    <pt_BR>Latest Firefox</pt_BR>
    <pt>Latest Firefox</pt>

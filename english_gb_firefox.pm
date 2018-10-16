@@ -18,18 +18,18 @@ GB_English_Firefox
    <en>GB English localisation of Firefox</en>
    <es>GB English localisation of Firefox</es>
    <fi>GB English localisation of Firefox</fi>
-   <fr>GB English localisation of Firefox</fr>
+   <fr>Localisation anglaise_GB pour Firefox</fr>
    <hi>GB English localisation of Firefox</hi>
    <hr>GB English localisation of Firefox</hr>
    <hu>GB English localisation of Firefox</hu>
-   <it>GB English localisation of Firefox</it>
+   <it>Localizzazione in Inglese GB di Firefox</it>
    <ja>GB English localisation of Firefox</ja>
    <kk>GB English localisation of Firefox</kk>
    <lt>GB English localisation of Firefox</lt>
-   <nl>GB English localisation of Firefox</nl>
+   <nl>GB Engelse lokalisatie van Firefox</nl>
    <pl>GB English localisation of Firefox</pl>
-   <pt_BR>GB English localisation of Firefox</pt_BR>
-   <pt>GB English localisation of Firefox</pt>
+   <pt_BR>GB Inglês Localização para Firefox</pt_BR>
+   <pt>Inglês GB Localização para Firefox</pt>
    <ro>GB English localisation of Firefox</ro>
    <ru>GB English localisation of Firefox</ru>
    <sk>GB English localisation of Firefox</sk>

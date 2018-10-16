@@ -25,11 +25,11 @@ Chinese_Input
    <it>Chinese ibus</it>
    <ja>Chinese ibus</ja>
    <kk>Chinese ibus</kk>
-   <lt>Chinese ibus</lt>
+   <lt>Kinų ibus</lt>
    <nl>Chinese ibus</nl>
    <pl>Chinese ibus</pl>
-   <pt_BR>Chinese ibus</pt_BR>
-   <pt>Chinese ibus</pt>
+   <pt_BR>Chinês ibus</pt_BR>
+   <pt>Chinês ibus</pt>
    <ro>Chinese ibus</ro>
    <ru>Chinese ibus</ru>
    <sk>Chinese ibus</sk>

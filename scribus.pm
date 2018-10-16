@@ -18,18 +18,18 @@ Scribus
    <en>a desktop page layout program</en>
    <es>a desktop page layout program</es>
    <fi>a desktop page layout program</fi>
-   <fr>a desktop page layout program</fr>
+   <fr>Programme de mise en page</fr>
    <hi>a desktop page layout program</hi>
    <hr>a desktop page layout program</hr>
    <hu>a desktop page layout program</hu>
-   <it>a desktop page layout program</it>
+   <it>programma di impaginazione per il desktop</it>
    <ja>a desktop page layout program</ja>
    <kk>a desktop page layout program</kk>
    <lt>a desktop page layout program</lt>
-   <nl>a desktop page layout program</nl>
+   <nl>a desktop pagina layout programma</nl>
    <pl>a desktop page layout program</pl>
    <pt_BR>a desktop page layout program</pt_BR>
-   <pt>a desktop page layout program</pt>
+   <pt>Programa de paginação electrónica (composição de publicações)</pt>
    <ro>a desktop page layout program</ro>
    <ru>a desktop page layout program</ru>
    <sk>a desktop page layout program</sk>

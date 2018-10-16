@@ -22,14 +22,14 @@ Google Chrome
    <hi>Latest Google Chrome browser (stable)</hi>
    <hr>Latest Google Chrome browser (stable)</hr>
    <hu>Latest Google Chrome browser (stable)</hu>
-   <it>Latest Google Chrome browser (stable)</it>
+   <it>Ultima versione (stabile) del browser Google Chrome</it>
    <ja>Latest Google Chrome browser (stable)</ja>
    <kk>Latest Google Chrome browser (stable)</kk>
    <lt>Latest Google Chrome browser (stable)</lt>
-   <nl>Latest Google Chrome browser (stable)</nl>
+   <nl>Meest recente Chrome browser (stable)</nl>
    <pl>Latest Google Chrome browser (stable)</pl>
    <pt_BR>Latest Google Chrome browser (stable)</pt_BR>
-   <pt>Latest Google Chrome browser (stable)</pt>
+   <pt>Versão mais recente (estável) do navegador web Google Chrome</pt>
    <ro>Latest Google Chrome browser (stable)</ro>
    <ru>Latest Google Chrome browser (stable)</ru>
    <sk>Latest Google Chrome browser (stable)</sk>

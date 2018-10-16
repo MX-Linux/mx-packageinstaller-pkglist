@@ -18,18 +18,18 @@ Farsi_Firefox
    <en>Farsi localisation of Firefox</en>
    <es>Farsi localisation of Firefox</es>
    <fi>Farsi localisation of Firefox</fi>
-   <fr>Farsi localisation of Firefox</fr>
+   <fr>Localisation farsi pour Firefox</fr>
    <hi>Farsi localisation of Firefox</hi>
    <hr>Farsi localisation of Firefox</hr>
    <hu>Farsi localisation of Firefox</hu>
-   <it>Farsi localisation of Firefox</it>
+   <it>Localizzazione persiana di Firefox</it>
    <ja>Farsi localisation of Firefox</ja>
    <kk>Farsi localisation of Firefox</kk>
    <lt>Farsi localisation of Firefox</lt>
-   <nl>Farsi localisation of Firefox</nl>
+   <nl>Perzische lokalisatie van Firefox</nl>
    <pl>Farsi localisation of Firefox</pl>
-   <pt_BR>Farsi localisation of Firefox</pt_BR>
-   <pt>Farsi localisation of Firefox</pt>
+   <pt_BR>Persa Localização para Firefox</pt_BR>
+   <pt>Persa Localização para Firefox</pt>
    <ro>Farsi localisation of Firefox</ro>
    <ru>Farsi localisation of Firefox</ru>
    <sk>Farsi localisation of Firefox</sk>

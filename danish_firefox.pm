@@ -26,10 +26,10 @@ Danish_Firefox
    <ja>Danish localisation of Firefox</ja>
    <kk>Danish localisation of Firefox</kk>
    <lt>Danish localisation of Firefox</lt>
-   <nl>Danish localisation of Firefox</nl>
+   <nl>Deense lokalisatie van Firefox</nl>
    <pl>Danish localisation of Firefox</pl>
-   <pt_BR>Danish localisation of Firefox</pt_BR>
-   <pt>Danish localisation of Firefox</pt>
+   <pt_BR>Dinamarquês Localização para Firefox</pt_BR>
+   <pt>Dinamarquês Localização para Firefox</pt>
    <ro>Danish localisation of Firefox</ro>
    <ru>Danish localisation of Firefox</ru>
    <sk>Danish localisation of Firefox</sk>

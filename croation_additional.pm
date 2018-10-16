@@ -18,18 +18,18 @@ Croatian_Additional
    <en>Additional Croatian Meta-Package</en>
    <es>Additional Croatian Meta-Package</es>
    <fi>Additional Croatian Meta-Package</fi>
-   <fr>Additional Croatian Meta-Package</fr>
+   <fr>Méta-paquet additionnel croate</fr>
    <hi>Additional Croatian Meta-Package</hi>
    <hr>Additional Croatian Meta-Package</hr>
    <hu>Additional Croatian Meta-Package</hu>
    <it>Meta-pacchetto aggiuntivo della lingua croata</it>
    <ja>Additional Croatian Meta-Package</ja>
    <kk>Additional Croatian Meta-Package</kk>
-   <lt>Additional Croatian Meta-Package</lt>
-   <nl>Additional Croatian Meta-Package</nl>
+   <lt>Papildomas kroatų metapaketas</lt>
+   <nl>Toegevoegd Kroatisch Meta-Pakket</nl>
    <pl>Additional Croatian Meta-Package</pl>
-   <pt_BR>Additional Croatian Meta-Package</pt_BR>
-   <pt>Additional Croatian Meta-Package</pt>
+   <pt_BR>Croata Meta-Pacote Adicional</pt_BR>
+   <pt>Croata Meta-Pacote Adicional</pt>
    <ro>Additional Croatian Meta-Package</ro>
    <ru>Additional Croatian Meta-Package</ru>
    <sk>Additional Croatian Meta-Package</sk>
