@@ -18,18 +18,18 @@ Slovenian_Firefox
    <en>Slovenian localisation of Firefox</en>
    <es>Slovenian localisation of Firefox</es>
    <fi>Slovenian localisation of Firefox</fi>
-   <fr>Slovenian localisation of Firefox</fr>
+   <fr>Localisation slovène pour Firefox</fr>
    <hi>Slovenian localisation of Firefox</hi>
    <hr>Slovenian localisation of Firefox</hr>
    <hu>Slovenian localisation of Firefox</hu>
-   <it>Slovenian localisation of Firefox</it>
+   <it>Localizzazione slovena di Firefox</it>
    <ja>Slovenian localisation of Firefox</ja>
    <kk>Slovenian localisation of Firefox</kk>
    <lt>Slovenian localisation of Firefox</lt>
-   <nl>Slovenian localisation of Firefox</nl>
+   <nl>Sloveense lokalisatie van Firefox</nl>
    <pl>Slovenian localisation of Firefox</pl>
-   <pt_BR>Slovenian localisation of Firefox</pt_BR>
-   <pt>Slovenian localisation of Firefox</pt>
+   <pt_BR>Esloveno Localização para Firefox</pt_BR>
+   <pt>Esloveno Localização para Firefox</pt>
    <ro>Slovenian localisation of Firefox</ro>
    <ru>Slovenian localisation of Firefox</ru>
    <sk>Slovenian localisation of Firefox</sk>

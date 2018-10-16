@@ -26,10 +26,10 @@ Catalan_Firefox
    <ja>Catalan localisation of Firefox</ja>
    <kk>Catalan localisation of Firefox</kk>
    <lt>Catalan localisation of Firefox</lt>
-   <nl>Catalan localisation of Firefox</nl>
+   <nl>Catalaanse lokalisatie van Firefox</nl>
    <pl>Catalan localisation of Firefox</pl>
-   <pt_BR>Catalan localisation of Firefox</pt_BR>
-   <pt>Catalan localisation of Firefox</pt>
+   <pt_BR>Catalão Localização para Firefox</pt_BR>
+   <pt>Catalão Localização para Firefox</pt>
    <ro>Catalan localisation of Firefox</ro>
    <ru>Catalan localisation of Firefox</ru>
    <sk>Catalan localisation of Firefox</sk>

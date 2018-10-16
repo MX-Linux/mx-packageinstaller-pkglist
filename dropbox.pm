@@ -11,7 +11,7 @@ Dropbox
 
 <description>
    <am>Dropbox file sync utility</am>
-   <ca>Dropbox file sync utility</ca>
+   <ca>Utilitat de sincronització de fitxers amb Dropbox</ca>
    <cs>Dropbox file sync utility</cs>
    <de>Dropbox Dateisynchronisationsprogramm</de>
    <el>Dropbox file sync utility</el>
@@ -22,14 +22,14 @@ Dropbox
    <hi>Dropbox file sync utility</hi>
    <hr>Dropbox file sync utility</hr>
    <hu>Dropbox file sync utility</hu>
-   <it>Dropbox file sync utility</it>
+   <it>Utility di sincronizzazione dei file</it>
    <ja>Dropbox file sync utility</ja>
    <kk>Dropbox file sync utility</kk>
-   <lt>Dropbox file sync utility</lt>
-   <nl>Dropbox file sync utility</nl>
+   <lt>Dropbox failų sinchronizavimo paslaugų programa</lt>
+   <nl>Dropbox bestand synchronisatie gereedschap</nl>
    <pl>Dropbox file sync utility</pl>
    <pt_BR>Dropbox file sync utility</pt_BR>
-   <pt>Dropbox file sync utility</pt>
+   <pt>Utilitário de armazenagem e sincronização de ficheiros</pt>
    <ro>Dropbox file sync utility</ro>
    <ru>Dropbox file sync utility</ru>
    <sk>Dropbox file sync utility</sk>

@@ -26,10 +26,10 @@ Dutch_Thunderbird
    <ja>Dutch localisation of Thunderbird</ja>
    <kk>Dutch localisation of Thunderbird</kk>
    <lt>Dutch localisation of Thunderbird</lt>
-   <nl>Dutch localisation of Thunderbird</nl>
+   <nl>Nederlandse lokalisatie van Thunderbird</nl>
    <pl>Dutch localisation of Thunderbird</pl>
-   <pt_BR>Dutch localisation of Thunderbird</pt_BR>
-   <pt>Dutch localisation of Thunderbird</pt>
+   <pt_BR>Holandês Localização para Thunderbird</pt_BR>
+   <pt>Holandês Localização para Thunderbird</pt>
    <ro>Dutch localisation of Thunderbird</ro>
    <ru>Dutch localisation of Thunderbird</ru>
    <sk>Dutch localisation of Thunderbird</sk>

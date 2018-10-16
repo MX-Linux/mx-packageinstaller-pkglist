@@ -18,18 +18,18 @@ German_Firefox
    <en>German localisation of Firefox</en>
    <es>German localisation of Firefox</es>
    <fi>German localisation of Firefox</fi>
-   <fr>German localisation of Firefox</fr>
+   <fr>Localisation allemande pour Firefox</fr>
    <hi>German localisation of Firefox</hi>
    <hr>German localisation of Firefox</hr>
    <hu>German localisation of Firefox</hu>
-   <it>German localisation of Firefox</it>
+   <it>Localizzazione tedesca di Firefox</it>
    <ja>German localisation of Firefox</ja>
    <kk>German localisation of Firefox</kk>
    <lt>German localisation of Firefox</lt>
-   <nl>German localisation of Firefox</nl>
+   <nl>Duitse lokalisatie van Firefox</nl>
    <pl>German localisation of Firefox</pl>
-   <pt_BR>German localisation of Firefox</pt_BR>
-   <pt>German localisation of Firefox</pt>
+   <pt_BR>Alemão Localização para Firefox</pt_BR>
+   <pt>Alemão Localização para Firefox</pt>
    <ro>German localisation of Firefox</ro>
    <ru>German localisation of Firefox</ru>
    <sk>German localisation of Firefox</sk>

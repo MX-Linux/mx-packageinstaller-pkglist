@@ -18,18 +18,18 @@ Ukrainian_Thunderbird
    <en>Ukrainian localisation of Thunderbird</en>
    <es>Ukrainian localisation of Thunderbird</es>
    <fi>Ukrainian localisation of Thunderbird</fi>
-   <fr>Ukrainian localisation of Thunderbird</fr>
+   <fr>Localisation ukrainienne pour Thunderbird</fr>
    <hi>Ukrainian localisation of Thunderbird</hi>
    <hr>Ukrainian localisation of Thunderbird</hr>
    <hu>Ukrainian localisation of Thunderbird</hu>
-   <it>Ukrainian localisation of Thunderbird</it>
+   <it>Localizzazione ucraina di Thunderbird</it>
    <ja>Ukrainian localisation of Thunderbird</ja>
    <kk>Ukrainian localisation of Thunderbird</kk>
    <lt>Ukrainian localisation of Thunderbird</lt>
-   <nl>Ukrainian localisation of Thunderbird</nl>
+   <nl>Oekraïense lokalisatie van Thunderbird</nl>
    <pl>Ukrainian localisation of Thunderbird</pl>
-   <pt_BR>Ukrainian localisation of Thunderbird</pt_BR>
-   <pt>Ukrainian localisation of Thunderbird</pt>
+   <pt_BR>Ucraniano Localização para Thunderbird</pt_BR>
+   <pt>Ucraniano Localização para Thunderbird</pt>
    <ro>Ukrainian localisation of Thunderbird</ro>
    <ru>Ukrainian localisation of Thunderbird</ru>
    <sk>Ukrainian localisation of Thunderbird</sk>

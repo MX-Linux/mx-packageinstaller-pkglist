@@ -26,10 +26,10 @@ Catalan_Thunderbird
    <ja>Catalan localisation of Thunderbird</ja>
    <kk>Catalan localisation of Thunderbird</kk>
    <lt>Catalan localisation of Thunderbird</lt>
-   <nl>Catalan localisation of Thunderbird</nl>
+   <nl>Catalaanse lokalisatie van Thunderbird</nl>
    <pl>Catalan localisation of Thunderbird</pl>
-   <pt_BR>Catalan localisation of Thunderbird</pt_BR>
-   <pt>Catalan localisation of Thunderbird</pt>
+   <pt_BR>Catalão Localização para Thunderbird</pt_BR>
+   <pt>Catalão Localização para Thunderbird</pt>
    <ro>Catalan localisation of Thunderbird</ro>
    <ru>Catalan localisation of Thunderbird</ru>
    <sk>Catalan localisation of Thunderbird</sk>

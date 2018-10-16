@@ -18,18 +18,18 @@ Russian_Firefox
    <en>Russian localisation of Firefox</en>
    <es>Russian localisation of Firefox</es>
    <fi>Russian localisation of Firefox</fi>
-   <fr>Russian localisation of Firefox</fr>
+   <fr>Localisation russe pour Firefox</fr>
    <hi>Russian localisation of Firefox</hi>
    <hr>Russian localisation of Firefox</hr>
    <hu>Russian localisation of Firefox</hu>
-   <it>Russian localisation of Firefox</it>
+   <it>Localizzazione russa di Firefox</it>
    <ja>Russian localisation of Firefox</ja>
    <kk>Russian localisation of Firefox</kk>
    <lt>Russian localisation of Firefox</lt>
-   <nl>Russian localisation of Firefox</nl>
+   <nl>Russische lokalisatie van Firefox</nl>
    <pl>Russian localisation of Firefox</pl>
-   <pt_BR>Russian localisation of Firefox</pt_BR>
-   <pt>Russian localisation of Firefox</pt>
+   <pt_BR>Russo Localização para Firefox</pt_BR>
+   <pt>Russo Localização para Firefox</pt>
    <ro>Russian localisation of Firefox</ro>
    <ru>Russian localisation of Firefox</ru>
    <sk>Russian localisation of Firefox</sk>

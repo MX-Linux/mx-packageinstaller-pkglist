@@ -26,10 +26,10 @@ Chinese_CN_Firefox
    <ja>Chinese_simplified localisation of Firefox</ja>
    <kk>Chinese_simplified localisation of Firefox</kk>
    <lt>Chinese_simplified localisation of Firefox</lt>
-   <nl>Chinese_simplified localisation of Firefox</nl>
+   <nl>Vereenvoudigd Chinese lokalisatie van Firefox</nl>
    <pl>Chinese_simplified localisation of Firefox</pl>
-   <pt_BR>Chinese_simplified localisation of Firefox</pt_BR>
-   <pt>Chinese_simplified localisation of Firefox</pt>
+   <pt_BR>Chinês_simplificado Localização para Firefox</pt_BR>
+   <pt>Chinês_simplificado Localização para Firefox</pt>
    <ro>Chinese_simplified localisation of Firefox</ro>
    <ru>Chinese_simplified localisation of Firefox</ru>
    <sk>Chinese_simplified localisation of Firefox</sk>

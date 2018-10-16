@@ -16,7 +16,7 @@ Abiword
    <de>Eine voll funktionsfähige und effiziente Textverarbeitung</de>
    <el>lightweight word processor</el>
    <en>lightweight word processor</en>
-   <es>lightweight word processor</es>
+   <es>Procesador de palabras liviano</es>
    <fi>lightweight word processor</fi>
    <fr>Traitement de texte léger</fr>
    <hi>lightweight word processor</hi>
@@ -28,8 +28,8 @@ Abiword
    <lt>lightweight word processor</lt>
    <nl>lichtgewicht word processor</nl>
    <pl>lightweight word processor</pl>
-   <pt_BR>lightweight word processor</pt_BR>
-   <pt>lightweight word processor</pt>
+   <pt_BR>Processador de texto simples e ligeiro</pt_BR>
+   <pt>Processador de texto simples e ligeiro</pt>
    <ro>lightweight word processor</ro>
    <ru>lightweight word processor</ru>
    <sk>lightweight word processor</sk>

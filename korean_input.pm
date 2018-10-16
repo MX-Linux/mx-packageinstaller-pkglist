@@ -11,25 +11,25 @@ Korean_Input
 
 <description>
    <am>Korean Fonts and ibus</am>
-   <ca>Korean Fonts and ibus</ca>
+   <ca>Tipus de lletra i ibus per Coreà</ca>
    <cs>Korean Fonts and ibus</cs>
    <de>Koreanische Schriftzeichen und IBus</de>
    <el>Korean Fonts and ibus</el>
    <en>Korean Fonts and ibus</en>
    <es>Korean Fonts and ibus</es>
    <fi>Korean Fonts and ibus</fi>
-   <fr>Korean Fonts and ibus</fr>
+   <fr>Polices coréennes et ibus</fr>
    <hi>Korean Fonts and ibus</hi>
    <hr>Korean Fonts and ibus</hr>
    <hu>Korean Fonts and ibus</hu>
-   <it>Korean Fonts and ibus</it>
+   <it>Font coreani e ibus</it>
    <ja>Korean Fonts and ibus</ja>
    <kk>Korean Fonts and ibus</kk>
    <lt>Korean Fonts and ibus</lt>
-   <nl>Korean Fonts and ibus</nl>
+   <nl>Koreaanse Fonts en ibus</nl>
    <pl>Korean Fonts and ibus</pl>
-   <pt_BR>Korean Fonts and ibus</pt_BR>
-   <pt>Korean Fonts and ibus</pt>
+   <pt_BR>Coreano Fontes e ibus</pt_BR>
+   <pt>Coreano Fontes e ibus</pt>
    <ro>Korean Fonts and ibus</ro>
    <ru>Korean Fonts and ibus</ru>
    <sk>Korean Fonts and ibus</sk>

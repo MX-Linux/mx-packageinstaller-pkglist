@@ -18,18 +18,18 @@ qBittorrent
    <en>a QT4 feature rich but lightweight client that is very similar to uTorrent</en>
    <es>a QT4 feature rich but lightweight client that is very similar to uTorrent</es>
    <fi>a QT4 feature rich but lightweight client that is very similar to uTorrent</fi>
-   <fr>a QT4 feature rich but lightweight client that is very similar to uTorrent</fr>
+   <fr>Un client léger et complet basé sur QT4 et très similaire à uTorrent</fr>
    <hi>a QT4 feature rich but lightweight client that is very similar to uTorrent</hi>
    <hr>a QT4 feature rich but lightweight client that is very similar to uTorrent</hr>
    <hu>a QT4 feature rich but lightweight client that is very similar to uTorrent</hu>
-   <it>a QT4 feature rich but lightweight client that is very similar to uTorrent</it>
+   <it>client molto simile a uTorrent, ricco di funzionalità ma leggero, con interfaccia in QT4</it>
    <ja>a QT4 feature rich but lightweight client that is very similar to uTorrent</ja>
    <kk>a QT4 feature rich but lightweight client that is very similar to uTorrent</kk>
    <lt>a QT4 feature rich but lightweight client that is very similar to uTorrent</lt>
-   <nl>a QT4 feature rich but lightweight client that is very similar to uTorrent</nl>
+   <nl>een QT4 veelzijdig maar lichtgewicht programma die veel gelijkenis vertoont met uTorrent</nl>
    <pl>a QT4 feature rich but lightweight client that is very similar to uTorrent</pl>
    <pt_BR>a QT4 feature rich but lightweight client that is very similar to uTorrent</pt_BR>
-   <pt>a QT4 feature rich but lightweight client that is very similar to uTorrent</pt>
+   <pt>Cliente de torrent para a tecnologia QT4, pleno de funcionalidades mas ligeiro, muito semelhante ao uTorrent</pt>
    <ro>a QT4 feature rich but lightweight client that is very similar to uTorrent</ro>
    <ru>a QT4 feature rich but lightweight client that is very similar to uTorrent</ru>
    <sk>a QT4 feature rich but lightweight client that is very similar to uTorrent</sk>

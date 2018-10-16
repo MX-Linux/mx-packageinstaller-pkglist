@@ -18,15 +18,15 @@ SuperTux
    <en>Mario style platform game w/ Tux</en>
    <es>Mario style platform game w/ Tux</es>
    <fi>Mario style platform game w/ Tux</fi>
-   <fr>Jeu de plate-formes de style Mario, mais avec Tux</fr>
+   <fr>Jeu de plate-formes de style Mario, mais avec Tux comme héros</fr>
    <hi>Mario style platform game w/ Tux</hi>
    <hr>Mario style platform game w/ Tux</hr>
    <hu>Mario style platform game w/ Tux</hu>
-   <it>Mario style platform game w/ Tux</it>
+   <it>Piattaforma di gioco in stile SuperMario con la presenza del pinguino Tux</it>
    <ja>Mario style platform game w/ Tux</ja>
    <kk>Mario style platform game w/ Tux</kk>
    <lt>Mario style platform game w/ Tux</lt>
-   <nl>Mario style platform game w/ Tux</nl>
+   <nl>Mario stijl platform spel met Tux</nl>
    <pl>Mario style platform game w/ Tux</pl>
    <pt_BR>Mario style platform game w/ Tux</pt_BR>
    <pt>Mario style platform game w/ Tux</pt>

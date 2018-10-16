@@ -26,10 +26,10 @@ Danish_Thunderbird
    <ja>Danish localisation of Thunderbird</ja>
    <kk>Danish localisation of Thunderbird</kk>
    <lt>Danish localisation of Thunderbird</lt>
-   <nl>Danish localisation of Thunderbird</nl>
+   <nl>Deense lokalisatie van Thunderbird</nl>
    <pl>Danish localisation of Thunderbird</pl>
-   <pt_BR>Danish localisation of Thunderbird</pt_BR>
-   <pt>Danish localisation of Thunderbird</pt>
+   <pt_BR>Dinamarquês Localização para Thunderbird</pt_BR>
+   <pt>Dinamarquês Localização para Thunderbird</pt>
    <ro>Danish localisation of Thunderbird</ro>
    <ru>Danish localisation of Thunderbird</ru>
    <sk>Danish localisation of Thunderbird</sk>

@@ -18,18 +18,18 @@ Portugese(BR)_Firefox
    <en>Portuguese(BR) localisation of Firefox</en>
    <es>Portuguese(BR) localisation of Firefox</es>
    <fi>Portuguese(BR) localisation of Firefox</fi>
-   <fr>Portuguese(BR) localisation of Firefox</fr>
+   <fr>Localisation portugaise (BR) pour Firefox</fr>
    <hi>Portuguese(BR) localisation of Firefox</hi>
    <hr>Portuguese(BR) localisation of Firefox</hr>
    <hu>Portuguese(BR) localisation of Firefox</hu>
-   <it>Portuguese(BR) localisation of Firefox</it>
+   <it>Localizzazione portoghese(BR) di Firefox</it>
    <ja>Portuguese(BR) localisation of Firefox</ja>
    <kk>Portuguese(BR) localisation of Firefox</kk>
    <lt>Portuguese(BR) localisation of Firefox</lt>
-   <nl>Portuguese(BR) localisation of Firefox</nl>
+   <nl>Portugese(BR) lokalisatie van Firefox</nl>
    <pl>Portuguese(BR) localisation of Firefox</pl>
-   <pt_BR>Portuguese(BR) localisation of Firefox</pt_BR>
-   <pt>Portuguese(BR) localisation of Firefox</pt>
+   <pt_BR>Português(BR) Localização para Firefox</pt_BR>
+   <pt>Português(BR) Localização para Firefox</pt>
    <ro>Portuguese(BR) localisation of Firefox</ro>
    <ru>Portuguese(BR) localisation of Firefox</ru>
    <sk>Portuguese(BR) localisation of Firefox</sk>

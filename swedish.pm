@@ -18,18 +18,18 @@ Swedish
    <en>Swedish Language Meta-Package</en>
    <es>Swedish Language Meta-Package</es>
    <fi>Swedish Language Meta-Package</fi>
-   <fr>Swedish Language Meta-Package</fr>
+   <fr>Méta-paquet langue pour suédoise</fr>
    <hi>Swedish Language Meta-Package</hi>
    <hr>Swedish Language Meta-Package</hr>
    <hu>Swedish Language Meta-Package</hu>
-   <it>Swedish Language Meta-Package</it>
+   <it>Meta-pacchetto della lingua svedese</it>
    <ja>Swedish Language Meta-Package</ja>
    <kk>Swedish Language Meta-Package</kk>
    <lt>Swedish Language Meta-Package</lt>
-   <nl>Swedish Language Meta-Package</nl>
+   <nl>Zweedse Taal Meta-Pakket</nl>
    <pl>Swedish Language Meta-Package</pl>
-   <pt_BR>Swedish Language Meta-Package</pt_BR>
-   <pt>Swedish Language Meta-Package</pt>
+   <pt_BR>Sueco Meta-Pacote de Idioma</pt_BR>
+   <pt>Sueco Meta-Pacote de Idioma</pt>
    <ro>Swedish Language Meta-Package</ro>
    <ru>Swedish Language Meta-Package</ru>
    <sk>Swedish Language Meta-Package</sk>

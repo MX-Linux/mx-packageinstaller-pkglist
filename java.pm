@@ -11,7 +11,7 @@ Java
 
 <description>
    <am>Java 8- installs openjdk-8 and icedtea</am>
-   <ca>Java 8- installs openjdk-8 and icedtea</ca>
+   <ca>Instal·la Java 8- openjdk-8 i icedtea</ca>
    <cs>Java 8- installs openjdk-8 and icedtea</cs>
    <de>Java 8: Openjdk-8 und Icedtea wird installiert</de>
    <el>Java 8- installs openjdk-8 and icedtea</el>
@@ -22,14 +22,14 @@ Java
    <hi>Java 8- installs openjdk-8 and icedtea</hi>
    <hr>Java 8- installs openjdk-8 and icedtea</hr>
    <hu>Java 8- installs openjdk-8 and icedtea</hu>
-   <it>Java 8- installs openjdk-8 and icedtea</it>
+   <it>Installa java-8 openjdk-8 e icedtea</it>
    <ja>Java 8- installs openjdk-8 and icedtea</ja>
    <kk>Java 8- installs openjdk-8 and icedtea</kk>
    <lt>Java 8- installs openjdk-8 and icedtea</lt>
-   <nl>Java 8- installs openjdk-8 and icedtea</nl>
+   <nl>Java 8- installeert openjdk-8 en icedtea</nl>
    <pl>Java 8- installs openjdk-8 and icedtea</pl>
    <pt_BR>Java 8- installs openjdk-8 and icedtea</pt_BR>
-   <pt>Java 8- installs openjdk-8 and icedtea</pt>
+   <pt>Java 8 - instala o openjdk-8 e o icedtea</pt>
    <ro>Java 8- installs openjdk-8 and icedtea</ro>
    <ru>Java 8- installs openjdk-8 and icedtea</ru>
    <sk>Java 8- installs openjdk-8 and icedtea</sk>

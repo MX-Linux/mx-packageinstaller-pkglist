@@ -18,18 +18,18 @@ Wine
    <en>run Windows applications without a copy of Microsoft Windows</en>
    <es>run Windows applications without a copy of Microsoft Windows</es>
    <fi>run Windows applications without a copy of Microsoft Windows</fi>
-   <fr>lancer des applications Windows sans avoir besoin d'installer Windows</fr>
+   <fr>Lancer des applications Windows sans avoir besoin d'installer Windows</fr>
    <hi>run Windows applications without a copy of Microsoft Windows</hi>
    <hr>run Windows applications without a copy of Microsoft Windows</hr>
    <hu>run Windows applications without a copy of Microsoft Windows</hu>
-   <it>run Windows applications without a copy of Microsoft Windows</it>
+   <it>esegue applicazioni Windows senza la presenza del sistema operativo Microsoft Windows</it>
    <ja>run Windows applications without a copy of Microsoft Windows</ja>
    <kk>run Windows applications without a copy of Microsoft Windows</kk>
    <lt>run Windows applications without a copy of Microsoft Windows</lt>
-   <nl>run Windows applications without a copy of Microsoft Windows</nl>
+   <nl>Windowstoepassingen uitvoeren zonder een exemplaar van Microsoft Windows</nl>
    <pl>run Windows applications without a copy of Microsoft Windows</pl>
-   <pt_BR>run Windows applications without a copy of Microsoft Windows</pt_BR>
-   <pt>run Windows applications without a copy of Microsoft Windows</pt>
+   <pt_BR>Executar aplicações para Windows sem precisar do Microsoft Windows</pt_BR>
+   <pt>Executar aplicações para Windows sem precisar do Microsoft Windows</pt>
    <ro>run Windows applications without a copy of Microsoft Windows</ro>
    <ru>run Windows applications without a copy of Microsoft Windows</ru>
    <sk>run Windows applications without a copy of Microsoft Windows</sk>

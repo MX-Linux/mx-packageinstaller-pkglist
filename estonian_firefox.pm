@@ -18,18 +18,18 @@ Estonian_Firefox
    <en>Estonian localisation of Firefox</en>
    <es>Estonian localisation of Firefox</es>
    <fi>Estonian localisation of Firefox</fi>
-   <fr>Estonian localisation of Firefox</fr>
+   <fr>Localisation estonienne pour Firefox</fr>
    <hi>Estonian localisation of Firefox</hi>
    <hr>Estonian localisation of Firefox</hr>
    <hu>Estonian localisation of Firefox</hu>
-   <it>Estonian localisation of Firefox</it>
+   <it>Localizzazione estone di Firefox</it>
    <ja>Estonian localisation of Firefox</ja>
    <kk>Estonian localisation of Firefox</kk>
    <lt>Estonian localisation of Firefox</lt>
-   <nl>Estonian localisation of Firefox</nl>
+   <nl>Estische lokalisatie van Firefox</nl>
    <pl>Estonian localisation of Firefox</pl>
-   <pt_BR>Estonian localisation of Firefox</pt_BR>
-   <pt>Estonian localisation of Firefox</pt>
+   <pt_BR>Estónio Localização para Firefox</pt_BR>
+   <pt>Estónio Localização para Firefox</pt>
    <ro>Estonian localisation of Firefox</ro>
    <ru>Estonian localisation of Firefox</ru>
    <sk>Estonian localisation of Firefox</sk>

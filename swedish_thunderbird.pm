@@ -18,18 +18,18 @@ Swedish_Thunderbird
    <en>Swedish localisation of Thunderbird</en>
    <es>Swedish localisation of Thunderbird</es>
    <fi>Swedish localisation of Thunderbird</fi>
-   <fr>Swedish localisation of Thunderbird</fr>
+   <fr>Localisation suédoise pour Thunderbird</fr>
    <hi>Swedish localisation of Thunderbird</hi>
    <hr>Swedish localisation of Thunderbird</hr>
    <hu>Swedish localisation of Thunderbird</hu>
-   <it>Swedish localisation of Thunderbird</it>
+   <it>Localizzazione svedese di Thunderbird</it>
    <ja>Swedish localisation of Thunderbird</ja>
    <kk>Swedish localisation of Thunderbird</kk>
    <lt>Swedish localisation of Thunderbird</lt>
-   <nl>Swedish localisation of Thunderbird</nl>
+   <nl>Zweedse lokalisatie van Thunderbird</nl>
    <pl>Swedish localisation of Thunderbird</pl>
-   <pt_BR>Swedish localisation of Thunderbird</pt_BR>
-   <pt>Swedish localisation of Thunderbird</pt>
+   <pt_BR>Sueco Localização para Thunderbird</pt_BR>
+   <pt>Sueco Localização para Thunderbird</pt>
    <ro>Swedish localisation of Thunderbird</ro>
    <ru>Swedish localisation of Thunderbird</ru>
    <sk>Swedish localisation of Thunderbird</sk>

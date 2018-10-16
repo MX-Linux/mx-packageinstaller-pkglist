@@ -18,18 +18,18 @@ ROXFiler
    <en>a fast and powerful graphical file manager</en>
    <es>a fast and powerful graphical file manager</es>
    <fi>a fast and powerful graphical file manager</fi>
-   <fr>a fast and powerful graphical file manager</fr>
+   <fr>Un gestionnaire de fichiers rapide et puissant</fr>
    <hi>a fast and powerful graphical file manager</hi>
    <hr>a fast and powerful graphical file manager</hr>
    <hu>a fast and powerful graphical file manager</hu>
-   <it>a fast and powerful graphical file manager</it>
+   <it>semplice e veloce file manager grafico</it>
    <ja>a fast and powerful graphical file manager</ja>
    <kk>a fast and powerful graphical file manager</kk>
    <lt>a fast and powerful graphical file manager</lt>
-   <nl>a fast and powerful graphical file manager</nl>
+   <nl>een snelle en krachtige grafische bestandsmanager</nl>
    <pl>a fast and powerful graphical file manager</pl>
    <pt_BR>a fast and powerful graphical file manager</pt_BR>
-   <pt>a fast and powerful graphical file manager</pt>
+   <pt>Gestor de ficheiros gráfico, rápido e poderoso</pt>
    <ro>a fast and powerful graphical file manager</ro>
    <ru>a fast and powerful graphical file manager</ru>
    <sk>a fast and powerful graphical file manager</sk>

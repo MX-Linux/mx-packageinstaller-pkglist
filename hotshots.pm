@@ -12,25 +12,25 @@ Hotshots
 
 <description>
    <am>a Qt-4 based advanced screencapture app</am>
-   <ca>a Qt-4 based advanced screencapture app</ca>
+   <ca>aplicació avançada de captura de pantalla basad en Qt-4</ca>
    <cs>a Qt-4 based advanced screencapture app</cs>
    <de>Eine Qt-4-basierte erweiterte Screencapture-Anwendung</de>
    <el>a Qt-4 based advanced screencapture app</el>
    <en>a Qt-4 based advanced screencapture app</en>
    <es>a Qt-4 based advanced screencapture app</es>
    <fi>a Qt-4 based advanced screencapture app</fi>
-   <fr>a Qt-4 based advanced screencapture app</fr>
+   <fr>Application de capture d'écran Qt-4</fr>
    <hi>a Qt-4 based advanced screencapture app</hi>
    <hr>a Qt-4 based advanced screencapture app</hr>
    <hu>a Qt-4 based advanced screencapture app</hu>
-   <it>a Qt-4 based advanced screencapture app</it>
+   <it>app. avanzata, basata sulle librerie Qt-4, per la cattura dello schermo</it>
    <ja>a Qt-4 based advanced screencapture app</ja>
    <kk>a Qt-4 based advanced screencapture app</kk>
    <lt>a Qt-4 based advanced screencapture app</lt>
-   <nl>a Qt-4 based advanced screencapture app</nl>
+   <nl>een geavanceerde screencapture-app op basis van Qt-4</nl>
    <pl>a Qt-4 based advanced screencapture app</pl>
    <pt_BR>a Qt-4 based advanced screencapture app</pt_BR>
-   <pt>a Qt-4 based advanced screencapture app</pt>
+   <pt>Aplicação avançada de captura de ecrã baseada em Qt-4</pt>
    <ro>a Qt-4 based advanced screencapture app</ro>
    <ru>a Qt-4 based advanced screencapture app</ru>
    <sk>a Qt-4 based advanced screencapture app</sk>

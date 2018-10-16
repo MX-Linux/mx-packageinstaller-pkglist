@@ -22,14 +22,14 @@ Thunderbird
    <hi>Latest Thunderbird email client from MX Community</hi>
    <hr>Latest Thunderbird email client from MX Community</hr>
    <hu>Latest Thunderbird email client from MX Community</hu>
-   <it>Latest Thunderbird email client from MX Community</it>
+   <it>l'ultima versione di client email Thunderbird dalla MX Community</it>
    <ja>Latest Thunderbird email client from MX Community</ja>
    <kk>Latest Thunderbird email client from MX Community</kk>
    <lt>Latest Thunderbird email client from MX Community</lt>
-   <nl>Latest Thunderbird email client from MX Community</nl>
+   <nl>Meest recente Thunderbird email programma vanuit MX Community</nl>
    <pl>Latest Thunderbird email client from MX Community</pl>
    <pt_BR>Latest Thunderbird email client from MX Community</pt_BR>
-   <pt>Latest Thunderbird email client from MX Community</pt>
+   <pt>Cliente de correio electrónico Thunderbird mais recente da comunidade MX</pt>
    <ro>Latest Thunderbird email client from MX Community</ro>
    <ru>Latest Thunderbird email client from MX Community</ru>
    <sk>Latest Thunderbird email client from MX Community</sk>

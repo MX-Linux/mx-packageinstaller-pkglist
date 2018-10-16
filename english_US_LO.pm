@@ -18,18 +18,18 @@ US_English_Libreoffice
    <en>US English Help for LibreOffice</en>
    <es>US English Help for LibreOffice</es>
    <fi>US English Help for LibreOffice</fi>
-   <fr>US English Help for LibreOffice</fr>
+   <fr>Aide anglais_US pour LibreOffice</fr>
    <hi>US English Help for LibreOffice</hi>
    <hr>US English Help for LibreOffice</hr>
    <hu>US English Help for LibreOffice</hu>
-   <it>US English Help for LibreOffice</it>
+   <it>Guida in Inglese US per LibreOffice</it>
    <ja>US English Help for LibreOffice</ja>
    <kk>US English Help for LibreOffice</kk>
    <lt>US English Help for LibreOffice</lt>
-   <nl>US English Help for LibreOffice</nl>
+   <nl>US Engelse Hulp voor LibreOffice</nl>
    <pl>US English Help for LibreOffice</pl>
-   <pt_BR>US English Help for LibreOffice</pt_BR>
-   <pt>US English Help for LibreOffice</pt>
+   <pt_BR>US Inglês Help para LibreOffice</pt_BR>
+   <pt>Inglês US Help para LibreOffice</pt>
    <ro>US English Help for LibreOffice</ro>
    <ru>US English Help for LibreOffice</ru>
    <sk>US English Help for LibreOffice</sk>

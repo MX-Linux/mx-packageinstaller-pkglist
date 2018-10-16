@@ -26,10 +26,10 @@ Catalan_Libreoffice
    <ja>Catalan LibreOffice Language Meta-Package</ja>
    <kk>Catalan LibreOffice Language Meta-Package</kk>
    <lt>Catalan LibreOffice Language Meta-Package</lt>
-   <nl>Catalan LibreOffice Language Meta-Package</nl>
+   <nl>Catalaanse LibreOffice Taal Meta-Pakket</nl>
    <pl>Catalan LibreOffice Language Meta-Package</pl>
-   <pt_BR>Catalan LibreOffice Language Meta-Package</pt_BR>
-   <pt>Catalan LibreOffice Language Meta-Package</pt>
+   <pt_BR>Catalão Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Catalão Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Catalan LibreOffice Language Meta-Package</ro>
    <ru>Catalan LibreOffice Language Meta-Package</ru>
    <sk>Catalan LibreOffice Language Meta-Package</sk>

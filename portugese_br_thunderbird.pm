@@ -18,18 +18,18 @@ Portugese(BR)_Thunderbird
    <en>Portuguese(BR) localisation of Thunderbird</en>
    <es>Portuguese(BR) localisation of Thunderbird</es>
    <fi>Portuguese(BR) localisation of Thunderbird</fi>
-   <fr>Portuguese(BR) localisation of Thunderbird</fr>
+   <fr>Localisation portugaise (BR) pour Thunderbird</fr>
    <hi>Portuguese(BR) localisation of Thunderbird</hi>
    <hr>Portuguese(BR) localisation of Thunderbird</hr>
    <hu>Portuguese(BR) localisation of Thunderbird</hu>
-   <it>Portuguese(BR) localisation of Thunderbird</it>
+   <it>Localizzazione portoghese(BR) di Thunderbird</it>
    <ja>Portuguese(BR) localisation of Thunderbird</ja>
    <kk>Portuguese(BR) localisation of Thunderbird</kk>
    <lt>Portuguese(BR) localisation of Thunderbird</lt>
-   <nl>Portuguese(BR) localisation of Thunderbird</nl>
+   <nl>Portugese(BR) lokalisatie van Thunderbird</nl>
    <pl>Portuguese(BR) localisation of Thunderbird</pl>
-   <pt_BR>Portuguese(BR) localisation of Thunderbird</pt_BR>
-   <pt>Portuguese(BR) localisation of Thunderbird</pt>
+   <pt_BR>Português(BR) Localização para Thunderbird</pt_BR>
+   <pt>Português(BR) Localização para Thunderbird</pt>
    <ro>Portuguese(BR) localisation of Thunderbird</ro>
    <ru>Portuguese(BR) localisation of Thunderbird</ru>
    <sk>Portuguese(BR) localisation of Thunderbird</sk>

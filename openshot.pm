@@ -18,18 +18,18 @@ Openshot
    <en>non-linear video editor</en>
    <es>non-linear video editor</es>
    <fi>non-linear video editor</fi>
-   <fr>non-linear video editor</fr>
+   <fr>Éditeur vidéo non-linéaire</fr>
    <hi>non-linear video editor</hi>
    <hr>non-linear video editor</hr>
    <hu>non-linear video editor</hu>
-   <it>non-linear video editor</it>
+   <it>editor video non lineare</it>
    <ja>non-linear video editor</ja>
    <kk>non-linear video editor</kk>
    <lt>non-linear video editor</lt>
-   <nl>non-linear video editor</nl>
+   <nl>niet-lineaire video-editor</nl>
    <pl>non-linear video editor</pl>
    <pt_BR>non-linear video editor</pt_BR>
-   <pt>non-linear video editor</pt>
+   <pt>Editor de vídeo não-linear</pt>
    <ro>non-linear video editor</ro>
    <ru>non-linear video editor</ru>
    <sk>non-linear video editor</sk>

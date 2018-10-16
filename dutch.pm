@@ -26,10 +26,10 @@ Dutch
    <ja>Dutch Language Meta-Package</ja>
    <kk>Dutch Language Meta-Package</kk>
    <lt>Dutch Language Meta-Package</lt>
-   <nl>Dutch Language Meta-Package</nl>
+   <nl>Nederlandse Taal Meta-Pakket</nl>
    <pl>Dutch Language Meta-Package</pl>
-   <pt_BR>Dutch Language Meta-Package</pt_BR>
-   <pt>Dutch Language Meta-Package</pt>
+   <pt_BR>Holandês Meta-Pacote de Idioma</pt_BR>
+   <pt>Holandês Meta-Pacote de Idioma</pt>
    <ro>Dutch Language Meta-Package</ro>
    <ru>Dutch Language Meta-Package</ru>
    <sk>Dutch Language Meta-Package</sk>

@@ -18,18 +18,18 @@ Russian_Thunderbird
    <en>Russian localisation of Thunderbird</en>
    <es>Russian localisation of Thunderbird</es>
    <fi>Russian localisation of Thunderbird</fi>
-   <fr>Russian localisation of Thunderbird</fr>
+   <fr>Localisation russe pour Thunderbird</fr>
    <hi>Russian localisation of Thunderbird</hi>
    <hr>Russian localisation of Thunderbird</hr>
    <hu>Russian localisation of Thunderbird</hu>
-   <it>Russian localisation of Thunderbird</it>
+   <it>Localizzazione russa di Thunderbird</it>
    <ja>Russian localisation of Thunderbird</ja>
    <kk>Russian localisation of Thunderbird</kk>
    <lt>Russian localisation of Thunderbird</lt>
-   <nl>Russian localisation of Thunderbird</nl>
+   <nl>Russische lokalisatie van Thunderbird</nl>
    <pl>Russian localisation of Thunderbird</pl>
-   <pt_BR>Russian localisation of Thunderbird</pt_BR>
-   <pt>Russian localisation of Thunderbird</pt>
+   <pt_BR>Russo Localização para Thunderbird</pt_BR>
+   <pt>Russo Localização para Thunderbird</pt>
    <ro>Russian localisation of Thunderbird</ro>
    <ru>Russian localisation of Thunderbird</ru>
    <sk>Russian localisation of Thunderbird</sk>

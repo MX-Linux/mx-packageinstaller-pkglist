@@ -11,25 +11,25 @@ GIMP Full
 
 <description>
    <am>advanced picture editor- installs GIMP, help and plugins</am>
-   <ca>advanced picture editor- installs GIMP, help and plugins</ca>
+   <ca>editor gràfic avançat; instal·la GIMP, l'ajuda i connectors</ca>
    <cs>advanced picture editor- installs GIMP, help and plugins</cs>
    <de>Erweiterter Bildeditor - installiert GIMP, Hilfe und Plugins</de>
    <el>advanced picture editor- installs GIMP, help and plugins</el>
    <en>advanced picture editor- installs GIMP, help and plugins</en>
    <es>advanced picture editor- installs GIMP, help and plugins</es>
    <fi>advanced picture editor- installs GIMP, help and plugins</fi>
-   <fr>advanced picture editor- installs GIMP, help and plugins</fr>
+   <fr>Éditeur d'image avancé - installe Gimp, l'aide et les plugins</fr>
    <hi>advanced picture editor- installs GIMP, help and plugins</hi>
    <hr>advanced picture editor- installs GIMP, help and plugins</hr>
    <hu>advanced picture editor- installs GIMP, help and plugins</hu>
-   <it>advanced picture editor- installs GIMP, help and plugins</it>
+   <it>Editor di immagini avanzato - installa GIMP, guida e plugins</it>
    <ja>advanced picture editor- installs GIMP, help and plugins</ja>
    <kk>advanced picture editor- installs GIMP, help and plugins</kk>
-   <lt>advanced picture editor- installs GIMP, help and plugins</lt>
-   <nl>advanced picture editor- installs GIMP, help and plugins</nl>
+   <lt>išplėstinis paveikslų redaktorius - įdiegia GIMP, žinyną ir įskiepius</lt>
+   <nl>geavanceerde foto-editor - installeert GIMP, help en plugins</nl>
    <pl>advanced picture editor- installs GIMP, help and plugins</pl>
    <pt_BR>advanced picture editor- installs GIMP, help and plugins</pt_BR>
-   <pt>advanced picture editor- installs GIMP, help and plugins</pt>
+   <pt>editor de imagem avançado - instala o GIMP, ajuda e suplementos (plugins)</pt>
    <ro>advanced picture editor- installs GIMP, help and plugins</ro>
    <ru>advanced picture editor- installs GIMP, help and plugins</ru>
    <sk>advanced picture editor- installs GIMP, help and plugins</sk>

@@ -26,10 +26,10 @@ Croatian_Firefox
    <ja>Croatian localisation of Firefox</ja>
    <kk>Croatian localisation of Firefox</kk>
    <lt>Croatian localisation of Firefox</lt>
-   <nl>Croatian localisation of Firefox</nl>
+   <nl>Kroatische lokalisatie van Firefox</nl>
    <pl>Croatian localisation of Firefox</pl>
-   <pt_BR>Croatian localisation of Firefox</pt_BR>
-   <pt>Croatian localisation of Firefox</pt>
+   <pt_BR>Croata Localização para Firefox</pt_BR>
+   <pt>Croata Localização para Firefox</pt>
    <ro>Croatian localisation of Firefox</ro>
    <ru>Croatian localisation of Firefox</ru>
    <sk>Croatian localisation of Firefox</sk>

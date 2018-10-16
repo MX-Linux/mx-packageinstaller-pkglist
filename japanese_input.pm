@@ -11,25 +11,25 @@ Japanese_Input
 
 <description>
    <am>Japanese ibus</am>
-   <ca>Japanese ibus</ca>
+   <ca>Ibus en japonès</ca>
    <cs>Japanese ibus</cs>
    <de>Japanischer IBus</de>
    <el>Japanese ibus</el>
    <en>Japanese ibus</en>
    <es>Japanese ibus</es>
    <fi>Japanese ibus</fi>
-   <fr>Japanese ibus</fr>
+   <fr>Japonais ibus</fr>
    <hi>Japanese ibus</hi>
    <hr>Japanese ibus</hr>
    <hu>Japanese ibus</hu>
-   <it>Japanese ibus</it>
+   <it>Ibus per la lingua giapponese</it>
    <ja>Japanese ibus</ja>
    <kk>Japanese ibus</kk>
-   <lt>Japanese ibus</lt>
-   <nl>Japanese ibus</nl>
+   <lt>Japonų ibus</lt>
+   <nl>Japanse ibus</nl>
    <pl>Japanese ibus</pl>
-   <pt_BR>Japanese ibus</pt_BR>
-   <pt>Japanese ibus</pt>
+   <pt_BR>Japonês ibus</pt_BR>
+   <pt>Japonês ibus</pt>
    <ro>Japanese ibus</ro>
    <ru>Japanese ibus</ru>
    <sk>Japanese ibus</sk>

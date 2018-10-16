@@ -18,18 +18,18 @@ Russian
    <en>Russian Language Meta-Package</en>
    <es>Russian Language Meta-Package</es>
    <fi>Russian Language Meta-Package</fi>
-   <fr>Russian Language Meta-Package</fr>
+   <fr>Méta-paquet pour langue russe</fr>
    <hi>Russian Language Meta-Package</hi>
    <hr>Russian Language Meta-Package</hr>
    <hu>Russian Language Meta-Package</hu>
-   <it>Russian Language Meta-Package</it>
+   <it>Meta-pacchetto della lingua russa</it>
    <ja>Russian Language Meta-Package</ja>
    <kk>Russian Language Meta-Package</kk>
    <lt>Russian Language Meta-Package</lt>
-   <nl>Russian Language Meta-Package</nl>
+   <nl>Russische Taal Meta-Pakket</nl>
    <pl>Russian Language Meta-Package</pl>
-   <pt_BR>Russian Language Meta-Package</pt_BR>
-   <pt>Russian Language Meta-Package</pt>
+   <pt_BR>Russo Meta-Pacote de Idioma</pt_BR>
+   <pt>Russo Meta-Pacote de Idioma</pt>
    <ro>Russian Language Meta-Package</ro>
    <ru>Russian Language Meta-Package</ru>
    <sk>Russian Language Meta-Package</sk>

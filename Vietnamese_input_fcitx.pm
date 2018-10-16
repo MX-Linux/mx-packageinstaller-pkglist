@@ -18,18 +18,18 @@ Vietnamese_Input_fcitx
    <en>Vietnamese Fonts and fcitx</en>
    <es>Vietnamese Fonts and fcitx</es>
    <fi>Vietnamese Fonts and fcitx</fi>
-   <fr>Vietnamese Fonts and fcitx</fr>
+   <fr>Polices vietnamiennes et fcitx</fr>
    <hi>Vietnamese Fonts and fcitx</hi>
    <hr>Vietnamese Fonts and fcitx</hr>
    <hu>Vietnamese Fonts and fcitx</hu>
-   <it>Vietnamese Fonts and fcitx</it>
+   <it>Font e fcitx per la lingua vietnamita</it>
    <ja>Vietnamese Fonts and fcitx</ja>
    <kk>Vietnamese Fonts and fcitx</kk>
    <lt>Vietnamese Fonts and fcitx</lt>
-   <nl>Vietnamese Fonts and fcitx</nl>
+   <nl>Vietnamese Fonts en fcitx</nl>
    <pl>Vietnamese Fonts and fcitx</pl>
-   <pt_BR>Vietnamese Fonts and fcitx</pt_BR>
-   <pt>Vietnamese Fonts and fcitx</pt>
+   <pt_BR>Vietnamita Fontes e fcitx</pt_BR>
+   <pt>Vietnamita Fontes e fcitx</pt>
    <ro>Vietnamese Fonts and fcitx</ro>
    <ru>Vietnamese Fonts and fcitx</ru>
    <sk>Vietnamese Fonts and fcitx</sk>

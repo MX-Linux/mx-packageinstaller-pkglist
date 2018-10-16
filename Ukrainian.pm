@@ -18,18 +18,18 @@ Ukrainian
    <en>Ukrainian Language Meta-Package</en>
    <es>Ukrainian Language Meta-Package</es>
    <fi>Ukrainian Language Meta-Package</fi>
-   <fr>Ukrainian Language Meta-Package</fr>
+   <fr>Méta-paquet pour langue ukrainienne</fr>
    <hi>Ukrainian Language Meta-Package</hi>
    <hr>Ukrainian Language Meta-Package</hr>
    <hu>Ukrainian Language Meta-Package</hu>
-   <it>Ukrainian Language Meta-Package</it>
+   <it>Meta-pacchetto della lingua ucraina</it>
    <ja>Ukrainian Language Meta-Package</ja>
    <kk>Ukrainian Language Meta-Package</kk>
    <lt>Ukrainian Language Meta-Package</lt>
-   <nl>Ukrainian Language Meta-Package</nl>
+   <nl>Oekraïense Taal Meta-Pakket</nl>
    <pl>Ukrainian Language Meta-Package</pl>
-   <pt_BR>Ukrainian Language Meta-Package</pt_BR>
-   <pt>Ukrainian Language Meta-Package</pt>
+   <pt_BR>Ucraniano Meta-Pacote de Idioma</pt_BR>
+   <pt>Ucraniano Meta-Pacote de Idioma</pt>
    <ro>Ukrainian Language Meta-Package</ro>
    <ru>Ukrainian Language Meta-Package</ru>
    <sk>Ukrainian Language Meta-Package</sk>

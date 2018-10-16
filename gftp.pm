@@ -11,25 +11,25 @@ gftp
 
 <description>
    <am>a multithreaded FTP client</am>
-   <ca>a multithreaded FTP client</ca>
+   <ca>un client de FTP multifilar</ca>
    <cs>a multithreaded FTP client</cs>
    <de>Ein Multithreading-FTP-Client</de>
    <el>a multithreaded FTP client</el>
    <en>a multithreaded FTP client</en>
    <es>a multithreaded FTP client</es>
    <fi>a multithreaded FTP client</fi>
-   <fr>a multithreaded FTP client</fr>
+   <fr>Client FTP multiprocessus</fr>
    <hi>a multithreaded FTP client</hi>
    <hr>a multithreaded FTP client</hr>
    <hu>a multithreaded FTP client</hu>
-   <it>a multithreaded FTP client</it>
+   <it>Client FTP multithread</it>
    <ja>a multithreaded FTP client</ja>
    <kk>a multithreaded FTP client</kk>
    <lt>a multithreaded FTP client</lt>
-   <nl>a multithreaded FTP client</nl>
+   <nl>een multithreaded FTP programma</nl>
    <pl>a multithreaded FTP client</pl>
    <pt_BR>a multithreaded FTP client</pt_BR>
-   <pt>a multithreaded FTP client</pt>
+   <pt>Cliente de FTP multilinha de execução (multithreaded)</pt>
    <ro>a multithreaded FTP client</ro>
    <ru>a multithreaded FTP client</ru>
    <sk>a multithreaded FTP client</sk>

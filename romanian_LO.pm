@@ -18,18 +18,18 @@ Romanian_Libreoffice
    <en>Romanian Language Meta-Package for LibreOffice</en>
    <es>Romanian Language Meta-Package for LibreOffice</es>
    <fi>Romanian Language Meta-Package for LibreOffice</fi>
-   <fr>Romanian Language Meta-Package for LibreOffice</fr>
+   <fr>Méta-paquet langue roumaine pour LibreOffice</fr>
    <hi>Romanian Language Meta-Package for LibreOffice</hi>
    <hr>Romanian Language Meta-Package for LibreOffice</hr>
    <hu>Romanian Language Meta-Package for LibreOffice</hu>
-   <it>Romanian Language Meta-Package for LibreOffice</it>
+   <it>Meta-pacchetto della lingua rumena per LibreOffice</it>
    <ja>Romanian Language Meta-Package for LibreOffice</ja>
    <kk>Romanian Language Meta-Package for LibreOffice</kk>
    <lt>Romanian Language Meta-Package for LibreOffice</lt>
-   <nl>Romanian Language Meta-Package for LibreOffice</nl>
+   <nl>Roemeense Taal Meta-Pakket voor LibreOffice</nl>
    <pl>Romanian Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Romanian Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Romanian Language Meta-Package for LibreOffice</pt>
+   <pt_BR>Romeno Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Romeno Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Romanian Language Meta-Package for LibreOffice</ro>
    <ru>Romanian Language Meta-Package for LibreOffice</ru>
    <sk>Romanian Language Meta-Package for LibreOffice</sk>

@@ -18,18 +18,18 @@ Japanese_Firefox
    <en>Japanese localisation of Firefox</en>
    <es>Japanese localisation of Firefox</es>
    <fi>Japanese localisation of Firefox</fi>
-   <fr>Japanese localisation of Firefox</fr>
+   <fr>Localisation japonaise pour Firefox</fr>
    <hi>Japanese localisation of Firefox</hi>
    <hr>Japanese localisation of Firefox</hr>
    <hu>Japanese localisation of Firefox</hu>
-   <it>Japanese localisation of Firefox</it>
+   <it>Localizzazione giapponese di Firefox</it>
    <ja>Japanese localisation of Firefox</ja>
    <kk>Japanese localisation of Firefox</kk>
    <lt>Japanese localisation of Firefox</lt>
-   <nl>Japanese localisation of Firefox</nl>
+   <nl>Japanse lokalisatie van Firefox</nl>
    <pl>Japanese localisation of Firefox</pl>
-   <pt_BR>Japanese localisation of Firefox</pt_BR>
-   <pt>Japanese localisation of Firefox</pt>
+   <pt_BR>Japonês Localização para Firefox</pt_BR>
+   <pt>Japonês Localização para Firefox</pt>
    <ro>Japanese localisation of Firefox</ro>
    <ru>Japanese localisation of Firefox</ru>
    <sk>Japanese localisation of Firefox</sk>

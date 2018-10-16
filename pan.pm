@@ -11,22 +11,22 @@ Pan
 
 <description>
    <am>a gnome Usenet newsreader</am>
-   <ca>a gnome Usenet newsreader</ca>
+   <ca>lector de notícies Usenet</ca>
    <cs>a gnome Usenet newsreader</cs>
    <de>Ein Gnome Usenet Newsreader</de>
    <el>a gnome Usenet newsreader</el>
    <en>a gnome Usenet newsreader</en>
    <es>a gnome Usenet newsreader</es>
    <fi>a gnome Usenet newsreader</fi>
-   <fr>a gnome Usenet newsreader</fr>
+   <fr>Un lecteur de nouvelles Usenet pour Gnome</fr>
    <hi>a gnome Usenet newsreader</hi>
    <hr>a gnome Usenet newsreader</hr>
    <hu>a gnome Usenet newsreader</hu>
-   <it>a gnome Usenet newsreader</it>
+   <it>lettore di news dalla rete Usenet basato su GTK2</it>
    <ja>a gnome Usenet newsreader</ja>
    <kk>a gnome Usenet newsreader</kk>
    <lt>a gnome Usenet newsreader</lt>
-   <nl>a gnome Usenet newsreader</nl>
+   <nl>a gnome Usenet nieuwslezer</nl>
    <pl>a gnome Usenet newsreader</pl>
    <pt_BR>a gnome Usenet newsreader</pt_BR>
    <pt>a gnome Usenet newsreader</pt>

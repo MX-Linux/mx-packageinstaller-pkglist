@@ -18,18 +18,18 @@ Cairo Dock
    <en>3d capable dock w/ plugins</en>
    <es>3d capable dock w/ plugins</es>
    <fi>3d capable dock w/ plugins</fi>
-   <fr>3d capable dock w/ plugins</fr>
+   <fr>Un dock avec possibilités 3D et ses plugins</fr>
    <hi>3d capable dock w/ plugins</hi>
    <hr>3d capable dock w/ plugins</hr>
    <hu>3d capable dock w/ plugins</hu>
-   <it>3d capable dock w/ plugins</it>
+   <it>Barra dock con capacità 3D e plugin</it>
    <ja>3d capable dock w/ plugins</ja>
    <kk>3d capable dock w/ plugins</kk>
    <lt>3d capable dock w/ plugins</lt>
-   <nl>3d capable dock w/ plugins</nl>
+   <nl>3d geschikt dock met plugins</nl>
    <pl>3d capable dock w/ plugins</pl>
    <pt_BR>3d capable dock w/ plugins</pt_BR>
-   <pt>3d capable dock w/ plugins</pt>
+   <pt>Doca com capacidade 3D, com suplementos (plugins)</pt>
    <ro>3d capable dock w/ plugins</ro>
    <ru>3d capable dock w/ plugins</ru>
    <sk>3d capable dock w/ plugins</sk>

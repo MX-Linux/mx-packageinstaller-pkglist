@@ -18,18 +18,18 @@ Serbian_Firefox
    <en>Serbian localisation of Firefox</en>
    <es>Serbian localisation of Firefox</es>
    <fi>Serbian localisation of Firefox</fi>
-   <fr>Serbian localisation of Firefox</fr>
+   <fr>Localisation serbe pour Firefox</fr>
    <hi>Serbian localisation of Firefox</hi>
    <hr>Serbian localisation of Firefox</hr>
    <hu>Serbian localisation of Firefox</hu>
-   <it>Serbian localisation of Firefox</it>
+   <it>Localizzazione serba di Firefox</it>
    <ja>Serbian localisation of Firefox</ja>
    <kk>Serbian localisation of Firefox</kk>
    <lt>Serbian localisation of Firefox</lt>
-   <nl>Serbian localisation of Firefox</nl>
+   <nl>Servische lokalisatie van Firefox</nl>
    <pl>Serbian localisation of Firefox</pl>
-   <pt_BR>Serbian localisation of Firefox</pt_BR>
-   <pt>Serbian localisation of Firefox</pt>
+   <pt_BR>Sérvio Localização para Firefox</pt_BR>
+   <pt>Sérvio Localização para Firefox</pt>
    <ro>Serbian localisation of Firefox</ro>
    <ru>Serbian localisation of Firefox</ru>
    <sk>Serbian localisation of Firefox</sk>

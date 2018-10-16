@@ -26,10 +26,10 @@ Croatian_thunderbird
    <ja>Croatian localisation of thunderbird</ja>
    <kk>Croatian localisation of thunderbird</kk>
    <lt>Croatian localisation of thunderbird</lt>
-   <nl>Croatian localisation of thunderbird</nl>
+   <nl>Kroatische lokalisatie van Thunderbird</nl>
    <pl>Croatian localisation of thunderbird</pl>
-   <pt_BR>Croatian localisation of thunderbird</pt_BR>
-   <pt>Croatian localisation of thunderbird</pt>
+   <pt_BR>Croata Localização para Thunderbird</pt_BR>
+   <pt>Croata Localização para Thunderbird</pt>
    <ro>Croatian localisation of thunderbird</ro>
    <ru>Croatian localisation of thunderbird</ru>
    <sk>Croatian localisation of thunderbird</sk>

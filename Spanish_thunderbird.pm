@@ -18,18 +18,18 @@ Spanish_Thunderbird
    <en>Spanish localisation of Thunderbird</en>
    <es>Spanish localisation of Thunderbird</es>
    <fi>Spanish localisation of Thunderbird</fi>
-   <fr>Spanish localisation of Thunderbird</fr>
+   <fr>Localisation espagnole pour Thunderbird</fr>
    <hi>Spanish localisation of Thunderbird</hi>
    <hr>Spanish localisation of Thunderbird</hr>
    <hu>Spanish localisation of Thunderbird</hu>
-   <it>Spanish localisation of Thunderbird</it>
+   <it>Localizzazione spagnola di Thunderbird</it>
    <ja>Spanish localisation of Thunderbird</ja>
    <kk>Spanish localisation of Thunderbird</kk>
    <lt>Spanish localisation of Thunderbird</lt>
-   <nl>Spanish localisation of Thunderbird</nl>
+   <nl>Spaanse lokalisatie van Thunderbird</nl>
    <pl>Spanish localisation of Thunderbird</pl>
-   <pt_BR>Spanish localisation of Thunderbird</pt_BR>
-   <pt>Spanish localisation of Thunderbird</pt>
+   <pt_BR>Castelhano Localização para Thunderbird</pt_BR>
+   <pt>Castelhano Localização para Thunderbird</pt>
    <ro>Spanish localisation of Thunderbird</ro>
    <ru>Spanish localisation of Thunderbird</ru>
    <sk>Spanish localisation of Thunderbird</sk>

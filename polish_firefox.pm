@@ -18,18 +18,18 @@ Polish_Firefox
    <en>Polish localisation of Firefox</en>
    <es>Polish localisation of Firefox</es>
    <fi>Polish localisation of Firefox</fi>
-   <fr>Polish localisation of Firefox</fr>
+   <fr>Localisation polonaise pour Firefox</fr>
    <hi>Polish localisation of Firefox</hi>
    <hr>Polish localisation of Firefox</hr>
    <hu>Polish localisation of Firefox</hu>
-   <it>Polish localisation of Firefox</it>
+   <it>Localizzazione polacca di Firefox</it>
    <ja>Polish localisation of Firefox</ja>
    <kk>Polish localisation of Firefox</kk>
    <lt>Polish localisation of Firefox</lt>
-   <nl>Polish localisation of Firefox</nl>
+   <nl>Poolse lokalisatie van Firefox</nl>
    <pl>Polish localisation of Firefox</pl>
-   <pt_BR>Polish localisation of Firefox</pt_BR>
-   <pt>Polish localisation of Firefox</pt>
+   <pt_BR>Polonês Localização para Firefox</pt_BR>
+   <pt>Polaco Localização para Firefox</pt>
    <ro>Polish localisation of Firefox</ro>
    <ru>Polish localisation of Firefox</ru>
    <sk>Polish localisation of Firefox</sk>

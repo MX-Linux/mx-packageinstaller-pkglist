@@ -11,7 +11,7 @@ MX 15 Wallpapers
 
 <description>
    <am>backgrounds originally supplied with MX 15</am>
-   <ca>backgrounds originally supplied with MX 15</ca>
+   <ca>fons de pantalla subministrats amb MX 15</ca>
    <cs>backgrounds originally supplied with MX 15</cs>
    <de>Bildschirmhintergründe, die ursprünglich mit MX 15 geliefert wurden</de>
    <el>backgrounds originally supplied with MX 15</el>
@@ -22,14 +22,14 @@ MX 15 Wallpapers
    <hi>backgrounds originally supplied with MX 15</hi>
    <hr>backgrounds originally supplied with MX 15</hr>
    <hu>backgrounds originally supplied with MX 15</hu>
-   <it>backgrounds originally supplied with MX 15</it>
+   <it>sfondi originariamente forniti con MX 15</it>
    <ja>backgrounds originally supplied with MX 15</ja>
    <kk>backgrounds originally supplied with MX 15</kk>
    <lt>backgrounds originally supplied with MX 15</lt>
-   <nl>backgrounds originally supplied with MX 15</nl>
+   <nl>achtergronden oorspronkelijk geleverd met MX 15</nl>
    <pl>backgrounds originally supplied with MX 15</pl>
    <pt_BR>backgrounds originally supplied with MX 15</pt_BR>
-   <pt>backgrounds originally supplied with MX 15</pt>
+   <pt>Imagens de fundo originalmente incluídas no MX 15</pt>
    <ro>backgrounds originally supplied with MX 15</ro>
    <ru>backgrounds originally supplied with MX 15</ru>
    <sk>backgrounds originally supplied with MX 15</sk>

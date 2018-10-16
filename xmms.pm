@@ -18,18 +18,18 @@ XMMS
    <en>multimedia player modelled on winamp</en>
    <es>multimedia player modelled on winamp</es>
    <fi>multimedia player modelled on winamp</fi>
-   <fr>lecteur multimédia inspiré de winamp</fr>
+   <fr>Lecteur multimédia inspiré de winamp</fr>
    <hi>multimedia player modelled on winamp</hi>
    <hr>multimedia player modelled on winamp</hr>
    <hu>multimedia player modelled on winamp</hu>
-   <it>multimedia player modelled on winamp</it>
+   <it>riproduttore multimediale simile a winamp</it>
    <ja>multimedia player modelled on winamp</ja>
    <kk>multimedia player modelled on winamp</kk>
    <lt>multimedia player modelled on winamp</lt>
-   <nl>multimedia player modelled on winamp</nl>
+   <nl>multimediaspeler gemodelleerd naar winamp</nl>
    <pl>multimedia player modelled on winamp</pl>
-   <pt_BR>multimedia player modelled on winamp</pt_BR>
-   <pt>multimedia player modelled on winamp</pt>
+   <pt_BR>Reprodutor de multimídia semelhante ao winamp</pt_BR>
+   <pt>Reprodutor de multimédia semelhante ao winamp</pt>
    <ro>multimedia player modelled on winamp</ro>
    <ru>multimedia player modelled on winamp</ru>
    <sk>multimedia player modelled on winamp</sk>

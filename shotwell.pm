@@ -13,20 +13,20 @@ Shotwell
    <am>digital photo organizer</am>
    <ca>Organitzador de fotos digitals</ca>
    <cs>digital photo organizer</cs>
-   <de>Digitaler Fotoveranstalter</de>
+   <de>Digitalfoto-Organizer</de>
    <el>digital photo organizer</el>
    <en>digital photo organizer</en>
    <es>digital photo organizer</es>
    <fi>digital photo organizer</fi>
-   <fr>digital photo organizer</fr>
+   <fr>Agenda photo numérique</fr>
    <hi>digital photo organizer</hi>
    <hr>digital photo organizer</hr>
    <hu>digital photo organizer</hu>
-   <it>digital photo organizer</it>
+   <it>organizzatore di foto digitali</it>
    <ja>digital photo organizer</ja>
    <kk>digital photo organizer</kk>
    <lt>digital photo organizer</lt>
-   <nl>digital photo organizer</nl>
+   <nl>digitale foto-organisator</nl>
    <pl>digital photo organizer</pl>
    <pt_BR>digital photo organizer</pt_BR>
    <pt>digital photo organizer</pt>

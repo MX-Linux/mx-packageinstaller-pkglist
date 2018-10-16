@@ -18,7 +18,7 @@ Claws-Mail
    <en>Claws Mail lightweight email client</en>
    <es>Claws Mail lightweight email client</es>
    <fi>Claws Mail lightweight email client</fi>
-   <fr>client mail léger Claws Mail</fr>
+   <fr>Client mail léger Claws Mail</fr>
    <hi>Claws Mail lightweight email client</hi>
    <hr>Claws Mail lightweight email client</hr>
    <hu>Claws Mail lightweight email client</hu>
@@ -26,10 +26,10 @@ Claws-Mail
    <ja>Claws Mail lightweight email client</ja>
    <kk>Claws Mail lightweight email client</kk>
    <lt>Claws Mail lightweight email client</lt>
-   <nl>Claws Mail lightweight email client</nl>
+   <nl>Claws Mail lichtgewicht email programma</nl>
    <pl>Claws Mail lightweight email client</pl>
    <pt_BR>Claws Mail lightweight email client</pt_BR>
-   <pt>Claws Mail lightweight email client</pt>
+   <pt>Cliente de correio-electrónico simples e ligeiro</pt>
    <ro>Claws Mail lightweight email client</ro>
    <ru>Claws Mail lightweight email client</ru>
    <sk>Claws Mail lightweight email client</sk>

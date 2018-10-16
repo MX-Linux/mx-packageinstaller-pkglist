@@ -26,10 +26,10 @@ Chinese_TW_Thunderbird
    <ja>Chinese (Taiwan) localisation of Thunderbird</ja>
    <kk>Chinese (Taiwan) localisation of Thunderbird</kk>
    <lt>Chinese (Taiwan) localisation of Thunderbird</lt>
-   <nl>Chinese (Taiwan) localisation of Thunderbird</nl>
+   <nl>Chinese (Taiwan) lokalisatie van Thunderbird</nl>
    <pl>Chinese (Taiwan) localisation of Thunderbird</pl>
-   <pt_BR>Chinese (Taiwan) localisation of Thunderbird</pt_BR>
-   <pt>Chinese (Taiwan) localisation of Thunderbird</pt>
+   <pt_BR>Chinês (Taiwan) Localização para Thunderbird</pt_BR>
+   <pt>Chinês (Taiwan) Localização para Thunderbird</pt>
    <ro>Chinese (Taiwan) localisation of Thunderbird</ro>
    <ru>Chinese (Taiwan) localisation of Thunderbird</ru>
    <sk>Chinese (Taiwan) localisation of Thunderbird</sk>

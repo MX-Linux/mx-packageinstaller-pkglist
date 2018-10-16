@@ -18,18 +18,18 @@ German_Libreoffice
    <en>German Language Meta-Package for LibreOffice</en>
    <es>German Language Meta-Package for LibreOffice</es>
    <fi>German Language Meta-Package for LibreOffice</fi>
-   <fr>German Language Meta-Package for LibreOffice</fr>
+   <fr>Méta-paquet langue allemande pour LibreOffice</fr>
    <hi>German Language Meta-Package for LibreOffice</hi>
    <hr>German Language Meta-Package for LibreOffice</hr>
    <hu>German Language Meta-Package for LibreOffice</hu>
-   <it>German Language Meta-Package for LibreOffice</it>
+   <it>Meta-pacchetto della lingua tedesca per LibreOffice</it>
    <ja>German Language Meta-Package for LibreOffice</ja>
    <kk>German Language Meta-Package for LibreOffice</kk>
    <lt>German Language Meta-Package for LibreOffice</lt>
-   <nl>German Language Meta-Package for LibreOffice</nl>
+   <nl>Duitse Taal Meta-Pakket voor LibreOffice</nl>
    <pl>German Language Meta-Package for LibreOffice</pl>
-   <pt_BR>German Language Meta-Package for LibreOffice</pt_BR>
-   <pt>German Language Meta-Package for LibreOffice</pt>
+   <pt_BR>Alemão Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Alemão Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>German Language Meta-Package for LibreOffice</ro>
    <ru>German Language Meta-Package for LibreOffice</ru>
    <sk>German Language Meta-Package for LibreOffice</sk>

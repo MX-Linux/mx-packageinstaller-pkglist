@@ -16,7 +16,7 @@ Adobe Reader
    <de>Adobe Reader PDF Betrachter</de>
    <el>Adobe Reader PDF viewer</el>
    <en>Adobe Reader PDF viewer</en>
-   <es>Adobe Reader PDF viewer</es>
+   <es>Adobe Reader, Visualizador de PDF</es>
    <fi>Adobe Reader PDF viewer</fi>
    <fr>Visionneuse de documents Adobe Reader PDF</fr>
    <hi>Adobe Reader PDF viewer</hi>
@@ -25,11 +25,11 @@ Adobe Reader
    <it>Visualizzatore PDF di Adobe Reader</it>
    <ja>Adobe Reader PDF viewer</ja>
    <kk>Adobe Reader PDF viewer</kk>
-   <lt>Adobe Reader PDF viewer</lt>
-   <nl>Adobe Reader PDF viewer</nl>
+   <lt>Adobe Reader PDF žiūryklė</lt>
+   <nl>Adobe Reader PDF lezer</nl>
    <pl>Adobe Reader PDF viewer</pl>
    <pt_BR>Adobe Reader PDF viewer</pt_BR>
-   <pt>Adobe Reader PDF viewer</pt>
+   <pt>Visualizador de PDF Adobe Reader</pt>
    <ro>Adobe Reader PDF viewer</ro>
    <ru>Adobe Reader PDF viewer</ru>
    <sk>Adobe Reader PDF viewer</sk>

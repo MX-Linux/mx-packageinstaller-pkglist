@@ -18,18 +18,18 @@ SpaceFM
    <en>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</en>
    <es>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</es>
    <fi>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</fi>
-   <fr>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</fr>
+   <fr>Un gestionnaire de bureau et de fichiers à plusieurs panneaux, procurant stabilité, rapidité, facilité et souplesse</fr>
    <hi>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</hi>
    <hr>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</hr>
    <hu>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</hu>
-   <it>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</it>
+   <it>gestore di file e desktop a più riquadri con schede che offre stabilità, velocità, convenienza e flessibilità.</it>
    <ja>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ja>
    <kk>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</kk>
    <lt>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</lt>
-   <nl>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</nl>
+   <nl>een bestand en desktop manager met meerdere tabbladen voor stabiliteit, snelheid, gemak en flexibiliteit</nl>
    <pl>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</pl>
    <pt_BR>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</pt_BR>
-   <pt>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</pt>
+   <pt>Gestor de ficheiros e da área de trabalho multi-painel com separadores, que proporciona estabilidade, rapidez, comodidade e flexibilidade</pt>
    <ro>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ro>
    <ru>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ru>
    <sk>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</sk>

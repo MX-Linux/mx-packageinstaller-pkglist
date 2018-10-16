@@ -18,18 +18,18 @@ Icelandic_Firefox
    <en>Icelandic localisation of Firefox</en>
    <es>Icelandic localisation of Firefox</es>
    <fi>Icelandic localisation of Firefox</fi>
-   <fr>Icelandic localisation of Firefox</fr>
+   <fr>Localisation islandaise pour Firefox</fr>
    <hi>Icelandic localisation of Firefox</hi>
    <hr>Icelandic localisation of Firefox</hr>
    <hu>Icelandic localisation of Firefox</hu>
-   <it>Icelandic localisation of Firefox</it>
+   <it>Localizzazione islandese di Firefox</it>
    <ja>Icelandic localisation of Firefox</ja>
    <kk>Icelandic localisation of Firefox</kk>
    <lt>Icelandic localisation of Firefox</lt>
-   <nl>Icelandic localisation of Firefox</nl>
+   <nl>IJslandse lokalisatie van Firefox</nl>
    <pl>Icelandic localisation of Firefox</pl>
-   <pt_BR>Icelandic localisation of Firefox</pt_BR>
-   <pt>Icelandic localisation of Firefox</pt>
+   <pt_BR>Islandês Localização para Firefox</pt_BR>
+   <pt>Islandês Localização para Firefox</pt>
    <ro>Icelandic localisation of Firefox</ro>
    <ru>Icelandic localisation of Firefox</ru>
    <sk>Icelandic localisation of Firefox</sk>

@@ -18,18 +18,18 @@ Portugese(BR)
    <en>Portugese(BR) Language Meta-Package</en>
    <es>Portugese(BR) Language Meta-Package</es>
    <fi>Portugese(BR) Language Meta-Package</fi>
-   <fr>Portugese(BR) Language Meta-Package</fr>
+   <fr>Méta-paquet pour langue portugaise (BR)</fr>
    <hi>Portugese(BR) Language Meta-Package</hi>
    <hr>Portugese(BR) Language Meta-Package</hr>
    <hu>Portugese(BR) Language Meta-Package</hu>
-   <it>Portugese(BR) Language Meta-Package</it>
+   <it>Meta-pacchetto della lingua portoghese(BR)</it>
    <ja>Portugese(BR) Language Meta-Package</ja>
    <kk>Portugese(BR) Language Meta-Package</kk>
    <lt>Portugese(BR) Language Meta-Package</lt>
-   <nl>Portugese(BR) Language Meta-Package</nl>
+   <nl>Portugese(BR) Taal Meta-Pakket</nl>
    <pl>Portugese(BR) Language Meta-Package</pl>
-   <pt_BR>Portugese(BR) Language Meta-Package</pt_BR>
-   <pt>Portugese(BR) Language Meta-Package</pt>
+   <pt_BR>Português(BR) Meta-Pacote de Idioma</pt_BR>
+   <pt>Português(BR) Meta-Pacote de Idioma</pt>
    <ro>Portugese(BR) Language Meta-Package</ro>
    <ru>Portugese(BR) Language Meta-Package</ru>
    <sk>Portugese(BR) Language Meta-Package</sk>

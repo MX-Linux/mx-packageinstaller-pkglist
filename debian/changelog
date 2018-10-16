@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.10.2) mx; urgency=medium
+
+  * updated translations 
+
+ -- dolphin <dolphin@littlebyte>  Mon, 15 Oct 2018 22:32:29 -0400
+
 mx-packageinstaller-pkglist (18.10.1) mx; urgency=medium
 
   * updated antiX kernel packages 

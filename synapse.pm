@@ -22,11 +22,11 @@ Synapse
    <hi>alternate semantic file launcher</hi>
    <hr>alternate semantic file launcher</hr>
    <hu>alternate semantic file launcher</hu>
-   <it>alternate semantic file launcher</it>
+   <it>avviatore semantico per avviare applicazioni e accedere a file rilevanti</it>
    <ja>alternate semantic file launcher</ja>
    <kk>alternate semantic file launcher</kk>
    <lt>alternate semantic file launcher</lt>
-   <nl>alternate semantic file launcher</nl>
+   <nl>alternatieve semantische bestandsopstarter</nl>
    <pl>alternate semantic file launcher</pl>
    <pt_BR>alternate semantic file launcher</pt_BR>
    <pt>alternate semantic file launcher</pt>

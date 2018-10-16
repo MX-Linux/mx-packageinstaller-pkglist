@@ -18,18 +18,18 @@ Ukrainian_Fonts
    <en>Ukrainian fonts packages</en>
    <es>Ukrainian fonts packages</es>
    <fi>Ukrainian fonts packages</fi>
-   <fr>Ukrainian fonts packages</fr>
+   <fr>Paquets pour polices ukrainiennes</fr>
    <hi>Ukrainian fonts packages</hi>
    <hr>Ukrainian fonts packages</hr>
    <hu>Ukrainian fonts packages</hu>
-   <it>Ukrainian fonts packages</it>
+   <it>Pacchetti di fonts per l'Ucraino</it>
    <ja>Ukrainian fonts packages</ja>
    <kk>Ukrainian fonts packages</kk>
    <lt>Ukrainian fonts packages</lt>
-   <nl>Ukrainian fonts packages</nl>
+   <nl>Oekraïense font pakketten</nl>
    <pl>Ukrainian fonts packages</pl>
-   <pt_BR>Ukrainian fonts packages</pt_BR>
-   <pt>Ukrainian fonts packages</pt>
+   <pt_BR>Ucraniano fonts Pacotes</pt_BR>
+   <pt>Ucraniano pacotes de fontes</pt>
    <ro>Ukrainian fonts packages</ro>
    <ru>Ukrainian fonts packages</ru>
    <sk>Ukrainian fonts packages</sk>

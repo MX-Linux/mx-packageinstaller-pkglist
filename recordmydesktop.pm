@@ -19,18 +19,18 @@ recordmydesktop
    <en>a desktop session recorder</en>
    <es>a desktop session recorder</es>
    <fi>a desktop session recorder</fi>
-   <fr>a desktop session recorder</fr>
+   <fr>Un enregistreur de session de bureau</fr>
    <hi>a desktop session recorder</hi>
    <hr>a desktop session recorder</hr>
    <hu>a desktop session recorder</hu>
-   <it>a desktop session recorder</it>
+   <it>registra una sessione del desktop</it>
    <ja>a desktop session recorder</ja>
    <kk>a desktop session recorder</kk>
    <lt>a desktop session recorder</lt>
-   <nl>a desktop session recorder</nl>
+   <nl>een desktop sessie recorder</nl>
    <pl>a desktop session recorder</pl>
    <pt_BR>a desktop session recorder</pt_BR>
-   <pt>a desktop session recorder</pt>
+   <pt>Regista em vídeo a sessão de trabalho conforme evolui no ecrã</pt>
    <ro>a desktop session recorder</ro>
    <ru>a desktop session recorder</ru>
    <sk>a desktop session recorder</sk>

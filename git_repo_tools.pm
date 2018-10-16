@@ -11,25 +11,25 @@ GIT Tools
 
 <description>
    <am>GIT Repo tools</am>
-   <ca>GIT Repo tools</ca>
+   <ca>eines per al dipòsit GIT</ca>
    <cs>GIT Repo tools</cs>
    <de>GIT Repo Werkzeuge</de>
    <el>GIT Repo tools</el>
    <en>GIT Repo tools</en>
    <es>GIT Repo tools</es>
    <fi>GIT Repo tools</fi>
-   <fr>GIT Repo tools</fr>
+   <fr>Outils pour dépôt GIT</fr>
    <hi>GIT Repo tools</hi>
    <hr>GIT Repo tools</hr>
    <hu>GIT Repo tools</hu>
-   <it>GIT Repo tools</it>
+   <it>Strumenti GIT Repo</it>
    <ja>GIT Repo tools</ja>
    <kk>GIT Repo tools</kk>
-   <lt>GIT Repo tools</lt>
-   <nl>GIT Repo tools</nl>
+   <lt>GIT saugyklos įrankiai</lt>
+   <nl>GIT Pakketbron Gereedschappen</nl>
    <pl>GIT Repo tools</pl>
    <pt_BR>GIT Repo tools</pt_BR>
-   <pt>GIT Repo tools</pt>
+   <pt>Ferramentas GIT Repo</pt>
    <ro>GIT Repo tools</ro>
    <ru>GIT Repo tools</ru>
    <sk>GIT Repo tools</sk>

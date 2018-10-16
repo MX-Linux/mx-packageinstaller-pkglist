@@ -18,18 +18,18 @@ Plank
    <en>Simple but good looking dock</en>
    <es>Simple but good looking dock</es>
    <fi>Simple but good looking dock</fi>
-   <fr>Simple but good looking dock</fr>
+   <fr>Un dock sobre et agréable</fr>
    <hi>Simple but good looking dock</hi>
    <hr>Simple but good looking dock</hr>
    <hu>Simple but good looking dock</hu>
-   <it>Simple but good looking dock</it>
+   <it>barra dock semplice ma bella</it>
    <ja>Simple but good looking dock</ja>
    <kk>Simple but good looking dock</kk>
    <lt>Simple but good looking dock</lt>
-   <nl>Simple but good looking dock</nl>
+   <nl>Eenvoudig maar goed uitziende dock</nl>
    <pl>Simple but good looking dock</pl>
    <pt_BR>Simple but good looking dock</pt_BR>
-   <pt>Simple but good looking dock</pt>
+   <pt>Doca simples mas elegante</pt>
    <ro>Simple but good looking dock</ro>
    <ru>Simple but good looking dock</ru>
    <sk>Simple but good looking dock</sk>

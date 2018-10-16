@@ -16,7 +16,7 @@ Remote Access
    <de>Fernwartungsanwendung von antiX</de>
    <el>Remote access help app from antiX</el>
    <en>Remote access help app from antiX</en>
-   <es>Remote access help app from antiX</es>
+   <es>Aplicación de ayuda de acceso remoto desde antiX</es>
    <fi>Remote access help app from antiX</fi>
    <fr>Application d'aide pour l'accès à distance d'antiX</fr>
    <hi>Remote access help app from antiX</hi>
@@ -25,11 +25,11 @@ Remote Access
    <it>App da antiX, che permette un accesso remoto</it>
    <ja>Remote access help app from antiX</ja>
    <kk>Remote access help app from antiX</kk>
-   <lt>Remote access help app from antiX</lt>
+   <lt>Nuotolinės prieigos pagalbos programa iš antiX</lt>
    <nl>Afstand toegankelijke hulp app van antiX</nl>
    <pl>Remote access help app from antiX</pl>
-   <pt_BR>Remote access help app from antiX</pt_BR>
-   <pt>Remote access help app from antiX</pt>
+   <pt_BR>Aplicação do antiX para ajuda por acesso remoto</pt_BR>
+   <pt>Aplicação do antiX para ajuda por acesso remoto</pt>
    <ro>Remote access help app from antiX</ro>
    <ru>Remote access help app from antiX</ru>
    <sk>Remote access help app from antiX</sk>

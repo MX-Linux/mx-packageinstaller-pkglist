@@ -18,18 +18,18 @@ Latvian_Firefox
    <en>Latvian localisation of Firefox</en>
    <es>Latvian localisation of Firefox</es>
    <fi>Latvian localisation of Firefox</fi>
-   <fr>Latvian localisation of Firefox</fr>
+   <fr>Localisation lettone pour Firefox</fr>
    <hi>Latvian localisation of Firefox</hi>
    <hr>Latvian localisation of Firefox</hr>
    <hu>Latvian localisation of Firefox</hu>
-   <it>Latvian localisation of Firefox</it>
+   <it>Localizzazione lettone di Firefox</it>
    <ja>Latvian localisation of Firefox</ja>
    <kk>Latvian localisation of Firefox</kk>
    <lt>Latvian localisation of Firefox</lt>
-   <nl>Latvian localisation of Firefox</nl>
+   <nl>Letse lokalisatie van Firefox</nl>
    <pl>Latvian localisation of Firefox</pl>
-   <pt_BR>Latvian localisation of Firefox</pt_BR>
-   <pt>Latvian localisation of Firefox</pt>
+   <pt_BR>Letão Localização para Firefox</pt_BR>
+   <pt>Letão Localização para Firefox</pt>
    <ro>Latvian localisation of Firefox</ro>
    <ru>Latvian localisation of Firefox</ru>
    <sk>Latvian localisation of Firefox</sk>

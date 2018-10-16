@@ -18,18 +18,18 @@ PCManFM
    <en>a fast and lightweight file manager</en>
    <es>a fast and lightweight file manager</es>
    <fi>a fast and lightweight file manager</fi>
-   <fr>a fast and lightweight file manager</fr>
+   <fr>Un gestionnaire de fichiers rapide et léger</fr>
    <hi>a fast and lightweight file manager</hi>
    <hr>a fast and lightweight file manager</hr>
    <hu>a fast and lightweight file manager</hu>
-   <it>a fast and lightweight file manager</it>
+   <it>file manager veloce e leggero</it>
    <ja>a fast and lightweight file manager</ja>
    <kk>a fast and lightweight file manager</kk>
    <lt>a fast and lightweight file manager</lt>
-   <nl>a fast and lightweight file manager</nl>
+   <nl>een snelle en lichtgewicht bestandsmanager</nl>
    <pl>a fast and lightweight file manager</pl>
    <pt_BR>a fast and lightweight file manager</pt_BR>
-   <pt>a fast and lightweight file manager</pt>
+   <pt>Gestor de ficheiros ligeiro e rápido</pt>
    <ro>a fast and lightweight file manager</ro>
    <ru>a fast and lightweight file manager</ru>
    <sk>a fast and lightweight file manager</sk>

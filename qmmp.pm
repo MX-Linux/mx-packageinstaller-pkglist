@@ -18,18 +18,18 @@ Qmmp
    <en>a winamp/xmms type feature-rich audio player written in Qt</en>
    <es>a winamp/xmms type feature-rich audio player written in Qt</es>
    <fi>a winamp/xmms type feature-rich audio player written in Qt</fi>
-   <fr>a winamp/xmms type feature-rich audio player written in Qt</fr>
+   <fr>Un lecteur audio très complet de type winamp/xmms basé sur Qt</fr>
    <hi>a winamp/xmms type feature-rich audio player written in Qt</hi>
    <hr>a winamp/xmms type feature-rich audio player written in Qt</hr>
    <hu>a winamp/xmms type feature-rich audio player written in Qt</hu>
-   <it>a winamp/xmms type feature-rich audio player written in Qt</it>
+   <it>lettore audio, scritto in Qt, simile a winamp/xmms, ricco di funzionalità</it>
    <ja>a winamp/xmms type feature-rich audio player written in Qt</ja>
    <kk>a winamp/xmms type feature-rich audio player written in Qt</kk>
    <lt>a winamp/xmms type feature-rich audio player written in Qt</lt>
-   <nl>a winamp/xmms type feature-rich audio player written in Qt</nl>
+   <nl>een veelzijdige winamp/xmms achtige audio speler geschreven in Qt</nl>
    <pl>a winamp/xmms type feature-rich audio player written in Qt</pl>
    <pt_BR>a winamp/xmms type feature-rich audio player written in Qt</pt_BR>
-   <pt>a winamp/xmms type feature-rich audio player written in Qt</pt>
+   <pt>Reprodutor de rádio pleno de funcionalidades, escrito em Qt e semelhante ao winamp e ao xmms</pt>
    <ro>a winamp/xmms type feature-rich audio player written in Qt</ro>
    <ru>a winamp/xmms type feature-rich audio player written in Qt</ru>
    <sk>a winamp/xmms type feature-rich audio player written in Qt</sk>

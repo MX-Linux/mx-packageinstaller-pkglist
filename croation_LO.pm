@@ -26,10 +26,10 @@ Croatian_Libreoffice
    <ja>Croatian LibreOffice Language Meta-Package</ja>
    <kk>Croatian LibreOffice Language Meta-Package</kk>
    <lt>Croatian LibreOffice Language Meta-Package</lt>
-   <nl>Croatian LibreOffice Language Meta-Package</nl>
+   <nl>Kroatische LibreOffice Taal Meta-Pakket</nl>
    <pl>Croatian LibreOffice Language Meta-Package</pl>
-   <pt_BR>Croatian LibreOffice Language Meta-Package</pt_BR>
-   <pt>Croatian LibreOffice Language Meta-Package</pt>
+   <pt_BR>Croata Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Croata Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Croatian LibreOffice Language Meta-Package</ro>
    <ru>Croatian LibreOffice Language Meta-Package</ru>
    <sk>Croatian LibreOffice Language Meta-Package</sk>

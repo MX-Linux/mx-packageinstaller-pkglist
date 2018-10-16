@@ -11,7 +11,7 @@ KDE5 Standard
 
 <description>
    <am>Installs kde-standard, kde-plasma-desktop</am>
-   <ca>Installs kde-standard, kde-plasma-desktop</ca>
+   <ca>Instal·la kde-standard i kde-plasma-desktop</ca>
    <cs>Installs kde-standard, kde-plasma-desktop</cs>
    <de>Installiert KDE-standard, KDE-plasma-desktop</de>
    <el>Installs kde-standard, kde-plasma-desktop</el>
@@ -22,14 +22,14 @@ KDE5 Standard
    <hi>Installs kde-standard, kde-plasma-desktop</hi>
    <hr>Installs kde-standard, kde-plasma-desktop</hr>
    <hu>Installs kde-standard, kde-plasma-desktop</hu>
-   <it>Installs kde-standard, kde-plasma-desktop</it>
+   <it>Installa kde-standard, kde-plasma-desktop</it>
    <ja>Installs kde-standard, kde-plasma-desktop</ja>
    <kk>Installs kde-standard, kde-plasma-desktop</kk>
    <lt>Installs kde-standard, kde-plasma-desktop</lt>
-   <nl>Installs kde-standard, kde-plasma-desktop</nl>
+   <nl>Installeert kde-standard, kde-plasma-desktop</nl>
    <pl>Installs kde-standard, kde-plasma-desktop</pl>
    <pt_BR>Installs kde-standard, kde-plasma-desktop</pt_BR>
-   <pt>Installs kde-standard, kde-plasma-desktop</pt>
+   <pt>Instala os pacotes kde-standard e kde-plasma-desktop</pt>
    <ro>Installs kde-standard, kde-plasma-desktop</ro>
    <ru>Installs kde-standard, kde-plasma-desktop</ru>
    <sk>Installs kde-standard, kde-plasma-desktop</sk>

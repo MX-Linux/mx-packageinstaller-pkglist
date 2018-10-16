@@ -18,18 +18,18 @@ Spanish
    <en>Spanish Language Meta-Package</en>
    <es>Spanish Language Meta-Package</es>
    <fi>Spanish Language Meta-Package</fi>
-   <fr>Spanish Language Meta-Package</fr>
+   <fr>Méta-paquet pour langue espagnole</fr>
    <hi>Spanish Language Meta-Package</hi>
    <hr>Spanish Language Meta-Package</hr>
    <hu>Spanish Language Meta-Package</hu>
-   <it>Spanish Language Meta-Package</it>
+   <it>Meta-pacchetto della lingua spagnola</it>
    <ja>Spanish Language Meta-Package</ja>
    <kk>Spanish Language Meta-Package</kk>
    <lt>Spanish Language Meta-Package</lt>
-   <nl>Spanish Language Meta-Package</nl>
+   <nl>Spaanse Taal Meta-Pakket</nl>
    <pl>Spanish Language Meta-Package</pl>
-   <pt_BR>Spanish Language Meta-Package</pt_BR>
-   <pt>Spanish Language Meta-Package</pt>
+   <pt_BR>Castelhano Meta-Pacote de Idioma</pt_BR>
+   <pt>Castelhano Meta-Pacote de Idioma</pt>
    <ro>Spanish Language Meta-Package</ro>
    <ru>Spanish Language Meta-Package</ru>
    <sk>Spanish Language Meta-Package</sk>

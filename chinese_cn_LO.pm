@@ -26,10 +26,10 @@ Chinese_CN_LO
    <ja>Chinese_simplified localisation of LibreOffice</ja>
    <kk>Chinese_simplified localisation of LibreOffice</kk>
    <lt>Chinese_simplified localisation of LibreOffice</lt>
-   <nl>Chinese_simplified localisation of LibreOffice</nl>
+   <nl>Vereenvoudigd Chinese lokalisatie van LibreOffice</nl>
    <pl>Chinese_simplified localisation of LibreOffice</pl>
-   <pt_BR>Chinese_simplified localisation of LibreOffice</pt_BR>
-   <pt>Chinese_simplified localisation of LibreOffice</pt>
+   <pt_BR>Chinês_simplificado Localização para LibreOffice</pt_BR>
+   <pt>Chinês_simplificado Localização para LibreOffice</pt>
    <ro>Chinese_simplified localisation of LibreOffice</ro>
    <ru>Chinese_simplified localisation of LibreOffice</ru>
    <sk>Chinese_simplified localisation of LibreOffice</sk>

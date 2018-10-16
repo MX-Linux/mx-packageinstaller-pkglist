@@ -16,20 +16,20 @@ Adapta Gtk Theme
    <de>Ein modernes flaches Gtk-Thema in hellen und dunklen Varianten, mit Widgets mit neonblauen Akzenten</de>
    <el>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</el>
    <en>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</en>
-   <es>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</es>
+   <es>una Tema moderno, plano de GTK en variantes claro y oscuro, con widgets resaltados con neon azul</es>
    <fi>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</fi>
-   <fr>Thème Gtk moderne Flat en versions claires et sombres, with widgets having neon blue highlights</fr>
+   <fr>Thème contemporain Gtk Flat en versions claires et sombres, avec widgets aux éclairages bleus neon</fr>
    <hi>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</hi>
    <hr>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</hr>
    <hu>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</hu>
-   <it>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</it>
+   <it>Un moderno tema Gtk in varianti chiare e scure, con widget a luci neon blu</it>
    <ja>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</ja>
    <kk>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</kk>
    <lt>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</lt>
-   <nl>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</nl>
+   <nl>een modern plat Gtk Thema in lichte en donkere varianten, met widgets die neon blauwe highlights hebben</nl>
    <pl>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</pl>
    <pt_BR>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</pt_BR>
-   <pt>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</pt>
+   <pt>Tema moderno e simples para Gtk, nas variantes 'claro' e 'escuro', com elementos ornamentados a azul neon</pt>
    <ro>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</ro>
    <ru>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</ru>
    <sk>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</sk>

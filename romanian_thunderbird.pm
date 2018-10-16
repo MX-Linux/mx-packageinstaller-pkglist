@@ -18,18 +18,18 @@ Romanian_Thunderbird
    <en>Romanian localisation of Thunderbird</en>
    <es>Romanian localisation of Thunderbird</es>
    <fi>Romanian localisation of Thunderbird</fi>
-   <fr>Romanian localisation of Thunderbird</fr>
+   <fr>Localisation roumaine pour Thunderbird</fr>
    <hi>Romanian localisation of Thunderbird</hi>
    <hr>Romanian localisation of Thunderbird</hr>
    <hu>Romanian localisation of Thunderbird</hu>
-   <it>Romanian localisation of Thunderbird</it>
+   <it>Localizzazione rumena di Thunderbird</it>
    <ja>Romanian localisation of Thunderbird</ja>
    <kk>Romanian localisation of Thunderbird</kk>
    <lt>Romanian localisation of Thunderbird</lt>
-   <nl>Romanian localisation of Thunderbird</nl>
+   <nl>Roemeense lokalisatie van Thunderbird</nl>
    <pl>Romanian localisation of Thunderbird</pl>
-   <pt_BR>Romanian localisation of Thunderbird</pt_BR>
-   <pt>Romanian localisation of Thunderbird</pt>
+   <pt_BR>Romeno Localização para Thunderbird</pt_BR>
+   <pt>Romeno Localização para Thunderbird</pt>
    <ro>Romanian localisation of Thunderbird</ro>
    <ru>Romanian localisation of Thunderbird</ru>
    <sk>Romanian localisation of Thunderbird</sk>

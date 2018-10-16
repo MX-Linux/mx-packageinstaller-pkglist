@@ -26,10 +26,10 @@ Czech
    <ja>Czech Language Meta-Package</ja>
    <kk>Czech Language Meta-Package</kk>
    <lt>Czech Language Meta-Package</lt>
-   <nl>Czech Language Meta-Package</nl>
+   <nl>Tjechische Taal Meta-Pakket</nl>
    <pl>Czech Language Meta-Package</pl>
-   <pt_BR>Czech Language Meta-Package</pt_BR>
-   <pt>Czech Language Meta-Package</pt>
+   <pt_BR>Checo Meta-Pacote de Idioma</pt_BR>
+   <pt>Checo Meta-Pacote de Idioma</pt>
    <ro>Czech Language Meta-Package</ro>
    <ru>Czech Language Meta-Package</ru>
    <sk>Czech Language Meta-Package</sk>

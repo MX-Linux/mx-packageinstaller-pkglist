@@ -26,10 +26,10 @@ Catalan
    <ja>Catalan Language Meta-Package</ja>
    <kk>Catalan Language Meta-Package</kk>
    <lt>Catalan Language Meta-Package</lt>
-   <nl>Catalan Language Meta-Package</nl>
+   <nl>Catalaanse Taal Meta-Pakket</nl>
    <pl>Catalan Language Meta-Package</pl>
-   <pt_BR>Catalan Language Meta-Package</pt_BR>
-   <pt>Catalan Language Meta-Package</pt>
+   <pt_BR>Catalão Meta-Pacote de Idioma</pt_BR>
+   <pt>Catalão Meta-Pacote de Idioma</pt>
    <ro>Catalan Language Meta-Package</ro>
    <ru>Catalan Language Meta-Package</ru>
    <sk>Catalan Language Meta-Package</sk>

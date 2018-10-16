@@ -11,25 +11,25 @@ gscan2pdf
 
 <description>
    <am>A GUI to produce PDFs or DjVus from scanned documents</am>
-   <ca>A GUI to produce PDFs or DjVus from scanned documents</ca>
+   <ca>Una IGU per crear PDFs o DJVus des de documents escanejats</ca>
    <cs>A GUI to produce PDFs or DjVus from scanned documents</cs>
    <de>Eine GUI zum Erzeugen von PDFs oder DjVus aus gescannten Dokumenten</de>
    <el>A GUI to produce PDFs or DjVus from scanned documents</el>
    <en>A GUI to produce PDFs or DjVus from scanned documents</en>
    <es>A GUI to produce PDFs or DjVus from scanned documents</es>
    <fi>A GUI to produce PDFs or DjVus from scanned documents</fi>
-   <fr>A GUI to produce PDFs or DjVus from scanned documents</fr>
+   <fr>Une interface graphique permettant de créer des PDFs et DjVus à partir de documents scannés</fr>
    <hi>A GUI to produce PDFs or DjVus from scanned documents</hi>
    <hr>A GUI to produce PDFs or DjVus from scanned documents</hr>
    <hu>A GUI to produce PDFs or DjVus from scanned documents</hu>
-   <it>A GUI to produce PDFs or DjVus from scanned documents</it>
+   <it>Un'interfaccia grafica per ottenere PDF o DjVus da documenti scansionati</it>
    <ja>A GUI to produce PDFs or DjVus from scanned documents</ja>
    <kk>A GUI to produce PDFs or DjVus from scanned documents</kk>
    <lt>A GUI to produce PDFs or DjVus from scanned documents</lt>
-   <nl>A GUI to produce PDFs or DjVus from scanned documents</nl>
+   <nl>Een GUI voor het produceren van PDF's of DjVus uit gescande documenten</nl>
    <pl>A GUI to produce PDFs or DjVus from scanned documents</pl>
    <pt_BR>A GUI to produce PDFs or DjVus from scanned documents</pt_BR>
-   <pt>A GUI to produce PDFs or DjVus from scanned documents</pt>
+   <pt>Interface gŕafica para produzir ficheiros PDF e DjVu por digitalização em scanner</pt>
    <ro>A GUI to produce PDFs or DjVus from scanned documents</ro>
    <ru>A GUI to produce PDFs or DjVus from scanned documents</ru>
    <sk>A GUI to produce PDFs or DjVus from scanned documents</sk>

@@ -16,7 +16,7 @@ Belarusian_Thunderbird
    <de>Weißrussische Lokalisierung von Thunderbird</de>
    <el>Belarusian localisation of Thunderbird</el>
    <en>Belarusian localisation of Thunderbird</en>
-   <es>Belarusian localisation of Thunderbird</es>
+   <es>Localización Belorusso de Thunderbird</es>
    <fi>Belarusian localisation of Thunderbird</fi>
    <fr>Localisation biélorusse pour Thunderbird</fr>
    <hi>Belarusian localisation of Thunderbird</hi>
@@ -26,10 +26,10 @@ Belarusian_Thunderbird
    <ja>Belarusian localisation of Thunderbird</ja>
    <kk>Belarusian localisation of Thunderbird</kk>
    <lt>Belarusian localisation of Thunderbird</lt>
-   <nl>Belarusian localisation of Thunderbird</nl>
+   <nl>Wit-Russische lokalisatie van Thunderbird</nl>
    <pl>Belarusian localisation of Thunderbird</pl>
-   <pt_BR>Belarusian localisation of Thunderbird</pt_BR>
-   <pt>Belarusian localisation of Thunderbird</pt>
+   <pt_BR>Bielorrusso Localização para Thunderbird</pt_BR>
+   <pt>Bielorrusso Localização para Thunderbird</pt>
    <ro>Belarusian localisation of Thunderbird</ro>
    <ru>Belarusian localisation of Thunderbird</ru>
    <sk>Belarusian localisation of Thunderbird</sk>

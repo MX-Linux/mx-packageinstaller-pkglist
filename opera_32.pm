@@ -18,18 +18,18 @@ Opera
    <en>Opera browser (32 bit is beta-only)</en>
    <es>Opera browser (32 bit is beta-only)</es>
    <fi>Opera browser (32 bit is beta-only)</fi>
-   <fr>Navigateur Opera (32 bit is beta-only)</fr>
+   <fr>Navigateur Opera (32 bit en beta uniquement)</fr>
    <hi>Opera browser (32 bit is beta-only)</hi>
    <hr>Opera browser (32 bit is beta-only)</hr>
    <hu>Opera browser (32 bit is beta-only)</hu>
-   <it>Opera browser (32 bit is beta-only)</it>
+   <it>Opera browser (a 32 bit è esclusivamente-beta)</it>
    <ja>Opera browser (32 bit is beta-only)</ja>
    <kk>Opera browser (32 bit is beta-only)</kk>
-   <lt>Opera browser (32 bit is beta-only)</lt>
-   <nl>Opera browser (32 bit is beta-only)</nl>
+   <lt>Opera naršyklė (32 bitų yra tik beta versija)</lt>
+   <nl>Opera browser (32 bit is enkel-beta)</nl>
    <pl>Opera browser (32 bit is beta-only)</pl>
    <pt_BR>Opera browser (32 bit is beta-only)</pt_BR>
-   <pt>Opera browser (32 bit is beta-only)</pt>
+   <pt>Navegador web Opera (32 bit is beta-only)</pt>
    <ro>Opera browser (32 bit is beta-only)</ro>
    <ru>Opera browser (32 bit is beta-only)</ru>
    <sk>Opera browser (32 bit is beta-only)</sk>

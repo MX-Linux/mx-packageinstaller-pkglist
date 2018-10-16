@@ -11,14 +11,14 @@ Italian_Thunderbird
 
 <description>
    <am>Italian localisation of Thunderbird</am>
-   <ca>Italian localisation of Thunderbird</ca>
+   <ca>Localització de Thunderbird en italià</ca>
    <cs>Italian localisation of Thunderbird</cs>
    <de>Italienische Lokalisierung von Thunderbird</de>
    <el>Italian localisation of Thunderbird</el>
    <en>Italian localisation of Thunderbird</en>
    <es>Italian localisation of Thunderbird</es>
    <fi>Italian localisation of Thunderbird</fi>
-   <fr>Italian localisation of Thunderbird</fr>
+   <fr>Localisation italienne pour Thunderbird</fr>
    <hi>Italian localisation of Thunderbird</hi>
    <hr>Italian localisation of Thunderbird</hr>
    <hu>Italian localisation of Thunderbird</hu>
@@ -26,10 +26,10 @@ Italian_Thunderbird
    <ja>Italian localisation of Thunderbird</ja>
    <kk>Italian localisation of Thunderbird</kk>
    <lt>Italian localisation of Thunderbird</lt>
-   <nl>Italian localisation of Thunderbird</nl>
+   <nl>Italiaanse lokalisatie van Thunderbird</nl>
    <pl>Italian localisation of Thunderbird</pl>
-   <pt_BR>Italian localisation of Thunderbird</pt_BR>
-   <pt>Italian localisation of Thunderbird</pt>
+   <pt_BR>Italiano Localização para Thunderbird</pt_BR>
+   <pt>Italiano Localização para Thunderbird</pt>
    <ro>Italian localisation of Thunderbird</ro>
    <ru>Italian localisation of Thunderbird</ru>
    <sk>Italian localisation of Thunderbird</sk>

@@ -18,18 +18,18 @@ German
    <en>German Language Meta-Package</en>
    <es>German Language Meta-Package</es>
    <fi>German Language Meta-Package</fi>
-   <fr>German Language Meta-Package</fr>
+   <fr>Méta-paquet pour langue allemande</fr>
    <hi>German Language Meta-Package</hi>
    <hr>German Language Meta-Package</hr>
    <hu>German Language Meta-Package</hu>
-   <it>German Language Meta-Package</it>
+   <it>Meta-pacchetto della lingua tedesca</it>
    <ja>German Language Meta-Package</ja>
    <kk>German Language Meta-Package</kk>
    <lt>German Language Meta-Package</lt>
-   <nl>German Language Meta-Package</nl>
+   <nl>Duitse Taal Meta-Pakket</nl>
    <pl>German Language Meta-Package</pl>
-   <pt_BR>German Language Meta-Package</pt_BR>
-   <pt>German Language Meta-Package</pt>
+   <pt_BR>Alemão Meta-Pacote de Idioma</pt_BR>
+   <pt>Alemão Meta-Pacote de Idioma</pt>
    <ro>German Language Meta-Package</ro>
    <ru>German Language Meta-Package</ru>
    <sk>German Language Meta-Package</sk>

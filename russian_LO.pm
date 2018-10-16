@@ -18,18 +18,18 @@ Russian_Libreoffice
    <en>Russian localisation of LibreOffice</en>
    <es>Russian localisation of LibreOffice</es>
    <fi>Russian localisation of LibreOffice</fi>
-   <fr>Russian localisation of LibreOffice</fr>
+   <fr>Localisation russe pour LibreOffice</fr>
    <hi>Russian localisation of LibreOffice</hi>
    <hr>Russian localisation of LibreOffice</hr>
    <hu>Russian localisation of LibreOffice</hu>
-   <it>Russian localisation of LibreOffice</it>
+   <it>Localizzazione russa di LibreOffice</it>
    <ja>Russian localisation of LibreOffice</ja>
    <kk>Russian localisation of LibreOffice</kk>
    <lt>Russian localisation of LibreOffice</lt>
-   <nl>Russian localisation of LibreOffice</nl>
+   <nl>Russische lokalisatie van LibreOffice</nl>
    <pl>Russian localisation of LibreOffice</pl>
-   <pt_BR>Russian localisation of LibreOffice</pt_BR>
-   <pt>Russian localisation of LibreOffice</pt>
+   <pt_BR>Russo Localização para LibreOffice</pt_BR>
+   <pt>Russo Localização para LibreOffice</pt>
    <ro>Russian localisation of LibreOffice</ro>
    <ru>Russian localisation of LibreOffice</ru>
    <sk>Russian localisation of LibreOffice</sk>

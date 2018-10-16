@@ -11,14 +11,14 @@ Docky
 
 <description>
    <am>Elegant, Clean, Powerful Dock</am>
-   <ca>Elegant, Clean, Powerful Dock</ca>
+   <ca>Acoblador elegant, net i potent</ca>
    <cs>Elegant, Clean, Powerful Dock</cs>
    <de>Elegantes, sauberes, leistungsstarkes Dock</de>
    <el>Elegant, Clean, Powerful Dock</el>
    <en>Elegant, Clean, Powerful Dock</en>
    <es>Elegant, Clean, Powerful Dock</es>
    <fi>Elegant, Clean, Powerful Dock</fi>
-   <fr>Un Dock solide, clair, et élégant</fr>
+   <fr>Un Dock puissant, clair, et esthétique</fr>
    <hi>Elegant, Clean, Powerful Dock</hi>
    <hr>Elegant, Clean, Powerful Dock</hr>
    <hu>Elegant, Clean, Powerful Dock</hu>
@@ -26,10 +26,10 @@ Docky
    <ja>Elegant, Clean, Powerful Dock</ja>
    <kk>Elegant, Clean, Powerful Dock</kk>
    <lt>Elegant, Clean, Powerful Dock</lt>
-   <nl>Elegant, Clean, Powerful Dock</nl>
+   <nl>Elegant, Schoon, Krachtig Dock</nl>
    <pl>Elegant, Clean, Powerful Dock</pl>
    <pt_BR>Elegant, Clean, Powerful Dock</pt_BR>
-   <pt>Elegant, Clean, Powerful Dock</pt>
+   <pt>Doca elegante, sóbria e poderosa</pt>
    <ro>Elegant, Clean, Powerful Dock</ro>
    <ru>Elegant, Clean, Powerful Dock</ru>
    <sk>Elegant, Clean, Powerful Dock</sk>

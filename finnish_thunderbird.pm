@@ -18,18 +18,18 @@ Finnish_Thunderbird
    <en>Finnish localisation of Thunderbird</en>
    <es>Finnish localisation of Thunderbird</es>
    <fi>Finnish localisation of Thunderbird</fi>
-   <fr>Finnish localisation of Thunderbird</fr>
+   <fr>Localisation finlandaise pour Thunderbird</fr>
    <hi>Finnish localisation of Thunderbird</hi>
    <hr>Finnish localisation of Thunderbird</hr>
    <hu>Finnish localisation of Thunderbird</hu>
-   <it>Finnish localisation of Thunderbird</it>
+   <it>Localizzazione finlandese di Thunderbird</it>
    <ja>Finnish localisation of Thunderbird</ja>
    <kk>Finnish localisation of Thunderbird</kk>
    <lt>Finnish localisation of Thunderbird</lt>
-   <nl>Finnish localisation of Thunderbird</nl>
+   <nl>Finse lokalisatie van Thunderbird</nl>
    <pl>Finnish localisation of Thunderbird</pl>
-   <pt_BR>Finnish localisation of Thunderbird</pt_BR>
-   <pt>Finnish localisation of Thunderbird</pt>
+   <pt_BR>Finlandês Localização para Thunderbird</pt_BR>
+   <pt>Finlandês Localização para Thunderbird</pt>
    <ro>Finnish localisation of Thunderbird</ro>
    <ru>Finnish localisation of Thunderbird</ru>
    <sk>Finnish localisation of Thunderbird</sk>

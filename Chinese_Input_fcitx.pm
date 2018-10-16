@@ -25,11 +25,11 @@ Chinese_Input_fcitx
    <it>Chinese fcitx</it>
    <ja>Chinese fcitx</ja>
    <kk>Chinese fcitx</kk>
-   <lt>Chinese fcitx</lt>
+   <lt>Kinų fcitx</lt>
    <nl>Chinese fcitx</nl>
    <pl>Chinese fcitx</pl>
-   <pt_BR>Chinese fcitx</pt_BR>
-   <pt>Chinese fcitx</pt>
+   <pt_BR>Chinês fcitx</pt_BR>
+   <pt>Chinês fcitx</pt>
    <ro>Chinese fcitx</ro>
    <ru>Chinese fcitx</ru>
    <sk>Chinese fcitx</sk>

@@ -18,18 +18,18 @@ Japanses_Thunderbird
    <en>Japanese localisation of Thunderbird</en>
    <es>Japanese localisation of Thunderbird</es>
    <fi>Japanese localisation of Thunderbird</fi>
-   <fr>Japanese localisation of Thunderbird</fr>
+   <fr>Localisation japonaise pour Thunderbird</fr>
    <hi>Japanese localisation of Thunderbird</hi>
    <hr>Japanese localisation of Thunderbird</hr>
    <hu>Japanese localisation of Thunderbird</hu>
-   <it>Japanese localisation of Thunderbird</it>
+   <it>Localizzazione giapponese di Thunderbird</it>
    <ja>Japanese localisation of Thunderbird</ja>
    <kk>Japanese localisation of Thunderbird</kk>
    <lt>Japanese localisation of Thunderbird</lt>
-   <nl>Japanese localisation of Thunderbird</nl>
+   <nl>Japanse lokalisatie van Thunderbird</nl>
    <pl>Japanese localisation of Thunderbird</pl>
-   <pt_BR>Japanese localisation of Thunderbird</pt_BR>
-   <pt>Japanese localisation of Thunderbird</pt>
+   <pt_BR>Japonês Localização para Thunderbird</pt_BR>
+   <pt>Japonês Localização para Thunderbird</pt>
    <ro>Japanese localisation of Thunderbird</ro>
    <ru>Japanese localisation of Thunderbird</ru>
    <sk>Japanese localisation of Thunderbird</sk>

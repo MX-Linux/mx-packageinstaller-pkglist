@@ -18,18 +18,18 @@ Primary
    <en>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</en>
    <es>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</es>
    <fi>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</fi>
-   <fr>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</fr>
+   <fr>Primaire. Inclus: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, et marble</fr>
    <hi>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</hi>
    <hr>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</hr>
    <hu>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</hu>
-   <it>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</it>
+   <it>Medie. Include: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, e marble</it>
    <ja>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ja>
    <kk>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</kk>
    <lt>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</lt>
-   <nl>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</nl>
+   <nl>Basis. Inclusief: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, en marble</nl>
    <pl>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</pl>
    <pt_BR>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</pt_BR>
-   <pt>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</pt>
+   <pt>Ensino básico, 1º e 2º ciclos. Inclui: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, e marble</pt>
    <ro>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ro>
    <ru>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ru>
    <sk>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</sk>

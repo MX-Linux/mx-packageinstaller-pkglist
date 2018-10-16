@@ -18,18 +18,18 @@ GB_English_Thunderbird
    <en>GB English localisation of Thunderbird</en>
    <es>GB English localisation of Thunderbird</es>
    <fi>GB English localisation of Thunderbird</fi>
-   <fr>GB English localisation of Thunderbird</fr>
+   <fr>Localisation anglaise_GB pour Thunderbird</fr>
    <hi>GB English localisation of Thunderbird</hi>
    <hr>GB English localisation of Thunderbird</hr>
    <hu>GB English localisation of Thunderbird</hu>
-   <it>GB English localisation of Thunderbird</it>
+   <it>Localizzazione in Inglese GB di Thunderbird</it>
    <ja>GB English localisation of Thunderbird</ja>
    <kk>GB English localisation of Thunderbird</kk>
    <lt>GB English localisation of Thunderbird</lt>
-   <nl>GB English localisation of Thunderbird</nl>
+   <nl>GB Engelse lokalisatie van Thunderbird</nl>
    <pl>GB English localisation of Thunderbird</pl>
-   <pt_BR>GB English localisation of Thunderbird</pt_BR>
-   <pt>GB English localisation of Thunderbird</pt>
+   <pt_BR>GB Inglês Localização para Thunderbird</pt_BR>
+   <pt>Inglês GB Localização para Thunderbird</pt>
    <ro>GB English localisation of Thunderbird</ro>
    <ru>GB English localisation of Thunderbird</ru>
    <sk>GB English localisation of Thunderbird</sk>

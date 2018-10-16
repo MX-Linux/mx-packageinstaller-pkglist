@@ -11,25 +11,25 @@ Nomachine
 
 <description>
    <am>Cross Platform Remote Access Software</am>
-   <ca>Cross Platform Remote Access Software</ca>
+   <ca>Programari d'accés remot multiplataforma</ca>
    <cs>Cross Platform Remote Access Software</cs>
    <de>Plattformübergreifende Remote Access Software</de>
    <el>Cross Platform Remote Access Software</el>
    <en>Cross Platform Remote Access Software</en>
    <es>Cross Platform Remote Access Software</es>
    <fi>Cross Platform Remote Access Software</fi>
-   <fr>Cross Platform Remote Access Software</fr>
+   <fr>Logiciel d'accès à distance entre appareils</fr>
    <hi>Cross Platform Remote Access Software</hi>
    <hr>Cross Platform Remote Access Software</hr>
    <hu>Cross Platform Remote Access Software</hu>
-   <it>Cross Platform Remote Access Software</it>
+   <it>Software di accesso remoto multipiattaforma</it>
    <ja>Cross Platform Remote Access Software</ja>
    <kk>Cross Platform Remote Access Software</kk>
    <lt>Cross Platform Remote Access Software</lt>
-   <nl>Cross Platform Remote Access Software</nl>
+   <nl>Cross Platform Op Afstand Toegankelijk Software</nl>
    <pl>Cross Platform Remote Access Software</pl>
    <pt_BR>Cross Platform Remote Access Software</pt_BR>
-   <pt>Cross Platform Remote Access Software</pt>
+   <pt>Software multi-plataforma para Acesso Remoto  </pt>
    <ro>Cross Platform Remote Access Software</ro>
    <ru>Cross Platform Remote Access Software</ru>
    <sk>Cross Platform Remote Access Software</sk>
