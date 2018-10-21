@@ -3,7 +3,7 @@
 #run winecfg as part of mx-packageinstaller
 #must run winecfg as user
 
-launch_user=$(ps -aux |grep -m 1 su-to-root |grep -v grep|awk '{print $1}')
+launch_user=$(logname)
 echo $launch_user
 #run winecfg as user
 if [ "$launch_user" = "" ]; then
