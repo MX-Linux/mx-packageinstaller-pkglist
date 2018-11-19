@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.11.01) mx; urgency=medium
+
+  * added clonezilla and ssh-conduit-antix 
+
+ -- dolphin <dolphin@littlebyte>  Sun, 18 Nov 2018 21:12:31 -0500
+
 mx-packageinstaller-pkglist (18.10.4) mx; urgency=medium
 
   * use logname instead of ps command for run_wincfg.sh
