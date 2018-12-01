@@ -13,6 +13,7 @@ Debian-Backports 32 bit PAE
    <am>Debian Backports Kernel (32 bit PAE)</am>
    <ca>Nucli de Debian Backports (32 bit amb PAE)</ca>
    <cs>Debian Backports Kernel (32 bit PAE)</cs>
+   <da>Debian Backports Kernel (32 bit PAE)</da>
    <de>Debian-Backports-Kernel (32-Bit-PAE)</de>
    <el>Debian Backports Kernel (32 bit PAE)</el>
    <en>Debian Backports Kernel (32 bit PAE)</en>
@@ -22,6 +23,7 @@ Debian-Backports 32 bit PAE
    <hi>Debian Backports Kernel (32 bit PAE)</hi>
    <hr>Debian Backports Kernel (32 bit PAE)</hr>
    <hu>Debian Backports Kernel (32 bit PAE)</hu>
+   <is>Debian Backports Kernel (32 bit PAE)</is>
    <it>Debian Backports Kernel (32 bit PAE)</it>
    <ja>Debian Backports Kernel (32 bit PAE)</ja>
    <kk>Debian Backports Kernel (32 bit PAE)</kk>
@@ -31,8 +33,9 @@ Debian-Backports 32 bit PAE
    <pt_BR>Debian Backports Kernel (32 bit PAE)</pt_BR>
    <pt>Debian Backports Kernel (32 bit PAE)</pt>
    <ro>Debian Backports Kernel (32 bit PAE)</ro>
-   <ru>Debian Backports Kernel (32 bit PAE)</ru>
+   <ru>Debian ядро Backports, 32 bit PAE</ru>
    <sk>Debian Backports Kernel (32 bit PAE)</sk>
+   <sq>Debian Backports Kernel (32 bit PAE)</sq>
    <sv>Debian Backports Kärna (32 bit PAE)</sv>
    <tr>Debian Backports Kernel (32 bit PAE)</tr>
    <uk>Debian Backports Kernel (32 bit PAE)</uk>

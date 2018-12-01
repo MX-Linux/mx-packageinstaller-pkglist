@@ -13,8 +13,9 @@ DVDStyler
    <am>DVD authoring application for the creation of professional-looking DVDs</am>
    <ca>Aplicació de creació de DVD per gravar DVDs d'aspecte professional</ca>
    <cs>DVD authoring application for the creation of professional-looking DVDs</cs>
+   <da>DVD authoring application for the creation of professional-looking DVDs</da>
    <de>DVD-Authoring-Anwendung zur Erstellung professionell aussehender DVDs</de>
-   <el>DVD authoring application for the creation of professional-looking DVDs</el>
+   <el>Εφαρμογή δημιουργίας DVD για τη δημιουργία επαγγελματικών DVD</el>
    <en>DVD authoring application for the creation of professional-looking DVDs</en>
    <es>DVD authoring application for the creation of professional-looking DVDs</es>
    <fi>DVD authoring application for the creation of professional-looking DVDs</fi>
@@ -22,6 +23,7 @@ DVDStyler
    <hi>DVD authoring application for the creation of professional-looking DVDs</hi>
    <hr>DVD authoring application for the creation of professional-looking DVDs</hr>
    <hu>DVD authoring application for the creation of professional-looking DVDs</hu>
+   <is>DVD authoring application for the creation of professional-looking DVDs</is>
    <it>Applicazione di authoring DVD per la creazione di DVD dall'aspetto professionale</it>
    <ja>DVD authoring application for the creation of professional-looking DVDs</ja>
    <kk>DVD authoring application for the creation of professional-looking DVDs</kk>
@@ -31,8 +33,9 @@ DVDStyler
    <pt_BR>DVD authoring application for the creation of professional-looking DVDs</pt_BR>
    <pt>Aplicação de composição de DVDs para criar DVDs de aspecto  profissional</pt>
    <ro>DVD authoring application for the creation of professional-looking DVDs</ro>
-   <ru>DVD authoring application for the creation of professional-looking DVDs</ru>
+   <ru>Приложение авторинга DVD для создания профессионально оформленных DVD</ru>
    <sk>DVD authoring application for the creation of professional-looking DVDs</sk>
+   <sq>DVD authoring application for the creation of professional-looking DVDs</sq>
    <sv>DVD-skapande applikation för att göra proffsiga DVD</sv>
    <tr>DVD authoring application for the creation of professional-looking DVDs</tr>
    <uk>DVD authoring application for the creation of professional-looking DVDs</uk>

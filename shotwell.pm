@@ -13,8 +13,9 @@ Shotwell
    <am>digital photo organizer</am>
    <ca>Organitzador de fotos digitals</ca>
    <cs>digital photo organizer</cs>
+   <da>digital photo organizer</da>
    <de>Digitalfoto-Organizer</de>
-   <el>digital photo organizer</el>
+   <el>ψηφιακό διοργανωτή φωτογραφιών</el>
    <en>digital photo organizer</en>
    <es>digital photo organizer</es>
    <fi>digital photo organizer</fi>
@@ -22,6 +23,7 @@ Shotwell
    <hi>digital photo organizer</hi>
    <hr>digital photo organizer</hr>
    <hu>digital photo organizer</hu>
+   <is>digital photo organizer</is>
    <it>organizzatore di foto digitali</it>
    <ja>digital photo organizer</ja>
    <kk>digital photo organizer</kk>
@@ -31,8 +33,9 @@ Shotwell
    <pt_BR>digital photo organizer</pt_BR>
    <pt>digital photo organizer</pt>
    <ro>digital photo organizer</ro>
-   <ru>digital photo organizer</ru>
+   <ru>Каталогизатор фотографий и видеофайлов</ru>
    <sk>digital photo organizer</sk>
+   <sq>digital photo organizer</sq>
    <sv>digital foto-organiserare</sv>
    <tr>digital photo organizer</tr>
    <uk>digital photo organizer</uk>

@@ -13,8 +13,9 @@ Hungarian
    <am>Hungarian Language Meta-Package</am>
    <ca>Meta-paquet de llengua en Hongarès</ca>
    <cs>Hungarian Language Meta-Package</cs>
+   <da>Ungarsk sprog-metapakke</da>
    <de>Ungarisches Sprach-Meta-Paket</de>
-   <el>Hungarian Language Meta-Package</el>
+   <el>Ουγγρική γλώσσα</el>
    <en>Hungarian Language Meta-Package</en>
    <es>Hungarian Language Meta-Package</es>
    <fi>Hungarian Language Meta-Package</fi>
@@ -22,6 +23,7 @@ Hungarian
    <hi>Hungarian Language Meta-Package</hi>
    <hr>Hungarian Language Meta-Package</hr>
    <hu>Hungarian Language Meta-Package</hu>
+   <is>Hungarian Language Meta-Package</is>
    <it>Meta-pacchetto della lingua ungherese</it>
    <ja>Hungarian Language Meta-Package</ja>
    <kk>Hungarian Language Meta-Package</kk>
@@ -33,6 +35,7 @@ Hungarian
    <ro>Hungarian Language Meta-Package</ro>
    <ru>Hungarian Language Meta-Package</ru>
    <sk>Hungarian Language Meta-Package</sk>
+   <sq>Hungarian Language Meta-Package</sq>
    <sv>Ungerskt Språk Meta-Paket</sv>
    <tr>Hungarian Language Meta-Package</tr>
    <uk>Hungarian Language Meta-Package</uk>

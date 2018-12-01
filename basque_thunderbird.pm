@@ -13,8 +13,9 @@ Basque_Thunderbird
    <am>Basque localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Euskara</ca>
    <cs>Basque localisation of Thunderbird</cs>
+   <da>Baskisk oversættelse af Thunderbird</da>
    <de>Baskische Lokalisierung von Thunderbird</de>
-   <el>Basque localisation of Thunderbird</el>
+   <el>Basque εντοπισμός του Thunderbird</el>
    <en>Basque localisation of Thunderbird</en>
    <es>Localización Vasco de Thunderbird</es>
    <fi>Basque localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Basque_Thunderbird
    <hi>Basque localisation of Thunderbird</hi>
    <hr>Baskijska lokalizacija Thunderbirda</hr>
    <hu>Basque localisation of Thunderbird</hu>
+   <is>Basque localisation of Thunderbird</is>
    <it>Localizzazione basca di Thunderbird</it>
    <ja>Basque localisation of Thunderbird</ja>
    <kk>Basque localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Basque_Thunderbird
    <ro>Basque localisation of Thunderbird</ro>
    <ru>Basque localisation of Thunderbird</ru>
    <sk>Basque localisation of Thunderbird</sk>
+   <sq>Basque localisation of Thunderbird</sq>
    <sv>Baskisk lokalisering av Thunderbird</sv>
    <tr>Basque localisation of Thunderbird</tr>
    <uk>Basque localisation of Thunderbird</uk>

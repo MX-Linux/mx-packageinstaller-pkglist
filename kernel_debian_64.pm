@@ -13,8 +13,9 @@ Debian 64 bit
    <am>Default Debian 4.9 kernel Meltdown patched, 64bit</am>
    <ca>Nucli de Debian 4.9 64 bit, amb pedaç per Meltdown</ca>
    <cs>Default Debian 4.9 kernel Meltdown patched, 64bit</cs>
+   <da>Default Debian 4.9 kernel Meltdown patched, 64bit</da>
    <de>Standard Debian 4.9 Kernel Meltdown gepatcht, 64bit</de>
-   <el>Default Debian 4.9 kernel Meltdown patched, 64bit</el>
+   <el>Προκαθορισμένο Debian 4.9 πυρήνα Meltdown patched, 64bit</el>
    <en>Default Debian 4.9 kernel Meltdown patched, 64bit</en>
    <es>Default Debian 4.9 kernel Meltdown patched, 64bit</es>
    <fi>Default Debian 4.9 kernel Meltdown patched, 64bit</fi>
@@ -22,6 +23,7 @@ Debian 64 bit
    <hi>Default Debian 4.9 kernel Meltdown patched, 64bit</hi>
    <hr>Default Debian 4.9 kernel Meltdown patched, 64bit</hr>
    <hu>Default Debian 4.9 kernel Meltdown patched, 64bit</hu>
+   <is>Default Debian 4.9 kernel Meltdown patched, 64bit</is>
    <it>Default Debian 4.9 kernel con la patch per Meltdown, 64bit</it>
    <ja>Default Debian 4.9 kernel Meltdown patched, 64bit</ja>
    <kk>Default Debian 4.9 kernel Meltdown patched, 64bit</kk>
@@ -31,8 +33,9 @@ Debian 64 bit
    <pt_BR>Default Debian 4.9 kernel Meltdown patched, 64bit</pt_BR>
    <pt>Núcleo padrão Debian 4.9 com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
    <ro>Default Debian 4.9 kernel Meltdown patched, 64bit</ro>
-   <ru>Default Debian 4.9 kernel Meltdown patched, 64bit</ru>
+   <ru>Debian ядро по умолчанию 4.9 с патчем от Meltdown, 64bit</ru>
    <sk>Default Debian 4.9 kernel Meltdown patched, 64bit</sk>
+   <sq>Default Debian 4.9 kernel Meltdown patched, 64bit</sq>
    <sv>Standard Debian 4.9 kärna Meltdown patched, 64bit</sv>
    <tr>Default Debian 4.9 kernel Meltdown patched, 64bit</tr>
    <uk>Default Debian 4.9 kernel Meltdown patched, 64bit</uk>

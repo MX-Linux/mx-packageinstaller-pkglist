@@ -13,8 +13,9 @@ French
    <am>French Language Meta-Package</am>
    <ca>Meta-paquet de llengua Francesa</ca>
    <cs>French Language Meta-Package</cs>
+   <da>Fransk sprog-metapakke</da>
    <de>Französisches Sprach-Meta-Paket</de>
-   <el>French Language Meta-Package</el>
+   <el>Γαλλική γλώσσα</el>
    <en>French Language Meta-Package</en>
    <es>French Language Meta-Package</es>
    <fi>French Language Meta-Package</fi>
@@ -22,6 +23,7 @@ French
    <hi>French Language Meta-Package</hi>
    <hr>French Language Meta-Package</hr>
    <hu>French Language Meta-Package</hu>
+   <is>French Language Meta-Package</is>
    <it>Meta-pacchetto della lingua francese</it>
    <ja>French Language Meta-Package</ja>
    <kk>French Language Meta-Package</kk>
@@ -33,6 +35,7 @@ French
    <ro>French Language Meta-Package</ro>
    <ru>French Language Meta-Package</ru>
    <sk>French Language Meta-Package</sk>
+   <sq>French Language Meta-Package</sq>
    <sv>Franskt Språk Meta-Paket</sv>
    <tr>French Language Meta-Package</tr>
    <uk>French Language Meta-Package</uk>

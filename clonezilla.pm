@@ -13,6 +13,7 @@ clonezilla
    <am>clone and restore disks and partitions</am>
    <ca>clone and restore disks and partitions</ca>
    <cs>clone and restore disks and partitions</cs>
+   <da>clone and restore disks and partitions</da>
    <de>clone and restore disks and partitions</de>
    <el>clone and restore disks and partitions</el>
    <en>clone and restore disks and partitions</en>
@@ -22,6 +23,7 @@ clonezilla
    <hi>clone and restore disks and partitions</hi>
    <hr>clone and restore disks and partitions</hr>
    <hu>clone and restore disks and partitions</hu>
+   <is>clone and restore disks and partitions</is>
    <it>clone and restore disks and partitions</it>
    <ja>clone and restore disks and partitions</ja>
    <kk>clone and restore disks and partitions</kk>
@@ -33,6 +35,7 @@ clonezilla
    <ro>clone and restore disks and partitions</ro>
    <ru>clone and restore disks and partitions</ru>
    <sk>clone and restore disks and partitions</sk>
+   <sq>clone and restore disks and partitions</sq>
    <sv>clone and restore disks and partitions</sv>
    <tr>clone and restore disks and partitions</tr>
    <uk>clone and restore disks and partitions</uk>

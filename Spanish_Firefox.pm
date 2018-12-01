@@ -13,8 +13,9 @@ Spanish_Firefox
    <am>Spanish localisation of Firefox</am>
    <ca>Localització de Firefox en Castellà</ca>
    <cs>Spanish localisation of Firefox</cs>
+   <da>Spansk oversættelse af Firefox</da>
    <de>Spanische Lokalisierung von Firefox</de>
-   <el>Spanish localisation of Firefox</el>
+   <el>Ισπανικός εντοπισμός του Firefox</el>
    <en>Spanish localisation of Firefox</en>
    <es>Spanish localisation of Firefox</es>
    <fi>Spanish localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Spanish_Firefox
    <hi>Spanish localisation of Firefox</hi>
    <hr>Spanish localisation of Firefox</hr>
    <hu>Spanish localisation of Firefox</hu>
+   <is>Spanish localisation of Firefox</is>
    <it>Localizzazione spagnola di Firefox</it>
    <ja>Spanish localisation of Firefox</ja>
    <kk>Spanish localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Spanish_Firefox
    <ro>Spanish localisation of Firefox</ro>
    <ru>Spanish localisation of Firefox</ru>
    <sk>Spanish localisation of Firefox</sk>
+   <sq>Spanish localisation of Firefox</sq>
    <sv>Spansk lokalisering av Firefox </sv>
    <tr>Spanish localisation of Firefox</tr>
    <uk>Spanish localisation of Firefox</uk>

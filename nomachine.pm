@@ -13,8 +13,9 @@ Nomachine
    <am>Cross Platform Remote Access Software</am>
    <ca>Programari d'accés remot multiplataforma</ca>
    <cs>Cross Platform Remote Access Software</cs>
+   <da>Cross Platform Remote Access Software</da>
    <de>Plattformübergreifende Remote Access Software</de>
-   <el>Cross Platform Remote Access Software</el>
+   <el>Λογισμικό απομακρυσμένης πρόσβασης</el>
    <en>Cross Platform Remote Access Software</en>
    <es>Cross Platform Remote Access Software</es>
    <fi>Cross Platform Remote Access Software</fi>
@@ -22,6 +23,7 @@ Nomachine
    <hi>Cross Platform Remote Access Software</hi>
    <hr>Cross Platform Remote Access Software</hr>
    <hu>Cross Platform Remote Access Software</hu>
+   <is>Cross Platform Remote Access Software</is>
    <it>Software di accesso remoto multipiattaforma</it>
    <ja>Cross Platform Remote Access Software</ja>
    <kk>Cross Platform Remote Access Software</kk>
@@ -31,8 +33,9 @@ Nomachine
    <pt_BR>Cross Platform Remote Access Software</pt_BR>
    <pt>Software multi-plataforma para Acesso Remoto  </pt>
    <ro>Cross Platform Remote Access Software</ro>
-   <ru>Cross Platform Remote Access Software</ru>
+   <ru>Программный комплекс управления удаленным компьютером</ru>
    <sk>Cross Platform Remote Access Software</sk>
+   <sq>Cross Platform Remote Access Software</sq>
    <sv>Plattformsoberoende Fjärråtkomst-mjukvara</sv>
    <tr>Cross Platform Remote Access Software</tr>
    <uk>Cross Platform Remote Access Software</uk>

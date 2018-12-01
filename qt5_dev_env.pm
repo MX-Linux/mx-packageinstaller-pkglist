@@ -13,8 +13,9 @@ QT5 Dev Enviroment
    <am>QT5 Development Environment</am>
    <ca>Entorn de desenvolupament per QT5</ca>
    <cs>QT5 Development Environment</cs>
+   <da>QT5 Development Environment</da>
    <de>Qt5 Entwicklungsumgebung</de>
-   <el>QT5 Development Environment</el>
+   <el>Περιβάλλον ανάπτυξης του QT5</el>
    <en>QT5 Development Environment</en>
    <es>QT5 Development Environment</es>
    <fi>QT5 Development Environment</fi>
@@ -22,6 +23,7 @@ QT5 Dev Enviroment
    <hi>QT5 Development Environment</hi>
    <hr>QT5 Development Environment</hr>
    <hu>QT5 Development Environment</hu>
+   <is>QT5 Development Environment</is>
    <it>Ambiente di sviluppo QT5</it>
    <ja>QT5 Development Environment</ja>
    <kk>QT5 Development Environment</kk>
@@ -31,8 +33,9 @@ QT5 Dev Enviroment
    <pt_BR>QT5 Development Environment</pt_BR>
    <pt>QT5 Development Environment</pt>
    <ro>QT5 Development Environment</ro>
-   <ru>QT5 Development Environment</ru>
+   <ru>Среда разработки под QT-5</ru>
    <sk>QT5 Development Environment</sk>
+   <sq>QT5 Development Environment</sq>
    <sv>QT5 Utvecklingsmiljö</sv>
    <tr>QT5 Development Environment</tr>
    <uk>QT5 Development Environment</uk>

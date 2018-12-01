@@ -13,15 +13,17 @@ adobe flash
    <am>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</am>
    <ca>Adobe Flash oficial, incloent-hi extensions per Chromium (pepperflash) i Firefox</ca>
    <cs>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</cs>
+   <da>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</da>
    <de>Offizielles Adobe-Flash-Plugin für Chromium (pepperflash) und Firefox</de>
-   <el>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</el>
+   <el>Επίσημο Adobe Flash, συμπεριλαμβανομένων των plugin για chromium (pepperflash) και firefox</el>
    <en>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</en>
-   <es>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</es>
+   <es>Adobe Flash oficial. Incluye plugins para chromium (pepperflash) y firefox</es>
    <fi>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</fi>
    <fr>Adobe Flash officiel, incluant plugins pour Chromium (pepperflash) et Firefox</fr>
    <hi>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</hi>
    <hr>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</hr>
    <hu>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</hu>
+   <is>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</is>
    <it>Adobe Flash ufficiale, contenente plugins per chromium (pepperflash) e firefox</it>
    <ja>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</ja>
    <kk>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</kk>
@@ -31,8 +33,9 @@ adobe flash
    <pt_BR>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</pt_BR>
    <pt>Adobe Flash oficial que inclui suplementos (plugins) para chromium (pepperflash) e firefox</pt>
    <ro>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</ro>
-   <ru>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</ru>
+   <ru>Официальный Adobe Flash, включающий плагины для Chromium (pepperflash) и Firefox</ru>
    <sk>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</sk>
+   <sq>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</sq>
    <sv>Officiell Adobe Flash, inkluderande plugins för chromium (pepperflash) och firefox</sv>
    <tr>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</tr>
    <uk>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</uk>

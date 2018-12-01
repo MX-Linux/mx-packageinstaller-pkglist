@@ -13,15 +13,17 @@ Wine
    <am>run Windows applications without a copy of Microsoft Windows</am>
    <ca>Executa aplicacions Windows sense una còpia de MS-Windows</ca>
    <cs>run Windows applications without a copy of Microsoft Windows</cs>
+   <da>run Windows applications without a copy of Microsoft Windows</da>
    <de>Ausführen von Windows-Anwendungen ohne eine Kopie von Microsoft Windows</de>
-   <el>run Windows applications without a copy of Microsoft Windows</el>
+   <el>εκτέλεση εφαρμογών των Windows</el>
    <en>run Windows applications without a copy of Microsoft Windows</en>
-   <es>run Windows applications without a copy of Microsoft Windows</es>
+   <es>ejecute aplicaciones de Windows sin una copia de Microsoft Windows</es>
    <fi>run Windows applications without a copy of Microsoft Windows</fi>
    <fr>Lancer des applications Windows sans avoir besoin d'installer Windows</fr>
    <hi>run Windows applications without a copy of Microsoft Windows</hi>
    <hr>run Windows applications without a copy of Microsoft Windows</hr>
    <hu>run Windows applications without a copy of Microsoft Windows</hu>
+   <is>run Windows applications without a copy of Microsoft Windows</is>
    <it>esegue applicazioni Windows senza la presenza del sistema operativo Microsoft Windows</it>
    <ja>run Windows applications without a copy of Microsoft Windows</ja>
    <kk>run Windows applications without a copy of Microsoft Windows</kk>
@@ -31,8 +33,9 @@ Wine
    <pt_BR>Executar aplicações para Windows sem precisar do Microsoft Windows</pt_BR>
    <pt>Executar aplicações para Windows sem precisar do Microsoft Windows</pt>
    <ro>run Windows applications without a copy of Microsoft Windows</ro>
-   <ru>run Windows applications without a copy of Microsoft Windows</ru>
+   <ru>Запуск приложений для Windows в окружении GNU/Linux</ru>
    <sk>run Windows applications without a copy of Microsoft Windows</sk>
+   <sq>run Windows applications without a copy of Microsoft Windows</sq>
    <sv>kör Windows applikationer utan Microsoft Windows</sv>
    <tr>run Windows applications without a copy of Microsoft Windows</tr>
    <uk>run Windows applications without a copy of Microsoft Windows</uk>

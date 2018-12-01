@@ -13,8 +13,9 @@ German_Thunderbird
    <am>German localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Alemany</ca>
    <cs>German localisation of Thunderbird</cs>
+   <da>Tysk oversættelse af Thunderbird</da>
    <de>Deutsche Lokalisierung von Thunderbird</de>
-   <el>German localisation of Thunderbird</el>
+   <el>Γερμανικός εντοπισμός του Thunderbird</el>
    <en>German localisation of Thunderbird</en>
    <es>German localisation of Thunderbird</es>
    <fi>German localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ German_Thunderbird
    <hi>German localisation of Thunderbird</hi>
    <hr>German localisation of Thunderbird</hr>
    <hu>German localisation of Thunderbird</hu>
+   <is>German localisation of Thunderbird</is>
    <it>Localizzazione tedesca di Thunderbird</it>
    <ja>German localisation of Thunderbird</ja>
    <kk>German localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ German_Thunderbird
    <ro>German localisation of Thunderbird</ro>
    <ru>German localisation of Thunderbird</ru>
    <sk>German localisation of Thunderbird</sk>
+   <sq>German localisation of Thunderbird</sq>
    <sv>Tysk lokalisering av Thunderbird</sv>
    <tr>German localisation of Thunderbird</tr>
    <uk>German localisation of Thunderbird</uk>

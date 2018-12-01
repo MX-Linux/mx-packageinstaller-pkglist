@@ -13,15 +13,17 @@ Inkscape
    <am>a vector-based drawing program</am>
    <ca>Programa de dibuix basat en vectors</ca>
    <cs>a vector-based drawing program</cs>
+   <da>a vector-based drawing program</da>
    <de>Ein vektorbasiertes Zeichenprogramm</de>
-   <el>a vector-based drawing program</el>
+   <el>ένα πρόγραμμα σχεδίασης vector-based</el>
    <en>a vector-based drawing program</en>
-   <es>a vector-based drawing program</es>
+   <es>programa de dibujo vectorial</es>
    <fi>a vector-based drawing program</fi>
    <fr>Programme de dessin vectoriel</fr>
    <hi>a vector-based drawing program</hi>
    <hr>a vector-based drawing program</hr>
    <hu>a vector-based drawing program</hu>
+   <is>a vector-based drawing program</is>
    <it>programma di disegno vettoriale</it>
    <ja>a vector-based drawing program</ja>
    <kk>a vector-based drawing program</kk>
@@ -31,8 +33,9 @@ Inkscape
    <pt_BR>a vector-based drawing program</pt_BR>
    <pt>Programa de desenho de base vectorial</pt>
    <ro>a vector-based drawing program</ro>
-   <ru>a vector-based drawing program</ru>
+   <ru>Векторный графический редактор с богатым функционалом</ru>
    <sk>a vector-based drawing program</sk>
+   <sq>a vector-based drawing program</sq>
    <sv>ett vektorbaserat ritprogram</sv>
    <tr>a vector-based drawing program</tr>
    <uk>a vector-based drawing program</uk>

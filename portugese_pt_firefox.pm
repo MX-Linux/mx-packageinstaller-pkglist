@@ -13,8 +13,9 @@ Portugese(PT) Firefox
    <am>Portugese(PT) localisation of Firefox</am>
    <ca>Localització de Firefox en Portuguès (PT)</ca>
    <cs>Portugese(PT) localisation of Firefox</cs>
+   <da>Portugisisk (portugal) oversættelse af Firefox</da>
    <de>Portugiesische (PT) Lokalisierung von Firefox</de>
-   <el>Portugese(PT) localisation of Firefox</el>
+   <el>Πορτογαλικός εντοπισμός του Firefox</el>
    <en>Portugese(PT) localisation of Firefox</en>
    <es>Portugese(PT) localisation of Firefox</es>
    <fi>Portugese(PT) localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Portugese(PT) Firefox
    <hi>Portugese(PT) localisation of Firefox</hi>
    <hr>Portugese(PT) localisation of Firefox</hr>
    <hu>Portugese(PT) localisation of Firefox</hu>
+   <is>Portugese(PT) localisation of Firefox</is>
    <it>Localizzazione portoghese(PT) di Firefox</it>
    <ja>Portugese(PT) localisation of Firefox</ja>
    <kk>Portugese(PT) localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Portugese(PT) Firefox
    <ro>Portugese(PT) localisation of Firefox</ro>
    <ru>Portugese(PT) localisation of Firefox</ru>
    <sk>Portugese(PT) localisation of Firefox</sk>
+   <sq>Portugese(PT) localisation of Firefox</sq>
    <sv>Portugisisk(PT) lokalisering för Firefox</sv>
    <tr>Portugese(PT) localisation of Firefox</tr>
    <uk>Portugese(PT) localisation of Firefox</uk>

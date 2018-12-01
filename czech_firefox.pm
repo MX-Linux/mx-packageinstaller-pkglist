@@ -13,8 +13,9 @@ Czech_Firefox
    <am>Czech localisation of Firefox</am>
    <ca>Localització de Firefox en Txec</ca>
    <cs>Czech localisation of Firefox</cs>
+   <da>Tjekkisk oversættelse af Firefox</da>
    <de>Tschechische Lokalisierung von Firefox</de>
-   <el>Czech localisation of Firefox</el>
+   <el>Τσεχική εντοπισμός του Firefox</el>
    <en>Czech localisation of Firefox</en>
    <es>Czech localisation of Firefox</es>
    <fi>Czech localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Czech_Firefox
    <hi>Czech localisation of Firefox</hi>
    <hr>Czech localisation of Firefox</hr>
    <hu>Czech localisation of Firefox</hu>
+   <is>Czech localisation of Firefox</is>
    <it>Localizzazione in Ceco di Firefox</it>
    <ja>Czech localisation of Firefox</ja>
    <kk>Czech localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Czech_Firefox
    <ro>Czech localisation of Firefox</ro>
    <ru>Czech localisation of Firefox</ru>
    <sk>Czech localisation of Firefox</sk>
+   <sq>Czech localisation of Firefox</sq>
    <sv>Tjeckisk lokalisering av Firefox</sv>
    <tr>Czech localisation of Firefox</tr>
    <uk>Czech localisation of Firefox</uk>

@@ -13,15 +13,17 @@ gThumb
    <am>advanced image viewer and browser</am>
    <ca>navegador i visor d'imatges avançat</ca>
    <cs>advanced image viewer and browser</cs>
+   <da>advanced image viewer and browser</da>
    <de>Erweiterter Bildbetrachter und Browser</de>
-   <el>advanced image viewer and browser</el>
+   <el>εξελιγμένο πρόγραμμα προβολής εικόνων και πρόγραμμα περιήγησης</el>
    <en>advanced image viewer and browser</en>
-   <es>advanced image viewer and browser</es>
+   <es>Navegador y visor de imágenes avanzado</es>
    <fi>advanced image viewer and browser</fi>
    <fr>Navigateur et visionneuse d'image avancée</fr>
    <hi>advanced image viewer and browser</hi>
    <hr>advanced image viewer and browser</hr>
    <hu>advanced image viewer and browser</hu>
+   <is>advanced image viewer and browser</is>
    <it>Navigatore e visualizzatore di immagini avanzato</it>
    <ja>advanced image viewer and browser</ja>
    <kk>advanced image viewer and browser</kk>
@@ -31,8 +33,9 @@ gThumb
    <pt_BR>advanced image viewer and browser</pt_BR>
    <pt>Visualizador e explorador de imagens avançado</pt>
    <ro>advanced image viewer and browser</ro>
-   <ru>advanced image viewer and browser</ru>
+   <ru>Продвинутый просмотрщик и каталогизатор изображений</ru>
    <sk>advanced image viewer and browser</sk>
+   <sq>advanced image viewer and browser</sq>
    <sv>avancerad bildbetraktare och läsare</sv>
    <tr>advanced image viewer and browser</tr>
    <uk>advanced image viewer and browser</uk>

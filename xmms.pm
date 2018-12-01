@@ -13,15 +13,17 @@ XMMS
    <am>multimedia player modelled on winamp</am>
    <ca>Reproductor multimèdia modelat en winamp</ca>
    <cs>multimedia player modelled on winamp</cs>
+   <da>multimedia player modelled on winamp</da>
    <de>Multimedia-Player nach dem Vorbild von Winamp</de>
-   <el>multimedia player modelled on winamp</el>
+   <el>αναπαραγωγή πολυμέσων με βάση το winamp</el>
    <en>multimedia player modelled on winamp</en>
-   <es>multimedia player modelled on winamp</es>
+   <es>reproductor multimedia estilo winamp</es>
    <fi>multimedia player modelled on winamp</fi>
    <fr>Lecteur multimédia inspiré de winamp</fr>
    <hi>multimedia player modelled on winamp</hi>
    <hr>multimedia player modelled on winamp</hr>
    <hu>multimedia player modelled on winamp</hu>
+   <is>multimedia player modelled on winamp</is>
    <it>riproduttore multimediale simile a winamp</it>
    <ja>multimedia player modelled on winamp</ja>
    <kk>multimedia player modelled on winamp</kk>
@@ -31,8 +33,9 @@ XMMS
    <pt_BR>Reprodutor de multimídia semelhante ao winamp</pt_BR>
    <pt>Reprodutor de multimédia semelhante ao winamp</pt>
    <ro>multimedia player modelled on winamp</ro>
-   <ru>multimedia player modelled on winamp</ru>
+   <ru>Универсальный аудиоплеер наподобие WinAmp</ru>
    <sk>multimedia player modelled on winamp</sk>
+   <sq>multimedia player modelled on winamp</sq>
    <sv>multimediaspelare formad efter winamp</sv>
    <tr>multimedia player modelled on winamp</tr>
    <uk>multimedia player modelled on winamp</uk>

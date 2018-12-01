@@ -14,8 +14,9 @@ Shutter
    <am>a feature rich screenshot app</am>
    <ca>a feature rich screenshot app</ca>
    <cs>a feature rich screenshot app</cs>
+   <da>a feature rich screenshot app</da>
    <de>Eine funktionsreiche Screenshot-Anwendung</de>
-   <el>a feature rich screenshot app</el>
+   <el>μια εφαρμογή πλούσια σε στιγμιότυπα οθόνης</el>
    <en>a feature rich screenshot app</en>
    <es>a feature rich screenshot app</es>
    <fi>a feature rich screenshot app</fi>
@@ -23,6 +24,7 @@ Shutter
    <hi>a feature rich screenshot app</hi>
    <hr>a feature rich screenshot app</hr>
    <hu>a feature rich screenshot app</hu>
+   <is>a feature rich screenshot app</is>
    <it>applicazione per catturare lo schermo, ricca di funzioni.</it>
    <ja>a feature rich screenshot app</ja>
    <kk>a feature rich screenshot app</kk>
@@ -32,8 +34,9 @@ Shutter
    <pt_BR>a feature rich screenshot app</pt_BR>
    <pt>Aplicação de captura de ecrã plena de funcionalidades</pt>
    <ro>a feature rich screenshot app</ro>
-   <ru>a feature rich screenshot app</ru>
+   <ru>Функциональное приложение захвата снимков экрана</ru>
    <sk>a feature rich screenshot app</sk>
+   <sq>a feature rich screenshot app</sq>
    <sv>en skärmdumpsapp med många möjligheter</sv>
    <tr>a feature rich screenshot app</tr>
    <uk>a feature rich screenshot app</uk>

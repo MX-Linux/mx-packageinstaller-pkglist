@@ -13,8 +13,9 @@ Bulgarian_Thunderbird
    <am>Bulgarian localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Búlgar</ca>
    <cs>Bulgarian localisation of Thunderbird</cs>
+   <da>Bulgarsk oversættelse af Thunderbird</da>
    <de>Bulgarische Lokalisierung von Thunderbird</de>
-   <el>Bulgarian localisation of Thunderbird</el>
+   <el>Βουλγαρικό εντοπισμό του Thunderbird</el>
    <en>Bulgarian localisation of Thunderbird</en>
    <es>localización Búlgaro de Thunderbird</es>
    <fi>Bulgarian localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Bulgarian_Thunderbird
    <hi>Bulgarian localisation of Thunderbird</hi>
    <hr>Bulgarian localisation of Thunderbird</hr>
    <hu>Bulgarian localisation of Thunderbird</hu>
+   <is>Bulgarian localisation of Thunderbird</is>
    <it>Localizzazione bulgara di Thunderbird</it>
    <ja>Bulgarian localisation of Thunderbird</ja>
    <kk>Bulgarian localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Bulgarian_Thunderbird
    <ro>Bulgarian localisation of Thunderbird</ro>
    <ru>Bulgarian localisation of Thunderbird</ru>
    <sk>Bulgarian localisation of Thunderbird</sk>
+   <sq>Bulgarian localisation of Thunderbird</sq>
    <sv>Bulgarisk lokalisering av  Thunderbird</sv>
    <tr>Bulgarian localisation of Thunderbird</tr>
    <uk>Bulgarian localisation of Thunderbird</uk>

@@ -13,8 +13,9 @@ Belarusian_Firefox
    <am>Belarusian localisation of Firefox</am>
    <ca>Localització de Firefox en Belarus</ca>
    <cs>Belarusian localisation of Firefox</cs>
+   <da>Hviderussisk oversættelse af Firefox</da>
    <de>Weißrussische Lokalisierung von Firefox</de>
-   <el>Belarusian localisation of Firefox</el>
+   <el>Λευκορωσικός εντοπισμός του Firefox</el>
    <en>Belarusian localisation of Firefox</en>
    <es>Localización Belorruso de Firefox</es>
    <fi>Belarusian localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Belarusian_Firefox
    <hi>Belarusian localisation of Firefox</hi>
    <hr>Bjeloruska lokalizacija Firefoxa</hr>
    <hu>Belarusian localisation of Firefox</hu>
+   <is>Belarusian localisation of Firefox</is>
    <it>Localizzazione bielorussa di Firefox</it>
    <ja>Belarusian localisation of Firefox</ja>
    <kk>Belarusian localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Belarusian_Firefox
    <ro>Belarusian localisation of Firefox</ro>
    <ru>Belarusian localisation of Firefox</ru>
    <sk>Belarusian localisation of Firefox</sk>
+   <sq>Belarusian localisation of Firefox</sq>
    <sv>Belarus lokalisering av Firefox</sv>
    <tr>Belarusian localisation of Firefox</tr>
    <uk>Belarusian localisation of Firefox</uk>

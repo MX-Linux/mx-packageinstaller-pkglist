@@ -13,15 +13,17 @@ Start Menu Button Icons
    <am>extra icons for customizing the start menu button (antechdesigns collection)</am>
    <ca>icones addicionals per a personalitzar el botó d'engegada de menú (col·lecció antechdesigns)</ca>
    <cs>extra icons for customizing the start menu button (antechdesigns collection)</cs>
+   <da>extra icons for customizing the start menu button (antechdesigns collection)</da>
    <de>Zusätzliche Icons zum Anpassen des Startmenüs (antechdesigns collection)</de>
-   <el>extra icons for customizing the start menu button (antechdesigns collection)</el>
+   <el>πρόσθετα εικονίδια για την προσαρμογή του κουμπιού μενού εκκίνησης (συλλογή antechdesigns)</el>
    <en>extra icons for customizing the start menu button (antechdesigns collection)</en>
-   <es>extra icons for customizing the start menu button (antechdesigns collection)</es>
+   <es>íconos adicionales para personalizar el botón de menú inicio (colección antechdesigns)</es>
    <fi>extra icons for customizing the start menu button (antechdesigns collection)</fi>
    <fr>Icônes supplémentaires pour le menu démarrer (antechdesigns collection)</fr>
    <hi>extra icons for customizing the start menu button (antechdesigns collection)</hi>
    <hr>extra icons for customizing the start menu button (antechdesigns collection)</hr>
    <hu>extra icons for customizing the start menu button (antechdesigns collection)</hu>
+   <is>extra icons for customizing the start menu button (antechdesigns collection)</is>
    <it>icone extra per personalizzare il pulsante start menu (collezione antechdesigns)</it>
    <ja>extra icons for customizing the start menu button (antechdesigns collection)</ja>
    <kk>extra icons for customizing the start menu button (antechdesigns collection)</kk>
@@ -31,8 +33,9 @@ Start Menu Button Icons
    <pt_BR>extra icons for customizing the start menu button (antechdesigns collection)</pt_BR>
    <pt>Ícones extra para personalização do botão do menu Iniciar (colecção do utilizador 'antechdesigns')</pt>
    <ro>extra icons for customizing the start menu button (antechdesigns collection)</ro>
-   <ru>extra icons for customizing the start menu button (antechdesigns collection)</ru>
+   <ru>Дополнительные иконки для кастомизации кнопки пуск (коллекция antechdesigns)</ru>
    <sk>extra icons for customizing the start menu button (antechdesigns collection)</sk>
+   <sq>extra icons for customizing the start menu button (antechdesigns collection)</sq>
    <sv>extra ikoner för att anpassa startmeny-knappen (antechdesigns kollektion)</sv>
    <tr>extra icons for customizing the start menu button (antechdesigns collection)</tr>
    <uk>extra icons for customizing the start menu button (antechdesigns collection)</uk>

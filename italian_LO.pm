@@ -13,8 +13,9 @@ Italian_Libreoffice
    <am>Italian LibreOffice Language Meta-Package</am>
    <ca>Metapaquet de llenguatge italià per a LibreOffice</ca>
    <cs>Italian LibreOffice Language Meta-Package</cs>
+   <da>Italiensk LibreOffice sprog-metapakke</da>
    <de>Italienisches LibreOffice Meta-Paket</de>
-   <el>Italian LibreOffice Language Meta-Package</el>
+   <el>LibreOffice στα ιταλικά</el>
    <en>Italian LibreOffice Language Meta-Package</en>
    <es>Italian LibreOffice Language Meta-Package</es>
    <fi>Italian LibreOffice Language Meta-Package</fi>
@@ -22,6 +23,7 @@ Italian_Libreoffice
    <hi>Italian LibreOffice Language Meta-Package</hi>
    <hr>Italian LibreOffice Language Meta-Package</hr>
    <hu>Italian LibreOffice Language Meta-Package</hu>
+   <is>Italian LibreOffice Language Meta-Package</is>
    <it>Meta-pacchetto della lingua italiana per LibreOffice</it>
    <ja>Italian LibreOffice Language Meta-Package</ja>
    <kk>Italian LibreOffice Language Meta-Package</kk>
@@ -33,6 +35,7 @@ Italian_Libreoffice
    <ro>Italian LibreOffice Language Meta-Package</ro>
    <ru>Italian LibreOffice Language Meta-Package</ru>
    <sk>Italian LibreOffice Language Meta-Package</sk>
+   <sq>Italian LibreOffice Language Meta-Package</sq>
    <sv>Italienskt LibreOffice Språk-Meta-Paket</sv>
    <tr>Italian LibreOffice Language Meta-Package</tr>
    <uk>Italian LibreOffice Language Meta-Package</uk>

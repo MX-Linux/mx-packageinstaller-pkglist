@@ -13,8 +13,9 @@ Chinese_CN_Firefox
    <am>Chinese_simplified localisation of Firefox</am>
    <ca>Localització de Firefox en Xinès simplificat</ca>
    <cs>Chinese_simplified localisation of Firefox</cs>
+   <da>Kinesisk (forenklet) oversættelse af Firefox</da>
    <de>Chinesische (vereinfacht) Lokalisierung von Firefox</de>
-   <el>Chinese_simplified localisation of Firefox</el>
+   <el>Κινεζικός εντοπισμός του Firefox</el>
    <en>Chinese_simplified localisation of Firefox</en>
    <es>Chinese_simplified localisation of Firefox</es>
    <fi>Chinese_simplified localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Chinese_CN_Firefox
    <hi>Chinese_simplified localisation of Firefox</hi>
    <hr>Chinese_simplified localisation of Firefox</hr>
    <hu>Chinese_simplified localisation of Firefox</hu>
+   <is>Chinese_simplified localisation of Firefox</is>
    <it>Localizzazione in Cinese_semplificato di Firefox</it>
    <ja>Chinese_simplified localisation of Firefox</ja>
    <kk>Chinese_simplified localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Chinese_CN_Firefox
    <ro>Chinese_simplified localisation of Firefox</ro>
    <ru>Chinese_simplified localisation of Firefox</ru>
    <sk>Chinese_simplified localisation of Firefox</sk>
+   <sq>Chinese_simplified localisation of Firefox</sq>
    <sv>Kinesisk_förenklad lokalisering av Firefox</sv>
    <tr>Chinese_simplified localisation of Firefox</tr>
    <uk>Chinese_simplified localisation of Firefox</uk>

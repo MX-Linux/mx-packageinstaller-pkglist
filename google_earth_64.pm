@@ -13,6 +13,7 @@ Google Earth Pro
    <am>Google Earth Globe</am>
    <ca>Mapamundi de Google Earth</ca>
    <cs>Google Earth Globe</cs>
+   <da>Google Earth Globe</da>
    <de>Google Earth Globe</de>
    <el>Google Earth Globe</el>
    <en>Google Earth Globe</en>
@@ -22,6 +23,7 @@ Google Earth Pro
    <hi>Google Earth Globe</hi>
    <hr>Google Earth Globe</hr>
    <hu>Google Earth Globe</hu>
+   <is>Google Earth Globe</is>
    <it>Google Earth Globe</it>
    <ja>Google Earth Globe</ja>
    <kk>Google Earth Globe</kk>
@@ -31,8 +33,9 @@ Google Earth Pro
    <pt_BR>Google Earth Globe</pt_BR>
    <pt>Ver a Terra a partir do espaço</pt>
    <ro>Google Earth Globe</ro>
-   <ru>Google Earth Globe</ru>
+   <ru>Google Планета Земля - спутниковые снимки земного шара</ru>
    <sk>Google Earth Globe</sk>
+   <sq>Google Earth Globe</sq>
    <sv>Google Earth Glob</sv>
    <tr>Google Earth Globe</tr>
    <uk>Google Earth Globe</uk>

@@ -13,8 +13,9 @@ Debian-Backports 64 bit
    <am>Debian Backports kernel Meltdown patched, 64 bit</am>
    <ca>Nucli de Debian Backports 64 bit, amb pedaç per Meltdown</ca>
    <cs>Debian Backports kernel Meltdown patched, 64 bit</cs>
+   <da>Debian Backports kernel Meltdown patched, 64 bit</da>
    <de>Debian Backports-Kernel Meltdown gepatcht, 64 Bit</de>
-   <el>Debian Backports kernel Meltdown patched, 64 bit</el>
+   <el>Ο πυρήνας του Debian Backports Meltdown patched, 64 bit</el>
    <en>Debian Backports kernel Meltdown patched, 64 bit</en>
    <es>Debian Backports kernel Meltdown patched, 64 bit</es>
    <fi>Debian Backports kernel Meltdown patched, 64 bit</fi>
@@ -22,6 +23,7 @@ Debian-Backports 64 bit
    <hi>Debian Backports kernel Meltdown patched, 64 bit</hi>
    <hr>Debian Backports kernel Meltdown patched, 64 bit</hr>
    <hu>Debian Backports kernel Meltdown patched, 64 bit</hu>
+   <is>Debian Backports kernel Meltdown patched, 64 bit</is>
    <it>Debian Backports kernel con la patch per Meltdown, 64 bit</it>
    <ja>Debian Backports kernel Meltdown patched, 64 bit</ja>
    <kk>Debian Backports kernel Meltdown patched, 64 bit</kk>
@@ -31,8 +33,9 @@ Debian-Backports 64 bit
    <pt_BR>Debian Backports kernel Meltdown patched, 64 bit</pt_BR>
    <pt>Núcleo Debian Backports com correcção para a falha Meltdown, 64 bit</pt>
    <ro>Debian Backports kernel Meltdown patched, 64 bit</ro>
-   <ru>Debian Backports kernel Meltdown patched, 64 bit</ru>
+   <ru>Debian ядро Backports с патчем от Meltdown, 64 bit</ru>
    <sk>Debian Backports kernel Meltdown patched, 64 bit</sk>
+   <sq>Debian Backports kernel Meltdown patched, 64 bit</sq>
    <sv>Debian Backports kärna Meltdown patched, 64 bit</sv>
    <tr>Debian Backports kernel Meltdown patched, 64 bit</tr>
    <uk>Debian Backports kernel Meltdown patched, 64 bit</uk>

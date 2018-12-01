@@ -13,8 +13,9 @@ MPD Music Player Daemon
    <am>a flexible, powerful, server-side application for playing music</am>
    <ca>aplicació flexible i potent de servidor per reproduir música</ca>
    <cs>a flexible, powerful, server-side application for playing music</cs>
+   <da>a flexible, powerful, server-side application for playing music</da>
    <de>Eine flexible, leistungsfähige, serverseitige Anwendung zum Abspielen von Musik</de>
-   <el>a flexible, powerful, server-side application for playing music</el>
+   <el>μια ευέλικτη, ισχυρή εφαρμογή διακομιστή για αναπαραγωγή μουσικής</el>
    <en>a flexible, powerful, server-side application for playing music</en>
    <es>a flexible, powerful, server-side application for playing music</es>
    <fi>a flexible, powerful, server-side application for playing music</fi>
@@ -22,6 +23,7 @@ MPD Music Player Daemon
    <hi>a flexible, powerful, server-side application for playing music</hi>
    <hr>a flexible, powerful, server-side application for playing music</hr>
    <hu>a flexible, powerful, server-side application for playing music</hu>
+   <is>a flexible, powerful, server-side application for playing music</is>
    <it>è un'applicazione lato server, flessibile e potente, per la la riproduzione di file musicali</it>
    <ja>a flexible, powerful, server-side application for playing music</ja>
    <kk>a flexible, powerful, server-side application for playing music</kk>
@@ -31,8 +33,9 @@ MPD Music Player Daemon
    <pt_BR>a flexible, powerful, server-side application for playing music</pt_BR>
    <pt>Aplicação de servidor, flexível e poderosa, para reprodução de música</pt>
    <ro>a flexible, powerful, server-side application for playing music</ro>
-   <ru>a flexible, powerful, server-side application for playing music</ru>
+   <ru>Гибкое многофункциональное приложение для воспроизведения музыки</ru>
    <sk>a flexible, powerful, server-side application for playing music</sk>
+   <sq>a flexible, powerful, server-side application for playing music</sq>
    <sv>en flexibel, kraftfull server-applikation för att spela upp musik</sv>
    <tr>a flexible, powerful, server-side application for playing music</tr>
    <uk>a flexible, powerful, server-side application for playing music</uk>

@@ -13,15 +13,17 @@ SMplayer
    <am>themable gui frontend to MPlayer with other interesting features</am>
    <ca>themable gui frontend to MPlayer with other interesting features</ca>
    <cs>themable gui frontend to MPlayer with other interesting features</cs>
+   <da>themable gui frontend to MPlayer with other interesting features</da>
    <de>Themen-anpassbares GUI-Frontend zu MPlayer mit weiteren interessanten Funktionen</de>
-   <el>themable gui frontend to MPlayer with other interesting features</el>
+   <el>διασκεδαστικό gui frontend στο MPlayer με άλλα ενδιαφέροντα χαρακτηριστικά</el>
    <en>themable gui frontend to MPlayer with other interesting features</en>
    <es>themable gui frontend to MPlayer with other interesting features</es>
    <fi>themable gui frontend to MPlayer with other interesting features</fi>
-   <fr>Interface graphique/frontend personnalisable pour MPlayer themable avec fonctionnalités utiles</fr>
+   <fr>Interface graphique/frontend personnalisable pour MPlayer avec fonctionnalités utiles</fr>
    <hi>themable gui frontend to MPlayer with other interesting features</hi>
    <hr>themable gui frontend to MPlayer with other interesting features</hr>
    <hu>themable gui frontend to MPlayer with other interesting features</hu>
+   <is>themable gui frontend to MPlayer with other interesting features</is>
    <it>interfaccia grafica per MPlayer con ulteriori interessanti funzionalità</it>
    <ja>themable gui frontend to MPlayer with other interesting features</ja>
    <kk>themable gui frontend to MPlayer with other interesting features</kk>
@@ -31,8 +33,9 @@ SMplayer
    <pt_BR>themable gui frontend to MPlayer with other interesting features</pt_BR>
    <pt>Interface gráfica para o MPlayer com vários temas e com outras funcionalidades interessantes</pt>
    <ro>themable gui frontend to MPlayer with other interesting features</ro>
-   <ru>themable gui frontend to MPlayer with other interesting features</ru>
+   <ru>Графическая оболочка для MPlayer с множеством фишек</ru>
    <sk>themable gui frontend to MPlayer with other interesting features</sk>
+   <sq>themable gui frontend to MPlayer with other interesting features</sq>
    <sv>temabar grafisk front-end till MPlayer med andra intressanta möjligheter</sv>
    <tr>themable gui frontend to MPlayer with other interesting features</tr>
    <uk>themable gui frontend to MPlayer with other interesting features</uk>

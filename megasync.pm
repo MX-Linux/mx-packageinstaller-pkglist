@@ -13,15 +13,17 @@ Megasync
    <am>Client for MEGA file syncing service</am>
    <ca>Client per al servei de sincronització de MEGA</ca>
    <cs>Client for MEGA file syncing service</cs>
+   <da>Client for MEGA file syncing service</da>
    <de>Client für MEGA-Dateisynchronisationsdienst</de>
-   <el>Client for MEGA file syncing service</el>
+   <el>Πελάτης για υπηρεσία συγχρονισμού αρχείων MEGA</el>
    <en>Client for MEGA file syncing service</en>
-   <es>Client for MEGA file syncing service</es>
+   <es>Cliente para el servicio de sincronización de archivos de MEGA</es>
    <fi>Client for MEGA file syncing service</fi>
    <fr>Client pour le service de synchronisation de dossiers MEGA</fr>
    <hi>Client for MEGA file syncing service</hi>
    <hr>Client for MEGA file syncing service</hr>
    <hu>Client for MEGA file syncing service</hu>
+   <is>Client for MEGA file syncing service</is>
    <it>Client per il servizio di sincronizzazione file di MEGA</it>
    <ja>Client for MEGA file syncing service</ja>
    <kk>Client for MEGA file syncing service</kk>
@@ -31,8 +33,9 @@ Megasync
    <pt_BR>Client for MEGA file syncing service</pt_BR>
    <pt>Aplicação cliente para o serviço de sincronização de ficheiros da MEGA</pt>
    <ro>Client for MEGA file syncing service</ro>
-   <ru>Client for MEGA file syncing service</ru>
+   <ru>Клиент синхронизации файлов для MEGA</ru>
    <sk>Client for MEGA file syncing service</sk>
+   <sq>Client for MEGA file syncing service</sq>
    <sv>Klient för MEGA filsynkroniserings-service</sv>
    <tr>Client for MEGA file syncing service</tr>
    <uk>Client for MEGA file syncing service</uk>

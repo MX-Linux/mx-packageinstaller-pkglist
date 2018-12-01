@@ -13,8 +13,9 @@ Budgie Desktop
    <am>a lightweight desktop environment</am>
    <ca>Entorn d'escriptori lleuger</ca>
    <cs>a lightweight desktop environment</cs>
+   <da>a lightweight desktop environment</da>
    <de>Eine leichtgewichtige Desktop-Umgebung</de>
-   <el>a lightweight desktop environment</el>
+   <el>ένα ελαφρύ περιβάλλον επιφάνειας εργασίας</el>
    <en>a lightweight desktop environment</en>
    <es>ambiente de escritorio liviano</es>
    <fi>a lightweight desktop environment</fi>
@@ -22,6 +23,7 @@ Budgie Desktop
    <hi>a lightweight desktop environment</hi>
    <hr>lagano radno okruženje</hr>
    <hu>a lightweight desktop environment</hu>
+   <is>a lightweight desktop environment</is>
    <it>Un ambiente desktop leggero</it>
    <ja>a lightweight desktop environment</ja>
    <kk>a lightweight desktop environment</kk>
@@ -31,8 +33,9 @@ Budgie Desktop
    <pt_BR>Ambiente de Trabalho simples e ligeiro</pt_BR>
    <pt>Ambiente de Trabalho simples e ligeiro</pt>
    <ro>a lightweight desktop environment</ro>
-   <ru>a lightweight desktop environment</ru>
+   <ru>Легковесное окружение рабочего стола</ru>
    <sk>a lightweight desktop environment</sk>
+   <sq>a lightweight desktop environment</sq>
    <sv>en lättvikts skrivbordsmiljö</sv>
    <tr>a lightweight desktop environment</tr>
    <uk>a lightweight desktop environment</uk>

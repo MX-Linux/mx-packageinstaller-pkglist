@@ -13,6 +13,7 @@ Vivaldi
    <am>Vivaldi web browser</am>
    <ca>Navegador web Vivaldi</ca>
    <cs>Vivaldi web browser</cs>
+   <da>Vivaldi web browser</da>
    <de>Der Vivaldi Web-Browser</de>
    <el>Vivaldi web browser</el>
    <en>Vivaldi web browser</en>
@@ -22,6 +23,7 @@ Vivaldi
    <hi>Vivaldi web browser</hi>
    <hr>Vivaldi web browser</hr>
    <hu>Vivaldi web browser</hu>
+   <is>Vivaldi web browser</is>
    <it>Vivaldi web browser</it>
    <ja>Vivaldi web browser</ja>
    <kk>Vivaldi web browser</kk>
@@ -31,8 +33,9 @@ Vivaldi
    <pt_BR>Navegador web Vivaldi</pt_BR>
    <pt>Navegador web Vivaldi</pt>
    <ro>Vivaldi web browser</ro>
-   <ru>Vivaldi web browser</ru>
+   <ru>Браузер Vivaldi</ru>
    <sk>Vivaldi web browser</sk>
+   <sq>Vivaldi web browser</sq>
    <sv>Vivaldi webbläsare</sv>
    <tr>Vivaldi web browser</tr>
    <uk>Vivaldi web browser</uk>

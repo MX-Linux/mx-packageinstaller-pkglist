@@ -13,8 +13,9 @@ Newsbeuter
    <am>a text mode rss feed reader with podcast support</am>
    <ca>lector de rss en mode text amb suport de podcast</ca>
    <cs>a text mode rss feed reader with podcast support</cs>
+   <da>a text mode rss feed reader with podcast support</da>
    <de>Ein Textmodus-RSS-Feedreader mit Podcast-Unterstützung</de>
-   <el>a text mode rss feed reader with podcast support</el>
+   <el>μια λειτουργία ανάγνωσης ροής RSS με υποστήριξη podcast</el>
    <en>a text mode rss feed reader with podcast support</en>
    <es>a text mode rss feed reader with podcast support</es>
    <fi>a text mode rss feed reader with podcast support</fi>
@@ -22,6 +23,7 @@ Newsbeuter
    <hi>a text mode rss feed reader with podcast support</hi>
    <hr>a text mode rss feed reader with podcast support</hr>
    <hu>a text mode rss feed reader with podcast support</hu>
+   <is>a text mode rss feed reader with podcast support</is>
    <it>lettore di feed RSS testuale con supporto per podcast</it>
    <ja>a text mode rss feed reader with podcast support</ja>
    <kk>a text mode rss feed reader with podcast support</kk>
@@ -31,8 +33,9 @@ Newsbeuter
    <pt_BR>a text mode rss feed reader with podcast support</pt_BR>
    <pt>Agregador de notícias (rss feed reader) em modo de texto com capacidade de leitura de podcast</pt>
    <ro>a text mode rss feed reader with podcast support</ro>
-   <ru>a text mode rss feed reader with podcast support</ru>
+   <ru>Текстовый агрегатор новостей RSS с поддержкой подкастов</ru>
    <sk>a text mode rss feed reader with podcast support</sk>
+   <sq>a text mode rss feed reader with podcast support</sq>
    <sv>en textläges  rss feed läsare med podcast support</sv>
    <tr>a text mode rss feed reader with podcast support</tr>
    <uk>a text mode rss feed reader with podcast support</uk>

@@ -13,8 +13,9 @@ Japanese_Input_fcitx
    <am>Japanese fcitx</am>
    <ca>Fcitx en italià</ca>
    <cs>Japanese fcitx</cs>
+   <da>Japansk fcitx</da>
    <de>Japanisch Fcitx</de>
-   <el>Japanese fcitx</el>
+   <el>Ιαπωνικά fcitx</el>
    <en>Japanese fcitx</en>
    <es>Japanese fcitx</es>
    <fi>Japanese fcitx</fi>
@@ -22,6 +23,7 @@ Japanese_Input_fcitx
    <hi>Japanese fcitx</hi>
    <hr>Japanese fcitx</hr>
    <hu>Japanese fcitx</hu>
+   <is>Japanese fcitx</is>
    <it>Fcitx per la lingua giapponese</it>
    <ja>Japanese fcitx</ja>
    <kk>Japanese fcitx</kk>
@@ -33,6 +35,7 @@ Japanese_Input_fcitx
    <ro>Japanese fcitx</ro>
    <ru>Japanese fcitx</ru>
    <sk>Japanese fcitx</sk>
+   <sq>Japanese fcitx</sq>
    <sv>Japansk fcitx</sv>
    <tr>Japanese fcitx</tr>
    <uk>Japanese fcitx</uk>

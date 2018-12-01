@@ -13,8 +13,9 @@ Java
    <am>Java 8- installs openjdk-8 and icedtea</am>
    <ca>Instal·la Java 8- openjdk-8 i icedtea</ca>
    <cs>Java 8- installs openjdk-8 and icedtea</cs>
+   <da>Java 8- installs openjdk-8 and icedtea</da>
    <de>Java 8: Openjdk-8 und Icedtea wird installiert</de>
-   <el>Java 8- installs openjdk-8 and icedtea</el>
+   <el>Java 8- εγκατάσταση του openjdk-8 και icedtea</el>
    <en>Java 8- installs openjdk-8 and icedtea</en>
    <es>Java 8- installs openjdk-8 and icedtea</es>
    <fi>Java 8- installs openjdk-8 and icedtea</fi>
@@ -22,6 +23,7 @@ Java
    <hi>Java 8- installs openjdk-8 and icedtea</hi>
    <hr>Java 8- installs openjdk-8 and icedtea</hr>
    <hu>Java 8- installs openjdk-8 and icedtea</hu>
+   <is>Java 8- installs openjdk-8 and icedtea</is>
    <it>Installa java-8 openjdk-8 e icedtea</it>
    <ja>Java 8- installs openjdk-8 and icedtea</ja>
    <kk>Java 8- installs openjdk-8 and icedtea</kk>
@@ -31,8 +33,9 @@ Java
    <pt_BR>Java 8- installs openjdk-8 and icedtea</pt_BR>
    <pt>Java 8 - instala o openjdk-8 e o icedtea</pt>
    <ro>Java 8- installs openjdk-8 and icedtea</ro>
-   <ru>Java 8- installs openjdk-8 and icedtea</ru>
+   <ru>Java 8 - устанавливает OpenJDK-8 и IcedTea</ru>
    <sk>Java 8- installs openjdk-8 and icedtea</sk>
+   <sq>Java 8- installs openjdk-8 and icedtea</sq>
    <sv>Java 8- installerar openjdk-8 och icedtea</sv>
    <tr>Java 8- installs openjdk-8 and icedtea</tr>
    <uk>Java 8- installs openjdk-8 and icedtea</uk>

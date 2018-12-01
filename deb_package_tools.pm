@@ -13,15 +13,17 @@ deb packaging tools
    <am>tools for creation of deb packages</am>
    <ca>eines per a la creació de paquets deb</ca>
    <cs>tools for creation of deb packages</cs>
+   <da>tools for creation of deb packages</da>
    <de>Werkzeuge zur Erstellung von Deb-Paketen</de>
-   <el>tools for creation of deb packages</el>
+   <el>εργαλεία για τη δημιουργία πακέτων deb</el>
    <en>tools for creation of deb packages</en>
-   <es>tools for creation of deb packages</es>
+   <es>Herramientas para la creación de paquetes deb</es>
    <fi>tools for creation of deb packages</fi>
    <fr>Outils pour la création de paquets .deb</fr>
    <hi>tools for creation of deb packages</hi>
    <hr>tools for creation of deb packages</hr>
    <hu>tools for creation of deb packages</hu>
+   <is>tools for creation of deb packages</is>
    <it>Strumenti per la creazione di pacchetti deb</it>
    <ja>tools for creation of deb packages</ja>
    <kk>tools for creation of deb packages</kk>
@@ -31,8 +33,9 @@ deb packaging tools
    <pt_BR>Ferramentas para criação de Pacotes deb</pt_BR>
    <pt>Ferramentas para criar pacotes deb</pt>
    <ro>tools for creation of deb packages</ro>
-   <ru>tools for creation of deb packages</ru>
+   <ru>Инструменты для создания deb пакетов</ru>
    <sk>tools for creation of deb packages</sk>
+   <sq>tools for creation of deb packages</sq>
    <sv>verktyg för att skapa deb paket</sv>
    <tr>tools for creation of deb packages</tr>
    <uk>tools for creation of deb packages</uk>

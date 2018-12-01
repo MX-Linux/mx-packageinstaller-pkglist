@@ -13,15 +13,17 @@ Calibre
    <am>an e-book library management application</am>
    <ca>una aplicació de gestió de biblioteca de llibres electrònics</ca>
    <cs>an e-book library management application</cs>
+   <da>an e-book library management application</da>
    <de>Eine E-Book-Bibliotheksverwaltung</de>
-   <el>an e-book library management application</el>
+   <el>μια εφαρμογή διαχείρισης βιβλιοθήκης ηλεκτρονικών βιβλίων</el>
    <en>an e-book library management application</en>
-   <es>an e-book library management application</es>
+   <es>Organizador de biblioteca de e-book</es>
    <fi>an e-book library management application</fi>
    <fr>Une application pour organiser sa bibliothèque e-book</fr>
    <hi>an e-book library management application</hi>
    <hr>an e-book library management application</hr>
    <hu>an e-book library management application</hu>
+   <is>an e-book library management application</is>
    <it>Applicazione per la gestione di librerie e-book</it>
    <ja>an e-book library management application</ja>
    <kk>an e-book library management application</kk>
@@ -31,8 +33,9 @@ Calibre
    <pt_BR>an e-book library management application</pt_BR>
    <pt>Aplicação de gestão de bibliotecas para livros electrónicos e-book</pt>
    <ro>an e-book library management application</ro>
-   <ru>an e-book library management application</ru>
+   <ru>Менеджер библиотеки электронных книг</ru>
    <sk>an e-book library management application</sk>
+   <sq>an e-book library management application</sq>
    <sv>en hanteringsapp för e-boksbibliotek</sv>
    <tr>an e-book library management application</tr>
    <uk>an e-book library management application</uk>

@@ -13,8 +13,9 @@ Chinese_TW_Thunderbird
    <am>Chinese (Taiwan) localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Xinès de Taiwan</ca>
    <cs>Chinese (Taiwan) localisation of Thunderbird</cs>
+   <da>Kinesisk (taiwan) oversættelse af Thunderbird</da>
    <de>Chinesische (traditionell) Lokalisierung von Thunderbird</de>
-   <el>Chinese (Taiwan) localisation of Thunderbird</el>
+   <el>Κινεζικός(Ταϊβάν) εντοπισμός του Thunderbird</el>
    <en>Chinese (Taiwan) localisation of Thunderbird</en>
    <es>Chinese (Taiwan) localisation of Thunderbird</es>
    <fi>Chinese (Taiwan) localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Chinese_TW_Thunderbird
    <hi>Chinese (Taiwan) localisation of Thunderbird</hi>
    <hr>Chinese (Taiwan) localisation of Thunderbird</hr>
    <hu>Chinese (Taiwan) localisation of Thunderbird</hu>
+   <is>Chinese (Taiwan) localisation of Thunderbird</is>
    <it>Localizzazione cinese (Taiwan) di Thunderbird</it>
    <ja>Chinese (Taiwan) localisation of Thunderbird</ja>
    <kk>Chinese (Taiwan) localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Chinese_TW_Thunderbird
    <ro>Chinese (Taiwan) localisation of Thunderbird</ro>
    <ru>Chinese (Taiwan) localisation of Thunderbird</ru>
    <sk>Chinese (Taiwan) localisation of Thunderbird</sk>
+   <sq>Chinese (Taiwan) localisation of Thunderbird</sq>
    <sv>Kinesisk (Taiwan) lokalisering av Thunderbird</sv>
    <tr>Chinese (Taiwan) localisation of Thunderbird</tr>
    <uk>Chinese (Taiwan) localisation of Thunderbird</uk>

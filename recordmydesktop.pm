@@ -14,8 +14,9 @@ recordmydesktop
    <am>a desktop session recorder</am>
    <ca>a desktop session recorder</ca>
    <cs>a desktop session recorder</cs>
+   <da>a desktop session recorder</da>
    <de>Ein Desktop-Session-Rekorder</de>
-   <el>a desktop session recorder</el>
+   <el>έναν καταγραφέα περιόδων σύνδεσης στην επιφάνεια εργασίας</el>
    <en>a desktop session recorder</en>
    <es>a desktop session recorder</es>
    <fi>a desktop session recorder</fi>
@@ -23,6 +24,7 @@ recordmydesktop
    <hi>a desktop session recorder</hi>
    <hr>a desktop session recorder</hr>
    <hu>a desktop session recorder</hu>
+   <is>a desktop session recorder</is>
    <it>registra una sessione del desktop</it>
    <ja>a desktop session recorder</ja>
    <kk>a desktop session recorder</kk>
@@ -32,8 +34,9 @@ recordmydesktop
    <pt_BR>a desktop session recorder</pt_BR>
    <pt>Regista em vídeo a sessão de trabalho conforme evolui no ecrã</pt>
    <ro>a desktop session recorder</ro>
-   <ru>a desktop session recorder</ru>
+   <ru>Запись сеанса рабочего стола</ru>
    <sk>a desktop session recorder</sk>
+   <sq>a desktop session recorder</sq>
    <sv>en skrivbordssessions-inspelare</sv>
    <tr>a desktop session recorder</tr>
    <uk>a desktop session recorder</uk>

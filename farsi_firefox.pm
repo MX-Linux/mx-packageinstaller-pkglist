@@ -13,8 +13,9 @@ Farsi_Firefox
    <am>Farsi localisation of Firefox</am>
    <ca>Localització de Firefox en Farsi</ca>
    <cs>Farsi localisation of Firefox</cs>
+   <da>Farsi oversættelse af Firefox</da>
    <de>Farsi-Lokalisierung von Firefox</de>
-   <el>Farsi localisation of Firefox</el>
+   <el>Φαρσί εντοπισμού του Firefox</el>
    <en>Farsi localisation of Firefox</en>
    <es>Farsi localisation of Firefox</es>
    <fi>Farsi localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Farsi_Firefox
    <hi>Farsi localisation of Firefox</hi>
    <hr>Farsi localisation of Firefox</hr>
    <hu>Farsi localisation of Firefox</hu>
+   <is>Farsi localisation of Firefox</is>
    <it>Localizzazione persiana di Firefox</it>
    <ja>Farsi localisation of Firefox</ja>
    <kk>Farsi localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Farsi_Firefox
    <ro>Farsi localisation of Firefox</ro>
    <ru>Farsi localisation of Firefox</ru>
    <sk>Farsi localisation of Firefox</sk>
+   <sq>Farsi localisation of Firefox</sq>
    <sv>Farsi lokalisering av Firefox</sv>
    <tr>Farsi localisation of Firefox</tr>
    <uk>Farsi localisation of Firefox</uk>

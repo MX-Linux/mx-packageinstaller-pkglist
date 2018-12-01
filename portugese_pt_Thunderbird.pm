@@ -13,8 +13,9 @@ Portugese(PT) Thunderbird
    <am>Portugese(PT) localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Portuguès (PT)</ca>
    <cs>Portugese(PT) localisation of Thunderbird</cs>
+   <da>Portugisisk (portugal) oversættelse af Thunderbird</da>
    <de>Portugiesische (PT) Lokalisierung von Thunderbird</de>
-   <el>Portugese(PT) localisation of Thunderbird</el>
+   <el>Πορτογαλικός εντοπισμός του Thunderbird</el>
    <en>Portugese(PT) localisation of Thunderbird</en>
    <es>Portugese(PT) localisation of Thunderbird</es>
    <fi>Portugese(PT) localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Portugese(PT) Thunderbird
    <hi>Portugese(PT) localisation of Thunderbird</hi>
    <hr>Portugese(PT) localisation of Thunderbird</hr>
    <hu>Portugese(PT) localisation of Thunderbird</hu>
+   <is>Portugese(PT) localisation of Thunderbird</is>
    <it>Localizzazione portoghese(PT) di Thunderbird</it>
    <ja>Portugese(PT) localisation of Thunderbird</ja>
    <kk>Portugese(PT) localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Portugese(PT) Thunderbird
    <ro>Portugese(PT) localisation of Thunderbird</ro>
    <ru>Portugese(PT) localisation of Thunderbird</ru>
    <sk>Portugese(PT) localisation of Thunderbird</sk>
+   <sq>Portugese(PT) localisation of Thunderbird</sq>
    <sv>Portugisisk (PT) lokalisering för Thunderbird</sv>
    <tr>Portugese(PT) localisation of Thunderbird</tr>
    <uk>Portugese(PT) localisation of Thunderbird</uk>

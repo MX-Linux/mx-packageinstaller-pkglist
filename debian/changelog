@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.11.03) mx; urgency=medium
+
+  * updated translations
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 01 Dec 2018 14:33:07 -0500
+
 mx-packageinstaller-pkglist (18.11.02) mx; urgency=medium
 
   * updated spotify repo keys 

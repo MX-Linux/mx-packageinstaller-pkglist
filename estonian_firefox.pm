@@ -13,8 +13,9 @@ Estonian_Firefox
    <am>Estonian localisation of Firefox</am>
    <ca>Localització de Firefox en Estonià</ca>
    <cs>Estonian localisation of Firefox</cs>
+   <da>Estisk oversættelse af Firefox</da>
    <de>Estnische Lokalisierung von Firefox</de>
-   <el>Estonian localisation of Firefox</el>
+   <el>Εστονικός εντοπισμός του Firefox</el>
    <en>Estonian localisation of Firefox</en>
    <es>Estonian localisation of Firefox</es>
    <fi>Estonian localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Estonian_Firefox
    <hi>Estonian localisation of Firefox</hi>
    <hr>Estonian localisation of Firefox</hr>
    <hu>Estonian localisation of Firefox</hu>
+   <is>Estonian localisation of Firefox</is>
    <it>Localizzazione estone di Firefox</it>
    <ja>Estonian localisation of Firefox</ja>
    <kk>Estonian localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Estonian_Firefox
    <ro>Estonian localisation of Firefox</ro>
    <ru>Estonian localisation of Firefox</ru>
    <sk>Estonian localisation of Firefox</sk>
+   <sq>Estonian localisation of Firefox</sq>
    <sv>Estnisk lokalisering av Firefox</sv>
    <tr>Estonian localisation of Firefox</tr>
    <uk>Estonian localisation of Firefox</uk>

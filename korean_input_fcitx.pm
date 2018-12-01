@@ -13,8 +13,9 @@ Korean_Input_fcitx
    <am>Korean Fonts and fcitx</am>
    <ca>Tipus de lletra i fcitx per Coreà</ca>
    <cs>Korean Fonts and fcitx</cs>
+   <da>Koreansk skrifttyper og fcitx</da>
    <de>Koreanische Schriftzeichen und Fcitx</de>
-   <el>Korean Fonts and fcitx</el>
+   <el>Κορεατικές γραμματοσειρές και fcitx</el>
    <en>Korean Fonts and fcitx</en>
    <es>Korean Fonts and fcitx</es>
    <fi>Korean Fonts and fcitx</fi>
@@ -22,6 +23,7 @@ Korean_Input_fcitx
    <hi>Korean Fonts and fcitx</hi>
    <hr>Korean Fonts and fcitx</hr>
    <hu>Korean Fonts and fcitx</hu>
+   <is>Korean Fonts and fcitx</is>
    <it>Font coreani e fcitx</it>
    <ja>Korean Fonts and fcitx</ja>
    <kk>Korean Fonts and fcitx</kk>
@@ -33,6 +35,7 @@ Korean_Input_fcitx
    <ro>Korean Fonts and fcitx</ro>
    <ru>Korean Fonts and fcitx</ru>
    <sk>Korean Fonts and fcitx</sk>
+   <sq>Korean Fonts and fcitx</sq>
    <sv>Koreanska Typsnitt och fcitx</sv>
    <tr>Korean Fonts and fcitx</tr>
    <uk>Korean Fonts and fcitx</uk>

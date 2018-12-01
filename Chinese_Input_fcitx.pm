@@ -13,15 +13,17 @@ Chinese_Input_fcitx
    <am>Chinese fcitx</am>
    <ca>FCTIX en Xinès</ca>
    <cs>Chinese fcitx</cs>
+   <da>Kinesisk fcitx</da>
    <de>Chinesisch Fcitx</de>
-   <el>Chinese fcitx</el>
+   <el>Κινέζικα fcitx</el>
    <en>Chinese fcitx</en>
-   <es>Chinese fcitx</es>
+   <es>Cliente de correo liviano Claws Mail</es>
    <fi>Chinese fcitx</fi>
    <fr>Chinois fcitx</fr>
    <hi>Chinese fcitx</hi>
    <hr>Chinese fcitx</hr>
    <hu>Chinese fcitx</hu>
+   <is>Chinese fcitx</is>
    <it>Chinese fcitx</it>
    <ja>Chinese fcitx</ja>
    <kk>Chinese fcitx</kk>
@@ -33,6 +35,7 @@ Chinese_Input_fcitx
    <ro>Chinese fcitx</ro>
    <ru>Chinese fcitx</ru>
    <sk>Chinese fcitx</sk>
+   <sq>Chinese fcitx</sq>
    <sv>Kinesisk fcitx</sv>
    <tr>Chinese fcitx</tr>
    <uk>Chinese fcitx</uk>

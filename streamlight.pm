@@ -13,8 +13,9 @@ Streamlight
    <am>View Youtube Videos outside the browser by selecting links</am>
    <ca>View Youtube Videos outside the browser by selecting links</ca>
    <cs>View Youtube Videos outside the browser by selecting links</cs>
+   <da>View Youtube Videos outside the browser by selecting links</da>
    <de>Anzeigen von Videos von Youtube und andere Services außerhalb des Browsers durch Auswahl von Links</de>
-   <el>View Youtube Videos outside the browser by selecting links</el>
+   <el>Προβολή βίντεο Youtube εκτός του προγράμματος περιήγησης επιλέγοντας συνδέσμους</el>
    <en>View Youtube Videos outside the browser by selecting links</en>
    <es>View Youtube Videos outside the browser by selecting links</es>
    <fi>View Youtube Videos outside the browser by selecting links</fi>
@@ -22,6 +23,7 @@ Streamlight
    <hi>View Youtube Videos outside the browser by selecting links</hi>
    <hr>View Youtube Videos outside the browser by selecting links</hr>
    <hu>View Youtube Videos outside the browser by selecting links</hu>
+   <is>View Youtube Videos outside the browser by selecting links</is>
    <it>facile modo per vedere video di Youtube fuori dal browser selezionando i links</it>
    <ja>View Youtube Videos outside the browser by selecting links</ja>
    <kk>View Youtube Videos outside the browser by selecting links</kk>
@@ -31,8 +33,9 @@ Streamlight
    <pt_BR>View Youtube Videos outside the browser by selecting links</pt_BR>
    <pt>Visualizar vídeos do Youtube fora do navegador, seleccionando as ligações (links)</pt>
    <ro>View Youtube Videos outside the browser by selecting links</ro>
-   <ru>View Youtube Videos outside the browser by selecting links</ru>
+   <ru>Просмотр роликов Youtube вне браузера</ru>
    <sk>View Youtube Videos outside the browser by selecting links</sk>
+   <sq>View Youtube Videos outside the browser by selecting links</sq>
    <sv>Se Youtube Videos utanför webbläsaren genom att välja länkar</sv>
    <tr>View Youtube Videos outside the browser by selecting links</tr>
    <uk>View Youtube Videos outside the browser by selecting links</uk>

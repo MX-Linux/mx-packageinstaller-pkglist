@@ -13,8 +13,9 @@ Liquorix 64 bit
    <am>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</am>
    <ca>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</ca>
    <cs>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</cs>
+   <da>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</da>
    <de>Liquorix Kernel Meltdown gepatcht, 64 bit latest 4.x von MX TEST repo</de>
-   <el>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</el>
+   <el>Liquorix πυρήνα Meltdown patched, 64 bit πιο πρόσφατο 4.x από το MX TEST repo</el>
    <en>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</en>
    <es>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</es>
    <fi>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</fi>
@@ -22,6 +23,7 @@ Liquorix 64 bit
    <hi>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</hi>
    <hr>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</hr>
    <hu>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</hu>
+   <is>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</is>
    <it>Liquorix kernel con la patch per Meltdown, 64 bit ultimo 4.x dal repo di  MX TEST</it>
    <ja>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</ja>
    <kk>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</kk>
@@ -31,8 +33,9 @@ Liquorix 64 bit
    <pt_BR>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</pt_BR>
    <pt>Núcleo Liquorix com correcção para a falha Meltdown, 64 bit; versão 4.x mais recente no repositório TEST do MX</pt>
    <ro>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</ro>
-   <ru>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</ru>
+   <ru>Liquorix ядро с патчем от Meltdown, 64 bit последнее 4.x из репозитория MX TEST</ru>
    <sk>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</sk>
+   <sq>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</sq>
    <sv>Liquorix kärna Meltdown patched, 64 bit senaste4.x från MX TEST repo</sv>
    <tr>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</tr>
    <uk>Liquorix kernel Meltdown patched, 64 bit latest 4.x from MX TEST repo</uk>

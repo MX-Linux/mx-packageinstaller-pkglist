@@ -13,6 +13,7 @@ Play on Linux
    <am>Play on Linux</am>
    <ca>Play on Linux</ca>
    <cs>Play on Linux</cs>
+   <da>Play on Linux</da>
    <de>Ein grafisches Frontend für Wine</de>
    <el>Play on Linux</el>
    <en>Play on Linux</en>
@@ -22,6 +23,7 @@ Play on Linux
    <hi>Play on Linux</hi>
    <hr>Play on Linux</hr>
    <hu>Play on Linux</hu>
+   <is>Play on Linux</is>
    <it>Play on Linux</it>
    <ja>Play on Linux</ja>
    <kk>Play on Linux</kk>
@@ -31,8 +33,9 @@ Play on Linux
    <pt_BR>Play on Linux</pt_BR>
    <pt>Instalar programas do Windows</pt>
    <ro>Play on Linux</ro>
-   <ru>Play on Linux</ru>
+   <ru>Надстройка для запуска игр в окружении Wine</ru>
    <sk>Play on Linux</sk>
+   <sq>Play on Linux</sq>
    <sv>Play on Linux</sv>
    <tr>Play on Linux</tr>
    <uk>Play on Linux</uk>

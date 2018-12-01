@@ -13,8 +13,9 @@ Debian 32 bit w/pae
    <am>Default Debian 4.9 32bit linux kernel w/PAE</am>
    <ca>Nucli de Debian 4.9 32bit, amb PAE</ca>
    <cs>Default Debian 4.9 32bit linux kernel w/PAE</cs>
+   <da>Default Debian 4.9 32bit linux kernel w/PAE</da>
    <de>Standard Debian 4.9 32bit Linux Kernel mit PAE</de>
-   <el>Default Debian 4.9 32bit linux kernel w/PAE</el>
+   <el>Προεπιλεγμένο Debian 4.9 32bit linux kernel PAE</el>
    <en>Default Debian 4.9 32bit linux kernel w/PAE</en>
    <es>Default Debian 4.9 32bit linux kernel w/PAE</es>
    <fi>Default Debian 4.9 32bit linux kernel w/PAE</fi>
@@ -22,6 +23,7 @@ Debian 32 bit w/pae
    <hi>Default Debian 4.9 32bit linux kernel w/PAE</hi>
    <hr>Default Debian 4.9 32bit linux kernel w/PAE</hr>
    <hu>Default Debian 4.9 32bit linux kernel w/PAE</hu>
+   <is>Default Debian 4.9 32bit linux kernel w/PAE</is>
    <it>Default Debian 4.9 32bit linux kernel PAE</it>
    <ja>Default Debian 4.9 32bit linux kernel w/PAE</ja>
    <kk>Default Debian 4.9 32bit linux kernel w/PAE</kk>
@@ -31,8 +33,9 @@ Debian 32 bit w/pae
    <pt_BR>Default Debian 4.9 32bit linux kernel w/PAE</pt_BR>
    <pt>Núcleo linux padrão Debian 4.9 32bit c/PAE</pt>
    <ro>Default Debian 4.9 32bit linux kernel w/PAE</ro>
-   <ru>Default Debian 4.9 32bit linux kernel w/PAE</ru>
+   <ru>Debian ядро по умолчанию 4.9, 32bit PAE</ru>
    <sk>Default Debian 4.9 32bit linux kernel w/PAE</sk>
+   <sq>Default Debian 4.9 32bit linux kernel w/PAE</sq>
    <sv>Standard Debian 4.9 32bit linuxkärna med PAE</sv>
    <tr>Default Debian 4.9 32bit linux kernel w/PAE</tr>
    <uk>Default Debian 4.9 32bit linux kernel w/PAE</uk>

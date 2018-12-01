@@ -13,15 +13,17 @@ antiX 4.9 32 bit no-pae
    <am>antiX 4.9.126 kernel, 32 bit no-pae</am>
    <ca>antiX 4.9.126 kernel, 32 bit no-pae</ca>
    <cs>antiX 4.9.126 kernel, 32 bit no-pae</cs>
-   <de>antiX 4.9.126 kernel, 32 bit no-pae</de>
-   <el>antiX 4.9.126 kernel, 32 bit no-pae</el>
+   <da>antiX 4.9.126 kernel, 32 bit no-pae</da>
+   <de>antiX 4.9.126 Kernel, 32 bit no-pae</de>
+   <el>πυρήνα antiX 4.9.126, 32 bit no-pae</el>
    <en>antiX 4.9.126 kernel, 32 bit no-pae</en>
    <es>antiX 4.9.126 kernel, 32 bit no-pae</es>
    <fi>antiX 4.9.126 kernel, 32 bit no-pae</fi>
-   <fr>antiX 4.9.126 kernel, 32 bit no-pae</fr>
+   <fr>Noyau antiX 4.9.126 no-pae, 32 bit</fr>
    <hi>antiX 4.9.126 kernel, 32 bit no-pae</hi>
    <hr>antiX 4.9.126 kernel, 32 bit no-pae</hr>
    <hu>antiX 4.9.126 kernel, 32 bit no-pae</hu>
+   <is>antiX 4.9.126 kernel, 32 bit no-pae</is>
    <it>antiX 4.9.126 kernel, 32 bit no-pae</it>
    <ja>antiX 4.9.126 kernel, 32 bit no-pae</ja>
    <kk>antiX 4.9.126 kernel, 32 bit no-pae</kk>
@@ -29,11 +31,12 @@ antiX 4.9 32 bit no-pae
    <nl>antiX 4.9.126 kernel, 32 bit no-pae</nl>
    <pl>antiX 4.9.126 kernel, 32 bit no-pae</pl>
    <pt_BR>antiX 4.9.126 kernel, 32 bit no-pae</pt_BR>
-   <pt>antiX 4.9.126 kernel, 32 bit no-pae</pt>
+   <pt>Núcleo antiX 4.9.126, 32 bit no-pae</pt>
    <ro>antiX 4.9.126 kernel, 32 bit no-pae</ro>
-   <ru>antiX 4.9.126 kernel, 32 bit no-pae</ru>
+   <ru>antiX ядро 4.9.126, 32 bit no-PAE</ru>
    <sk>antiX 4.9.126 kernel, 32 bit no-pae</sk>
-   <sv>antiX 4.9.126 kernel, 32 bit no-pae</sv>
+   <sq>antiX 4.9.126 kernel, 32 bit no-pae</sq>
+   <sv>antiX 4.9.126 kärna, 32 bit no-pae</sv>
    <tr>antiX 4.9.126 kernel, 32 bit no-pae</tr>
    <uk>antiX 4.9.126 kernel, 32 bit no-pae</uk>
    <zh_TW>antiX 4.9.126 kernel, 32 bit no-pae</zh_TW>

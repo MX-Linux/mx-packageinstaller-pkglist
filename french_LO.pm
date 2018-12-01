@@ -13,8 +13,9 @@ French_Libreoffice
    <am>French Language Meta-Package for LibreOffice</am>
    <ca>Meta paquet per LibreOffice en llengua francesa</ca>
    <cs>French Language Meta-Package for LibreOffice</cs>
+   <da>Fransk sprog-metapakke til LibreOffice</da>
    <de>Französisches Meta-Paket für LibreOffice</de>
-   <el>French Language Meta-Package for LibreOffice</el>
+   <el>LibreOffice στη γαλλική γλώσσα</el>
    <en>French Language Meta-Package for LibreOffice</en>
    <es>French Language Meta-Package for LibreOffice</es>
    <fi>French Language Meta-Package for LibreOffice</fi>
@@ -22,6 +23,7 @@ French_Libreoffice
    <hi>French Language Meta-Package for LibreOffice</hi>
    <hr>French Language Meta-Package for LibreOffice</hr>
    <hu>French Language Meta-Package for LibreOffice</hu>
+   <is>French Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua francese per LibreOffice</it>
    <ja>French Language Meta-Package for LibreOffice</ja>
    <kk>French Language Meta-Package for LibreOffice</kk>
@@ -33,6 +35,7 @@ French_Libreoffice
    <ro>French Language Meta-Package for LibreOffice</ro>
    <ru>French Language Meta-Package for LibreOffice</ru>
    <sk>French Language Meta-Package for LibreOffice</sk>
+   <sq>French Language Meta-Package for LibreOffice</sq>
    <sv>Franskt Språk Meta-Paket för LibreOffice</sv>
    <tr>French Language Meta-Package for LibreOffice</tr>
    <uk>French Language Meta-Package for LibreOffice</uk>

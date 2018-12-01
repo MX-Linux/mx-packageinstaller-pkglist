@@ -13,8 +13,9 @@ Spanish_Thunderbird
    <am>Spanish localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Castellà</ca>
    <cs>Spanish localisation of Thunderbird</cs>
+   <da>Spansk oversættelse af Thunderbird</da>
    <de>Spanische Lokalisierung von Thunderbird</de>
-   <el>Spanish localisation of Thunderbird</el>
+   <el>Ισπανικός εντοπισμός του Thunderbird</el>
    <en>Spanish localisation of Thunderbird</en>
    <es>Spanish localisation of Thunderbird</es>
    <fi>Spanish localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Spanish_Thunderbird
    <hi>Spanish localisation of Thunderbird</hi>
    <hr>Spanish localisation of Thunderbird</hr>
    <hu>Spanish localisation of Thunderbird</hu>
+   <is>Spanish localisation of Thunderbird</is>
    <it>Localizzazione spagnola di Thunderbird</it>
    <ja>Spanish localisation of Thunderbird</ja>
    <kk>Spanish localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Spanish_Thunderbird
    <ro>Spanish localisation of Thunderbird</ro>
    <ru>Spanish localisation of Thunderbird</ru>
    <sk>Spanish localisation of Thunderbird</sk>
+   <sq>Spanish localisation of Thunderbird</sq>
    <sv>Spansk lokalisering av Thunderbird </sv>
    <tr>Spanish localisation of Thunderbird</tr>
    <uk>Spanish localisation of Thunderbird</uk>

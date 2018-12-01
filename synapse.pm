@@ -13,15 +13,17 @@ Synapse
    <am>alternate semantic file launcher</am>
    <ca>Llançadora de fitxers amb semàntica alternativa</ca>
    <cs>alternate semantic file launcher</cs>
+   <da>alternate semantic file launcher</da>
    <de>Alternativer semantischer Datei-Starter</de>
-   <el>alternate semantic file launcher</el>
+   <el>εναλλακτική σημασιολογική εκκίνηση αρχείων</el>
    <en>alternate semantic file launcher</en>
    <es>alternate semantic file launcher</es>
    <fi>alternate semantic file launcher</fi>
-   <fr>alternate semantic file launcher</fr>
+   <fr>Lanceur sémantique d'application</fr>
    <hi>alternate semantic file launcher</hi>
    <hr>alternate semantic file launcher</hr>
    <hu>alternate semantic file launcher</hu>
+   <is>alternate semantic file launcher</is>
    <it>avviatore semantico per avviare applicazioni e accedere a file rilevanti</it>
    <ja>alternate semantic file launcher</ja>
    <kk>alternate semantic file launcher</kk>
@@ -31,8 +33,9 @@ Synapse
    <pt_BR>alternate semantic file launcher</pt_BR>
    <pt>alternate semantic file launcher</pt>
    <ro>alternate semantic file launcher</ro>
-   <ru>alternate semantic file launcher</ru>
+   <ru>Приложение для продвинутого поиска и запуска файлов</ru>
    <sk>alternate semantic file launcher</sk>
+   <sq>alternate semantic file launcher</sq>
    <sv>alternativ semantisk filstartare</sv>
    <tr>alternate semantic file launcher</tr>
    <uk>alternate semantic file launcher</uk>

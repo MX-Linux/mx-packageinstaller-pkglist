@@ -13,15 +13,17 @@ Evince
    <am>a simple document (PostScript, PDF) viewer</am>
    <ca>senzill visor de documents (PDF, Postscript)</ca>
    <cs>a simple document (PostScript, PDF) viewer</cs>
+   <da>a simple document (PostScript, PDF) viewer</da>
    <de>Ein einfacher Dokumentenbetrachter (PostScript, PDF)</de>
-   <el>a simple document (PostScript, PDF) viewer</el>
+   <el>ένα απλό πρόγραμμα προβολής (PostScript, PDF)</el>
    <en>a simple document (PostScript, PDF) viewer</en>
-   <es>a simple document (PostScript, PDF) viewer</es>
+   <es>Visor de documentos (PostScript, PDF) sencillo</es>
    <fi>a simple document (PostScript, PDF) viewer</fi>
    <fr>Visionneuse simple de documents (PostScript, PDF)</fr>
    <hi>a simple document (PostScript, PDF) viewer</hi>
    <hr>a simple document (PostScript, PDF) viewer</hr>
    <hu>a simple document (PostScript, PDF) viewer</hu>
+   <is>a simple document (PostScript, PDF) viewer</is>
    <it>Un semplice visualizzatore di documenti (PostScript, PDF)</it>
    <ja>a simple document (PostScript, PDF) viewer</ja>
    <kk>a simple document (PostScript, PDF) viewer</kk>
@@ -31,8 +33,9 @@ Evince
    <pt_BR>a simple document (PostScript, PDF) viewer</pt_BR>
    <pt>Visualizador de documentos (PostScript, PDF) simples e de fácil utilização</pt>
    <ro>a simple document (PostScript, PDF) viewer</ro>
-   <ru>a simple document (PostScript, PDF) viewer</ru>
+   <ru>Просмотрщик документов PostScript, PDF</ru>
    <sk>a simple document (PostScript, PDF) viewer</sk>
+   <sq>a simple document (PostScript, PDF) viewer</sq>
    <sv>en enkel dokument (PostScript, PDF) läsare</sv>
    <tr>a simple document (PostScript, PDF) viewer</tr>
    <uk>a simple document (PostScript, PDF) viewer</uk>

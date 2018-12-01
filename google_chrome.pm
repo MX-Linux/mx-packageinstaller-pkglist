@@ -13,15 +13,17 @@ Google Chrome
    <am>Latest Google Chrome browser (stable)</am>
    <ca>Darrer navegador Chrome (estable)</ca>
    <cs>Latest Google Chrome browser (stable)</cs>
+   <da>Latest Google Chrome browser (stable)</da>
    <de>Aktueller Google Chrome-Browser (stabil)</de>
-   <el>Latest Google Chrome browser (stable)</el>
+   <el>Τελευταίο πρόγραμμα περιήγησης Google Chrome (σταθερό)</el>
    <en>Latest Google Chrome browser (stable)</en>
-   <es>Latest Google Chrome browser (stable)</es>
+   <es>El último Google Chrome (estable)</es>
    <fi>Latest Google Chrome browser (stable)</fi>
    <fr>La dernière version de Google Chrome (stable)</fr>
    <hi>Latest Google Chrome browser (stable)</hi>
    <hr>Latest Google Chrome browser (stable)</hr>
    <hu>Latest Google Chrome browser (stable)</hu>
+   <is>Latest Google Chrome browser (stable)</is>
    <it>Ultima versione (stabile) del browser Google Chrome</it>
    <ja>Latest Google Chrome browser (stable)</ja>
    <kk>Latest Google Chrome browser (stable)</kk>
@@ -31,8 +33,9 @@ Google Chrome
    <pt_BR>Latest Google Chrome browser (stable)</pt_BR>
    <pt>Versão mais recente (estável) do navegador web Google Chrome</pt>
    <ro>Latest Google Chrome browser (stable)</ro>
-   <ru>Latest Google Chrome browser (stable)</ru>
+   <ru>Браузер Google Chrome (последняя стабильная версия)</ru>
    <sk>Latest Google Chrome browser (stable)</sk>
+   <sq>Latest Google Chrome browser (stable)</sq>
    <sv>SenasteGoogle Chrome webbläsare (stable)</sv>
    <tr>Latest Google Chrome browser (stable)</tr>
    <uk>Latest Google Chrome browser (stable)</uk>

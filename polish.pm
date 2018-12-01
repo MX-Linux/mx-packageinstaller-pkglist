@@ -13,8 +13,9 @@ Polish
    <am>Polish Language Meta-Package</am>
    <ca>Polish Language Meta-Package</ca>
    <cs>Polish Language Meta-Package</cs>
+   <da>Polsk sprog-metapakke</da>
    <de>Polnisches Sprach-Meta-Paket</de>
-   <el>Polish Language Meta-Package</el>
+   <el>Πολωνική γλώσσα</el>
    <en>Polish Language Meta-Package</en>
    <es>Polish Language Meta-Package</es>
    <fi>Polish Language Meta-Package</fi>
@@ -22,6 +23,7 @@ Polish
    <hi>Polish Language Meta-Package</hi>
    <hr>Polish Language Meta-Package</hr>
    <hu>Polish Language Meta-Package</hu>
+   <is>Polish Language Meta-Package</is>
    <it>Meta-pacchetto della lingua polacca</it>
    <ja>Polish Language Meta-Package</ja>
    <kk>Polish Language Meta-Package</kk>
@@ -33,6 +35,7 @@ Polish
    <ro>Polish Language Meta-Package</ro>
    <ru>Polish Language Meta-Package</ru>
    <sk>Polish Language Meta-Package</sk>
+   <sq>Polish Language Meta-Package</sq>
    <sv>Polskt Språk-Meta-Paket</sv>
    <tr>Polish Language Meta-Package</tr>
    <uk>Polish Language Meta-Package</uk>

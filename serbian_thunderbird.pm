@@ -13,8 +13,9 @@ Serbian_Thunderbird
    <am>Serbian localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Serbi</ca>
    <cs>Serbian localisation of Thunderbird</cs>
+   <da>Serbisk oversættelse af Thunderbird</da>
    <de>Serbische Lokalisierung von Thunderbird</de>
-   <el>Serbian localisation of Thunderbird</el>
+   <el>Σερβικός εντοπισμός του Thunderbird</el>
    <en>Serbian localisation of Thunderbird</en>
    <es>Serbian localisation of Thunderbird</es>
    <fi>Serbian localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Serbian_Thunderbird
    <hi>Serbian localisation of Thunderbird</hi>
    <hr>Serbian localisation of Thunderbird</hr>
    <hu>Serbian localisation of Thunderbird</hu>
+   <is>Serbian localisation of Thunderbird</is>
    <it>Localizzazione serba di Thunderbird</it>
    <ja>Serbian localisation of Thunderbird</ja>
    <kk>Serbian localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Serbian_Thunderbird
    <ro>Serbian localisation of Thunderbird</ro>
    <ru>Serbian localisation of Thunderbird</ru>
    <sk>Serbian localisation of Thunderbird</sk>
+   <sq>Serbian localisation of Thunderbird</sq>
    <sv>Serbisk lokalisering av Thunderbird </sv>
    <tr>Serbian localisation of Thunderbird</tr>
    <uk>Serbian localisation of Thunderbird</uk>

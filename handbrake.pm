@@ -13,15 +13,17 @@ Handbrake
    <am>versatile DVD ripper and video transcoder (cli and GUI)</am>
    <ca>gravador de DVDs i transcodificador de vídeo versàtil (IGU i consola)</ca>
    <cs>versatile DVD ripper and video transcoder (cli and GUI)</cs>
+   <da>versatile DVD ripper and video transcoder (cli and GUI)</da>
    <de>Vielseitiger DVD-Ripper und Video-Transcoder (Cli und GUI)</de>
-   <el>versatile DVD ripper and video transcoder (cli and GUI)</el>
+   <el>ευέλικτο DVD ripper και video transcoder (cli και GUI)</el>
    <en>versatile DVD ripper and video transcoder (cli and GUI)</en>
-   <es>versatile DVD ripper and video transcoder (cli and GUI)</es>
+   <es>Versátil DVD ripper y transcodificador de vídeo</es>
    <fi>versatile DVD ripper and video transcoder (cli and GUI)</fi>
    <fr>Extracteur de DVD et transcodeur vidéo (cli and GUI)</fr>
    <hi>versatile DVD ripper and video transcoder (cli and GUI)</hi>
    <hr>versatile DVD ripper and video transcoder (cli and GUI)</hr>
    <hu>versatile DVD ripper and video transcoder (cli and GUI)</hu>
+   <is>versatile DVD ripper and video transcoder (cli and GUI)</is>
    <it>versatile etrattore audio da DVD e transcoder video (CLI e GUI)</it>
    <ja>versatile DVD ripper and video transcoder (cli and GUI)</ja>
    <kk>versatile DVD ripper and video transcoder (cli and GUI)</kk>
@@ -31,8 +33,9 @@ Handbrake
    <pt_BR>versatile DVD ripper and video transcoder (cli and GUI)</pt_BR>
    <pt>Versátil extractor de dados de DVDs (DVD ripper) e transcodificador de vídeo (por consola e interface gáfica)</pt>
    <ro>versatile DVD ripper and video transcoder (cli and GUI)</ro>
-   <ru>versatile DVD ripper and video transcoder (cli and GUI)</ru>
+   <ru>Многофункциональный DVD риппер и перекодировщик видео</ru>
    <sk>versatile DVD ripper and video transcoder (cli and GUI)</sk>
+   <sq>versatile DVD ripper and video transcoder (cli and GUI)</sq>
    <sv>mångsidig DVD ripper och video transcoder (cli och GUI)</sv>
    <tr>versatile DVD ripper and video transcoder (cli and GUI)</tr>
    <uk>versatile DVD ripper and video transcoder (cli and GUI)</uk>
