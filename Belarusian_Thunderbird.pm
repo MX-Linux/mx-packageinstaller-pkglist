@@ -13,8 +13,9 @@ Belarusian_Thunderbird
    <am>Belarusian localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Belarus</ca>
    <cs>Belarusian localisation of Thunderbird</cs>
+   <da>Hviderussisk oversættelse af Thunderbird</da>
    <de>Weißrussische Lokalisierung von Thunderbird</de>
-   <el>Belarusian localisation of Thunderbird</el>
+   <el>Λευκορωσικός εντοπισμός του Thunderbird</el>
    <en>Belarusian localisation of Thunderbird</en>
    <es>Localización Belorusso de Thunderbird</es>
    <fi>Belarusian localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Belarusian_Thunderbird
    <hi>Belarusian localisation of Thunderbird</hi>
    <hr>Bjeloruska lokalizacija Thunderbirda</hr>
    <hu>Belarusian localisation of Thunderbird</hu>
+   <is>Belarusian localisation of Thunderbird</is>
    <it>Localizzazione bielorussa di Thunderbird</it>
    <ja>Belarusian localisation of Thunderbird</ja>
    <kk>Belarusian localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Belarusian_Thunderbird
    <ro>Belarusian localisation of Thunderbird</ro>
    <ru>Belarusian localisation of Thunderbird</ru>
    <sk>Belarusian localisation of Thunderbird</sk>
+   <sq>Belarusian localisation of Thunderbird</sq>
    <sv>Belarus lokalisering av Thunderbird</sv>
    <tr>Belarusian localisation of Thunderbird</tr>
    <uk>Belarusian localisation of Thunderbird</uk>

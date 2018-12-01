@@ -13,8 +13,9 @@ Slovak_Firefox
    <am>Slovak localisation of Firefox</am>
    <ca>Localització de Firefox en Eslovac</ca>
    <cs>Slovak localisation of Firefox</cs>
+   <da>Slovakisk oversættelse af Firefox</da>
    <de>Slowakische Lokalisierung von Firefox</de>
-   <el>Slovak localisation of Firefox</el>
+   <el>Σλοβακικός εντοπισμός του Firefox</el>
    <en>Slovak localisation of Firefox</en>
    <es>Slovak localisation of Firefox</es>
    <fi>Slovak localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Slovak_Firefox
    <hi>Slovak localisation of Firefox</hi>
    <hr>Slovak localisation of Firefox</hr>
    <hu>Slovak localisation of Firefox</hu>
+   <is>Slovak localisation of Firefox</is>
    <it>Localizzazione slovacca di Firefox</it>
    <ja>Slovak localisation of Firefox</ja>
    <kk>Slovak localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Slovak_Firefox
    <ro>Slovak localisation of Firefox</ro>
    <ru>Slovak localisation of Firefox</ru>
    <sk>Slovak localisation of Firefox</sk>
+   <sq>Slovak localisation of Firefox</sq>
    <sv>Slovakisk lokalisering av Firefox</sv>
    <tr>Slovak localisation of Firefox</tr>
    <uk>Slovak localisation of Firefox</uk>

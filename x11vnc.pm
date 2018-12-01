@@ -13,8 +13,9 @@ x11vnc
    <am>VNC server for X window environments</am>
    <ca>Servidor VNC per entorns X-window</ca>
    <cs>VNC server for X window environments</cs>
+   <da>VNC server for X window environments</da>
    <de>VNC-Server für X Window-Umgebungen</de>
-   <el>VNC server for X window environments</el>
+   <el>VNC server για περιβάλλον παραθύρων X.</el>
    <en>VNC server for X window environments</en>
    <es>VNC server for X window environments</es>
    <fi>VNC server for X window environments</fi>
@@ -22,6 +23,7 @@ x11vnc
    <hi>VNC server for X window environments</hi>
    <hr>VNC server for X window environments</hr>
    <hu>VNC server for X window environments</hu>
+   <is>VNC server for X window environments</is>
    <it>Server VNC per ambienti X Window</it>
    <ja>VNC server for X window environments</ja>
    <kk>VNC server for X window environments</kk>
@@ -31,8 +33,9 @@ x11vnc
    <pt_BR>Servidor VNC para ambientes de janelas "X"</pt_BR>
    <pt>Servidor VNC para ambientes de janelas "X"</pt>
    <ro>VNC server for X window environments</ro>
-   <ru>VNC server for X window environments</ru>
+   <ru>VNC сервер для оконной среды X Window</ru>
    <sk>VNC server for X window environments</sk>
+   <sq>VNC server for X window environments</sq>
    <sv>VNC server för X window miljöer</sv>
    <tr>VNC server for X window environments</tr>
    <uk>VNC server for X window environments</uk>

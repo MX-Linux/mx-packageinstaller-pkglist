@@ -13,8 +13,9 @@ Dutch_Thunderbird
    <am>Dutch localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Holandès</ca>
    <cs>Dutch localisation of Thunderbird</cs>
+   <da>Hollandsk oversættelse af Thunderbird</da>
    <de>Niederländische Lokalisierung von Thunderbird</de>
-   <el>Dutch localisation of Thunderbird</el>
+   <el>Ολλανδικός εντοπισμός του Thunderbird</el>
    <en>Dutch localisation of Thunderbird</en>
    <es>Dutch localisation of Thunderbird</es>
    <fi>Dutch localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Dutch_Thunderbird
    <hi>Dutch localisation of Thunderbird</hi>
    <hr>Dutch localisation of Thunderbird</hr>
    <hu>Dutch localisation of Thunderbird</hu>
+   <is>Dutch localisation of Thunderbird</is>
    <it>Localizzazione olandese di Thunderbird</it>
    <ja>Dutch localisation of Thunderbird</ja>
    <kk>Dutch localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Dutch_Thunderbird
    <ro>Dutch localisation of Thunderbird</ro>
    <ru>Dutch localisation of Thunderbird</ru>
    <sk>Dutch localisation of Thunderbird</sk>
+   <sq>Dutch localisation of Thunderbird</sq>
    <sv>Holländsk lokalisering av Thunderbird</sv>
    <tr>Dutch localisation of Thunderbird</tr>
    <uk>Dutch localisation of Thunderbird</uk>

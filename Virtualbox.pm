@@ -14,6 +14,7 @@ VirtualBox
    <am>Virtualbox</am>
    <ca>Virtualbox</ca>
    <cs>Virtualbox</cs>
+   <da>Virtualbox</da>
    <de>Die Virtualisierungssoftware VirtualBox</de>
    <el>Virtualbox</el>
    <en>Virtualbox</en>
@@ -23,6 +24,7 @@ VirtualBox
    <hi>Virtualbox</hi>
    <hr>Virtualbox</hr>
    <hu>Virtualbox</hu>
+   <is>Virtualbox</is>
    <it>Virtualbox</it>
    <ja>Virtualbox</ja>
    <kk>Virtualbox</kk>
@@ -32,8 +34,9 @@ VirtualBox
    <pt_BR>Virtualbox</pt_BR>
    <pt>Virtualbox</pt>
    <ro>Virtualbox</ro>
-   <ru>Virtualbox</ru>
+   <ru>Приложение виртуализации VirtualBox</ru>
    <sk>Virtualbox</sk>
+   <sq>Virtualbox</sq>
    <sv>Virtualbox</sv>
    <tr>Virtualbox</tr>
    <uk>Virtualbox</uk>

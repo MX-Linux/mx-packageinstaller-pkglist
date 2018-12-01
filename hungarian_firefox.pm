@@ -13,8 +13,9 @@ Hungarian_Firefox
    <am>Hungarian localisation of Firefox</am>
    <ca>Localització de Firefox en Hongarès</ca>
    <cs>Hungarian localisation of Firefox</cs>
+   <da>Ungarsk oversættelse af Firefox</da>
    <de>Ungarische Lokalisierung von Firefox</de>
-   <el>Hungarian localisation of Firefox</el>
+   <el>Ουγγρικός εντοπισμός του Firefox</el>
    <en>Hungarian localisation of Firefox</en>
    <es>Hungarian localisation of Firefox</es>
    <fi>Hungarian localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Hungarian_Firefox
    <hi>Hungarian localisation of Firefox</hi>
    <hr>Hungarian localisation of Firefox</hr>
    <hu>Hungarian localisation of Firefox</hu>
+   <is>Hungarian localisation of Firefox</is>
    <it>Localizzazione ungherese di Firefox</it>
    <ja>Hungarian localisation of Firefox</ja>
    <kk>Hungarian localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Hungarian_Firefox
    <ro>Hungarian localisation of Firefox</ro>
    <ru>Hungarian localisation of Firefox</ru>
    <sk>Hungarian localisation of Firefox</sk>
+   <sq>Hungarian localisation of Firefox</sq>
    <sv>Ungersk lokalisering av Firefox</sv>
    <tr>Hungarian localisation of Firefox</tr>
    <uk>Hungarian localisation of Firefox</uk>

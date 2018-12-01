@@ -13,15 +13,17 @@ PCManFM
    <am>a fast and lightweight file manager</am>
    <ca>Un gestor de fitxers ràpid i lleuger</ca>
    <cs>a fast and lightweight file manager</cs>
+   <da>a fast and lightweight file manager</da>
    <de>Ein schneller und leichter Dateimanager</de>
-   <el>a fast and lightweight file manager</el>
+   <el>ένα γρήγορο και ελαφρύ διαχειριστή αρχείων</el>
    <en>a fast and lightweight file manager</en>
-   <es>a fast and lightweight file manager</es>
+   <es>gestor de archivos rápido y liviano</es>
    <fi>a fast and lightweight file manager</fi>
    <fr>Un gestionnaire de fichiers rapide et léger</fr>
    <hi>a fast and lightweight file manager</hi>
    <hr>a fast and lightweight file manager</hr>
    <hu>a fast and lightweight file manager</hu>
+   <is>a fast and lightweight file manager</is>
    <it>file manager veloce e leggero</it>
    <ja>a fast and lightweight file manager</ja>
    <kk>a fast and lightweight file manager</kk>
@@ -31,8 +33,9 @@ PCManFM
    <pt_BR>a fast and lightweight file manager</pt_BR>
    <pt>Gestor de ficheiros ligeiro e rápido</pt>
    <ro>a fast and lightweight file manager</ro>
-   <ru>a fast and lightweight file manager</ru>
+   <ru>Быстрый и легковесный файловый менеджер</ru>
    <sk>a fast and lightweight file manager</sk>
+   <sq>a fast and lightweight file manager</sq>
    <sv>en snabb lättvikts filhanterare</sv>
    <tr>a fast and lightweight file manager</tr>
    <uk>a fast and lightweight file manager</uk>

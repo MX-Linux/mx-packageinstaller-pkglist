@@ -13,8 +13,9 @@ US_English_Libreoffice
    <am>US English Help for LibreOffice</am>
    <ca>Ajuda en anglès (USA) per LibreOffice</ca>
    <cs>US English Help for LibreOffice</cs>
+   <da>Engelsk (USA) hjælp til LibreOffice</da>
    <de>Englische (US) Hilfe für LibreOffice</de>
-   <el>US English Help for LibreOffice</el>
+   <el>Βοήθεια για το LibreOffice στα Αγγλικά (ΗΠΑ)</el>
    <en>US English Help for LibreOffice</en>
    <es>US English Help for LibreOffice</es>
    <fi>US English Help for LibreOffice</fi>
@@ -22,6 +23,7 @@ US_English_Libreoffice
    <hi>US English Help for LibreOffice</hi>
    <hr>US English Help for LibreOffice</hr>
    <hu>US English Help for LibreOffice</hu>
+   <is>US English Help for LibreOffice</is>
    <it>Guida in Inglese US per LibreOffice</it>
    <ja>US English Help for LibreOffice</ja>
    <kk>US English Help for LibreOffice</kk>
@@ -33,6 +35,7 @@ US_English_Libreoffice
    <ro>US English Help for LibreOffice</ro>
    <ru>US English Help for LibreOffice</ru>
    <sk>US English Help for LibreOffice</sk>
+   <sq>US English Help for LibreOffice</sq>
    <sv>US Engelsk Hjälp för LibreOffice</sv>
    <tr>US English Help for LibreOffice</tr>
    <uk>US English Help for LibreOffice</uk>

@@ -13,15 +13,17 @@ MATE
    <am>basic install of MATE desktop</am>
    <ca>Instal·lació bàsica de l'escriptori MATE</ca>
    <cs>basic install of MATE desktop</cs>
+   <da>basic install of MATE desktop</da>
    <de>Basisinstallation von MATE Desktop</de>
-   <el>basic install of MATE desktop</el>
+   <el>βασική εγκατάσταση της επιφάνειας εργασίας MATE</el>
    <en>basic install of MATE desktop</en>
-   <es>basic install of MATE desktop</es>
+   <es>instalación mínima del escritorio MATE</es>
    <fi>basic install of MATE desktop</fi>
    <fr>Installation de base du bureau MATE</fr>
    <hi>basic install of MATE desktop</hi>
    <hr>basic install of MATE desktop</hr>
    <hu>basic install of MATE desktop</hu>
+   <is>basic install of MATE desktop</is>
    <it>installazione base del desktop MATE</it>
    <ja>basic install of MATE desktop</ja>
    <kk>basic install of MATE desktop</kk>
@@ -31,8 +33,9 @@ MATE
    <pt_BR>basic install of MATE desktop</pt_BR>
    <pt>Instalação básica do Ambiente de Trabalho MATE</pt>
    <ro>basic install of MATE desktop</ro>
-   <ru>basic install of MATE desktop</ru>
+   <ru>Базовая установка окружения MATE</ru>
    <sk>basic install of MATE desktop</sk>
+   <sq>basic install of MATE desktop</sq>
    <sv>enkel installation av MATE skrivbord</sv>
    <tr>basic install of MATE desktop</tr>
    <uk>basic install of MATE desktop</uk>

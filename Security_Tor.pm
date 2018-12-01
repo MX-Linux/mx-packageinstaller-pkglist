@@ -13,8 +13,9 @@ Tor and Privoxy
    <am>Tor and Privoxy</am>
    <ca>Tor i Privoxy</ca>
    <cs>Tor and Privoxy</cs>
+   <da>Tor and Privoxy</da>
    <de>Tor und Privoxy</de>
-   <el>Tor and Privoxy</el>
+   <el>Tor και Privoxy</el>
    <en>Tor and Privoxy</en>
    <es>Tor and Privoxy</es>
    <fi>Tor and Privoxy</fi>
@@ -22,6 +23,7 @@ Tor and Privoxy
    <hi>Tor and Privoxy</hi>
    <hr>Tor and Privoxy</hr>
    <hu>Tor and Privoxy</hu>
+   <is>Tor and Privoxy</is>
    <it>Tor e Privoxy</it>
    <ja>Tor and Privoxy</ja>
    <kk>Tor and Privoxy</kk>
@@ -31,8 +33,9 @@ Tor and Privoxy
    <pt_BR>Tor and Privoxy</pt_BR>
    <pt>Tor and Privoxy</pt>
    <ro>Tor and Privoxy</ro>
-   <ru>Tor and Privoxy</ru>
+   <ru>Tor и Privoxy - обеспечение анонимности и фильтрации веб</ru>
    <sk>Tor and Privoxy</sk>
+   <sq>Tor and Privoxy</sq>
    <sv>Tor och Privoxy</sv>
    <tr>Tor and Privoxy</tr>
    <uk>Tor and Privoxy</uk>

@@ -13,8 +13,9 @@ Qmmp
    <am>a winamp/xmms type feature-rich audio player written in Qt</am>
    <ca>a winamp/xmms type feature-rich audio player written in Qt</ca>
    <cs>a winamp/xmms type feature-rich audio player written in Qt</cs>
+   <da>a winamp/xmms type feature-rich audio player written in Qt</da>
    <de>Ein in Qt geschriebener, funktionsreicher Audio-Player vom Typ Winamp/xmms</de>
-   <el>a winamp/xmms type feature-rich audio player written in Qt</el>
+   <el>ένα πρόγραμμα αναπαραγωγής ήχου  σαν το winamp/xmms γραμμένο σε Qt</el>
    <en>a winamp/xmms type feature-rich audio player written in Qt</en>
    <es>a winamp/xmms type feature-rich audio player written in Qt</es>
    <fi>a winamp/xmms type feature-rich audio player written in Qt</fi>
@@ -22,6 +23,7 @@ Qmmp
    <hi>a winamp/xmms type feature-rich audio player written in Qt</hi>
    <hr>a winamp/xmms type feature-rich audio player written in Qt</hr>
    <hu>a winamp/xmms type feature-rich audio player written in Qt</hu>
+   <is>a winamp/xmms type feature-rich audio player written in Qt</is>
    <it>lettore audio, scritto in Qt, simile a winamp/xmms, ricco di funzionalità</it>
    <ja>a winamp/xmms type feature-rich audio player written in Qt</ja>
    <kk>a winamp/xmms type feature-rich audio player written in Qt</kk>
@@ -31,8 +33,9 @@ Qmmp
    <pt_BR>a winamp/xmms type feature-rich audio player written in Qt</pt_BR>
    <pt>Reprodutor de rádio pleno de funcionalidades, escrito em Qt e semelhante ao winamp e ao xmms</pt>
    <ro>a winamp/xmms type feature-rich audio player written in Qt</ro>
-   <ru>a winamp/xmms type feature-rich audio player written in Qt</ru>
+   <ru>Многофункциональный аудиоплеер наподобие winamp/xmms</ru>
    <sk>a winamp/xmms type feature-rich audio player written in Qt</sk>
+   <sq>a winamp/xmms type feature-rich audio player written in Qt</sq>
    <sv>en winamp/xmms typ ljudspelare rik på möjligheter skriven i Qt</sv>
    <tr>a winamp/xmms type feature-rich audio player written in Qt</tr>
    <uk>a winamp/xmms type feature-rich audio player written in Qt</uk>

@@ -13,8 +13,9 @@ Abiword
    <am>lightweight word processor</am>
    <ca>Processador de text lleuger</ca>
    <cs>lightweight word processor</cs>
+   <da>lightweight word processor</da>
    <de>Eine voll funktionsfähige und effiziente Textverarbeitung</de>
-   <el>lightweight word processor</el>
+   <el>ελαφρύ επεξεργαστή κειμένου</el>
    <en>lightweight word processor</en>
    <es>Procesador de palabras liviano</es>
    <fi>lightweight word processor</fi>
@@ -22,6 +23,7 @@ Abiword
    <hi>lightweight word processor</hi>
    <hr>lightweight word processor</hr>
    <hu>lightweight word processor</hu>
+   <is>lightweight word processor</is>
    <it>Editor di testo leggero</it>
    <ja>lightweight word processor</ja>
    <kk>lightweight word processor</kk>
@@ -31,8 +33,9 @@ Abiword
    <pt_BR>Processador de texto simples e ligeiro</pt_BR>
    <pt>Processador de texto simples e ligeiro</pt>
    <ro>lightweight word processor</ro>
-   <ru>lightweight word processor</ru>
+   <ru>Легковесный текстовый редактор</ru>
    <sk>lightweight word processor</sk>
+   <sq>lightweight word processor</sq>
    <sv>lättvikts ordbehandlare</sv>
    <tr>lightweight word processor</tr>
    <uk>lightweight word processor</uk>

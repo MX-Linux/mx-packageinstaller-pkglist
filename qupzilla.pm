@@ -13,8 +13,9 @@ Qupzilla
    <am>Latest Qupzilla lightweight browser</am>
    <ca>Darrera versió del navegador lleuger Qupzilla</ca>
    <cs>Latest Qupzilla lightweight browser</cs>
+   <da>Latest Qupzilla lightweight browser</da>
    <de>Neuester Qupzilla leichtgewichtiger Browser</de>
-   <el>Latest Qupzilla lightweight browser</el>
+   <el>Τελευταίο ελαφρύ πρόγραμμα περιήγησης Qupzilla</el>
    <en>Latest Qupzilla lightweight browser</en>
    <es>Latest Qupzilla lightweight browser</es>
    <fi>Latest Qupzilla lightweight browser</fi>
@@ -22,6 +23,7 @@ Qupzilla
    <hi>Latest Qupzilla lightweight browser</hi>
    <hr>Latest Qupzilla lightweight browser</hr>
    <hu>Latest Qupzilla lightweight browser</hu>
+   <is>Latest Qupzilla lightweight browser</is>
    <it>L'ultima versione del browser leggero Qupzilla</it>
    <ja>Latest Qupzilla lightweight browser</ja>
    <kk>Latest Qupzilla lightweight browser</kk>
@@ -31,8 +33,9 @@ Qupzilla
    <pt_BR>Latest Qupzilla lightweight browser</pt_BR>
    <pt>Navegador web ligeiro Qupzilla, versão mais recente</pt>
    <ro>Latest Qupzilla lightweight browser</ro>
-   <ru>Latest Qupzilla lightweight browser</ru>
+   <ru>Легковесный браузер Qupzilla последней версии</ru>
    <sk>Latest Qupzilla lightweight browser</sk>
+   <sq>Latest Qupzilla lightweight browser</sq>
    <sv>Senaste Qupzilla lättviktswebbläsare</sv>
    <tr>Latest Qupzilla lightweight browser</tr>
    <uk>Latest Qupzilla lightweight browser</uk>

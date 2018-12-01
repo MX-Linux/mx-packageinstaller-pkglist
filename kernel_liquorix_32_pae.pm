@@ -13,8 +13,9 @@ Liquorix 32 bit pae
    <am>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</am>
    <ca>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</ca>
    <cs>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</cs>
+   <da>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</da>
    <de>Liquorix Kernel (PAE, neueste Version 4.x von MX TEST repo)</de>
-   <el>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</el>
+   <el>Liquorix Kernel (PAE, τελευταία 4.x από το MX TEST repo)</el>
    <en>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</en>
    <es>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</es>
    <fi>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</fi>
@@ -22,6 +23,7 @@ Liquorix 32 bit pae
    <hi>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</hi>
    <hr>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</hr>
    <hu>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</hu>
+   <is>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</is>
    <it>Liquorix Kernel (PAE, ultimo 4.x da MX TEST repo)</it>
    <ja>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</ja>
    <kk>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</kk>
@@ -31,8 +33,9 @@ Liquorix 32 bit pae
    <pt_BR>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</pt_BR>
    <pt>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</pt>
    <ro>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</ro>
-   <ru>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</ru>
+   <ru>Liquorix ядро (PAE, последнее 4.x из репозитория MX TEST)</ru>
    <sk>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</sk>
+   <sq>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</sq>
    <sv>Liquorix Kärna (PAE, senaste 4.x från MX TEST repo)</sv>
    <tr>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</tr>
    <uk>Liquorix Kernel (PAE, latest 4.x from MX TEST repo)</uk>

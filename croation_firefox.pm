@@ -13,8 +13,9 @@ Croatian_Firefox
    <am>Croatian localisation of Firefox</am>
    <ca>Localització de Firefox en Croata</ca>
    <cs>Croatian localisation of Firefox</cs>
+   <da>Kroatisk oversættelse af Firefox</da>
    <de>Kroatische Lokalisierung von Firefox</de>
-   <el>Croatian localisation of Firefox</el>
+   <el>Κροατικός εντοπισμός του Firefox</el>
    <en>Croatian localisation of Firefox</en>
    <es>Croatian localisation of Firefox</es>
    <fi>Croatian localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Croatian_Firefox
    <hi>Croatian localisation of Firefox</hi>
    <hr>Croatian localisation of Firefox</hr>
    <hu>Croatian localisation of Firefox</hu>
+   <is>Croatian localisation of Firefox</is>
    <it>Localizzazione croata di Firefox</it>
    <ja>Croatian localisation of Firefox</ja>
    <kk>Croatian localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Croatian_Firefox
    <ro>Croatian localisation of Firefox</ro>
    <ru>Croatian localisation of Firefox</ru>
    <sk>Croatian localisation of Firefox</sk>
+   <sq>Croatian localisation of Firefox</sq>
    <sv>Kroatisk lokalisering av Firefox</sv>
    <tr>Croatian localisation of Firefox</tr>
    <uk>Croatian localisation of Firefox</uk>

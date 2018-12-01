@@ -13,8 +13,9 @@ Chromium
    <am>Latest Chromium browser and language pack</am>
    <ca>Darrer navegador Chromium i paquets de llengua</ca>
    <cs>Latest Chromium browser and language pack</cs>
+   <da>Latest Chromium browser and language pack</da>
    <de>Aktueller Chrombrowser und Sprachpaket</de>
-   <el>Latest Chromium browser and language pack</el>
+   <el>Τελευταίο πρόγραμμα περιήγησης Chromium και το πακέτο γλωσσών</el>
    <en>Latest Chromium browser and language pack</en>
    <es>Latest Chromium browser and language pack</es>
    <fi>Latest Chromium browser and language pack</fi>
@@ -22,6 +23,7 @@ Chromium
    <hi>Latest Chromium browser and language pack</hi>
    <hr>Latest Chromium browser and language pack</hr>
    <hu>Latest Chromium browser and language pack</hu>
+   <is>Latest Chromium browser and language pack</is>
    <it>Ultimo browser Chromium con pacchetto della lingua</it>
    <ja>Latest Chromium browser and language pack</ja>
    <kk>Latest Chromium browser and language pack</kk>
@@ -31,8 +33,9 @@ Chromium
    <pt_BR>Navegador Chromium mais recente e respectivo pacote de idiomas</pt_BR>
    <pt>Navegador Chromium mais recente e respectivo pacote de idiomas</pt>
    <ro>Latest Chromium browser and language pack</ro>
-   <ru>Latest Chromium browser and language pack</ru>
+   <ru>Браузер Chromium последней версии и языковые пакеты</ru>
    <sk>Latest Chromium browser and language pack</sk>
+   <sq>Latest Chromium browser and language pack</sq>
    <sv>Senaste Chromium webbläsare med språkpaket</sv>
    <tr>Latest Chromium browser and language pack</tr>
    <uk>Latest Chromium browser and language pack</uk>

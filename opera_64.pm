@@ -13,8 +13,9 @@ Opera
    <am>Opera browser</am>
    <ca>Navegador Opera</ca>
    <cs>Opera browser</cs>
+   <da>Opera browser</da>
    <de>Opera-Browser</de>
-   <el>Opera browser</el>
+   <el>Πρόγραμμα περιήγησης Opera</el>
    <en>Opera browser</en>
    <es>Opera browser</es>
    <fi>Opera browser</fi>
@@ -22,6 +23,7 @@ Opera
    <hi>Opera browser</hi>
    <hr>Opera browser</hr>
    <hu>Opera browser</hu>
+   <is>Opera browser</is>
    <it>Opera browser</it>
    <ja>Opera browser</ja>
    <kk>Opera browser</kk>
@@ -31,8 +33,9 @@ Opera
    <pt_BR>Opera browser</pt_BR>
    <pt>Navegador web Opera</pt>
    <ro>Opera browser</ro>
-   <ru>Opera browser</ru>
+   <ru>Браузер Opera</ru>
    <sk>Opera browser</sk>
+   <sq>Opera browser</sq>
    <sv>Opera webbläsare</sv>
    <tr>Opera browser</tr>
    <uk>Opera browser</uk>

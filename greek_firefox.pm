@@ -13,8 +13,9 @@ Greek_Firefox
    <am>Greek localisation of Firefox</am>
    <ca>Localització de Firefox en Grec</ca>
    <cs>Greek localisation of Firefox</cs>
+   <da>Græsk oversættelse af Firefox</da>
    <de>Griechische Lokalisierung von Firefox</de>
-   <el>Greek localisation of Firefox</el>
+   <el>Ελληνικός εντοπισμός του Firefox</el>
    <en>Greek localisation of Firefox</en>
    <es>Greek localisation of Firefox</es>
    <fi>Greek localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Greek_Firefox
    <hi>Greek localisation of Firefox</hi>
    <hr>Greek localisation of Firefox</hr>
    <hu>Greek localisation of Firefox</hu>
+   <is>Greek localisation of Firefox</is>
    <it>Localizzazione greca di Firefox</it>
    <ja>Greek localisation of Firefox</ja>
    <kk>Greek localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Greek_Firefox
    <ro>Greek localisation of Firefox</ro>
    <ru>Greek localisation of Firefox</ru>
    <sk>Greek localisation of Firefox</sk>
+   <sq>Greek localisation of Firefox</sq>
    <sv>Grekisk lokalisering för Firefox</sv>
    <tr>Greek localisation of Firefox</tr>
    <uk>Greek localisation of Firefox</uk>

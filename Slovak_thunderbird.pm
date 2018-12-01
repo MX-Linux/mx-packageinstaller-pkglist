@@ -13,8 +13,9 @@ Slovak_Thunderbird
    <am>Slovak localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Eslovac</ca>
    <cs>Slovak localisation of Thunderbird</cs>
+   <da>Slovakisk oversættelse af Thunderbird</da>
    <de>Slowakische Lokalisierung von Thunderbird</de>
-   <el>Slovak localisation of Thunderbird</el>
+   <el>Σλοβακική εντοπισμός του Thunderbird</el>
    <en>Slovak localisation of Thunderbird</en>
    <es>Slovak localisation of Thunderbird</es>
    <fi>Slovak localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Slovak_Thunderbird
    <hi>Slovak localisation of Thunderbird</hi>
    <hr>Slovak localisation of Thunderbird</hr>
    <hu>Slovak localisation of Thunderbird</hu>
+   <is>Slovak localisation of Thunderbird</is>
    <it>Localizzazione slovacca di Thunderbird</it>
    <ja>Slovak localisation of Thunderbird</ja>
    <kk>Slovak localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Slovak_Thunderbird
    <ro>Slovak localisation of Thunderbird</ro>
    <ru>Slovak localisation of Thunderbird</ru>
    <sk>Slovak localisation of Thunderbird</sk>
+   <sq>Slovak localisation of Thunderbird</sq>
    <sv>Slovakisk lokalisering av Thunderbird</sv>
    <tr>Slovak localisation of Thunderbird</tr>
    <uk>Slovak localisation of Thunderbird</uk>

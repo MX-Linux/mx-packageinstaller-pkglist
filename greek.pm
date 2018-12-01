@@ -13,8 +13,9 @@ Greek
    <am>Greek Language Meta-Package</am>
    <ca>Metapaquet per la llengua grega</ca>
    <cs>Greek Language Meta-Package</cs>
+   <da>Græsk sprog-metapakke</da>
    <de>Griechisches Sprach-Meta-Paket</de>
-   <el>Greek Language Meta-Package</el>
+   <el>Ελληνική γλώσσα</el>
    <en>Greek Language Meta-Package</en>
    <es>Greek Language Meta-Package</es>
    <fi>Greek Language Meta-Package</fi>
@@ -22,6 +23,7 @@ Greek
    <hi>Greek Language Meta-Package</hi>
    <hr>Greek Language Meta-Package</hr>
    <hu>Greek Language Meta-Package</hu>
+   <is>Greek Language Meta-Package</is>
    <it>Meta-pacchetto della lingua greca</it>
    <ja>Greek Language Meta-Package</ja>
    <kk>Greek Language Meta-Package</kk>
@@ -33,6 +35,7 @@ Greek
    <ro>Greek Language Meta-Package</ro>
    <ru>Greek Language Meta-Package</ru>
    <sk>Greek Language Meta-Package</sk>
+   <sq>Greek Language Meta-Package</sq>
    <sv>Grekiskt Språk Meta-Paket</sv>
    <tr>Greek Language Meta-Package</tr>
    <uk>Greek Language Meta-Package</uk>

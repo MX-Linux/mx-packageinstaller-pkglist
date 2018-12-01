@@ -13,15 +13,17 @@ antiX 4.18 32 bit pae
    <am>antiX 4.18.7 kernel pae 32 bit</am>
    <ca>antiX 4.18.7 kernel pae 32 bit</ca>
    <cs>antiX 4.18.7 kernel pae 32 bit</cs>
-   <de>antiX 4.18.7 kernel pae 32 bit</de>
-   <el>antiX 4.18.7 kernel pae 32 bit</el>
+   <da>antiX 4.18.7 kernel pae 32 bit</da>
+   <de>antiX 4.18.7 Kernel pae 32 bit</de>
+   <el>antiX 4.18.7 πυρήνα pae 32 bit</el>
    <en>antiX 4.18.7 kernel pae 32 bit</en>
    <es>antiX 4.18.7 kernel pae 32 bit</es>
    <fi>antiX 4.18.7 kernel pae 32 bit</fi>
-   <fr>antiX 4.18.7 kernel pae 32 bit</fr>
+   <fr>Noyau antiX 4.18.7 pae, 32 bit</fr>
    <hi>antiX 4.18.7 kernel pae 32 bit</hi>
    <hr>antiX 4.18.7 kernel pae 32 bit</hr>
    <hu>antiX 4.18.7 kernel pae 32 bit</hu>
+   <is>antiX 4.18.7 kernel pae 32 bit</is>
    <it>antiX 4.18.7 kernel pae 32 bit</it>
    <ja>antiX 4.18.7 kernel pae 32 bit</ja>
    <kk>antiX 4.18.7 kernel pae 32 bit</kk>
@@ -29,11 +31,12 @@ antiX 4.18 32 bit pae
    <nl>antiX 4.18.7 kernel pae 32 bit</nl>
    <pl>antiX 4.18.7 kernel pae 32 bit</pl>
    <pt_BR>antiX 4.18.7 kernel pae 32 bit</pt_BR>
-   <pt>antiX 4.18.7 kernel pae 32 bit</pt>
+   <pt>Núcleo antiX 4.18.7 32 bit pae</pt>
    <ro>antiX 4.18.7 kernel pae 32 bit</ro>
-   <ru>antiX 4.18.7 kernel pae 32 bit</ru>
+   <ru>antiX ядро 4.18.7, 32 bit PAE</ru>
    <sk>antiX 4.18.7 kernel pae 32 bit</sk>
-   <sv>antiX 4.18.7 kernel pae 32 bit</sv>
+   <sq>antiX 4.18.7 kernel pae 32 bit</sq>
+   <sv>antiX 4.18.7 kärna pae 32 bit</sv>
    <tr>antiX 4.18.7 kernel pae 32 bit</tr>
    <uk>antiX 4.18.7 kernel pae 32 bit</uk>
    <zh_TW>antiX 4.18.7 kernel pae 32 bit</zh_TW>

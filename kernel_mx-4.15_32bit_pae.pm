@@ -13,8 +13,9 @@ MX 4.15 PAE
    <am>MX 4.15 kernel, 32 bit PAE</am>
    <ca>Nucli de MX 4.15 32 bit, amb PAE</ca>
    <cs>MX 4.15 kernel, 32 bit PAE</cs>
+   <da>MX 4.15 kernel, 32 bit PAE</da>
    <de>MX 4.15 Kernel, 32 Bit PAE</de>
-   <el>MX 4.15 kernel, 32 bit PAE</el>
+   <el>Πυρήνα MX 4.15, 32 bit PAE</el>
    <en>MX 4.15 kernel, 32 bit PAE</en>
    <es>MX 4.15 kernel, 32 bit PAE</es>
    <fi>MX 4.15 kernel, 32 bit PAE</fi>
@@ -22,6 +23,7 @@ MX 4.15 PAE
    <hi>MX 4.15 kernel, 32 bit PAE</hi>
    <hr>MX 4.15 kernel, 32 bit PAE</hr>
    <hu>MX 4.15 kernel, 32 bit PAE</hu>
+   <is>MX 4.15 kernel, 32 bit PAE</is>
    <it>MX 4.15 kernel, 32 bit PAE</it>
    <ja>MX 4.15 kernel, 32 bit PAE</ja>
    <kk>MX 4.15 kernel, 32 bit PAE</kk>
@@ -31,8 +33,9 @@ MX 4.15 PAE
    <pt_BR>MX 4.15 kernel, 32 bit PAE</pt_BR>
    <pt>MX 4.15 kernel, 32 bit PAE</pt>
    <ro>MX 4.15 kernel, 32 bit PAE</ro>
-   <ru>MX 4.15 kernel, 32 bit PAE</ru>
+   <ru>MX ядро 4.15, 32 bit PAE</ru>
    <sk>MX 4.15 kernel, 32 bit PAE</sk>
+   <sq>MX 4.15 kernel, 32 bit PAE</sq>
    <sv>MX 4.15 kärna, 32 bit PAE</sv>
    <tr>MX 4.15 kernel, 32 bit PAE</tr>
    <uk>MX 4.15 kernel, 32 bit PAE</uk>

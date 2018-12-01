@@ -13,8 +13,9 @@ Korean_Firefox
    <am>Korean localisation of Firefox</am>
    <ca>Localització de Firefox en Coreà</ca>
    <cs>Korean localisation of Firefox</cs>
+   <da>Koreansk oversættelse af Firefox</da>
    <de>Koreanische Lokalisierung von Firefox</de>
-   <el>Korean localisation of Firefox</el>
+   <el>Κορεατικός εντοπισμός του Firefox</el>
    <en>Korean localisation of Firefox</en>
    <es>Korean localisation of Firefox</es>
    <fi>Korean localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Korean_Firefox
    <hi>Korean localisation of Firefox</hi>
    <hr>Korean localisation of Firefox</hr>
    <hu>Korean localisation of Firefox</hu>
+   <is>Korean localisation of Firefox</is>
    <it>Localizzazione coreana di Firefox</it>
    <ja>Korean localisation of Firefox</ja>
    <kk>Korean localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Korean_Firefox
    <ro>Korean localisation of Firefox</ro>
    <ru>Korean localisation of Firefox</ru>
    <sk>Korean localisation of Firefox</sk>
+   <sq>Korean localisation of Firefox</sq>
    <sv>Koreansk lokalisering av Firefox</sv>
    <tr>Korean localisation of Firefox</tr>
    <uk>Korean localisation of Firefox</uk>

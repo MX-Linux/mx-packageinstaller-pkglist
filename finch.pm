@@ -13,15 +13,17 @@ Finch
    <am>a text-console-based, modular instant messaging client</am>
    <ca>un client de missatgeria instantània basat en terminal</ca>
    <cs>a text-console-based, modular instant messaging client</cs>
+   <da>a text-console-based, modular instant messaging client</da>
    <de>Ein modularer Instant Messaging-Client in der Textconsole</de>
-   <el>a text-console-based, modular instant messaging client</el>
+   <el>πελάτη άμεσων μηνυμάτων σε κονσόλα κειμένου</el>
    <en>a text-console-based, modular instant messaging client</en>
-   <es>a text-console-based, modular instant messaging client</es>
+   <es>cliente de mensajería instantánea modular para línea de comandos</es>
    <fi>a text-console-based, modular instant messaging client</fi>
    <fr>Un client console-texte modulaire de messagerie instantanée</fr>
    <hi>a text-console-based, modular instant messaging client</hi>
    <hr>a text-console-based, modular instant messaging client</hr>
    <hu>a text-console-based, modular instant messaging client</hu>
+   <is>a text-console-based, modular instant messaging client</is>
    <it>Client di messaggistica istantanea modulare con interfaccia basata sul terminale</it>
    <ja>a text-console-based, modular instant messaging client</ja>
    <kk>a text-console-based, modular instant messaging client</kk>
@@ -31,8 +33,9 @@ Finch
    <pt_BR>a text-console-based, modular instant messaging client</pt_BR>
    <pt>Cliente de mensagens instantâneas modular e baseado em consola</pt>
    <ro>a text-console-based, modular instant messaging client</ro>
-   <ru>a text-console-based, modular instant messaging client</ru>
+   <ru>Консольный модульный клиент мгновенных сообщений</ru>
    <sk>a text-console-based, modular instant messaging client</sk>
+   <sq>a text-console-based, modular instant messaging client</sq>
    <sv>en textkonsol-baserad modulär snabbmeddelande-klient</sv>
    <tr>a text-console-based, modular instant messaging client</tr>
    <uk>a text-console-based, modular instant messaging client</uk>

@@ -13,8 +13,9 @@ Korean_Thunderbird
    <am>Korean localisation of Thunderbird</am>
    <ca>Localització en Coreà per Thunderbird</ca>
    <cs>Korean localisation of Thunderbird</cs>
+   <da>Koreansk oversættelse af Thunderbird</da>
    <de>Koreanische Lokalisierung von Thunderbird</de>
-   <el>Korean localisation of Thunderbird</el>
+   <el>Κορεατικός εντοπισμός του Thunderbird</el>
    <en>Korean localisation of Thunderbird</en>
    <es>Korean localisation of Thunderbird</es>
    <fi>Korean localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Korean_Thunderbird
    <hi>Korean localisation of Thunderbird</hi>
    <hr>Korean localisation of Thunderbird</hr>
    <hu>Korean localisation of Thunderbird</hu>
+   <is>Korean localisation of Thunderbird</is>
    <it>Localizzazione coreana di Thunderbird</it>
    <ja>Korean localisation of Thunderbird</ja>
    <kk>Korean localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Korean_Thunderbird
    <ro>Korean localisation of Thunderbird</ro>
    <ru>Korean localisation of Thunderbird</ru>
    <sk>Korean localisation of Thunderbird</sk>
+   <sq>Korean localisation of Thunderbird</sq>
    <sv>Koreansk lokalisering av Thunderbird</sv>
    <tr>Korean localisation of Thunderbird</tr>
    <uk>Korean localisation of Thunderbird</uk>

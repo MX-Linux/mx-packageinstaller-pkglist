@@ -13,8 +13,9 @@ Scribus
    <am>a desktop page layout program</am>
    <ca>Programa de disseny de pàgines d'escriptori</ca>
    <cs>a desktop page layout program</cs>
+   <da>a desktop page layout program</da>
    <de>Ein Desktop-Seitenlayout-Programm</de>
-   <el>a desktop page layout program</el>
+   <el>ένα πρόγραμμα διάταξης σελίδας επιφάνειας εργασίας</el>
    <en>a desktop page layout program</en>
    <es>a desktop page layout program</es>
    <fi>a desktop page layout program</fi>
@@ -22,6 +23,7 @@ Scribus
    <hi>a desktop page layout program</hi>
    <hr>a desktop page layout program</hr>
    <hu>a desktop page layout program</hu>
+   <is>a desktop page layout program</is>
    <it>programma di impaginazione per il desktop</it>
    <ja>a desktop page layout program</ja>
    <kk>a desktop page layout program</kk>
@@ -31,8 +33,9 @@ Scribus
    <pt_BR>a desktop page layout program</pt_BR>
    <pt>Programa de paginação electrónica (composição de publicações)</pt>
    <ro>a desktop page layout program</ro>
-   <ru>a desktop page layout program</ru>
+   <ru>Приложение для визуальной вёрстки документов</ru>
    <sk>a desktop page layout program</sk>
+   <sq>a desktop page layout program</sq>
    <sv>ett skrivbords sidlayout-program</sv>
    <tr>a desktop page layout program</tr>
    <uk>a desktop page layout program</uk>

@@ -13,8 +13,9 @@ Danish_Thunderbird
    <am>Danish localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Danès</ca>
    <cs>Danish localisation of Thunderbird</cs>
+   <da>Dansk oversættelse af Thunderbird</da>
    <de>Dänische Lokalisierung von Thunderbird</de>
-   <el>Danish localisation of Thunderbird</el>
+   <el>Δανικός εντοπισμός του Thunderbird</el>
    <en>Danish localisation of Thunderbird</en>
    <es>Danish localisation of Thunderbird</es>
    <fi>Danish localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Danish_Thunderbird
    <hi>Danish localisation of Thunderbird</hi>
    <hr>Danish localisation of Thunderbird</hr>
    <hu>Danish localisation of Thunderbird</hu>
+   <is>Danish localisation of Thunderbird</is>
    <it>Localizzazione danese di Thunderbird</it>
    <ja>Danish localisation of Thunderbird</ja>
    <kk>Danish localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Danish_Thunderbird
    <ro>Danish localisation of Thunderbird</ro>
    <ru>Danish localisation of Thunderbird</ru>
    <sk>Danish localisation of Thunderbird</sk>
+   <sq>Danish localisation of Thunderbird</sq>
    <sv>Dansk lokalisering av Thunderbird</sv>
    <tr>Danish localisation of Thunderbird</tr>
    <uk>Danish localisation of Thunderbird</uk>

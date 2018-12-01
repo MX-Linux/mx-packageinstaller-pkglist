@@ -13,8 +13,9 @@ Lithuanian_Thunderbird
    <am>Lithuanian localisation of Thunderbird</am>
    <ca>Lithuanian localisation of Thunderbird</ca>
    <cs>Lithuanian localisation of Thunderbird</cs>
+   <da>Litauisk oversættelse af Thunderbird</da>
    <de>Litauische Lokalisierung von Thunderbird</de>
-   <el>Lithuanian localisation of Thunderbird</el>
+   <el>Λιθουανικός εντοπισμός του Thunderbird</el>
    <en>Lithuanian localisation of Thunderbird</en>
    <es>Lithuanian localisation of Thunderbird</es>
    <fi>Lithuanian localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Lithuanian_Thunderbird
    <hi>Lithuanian localisation of Thunderbird</hi>
    <hr>Lithuanian localisation of Thunderbird</hr>
    <hu>Lithuanian localisation of Thunderbird</hu>
+   <is>Lithuanian localisation of Thunderbird</is>
    <it>Localizzazione lituana di Thunderbird</it>
    <ja>Lithuanian localisation of Thunderbird</ja>
    <kk>Lithuanian localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Lithuanian_Thunderbird
    <ro>Lithuanian localisation of Thunderbird</ro>
    <ru>Lithuanian localisation of Thunderbird</ru>
    <sk>Lithuanian localisation of Thunderbird</sk>
+   <sq>Lithuanian localisation of Thunderbird</sq>
    <sv>Litauisk lokalisering av Thunderbird </sv>
    <tr>Lithuanian localisation of Thunderbird</tr>
    <uk>Lithuanian localisation of Thunderbird</uk>

@@ -13,8 +13,9 @@ Pithos
    <am>a native Pandora Radio client</am>
    <ca>client nadiu de Pandora Radio</ca>
    <cs>a native Pandora Radio client</cs>
+   <da>a native Pandora Radio client</da>
    <de>Ein einheimischer Pandora-Radio-Client</de>
-   <el>a native Pandora Radio client</el>
+   <el>Pandora Radio</el>
    <en>a native Pandora Radio client</en>
    <es>a native Pandora Radio client</es>
    <fi>a native Pandora Radio client</fi>
@@ -22,6 +23,7 @@ Pithos
    <hi>a native Pandora Radio client</hi>
    <hr>a native Pandora Radio client</hr>
    <hu>a native Pandora Radio client</hu>
+   <is>a native Pandora Radio client</is>
    <it>client per la radio web Pandora</it>
    <ja>a native Pandora Radio client</ja>
    <kk>a native Pandora Radio client</kk>
@@ -31,8 +33,9 @@ Pithos
    <pt_BR>a native Pandora Radio client</pt_BR>
    <pt>a native Pandora Radio client</pt>
    <ro>a native Pandora Radio client</ro>
-   <ru>a native Pandora Radio client</ru>
+   <ru>Нативный клиент сервиса потокового аудио Pandora (радио)</ru>
    <sk>a native Pandora Radio client</sk>
+   <sq>a native Pandora Radio client</sq>
    <sv>en naturlig Pandora Radio klient</sv>
    <tr>a native Pandora Radio client</tr>
    <uk>a native Pandora Radio client</uk>

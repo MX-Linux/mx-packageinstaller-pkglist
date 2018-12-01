@@ -13,8 +13,9 @@ Okular
    <am>a universal document viewer -WARNING- pulls in elements of KDE</am>
    <ca>visor de documents universal: COMPTE! descarrega elements de KDE</ca>
    <cs>a universal document viewer -WARNING- pulls in elements of KDE</cs>
+   <da>a universal document viewer -WARNING- pulls in elements of KDE</da>
    <de>Ein universeller Dokumentbetrachter -WARNUNG- zieht Elemente von KDE ein</de>
-   <el>a universal document viewer -WARNING- pulls in elements of KDE</el>
+   <el>ένα γενικό πρόγραμμα προβολής εγγράφων-ΠΡΟΕΙΔΟΠΟΙΗΣΗ- τραβάει στοιχεία του KDE</el>
    <en>a universal document viewer -WARNING- pulls in elements of KDE</en>
    <es>a universal document viewer -WARNING- pulls in elements of KDE</es>
    <fi>a universal document viewer -WARNING- pulls in elements of KDE</fi>
@@ -22,6 +23,7 @@ Okular
    <hi>a universal document viewer -WARNING- pulls in elements of KDE</hi>
    <hr>a universal document viewer -WARNING- pulls in elements of KDE</hr>
    <hu>a universal document viewer -WARNING- pulls in elements of KDE</hu>
+   <is>a universal document viewer -WARNING- pulls in elements of KDE</is>
    <it>un visualizzatore universale di documenti -ATTENZIONE- richiama elementi di KDE</it>
    <ja>a universal document viewer -WARNING- pulls in elements of KDE</ja>
    <kk>a universal document viewer -WARNING- pulls in elements of KDE</kk>
@@ -31,8 +33,9 @@ Okular
    <pt_BR>a universal document viewer -WARNING- pulls in elements of KDE</pt_BR>
    <pt>Visualizador de documentos universal -AVISO- instala elementos do Ambiente de Trabalho KDE</pt>
    <ro>a universal document viewer -WARNING- pulls in elements of KDE</ro>
-   <ru>a universal document viewer -WARNING- pulls in elements of KDE</ru>
+   <ru>Универсальный просмотрщик документов -ВНИМАНИЕ- тянет с собой элементы KDE</ru>
    <sk>a universal document viewer -WARNING- pulls in elements of KDE</sk>
+   <sq>a universal document viewer -WARNING- pulls in elements of KDE</sq>
    <sv>en universiell dokumentläsare -Varning- drar in delar av KDE</sv>
    <tr>a universal document viewer -WARNING- pulls in elements of KDE</tr>
    <uk>a universal document viewer -WARNING- pulls in elements of KDE</uk>

@@ -13,8 +13,9 @@ Romanian_Firfox
    <am>Romanian localisation of Firefox</am>
    <ca>Localització de Firefox en Romanès</ca>
    <cs>Romanian localisation of Firefox</cs>
+   <da>Rumænsk oversættelse af Firefox</da>
    <de>Rumänische Lokalisierung von Firefox</de>
-   <el>Romanian localisation of Firefox</el>
+   <el>Ρουμανικός εντοπισμός του Firefox</el>
    <en>Romanian localisation of Firefox</en>
    <es>Romanian localisation of Firefox</es>
    <fi>Romanian localisation of Firefox</fi>
@@ -22,6 +23,7 @@ Romanian_Firfox
    <hi>Romanian localisation of Firefox</hi>
    <hr>Romanian localisation of Firefox</hr>
    <hu>Romanian localisation of Firefox</hu>
+   <is>Romanian localisation of Firefox</is>
    <it>Localizzazione rumena di Firefox</it>
    <ja>Romanian localisation of Firefox</ja>
    <kk>Romanian localisation of Firefox</kk>
@@ -33,6 +35,7 @@ Romanian_Firfox
    <ro>Romanian localisation of Firefox</ro>
    <ru>Romanian localisation of Firefox</ru>
    <sk>Romanian localisation of Firefox</sk>
+   <sq>Romanian localisation of Firefox</sq>
    <sv>Rumänsk lokalisering av Firefox</sv>
    <tr>Romanian localisation of Firefox</tr>
    <uk>Romanian localisation of Firefox</uk>

@@ -13,8 +13,9 @@ WinFF
    <am>graphical video and audio batch converter</am>
    <ca>graphical video and audio batch converter</ca>
    <cs>graphical video and audio batch converter</cs>
+   <da>graphical video and audio batch converter</da>
    <de>Grafischer Video- und Audio-Batch-Konverter</de>
-   <el>graphical video and audio batch converter</el>
+   <el>γραφικό μετατροπέα βίντεο και ήχου</el>
    <en>graphical video and audio batch converter</en>
    <es>graphical video and audio batch converter</es>
    <fi>graphical video and audio batch converter</fi>
@@ -22,6 +23,7 @@ WinFF
    <hi>graphical video and audio batch converter</hi>
    <hr>graphical video and audio batch converter</hr>
    <hu>graphical video and audio batch converter</hu>
+   <is>graphical video and audio batch converter</is>
    <it>convertitore grafico batch per video e audio che usa FFmpeg o avconv</it>
    <ja>graphical video and audio batch converter</ja>
    <kk>graphical video and audio batch converter</kk>
@@ -31,8 +33,9 @@ WinFF
    <pt_BR>Conversor gráfico de vídeo e áudio (conversão em lotes)</pt_BR>
    <pt>Conversor gráfico de vídeo e áudio (conversão em lotes)</pt>
    <ro>graphical video and audio batch converter</ro>
-   <ru>graphical video and audio batch converter</ru>
+   <ru>Пакетный конвертер видео и аудио</ru>
    <sk>graphical video and audio batch converter</sk>
+   <sq>graphical video and audio batch converter</sq>
    <sv>grafisk video och ljud mass-konverterare</sv>
    <tr>graphical video and audio batch converter</tr>
    <uk>graphical video and audio batch converter</uk>

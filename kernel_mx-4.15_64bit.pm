@@ -13,8 +13,9 @@ MX 4.15
    <am>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</am>
    <ca>Nucli de MX 4.15 64 bit, amb pedaç per Meltdown i Spectre</ca>
    <cs>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</cs>
+   <da>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</da>
    <de>MX 4.15 Kernel Meltdown und Spectre gepatcht, 64 Bit</de>
-   <el>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</el>
+   <el>MX 4.15 πυρήνα Meltdown και Specter patched, 64 bit</el>
    <en>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</en>
    <es>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</es>
    <fi>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</fi>
@@ -22,6 +23,7 @@ MX 4.15
    <hi>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</hi>
    <hr>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</hr>
    <hu>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</hu>
+   <is>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</is>
    <it>MX 4.15 kernel con la patch per Meltdown e Spectre, 64 bit</it>
    <ja>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</ja>
    <kk>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</kk>
@@ -31,8 +33,9 @@ MX 4.15
    <pt_BR>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</pt_BR>
    <pt>Núcleo MX 4.15 com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
    <ro>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</ro>
-   <ru>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</ru>
+   <ru>MX ядро 4.15 с патчами от Meltdown и Spectre, 64 bit</ru>
    <sk>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</sk>
+   <sq>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</sq>
    <sv>MX 4.15 kärna Meltdown och Spectre patched, 64 bit</sv>
    <tr>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</tr>
    <uk>MX 4.15 kernel Meltdown and Spectre patched, 64 bit</uk>

@@ -13,8 +13,9 @@ Debian 32 bit no-pae
    <am>Default Debian 4.9 32bit linux kernel, no-PAE, single core</am>
    <ca>Nucli de Debian 4.9 32 bit sense PAE, single core</ca>
    <cs>Default Debian 4.9 32bit linux kernel, no-PAE, single core</cs>
+   <da>Default Debian 4.9 32bit linux kernel, no-PAE, single core</da>
    <de>Standard Debian 4.9 32bit Linux Kernel, no-PAE, Einzelkern</de>
-   <el>Default Debian 4.9 32bit linux kernel, no-PAE, single core</el>
+   <el>Προκαθορισμένο Debian 4.9 32bit linux kernel, no-PAE, single core</el>
    <en>Default Debian 4.9 32bit linux kernel, no-PAE, single core</en>
    <es>Default Debian 4.9 32bit linux kernel, no-PAE, single core</es>
    <fi>Default Debian 4.9 32bit linux kernel, no-PAE, single core</fi>
@@ -22,6 +23,7 @@ Debian 32 bit no-pae
    <hi>Default Debian 4.9 32bit linux kernel, no-PAE, single core</hi>
    <hr>Default Debian 4.9 32bit linux kernel, no-PAE, single core</hr>
    <hu>Default Debian 4.9 32bit linux kernel, no-PAE, single core</hu>
+   <is>Default Debian 4.9 32bit linux kernel, no-PAE, single core</is>
    <it>Default Debian 4.9 32bit linux kernel, no-PAE, core singolo</it>
    <ja>Default Debian 4.9 32bit linux kernel, no-PAE, single core</ja>
    <kk>Default Debian 4.9 32bit linux kernel, no-PAE, single core</kk>
@@ -31,8 +33,9 @@ Debian 32 bit no-pae
    <pt_BR>Default Debian 4.9 32bit linux kernel, no-PAE, single core</pt_BR>
    <pt>Núcleo linux padrão Debian 4.9 32bit s/ PAE, para processadores single core</pt>
    <ro>Default Debian 4.9 32bit linux kernel, no-PAE, single core</ro>
-   <ru>Default Debian 4.9 32bit linux kernel, no-PAE, single core</ru>
+   <ru>Debian ядро по умолчанию 4.9, 32bit no-PAE одно ядро</ru>
    <sk>Default Debian 4.9 32bit linux kernel, no-PAE, single core</sk>
+   <sq>Default Debian 4.9 32bit linux kernel, no-PAE, single core</sq>
    <sv>Standard Debian 4.9 32bit linux kärna, no-PAE, single core</sv>
    <tr>Default Debian 4.9 32bit linux kernel, no-PAE, single core</tr>
    <uk>Default Debian 4.9 32bit linux kernel, no-PAE, single core</uk>

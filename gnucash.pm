@@ -13,8 +13,9 @@ GnuCash
    <am>personal and small-business financial-accounting software</am>
    <ca>programari de comptabilitat personal o per petites empreses</ca>
    <cs>personal and small-business financial-accounting software</cs>
+   <da>personal and small-business financial-accounting software</da>
    <de>Personal- und Kleinunternehmer-Finanzbuchhaltungssoftware</de>
-   <el>personal and small-business financial-accounting software</el>
+   <el>λογισμικό χρηματοοικονομικής λογιστικής προσωπικού και μικρού επιχειρείς</el>
    <en>personal and small-business financial-accounting software</en>
    <es>personal and small-business financial-accounting software</es>
    <fi>personal and small-business financial-accounting software</fi>
@@ -22,6 +23,7 @@ GnuCash
    <hi>personal and small-business financial-accounting software</hi>
    <hr>personal and small-business financial-accounting software</hr>
    <hu>personal and small-business financial-accounting software</hu>
+   <is>personal and small-business financial-accounting software</is>
    <it>Contabilità personale e per piccola impresa</it>
    <ja>personal and small-business financial-accounting software</ja>
    <kk>personal and small-business financial-accounting software</kk>
@@ -31,8 +33,9 @@ GnuCash
    <pt_BR>personal and small-business financial-accounting software</pt_BR>
    <pt>Software de contabilidade-finanças para pequenas empresas e uso pessoal</pt>
    <ro>personal and small-business financial-accounting software</ro>
-   <ru>personal and small-business financial-accounting software</ru>
+   <ru>Приложение финансового учета для персонального и малого бизнеса</ru>
    <sk>personal and small-business financial-accounting software</sk>
+   <sq>personal and small-business financial-accounting software</sq>
    <sv>personlig och småföretags finansiell räkenskaps-mjukvara</sv>
    <tr>personal and small-business financial-accounting software</tr>
    <uk>personal and small-business financial-accounting software</uk>

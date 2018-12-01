@@ -13,8 +13,9 @@ Czech_Thunderbird
    <am>Czech localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Txec</ca>
    <cs>Czech localisation of Thunderbird</cs>
+   <da>Tjekkisk oversættelse af Thunderbird</da>
    <de>Tschechische Lokalisierung von Thunderbird</de>
-   <el>Czech localisation of Thunderbird</el>
+   <el>Τσεχική εντοπισμός του Thunderbird</el>
    <en>Czech localisation of Thunderbird</en>
    <es>Czech localisation of Thunderbird</es>
    <fi>Czech localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Czech_Thunderbird
    <hi>Czech localisation of Thunderbird</hi>
    <hr>Czech localisation of Thunderbird</hr>
    <hu>Czech localisation of Thunderbird</hu>
+   <is>Czech localisation of Thunderbird</is>
    <it>Localizzazione in Ceco di Thunderbird</it>
    <ja>Czech localisation of Thunderbird</ja>
    <kk>Czech localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Czech_Thunderbird
    <ro>Czech localisation of Thunderbird</ro>
    <ru>Czech localisation of Thunderbird</ru>
    <sk>Czech localisation of Thunderbird</sk>
+   <sq>Czech localisation of Thunderbird</sq>
    <sv>Tjeckisk lokalisering av Thunderbird</sv>
    <tr>Czech localisation of Thunderbird</tr>
    <uk>Czech localisation of Thunderbird</uk>

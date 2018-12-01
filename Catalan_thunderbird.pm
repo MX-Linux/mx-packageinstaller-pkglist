@@ -13,8 +13,9 @@ Catalan_Thunderbird
    <am>Catalan localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Català</ca>
    <cs>Catalan localisation of Thunderbird</cs>
+   <da>Catalansk oversættelse af Thunderbird</da>
    <de>Katalanische Lokalisierung von Thunderbird</de>
-   <el>Catalan localisation of Thunderbird</el>
+   <el>Καταλανική εντοπισμός του Thunderbird</el>
    <en>Catalan localisation of Thunderbird</en>
    <es>Catalan localisation of Thunderbird</es>
    <fi>Catalan localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Catalan_Thunderbird
    <hi>Catalan localisation of Thunderbird</hi>
    <hr>Catalan localisation of Thunderbird</hr>
    <hu>Catalan localisation of Thunderbird</hu>
+   <is>Catalan localisation of Thunderbird</is>
    <it>Localizzazione catalana di Thunderbird</it>
    <ja>Catalan localisation of Thunderbird</ja>
    <kk>Catalan localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Catalan_Thunderbird
    <ro>Catalan localisation of Thunderbird</ro>
    <ru>Catalan localisation of Thunderbird</ru>
    <sk>Catalan localisation of Thunderbird</sk>
+   <sq>Catalan localisation of Thunderbird</sq>
    <sv>Katalansk lokalisering av Thunderbird</sv>
    <tr>Catalan localisation of Thunderbird</tr>
    <uk>Catalan localisation of Thunderbird</uk>

@@ -13,8 +13,9 @@ qBittorrent
    <am>a QT4 feature rich but lightweight client that is very similar to uTorrent</am>
    <ca>a QT4 feature rich but lightweight client that is very similar to uTorrent</ca>
    <cs>a QT4 feature rich but lightweight client that is very similar to uTorrent</cs>
+   <da>a QT4 feature rich but lightweight client that is very similar to uTorrent</da>
    <de>Ein Qt4-Client mit vielen Funktionen, der dem µTorrent sehr ähnlich ist.</de>
-   <el>a QT4 feature rich but lightweight client that is very similar to uTorrent</el>
+   <el>ένα QT4 χαρακτηριστικό πλούσιο αλλά ελαφρύ πελάτη που είναι πολύ παρόμοιο με το uTorrent</el>
    <en>a QT4 feature rich but lightweight client that is very similar to uTorrent</en>
    <es>a QT4 feature rich but lightweight client that is very similar to uTorrent</es>
    <fi>a QT4 feature rich but lightweight client that is very similar to uTorrent</fi>
@@ -22,6 +23,7 @@ qBittorrent
    <hi>a QT4 feature rich but lightweight client that is very similar to uTorrent</hi>
    <hr>a QT4 feature rich but lightweight client that is very similar to uTorrent</hr>
    <hu>a QT4 feature rich but lightweight client that is very similar to uTorrent</hu>
+   <is>a QT4 feature rich but lightweight client that is very similar to uTorrent</is>
    <it>client molto simile a uTorrent, ricco di funzionalità ma leggero, con interfaccia in QT4</it>
    <ja>a QT4 feature rich but lightweight client that is very similar to uTorrent</ja>
    <kk>a QT4 feature rich but lightweight client that is very similar to uTorrent</kk>
@@ -31,8 +33,9 @@ qBittorrent
    <pt_BR>a QT4 feature rich but lightweight client that is very similar to uTorrent</pt_BR>
    <pt>Cliente de torrent para a tecnologia QT4, pleno de funcionalidades mas ligeiro, muito semelhante ao uTorrent</pt>
    <ro>a QT4 feature rich but lightweight client that is very similar to uTorrent</ro>
-   <ru>a QT4 feature rich but lightweight client that is very similar to uTorrent</ru>
+   <ru>Мощный и легкий Bittorrent клиент на QT-4 похожий на uTorrent</ru>
    <sk>a QT4 feature rich but lightweight client that is very similar to uTorrent</sk>
+   <sq>a QT4 feature rich but lightweight client that is very similar to uTorrent</sq>
    <sv>en Qt4 lättvikts klient rik på möjligheter som är mycket lik uTorrent</sv>
    <tr>a QT4 feature rich but lightweight client that is very similar to uTorrent</tr>
    <uk>a QT4 feature rich but lightweight client that is very similar to uTorrent</uk>

@@ -13,8 +13,9 @@ Preschool
    <am>Pre-School. Includes: gamine, gcompris and tuxpaint</am>
    <ca>Pre-escolar: inclou gamine, gcompris i tuxpaint</ca>
    <cs>Pre-School. Includes: gamine, gcompris and tuxpaint</cs>
+   <da>Pre-School. Includes: gamine, gcompris and tuxpaint</da>
    <de>Vorschule: Inklusive Gamine, Gcompris und Tuxpaint</de>
-   <el>Pre-School. Includes: gamine, gcompris and tuxpaint</el>
+   <el>Προσχολικός. Περιλαμβάνει: gamine, gcompris και tuxpaint</el>
    <en>Pre-School. Includes: gamine, gcompris and tuxpaint</en>
    <es>Pre-School. Includes: gamine, gcompris and tuxpaint</es>
    <fi>Pre-School. Includes: gamine, gcompris and tuxpaint</fi>
@@ -22,6 +23,7 @@ Preschool
    <hi>Pre-School. Includes: gamine, gcompris and tuxpaint</hi>
    <hr>Pre-School. Includes: gamine, gcompris and tuxpaint</hr>
    <hu>Pre-School. Includes: gamine, gcompris and tuxpaint</hu>
+   <is>Pre-School. Includes: gamine, gcompris and tuxpaint</is>
    <it>Elementari. Include: gamine, gcompris e tuxpaint</it>
    <ja>Pre-School. Includes: gamine, gcompris and tuxpaint</ja>
    <kk>Pre-School. Includes: gamine, gcompris and tuxpaint</kk>
@@ -31,8 +33,9 @@ Preschool
    <pt_BR>Pre-School. Includes: gamine, gcompris and tuxpaint</pt_BR>
    <pt>Pré-escola/infantil. Inclui: gamine, gcompris e tuxpaint</pt>
    <ro>Pre-School. Includes: gamine, gcompris and tuxpaint</ro>
-   <ru>Pre-School. Includes: gamine, gcompris and tuxpaint</ru>
+   <ru>Приложения для дошкольников: gamine, gcompris и tuxpaint</ru>
    <sk>Pre-School. Includes: gamine, gcompris and tuxpaint</sk>
+   <sq>Pre-School. Includes: gamine, gcompris and tuxpaint</sq>
    <sv>Pre-School. Inkluderar: gamine, gcompris och tuxpaint</sv>
    <tr>Pre-School. Includes: gamine, gcompris and tuxpaint</tr>
    <uk>Pre-School. Includes: gamine, gcompris and tuxpaint</uk>

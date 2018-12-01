@@ -13,8 +13,9 @@ DeaDBeeF
    <am>simple audio player</am>
    <ca>senzill reproductor d'àudio</ca>
    <cs>simple audio player</cs>
+   <da>simple audio player</da>
    <de>Einfacher Audio-Player</de>
-   <el>simple audio player</el>
+   <el>απλή συσκευή αναπαραγωγής ήχου</el>
    <en>simple audio player</en>
    <es>simple audio player</es>
    <fi>simple audio player</fi>
@@ -22,6 +23,7 @@ DeaDBeeF
    <hi>simple audio player</hi>
    <hr>simple audio player</hr>
    <hu>simple audio player</hu>
+   <is>simple audio player</is>
    <it>Lettore di tracce audio semplice</it>
    <ja>simple audio player</ja>
    <kk>simple audio player</kk>
@@ -31,8 +33,9 @@ DeaDBeeF
    <pt_BR>Reprodutor de áudio muito simples</pt_BR>
    <pt>Reprodutor de áudio simples e de fácil utilização</pt>
    <ro>simple audio player</ro>
-   <ru>simple audio player</ru>
+   <ru>Музыкальный проигрыватель</ru>
    <sk>simple audio player</sk>
+   <sq>simple audio player</sq>
    <sv>enkel ljudspelare</sv>
    <tr>simple audio player</tr>
    <uk>simple audio player</uk>

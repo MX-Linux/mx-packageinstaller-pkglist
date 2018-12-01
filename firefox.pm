@@ -13,15 +13,17 @@ Firefox
    <am>Latest Firefox</am>
    <ca>Darrer Firefox</ca>
    <cs>Latest Firefox</cs>
+   <da>Seneste Firefox</da>
    <de>Neuester Firefox</de>
-   <el>Latest Firefox</el>
+   <el>Τελευταία Firefox</el>
    <en>Latest Firefox</en>
-   <es>Latest Firefox</es>
+   <es>Firefox actual</es>
    <fi>Latest Firefox</fi>
    <fr>La dernière version de Firefox</fr>
    <hi>Latest Firefox</hi>
    <hr>Latest Firefox</hr>
    <hu>Latest Firefox</hu>
+   <is>Latest Firefox</is>
    <it>Ultima versione di Firefox</it>
    <ja>Latest Firefox</ja>
    <kk>Latest Firefox</kk>
@@ -31,8 +33,9 @@ Firefox
    <pt_BR>Latest Firefox</pt_BR>
    <pt>Latest Firefox</pt>
    <ro>Latest Firefox</ro>
-   <ru>Latest Firefox</ru>
+   <ru>Браузер Firefox последней версии</ru>
    <sk>Latest Firefox</sk>
+   <sq>Latest Firefox</sq>
    <sv>Senaste Firefox</sv>
    <tr>Latest Firefox</tr>
    <uk>Latest Firefox</uk>

@@ -13,15 +13,17 @@ Obsidian-2 Gtk Theme
    <am>a dark Gtk Theme</am>
    <ca>un tema GTK fosc</ca>
    <cs>a dark Gtk Theme</cs>
+   <da>a dark Gtk Theme</da>
    <de>Ein dunkles Gtk-Thema</de>
-   <el>a dark Gtk Theme</el>
+   <el>ένα σκοτεινό θέμα Gtk</el>
    <en>a dark Gtk Theme</en>
-   <es>a dark Gtk Theme</es>
+   <es>tema Gtk oscuro</es>
    <fi>a dark Gtk Theme</fi>
    <fr>Thème sombre GTK</fr>
    <hi>a dark Gtk Theme</hi>
    <hr>a dark Gtk Theme</hr>
    <hu>a dark Gtk Theme</hu>
+   <is>a dark Gtk Theme</is>
    <it>un tema Gtk scuro</it>
    <ja>a dark Gtk Theme</ja>
    <kk>a dark Gtk Theme</kk>
@@ -31,8 +33,9 @@ Obsidian-2 Gtk Theme
    <pt_BR>Tema escuro para Gtk</pt_BR>
    <pt>Tema escuro para Gtk</pt>
    <ro>a dark Gtk Theme</ro>
-   <ru>a dark Gtk Theme</ru>
+   <ru>Тёмная тема GTK</ru>
    <sk>a dark Gtk Theme</sk>
+   <sq>a dark Gtk Theme</sq>
    <sv>ett mörkt Gtk Tema</sv>
    <tr>a dark Gtk Theme</tr>
    <uk>a dark Gtk Theme</uk>

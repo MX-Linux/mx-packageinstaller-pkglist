@@ -13,15 +13,17 @@ Kdenlive
    <am>the KDE video editor</am>
    <ca>Editor de vídeo de KDE</ca>
    <cs>the KDE video editor</cs>
+   <da>the KDE video editor</da>
    <de>Der KDE-Video-Editor</de>
-   <el>the KDE video editor</el>
+   <el>τον επεξεργαστή βίντεο του KDE</el>
    <en>the KDE video editor</en>
-   <es>the KDE video editor</es>
+   <es>editor de video de KDE</es>
    <fi>the KDE video editor</fi>
    <fr>L'éditeur vidéo de KDE</fr>
    <hi>the KDE video editor</hi>
    <hr>the KDE video editor</hr>
    <hu>the KDE video editor</hu>
+   <is>the KDE video editor</is>
    <it>editor video dell'ambiente KDE</it>
    <ja>the KDE video editor</ja>
    <kk>the KDE video editor</kk>
@@ -31,8 +33,9 @@ Kdenlive
    <pt_BR>the KDE video editor</pt_BR>
    <pt>O editor de vídeo do Ambiente de Trabalho KDE</pt>
    <ro>the KDE video editor</ro>
-   <ru>the KDE video editor</ru>
+   <ru>Полупрофессиональный нелинейный видео редактор</ru>
    <sk>the KDE video editor</sk>
+   <sq>the KDE video editor</sq>
    <sv>KDE video redigerare</sv>
    <tr>the KDE video editor</tr>
    <uk>the KDE video editor</uk>

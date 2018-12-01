@@ -13,8 +13,9 @@ Portugese(BR) Libreoffice
    <am>Portugese(BR) Language Meta-Package for LibreOffice</am>
    <ca>Meta-paquet de llengua per LibreOffice en Portuguès (BR)</ca>
    <cs>Portugese(BR) Language Meta-Package for LibreOffice</cs>
+   <da>Portugisisk (brasilien) sprog-metapakke til LibreOffice</da>
    <de>Portugiesisches (BR) Meta-Paket für LibreOffice</de>
-   <el>Portugese(BR) Language Meta-Package for LibreOffice</el>
+   <el>LibreOffice στα πορτογαλικά (Βραζιλίας)</el>
    <en>Portugese(BR) Language Meta-Package for LibreOffice</en>
    <es>Portugese(BR) Language Meta-Package for LibreOffice</es>
    <fi>Portugese(BR) Language Meta-Package for LibreOffice</fi>
@@ -22,6 +23,7 @@ Portugese(BR) Libreoffice
    <hi>Portugese(BR) Language Meta-Package for LibreOffice</hi>
    <hr>Portugese(BR) Language Meta-Package for LibreOffice</hr>
    <hu>Portugese(BR) Language Meta-Package for LibreOffice</hu>
+   <is>Portugese(BR) Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua portoghese(BR) per LibreOffice</it>
    <ja>Portugese(BR) Language Meta-Package for LibreOffice</ja>
    <kk>Portugese(BR) Language Meta-Package for LibreOffice</kk>
@@ -33,6 +35,7 @@ Portugese(BR) Libreoffice
    <ro>Portugese(BR) Language Meta-Package for LibreOffice</ro>
    <ru>Portugese(BR) Language Meta-Package for LibreOffice</ru>
    <sk>Portugese(BR) Language Meta-Package for LibreOffice</sk>
+   <sq>Portugese(BR) Language Meta-Package for LibreOffice</sq>
    <sv>Portugisiskt(BR) Språk Meta-Paket för LibreOffice</sv>
    <tr>Portugese(BR) Language Meta-Package for LibreOffice</tr>
    <uk>Portugese(BR) Language Meta-Package for LibreOffice</uk>

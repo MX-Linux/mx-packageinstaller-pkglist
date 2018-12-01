@@ -13,15 +13,17 @@ Gnumeric
    <am>lightweight spreadsheet</am>
    <ca>Full de càlcul lleuger</ca>
    <cs>lightweight spreadsheet</cs>
+   <da>lightweight spreadsheet</da>
    <de>Leichtgewichtige Tabellenkalkulation</de>
-   <el>lightweight spreadsheet</el>
+   <el>ελαφρύ υπολογιστικό φύλλο</el>
    <en>lightweight spreadsheet</en>
-   <es>lightweight spreadsheet</es>
+   <es>software de hojas de cálculo liviano</es>
    <fi>lightweight spreadsheet</fi>
    <fr>Tableur léger</fr>
    <hi>lightweight spreadsheet</hi>
    <hr>lightweight spreadsheet</hr>
    <hu>lightweight spreadsheet</hu>
+   <is>lightweight spreadsheet</is>
    <it>foglio di calcolo leggero</it>
    <ja>lightweight spreadsheet</ja>
    <kk>lightweight spreadsheet</kk>
@@ -31,8 +33,9 @@ Gnumeric
    <pt_BR>lightweight spreadsheet</pt_BR>
    <pt>Folha de cálculo simples e ligeira</pt>
    <ro>lightweight spreadsheet</ro>
-   <ru>lightweight spreadsheet</ru>
+   <ru>Легковесный редактор электронных таблиц (включает основные функции Excel)</ru>
    <sk>lightweight spreadsheet</sk>
+   <sq>lightweight spreadsheet</sq>
    <sv>lättvikts spreadsheet</sv>
    <tr>lightweight spreadsheet</tr>
    <uk>lightweight spreadsheet</uk>

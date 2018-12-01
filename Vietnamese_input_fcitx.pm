@@ -13,8 +13,9 @@ Vietnamese_Input_fcitx
    <am>Vietnamese Fonts and fcitx</am>
    <ca>Tipus de lletra i FCITX Vietnamesos</ca>
    <cs>Vietnamese Fonts and fcitx</cs>
+   <da>Vietnamesisk skrifttyper og fcitx</da>
    <de>Vietnamesische Schriftzeichen und Fcitx</de>
-   <el>Vietnamese Fonts and fcitx</el>
+   <el>Βιετναμέζικες γραμματοσειρές και fcitx</el>
    <en>Vietnamese Fonts and fcitx</en>
    <es>Vietnamese Fonts and fcitx</es>
    <fi>Vietnamese Fonts and fcitx</fi>
@@ -22,6 +23,7 @@ Vietnamese_Input_fcitx
    <hi>Vietnamese Fonts and fcitx</hi>
    <hr>Vietnamese Fonts and fcitx</hr>
    <hu>Vietnamese Fonts and fcitx</hu>
+   <is>Vietnamese Fonts and fcitx</is>
    <it>Font e fcitx per la lingua vietnamita</it>
    <ja>Vietnamese Fonts and fcitx</ja>
    <kk>Vietnamese Fonts and fcitx</kk>
@@ -33,6 +35,7 @@ Vietnamese_Input_fcitx
    <ro>Vietnamese Fonts and fcitx</ro>
    <ru>Vietnamese Fonts and fcitx</ru>
    <sk>Vietnamese Fonts and fcitx</sk>
+   <sq>Vietnamese Fonts and fcitx</sq>
    <sv>Vietnamesiska Typsnitt och fcitx</sv>
    <tr>Vietnamese Fonts and fcitx</tr>
    <uk>Vietnamese Fonts and fcitx</uk>

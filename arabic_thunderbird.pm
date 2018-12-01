@@ -13,8 +13,9 @@ Arabic_Thunderbird
    <am>Arabic localisation of Thunderbird</am>
    <ca>Localització de Thunderbird en Àrab</ca>
    <cs>Arabic localisation of Thunderbird</cs>
+   <da>Arabisk oversættelse af Thunderbird</da>
    <de>Arabische Lokalisierung von Thunderbird</de>
-   <el>Arabic localisation of Thunderbird</el>
+   <el>Αραβικός εντοπισμός του Thunderbird</el>
    <en>Arabic localisation of Thunderbird</en>
    <es>Localización Árabe de Thunderbird</es>
    <fi>Arabic localisation of Thunderbird</fi>
@@ -22,6 +23,7 @@ Arabic_Thunderbird
    <hi>Arabic localisation of Thunderbird</hi>
    <hr>Arapska lokalizacija Thunderbirda</hr>
    <hu>Arabic localisation of Thunderbird</hu>
+   <is>Arabic localisation of Thunderbird</is>
    <it>Localizzazione araba di Thunderbird</it>
    <ja>Arabic localisation of Thunderbird</ja>
    <kk>Arabic localisation of Thunderbird</kk>
@@ -33,6 +35,7 @@ Arabic_Thunderbird
    <ro>Arabic localisation of Thunderbird</ro>
    <ru>Arabic localisation of Thunderbird</ru>
    <sk>Arabic localisation of Thunderbird</sk>
+   <sq>Arabic localisation of Thunderbird</sq>
    <sv>Arabisk lokalisering av Thunderbird</sv>
    <tr>Arabic localisation of Thunderbird</tr>
    <uk>Arabic localisation of Thunderbird</uk>

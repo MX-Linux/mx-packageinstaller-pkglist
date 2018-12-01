@@ -13,8 +13,9 @@ Adwaita Dark WM Themes
    <am>Window Manager Themes to match the Obsidian-2 Gtk Theme</am>
    <ca>Temes de gestor de finestres per combinar amb el tema Obsidian-2</ca>
    <cs>Window Manager Themes to match the Obsidian-2 Gtk Theme</cs>
+   <da>Window Manager Themes to match the Obsidian-2 Gtk Theme</da>
    <de>Window Manager Themen passend zum Obsidian-2 Gtk Thema</de>
-   <el>Window Manager Themes to match the Obsidian-2 Gtk Theme</el>
+   <el>Θέματα διαχείρισης παραθύρων για να ταιριάζουν με το θέμα Obsidian-2 Gtk</el>
    <en>Window Manager Themes to match the Obsidian-2 Gtk Theme</en>
    <es>Temas de Gestores de Ventanas para combinar con la Tema Obsidian-2 de Gtk</es>
    <fi>Window Manager Themes to match the Obsidian-2 Gtk Theme</fi>
@@ -22,6 +23,7 @@ Adwaita Dark WM Themes
    <hi>Window Manager Themes to match the Obsidian-2 Gtk Theme</hi>
    <hr>Window Manager Themes to match the Obsidian-2 Gtk Theme</hr>
    <hu>Window Manager Themes to match the Obsidian-2 Gtk Theme</hu>
+   <is>Window Manager Themes to match the Obsidian-2 Gtk Theme</is>
    <it>Temi per Window Manager da associare al tema Gtk Obsidian-2</it>
    <ja>Window Manager Themes to match the Obsidian-2 Gtk Theme</ja>
    <kk>Window Manager Themes to match the Obsidian-2 Gtk Theme</kk>
@@ -31,8 +33,9 @@ Adwaita Dark WM Themes
    <pt_BR>Temas para Gestores de Janelas combinando com o tema Obsidian do Gtk-2</pt_BR>
    <pt>Temas para Gestores de Janelas a combinar com o tema Obsidian do Gtk-2</pt>
    <ro>Window Manager Themes to match the Obsidian-2 Gtk Theme</ro>
-   <ru>Window Manager Themes to match the Obsidian-2 Gtk Theme</ru>
+   <ru>Темы оконного менеджера подходящие к теме Gtk Obsidian-2</ru>
    <sk>Window Manager Themes to match the Obsidian-2 Gtk Theme</sk>
+   <sq>Window Manager Themes to match the Obsidian-2 Gtk Theme</sq>
    <sv>Fönsterhanterare-teman som matchar Obsidian-2 Gtk temat</sv>
    <tr>Window Manager Themes to match the Obsidian-2 Gtk Theme</tr>
    <uk>Window Manager Themes to match the Obsidian-2 Gtk Theme</uk>

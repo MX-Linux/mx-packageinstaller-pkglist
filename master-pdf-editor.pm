@@ -13,26 +13,29 @@ Master PDF Editor (Free Version)
    <am>Edit PDF documents.</am>
    <ca>Editor de documents PDF</ca>
    <cs>Edit PDF documents.</cs>
+   <da>Edit PDF documents.</da>
    <de>PDF-Dokumente bearbeiten</de>
-   <el>Edit PDF documents.</el>
+   <el>Επεξεργασία εγγράφων PDF.</el>
    <en>Edit PDF documents.</en>
-   <es>Edit PDF documents.</es>
+   <es>Editor de documentos PDF</es>
    <fi>Edit PDF documents.</fi>
    <fr>Éditer des documents PDF.</fr>
    <hi>Edit PDF documents.</hi>
    <hr>Edit PDF documents.</hr>
    <hu>Edit PDF documents.</hu>
+   <is>Edit PDF documents.</is>
    <it>Modifica i documenti in PDF.</it>
    <ja>Edit PDF documents.</ja>
    <kk>Edit PDF documents.</kk>
-   <lt>Edit PDF documents.</lt>
+   <lt>Taisyti PDF dokumentus.</lt>
    <nl>Bewerk PDF documenten</nl>
    <pl>Edit PDF documents.</pl>
    <pt_BR>Edit PDF documents.</pt_BR>
    <pt>Editar documentos em formato .pdf.</pt>
    <ro>Edit PDF documents.</ro>
-   <ru>Edit PDF documents.</ru>
+   <ru>Редактор PDF документов</ru>
    <sk>Edit PDF documents.</sk>
+   <sq>Edit PDF documents.</sq>
    <sv>Redigera PDF-dokument</sv>
    <tr>Edit PDF documents.</tr>
    <uk>Edit PDF documents.</uk>

@@ -13,8 +13,9 @@ Skype (64bit only)
    <am>Peer-to-peer video, voice, messaging</am>
    <ca>Peer-to-peer video, voice, messaging</ca>
    <cs>Peer-to-peer video, voice, messaging</cs>
+   <da>Peer-to-peer video, voice, messaging</da>
    <de>Peer-to-Peer-Video, Sprache, Messaging</de>
-   <el>Peer-to-peer video, voice, messaging</el>
+   <el>Peer-to-peer βίντεο, φωνή, μηνύματα</el>
    <en>Peer-to-peer video, voice, messaging</en>
    <es>Peer-to-peer video, voice, messaging</es>
    <fi>Peer-to-peer video, voice, messaging</fi>
@@ -22,6 +23,7 @@ Skype (64bit only)
    <hi>Peer-to-peer video, voice, messaging</hi>
    <hr>Peer-to-peer video, voice, messaging</hr>
    <hu>Peer-to-peer video, voice, messaging</hu>
+   <is>Peer-to-peer video, voice, messaging</is>
    <it>Peer-to-peer video, voce e messaggi</it>
    <ja>Peer-to-peer video, voice, messaging</ja>
    <kk>Peer-to-peer video, voice, messaging</kk>
@@ -31,8 +33,9 @@ Skype (64bit only)
    <pt_BR>Peer-to-peer video, voice, messaging</pt_BR>
    <pt>Peer-to-peer video, voice, messaging</pt>
    <ro>Peer-to-peer video, voice, messaging</ro>
-   <ru>Peer-to-peer video, voice, messaging</ru>
+   <ru>Голосовая и видеосвязь (IP-телефония)</ru>
    <sk>Peer-to-peer video, voice, messaging</sk>
+   <sq>Peer-to-peer video, voice, messaging</sq>
    <sv>Peer-to-peer video, röst, meddelandetjänst</sv>
    <tr>Peer-to-peer video, voice, messaging</tr>
    <uk>Peer-to-peer video, voice, messaging</uk>

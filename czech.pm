@@ -13,8 +13,9 @@ Czech
    <am>Czech Language Meta-Package</am>
    <ca>Meta-paquet per llengua Txeca</ca>
    <cs>Czech Language Meta-Package</cs>
+   <da>Tjekkisk sprog-metapakke</da>
    <de>Tschechisches Sprach-Meta-Paket</de>
-   <el>Czech Language Meta-Package</el>
+   <el>Τσεχική γλώσσα</el>
    <en>Czech Language Meta-Package</en>
    <es>Czech Language Meta-Package</es>
    <fi>Czech Language Meta-Package</fi>
@@ -22,6 +23,7 @@ Czech
    <hi>Czech Language Meta-Package</hi>
    <hr>Czech Language Meta-Package</hr>
    <hu>Czech Language Meta-Package</hu>
+   <is>Czech Language Meta-Package</is>
    <it>Meta-pacchetto della lingua ceca</it>
    <ja>Czech Language Meta-Package</ja>
    <kk>Czech Language Meta-Package</kk>
@@ -33,6 +35,7 @@ Czech
    <ro>Czech Language Meta-Package</ro>
    <ru>Czech Language Meta-Package</ru>
    <sk>Czech Language Meta-Package</sk>
+   <sq>Czech Language Meta-Package</sq>
    <sv>Tjeckiskt Språk Meta-Paket</sv>
    <tr>Czech Language Meta-Package</tr>
    <uk>Czech Language Meta-Package</uk>

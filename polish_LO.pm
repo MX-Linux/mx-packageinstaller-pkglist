@@ -13,8 +13,9 @@ Polish_Libreoffice
    <am>Polish Language Meta-Package for LibreOffice</am>
    <ca>Meta-paquet de llengua per LibreOffice en Polonès</ca>
    <cs>Polish Language Meta-Package for LibreOffice</cs>
+   <da>Polsk sprog-metapakke til LibreOffice</da>
    <de>Polnisches Meta-Paket für LibreOffice</de>
-   <el>Polish Language Meta-Package for LibreOffice</el>
+   <el>LibreOffice στα πολωνικά</el>
    <en>Polish Language Meta-Package for LibreOffice</en>
    <es>Polish Language Meta-Package for LibreOffice</es>
    <fi>Polish Language Meta-Package for LibreOffice</fi>
@@ -22,6 +23,7 @@ Polish_Libreoffice
    <hi>Polish Language Meta-Package for LibreOffice</hi>
    <hr>Polish Language Meta-Package for LibreOffice</hr>
    <hu>Polish Language Meta-Package for LibreOffice</hu>
+   <is>Polish Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua polacca per LibreOffice</it>
    <ja>Polish Language Meta-Package for LibreOffice</ja>
    <kk>Polish Language Meta-Package for LibreOffice</kk>
@@ -33,6 +35,7 @@ Polish_Libreoffice
    <ro>Polish Language Meta-Package for LibreOffice</ro>
    <ru>Polish Language Meta-Package for LibreOffice</ru>
    <sk>Polish Language Meta-Package for LibreOffice</sk>
+   <sq>Polish Language Meta-Package for LibreOffice</sq>
    <sv>Polskt Språk Meta-Paket för LibreOffice </sv>
    <tr>Polish Language Meta-Package for LibreOffice</tr>
    <uk>Polish Language Meta-Package for LibreOffice</uk>
