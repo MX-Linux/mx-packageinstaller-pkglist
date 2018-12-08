@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (18.12.03) UNRELEASED; urgency=medium
+
+  * updated antiX kernel entries
+  * added mx18-artwork 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 08 Dec 2018 11:08:06 -0500
+
 mx-packageinstaller-pkglist (18.12.02) mx; urgency=medium
 
   * added grub-customizer
