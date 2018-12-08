@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (18.12.02) mx; urgency=medium
+
+  * added grub-customizer
+  * added xscreensavers 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 07 Dec 2018 21:11:19 -0500
+
 mx-packageinstaller-pkglist (18.12.01) mx; urgency=medium
 
   * added mx17-artwork
