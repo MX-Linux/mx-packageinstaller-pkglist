@@ -773,6 +773,37 @@ tr=Ekran yayını
 uk=Screencast
 zh_TW=Screencast
 
+[Screensaver]
+am=Screensaver
+ca=Screensaver
+cs=Screensaver
+da=Pauseskærm
+de=Bildschirmschoner
+el=Screensaver
+es=Salvapantallas
+fi=Näytönsäästäjä
+fr=Économiseur d'écran
+hi=Screensaver
+hr=Screensaver
+hu=Képernyővédő
+is=Screensaver
+it=Screensaver
+ja=スクリーンセーバー
+kk=Screensaver
+lt=Screensaver
+nl=Schermbeveiliging
+pl=Wygaszacz ekranu
+pt_BR=Protetor de tela
+pt=Protecção Ecrã
+ro=Screensaver
+ru=Хранитель экрана
+sk=Šetrič obrazovky
+sq=Screensaver
+sv=Skärmsläckare
+tr=Screensaver
+uk=Screensaver
+zh_TW=螢幕保護程式
+
 [Screenshot Utilities]
 am=Screenshot Utilities
 ca=Captura de pantalla
