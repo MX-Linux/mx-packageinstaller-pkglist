@@ -1,7 +1,8 @@
-mx-packageinstaller-pkglist (18.12.03) UNRELEASED; urgency=medium
+mx-packageinstaller-pkglist (18.12.03) mx; urgency=medium
 
   * updated antiX kernel entries
   * added mx18-artwork 
+  * added lo-pt to languages
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 08 Dec 2018 11:08:06 -0500
 
