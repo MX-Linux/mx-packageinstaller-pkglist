@@ -53,7 +53,7 @@ all
 </preinstall>
 
 <install_package_names>
-xscreensavers-data-extra
+xscreensaver-data-extra
 xscreensaver-screensaver-bsod
 </install_package_names>
 
@@ -64,7 +64,7 @@ xscreensaver-screensaver-bsod
 
 
 <uninstall_package_names>
-xscreensavers-data-extra
+xscreensaver-data-extra
 xscreensaver-screensaver-bsod
 </uninstall_package_names>
 </app>

@@ -53,7 +53,7 @@ all
 </preinstall>
 
 <install_package_names>
-xscreensavers-gl
+xscreensaver-gl
 xscreensaver-gl-extra
 </install_package_names>
 
