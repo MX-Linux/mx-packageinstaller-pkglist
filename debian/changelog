@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (18.12.05) mx; urgency=medium
+
+  * updated debian kernel 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 17 Dec 2018 20:37:14 -0500
+
 mx-packageinstaller-pkglist (18.12.04) mx; urgency=medium
 
   * corrected spelling on xscreesaver extra packages 
