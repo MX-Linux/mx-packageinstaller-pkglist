@@ -1,3 +1,13 @@
+mx-packageinstaller-pkglist (19.01.01) mx; urgency=medium
+
+  * new icon themes
+  * update antiX 4.19 kernel entries
+  * updated waterfox
+  * added atom
+  * added XnViewMP
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 12 Jan 2019 18:50:20 -0500
+
 mx-packageinstaller-pkglist (18.12.06) mx; urgency=medium
 
   * updated antix kernels 
