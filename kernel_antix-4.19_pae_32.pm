@@ -10,36 +10,36 @@ antiX 4.19 32 bit pae
 </name>
 
 <description>
-   <am>antiX 4.19.10 kernel pae 32 bit</am>
-   <ca>antiX 4.19.10 kernel pae 32 bit</ca>
-   <cs>antiX 4.19.10 kernel pae 32 bit</cs>
-   <da>antiX 4.19.10 kernel pae 32 bit</da>
-   <de>antiX 4.19.10 Kernel pae 32 bit</de>
-   <el>antiX 4.19.10 πυρήνα pae 32 bit</el>
-   <en>antiX 4.19.10 kernel pae 32 bit</en>
-   <es>antiX 4.19.10 kernel pae 32 bit</es>
-   <fi>antiX 4.19.10 kernel pae 32 bit</fi>
-   <fr>Noyau antiX 4.19.10 pae, 32 bit</fr>
-   <hi>antiX 4.19.10 kernel pae 32 bit</hi>
-   <hr>antiX 4.19.10 kernel pae 32 bit</hr>
-   <hu>antiX 4.19.10 kernel pae 32 bit</hu>
-   <is>antiX 4.19.10 kernel pae 32 bit</is>
-   <it>antiX 4.19.10 kernel pae 32 bit</it>
-   <ja>antiX 4.19.10 kernel pae 32 bit</ja>
-   <kk>antiX 4.19.10 kernel pae 32 bit</kk>
-   <lt>antiX 4.19.10 kernel pae 32 bit</lt>
-   <nl>antiX 4.19.10 kernel pae 32 bit</nl>
-   <pl>antiX 4.19.10 kernel pae 32 bit</pl>
-   <pt_BR>antiX 4.19.10 kernel pae 32 bit</pt_BR>
-   <pt>Núcleo antiX 4.19.10 32 bit pae</pt>
-   <ro>antiX 4.19.10 kernel pae 32 bit</ro>
-   <ru>antiX ядро 4.19.10, 32 bit PAE</ru>
-   <sk>antiX 4.19.10 kernel pae 32 bit</sk>
-   <sq>antiX 4.19.10 kernel pae 32 bit</sq>
-   <sv>antiX 4.19.10 kärna pae 32 bit</sv>
-   <tr>antiX 4.19.10 kernel pae 32 bit</tr>
-   <uk>antiX 4.19.10 kernel pae 32 bit</uk>
-   <zh_TW>antiX 4.19.10 kernel pae 32 bit</zh_TW>
+   <am>antiX 4.19.13 kernel pae 32 bit</am>
+   <ca>antiX 4.19.13 kernel pae 32 bit</ca>
+   <cs>antiX 4.19.13 kernel pae 32 bit</cs>
+   <da>antiX 4.19.13 kernel pae 32 bit</da>
+   <de>antiX 4.19.13 Kernel pae 32 bit</de>
+   <el>antiX 4.19.13 πυρήνα pae 32 bit</el>
+   <en>antiX 4.19.13 kernel pae 32 bit</en>
+   <es>antiX 4.19.13 kernel pae 32 bit</es>
+   <fi>antiX 4.19.13 kernel pae 32 bit</fi>
+   <fr>Noyau antiX 4.19.13 pae, 32 bit</fr>
+   <hi>antiX 4.19.13 kernel pae 32 bit</hi>
+   <hr>antiX 4.19.13 kernel pae 32 bit</hr>
+   <hu>antiX 4.19.13 kernel pae 32 bit</hu>
+   <is>antiX 4.19.13 kernel pae 32 bit</is>
+   <it>antiX 4.19.13 kernel pae 32 bit</it>
+   <ja>antiX 4.19.13 kernel pae 32 bit</ja>
+   <kk>antiX 4.19.13 kernel pae 32 bit</kk>
+   <lt>antiX 4.19.13 kernel pae 32 bit</lt>
+   <nl>antiX 4.19.13 kernel pae 32 bit</nl>
+   <pl>antiX 4.19.13 kernel pae 32 bit</pl>
+   <pt_BR>antiX 4.19.13 kernel pae 32 bit</pt_BR>
+   <pt>Núcleo antiX 4.19.13 32 bit pae</pt>
+   <ro>antiX 4.19.13 kernel pae 32 bit</ro>
+   <ru>antiX ядро 4.19.13, 32 bit PAE</ru>
+   <sk>antiX 4.19.13 kernel pae 32 bit</sk>
+   <sq>antiX 4.19.13 kernel pae 32 bit</sq>
+   <sv>antiX 4.19.13 kärna pae 32 bit</sv>
+   <tr>antiX 4.19.13 kernel pae 32 bit</tr>
+   <uk>antiX 4.19.13 kernel pae 32 bit</uk>
+   <zh_TW>antiX 4.19.13 kernel pae 32 bit</zh_TW>
 </description>
 
 <installable>
@@ -53,18 +53,18 @@ antiX 4.19 32 bit pae
 </preinstall>
 
 <install_package_names>
-linux-image-4.19.10-antix.1-686-smp-pae
-linux-headers-4.19.10-antix.1-686-smp-pae
+linux-image-4.19.13-antix.1-686-smp-pae
+linux-headers-4.19.13-antix.1-686-smp-pae
 </install_package_names>
 
 
 <postinstall>
-/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-4.19.10-antix.1-686-smp-pae
+/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-4.19.13-antix.1-686-smp-pae
 </postinstall>
 
 
 <uninstall_package_names>
-linux-image-4.19.10-antix.1-686-smp-pae
-linux-headers-4.19.10-antix.1-686-smp-pae
+linux-image-4.19.13-antix.1-686-smp-pae
+linux-headers-4.19.13-antix.1-686-smp-pae
 </uninstall_package_names>
 </app>
