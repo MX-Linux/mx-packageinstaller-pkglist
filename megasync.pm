@@ -11,23 +11,34 @@ Megasync
 
 <description>
    <am>Client for MEGA file syncing service</am>
+   <ar>Client for MEGA file syncing service</ar>
+   <bg>Client for MEGA file syncing service</bg>
    <ca>Client per al servei de sincronització de MEGA</ca>
    <cs>Client for MEGA file syncing service</cs>
-   <da>Client for MEGA file syncing service</da>
+   <da>Klient til MEGA-filsynkroniseringstjeneste</da>
    <de>Client für MEGA-Dateisynchronisationsdienst</de>
    <el>Πελάτης για υπηρεσία συγχρονισμού αρχείων MEGA</el>
    <en>Client for MEGA file syncing service</en>
    <es>Cliente para el servicio de sincronización de archivos de MEGA</es>
+   <et>Client for MEGA file syncing service</et>
+   <eu>Client for MEGA file syncing service</eu>
+   <fa>Client for MEGA file syncing service</fa>
    <fi>Client for MEGA file syncing service</fi>
    <fr>Client pour le service de synchronisation de dossiers MEGA</fr>
+   <he_IL>Client for MEGA file syncing service</he_IL>
    <hi>Client for MEGA file syncing service</hi>
    <hr>Client for MEGA file syncing service</hr>
    <hu>Client for MEGA file syncing service</hu>
+   <id>Client for MEGA file syncing service</id>
    <is>Client for MEGA file syncing service</is>
    <it>Client per il servizio di sincronizzazione file di MEGA</it>
+   <ja_JP>Client for MEGA file syncing service</ja_JP>
    <ja>Client for MEGA file syncing service</ja>
    <kk>Client for MEGA file syncing service</kk>
+   <ko>Client for MEGA file syncing service</ko>
    <lt>Client for MEGA file syncing service</lt>
+   <mk>Client for MEGA file syncing service</mk>
+   <nb>Client for MEGA file syncing service</nb>
    <nl>Programma voor MEGA bestandssynchronisatieservice</nl>
    <pl>Client for MEGA file syncing service</pl>
    <pt_BR>Client for MEGA file syncing service</pt_BR>
@@ -35,10 +46,13 @@ Megasync
    <ro>Client for MEGA file syncing service</ro>
    <ru>Клиент синхронизации файлов для MEGA</ru>
    <sk>Client for MEGA file syncing service</sk>
+   <sl>Client for MEGA file syncing service</sl>
    <sq>Client for MEGA file syncing service</sq>
+   <sr>Client for MEGA file syncing service</sr>
    <sv>Klient för MEGA filsynkroniserings-service</sv>
    <tr>Client for MEGA file syncing service</tr>
-   <uk>Client for MEGA file syncing service</uk>
+   <uk>клієнт для сервісу синхронізації файлів MEGA</uk>
+   <zh_CN>Client for MEGA file syncing service</zh_CN>
    <zh_TW>Client for MEGA file syncing service</zh_TW>
 </description>
 

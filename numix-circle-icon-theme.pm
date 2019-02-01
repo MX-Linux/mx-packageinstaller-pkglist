@@ -11,34 +11,48 @@ Numix Circle Icons
 
 <description>
    <am>numix circular icons</am>
+   <ar>numix circular icons</ar>
+   <bg>numix circular icons</bg>
    <ca>numix circular icons</ca>
    <cs>numix circular icons</cs>
-   <da>numix circular icons</da>
+   <da>numix cirkulære ikoner</da>
    <de>numix circular icons</de>
-   <el>numix circular icons</el>
+   <el>εικονίδια numix κυκλικά</el>
    <en>numix circular icons</en>
    <es>numix circular icons</es>
+   <et>numix circular icons</et>
+   <eu>numix circular icons</eu>
+   <fa>numix circular icons</fa>
    <fi>numix circular icons</fi>
-   <fr>numix circular icons</fr>
+   <fr>icons numix sous forme de cercles</fr>
+   <he_IL>numix circular icons</he_IL>
    <hi>numix circular icons</hi>
    <hr>numix circular icons</hr>
    <hu>numix circular icons</hu>
+   <id>numix circular icons</id>
    <is>numix circular icons</is>
-   <it>numix circular icons</it>
+   <it>numix icone rotonde</it>
+   <ja_JP>numix circular icons</ja_JP>
    <ja>numix circular icons</ja>
    <kk>numix circular icons</kk>
+   <ko>numix circular icons</ko>
    <lt>numix circular icons</lt>
-   <nl>numix circular icons</nl>
+   <mk>numix circular icons</mk>
+   <nb>numix circular icons</nb>
+   <nl>numix cirkelvormige iconen</nl>
    <pl>numix circular icons</pl>
    <pt_BR>numix circular icons</pt_BR>
    <pt>numix circular icons</pt>
    <ro>numix circular icons</ro>
-   <ru>numix circular icons</ru>
+   <ru>Круглые значки Numix</ru>
    <sk>numix circular icons</sk>
+   <sl>numix circular icons</sl>
    <sq>numix circular icons</sq>
+   <sr>numix circular icons</sr>
    <sv>numix circular icons</sv>
    <tr>numix circular icons</tr>
    <uk>numix circular icons</uk>
+   <zh_CN>numix circular icons</zh_CN>
    <zh_TW>numix circular icons</zh_TW>
 </description>
 

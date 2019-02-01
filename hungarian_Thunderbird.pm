@@ -11,6 +11,8 @@ Hungarian_Thunderbird
 
 <description>
    <am>Hungarian localisation of Thunderbird</am>
+   <ar>Hungarian localisation of Thunderbird</ar>
+   <bg>Hungarian localisation of Thunderbird</bg>
    <ca>Localització de Thunderbird en Hongarès</ca>
    <cs>Hungarian localisation of Thunderbird</cs>
    <da>Ungarsk oversættelse af Thunderbird</da>
@@ -18,16 +20,25 @@ Hungarian_Thunderbird
    <el>Ουγγρικός εντοπισμός του Thunderbird</el>
    <en>Hungarian localisation of Thunderbird</en>
    <es>Hungarian localisation of Thunderbird</es>
+   <et>Hungarian localisation of Thunderbird</et>
+   <eu>Hungarian localisation of Thunderbird</eu>
+   <fa>Hungarian localisation of Thunderbird</fa>
    <fi>Hungarian localisation of Thunderbird</fi>
    <fr>Localisation hongroise pour Thunderbird</fr>
+   <he_IL>Hungarian localisation of Thunderbird</he_IL>
    <hi>Hungarian localisation of Thunderbird</hi>
    <hr>Hungarian localisation of Thunderbird</hr>
    <hu>Hungarian localisation of Thunderbird</hu>
+   <id>Hungarian localisation of Thunderbird</id>
    <is>Hungarian localisation of Thunderbird</is>
    <it>Localizzazione ungherese di Thunderbird</it>
+   <ja_JP>Hungarian localisation of Thunderbird</ja_JP>
    <ja>Hungarian localisation of Thunderbird</ja>
    <kk>Hungarian localisation of Thunderbird</kk>
+   <ko>Hungarian localisation of Thunderbird</ko>
    <lt>Hungarian localisation of Thunderbird</lt>
+   <mk>Hungarian localisation of Thunderbird</mk>
+   <nb>Hungarian localisation of Thunderbird</nb>
    <nl>Hongaarse lokalisatie van Thunderbird</nl>
    <pl>Hungarian localisation of Thunderbird</pl>
    <pt_BR>Húngaro Localização para Thunderbird</pt_BR>
@@ -35,10 +46,13 @@ Hungarian_Thunderbird
    <ro>Hungarian localisation of Thunderbird</ro>
    <ru>Hungarian localisation of Thunderbird</ru>
    <sk>Hungarian localisation of Thunderbird</sk>
+   <sl>Hungarian localisation of Thunderbird</sl>
    <sq>Hungarian localisation of Thunderbird</sq>
+   <sr>Hungarian localisation of Thunderbird</sr>
    <sv>Ungersk lokalisering av Thunderbird</sv>
    <tr>Hungarian localisation of Thunderbird</tr>
-   <uk>Hungarian localisation of Thunderbird</uk>
+   <uk>Hungarian локалізація Thunderbird</uk>
+   <zh_CN>Hungarian localisation of Thunderbird</zh_CN>
    <zh_TW>Hungarian localisation of Thunderbird</zh_TW>
 </description>
 

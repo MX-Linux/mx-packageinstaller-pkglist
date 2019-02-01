@@ -11,23 +11,34 @@ Pidgin
 
 <description>
    <am>an easy to use and free chat client</am>
+   <ar>an easy to use and free chat client</ar>
+   <bg>an easy to use and free chat client</bg>
    <ca>client de xat lliure i fàcil d'usar</ca>
    <cs>an easy to use and free chat client</cs>
-   <da>an easy to use and free chat client</da>
+   <da>en letanvendelig og fri chat-klient</da>
    <de>Ein einfach zu bedienender und kostenloser Chat-Client</de>
    <el>ένα εύκολο στη χρήση και δωρεάν πελάτη συνομιλίας</el>
    <en>an easy to use and free chat client</en>
    <es>cliente de chat libre y fácil de usar</es>
+   <et>an easy to use and free chat client</et>
+   <eu>an easy to use and free chat client</eu>
+   <fa>an easy to use and free chat client</fa>
    <fi>an easy to use and free chat client</fi>
    <fr>Un client de discussion libre et facile d'utilisation</fr>
+   <he_IL>an easy to use and free chat client</he_IL>
    <hi>an easy to use and free chat client</hi>
    <hr>an easy to use and free chat client</hr>
    <hu>an easy to use and free chat client</hu>
+   <id>an easy to use and free chat client</id>
    <is>an easy to use and free chat client</is>
    <it>client chat libero e di facile uso</it>
+   <ja_JP>an easy to use and free chat client</ja_JP>
    <ja>an easy to use and free chat client</ja>
    <kk>an easy to use and free chat client</kk>
+   <ko>an easy to use and free chat client</ko>
    <lt>an easy to use and free chat client</lt>
+   <mk>an easy to use and free chat client</mk>
+   <nb>an easy to use and free chat client</nb>
    <nl>een gebruiksvriendelijk en gratis chatprogramma</nl>
    <pl>an easy to use and free chat client</pl>
    <pt_BR>an easy to use and free chat client</pt_BR>
@@ -35,10 +46,13 @@ Pidgin
    <ro>an easy to use and free chat client</ro>
    <ru>Простой в использовании многопротокольный клиент мгновенных сообщений</ru>
    <sk>an easy to use and free chat client</sk>
+   <sl>an easy to use and free chat client</sl>
    <sq>an easy to use and free chat client</sq>
+   <sr>an easy to use and free chat client</sr>
    <sv>en lättanvänd och fri chattklient</sv>
    <tr>an easy to use and free chat client</tr>
-   <uk>an easy to use and free chat client</uk>
+   <uk>легкий у користуванні та вільний чат клієнт</uk>
+   <zh_CN>an easy to use and free chat client</zh_CN>
    <zh_TW>an easy to use and free chat client</zh_TW>
 </description>
 

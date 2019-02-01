@@ -11,23 +11,34 @@ GIMP Full
 
 <description>
    <am>advanced picture editor- installs GIMP, help and plugins</am>
+   <ar>advanced picture editor- installs GIMP, help and plugins</ar>
+   <bg>advanced picture editor- installs GIMP, help and plugins</bg>
    <ca>editor gràfic avançat; instal·la GIMP, l'ajuda i connectors</ca>
    <cs>advanced picture editor- installs GIMP, help and plugins</cs>
-   <da>advanced picture editor- installs GIMP, help and plugins</da>
+   <da>avanceret billedredigering - installerer GIMP, hjælp og plugins</da>
    <de>Erweiterter Bildeditor - installiert GIMP, Hilfe und Plugins</de>
    <el>επεξεργαστής εικόνων - εγκαθιστά το GIMP, βοήθεια και plugins</el>
    <en>advanced picture editor- installs GIMP, help and plugins</en>
    <es>Editor de imágenes avanzado. Instala GIMP, ayuda y plugins.</es>
+   <et>advanced picture editor- installs GIMP, help and plugins</et>
+   <eu>advanced picture editor- installs GIMP, help and plugins</eu>
+   <fa>advanced picture editor- installs GIMP, help and plugins</fa>
    <fi>advanced picture editor- installs GIMP, help and plugins</fi>
    <fr>Éditeur d'image avancé - installe Gimp, l'aide et les plugins</fr>
+   <he_IL>advanced picture editor- installs GIMP, help and plugins</he_IL>
    <hi>advanced picture editor- installs GIMP, help and plugins</hi>
    <hr>advanced picture editor- installs GIMP, help and plugins</hr>
    <hu>advanced picture editor- installs GIMP, help and plugins</hu>
+   <id>advanced picture editor- installs GIMP, help and plugins</id>
    <is>advanced picture editor- installs GIMP, help and plugins</is>
    <it>Editor di immagini avanzato - installa GIMP, guida e plugins</it>
+   <ja_JP>advanced picture editor- installs GIMP, help and plugins</ja_JP>
    <ja>advanced picture editor- installs GIMP, help and plugins</ja>
    <kk>advanced picture editor- installs GIMP, help and plugins</kk>
+   <ko>advanced picture editor- installs GIMP, help and plugins</ko>
    <lt>išplėstinis paveikslų redaktorius - įdiegia GIMP, žinyną ir įskiepius</lt>
+   <mk>advanced picture editor- installs GIMP, help and plugins</mk>
+   <nb>advanced picture editor- installs GIMP, help and plugins</nb>
    <nl>geavanceerde foto-editor - installeert GIMP, help en plugins</nl>
    <pl>advanced picture editor- installs GIMP, help and plugins</pl>
    <pt_BR>advanced picture editor- installs GIMP, help and plugins</pt_BR>
@@ -35,10 +46,13 @@ GIMP Full
    <ro>advanced picture editor- installs GIMP, help and plugins</ro>
    <ru>Продвинутый графический редактор - установка GIMP, справка и плагины</ru>
    <sk>advanced picture editor- installs GIMP, help and plugins</sk>
+   <sl>advanced picture editor- installs GIMP, help and plugins</sl>
    <sq>advanced picture editor- installs GIMP, help and plugins</sq>
+   <sr>advanced picture editor- installs GIMP, help and plugins</sr>
    <sv>avancerad bildredigerare - installerar GIMP, hjälp och plugins</sv>
    <tr>advanced picture editor- installs GIMP, help and plugins</tr>
-   <uk>advanced picture editor- installs GIMP, help and plugins</uk>
+   <uk>розширений редактор зображень - встановлює GIMP, довідку та плагіни</uk>
+   <zh_CN>advanced picture editor- installs GIMP, help and plugins</zh_CN>
    <zh_TW>advanced picture editor- installs GIMP, help and plugins</zh_TW>
 </description>
 

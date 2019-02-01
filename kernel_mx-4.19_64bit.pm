@@ -11,34 +11,48 @@ MX 4.19
 
 <description>
    <am>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</am>
-   <ca>Nucli de MX 4.19 64 bit, amb pedaç per Meltdown i Spectre</ca>
+   <ar>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</ar>
+   <bg>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</bg>
+   <ca>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</ca>
    <cs>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</cs>
-   <da>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</da>
-   <de>MX 4.19 Kernel Meltdown und Spectre gepatcht, 64 Bit</de>
+   <da>MX 4.19 kerne meltdown- og spectre-rettelse, 64 bit</da>
+   <de>MX 4.19 Kernel - Meltdown und Spectre gepatcht, 64 bit</de>
    <el>MX 4.19 πυρήνα Meltdown και Specter patched, 64 bit</el>
    <en>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</en>
    <es>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</es>
+   <et>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</et>
+   <eu>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</eu>
+   <fa>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</fa>
    <fi>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</fi>
-   <fr>Noyau MX 4.19 correctifs Meltdown et Spectre, 64 bit</fr>
+   <fr>Noyau MX 4.19 patché pour Meltdown et Spectre, 64 bit</fr>
+   <he_IL>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</he_IL>
    <hi>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</hi>
    <hr>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</hr>
    <hu>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</hu>
+   <id>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</id>
    <is>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</is>
-   <it>MX 4.19 kernel con la patch per Meltdown e Spectre, 64 bit</it>
+   <it>Kernel MX 4.19, con patch per Meltdown and Spectre, 64 bit</it>
+   <ja_JP>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</ja_JP>
    <ja>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</ja>
    <kk>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</kk>
+   <ko>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</ko>
    <lt>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</lt>
+   <mk>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</mk>
+   <nb>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</nb>
    <nl>MX 4.19 kernel Meltdown en Spectre patched, 64 bit</nl>
    <pl>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</pl>
    <pt_BR>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</pt_BR>
-   <pt>Núcleo MX 4.19 com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
+   <pt>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</pt>
    <ro>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</ro>
-   <ru>MX ядро 4.19 с патчами от Meltdown и Spectre, 64 bit</ru>
+   <ru>MX ядро 4.19 с патчами Meltdown и Spectre, 64 bit</ru>
    <sk>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</sk>
+   <sl>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</sl>
    <sq>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</sq>
-   <sv>MX 4.19 kärna Meltdown och Spectre patched, 64 bit</sv>
+   <sr>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</sr>
+   <sv>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</sv>
    <tr>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</tr>
    <uk>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</uk>
+   <zh_CN>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</zh_CN>
    <zh_TW>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</zh_TW>
 </description>
 

@@ -11,6 +11,8 @@ Ukrainian
 
 <description>
    <am>Ukrainian Language Meta-Package</am>
+   <ar>Ukrainian Language Meta-Package</ar>
+   <bg>Ukrainian Language Meta-Package</bg>
    <ca>Meta-paquet de llengua en Ucrainès</ca>
    <cs>Ukrainian Language Meta-Package</cs>
    <da>Ukrainsk sprog-metapakke</da>
@@ -18,16 +20,25 @@ Ukrainian
    <el>Ουκρανική γλώσσα</el>
    <en>Ukrainian Language Meta-Package</en>
    <es>Ukrainian Language Meta-Package</es>
+   <et>Ukrainian Language Meta-Package</et>
+   <eu>Ukrainian Language Meta-Package</eu>
+   <fa>Ukrainian Language Meta-Package</fa>
    <fi>Ukrainian Language Meta-Package</fi>
    <fr>Méta-paquet pour langue ukrainienne</fr>
+   <he_IL>Ukrainian Language Meta-Package</he_IL>
    <hi>Ukrainian Language Meta-Package</hi>
    <hr>Ukrainian Language Meta-Package</hr>
    <hu>Ukrainian Language Meta-Package</hu>
+   <id>Ukrainian Language Meta-Package</id>
    <is>Ukrainian Language Meta-Package</is>
    <it>Meta-pacchetto della lingua ucraina</it>
+   <ja_JP>Ukrainian Language Meta-Package</ja_JP>
    <ja>Ukrainian Language Meta-Package</ja>
    <kk>Ukrainian Language Meta-Package</kk>
+   <ko>Ukrainian Language Meta-Package</ko>
    <lt>Ukrainian Language Meta-Package</lt>
+   <mk>Ukrainian Language Meta-Package</mk>
+   <nb>Ukrainian Language Meta-Package</nb>
    <nl>Oekraïense Taal Meta-Pakket</nl>
    <pl>Ukrainian Language Meta-Package</pl>
    <pt_BR>Ucraniano Meta-Pacote de Idioma</pt_BR>
@@ -35,10 +46,13 @@ Ukrainian
    <ro>Ukrainian Language Meta-Package</ro>
    <ru>Ukrainian Language Meta-Package</ru>
    <sk>Ukrainian Language Meta-Package</sk>
+   <sl>Ukrainian Language Meta-Package</sl>
    <sq>Ukrainian Language Meta-Package</sq>
+   <sr>Ukrainian Language Meta-Package</sr>
    <sv>Ukrainskt Språk Meta-Paket </sv>
    <tr>Ukrainian Language Meta-Package</tr>
    <uk>Ukrainian Language Meta-Package</uk>
+   <zh_CN>Ukrainian Language Meta-Package</zh_CN>
    <zh_TW>Ukrainian Language Meta-Package</zh_TW>
 </description>
 

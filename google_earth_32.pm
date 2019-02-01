@@ -11,23 +11,34 @@ Google Earth
 
 <description>
    <am>Google Earth Globe</am>
+   <ar>Google Earth Globe</ar>
+   <bg>Google Earth Globe</bg>
    <ca>Mapamundi de Google Earth</ca>
    <cs>Google Earth Globe</cs>
-   <da>Google Earth Globe</da>
+   <da>Google Earth-globus</da>
    <de>Google Earth Globe</de>
    <el>Google Earth Globe</el>
    <en>Google Earth Globe</en>
    <es>Google Earth Globe</es>
+   <et>Google Earth Globe</et>
+   <eu>Google Earth Globe</eu>
+   <fa>Google Earth Globe</fa>
    <fi>Google Earth Globe</fi>
    <fr>Google Earth Globe</fr>
+   <he_IL>Google Earth Globe</he_IL>
    <hi>Google Earth Globe</hi>
    <hr>Google Earth Globe</hr>
    <hu>Google Earth Globe</hu>
+   <id>Google Earth Globe</id>
    <is>Google Earth Globe</is>
    <it>Google Earth Globe</it>
+   <ja_JP>Google Earth Globe</ja_JP>
    <ja>Google Earth Globe</ja>
    <kk>Google Earth Globe</kk>
+   <ko>Google Earth Globe</ko>
    <lt>Google Earth Globe</lt>
+   <mk>Google Earth Globe</mk>
+   <nb>Google Earth Globe</nb>
    <nl>Google Earth Wereldbol</nl>
    <pl>Google Earth Globe</pl>
    <pt_BR>Google Earth Globe</pt_BR>
@@ -35,10 +46,13 @@ Google Earth
    <ro>Google Earth Globe</ro>
    <ru>Google Планета Земля - спутниковые снимки земного шара</ru>
    <sk>Google Earth Globe</sk>
+   <sl>Google Earth Globe</sl>
    <sq>Google Earth Globe</sq>
+   <sr>Google Earth Globe</sr>
    <sv>Google Earth Glob</sv>
    <tr>Google Earth Globe</tr>
    <uk>Google Earth Globe</uk>
+   <zh_CN>Google Earth Globe</zh_CN>
    <zh_TW>Google Earth Globe</zh_TW>
 </description>
 

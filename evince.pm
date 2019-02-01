@@ -11,23 +11,34 @@ Evince
 
 <description>
    <am>a simple document (PostScript, PDF) viewer</am>
+   <ar>a simple document (PostScript, PDF) viewer</ar>
+   <bg>a simple document (PostScript, PDF) viewer</bg>
    <ca>senzill visor de documents (PDF, Postscript)</ca>
    <cs>a simple document (PostScript, PDF) viewer</cs>
-   <da>a simple document (PostScript, PDF) viewer</da>
+   <da>en simpel dokumentfremviser (PostScript, PDF)</da>
    <de>Ein einfacher Dokumentenbetrachter (PostScript, PDF)</de>
    <el>ένα απλό πρόγραμμα προβολής (PostScript, PDF)</el>
    <en>a simple document (PostScript, PDF) viewer</en>
    <es>Visor de documentos (PostScript, PDF) sencillo</es>
+   <et>a simple document (PostScript, PDF) viewer</et>
+   <eu>a simple document (PostScript, PDF) viewer</eu>
+   <fa>a simple document (PostScript, PDF) viewer</fa>
    <fi>a simple document (PostScript, PDF) viewer</fi>
    <fr>Visionneuse simple de documents (PostScript, PDF)</fr>
+   <he_IL>a simple document (PostScript, PDF) viewer</he_IL>
    <hi>a simple document (PostScript, PDF) viewer</hi>
    <hr>a simple document (PostScript, PDF) viewer</hr>
    <hu>a simple document (PostScript, PDF) viewer</hu>
+   <id>a simple document (PostScript, PDF) viewer</id>
    <is>a simple document (PostScript, PDF) viewer</is>
    <it>Un semplice visualizzatore di documenti (PostScript, PDF)</it>
+   <ja_JP>a simple document (PostScript, PDF) viewer</ja_JP>
    <ja>a simple document (PostScript, PDF) viewer</ja>
    <kk>a simple document (PostScript, PDF) viewer</kk>
+   <ko>a simple document (PostScript, PDF) viewer</ko>
    <lt>a simple document (PostScript, PDF) viewer</lt>
+   <mk>a simple document (PostScript, PDF) viewer</mk>
+   <nb>a simple document (PostScript, PDF) viewer</nb>
    <nl>een eenvoudige document (PostScript, PDF) lezer</nl>
    <pl>a simple document (PostScript, PDF) viewer</pl>
    <pt_BR>a simple document (PostScript, PDF) viewer</pt_BR>
@@ -35,10 +46,13 @@ Evince
    <ro>a simple document (PostScript, PDF) viewer</ro>
    <ru>Просмотрщик документов PostScript, PDF</ru>
    <sk>a simple document (PostScript, PDF) viewer</sk>
+   <sl>a simple document (PostScript, PDF) viewer</sl>
    <sq>a simple document (PostScript, PDF) viewer</sq>
+   <sr>a simple document (PostScript, PDF) viewer</sr>
    <sv>en enkel dokument (PostScript, PDF) läsare</sv>
    <tr>a simple document (PostScript, PDF) viewer</tr>
-   <uk>a simple document (PostScript, PDF) viewer</uk>
+   <uk>простий переглядач документів (PostScript, PDF)</uk>
+   <zh_CN>a simple document (PostScript, PDF) viewer</zh_CN>
    <zh_TW>a simple document (PostScript, PDF) viewer</zh_TW>
 </description>
 

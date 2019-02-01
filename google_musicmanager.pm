@@ -11,6 +11,8 @@ Google Music Manager
 
 <description>
    <am>Google Music Manager Beta, 64 bit</am>
+   <ar>Google Music Manager Beta, 64 bit</ar>
+   <bg>Google Music Manager Beta, 64 bit</bg>
    <ca>Gestor de Google Music Beta, 64 bit</ca>
    <cs>Google Music Manager Beta, 64 bit</cs>
    <da>Google Music Manager Beta, 64 bit</da>
@@ -18,16 +20,25 @@ Google Music Manager
    <el>Google Music Manager Beta, 64 bit</el>
    <en>Google Music Manager Beta, 64 bit</en>
    <es>Google Music Manager Beta, 64 bit</es>
+   <et>Google Music Manager Beta, 64 bit</et>
+   <eu>Google Music Manager Beta, 64 bit</eu>
+   <fa>Google Music Manager Beta, 64 bit</fa>
    <fi>Google Music Manager Beta, 64 bit</fi>
    <fr>Google Music Manager Beta, 64 bit</fr>
+   <he_IL>Google Music Manager Beta, 64 bit</he_IL>
    <hi>Google Music Manager Beta, 64 bit</hi>
    <hr>Google Music Manager Beta, 64 bit</hr>
    <hu>Google Music Manager Beta, 64 bit</hu>
+   <id>Google Music Manager Beta, 64 bit</id>
    <is>Google Music Manager Beta, 64 bit</is>
    <it>Google Music Manager Beta, 64 bit</it>
+   <ja_JP>Google Music Manager Beta, 64 bit</ja_JP>
    <ja>Google Music Manager Beta, 64 bit</ja>
    <kk>Google Music Manager Beta, 64 bit</kk>
+   <ko>Google Music Manager Beta, 64 bit</ko>
    <lt>Google Music Manager Beta, 64 bit</lt>
+   <mk>Google Music Manager Beta, 64 bit</mk>
+   <nb>Google Music Manager Beta, 64 bit</nb>
    <nl>Google Muziek Beheer Beta, 64 bit</nl>
    <pl>Google Music Manager Beta, 64 bit</pl>
    <pt_BR>Google Music Manager Beta, 64 bit</pt_BR>
@@ -35,10 +46,13 @@ Google Music Manager
    <ro>Google Music Manager Beta, 64 bit</ro>
    <ru>Google управление музыкой, beta 64 bit</ru>
    <sk>Google Music Manager Beta, 64 bit</sk>
+   <sl>Google Music Manager Beta, 64 bit</sl>
    <sq>Google Music Manager Beta, 64 bit</sq>
+   <sr>Google Music Manager Beta, 64 bit</sr>
    <sv>Google Music Manager Beta, 64 bit</sv>
    <tr>Google Music Manager Beta, 64 bit</tr>
    <uk>Google Music Manager Beta, 64 bit</uk>
+   <zh_CN>Google Music Manager Beta, 64 bit</zh_CN>
    <zh_TW>Google Music Manager Beta, 64 bit</zh_TW>
 </description>
 

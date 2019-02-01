@@ -11,23 +11,34 @@ MX 16 Wallpapers
 
 <description>
    <am>backgrounds originally supplied with MX 16</am>
-   <ca>backgrounds originally supplied with MX 16</ca>
+   <ar>backgrounds originally supplied with MX 16</ar>
+   <bg>backgrounds originally supplied with MX 16</bg>
+   <ca>Fons de pantalla subministrats d'origen amb MX16</ca>
    <cs>backgrounds originally supplied with MX 16</cs>
-   <da>backgrounds originally supplied with MX 16</da>
+   <da>baggrunde fra MX 16</da>
    <de>Bildschirmhintergründe, die ursprünglich mit MX 16 geliefert wurden</de>
    <el>επιφάνεια εργασίας που παρέχεται αρχικά με MX 16</el>
    <en>backgrounds originally supplied with MX 16</en>
-   <es>backgrounds originally supplied with MX 16</es>
+   <es>Fondos de escritorio originalmente suministrados con MX 16</es>
+   <et>backgrounds originally supplied with MX 16</et>
+   <eu>backgrounds originally supplied with MX 16</eu>
+   <fa>backgrounds originally supplied with MX 16</fa>
    <fi>backgrounds originally supplied with MX 16</fi>
    <fr>Fonds d'écran MX 16</fr>
+   <he_IL>backgrounds originally supplied with MX 16</he_IL>
    <hi>backgrounds originally supplied with MX 16</hi>
    <hr>backgrounds originally supplied with MX 16</hr>
    <hu>backgrounds originally supplied with MX 16</hu>
+   <id>backgrounds originally supplied with MX 16</id>
    <is>backgrounds originally supplied with MX 16</is>
    <it>sfondi originariamente forniti con MX 16</it>
+   <ja_JP>backgrounds originally supplied with MX 16</ja_JP>
    <ja>backgrounds originally supplied with MX 16</ja>
    <kk>backgrounds originally supplied with MX 16</kk>
+   <ko>backgrounds originally supplied with MX 16</ko>
    <lt>backgrounds originally supplied with MX 16</lt>
+   <mk>backgrounds originally supplied with MX 16</mk>
+   <nb>backgrounds originally supplied with MX 16</nb>
    <nl>achtergronden oorspronkelijk geleverd met MX 16</nl>
    <pl>backgrounds originally supplied with MX 16</pl>
    <pt_BR>backgrounds originally supplied with MX 16</pt_BR>
@@ -35,10 +46,13 @@ MX 16 Wallpapers
    <ro>backgrounds originally supplied with MX 16</ro>
    <ru>Обои использованные для дистрибутива MX 16</ru>
    <sk>backgrounds originally supplied with MX 16</sk>
+   <sl>backgrounds originally supplied with MX 16</sl>
    <sq>backgrounds originally supplied with MX 16</sq>
+   <sr>backgrounds originally supplied with MX 16</sr>
    <sv>wallpapers ursprungligen medföljande MX 16</sv>
    <tr>backgrounds originally supplied with MX 16</tr>
-   <uk>backgrounds originally supplied with MX 16</uk>
+   <uk>оригінальні шпалери для MX 16</uk>
+   <zh_CN>backgrounds originally supplied with MX 16</zh_CN>
    <zh_TW>backgrounds originally supplied with MX 16</zh_TW>
 </description>
 

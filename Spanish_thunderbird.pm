@@ -11,23 +11,34 @@ Spanish_Thunderbird
 
 <description>
    <am>Spanish localisation of Thunderbird</am>
+   <ar>Spanish localisation of Thunderbird</ar>
+   <bg>Spanish localisation of Thunderbird</bg>
    <ca>Localització de Thunderbird en Castellà</ca>
    <cs>Spanish localisation of Thunderbird</cs>
    <da>Spansk oversættelse af Thunderbird</da>
    <de>Spanische Lokalisierung von Thunderbird</de>
    <el>Ισπανικός εντοπισμός του Thunderbird</el>
    <en>Spanish localisation of Thunderbird</en>
-   <es>Spanish localisation of Thunderbird</es>
+   <es>Localización española para Firefox</es>
+   <et>Spanish localisation of Thunderbird</et>
+   <eu>Spanish localisation of Thunderbird</eu>
+   <fa>Spanish localisation of Thunderbird</fa>
    <fi>Spanish localisation of Thunderbird</fi>
    <fr>Localisation espagnole pour Thunderbird</fr>
+   <he_IL>Spanish localisation of Thunderbird</he_IL>
    <hi>Spanish localisation of Thunderbird</hi>
    <hr>Spanish localisation of Thunderbird</hr>
    <hu>Spanish localisation of Thunderbird</hu>
+   <id>Spanish localisation of Thunderbird</id>
    <is>Spanish localisation of Thunderbird</is>
    <it>Localizzazione spagnola di Thunderbird</it>
+   <ja_JP>Spanish localisation of Thunderbird</ja_JP>
    <ja>Spanish localisation of Thunderbird</ja>
    <kk>Spanish localisation of Thunderbird</kk>
+   <ko>Spanish localisation of Thunderbird</ko>
    <lt>Spanish localisation of Thunderbird</lt>
+   <mk>Spanish localisation of Thunderbird</mk>
+   <nb>Spanish localisation of Thunderbird</nb>
    <nl>Spaanse lokalisatie van Thunderbird</nl>
    <pl>Spanish localisation of Thunderbird</pl>
    <pt_BR>Castelhano Localização para Thunderbird</pt_BR>
@@ -35,10 +46,13 @@ Spanish_Thunderbird
    <ro>Spanish localisation of Thunderbird</ro>
    <ru>Spanish localisation of Thunderbird</ru>
    <sk>Spanish localisation of Thunderbird</sk>
+   <sl>Spanish localisation of Thunderbird</sl>
    <sq>Spanish localisation of Thunderbird</sq>
+   <sr>Spanish localisation of Thunderbird</sr>
    <sv>Spansk lokalisering av Thunderbird </sv>
    <tr>Spanish localisation of Thunderbird</tr>
    <uk>Spanish localisation of Thunderbird</uk>
+   <zh_CN>Spanish localisation of Thunderbird</zh_CN>
    <zh_TW>Spanish localisation of Thunderbird</zh_TW>
 </description>
 

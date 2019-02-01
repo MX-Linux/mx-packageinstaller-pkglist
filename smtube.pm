@@ -11,23 +11,34 @@ SMtube
 
 <description>
    <am>search and download Youtube videos</am>
+   <ar>search and download Youtube videos</ar>
+   <bg>search and download Youtube videos</bg>
    <ca>Cerca i descarrega vídeos de Youtube</ca>
    <cs>search and download Youtube videos</cs>
-   <da>search and download Youtube videos</da>
+   <da>søg efter og download Youtube-videoer</da>
    <de>YouTube-Videos finden und herunterladen</de>
    <el>αναζήτηση και λήψη βίντεο Youtube</el>
    <en>search and download Youtube videos</en>
-   <es>search and download Youtube videos</es>
+   <es>Busque y descargue videos de Youtube</es>
+   <et>search and download Youtube videos</et>
+   <eu>search and download Youtube videos</eu>
+   <fa>search and download Youtube videos</fa>
    <fi>search and download Youtube videos</fi>
    <fr>Rechercher et télécharger des vidéos Youtube</fr>
+   <he_IL>search and download Youtube videos</he_IL>
    <hi>search and download Youtube videos</hi>
    <hr>search and download Youtube videos</hr>
    <hu>search and download Youtube videos</hu>
+   <id>search and download Youtube videos</id>
    <is>search and download Youtube videos</is>
    <it>cerca e scarica video da Youtube</it>
+   <ja_JP>search and download Youtube videos</ja_JP>
    <ja>search and download Youtube videos</ja>
    <kk>search and download Youtube videos</kk>
+   <ko>search and download Youtube videos</ko>
    <lt>search and download Youtube videos</lt>
+   <mk>search and download Youtube videos</mk>
+   <nb>search and download Youtube videos</nb>
    <nl>zoek en download Youtube video's</nl>
    <pl>search and download Youtube videos</pl>
    <pt_BR>search and download Youtube videos</pt_BR>
@@ -35,10 +46,13 @@ SMtube
    <ro>search and download Youtube videos</ro>
    <ru>Поиск и скачивание видео в Youtube</ru>
    <sk>search and download Youtube videos</sk>
+   <sl>search and download Youtube videos</sl>
    <sq>search and download Youtube videos</sq>
+   <sr>search and download Youtube videos</sr>
    <sv>sök och ladda ner Youtube videos</sv>
    <tr>search and download Youtube videos</tr>
-   <uk>search and download Youtube videos</uk>
+   <uk>пошук та завантаження відео з Youtube</uk>
+   <zh_CN>search and download Youtube videos</zh_CN>
    <zh_TW>search and download Youtube videos</zh_TW>
 </description>
 

@@ -11,6 +11,8 @@ Portugese(PT) Thunderbird
 
 <description>
    <am>Portugese(PT) localisation of Thunderbird</am>
+   <ar>Portugese(PT) localisation of Thunderbird</ar>
+   <bg>Portugese(PT) localisation of Thunderbird</bg>
    <ca>Localització de Thunderbird en Portuguès (PT)</ca>
    <cs>Portugese(PT) localisation of Thunderbird</cs>
    <da>Portugisisk (portugal) oversættelse af Thunderbird</da>
@@ -18,16 +20,25 @@ Portugese(PT) Thunderbird
    <el>Πορτογαλικός εντοπισμός του Thunderbird</el>
    <en>Portugese(PT) localisation of Thunderbird</en>
    <es>Portugese(PT) localisation of Thunderbird</es>
+   <et>Portugese(PT) localisation of Thunderbird</et>
+   <eu>Portugese(PT) localisation of Thunderbird</eu>
+   <fa>Portugese(PT) localisation of Thunderbird</fa>
    <fi>Portugese(PT) localisation of Thunderbird</fi>
    <fr>Localisation portugaise (PT) pour Thunderbird</fr>
+   <he_IL>Portugese(PT) localisation of Thunderbird</he_IL>
    <hi>Portugese(PT) localisation of Thunderbird</hi>
    <hr>Portugese(PT) localisation of Thunderbird</hr>
    <hu>Portugese(PT) localisation of Thunderbird</hu>
+   <id>Portugese(PT) localisation of Thunderbird</id>
    <is>Portugese(PT) localisation of Thunderbird</is>
    <it>Localizzazione portoghese(PT) di Thunderbird</it>
+   <ja_JP>Portugese(PT) localisation of Thunderbird</ja_JP>
    <ja>Portugese(PT) localisation of Thunderbird</ja>
    <kk>Portugese(PT) localisation of Thunderbird</kk>
+   <ko>Portugese(PT) localisation of Thunderbird</ko>
    <lt>Portugese(PT) localisation of Thunderbird</lt>
+   <mk>Portugese(PT) localisation of Thunderbird</mk>
+   <nb>Portugese(PT) localisation of Thunderbird</nb>
    <nl>Portugese(PT) lokalisatie van Thunderbird</nl>
    <pl>Portugese(PT) localisation of Thunderbird</pl>
    <pt_BR>Português(PT) Localização para Thunderbird</pt_BR>
@@ -35,10 +46,13 @@ Portugese(PT) Thunderbird
    <ro>Portugese(PT) localisation of Thunderbird</ro>
    <ru>Portugese(PT) localisation of Thunderbird</ru>
    <sk>Portugese(PT) localisation of Thunderbird</sk>
+   <sl>Portugese(PT) localisation of Thunderbird</sl>
    <sq>Portugese(PT) localisation of Thunderbird</sq>
+   <sr>Portugese(PT) localisation of Thunderbird</sr>
    <sv>Portugisisk (PT) lokalisering för Thunderbird</sv>
    <tr>Portugese(PT) localisation of Thunderbird</tr>
-   <uk>Portugese(PT) localisation of Thunderbird</uk>
+   <uk>Portugese(PT) локалізація Thunderbird</uk>
+   <zh_CN>Portugese(PT) localisation of Thunderbird</zh_CN>
    <zh_TW>Portugese(PT) localisation of Thunderbird</zh_TW>
 </description>
 

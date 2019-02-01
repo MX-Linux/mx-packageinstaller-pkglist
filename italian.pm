@@ -11,6 +11,8 @@ Italian
 
 <description>
    <am>Italian Language Meta-Package</am>
+   <ar>Italian Language Meta-Package</ar>
+   <bg>Italian Language Meta-Package</bg>
    <ca>Metapaquet de llenguatge italià</ca>
    <cs>Italian Language Meta-Package</cs>
    <da>Italiensk sprog-metapakke</da>
@@ -18,16 +20,25 @@ Italian
    <el>Ιταλική γλώσσα</el>
    <en>Italian Language Meta-Package</en>
    <es>Italian Language Meta-Package</es>
+   <et>Italian Language Meta-Package</et>
+   <eu>Italian Language Meta-Package</eu>
+   <fa>Italian Language Meta-Package</fa>
    <fi>Italian Language Meta-Package</fi>
    <fr>Méta-paquet pour langue italienne</fr>
+   <he_IL>Italian Language Meta-Package</he_IL>
    <hi>Italian Language Meta-Package</hi>
    <hr>Italian Language Meta-Package</hr>
    <hu>Italian Language Meta-Package</hu>
+   <id>Italian Language Meta-Package</id>
    <is>Italian Language Meta-Package</is>
    <it>Meta-pacchetto della lingua italiana</it>
+   <ja_JP>Italian Language Meta-Package</ja_JP>
    <ja>Italian Language Meta-Package</ja>
    <kk>Italian Language Meta-Package</kk>
+   <ko>Italian Language Meta-Package</ko>
    <lt>Italian Language Meta-Package</lt>
+   <mk>Italian Language Meta-Package</mk>
+   <nb>Italian Language Meta-Package</nb>
    <nl>Italiaanse Taal Meta-Pakket</nl>
    <pl>Italian Language Meta-Package</pl>
    <pt_BR>Italiano Meta-Pacote de Idioma</pt_BR>
@@ -35,10 +46,13 @@ Italian
    <ro>Italian Language Meta-Package</ro>
    <ru>Italian Language Meta-Package</ru>
    <sk>Italian Language Meta-Package</sk>
+   <sl>Italian Language Meta-Package</sl>
    <sq>Italian Language Meta-Package</sq>
+   <sr>Italian Language Meta-Package</sr>
    <sv>Italienskt Språk-Meta-Paket </sv>
    <tr>Italian Language Meta-Package</tr>
    <uk>Italian Language Meta-Package</uk>
+   <zh_CN>Italian Language Meta-Package</zh_CN>
    <zh_TW>Italian Language Meta-Package</zh_TW>
 </description>
 

@@ -11,6 +11,8 @@ GB_English_Firefox
 
 <description>
    <am>GB English localisation of Firefox</am>
+   <ar>GB English localisation of Firefox</ar>
+   <bg>GB English localisation of Firefox</bg>
    <ca>Localització de Firefox en anglès (UK)</ca>
    <cs>GB English localisation of Firefox</cs>
    <da>Engelsk (storbritannien) oversættelse af Firefox</da>
@@ -18,16 +20,25 @@ GB_English_Firefox
    <el>Αγγλικός (ΜΒ) εντοπισμός του Firefox</el>
    <en>GB English localisation of Firefox</en>
    <es>GB English localisation of Firefox</es>
+   <et>GB English localisation of Firefox</et>
+   <eu>GB English localisation of Firefox</eu>
+   <fa>GB English localisation of Firefox</fa>
    <fi>GB English localisation of Firefox</fi>
    <fr>Localisation anglaise_GB pour Firefox</fr>
+   <he_IL>GB English localisation of Firefox</he_IL>
    <hi>GB English localisation of Firefox</hi>
    <hr>GB English localisation of Firefox</hr>
    <hu>GB English localisation of Firefox</hu>
+   <id>GB English localisation of Firefox</id>
    <is>GB English localisation of Firefox</is>
    <it>Localizzazione in Inglese GB di Firefox</it>
+   <ja_JP>GB English localisation of Firefox</ja_JP>
    <ja>GB English localisation of Firefox</ja>
    <kk>GB English localisation of Firefox</kk>
+   <ko>GB English localisation of Firefox</ko>
    <lt>GB English localisation of Firefox</lt>
+   <mk>GB English localisation of Firefox</mk>
+   <nb>GB English localisation of Firefox</nb>
    <nl>GB Engelse lokalisatie van Firefox</nl>
    <pl>GB English localisation of Firefox</pl>
    <pt_BR>GB Inglês Localização para Firefox</pt_BR>
@@ -35,10 +46,13 @@ GB_English_Firefox
    <ro>GB English localisation of Firefox</ro>
    <ru>GB English localisation of Firefox</ru>
    <sk>GB English localisation of Firefox</sk>
+   <sl>GB English localisation of Firefox</sl>
    <sq>GB English localisation of Firefox</sq>
+   <sr>GB English localisation of Firefox</sr>
    <sv>GB Engelsk lokalisering av Firefox</sv>
    <tr>GB English localisation of Firefox</tr>
-   <uk>GB English localisation of Firefox</uk>
+   <uk>GB English локалізація Firefox</uk>
+   <zh_CN>GB English localisation of Firefox</zh_CN>
    <zh_TW>GB English localisation of Firefox</zh_TW>
 </description>
 

@@ -11,23 +11,34 @@ SuperTux
 
 <description>
    <am>Mario style platform game w/ Tux</am>
-   <ca>Mario style platform game w/ Tux</ca>
+   <ar>Mario style platform game w/ Tux</ar>
+   <bg>Mario style platform game w/ Tux</bg>
+   <ca>Plataforma de jocs de l'estil Mario amb Tux</ca>
    <cs>Mario style platform game w/ Tux</cs>
-   <da>Mario style platform game w/ Tux</da>
+   <da>Platformspil med Tux i stil med Mario</da>
    <de>Mario Style Plattformspiel mit Tux</de>
    <el>Mario style platform game w/ Tux</el>
    <en>Mario style platform game w/ Tux</en>
-   <es>Mario style platform game w/ Tux</es>
+   <es>Juego de plataformas con Tux estilo Mario</es>
+   <et>Mario style platform game w/ Tux</et>
+   <eu>Mario style platform game w/ Tux</eu>
+   <fa>Mario style platform game w/ Tux</fa>
    <fi>Mario style platform game w/ Tux</fi>
    <fr>Jeu de plate-formes de style Mario, mais avec Tux comme héros</fr>
+   <he_IL>Mario style platform game w/ Tux</he_IL>
    <hi>Mario style platform game w/ Tux</hi>
    <hr>Mario style platform game w/ Tux</hr>
    <hu>Mario style platform game w/ Tux</hu>
+   <id>Mario style platform game w/ Tux</id>
    <is>Mario style platform game w/ Tux</is>
    <it>Piattaforma di gioco in stile SuperMario con la presenza del pinguino Tux</it>
+   <ja_JP>Mario style platform game w/ Tux</ja_JP>
    <ja>Mario style platform game w/ Tux</ja>
    <kk>Mario style platform game w/ Tux</kk>
+   <ko>Mario style platform game w/ Tux</ko>
    <lt>Mario style platform game w/ Tux</lt>
+   <mk>Mario style platform game w/ Tux</mk>
+   <nb>Mario style platform game w/ Tux</nb>
    <nl>Mario stijl platform spel met Tux</nl>
    <pl>Mario style platform game w/ Tux</pl>
    <pt_BR>Mario style platform game w/ Tux</pt_BR>
@@ -35,10 +46,13 @@ SuperTux
    <ro>Mario style platform game w/ Tux</ro>
    <ru>Игра-платформер в духе Mario</ru>
    <sk>Mario style platform game w/ Tux</sk>
+   <sl>Mario style platform game w/ Tux</sl>
    <sq>Mario style platform game w/ Tux</sq>
+   <sr>Mario style platform game w/ Tux</sr>
    <sv>Plattformsspel i Mariostil med Tux</sv>
    <tr>Mario style platform game w/ Tux</tr>
    <uk>Mario style platform game w/ Tux</uk>
+   <zh_CN>Mario style platform game w/ Tux</zh_CN>
    <zh_TW>Mario style platform game w/ Tux</zh_TW>
 </description>
 

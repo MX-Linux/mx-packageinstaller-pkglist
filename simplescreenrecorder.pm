@@ -12,23 +12,34 @@ SimpleScreenRecorder
 
 <description>
    <am>a Qt-based screencast recorder</am>
-   <ca>a Qt-based screencast recorder</ca>
+   <ar>a Qt-based screencast recorder</ar>
+   <bg>a Qt-based screencast recorder</bg>
+   <ca>Enregistrador de pantalla basat en QT</ca>
    <cs>a Qt-based screencast recorder</cs>
-   <da>a Qt-based screencast recorder</da>
+   <da>en Qt-baseret screencast-optager</da>
    <de>Ein Qt-basierter Bildschirm-Rekorder</de>
    <el>μια καταγραφική εκπομπής με βάση το Qt</el>
    <en>a Qt-based screencast recorder</en>
-   <es>a Qt-based screencast recorder</es>
+   <es>grabador de pantalla basado en Qt</es>
+   <et>a Qt-based screencast recorder</et>
+   <eu>a Qt-based screencast recorder</eu>
+   <fa>a Qt-based screencast recorder</fa>
    <fi>a Qt-based screencast recorder</fi>
    <fr>Outil de capture vidéo basé sur Qt</fr>
+   <he_IL>a Qt-based screencast recorder</he_IL>
    <hi>a Qt-based screencast recorder</hi>
    <hr>a Qt-based screencast recorder</hr>
    <hu>a Qt-based screencast recorder</hu>
+   <id>a Qt-based screencast recorder</id>
    <is>a Qt-based screencast recorder</is>
    <it>registratore dello schermo basato su librerie Qt</it>
+   <ja_JP>a Qt-based screencast recorder</ja_JP>
    <ja>a Qt-based screencast recorder</ja>
    <kk>a Qt-based screencast recorder</kk>
+   <ko>a Qt-based screencast recorder</ko>
    <lt>a Qt-based screencast recorder</lt>
+   <mk>a Qt-based screencast recorder</mk>
+   <nb>a Qt-based screencast recorder</nb>
    <nl>a Qt-gebaseerde screencast recorder</nl>
    <pl>a Qt-based screencast recorder</pl>
    <pt_BR>a Qt-based screencast recorder</pt_BR>
@@ -36,10 +47,13 @@ SimpleScreenRecorder
    <ro>a Qt-based screencast recorder</ro>
    <ru>Запись скринкастов</ru>
    <sk>a Qt-based screencast recorder</sk>
+   <sl>a Qt-based screencast recorder</sl>
    <sq>a Qt-based screencast recorder</sq>
+   <sr>a Qt-based screencast recorder</sr>
    <sv>en Qt-baserad skärmbildsinspelare</sv>
    <tr>a Qt-based screencast recorder</tr>
    <uk>a Qt-based screencast recorder</uk>
+   <zh_CN>a Qt-based screencast recorder</zh_CN>
    <zh_TW>a Qt-based screencast recorder</zh_TW>
 </description>
 

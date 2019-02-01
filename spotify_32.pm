@@ -11,23 +11,34 @@ Spotify
 
 <description>
    <am>Spotify from Spotify Testing Repo</am>
-   <ca>Spotify from Spotify Testing Repo</ca>
+   <ar>Spotify from Spotify Testing Repo</ar>
+   <bg>Spotify from Spotify Testing Repo</bg>
+   <ca>Spotify del dipòsit Spotify Testing</ca>
    <cs>Spotify from Spotify Testing Repo</cs>
-   <da>Spotify from Spotify Testing Repo</da>
+   <da>Spotify fra Spotify testing-softwarekilde</da>
    <de>Spotify vom Spotify Testing Repo</de>
    <el>Spotify από το Spotify Test Repo</el>
    <en>Spotify from Spotify Testing Repo</en>
-   <es>Spotify from Spotify Testing Repo</es>
+   <es>Spotify de los repositorios Testing de Spotify</es>
+   <et>Spotify from Spotify Testing Repo</et>
+   <eu>Spotify from Spotify Testing Repo</eu>
+   <fa>Spotify from Spotify Testing Repo</fa>
    <fi>Spotify from Spotify Testing Repo</fi>
    <fr>Spotify du dépôt de test Spotify</fr>
+   <he_IL>Spotify from Spotify Testing Repo</he_IL>
    <hi>Spotify from Spotify Testing Repo</hi>
    <hr>Spotify from Spotify Testing Repo</hr>
    <hu>Spotify from Spotify Testing Repo</hu>
+   <id>Spotify from Spotify Testing Repo</id>
    <is>Spotify from Spotify Testing Repo</is>
    <it>Spotify dal repo testing di Spotify</it>
+   <ja_JP>Spotify from Spotify Testing Repo</ja_JP>
    <ja>Spotify from Spotify Testing Repo</ja>
    <kk>Spotify from Spotify Testing Repo</kk>
+   <ko>Spotify from Spotify Testing Repo</ko>
    <lt>Spotify from Spotify Testing Repo</lt>
+   <mk>Spotify from Spotify Testing Repo</mk>
+   <nb>Spotify from Spotify Testing Repo</nb>
    <nl>Spotify uit Spotify Testing Pakketbron</nl>
    <pl>Spotify from Spotify Testing Repo</pl>
    <pt_BR>Spotify from Spotify Testing Repo</pt_BR>
@@ -35,10 +46,13 @@ Spotify
    <ro>Spotify from Spotify Testing Repo</ro>
    <ru>Сервис потокового аудио включающий более 30 млн. треков</ru>
    <sk>Spotify from Spotify Testing Repo</sk>
+   <sl>Spotify from Spotify Testing Repo</sl>
    <sq>Spotify from Spotify Testing Repo</sq>
+   <sr>Spotify from Spotify Testing Repo</sr>
    <sv>Spotify från Spotify Testing Förråd</sv>
    <tr>Spotify from Spotify Testing Repo</tr>
    <uk>Spotify from Spotify Testing Repo</uk>
+   <zh_CN>Spotify from Spotify Testing Repo</zh_CN>
    <zh_TW>Spotify from Spotify Testing Repo</zh_TW>
 </description>
 

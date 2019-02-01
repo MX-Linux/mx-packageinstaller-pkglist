@@ -11,6 +11,8 @@ Bulgarian_Thunderbird
 
 <description>
    <am>Bulgarian localisation of Thunderbird</am>
+   <ar>Bulgarian localisation of Thunderbird</ar>
+   <bg>Bulgarian localisation of Thunderbird</bg>
    <ca>Localització de Thunderbird en Búlgar</ca>
    <cs>Bulgarian localisation of Thunderbird</cs>
    <da>Bulgarsk oversættelse af Thunderbird</da>
@@ -18,16 +20,25 @@ Bulgarian_Thunderbird
    <el>Βουλγαρικό εντοπισμό του Thunderbird</el>
    <en>Bulgarian localisation of Thunderbird</en>
    <es>localización Búlgaro de Thunderbird</es>
+   <et>Bulgarian localisation of Thunderbird</et>
+   <eu>Bulgarian localisation of Thunderbird</eu>
+   <fa>Bulgarian localisation of Thunderbird</fa>
    <fi>Bulgarian localisation of Thunderbird</fi>
    <fr>Localisation bulgare pour Thunderbird</fr>
+   <he_IL>Bulgarian localisation of Thunderbird</he_IL>
    <hi>Bulgarian localisation of Thunderbird</hi>
    <hr>Bulgarian localisation of Thunderbird</hr>
    <hu>Bulgarian localisation of Thunderbird</hu>
+   <id>Bulgarian localisation of Thunderbird</id>
    <is>Bulgarian localisation of Thunderbird</is>
    <it>Localizzazione bulgara di Thunderbird</it>
+   <ja_JP>Bulgarian localisation of Thunderbird</ja_JP>
    <ja>Bulgarian localisation of Thunderbird</ja>
    <kk>Bulgarian localisation of Thunderbird</kk>
+   <ko>Bulgarian localisation of Thunderbird</ko>
    <lt>Bulgarian localisation of Thunderbird</lt>
+   <mk>Bulgarian localisation of Thunderbird</mk>
+   <nb>Bulgarian localisation of Thunderbird</nb>
    <nl>Bulgaarse lokalisatie van Thunderbird</nl>
    <pl>Bulgarian localisation of Thunderbird</pl>
    <pt_BR>Búlgaro Localização para Thunderbird</pt_BR>
@@ -35,10 +46,13 @@ Bulgarian_Thunderbird
    <ro>Bulgarian localisation of Thunderbird</ro>
    <ru>Bulgarian localisation of Thunderbird</ru>
    <sk>Bulgarian localisation of Thunderbird</sk>
+   <sl>Bulgarian localisation of Thunderbird</sl>
    <sq>Bulgarian localisation of Thunderbird</sq>
+   <sr>Bulgarian localisation of Thunderbird</sr>
    <sv>Bulgarisk lokalisering av  Thunderbird</sv>
    <tr>Bulgarian localisation of Thunderbird</tr>
-   <uk>Bulgarian localisation of Thunderbird</uk>
+   <uk>Bulgarian локалізація Thunderbird</uk>
+   <zh_CN>Bulgarian localisation of Thunderbird</zh_CN>
    <zh_TW>Bulgarian localisation of Thunderbird</zh_TW>
 </description>
 

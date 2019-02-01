@@ -11,6 +11,8 @@ Icelandic_Thunderbird
 
 <description>
    <am>Icelandic localisation of Thunderbird</am>
+   <ar>Icelandic localisation of Thunderbird</ar>
+   <bg>Icelandic localisation of Thunderbird</bg>
    <ca>Localització de Thunderbird en Islandès</ca>
    <cs>Icelandic localisation of Thunderbird</cs>
    <da>Islandsk oversættelse af Thunderbird</da>
@@ -18,16 +20,25 @@ Icelandic_Thunderbird
    <el>Ισλανδικός εντοπισμός του Thunderbird</el>
    <en>Icelandic localisation of Thunderbird</en>
    <es>Icelandic localisation of Thunderbird</es>
+   <et>Icelandic localisation of Thunderbird</et>
+   <eu>Icelandic localisation of Thunderbird</eu>
+   <fa>Icelandic localisation of Thunderbird</fa>
    <fi>Icelandic localisation of Thunderbird</fi>
    <fr>Localisation islandaise pour Thunderbird</fr>
+   <he_IL>Icelandic localisation of Thunderbird</he_IL>
    <hi>Icelandic localisation of Thunderbird</hi>
    <hr>Icelandic localisation of Thunderbird</hr>
    <hu>Icelandic localisation of Thunderbird</hu>
+   <id>Icelandic localisation of Thunderbird</id>
    <is>Icelandic localisation of Thunderbird</is>
    <it>Localizzazione islandese di Thunderbird</it>
+   <ja_JP>Icelandic localisation of Thunderbird</ja_JP>
    <ja>Icelandic localisation of Thunderbird</ja>
    <kk>Icelandic localisation of Thunderbird</kk>
+   <ko>Icelandic localisation of Thunderbird</ko>
    <lt>Icelandic localisation of Thunderbird</lt>
+   <mk>Icelandic localisation of Thunderbird</mk>
+   <nb>Icelandic localisation of Thunderbird</nb>
    <nl>IJslandse lokalisatie van Thunderbird</nl>
    <pl>Icelandic localisation of Thunderbird</pl>
    <pt_BR>Islandês Localização para Thunderbird</pt_BR>
@@ -35,10 +46,13 @@ Icelandic_Thunderbird
    <ro>Icelandic localisation of Thunderbird</ro>
    <ru>Icelandic localisation of Thunderbird</ru>
    <sk>Icelandic localisation of Thunderbird</sk>
+   <sl>Icelandic localisation of Thunderbird</sl>
    <sq>Icelandic localisation of Thunderbird</sq>
+   <sr>Icelandic localisation of Thunderbird</sr>
    <sv>Isländsk  lokalisering av Thunderbird </sv>
    <tr>Icelandic localisation of Thunderbird</tr>
-   <uk>Icelandic localisation of Thunderbird</uk>
+   <uk>Icelandic локалізація Thunderbird</uk>
+   <zh_CN>Icelandic localisation of Thunderbird</zh_CN>
    <zh_TW>Icelandic localisation of Thunderbird</zh_TW>
 </description>
 

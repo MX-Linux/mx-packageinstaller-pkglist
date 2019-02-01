@@ -12,23 +12,34 @@ Hotshots
 
 <description>
    <am>a Qt-4 based advanced screencapture app</am>
+   <ar>a Qt-4 based advanced screencapture app</ar>
+   <bg>a Qt-4 based advanced screencapture app</bg>
    <ca>aplicació avançada de captura de pantalla basad en Qt-4</ca>
    <cs>a Qt-4 based advanced screencapture app</cs>
-   <da>a Qt-4 based advanced screencapture app</da>
+   <da>et avanceret Qt-4-baseret skærmoptagerprogram</da>
    <de>Eine Qt-4-basierte erweiterte Screencapture-Anwendung</de>
    <el>εφαρμογή λήψης οθόνης με βάση Qt-4</el>
    <en>a Qt-4 based advanced screencapture app</en>
    <es>Aplicación de captura de pantalla avanzada basada en QT-4</es>
+   <et>a Qt-4 based advanced screencapture app</et>
+   <eu>a Qt-4 based advanced screencapture app</eu>
+   <fa>a Qt-4 based advanced screencapture app</fa>
    <fi>a Qt-4 based advanced screencapture app</fi>
    <fr>Application de capture d'écran Qt-4</fr>
+   <he_IL>a Qt-4 based advanced screencapture app</he_IL>
    <hi>a Qt-4 based advanced screencapture app</hi>
    <hr>a Qt-4 based advanced screencapture app</hr>
    <hu>a Qt-4 based advanced screencapture app</hu>
+   <id>a Qt-4 based advanced screencapture app</id>
    <is>a Qt-4 based advanced screencapture app</is>
-   <it>app. avanzata, basata sulle librerie Qt-4, per la cattura dello schermo</it>
+   <it>applicazione avanzata, basata sulle librerie Qt-4, per la cattura dello schermo</it>
+   <ja_JP>a Qt-4 based advanced screencapture app</ja_JP>
    <ja>a Qt-4 based advanced screencapture app</ja>
    <kk>a Qt-4 based advanced screencapture app</kk>
+   <ko>a Qt-4 based advanced screencapture app</ko>
    <lt>a Qt-4 based advanced screencapture app</lt>
+   <mk>a Qt-4 based advanced screencapture app</mk>
+   <nb>a Qt-4 based advanced screencapture app</nb>
    <nl>een geavanceerde screencapture-app op basis van Qt-4</nl>
    <pl>a Qt-4 based advanced screencapture app</pl>
    <pt_BR>a Qt-4 based advanced screencapture app</pt_BR>
@@ -36,10 +47,13 @@ Hotshots
    <ro>a Qt-4 based advanced screencapture app</ro>
    <ru>Основанное на Qt-4 приложение создания снимков экрана</ru>
    <sk>a Qt-4 based advanced screencapture app</sk>
+   <sl>a Qt-4 based advanced screencapture app</sl>
    <sq>a Qt-4 based advanced screencapture app</sq>
+   <sr>a Qt-4 based advanced screencapture app</sr>
    <sv>en Qt-4 baserad avancerad skärmfilmningsapp</sv>
    <tr>a Qt-4 based advanced screencapture app</tr>
-   <uk>a Qt-4 based advanced screencapture app</uk>
+   <uk>розширена QT-4 програма для знімків екрану</uk>
+   <zh_CN>a Qt-4 based advanced screencapture app</zh_CN>
    <zh_TW>a Qt-4 based advanced screencapture app</zh_TW>
 </description>
 
