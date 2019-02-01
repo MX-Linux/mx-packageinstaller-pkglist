@@ -11,6 +11,8 @@ Ukrainian_Firefox
 
 <description>
    <am>Ukrainian localisation of Firefox</am>
+   <ar>Ukrainian localisation of Firefox</ar>
+   <bg>Ukrainian localisation of Firefox</bg>
    <ca>Localització de Firefox en Ucrainès</ca>
    <cs>Ukrainian localisation of Firefox</cs>
    <da>Ukrainsk oversættelse af Firefox</da>
@@ -18,16 +20,25 @@ Ukrainian_Firefox
    <el>Ουκρανικός εντοπισμός του Firefox</el>
    <en>Ukrainian localisation of Firefox</en>
    <es>Ukrainian localisation of Firefox</es>
+   <et>Ukrainian localisation of Firefox</et>
+   <eu>Ukrainian localisation of Firefox</eu>
+   <fa>Ukrainian localisation of Firefox</fa>
    <fi>Ukrainian localisation of Firefox</fi>
    <fr>Localisation ukrainienne pour Firefox</fr>
+   <he_IL>Ukrainian localisation of Firefox</he_IL>
    <hi>Ukrainian localisation of Firefox</hi>
    <hr>Ukrainian localisation of Firefox</hr>
    <hu>Ukrainian localisation of Firefox</hu>
+   <id>Ukrainian localisation of Firefox</id>
    <is>Ukrainian localisation of Firefox</is>
    <it>Localizzazione ucraina di Firefox</it>
+   <ja_JP>Ukrainian localisation of Firefox</ja_JP>
    <ja>Ukrainian localisation of Firefox</ja>
    <kk>Ukrainian localisation of Firefox</kk>
+   <ko>Ukrainian localisation of Firefox</ko>
    <lt>Ukrainian localisation of Firefox</lt>
+   <mk>Ukrainian localisation of Firefox</mk>
+   <nb>Ukrainian localisation of Firefox</nb>
    <nl>Oekraïense lokalisatie van Firefox</nl>
    <pl>Ukrainian localisation of Firefox</pl>
    <pt_BR>Ucraniano Localização para Firefox</pt_BR>
@@ -35,10 +46,13 @@ Ukrainian_Firefox
    <ro>Ukrainian localisation of Firefox</ro>
    <ru>Ukrainian localisation of Firefox</ru>
    <sk>Ukrainian localisation of Firefox</sk>
+   <sl>Ukrainian localisation of Firefox</sl>
    <sq>Ukrainian localisation of Firefox</sq>
+   <sr>Ukrainian localisation of Firefox</sr>
    <sv>Ukrainsk lokalisering av Firefox</sv>
    <tr>Ukrainian localisation of Firefox</tr>
    <uk>Ukrainian localisation of Firefox</uk>
+   <zh_CN>Ukrainian localisation of Firefox</zh_CN>
    <zh_TW>Ukrainian localisation of Firefox</zh_TW>
 </description>
 

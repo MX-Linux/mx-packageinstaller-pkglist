@@ -12,23 +12,34 @@ recordmydesktop
 
 <description>
    <am>a desktop session recorder</am>
-   <ca>a desktop session recorder</ca>
+   <ar>a desktop session recorder</ar>
+   <bg>a desktop session recorder</bg>
+   <ca>Enregistrador de sessions d'escriptori</ca>
    <cs>a desktop session recorder</cs>
-   <da>a desktop session recorder</da>
+   <da>en skrivebordssessionsoptager</da>
    <de>Ein Desktop-Session-Rekorder</de>
    <el>έναν καταγραφέα περιόδων σύνδεσης στην επιφάνεια εργασίας</el>
    <en>a desktop session recorder</en>
-   <es>a desktop session recorder</es>
+   <es>Realiza capturas de video de tu escritorio</es>
+   <et>a desktop session recorder</et>
+   <eu>a desktop session recorder</eu>
+   <fa>a desktop session recorder</fa>
    <fi>a desktop session recorder</fi>
    <fr>Un enregistreur de session de bureau</fr>
+   <he_IL>a desktop session recorder</he_IL>
    <hi>a desktop session recorder</hi>
    <hr>a desktop session recorder</hr>
    <hu>a desktop session recorder</hu>
+   <id>a desktop session recorder</id>
    <is>a desktop session recorder</is>
    <it>registra una sessione del desktop</it>
+   <ja_JP>a desktop session recorder</ja_JP>
    <ja>a desktop session recorder</ja>
    <kk>a desktop session recorder</kk>
+   <ko>a desktop session recorder</ko>
    <lt>a desktop session recorder</lt>
+   <mk>a desktop session recorder</mk>
+   <nb>a desktop session recorder</nb>
    <nl>een desktop sessie recorder</nl>
    <pl>a desktop session recorder</pl>
    <pt_BR>a desktop session recorder</pt_BR>
@@ -36,10 +47,13 @@ recordmydesktop
    <ro>a desktop session recorder</ro>
    <ru>Запись сеанса рабочего стола</ru>
    <sk>a desktop session recorder</sk>
+   <sl>a desktop session recorder</sl>
    <sq>a desktop session recorder</sq>
+   <sr>a desktop session recorder</sr>
    <sv>en skrivbordssessions-inspelare</sv>
    <tr>a desktop session recorder</tr>
    <uk>a desktop session recorder</uk>
+   <zh_CN>a desktop session recorder</zh_CN>
    <zh_TW>a desktop session recorder</zh_TW>
 </description>
 

@@ -11,6 +11,8 @@ Slovak_Thunderbird
 
 <description>
    <am>Slovak localisation of Thunderbird</am>
+   <ar>Slovak localisation of Thunderbird</ar>
+   <bg>Slovak localisation of Thunderbird</bg>
    <ca>Localització de Thunderbird en Eslovac</ca>
    <cs>Slovak localisation of Thunderbird</cs>
    <da>Slovakisk oversættelse af Thunderbird</da>
@@ -18,16 +20,25 @@ Slovak_Thunderbird
    <el>Σλοβακική εντοπισμός του Thunderbird</el>
    <en>Slovak localisation of Thunderbird</en>
    <es>Slovak localisation of Thunderbird</es>
+   <et>Slovak localisation of Thunderbird</et>
+   <eu>Slovak localisation of Thunderbird</eu>
+   <fa>Slovak localisation of Thunderbird</fa>
    <fi>Slovak localisation of Thunderbird</fi>
    <fr>Localisation slovaque pour Thunderbird</fr>
+   <he_IL>Slovak localisation of Thunderbird</he_IL>
    <hi>Slovak localisation of Thunderbird</hi>
    <hr>Slovak localisation of Thunderbird</hr>
    <hu>Slovak localisation of Thunderbird</hu>
+   <id>Slovak localisation of Thunderbird</id>
    <is>Slovak localisation of Thunderbird</is>
    <it>Localizzazione slovacca di Thunderbird</it>
+   <ja_JP>Slovak localisation of Thunderbird</ja_JP>
    <ja>Slovak localisation of Thunderbird</ja>
    <kk>Slovak localisation of Thunderbird</kk>
+   <ko>Slovak localisation of Thunderbird</ko>
    <lt>Slovak localisation of Thunderbird</lt>
+   <mk>Slovak localisation of Thunderbird</mk>
+   <nb>Slovak localisation of Thunderbird</nb>
    <nl>Slovaakse lokalisatie van Thunderbird</nl>
    <pl>Slovak localisation of Thunderbird</pl>
    <pt_BR>Eslovaco Localização para Thunderbird</pt_BR>
@@ -35,10 +46,13 @@ Slovak_Thunderbird
    <ro>Slovak localisation of Thunderbird</ro>
    <ru>Slovak localisation of Thunderbird</ru>
    <sk>Slovak localisation of Thunderbird</sk>
+   <sl>Slovak localisation of Thunderbird</sl>
    <sq>Slovak localisation of Thunderbird</sq>
+   <sr>Slovak localisation of Thunderbird</sr>
    <sv>Slovakisk lokalisering av Thunderbird</sv>
    <tr>Slovak localisation of Thunderbird</tr>
    <uk>Slovak localisation of Thunderbird</uk>
+   <zh_CN>Slovak localisation of Thunderbird</zh_CN>
    <zh_TW>Slovak localisation of Thunderbird</zh_TW>
 </description>
 

@@ -11,34 +11,48 @@ Evolvere Icon Themes
 
 <description>
    <am>evolvere icons (vibrant)</am>
+   <ar>evolvere icons (vibrant)</ar>
+   <bg>evolvere icons (vibrant)</bg>
    <ca>evolvere icons (vibrant)</ca>
    <cs>evolvere icons (vibrant)</cs>
-   <da>evolvere icons (vibrant)</da>
+   <da>evolvere-ikoner (farverige)</da>
    <de>evolvere icons (vibrant)</de>
-   <el>evolvere icons (vibrant)</el>
+   <el>εικονίδια evolvere (ζωντανή)</el>
    <en>evolvere icons (vibrant)</en>
    <es>evolvere icons (vibrant)</es>
+   <et>evolvere icons (vibrant)</et>
+   <eu>evolvere icons (vibrant)</eu>
+   <fa>evolvere icons (vibrant)</fa>
    <fi>evolvere icons (vibrant)</fi>
-   <fr>evolvere icons (vibrant)</fr>
+   <fr>icônes evolvere (dynamiques)</fr>
+   <he_IL>evolvere icons (vibrant)</he_IL>
    <hi>evolvere icons (vibrant)</hi>
    <hr>evolvere icons (vibrant)</hr>
    <hu>evolvere icons (vibrant)</hu>
+   <id>evolvere icons (vibrant)</id>
    <is>evolvere icons (vibrant)</is>
-   <it>evolvere icons (vibrant)</it>
+   <it>icone evolvere (vibrant)</it>
+   <ja_JP>evolvere icons (vibrant)</ja_JP>
    <ja>evolvere icons (vibrant)</ja>
    <kk>evolvere icons (vibrant)</kk>
+   <ko>evolvere icons (vibrant)</ko>
    <lt>evolvere icons (vibrant)</lt>
-   <nl>evolvere icons (vibrant)</nl>
+   <mk>evolvere icons (vibrant)</mk>
+   <nb>evolvere icons (vibrant)</nb>
+   <nl>evolvere iconen (levendig)</nl>
    <pl>evolvere icons (vibrant)</pl>
    <pt_BR>evolvere icons (vibrant)</pt_BR>
    <pt>evolvere icons (vibrant)</pt>
    <ro>evolvere icons (vibrant)</ro>
    <ru>evolvere icons (vibrant)</ru>
    <sk>evolvere icons (vibrant)</sk>
+   <sl>evolvere icons (vibrant)</sl>
    <sq>evolvere icons (vibrant)</sq>
+   <sr>evolvere icons (vibrant)</sr>
    <sv>evolvere icons (vibrant)</sv>
    <tr>evolvere icons (vibrant)</tr>
    <uk>evolvere icons (vibrant)</uk>
+   <zh_CN>evolvere icons (vibrant)</zh_CN>
    <zh_TW>evolvere icons (vibrant)</zh_TW>
 </description>
 

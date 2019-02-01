@@ -11,6 +11,8 @@ French_Thunderbird
 
 <description>
    <am>French localisation of Thunderbird</am>
+   <ar>French localisation of Thunderbird</ar>
+   <bg>French localisation of Thunderbird</bg>
    <ca>Localització de Thunderbird en Francès</ca>
    <cs>French localisation of Thunderbird</cs>
    <da>Fransk oversættelse af Thunderbird</da>
@@ -18,16 +20,25 @@ French_Thunderbird
    <el>Γαλλικός εντοπισμός του Thunderbird</el>
    <en>French localisation of Thunderbird</en>
    <es>French localisation of Thunderbird</es>
+   <et>French localisation of Thunderbird</et>
+   <eu>French localisation of Thunderbird</eu>
+   <fa>French localisation of Thunderbird</fa>
    <fi>French localisation of Thunderbird</fi>
    <fr>Localisation française pour Thunderbird</fr>
+   <he_IL>French localisation of Thunderbird</he_IL>
    <hi>French localisation of Thunderbird</hi>
    <hr>French localisation of Thunderbird</hr>
    <hu>French localisation of Thunderbird</hu>
+   <id>French localisation of Thunderbird</id>
    <is>French localisation of Thunderbird</is>
    <it>Localizzazione francese di Thunderbird</it>
+   <ja_JP>French localisation of Thunderbird</ja_JP>
    <ja>French localisation of Thunderbird</ja>
    <kk>French localisation of Thunderbird</kk>
+   <ko>French localisation of Thunderbird</ko>
    <lt>French localisation of Thunderbird</lt>
+   <mk>French localisation of Thunderbird</mk>
+   <nb>French localisation of Thunderbird</nb>
    <nl>Franse lokalisatie van Thunderbird</nl>
    <pl>French localisation of Thunderbird</pl>
    <pt_BR>Francês Localização para Thunderbird</pt_BR>
@@ -35,10 +46,13 @@ French_Thunderbird
    <ro>French localisation of Thunderbird</ro>
    <ru>French localisation of Thunderbird</ru>
    <sk>French localisation of Thunderbird</sk>
+   <sl>French localisation of Thunderbird</sl>
    <sq>French localisation of Thunderbird</sq>
+   <sr>French localisation of Thunderbird</sr>
    <sv>Fransk lokalisering av Thunderbird</sv>
    <tr>French localisation of Thunderbird</tr>
-   <uk>French localisation of Thunderbird</uk>
+   <uk>French локалізація Thunderbird</uk>
+   <zh_CN>French localisation of Thunderbird</zh_CN>
    <zh_TW>French localisation of Thunderbird</zh_TW>
 </description>
 

@@ -11,6 +11,8 @@ Slovenian_Firefox
 
 <description>
    <am>Slovenian localisation of Firefox</am>
+   <ar>Slovenian localisation of Firefox</ar>
+   <bg>Slovenian localisation of Firefox</bg>
    <ca>Localització de Firefox en Eslovè</ca>
    <cs>Slovenian localisation of Firefox</cs>
    <da>Slovensk oversættelse af Firefox</da>
@@ -18,16 +20,25 @@ Slovenian_Firefox
    <el>Σλοβένικος εντοπισμός του Firefox</el>
    <en>Slovenian localisation of Firefox</en>
    <es>Slovenian localisation of Firefox</es>
+   <et>Slovenian localisation of Firefox</et>
+   <eu>Slovenian localisation of Firefox</eu>
+   <fa>Slovenian localisation of Firefox</fa>
    <fi>Slovenian localisation of Firefox</fi>
    <fr>Localisation slovène pour Firefox</fr>
+   <he_IL>Slovenian localisation of Firefox</he_IL>
    <hi>Slovenian localisation of Firefox</hi>
    <hr>Slovenian localisation of Firefox</hr>
    <hu>Slovenian localisation of Firefox</hu>
+   <id>Slovenian localisation of Firefox</id>
    <is>Slovenian localisation of Firefox</is>
    <it>Localizzazione slovena di Firefox</it>
+   <ja_JP>Slovenian localisation of Firefox</ja_JP>
    <ja>Slovenian localisation of Firefox</ja>
    <kk>Slovenian localisation of Firefox</kk>
+   <ko>Slovenian localisation of Firefox</ko>
    <lt>Slovenian localisation of Firefox</lt>
+   <mk>Slovenian localisation of Firefox</mk>
+   <nb>Slovenian localisation of Firefox</nb>
    <nl>Sloveense lokalisatie van Firefox</nl>
    <pl>Slovenian localisation of Firefox</pl>
    <pt_BR>Esloveno Localização para Firefox</pt_BR>
@@ -35,10 +46,13 @@ Slovenian_Firefox
    <ro>Slovenian localisation of Firefox</ro>
    <ru>Slovenian localisation of Firefox</ru>
    <sk>Slovenian localisation of Firefox</sk>
+   <sl>Slovenian localisation of Firefox</sl>
    <sq>Slovenian localisation of Firefox</sq>
+   <sr>Slovenian localisation of Firefox</sr>
    <sv>Slovensk lokalisering av Firefox</sv>
    <tr>Slovenian localisation of Firefox</tr>
    <uk>Slovenian localisation of Firefox</uk>
+   <zh_CN>Slovenian localisation of Firefox</zh_CN>
    <zh_TW>Slovenian localisation of Firefox</zh_TW>
 </description>
 

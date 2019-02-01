@@ -11,23 +11,34 @@ Chinese_TW_Thunderbird
 
 <description>
    <am>Chinese (Taiwan) localisation of Thunderbird</am>
+   <ar>Chinese (Taiwan) localisation of Thunderbird</ar>
+   <bg>Chinese (Taiwan) localisation of Thunderbird</bg>
    <ca>Localització de Thunderbird en Xinès de Taiwan</ca>
    <cs>Chinese (Taiwan) localisation of Thunderbird</cs>
    <da>Kinesisk (taiwan) oversættelse af Thunderbird</da>
    <de>Chinesische (traditionell) Lokalisierung von Thunderbird</de>
    <el>Κινεζικός(Ταϊβάν) εντοπισμός του Thunderbird</el>
    <en>Chinese (Taiwan) localisation of Thunderbird</en>
-   <es>Chinese (Taiwan) localisation of Thunderbird</es>
+   <es>Localización Chino (Taiwán) de Thunderbird</es>
+   <et>Chinese (Taiwan) localisation of Thunderbird</et>
+   <eu>Chinese (Taiwan) localisation of Thunderbird</eu>
+   <fa>Chinese (Taiwan) localisation of Thunderbird</fa>
    <fi>Chinese (Taiwan) localisation of Thunderbird</fi>
    <fr>Localisation chinois (Taiwan) pour Thunderbird</fr>
+   <he_IL>Chinese (Taiwan) localisation of Thunderbird</he_IL>
    <hi>Chinese (Taiwan) localisation of Thunderbird</hi>
    <hr>Chinese (Taiwan) localisation of Thunderbird</hr>
    <hu>Chinese (Taiwan) localisation of Thunderbird</hu>
+   <id>Chinese (Taiwan) localisation of Thunderbird</id>
    <is>Chinese (Taiwan) localisation of Thunderbird</is>
    <it>Localizzazione cinese (Taiwan) di Thunderbird</it>
+   <ja_JP>Chinese (Taiwan) localisation of Thunderbird</ja_JP>
    <ja>Chinese (Taiwan) localisation of Thunderbird</ja>
    <kk>Chinese (Taiwan) localisation of Thunderbird</kk>
+   <ko>Chinese (Taiwan) localisation of Thunderbird</ko>
    <lt>Chinese (Taiwan) localisation of Thunderbird</lt>
+   <mk>Chinese (Taiwan) localisation of Thunderbird</mk>
+   <nb>Chinese (Taiwan) localisation of Thunderbird</nb>
    <nl>Chinese (Taiwan) lokalisatie van Thunderbird</nl>
    <pl>Chinese (Taiwan) localisation of Thunderbird</pl>
    <pt_BR>Chinês (Taiwan) Localização para Thunderbird</pt_BR>
@@ -35,10 +46,13 @@ Chinese_TW_Thunderbird
    <ro>Chinese (Taiwan) localisation of Thunderbird</ro>
    <ru>Chinese (Taiwan) localisation of Thunderbird</ru>
    <sk>Chinese (Taiwan) localisation of Thunderbird</sk>
+   <sl>Chinese (Taiwan) localisation of Thunderbird</sl>
    <sq>Chinese (Taiwan) localisation of Thunderbird</sq>
+   <sr>Chinese (Taiwan) localisation of Thunderbird</sr>
    <sv>Kinesisk (Taiwan) lokalisering av Thunderbird</sv>
    <tr>Chinese (Taiwan) localisation of Thunderbird</tr>
-   <uk>Chinese (Taiwan) localisation of Thunderbird</uk>
+   <uk>Chinese (Taiwan) локалізація Thunderbird</uk>
+   <zh_CN>Chinese (Taiwan) localisation of Thunderbird</zh_CN>
    <zh_TW>Chinese (Taiwan) localisation of Thunderbird</zh_TW>
 </description>
 

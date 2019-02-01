@@ -11,6 +11,8 @@ Icelandic_Firefox
 
 <description>
    <am>Icelandic localisation of Firefox</am>
+   <ar>Icelandic localisation of Firefox</ar>
+   <bg>Icelandic localisation of Firefox</bg>
    <ca>Localització de Firefox en Islandès</ca>
    <cs>Icelandic localisation of Firefox</cs>
    <da>Islandsk oversættelse af Firefox</da>
@@ -18,16 +20,25 @@ Icelandic_Firefox
    <el>Ισλανδικός εντοπισμός του Firefox</el>
    <en>Icelandic localisation of Firefox</en>
    <es>Icelandic localisation of Firefox</es>
+   <et>Icelandic localisation of Firefox</et>
+   <eu>Icelandic localisation of Firefox</eu>
+   <fa>Icelandic localisation of Firefox</fa>
    <fi>Icelandic localisation of Firefox</fi>
    <fr>Localisation islandaise pour Firefox</fr>
+   <he_IL>Icelandic localisation of Firefox</he_IL>
    <hi>Icelandic localisation of Firefox</hi>
    <hr>Icelandic localisation of Firefox</hr>
    <hu>Icelandic localisation of Firefox</hu>
+   <id>Icelandic localisation of Firefox</id>
    <is>Icelandic localisation of Firefox</is>
    <it>Localizzazione islandese di Firefox</it>
+   <ja_JP>Icelandic localisation of Firefox</ja_JP>
    <ja>Icelandic localisation of Firefox</ja>
    <kk>Icelandic localisation of Firefox</kk>
+   <ko>Icelandic localisation of Firefox</ko>
    <lt>Icelandic localisation of Firefox</lt>
+   <mk>Icelandic localisation of Firefox</mk>
+   <nb>Icelandic localisation of Firefox</nb>
    <nl>IJslandse lokalisatie van Firefox</nl>
    <pl>Icelandic localisation of Firefox</pl>
    <pt_BR>Islandês Localização para Firefox</pt_BR>
@@ -35,10 +46,13 @@ Icelandic_Firefox
    <ro>Icelandic localisation of Firefox</ro>
    <ru>Icelandic localisation of Firefox</ru>
    <sk>Icelandic localisation of Firefox</sk>
+   <sl>Icelandic localisation of Firefox</sl>
    <sq>Icelandic localisation of Firefox</sq>
+   <sr>Icelandic localisation of Firefox</sr>
    <sv>Isländsk lokalisering av Firefox </sv>
    <tr>Icelandic localisation of Firefox</tr>
-   <uk>Icelandic localisation of Firefox</uk>
+   <uk>Icelandic локалізація Firefox</uk>
+   <zh_CN>Icelandic localisation of Firefox</zh_CN>
    <zh_TW>Icelandic localisation of Firefox</zh_TW>
 </description>
 

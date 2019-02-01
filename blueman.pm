@@ -11,23 +11,34 @@ Blueman
 
 <description>
    <am>a GTK+ bluetooth management utility</am>
+   <ar>a GTK+ bluetooth management utility</ar>
+   <bg>a GTK+ bluetooth management utility</bg>
    <ca>Eina de gestió Bluetooth GTK+</ca>
    <cs>a GTK+ bluetooth management utility</cs>
-   <da>a GTK+ bluetooth management utility</da>
+   <da>et GTK+ bluetooth-håndteringsredskab</da>
    <de>Ein GTK+ Bluetooth-Management-Dienstprogramm</de>
    <el>ένα βοηθητικό πρόγραμμα διαχείρισης bluetooth</el>
    <en>a GTK+ bluetooth management utility</en>
-   <es>utilidad para gerenciar bluetooth GTK+</es>
+   <es>utilidad GTK+ para aministrar bluetooth</es>
+   <et>a GTK+ bluetooth management utility</et>
+   <eu>a GTK+ bluetooth management utility</eu>
+   <fa>a GTK+ bluetooth management utility</fa>
    <fi>a GTK+ bluetooth management utility</fi>
    <fr>Un utilitaire GTK+ de gestion bluetooth</fr>
+   <he_IL>a GTK+ bluetooth management utility</he_IL>
    <hi>a GTK+ bluetooth management utility</hi>
    <hr>a GTK+ bluetooth management utility</hr>
    <hu>a GTK+ bluetooth management utility</hu>
+   <id>a GTK+ bluetooth management utility</id>
    <is>a GTK+ bluetooth management utility</is>
    <it>Utility GTK+ di gestione del bluethooth</it>
+   <ja_JP>a GTK+ bluetooth management utility</ja_JP>
    <ja>a GTK+ bluetooth management utility</ja>
    <kk>a GTK+ bluetooth management utility</kk>
+   <ko>a GTK+ bluetooth management utility</ko>
    <lt>a GTK+ bluetooth management utility</lt>
+   <mk>a GTK+ bluetooth management utility</mk>
+   <nb>a GTK+ bluetooth management utility</nb>
    <nl>een GTK+ bluetooth beheer utility</nl>
    <pl>a GTK+ bluetooth management utility</pl>
    <pt_BR>Utilitário de gestão de bluetooth para uso em GTK+</pt_BR>
@@ -35,10 +46,13 @@ Blueman
    <ro>a GTK+ bluetooth management utility</ro>
    <ru>GTK+ утилита управления bluetooth</ru>
    <sk>a GTK+ bluetooth management utility</sk>
+   <sl>a GTK+ bluetooth management utility</sl>
    <sq>a GTK+ bluetooth management utility</sq>
+   <sr>a GTK+ bluetooth management utility</sr>
    <sv>ett GTK+ bluetooth hanteringsverktyg</sv>
    <tr>a GTK+ bluetooth management utility</tr>
-   <uk>a GTK+ bluetooth management utility</uk>
+   <uk>GTK+ утиліта для bluetooth</uk>
+   <zh_CN>a GTK+ bluetooth management utility</zh_CN>
    <zh_TW>a GTK+ bluetooth management utility</zh_TW>
 </description>
 

@@ -11,23 +11,34 @@ LXDE
 
 <description>
    <am>basic install of LXDE</am>
+   <ar>basic install of LXDE</ar>
+   <bg>basic install of LXDE</bg>
    <ca>Instal·lació bàsica de LXDE</ca>
    <cs>basic install of LXDE</cs>
-   <da>basic install of LXDE</da>
+   <da>grundlæggende installation af LXDE</da>
    <de>Grundinstallation von LXDE</de>
    <el>βασική εγκατάσταση του LXDE</el>
    <en>basic install of LXDE</en>
    <es>instalación mínima de LXDE</es>
-   <fi>basic install of LXDE</fi>
+   <et>basic install of LXDE</et>
+   <eu>basic install of LXDE</eu>
+   <fa>basic install of LXDE</fa>
+   <fi>LXDE-työpöydän perusasennus</fi>
    <fr>Installation de base du bureau LXDE</fr>
+   <he_IL>basic install of LXDE</he_IL>
    <hi>basic install of LXDE</hi>
    <hr>basic install of LXDE</hr>
    <hu>basic install of LXDE</hu>
+   <id>basic install of LXDE</id>
    <is>basic install of LXDE</is>
    <it>installazione base di LXDE</it>
+   <ja_JP>basic install of LXDE</ja_JP>
    <ja>basic install of LXDE</ja>
    <kk>basic install of LXDE</kk>
+   <ko>basic install of LXDE</ko>
    <lt>basic install of LXDE</lt>
+   <mk>basic install of LXDE</mk>
+   <nb>basic install of LXDE</nb>
    <nl>basisinstallatie van LXDE</nl>
    <pl>basic install of LXDE</pl>
    <pt_BR>basic install of LXDE</pt_BR>
@@ -35,10 +46,13 @@ LXDE
    <ro>basic install of LXDE</ro>
    <ru>Базовая установка LXDE</ru>
    <sk>basic install of LXDE</sk>
+   <sl>basic install of LXDE</sl>
    <sq>basic install of LXDE</sq>
+   <sr>basic install of LXDE</sr>
    <sv>enkel installation av LXDE</sv>
    <tr>basic install of LXDE</tr>
-   <uk>basic install of LXDE</uk>
+   <uk>базовий набір стільниці LXDE</uk>
+   <zh_CN>basic install of LXDE</zh_CN>
    <zh_TW>basic install of LXDE</zh_TW>
 </description>
 

@@ -11,23 +11,34 @@ Remote Access
 
 <description>
    <am>Remote access help app from antiX</am>
+   <ar>Remote access help app from antiX</ar>
+   <bg>Remote access help app from antiX</bg>
    <ca>Eina d'ajuda d'accés remot d'antiX</ca>
    <cs>Remote access help app from antiX</cs>
-   <da>Remote access help app from antiX</da>
+   <da>Fjernadgang hjælpeprogram til antiX</da>
    <de>Anwendungshilfe von antiX für die Fernwartung</de>
    <el>Εφαρμογή απομακρυσμένης πρόσβασης από το antiX</el>
    <en>Remote access help app from antiX</en>
    <es>Aplicación de ayuda de acceso remoto desde antiX</es>
+   <et>Remote access help app from antiX</et>
+   <eu>Remote access help app from antiX</eu>
+   <fa>Remote access help app from antiX</fa>
    <fi>Remote access help app from antiX</fi>
    <fr>Application d'aide pour l'accès à distance d'antiX</fr>
+   <he_IL>Remote access help app from antiX</he_IL>
    <hi>Remote access help app from antiX</hi>
    <hr>Remote access help app from antiX</hr>
    <hu>Remote access help app from antiX</hu>
+   <id>Remote access help app from antiX</id>
    <is>Remote access help app from antiX</is>
    <it>App da antiX, che permette un accesso remoto</it>
+   <ja_JP>Remote access help app from antiX</ja_JP>
    <ja>Remote access help app from antiX</ja>
    <kk>Remote access help app from antiX</kk>
+   <ko>Remote access help app from antiX</ko>
    <lt>Nuotolinės prieigos pagalbos programa iš antiX</lt>
+   <mk>Remote access help app from antiX</mk>
+   <nb>Remote access help app from antiX</nb>
    <nl>Afstand toegankelijke hulp app van antiX</nl>
    <pl>Remote access help app from antiX</pl>
    <pt_BR>Aplicação do antiX para ajuda por acesso remoto</pt_BR>
@@ -35,10 +46,13 @@ Remote Access
    <ro>Remote access help app from antiX</ro>
    <ru>Remote access help app from antiX</ru>
    <sk>Remote access help app from antiX</sk>
+   <sl>Remote access help app from antiX</sl>
    <sq>Remote access help app from antiX</sq>
+   <sr>Remote access help app from antiX</sr>
    <sv>Hjälp-app för fjärråtkomst från antiX</sv>
    <tr>Remote access help app from antiX</tr>
-   <uk>Remote access help app from antiX</uk>
+   <uk>Програма віддаленої підтримки від antiX</uk>
+   <zh_CN>Remote access help app from antiX</zh_CN>
    <zh_TW>Remote access help app from antiX</zh_TW>
 </description>
 

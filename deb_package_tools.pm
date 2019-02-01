@@ -11,23 +11,34 @@ deb packaging tools
 
 <description>
    <am>tools for creation of deb packages</am>
+   <ar>tools for creation of deb packages</ar>
+   <bg>tools for creation of deb packages</bg>
    <ca>eines per a la creació de paquets deb</ca>
    <cs>tools for creation of deb packages</cs>
-   <da>tools for creation of deb packages</da>
+   <da>værktøjer til at oprette deb-pakker</da>
    <de>Werkzeuge zur Erstellung von Deb-Paketen</de>
    <el>εργαλεία για τη δημιουργία πακέτων deb</el>
    <en>tools for creation of deb packages</en>
    <es>Herramientas para la creación de paquetes deb</es>
-   <fi>tools for creation of deb packages</fi>
+   <et>tools for creation of deb packages</et>
+   <eu>tools for creation of deb packages</eu>
+   <fa>tools for creation of deb packages</fa>
+   <fi>*deb pakettien luontityökalu</fi>
    <fr>Outils pour la création de paquets .deb</fr>
+   <he_IL>tools for creation of deb packages</he_IL>
    <hi>tools for creation of deb packages</hi>
    <hr>tools for creation of deb packages</hr>
    <hu>tools for creation of deb packages</hu>
+   <id>tools for creation of deb packages</id>
    <is>tools for creation of deb packages</is>
    <it>Strumenti per la creazione di pacchetti deb</it>
+   <ja_JP>tools for creation of deb packages</ja_JP>
    <ja>tools for creation of deb packages</ja>
    <kk>tools for creation of deb packages</kk>
+   <ko>tools for creation of deb packages</ko>
    <lt>įrankiai, skirti deb paketų kūrimui</lt>
+   <mk>tools for creation of deb packages</mk>
+   <nb>tools for creation of deb packages</nb>
    <nl>gereedschappen voor het maken van deb pakketten</nl>
    <pl>tools for creation of deb packages</pl>
    <pt_BR>Ferramentas para criação de Pacotes deb</pt_BR>
@@ -35,10 +46,13 @@ deb packaging tools
    <ro>tools for creation of deb packages</ro>
    <ru>Инструменты для создания deb пакетов</ru>
    <sk>tools for creation of deb packages</sk>
+   <sl>tools for creation of deb packages</sl>
    <sq>tools for creation of deb packages</sq>
+   <sr>tools for creation of deb packages</sr>
    <sv>verktyg för att skapa deb paket</sv>
    <tr>tools for creation of deb packages</tr>
-   <uk>tools for creation of deb packages</uk>
+   <uk>утиліти для створення  deb пакунків</uk>
+   <zh_CN>tools for creation of deb packages</zh_CN>
    <zh_TW>tools for creation of deb packages</zh_TW>
 </description>
 

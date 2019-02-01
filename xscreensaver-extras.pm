@@ -11,34 +11,48 @@ additional screensavers
 
 <description>
    <am>extra screensavers (requires xscreensaver)</am>
+   <ar>extra screensavers (requires xscreensaver)</ar>
+   <bg>extra screensavers (requires xscreensaver)</bg>
    <ca>extra screensavers (requires xscreensaver)</ca>
    <cs>extra screensavers (requires xscreensaver)</cs>
-   <da>extra screensavers (requires xscreensaver)</da>
-   <de>extra screensavers (requires xscreensaver)</de>
-   <el>extra screensavers (requires xscreensaver)</el>
+   <da>ekstra pauseskærme (kræver xscreensaver)</da>
+   <de>zusätzliche Bildschirmschoner (xscreensaver erforderlich)</de>
+   <el>επιπλέον προφύλαξη οθόνης (απαιτεί xscreensaver)</el>
    <en>extra screensavers (requires xscreensaver)</en>
    <es>extra screensavers (requires xscreensaver)</es>
+   <et>extra screensavers (requires xscreensaver)</et>
+   <eu>extra screensavers (requires xscreensaver)</eu>
+   <fa>extra screensavers (requires xscreensaver)</fa>
    <fi>extra screensavers (requires xscreensaver)</fi>
-   <fr>extra screensavers (requires xscreensaver)</fr>
+   <fr>écrans de veille supplémentaires (requiert xscreensaver)</fr>
+   <he_IL>extra screensavers (requires xscreensaver)</he_IL>
    <hi>extra screensavers (requires xscreensaver)</hi>
    <hr>extra screensavers (requires xscreensaver)</hr>
    <hu>extra screensavers (requires xscreensaver)</hu>
+   <id>extra screensavers (requires xscreensaver)</id>
    <is>extra screensavers (requires xscreensaver)</is>
-   <it>extra screensavers (requires xscreensaver)</it>
+   <it>salvaschermi extra (richiede xscreensaver)</it>
+   <ja_JP>extra screensavers (requires xscreensaver)</ja_JP>
    <ja>extra screensavers (requires xscreensaver)</ja>
    <kk>extra screensavers (requires xscreensaver)</kk>
+   <ko>extra screensavers (requires xscreensaver)</ko>
    <lt>extra screensavers (requires xscreensaver)</lt>
-   <nl>extra screensavers (requires xscreensaver)</nl>
+   <mk>extra screensavers (requires xscreensaver)</mk>
+   <nb>extra screensavers (requires xscreensaver)</nb>
+   <nl>extra screensavers (vereist xscreensaver)</nl>
    <pl>extra screensavers (requires xscreensaver)</pl>
    <pt_BR>extra screensavers (requires xscreensaver)</pt_BR>
    <pt>extra screensavers (requires xscreensaver)</pt>
    <ro>extra screensavers (requires xscreensaver)</ro>
-   <ru>extra screensavers (requires xscreensaver)</ru>
+   <ru>дополнительные заставки экрана (требует установленного xscreensaver)</ru>
    <sk>extra screensavers (requires xscreensaver)</sk>
+   <sl>extra screensavers (requires xscreensaver)</sl>
    <sq>extra screensavers (requires xscreensaver)</sq>
+   <sr>extra screensavers (requires xscreensaver)</sr>
    <sv>extra screensavers (requires xscreensaver)</sv>
    <tr>extra screensavers (requires xscreensaver)</tr>
    <uk>extra screensavers (requires xscreensaver)</uk>
+   <zh_CN>extra screensavers (requires xscreensaver)</zh_CN>
    <zh_TW>extra screensavers (requires xscreensaver)</zh_TW>
 </description>
 

@@ -11,6 +11,8 @@ Dutch_Libreoffice
 
 <description>
    <am>Dutch LibreOffice Language Meta-Package</am>
+   <ar>Dutch LibreOffice Language Meta-Package</ar>
+   <bg>Dutch LibreOffice Language Meta-Package</bg>
    <ca>Meta-paquet per LibreOffice en Holandès</ca>
    <cs>Dutch LibreOffice Language Meta-Package</cs>
    <da>Hollandsk LibreOffice sprog-metapakke</da>
@@ -18,16 +20,25 @@ Dutch_Libreoffice
    <el>Libreoffice για ολλανδική γλώσσα</el>
    <en>Dutch LibreOffice Language Meta-Package</en>
    <es>Dutch LibreOffice Language Meta-Package</es>
+   <et>Dutch LibreOffice Language Meta-Package</et>
+   <eu>Dutch LibreOffice Language Meta-Package</eu>
+   <fa>Dutch LibreOffice Language Meta-Package</fa>
    <fi>Dutch LibreOffice Language Meta-Package</fi>
    <fr>Méta-Paquet langue néerlandaise pour LibreOffice</fr>
+   <he_IL>Dutch LibreOffice Language Meta-Package</he_IL>
    <hi>Dutch LibreOffice Language Meta-Package</hi>
    <hr>Dutch LibreOffice Language Meta-Package</hr>
    <hu>Dutch LibreOffice Language Meta-Package</hu>
+   <id>Dutch LibreOffice Language Meta-Package</id>
    <is>Dutch LibreOffice Language Meta-Package</is>
    <it>Meta-pacchetto della lingua olandese per LibreOffice</it>
+   <ja_JP>Dutch LibreOffice Language Meta-Package</ja_JP>
    <ja>Dutch LibreOffice Language Meta-Package</ja>
    <kk>Dutch LibreOffice Language Meta-Package</kk>
+   <ko>Dutch LibreOffice Language Meta-Package</ko>
    <lt>Dutch LibreOffice Language Meta-Package</lt>
+   <mk>Dutch LibreOffice Language Meta-Package</mk>
+   <nb>Dutch LibreOffice Language Meta-Package</nb>
    <nl>Nederlandse LibreOffice Taal Meta-Pakket</nl>
    <pl>Dutch LibreOffice Language Meta-Package</pl>
    <pt_BR>Holandês Meta-Pacote de Idioma para LibreOffice</pt_BR>
@@ -35,10 +46,13 @@ Dutch_Libreoffice
    <ro>Dutch LibreOffice Language Meta-Package</ro>
    <ru>Dutch LibreOffice Language Meta-Package</ru>
    <sk>Dutch LibreOffice Language Meta-Package</sk>
+   <sl>Dutch LibreOffice Language Meta-Package</sl>
    <sq>Dutch LibreOffice Language Meta-Package</sq>
+   <sr>Dutch LibreOffice Language Meta-Package</sr>
    <sv>Holländska LibreOffice Språk Meta-Paket</sv>
    <tr>Dutch LibreOffice Language Meta-Package</tr>
    <uk>Dutch LibreOffice Language Meta-Package</uk>
+   <zh_CN>Dutch LibreOffice Language Meta-Package</zh_CN>
    <zh_TW>Dutch LibreOffice Language Meta-Package</zh_TW>
 </description>
 

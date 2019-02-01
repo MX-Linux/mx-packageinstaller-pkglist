@@ -11,34 +11,48 @@ MX 17 Wallpapers
 
 <description>
    <am>backgrounds originally supplied with MX 17</am>
+   <ar>backgrounds originally supplied with MX 17</ar>
+   <bg>backgrounds originally supplied with MX 17</bg>
    <ca>backgrounds originally supplied with MX 17</ca>
    <cs>backgrounds originally supplied with MX 17</cs>
-   <da>backgrounds originally supplied with MX 17</da>
+   <da>baggrunde fra MX 17</da>
    <de>Bildschirmhintergründe, die ursprünglich mit MX 17 geliefert wurden</de>
    <el>επιφάνεια εργασίας που παρέχεται αρχικά με MX 17</el>
    <en>backgrounds originally supplied with MX 17</en>
    <es>backgrounds originally supplied with MX 17</es>
+   <et>backgrounds originally supplied with MX 17</et>
+   <eu>backgrounds originally supplied with MX 17</eu>
+   <fa>backgrounds originally supplied with MX 17</fa>
    <fi>backgrounds originally supplied with MX 17</fi>
-   <fr>Fonds d'écran MX 17</fr>
+   <fr>Fonds d'écran initialement fournis avec MX 17</fr>
+   <he_IL>backgrounds originally supplied with MX 17</he_IL>
    <hi>backgrounds originally supplied with MX 17</hi>
    <hr>backgrounds originally supplied with MX 17</hr>
    <hu>backgrounds originally supplied with MX 17</hu>
+   <id>backgrounds originally supplied with MX 17</id>
    <is>backgrounds originally supplied with MX 17</is>
    <it>sfondi originariamente forniti con MX 17</it>
+   <ja_JP>backgrounds originally supplied with MX 17</ja_JP>
    <ja>backgrounds originally supplied with MX 17</ja>
    <kk>backgrounds originally supplied with MX 17</kk>
+   <ko>backgrounds originally supplied with MX 17</ko>
    <lt>backgrounds originally supplied with MX 17</lt>
+   <mk>backgrounds originally supplied with MX 17</mk>
+   <nb>backgrounds originally supplied with MX 17</nb>
    <nl>achtergronden oorspronkelijk geleverd met MX 17</nl>
    <pl>backgrounds originally supplied with MX 17</pl>
    <pt_BR>backgrounds originally supplied with MX 17</pt_BR>
-   <pt>Imagens de fundo originalmente incluídas no MX 17</pt>
+   <pt>backgrounds originally supplied with MX 17</pt>
    <ro>backgrounds originally supplied with MX 17</ro>
-   <ru>Обои использованные для дистрибутива MX 17</ru>
+   <ru>Обои первоначально входившие в MX 17</ru>
    <sk>backgrounds originally supplied with MX 17</sk>
+   <sl>backgrounds originally supplied with MX 17</sl>
    <sq>backgrounds originally supplied with MX 17</sq>
-   <sv>wallpapers ursprungligen medföljande MX 17</sv>
+   <sr>backgrounds originally supplied with MX 17</sr>
+   <sv>backgrounds originally supplied with MX 17</sv>
    <tr>backgrounds originally supplied with MX 17</tr>
    <uk>backgrounds originally supplied with MX 17</uk>
+   <zh_CN>backgrounds originally supplied with MX 17</zh_CN>
    <zh_TW>backgrounds originally supplied with MX 17</zh_TW>
 </description>
 

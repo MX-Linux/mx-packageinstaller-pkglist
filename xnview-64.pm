@@ -11,34 +11,48 @@ XnView
 
 <description>
    <am>picture viewer, browser and converter</am>
+   <ar>picture viewer, browser and converter</ar>
+   <bg>picture viewer, browser and converter</bg>
    <ca>picture viewer, browser and converter</ca>
    <cs>picture viewer, browser and converter</cs>
-   <da>picture viewer, browser and converter</da>
-   <de>picture viewer, browser and converter</de>
-   <el>picture viewer, browser and converter</el>
+   <da>billedfremviser, browser og konverter</da>
+   <de>Bildbetrachter, -browser und -konverter</de>
+   <el>πρόγραμμα προβολής εικόνων, πρόγραμμα περιήγησης και μετατροπέα</el>
    <en>picture viewer, browser and converter</en>
    <es>picture viewer, browser and converter</es>
+   <et>picture viewer, browser and converter</et>
+   <eu>picture viewer, browser and converter</eu>
+   <fa>picture viewer, browser and converter</fa>
    <fi>picture viewer, browser and converter</fi>
-   <fr>picture viewer, browser and converter</fr>
+   <fr>Visionner, feuilleter et convertir des images</fr>
+   <he_IL>picture viewer, browser and converter</he_IL>
    <hi>picture viewer, browser and converter</hi>
    <hr>picture viewer, browser and converter</hr>
    <hu>picture viewer, browser and converter</hu>
+   <id>picture viewer, browser and converter</id>
    <is>picture viewer, browser and converter</is>
-   <it>picture viewer, browser and converter</it>
+   <it>visualizzatore e convertitore di immagini</it>
+   <ja_JP>picture viewer, browser and converter</ja_JP>
    <ja>picture viewer, browser and converter</ja>
    <kk>picture viewer, browser and converter</kk>
+   <ko>picture viewer, browser and converter</ko>
    <lt>picture viewer, browser and converter</lt>
-   <nl>picture viewer, browser and converter</nl>
+   <mk>picture viewer, browser and converter</mk>
+   <nb>picture viewer, browser and converter</nb>
+   <nl>afbeelding bekijker, verkenner en omzetter</nl>
    <pl>picture viewer, browser and converter</pl>
    <pt_BR>picture viewer, browser and converter</pt_BR>
    <pt>picture viewer, browser and converter</pt>
    <ro>picture viewer, browser and converter</ro>
-   <ru>picture viewer, browser and converter</ru>
+   <ru>Просмотрщик изображений, каталогизатор и конвертер</ru>
    <sk>picture viewer, browser and converter</sk>
+   <sl>picture viewer, browser and converter</sl>
    <sq>picture viewer, browser and converter</sq>
+   <sr>picture viewer, browser and converter</sr>
    <sv>picture viewer, browser and converter</sv>
    <tr>picture viewer, browser and converter</tr>
    <uk>picture viewer, browser and converter</uk>
+   <zh_CN>picture viewer, browser and converter</zh_CN>
    <zh_TW>picture viewer, browser and converter</zh_TW>
 </description>
 

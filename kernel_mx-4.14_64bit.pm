@@ -11,23 +11,34 @@ MX 4.14
 
 <description>
    <am>MX 4.14 kernel Meltdown patched, 64 bit</am>
+   <ar>MX 4.14 kernel Meltdown patched, 64 bit</ar>
+   <bg>MX 4.14 kernel Meltdown patched, 64 bit</bg>
    <ca>Nucli de MX 4.14 64 bit, amb pedaç per Meltdown</ca>
    <cs>MX 4.14 kernel Meltdown patched, 64 bit</cs>
-   <da>MX 4.14 kernel Meltdown patched, 64 bit</da>
+   <da>MX 4.14 kerne meltdown-rettelse, 64 bit</da>
    <de>MX 4.14 Kernel Meltdown gepatcht, 64 Bit</de>
    <el>Ο πυρήνας MX 4.14 patched, 64 bit</el>
    <en>MX 4.14 kernel Meltdown patched, 64 bit</en>
    <es>MX 4.14 kernel Meltdown patched, 64 bit</es>
+   <et>MX 4.14 kernel Meltdown patched, 64 bit</et>
+   <eu>MX 4.14 kernel Meltdown patched, 64 bit</eu>
+   <fa>MX 4.14 kernel Meltdown patched, 64 bit</fa>
    <fi>MX 4.14 kernel Meltdown patched, 64 bit</fi>
    <fr>Noyau MX 4.14 correctifs Meltdown, 64 bit</fr>
+   <he_IL>MX 4.14 kernel Meltdown patched, 64 bit</he_IL>
    <hi>MX 4.14 kernel Meltdown patched, 64 bit</hi>
    <hr>MX 4.14 kernel Meltdown patched, 64 bit</hr>
    <hu>MX 4.14 kernel Meltdown patched, 64 bit</hu>
+   <id>MX 4.14 kernel Meltdown patched, 64 bit</id>
    <is>MX 4.14 kernel Meltdown patched, 64 bit</is>
    <it>MX 4.14 kernel con la patch per Meltdown, 64 bit</it>
+   <ja_JP>MX 4.14 kernel Meltdown patched, 64 bit</ja_JP>
    <ja>MX 4.14 kernel Meltdown patched, 64 bit</ja>
    <kk>MX 4.14 kernel Meltdown patched, 64 bit</kk>
+   <ko>MX 4.14 kernel Meltdown patched, 64 bit</ko>
    <lt>MX 4.14 kernel Meltdown patched, 64 bit</lt>
+   <mk>MX 4.14 kernel Meltdown patched, 64 bit</mk>
+   <nb>MX 4.14 kernel Meltdown patched, 64 bit</nb>
    <nl>MX 4.14 kernel Meltdown patched, 64 bit</nl>
    <pl>MX 4.14 kernel Meltdown patched, 64 bit</pl>
    <pt_BR>MX 4.14 kernel Meltdown patched, 64 bit</pt_BR>
@@ -35,10 +46,13 @@ MX 4.14
    <ro>MX 4.14 kernel Meltdown patched, 64 bit</ro>
    <ru>MX ядро 4.14 с патчем от Meltdown, 64 bit</ru>
    <sk>MX 4.14 kernel Meltdown patched, 64 bit</sk>
+   <sl>MX 4.14 kernel Meltdown patched, 64 bit</sl>
    <sq>MX 4.14 kernel Meltdown patched, 64 bit</sq>
+   <sr>MX 4.14 kernel Meltdown patched, 64 bit</sr>
    <sv>MX 4.14 kärna Meltdown patched, 64 bit</sv>
    <tr>MX 4.14 kernel Meltdown patched, 64 bit</tr>
    <uk>MX 4.14 kernel Meltdown patched, 64 bit</uk>
+   <zh_CN>MX 4.14 kernel Meltdown patched, 64 bit</zh_CN>
    <zh_TW>MX 4.14 kernel Meltdown patched, 64 bit</zh_TW>
 </description>
 

@@ -11,6 +11,8 @@ German
 
 <description>
    <am>German Language Meta-Package</am>
+   <ar>German Language Meta-Package</ar>
+   <bg>German Language Meta-Package</bg>
    <ca>Meta-paquet de llengua alemanya</ca>
    <cs>German Language Meta-Package</cs>
    <da>Tysk sprog-metapakke</da>
@@ -18,16 +20,25 @@ German
    <el>Γερμανική γλώσσα</el>
    <en>German Language Meta-Package</en>
    <es>German Language Meta-Package</es>
+   <et>German Language Meta-Package</et>
+   <eu>German Language Meta-Package</eu>
+   <fa>German Language Meta-Package</fa>
    <fi>German Language Meta-Package</fi>
    <fr>Méta-paquet pour langue allemande</fr>
+   <he_IL>German Language Meta-Package</he_IL>
    <hi>German Language Meta-Package</hi>
    <hr>German Language Meta-Package</hr>
    <hu>German Language Meta-Package</hu>
+   <id>German Language Meta-Package</id>
    <is>German Language Meta-Package</is>
    <it>Meta-pacchetto della lingua tedesca</it>
+   <ja_JP>German Language Meta-Package</ja_JP>
    <ja>German Language Meta-Package</ja>
    <kk>German Language Meta-Package</kk>
+   <ko>German Language Meta-Package</ko>
    <lt>German Language Meta-Package</lt>
+   <mk>German Language Meta-Package</mk>
+   <nb>German Language Meta-Package</nb>
    <nl>Duitse Taal Meta-Pakket</nl>
    <pl>German Language Meta-Package</pl>
    <pt_BR>Alemão Meta-Pacote de Idioma</pt_BR>
@@ -35,10 +46,13 @@ German
    <ro>German Language Meta-Package</ro>
    <ru>German Language Meta-Package</ru>
    <sk>German Language Meta-Package</sk>
+   <sl>German Language Meta-Package</sl>
    <sq>German Language Meta-Package</sq>
+   <sr>German Language Meta-Package</sr>
    <sv>Tyskt Språk Meta-Paket</sv>
    <tr>German Language Meta-Package</tr>
    <uk>German Language Meta-Package</uk>
+   <zh_CN>German Language Meta-Package</zh_CN>
    <zh_TW>German Language Meta-Package</zh_TW>
 </description>
 

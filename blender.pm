@@ -11,23 +11,34 @@ Blender
 
 <description>
    <am>a free and open source 3D animation suite</am>
+   <ar>a free and open source 3D animation suite</ar>
+   <bg>a free and open source 3D animation suite</bg>
    <ca>Suite d'animació 3D lliure i de codi obert</ca>
    <cs>a free and open source 3D animation suite</cs>
-   <da>a free and open source 3D animation suite</da>
+   <da>en fri og open source 3D-animationspakke</da>
    <de>Eine kostenlose und quelloffene 3D-Animationssuite</de>
    <el>μια ελεύθερη σουίτα 3D animation</el>
    <en>a free and open source 3D animation suite</en>
-   <es>una suite de libre y código libre de animación en 3D</es>
+   <es>una suite de animación en 3D libre y de código abierto</es>
+   <et>a free and open source 3D animation suite</et>
+   <eu>a free and open source 3D animation suite</eu>
+   <fa>a free and open source 3D animation suite</fa>
    <fi>a free and open source 3D animation suite</fi>
    <fr>Une suite logicielle libre et open source d'animation 3D</fr>
+   <he_IL>a free and open source 3D animation suite</he_IL>
    <hi>a free and open source 3D animation suite</hi>
    <hr>a free and open source 3D animation suite</hr>
    <hu>a free and open source 3D animation suite</hu>
+   <id>a free and open source 3D animation suite</id>
    <is>a free and open source 3D animation suite</is>
    <it>Programma gratuito ed open source di animazione 3D</it>
+   <ja_JP>a free and open source 3D animation suite</ja_JP>
    <ja>a free and open source 3D animation suite</ja>
    <kk>a free and open source 3D animation suite</kk>
+   <ko>a free and open source 3D animation suite</ko>
    <lt>a free and open source 3D animation suite</lt>
+   <mk>a free and open source 3D animation suite</mk>
+   <nb>a free and open source 3D animation suite</nb>
    <nl>een gratis en open source 3D animatie suite</nl>
    <pl>a free and open source 3D animation suite</pl>
    <pt_BR>Conjunto de animação 3D livre e de fonte aberta</pt_BR>
@@ -35,10 +46,13 @@ Blender
    <ro>a free and open source 3D animation suite</ro>
    <ru>Бесплатная среда 3D анимации с открытым кодом</ru>
    <sk>a free and open source 3D animation suite</sk>
+   <sl>a free and open source 3D animation suite</sl>
    <sq>a free and open source 3D animation suite</sq>
+   <sr>a free and open source 3D animation suite</sr>
    <sv>en fri och öppen källkods 3D animationssvit</sv>
    <tr>a free and open source 3D animation suite</tr>
-   <uk>a free and open source 3D animation suite</uk>
+   <uk>вільний та відкритий пакет для роботи з 3D графікою</uk>
+   <zh_CN>a free and open source 3D animation suite</zh_CN>
    <zh_TW>a free and open source 3D animation suite</zh_TW>
 </description>
 

@@ -11,6 +11,8 @@ Arabic_Thunderbird
 
 <description>
    <am>Arabic localisation of Thunderbird</am>
+   <ar>Arabic localisation of Thunderbird</ar>
+   <bg>Arabic localisation of Thunderbird</bg>
    <ca>Localització de Thunderbird en Àrab</ca>
    <cs>Arabic localisation of Thunderbird</cs>
    <da>Arabisk oversættelse af Thunderbird</da>
@@ -18,16 +20,25 @@ Arabic_Thunderbird
    <el>Αραβικός εντοπισμός του Thunderbird</el>
    <en>Arabic localisation of Thunderbird</en>
    <es>Localización Árabe de Thunderbird</es>
+   <et>Arabic localisation of Thunderbird</et>
+   <eu>Arabic localisation of Thunderbird</eu>
+   <fa>Arabic localisation of Thunderbird</fa>
    <fi>Arabic localisation of Thunderbird</fi>
    <fr>Localisation arabe pour Thunderbird</fr>
+   <he_IL>Arabic localisation of Thunderbird</he_IL>
    <hi>Arabic localisation of Thunderbird</hi>
    <hr>Arapska lokalizacija Thunderbirda</hr>
    <hu>Arabic localisation of Thunderbird</hu>
+   <id>Arabic localisation of Thunderbird</id>
    <is>Arabic localisation of Thunderbird</is>
    <it>Localizzazione araba di Thunderbird</it>
+   <ja_JP>Arabic localisation of Thunderbird</ja_JP>
    <ja>Arabic localisation of Thunderbird</ja>
    <kk>Arabic localisation of Thunderbird</kk>
+   <ko>Arabic localisation of Thunderbird</ko>
    <lt>Arabic localisation of Thunderbird</lt>
+   <mk>Arabic localisation of Thunderbird</mk>
+   <nb>Arabic localisation of Thunderbird</nb>
    <nl>Arabische lokalisatie van Thunderbird</nl>
    <pl>Arabic localisation of Thunderbird</pl>
    <pt_BR>Árabe Localização para Thunderbird</pt_BR>
@@ -35,10 +46,13 @@ Arabic_Thunderbird
    <ro>Arabic localisation of Thunderbird</ro>
    <ru>Arabic localisation of Thunderbird</ru>
    <sk>Arabic localisation of Thunderbird</sk>
+   <sl>Arabic localisation of Thunderbird</sl>
    <sq>Arabic localisation of Thunderbird</sq>
+   <sr>Arabic localisation of Thunderbird</sr>
    <sv>Arabisk lokalisering av Thunderbird</sv>
    <tr>Arabic localisation of Thunderbird</tr>
    <uk>Arabic localisation of Thunderbird</uk>
+   <zh_CN>Arabic localisation of Thunderbird</zh_CN>
    <zh_TW>Arabic localisation of Thunderbird</zh_TW>
 </description>
 

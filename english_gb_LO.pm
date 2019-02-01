@@ -11,6 +11,8 @@ GB_English_Libreoffice
 
 <description>
    <am>GB English Help for LibreOffice</am>
+   <ar>GB English Help for LibreOffice</ar>
+   <bg>GB English Help for LibreOffice</bg>
    <ca>Ajuda en anglès (UK) per LibreOffice</ca>
    <cs>GB English Help for LibreOffice</cs>
    <da>Engelsk (storbritannien) hjælp til LibreOffice</da>
@@ -18,16 +20,25 @@ GB_English_Libreoffice
    <el>Βοήθεια για το LibreOffice στα Αγγλικά (ΜΒ)</el>
    <en>GB English Help for LibreOffice</en>
    <es>GB English Help for LibreOffice</es>
+   <et>GB English Help for LibreOffice</et>
+   <eu>GB English Help for LibreOffice</eu>
+   <fa>GB English Help for LibreOffice</fa>
    <fi>GB English Help for LibreOffice</fi>
    <fr>Aide anglais_GB pour LibreOffice</fr>
+   <he_IL>GB English Help for LibreOffice</he_IL>
    <hi>GB English Help for LibreOffice</hi>
    <hr>GB English Help for LibreOffice</hr>
    <hu>GB English Help for LibreOffice</hu>
+   <id>GB English Help for LibreOffice</id>
    <is>GB English Help for LibreOffice</is>
    <it>Guida in Inglese GB per LibreOffice</it>
+   <ja_JP>GB English Help for LibreOffice</ja_JP>
    <ja>GB English Help for LibreOffice</ja>
    <kk>GB English Help for LibreOffice</kk>
+   <ko>GB English Help for LibreOffice</ko>
    <lt>GB English Help for LibreOffice</lt>
+   <mk>GB English Help for LibreOffice</mk>
+   <nb>GB English Help for LibreOffice</nb>
    <nl>GB Engelse Hulp voor LibreOffice</nl>
    <pl>GB English Help for LibreOffice</pl>
    <pt_BR>GB Inglês Help para LibreOffice</pt_BR>
@@ -35,10 +46,13 @@ GB_English_Libreoffice
    <ro>GB English Help for LibreOffice</ro>
    <ru>GB English Help for LibreOffice</ru>
    <sk>GB English Help for LibreOffice</sk>
+   <sl>GB English Help for LibreOffice</sl>
    <sq>GB English Help for LibreOffice</sq>
+   <sr>GB English Help for LibreOffice</sr>
    <sv>GB Engelsk Hjälp för LibreOffice</sv>
    <tr>GB English Help for LibreOffice</tr>
-   <uk>GB English Help for LibreOffice</uk>
+   <uk>GB English довідка LibreOffice</uk>
+   <zh_CN>GB English Help for LibreOffice</zh_CN>
    <zh_TW>GB English Help for LibreOffice</zh_TW>
 </description>
 

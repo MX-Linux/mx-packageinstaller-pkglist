@@ -11,23 +11,34 @@ Dropbox
 
 <description>
    <am>Dropbox file sync utility</am>
+   <ar>Dropbox file sync utility</ar>
+   <bg>Dropbox file sync utility</bg>
    <ca>Utilitat de sincronització de fitxers amb Dropbox</ca>
    <cs>Dropbox file sync utility</cs>
-   <da>Dropbox file sync utility</da>
+   <da>Dropbox-filsynkroniseringsredskab</da>
    <de>Dropbox Dateisynchronisationsprogramm</de>
    <el>Βοηθητικό πρόγραμμα συγχρονισμού αρχείων Dropbox</el>
    <en>Dropbox file sync utility</en>
    <es>Sincronizar archivos con Dropbox</es>
+   <et>Dropbox file sync utility</et>
+   <eu>Dropbox file sync utility</eu>
+   <fa>Dropbox file sync utility</fa>
    <fi>Dropbox file sync utility</fi>
    <fr>Utilitaire de synchronisation de fichier Dropbox</fr>
+   <he_IL>Dropbox file sync utility</he_IL>
    <hi>Dropbox file sync utility</hi>
    <hr>Dropbox file sync utility</hr>
    <hu>Dropbox file sync utility</hu>
+   <id>Dropbox file sync utility</id>
    <is>Dropbox file sync utility</is>
    <it>Utility di sincronizzazione dei file</it>
+   <ja_JP>Dropbox file sync utility</ja_JP>
    <ja>Dropbox file sync utility</ja>
    <kk>Dropbox file sync utility</kk>
+   <ko>Dropbox file sync utility</ko>
    <lt>Dropbox failų sinchronizavimo paslaugų programa</lt>
+   <mk>Dropbox file sync utility</mk>
+   <nb>Dropbox file sync utility</nb>
    <nl>Dropbox bestand synchronisatie gereedschap</nl>
    <pl>Dropbox file sync utility</pl>
    <pt_BR>Dropbox file sync utility</pt_BR>
@@ -35,10 +46,13 @@ Dropbox
    <ro>Dropbox file sync utility</ro>
    <ru>Утилита синхронизации файлов с Dropbox</ru>
    <sk>Dropbox file sync utility</sk>
+   <sl>Dropbox file sync utility</sl>
    <sq>Dropbox file sync utility</sq>
+   <sr>Dropbox file sync utility</sr>
    <sv>Dropbox filsynkroniserings-redskap</sv>
    <tr>Dropbox file sync utility</tr>
-   <uk>Dropbox file sync utility</uk>
+   <uk>утиліта синхронізації файлів Dropbox</uk>
+   <zh_CN>Dropbox file sync utility</zh_CN>
    <zh_TW>Dropbox file sync utility</zh_TW>
 </description>
 

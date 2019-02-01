@@ -11,34 +11,48 @@ atom
 
 <description>
    <am>atom text editor IDE</am>
+   <ar>atom text editor IDE</ar>
+   <bg>atom text editor IDE</bg>
    <ca>atom text editor IDE</ca>
    <cs>atom text editor IDE</cs>
-   <da>atom text editor IDE</da>
-   <de>atom text editor IDE</de>
-   <el>atom text editor IDE</el>
+   <da>atom-tekstredigerings-IDE</da>
+   <de>IDE des Atom Textprogramms</de>
+   <el>πρόγραμμα επεξεργασίας κειμένου IDE</el>
    <en>atom text editor IDE</en>
    <es>atom text editor IDE</es>
+   <et>atom text editor IDE</et>
+   <eu>atom text editor IDE</eu>
+   <fa>atom text editor IDE</fa>
    <fi>atom text editor IDE</fi>
-   <fr>atom text editor IDE</fr>
+   <fr>IDE pour l'éditeur de texte Atom</fr>
+   <he_IL>atom text editor IDE</he_IL>
    <hi>atom text editor IDE</hi>
    <hr>atom text editor IDE</hr>
    <hu>atom text editor IDE</hu>
+   <id>atom text editor IDE</id>
    <is>atom text editor IDE</is>
-   <it>atom text editor IDE</it>
+   <it>atom editor di testo IDE</it>
+   <ja_JP>atom text editor IDE</ja_JP>
    <ja>atom text editor IDE</ja>
    <kk>atom text editor IDE</kk>
+   <ko>atom text editor IDE</ko>
    <lt>atom text editor IDE</lt>
+   <mk>atom text editor IDE</mk>
+   <nb>atom text editor IDE</nb>
    <nl>atom text editor IDE</nl>
    <pl>atom text editor IDE</pl>
    <pt_BR>atom text editor IDE</pt_BR>
    <pt>atom text editor IDE</pt>
    <ro>atom text editor IDE</ro>
-   <ru>atom text editor IDE</ru>
+   <ru>Текстовый редактор и среда разработки Atom</ru>
    <sk>atom text editor IDE</sk>
+   <sl>atom text editor IDE</sl>
    <sq>atom text editor IDE</sq>
+   <sr>atom text editor IDE</sr>
    <sv>atom text editor IDE</sv>
    <tr>atom text editor IDE</tr>
    <uk>atom text editor IDE</uk>
+   <zh_CN>atom text editor IDE</zh_CN>
    <zh_TW>atom text editor IDE</zh_TW>
 </description>
 

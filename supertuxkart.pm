@@ -11,23 +11,34 @@ SuperTuxKart
 
 <description>
    <am>Mario kart style racing</am>
-   <ca>Mario kart style racing</ca>
+   <ar>Mario kart style racing</ar>
+   <bg>Mario kart style racing</bg>
+   <ca>Curses del tipus Mario Kart</ca>
    <cs>Mario kart style racing</cs>
-   <da>Mario kart style racing</da>
+   <da>Racerspil i stil med Mario kart</da>
    <de>Mario-Kart-Rennen</de>
    <el>Mario kart style racing</el>
    <en>Mario kart style racing</en>
-   <es>Mario kart style racing</es>
-   <fi>Mario kart style racing</fi>
+   <es>juego de carreras estilo Mario kart</es>
+   <et>Mario kart style racing</et>
+   <eu>Mario kart style racing</eu>
+   <fa>Mario kart style racing</fa>
+   <fi>Mario Kartin tyylinen kilpa-ajopeli</fi>
    <fr>Jeu de courses de type Mario-kart</fr>
+   <he_IL>Mario kart style racing</he_IL>
    <hi>Mario kart style racing</hi>
    <hr>Mario kart style racing</hr>
    <hu>Mario kart style racing</hu>
+   <id>Mario kart style racing</id>
    <is>Mario kart style racing</is>
    <it>gioco di corse con i kart stile SuperMario</it>
+   <ja_JP>Mario kart style racing</ja_JP>
    <ja>Mario kart style racing</ja>
    <kk>Mario kart style racing</kk>
+   <ko>Mario kart style racing</ko>
    <lt>Mario kart style racing</lt>
+   <mk>Mario kart style racing</mk>
+   <nb>Mario kart style racing</nb>
    <nl>Mario kart stijl racen</nl>
    <pl>Mario kart style racing</pl>
    <pt_BR>Mario kart style racing</pt_BR>
@@ -35,10 +46,13 @@ SuperTuxKart
    <ro>Mario kart style racing</ro>
    <ru>Гонки на картах в стиле Mario</ru>
    <sk>Mario kart style racing</sk>
+   <sl>Mario kart style racing</sl>
    <sq>Mario kart style racing</sq>
+   <sr>Mario kart style racing</sr>
    <sv>Mario kart stil racing</sv>
    <tr>Mario kart style racing</tr>
    <uk>Mario kart style racing</uk>
+   <zh_CN>Mario kart style racing</zh_CN>
    <zh_TW>Mario kart style racing</zh_TW>
 </description>
 

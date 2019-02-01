@@ -11,6 +11,8 @@ Italian_Firefox
 
 <description>
    <am>Italian localisation of Firefox</am>
+   <ar>Italian localisation of Firefox</ar>
+   <bg>Italian localisation of Firefox</bg>
    <ca>Localització de Firefox en Italià</ca>
    <cs>Italian localisation of Firefox</cs>
    <da>Italiensk oversættelse af Firefox</da>
@@ -18,16 +20,25 @@ Italian_Firefox
    <el>Ιταλικός εντοπισμός του Firefox</el>
    <en>Italian localisation of Firefox</en>
    <es>Italian localisation of Firefox</es>
+   <et>Italian localisation of Firefox</et>
+   <eu>Italian localisation of Firefox</eu>
+   <fa>Italian localisation of Firefox</fa>
    <fi>Italian localisation of Firefox</fi>
    <fr>Localisation italienne pour Firefox</fr>
+   <he_IL>Italian localisation of Firefox</he_IL>
    <hi>Italian localisation of Firefox</hi>
    <hr>Italian localisation of Firefox</hr>
    <hu>Italian localisation of Firefox</hu>
+   <id>Italian localisation of Firefox</id>
    <is>Italian localisation of Firefox</is>
    <it>Localizzazione italiana di Firefox</it>
+   <ja_JP>Italian localisation of Firefox</ja_JP>
    <ja>Italian localisation of Firefox</ja>
    <kk>Italian localisation of Firefox</kk>
+   <ko>Italian localisation of Firefox</ko>
    <lt>Italian localisation of Firefox</lt>
+   <mk>Italian localisation of Firefox</mk>
+   <nb>Italian localisation of Firefox</nb>
    <nl>Italiaanse lokalisatie van Firefox</nl>
    <pl>Italian localisation of Firefox</pl>
    <pt_BR>Italiano Localização para Firefox</pt_BR>
@@ -35,10 +46,13 @@ Italian_Firefox
    <ro>Italian localisation of Firefox</ro>
    <ru>Italian localisation of Firefox</ru>
    <sk>Italian localisation of Firefox</sk>
+   <sl>Italian localisation of Firefox</sl>
    <sq>Italian localisation of Firefox</sq>
+   <sr>Italian localisation of Firefox</sr>
    <sv>Italiensk lokalisering av Firefox </sv>
    <tr>Italian localisation of Firefox</tr>
-   <uk>Italian localisation of Firefox</uk>
+   <uk>Italian локалізація Firefox</uk>
+   <zh_CN>Italian localisation of Firefox</zh_CN>
    <zh_TW>Italian localisation of Firefox</zh_TW>
 </description>
 

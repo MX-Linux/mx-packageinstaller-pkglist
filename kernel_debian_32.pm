@@ -11,23 +11,34 @@ Debian 32 bit no-pae
 
 <description>
    <am>Default Debian 4.9 32bit linux kernel, no-PAE, single core</am>
+   <ar>Default Debian 4.9 32bit linux kernel, no-PAE, single core</ar>
+   <bg>Default Debian 4.9 32bit linux kernel, no-PAE, single core</bg>
    <ca>Nucli de Debian 4.9 32 bit sense PAE, single core</ca>
    <cs>Default Debian 4.9 32bit linux kernel, no-PAE, single core</cs>
-   <da>Default Debian 4.9 32bit linux kernel, no-PAE, single core</da>
+   <da>Standard Debian 4.9 32bit linux-kerne, uden PAE, én kerne</da>
    <de>Standard Debian 4.9 32bit Linux Kernel, no-PAE, Einzelkern</de>
    <el>Προκαθορισμένο Debian 4.9 32bit linux kernel, no-PAE, single core</el>
    <en>Default Debian 4.9 32bit linux kernel, no-PAE, single core</en>
    <es>Default Debian 4.9 32bit linux kernel, no-PAE, single core</es>
+   <et>Default Debian 4.9 32bit linux kernel, no-PAE, single core</et>
+   <eu>Default Debian 4.9 32bit linux kernel, no-PAE, single core</eu>
+   <fa>Default Debian 4.9 32bit linux kernel, no-PAE, single core</fa>
    <fi>Default Debian 4.9 32bit linux kernel, no-PAE, single core</fi>
    <fr>Noyau Debian 4.9 32bit no-PAE, single core</fr>
+   <he_IL>Default Debian 4.9 32bit linux kernel, no-PAE, single core</he_IL>
    <hi>Default Debian 4.9 32bit linux kernel, no-PAE, single core</hi>
    <hr>Default Debian 4.9 32bit linux kernel, no-PAE, single core</hr>
    <hu>Default Debian 4.9 32bit linux kernel, no-PAE, single core</hu>
+   <id>Default Debian 4.9 32bit linux kernel, no-PAE, single core</id>
    <is>Default Debian 4.9 32bit linux kernel, no-PAE, single core</is>
    <it>Default Debian 4.9 32bit linux kernel, no-PAE, core singolo</it>
+   <ja_JP>Default Debian 4.9 32bit linux kernel, no-PAE, single core</ja_JP>
    <ja>Default Debian 4.9 32bit linux kernel, no-PAE, single core</ja>
    <kk>Default Debian 4.9 32bit linux kernel, no-PAE, single core</kk>
+   <ko>Default Debian 4.9 32bit linux kernel, no-PAE, single core</ko>
    <lt>Default Debian 4.9 32bit linux kernel, no-PAE, single core</lt>
+   <mk>Default Debian 4.9 32bit linux kernel, no-PAE, single core</mk>
+   <nb>Default Debian 4.9 32bit linux kernel, no-PAE, single core</nb>
    <nl>Standaard Debian 4.9 32bit linux kernel, geen PAE, single core</nl>
    <pl>Default Debian 4.9 32bit linux kernel, no-PAE, single core</pl>
    <pt_BR>Default Debian 4.9 32bit linux kernel, no-PAE, single core</pt_BR>
@@ -35,10 +46,13 @@ Debian 32 bit no-pae
    <ro>Default Debian 4.9 32bit linux kernel, no-PAE, single core</ro>
    <ru>Debian ядро по умолчанию 4.9, 32bit no-PAE одно ядро</ru>
    <sk>Default Debian 4.9 32bit linux kernel, no-PAE, single core</sk>
+   <sl>Default Debian 4.9 32bit linux kernel, no-PAE, single core</sl>
    <sq>Default Debian 4.9 32bit linux kernel, no-PAE, single core</sq>
+   <sr>Default Debian 4.9 32bit linux kernel, no-PAE, single core</sr>
    <sv>Standard Debian 4.9 32bit linux kärna, no-PAE, single core</sv>
    <tr>Default Debian 4.9 32bit linux kernel, no-PAE, single core</tr>
    <uk>Default Debian 4.9 32bit linux kernel, no-PAE, single core</uk>
+   <zh_CN>Default Debian 4.9 32bit linux kernel, no-PAE, single core</zh_CN>
    <zh_TW>Default Debian 4.9 32bit linux kernel, no-PAE, single core</zh_TW>
 </description>
 

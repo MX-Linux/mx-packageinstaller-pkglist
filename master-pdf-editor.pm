@@ -11,23 +11,34 @@ Master PDF Editor (Free Version)
 
 <description>
    <am>Edit PDF documents.</am>
+   <ar>Edit PDF documents.</ar>
+   <bg>Edit PDF documents.</bg>
    <ca>Editor de documents PDF</ca>
    <cs>Edit PDF documents.</cs>
-   <da>Edit PDF documents.</da>
+   <da>Rediger PDF-dokumenter.</da>
    <de>PDF-Dokumente bearbeiten</de>
    <el>Επεξεργασία εγγράφων PDF.</el>
    <en>Edit PDF documents.</en>
    <es>Editor de documentos PDF</es>
-   <fi>Edit PDF documents.</fi>
+   <et>Edit PDF documents.</et>
+   <eu>Edit PDF documents.</eu>
+   <fa>Edit PDF documents.</fa>
+   <fi>Muokkaa PDF-asiakirjoja.</fi>
    <fr>Éditer des documents PDF.</fr>
+   <he_IL>Edit PDF documents.</he_IL>
    <hi>Edit PDF documents.</hi>
    <hr>Edit PDF documents.</hr>
    <hu>Edit PDF documents.</hu>
+   <id>Edit PDF documents.</id>
    <is>Edit PDF documents.</is>
    <it>Modifica i documenti in PDF.</it>
+   <ja_JP>Edit PDF documents.</ja_JP>
    <ja>Edit PDF documents.</ja>
    <kk>Edit PDF documents.</kk>
+   <ko>Edit PDF documents.</ko>
    <lt>Taisyti PDF dokumentus.</lt>
+   <mk>Edit PDF documents.</mk>
+   <nb>Edit PDF documents.</nb>
    <nl>Bewerk PDF documenten</nl>
    <pl>Edit PDF documents.</pl>
    <pt_BR>Edit PDF documents.</pt_BR>
@@ -35,10 +46,13 @@ Master PDF Editor (Free Version)
    <ro>Edit PDF documents.</ro>
    <ru>Редактор PDF документов</ru>
    <sk>Edit PDF documents.</sk>
+   <sl>Edit PDF documents.</sl>
    <sq>Edit PDF documents.</sq>
+   <sr>Edit PDF documents.</sr>
    <sv>Redigera PDF-dokument</sv>
    <tr>Edit PDF documents.</tr>
-   <uk>Edit PDF documents.</uk>
+   <uk>редагування PDF документів.</uk>
+   <zh_CN>Edit PDF documents.</zh_CN>
    <zh_TW>Edit PDF documents.</zh_TW>
 </description>
 

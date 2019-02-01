@@ -11,23 +11,34 @@ Gnome Base
 
 <description>
    <am>Minimal install of gnome shell</am>
+   <ar>Minimal install of gnome shell</ar>
+   <bg>Minimal install of gnome shell</bg>
    <ca>Instal·lació mínima de Gnome Shell</ca>
    <cs>Minimal install of gnome shell</cs>
-   <da>Minimal install of gnome shell</da>
+   <da>Minimal installation af gnome shell</da>
    <de>Minimale Installation der Gnome-Shell</de>
    <el>Ελάχιστη εγκατάσταση του gnome shell</el>
    <en>Minimal install of gnome shell</en>
    <es>Instalación mínima de gnome shell</es>
+   <et>Minimal install of gnome shell</et>
+   <eu>Minimal install of gnome shell</eu>
+   <fa>Minimal install of gnome shell</fa>
    <fi>Minimal install of gnome shell</fi>
    <fr>Installation minimale de Gnome Shell</fr>
+   <he_IL>Minimal install of gnome shell</he_IL>
    <hi>Minimal install of gnome shell</hi>
    <hr>Minimal install of gnome shell</hr>
    <hu>Minimal install of gnome shell</hu>
+   <id>Minimal install of gnome shell</id>
    <is>Minimal install of gnome shell</is>
    <it>Installazione minimale di Gnome Shell</it>
+   <ja_JP>Minimal install of gnome shell</ja_JP>
    <ja>Minimal install of gnome shell</ja>
    <kk>Minimal install of gnome shell</kk>
+   <ko>Minimal install of gnome shell</ko>
    <lt>Minimal install of gnome shell</lt>
+   <mk>Minimal install of gnome shell</mk>
+   <nb>Minimal install of gnome shell</nb>
    <nl>Minimale installatie van de gnome shell</nl>
    <pl>Minimal install of gnome shell</pl>
    <pt_BR>Minimal install of gnome shell</pt_BR>
@@ -35,10 +46,13 @@ Gnome Base
    <ro>Minimal install of gnome shell</ro>
    <ru>Минимальная установка Gnome Shell</ru>
    <sk>Minimal install of gnome shell</sk>
+   <sl>Minimal install of gnome shell</sl>
    <sq>Minimal install of gnome shell</sq>
+   <sr>Minimal install of gnome shell</sr>
    <sv>Minimal installation av gnome shell</sv>
    <tr>Minimal install of gnome shell</tr>
-   <uk>Minimal install of gnome shell</uk>
+   <uk>мінімальний набір середовища gnome</uk>
+   <zh_CN>Minimal install of gnome shell</zh_CN>
    <zh_TW>Minimal install of gnome shell</zh_TW>
 </description>
 

@@ -11,6 +11,8 @@ Polish_Thunderbird
 
 <description>
    <am>Polish localisation of Thunderbird</am>
+   <ar>Polish localisation of Thunderbird</ar>
+   <bg>Polish localisation of Thunderbird</bg>
    <ca>Localització de Thunderbird en Polonès</ca>
    <cs>Polish localisation of Thunderbird</cs>
    <da>Polsk oversættelse af Thunderbird</da>
@@ -18,16 +20,25 @@ Polish_Thunderbird
    <el>Πολωνικός εντοπισμός του Thunderbird</el>
    <en>Polish localisation of Thunderbird</en>
    <es>Polish localisation of Thunderbird</es>
+   <et>Polish localisation of Thunderbird</et>
+   <eu>Polish localisation of Thunderbird</eu>
+   <fa>Polish localisation of Thunderbird</fa>
    <fi>Polish localisation of Thunderbird</fi>
    <fr>Localisation polonaise pour Thunderbird</fr>
+   <he_IL>Polish localisation of Thunderbird</he_IL>
    <hi>Polish localisation of Thunderbird</hi>
    <hr>Polish localisation of Thunderbird</hr>
    <hu>Polish localisation of Thunderbird</hu>
+   <id>Polish localisation of Thunderbird</id>
    <is>Polish localisation of Thunderbird</is>
    <it>Localizzazione polacca di Thunderbird</it>
+   <ja_JP>Polish localisation of Thunderbird</ja_JP>
    <ja>Polish localisation of Thunderbird</ja>
    <kk>Polish localisation of Thunderbird</kk>
+   <ko>Polish localisation of Thunderbird</ko>
    <lt>Polish localisation of Thunderbird</lt>
+   <mk>Polish localisation of Thunderbird</mk>
+   <nb>Polish localisation of Thunderbird</nb>
    <nl>Poolse lokalisatie van Thunderbird</nl>
    <pl>Polish localisation of Thunderbird</pl>
    <pt_BR>Polonês Localização para Thunderbird</pt_BR>
@@ -35,10 +46,13 @@ Polish_Thunderbird
    <ro>Polish localisation of Thunderbird</ro>
    <ru>Polish localisation of Thunderbird</ru>
    <sk>Polish localisation of Thunderbird</sk>
+   <sl>Polish localisation of Thunderbird</sl>
    <sq>Polish localisation of Thunderbird</sq>
+   <sr>Polish localisation of Thunderbird</sr>
    <sv>Polsk lokalisering av Thunderbird</sv>
    <tr>Polish localisation of Thunderbird</tr>
-   <uk>Polish localisation of Thunderbird</uk>
+   <uk>Polish локалізація Thunderbird</uk>
+   <zh_CN>Polish localisation of Thunderbird</zh_CN>
    <zh_TW>Polish localisation of Thunderbird</zh_TW>
 </description>
 

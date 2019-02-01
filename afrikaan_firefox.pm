@@ -11,6 +11,8 @@ Afrikaan_Firefox
 
 <description>
    <am>Afrikaan localisation of Firefox</am>
+   <ar>Afrikaan localisation of Firefox</ar>
+   <bg>Afrikaan localisation of Firefox</bg>
    <ca>Localització de Firefox en Afrikaan</ca>
    <cs>Afrikaan localisation of Firefox</cs>
    <da>Afrikaan oversættelse af Firefox</da>
@@ -18,16 +20,25 @@ Afrikaan_Firefox
    <el>Afrikaan εντοπισμός του Firefox</el>
    <en>Afrikaan localisation of Firefox</en>
    <es>Localización Afrikáans de Firefox</es>
+   <et>Afrikaan localisation of Firefox</et>
+   <eu>Afrikaan localisation of Firefox</eu>
+   <fa>Afrikaan localisation of Firefox</fa>
    <fi>Afrikaan localisation of Firefox</fi>
    <fr>Localisation afrikaans pour Firefox</fr>
+   <he_IL>Afrikaan localisation of Firefox</he_IL>
    <hi>Afrikaan localisation of Firefox</hi>
    <hr>Afrikaanska lokalizacija Firefoxa</hr>
    <hu>Afrikaan localisation of Firefox</hu>
+   <id>Afrikaan localisation of Firefox</id>
    <is>Afrikaan localisation of Firefox</is>
    <it>Localizzazione in Afrikaans di Firefox</it>
+   <ja_JP>Afrikaan localisation of Firefox</ja_JP>
    <ja>Afrikaan localisation of Firefox</ja>
    <kk>Afrikaan localisation of Firefox</kk>
+   <ko>Afrikaan localisation of Firefox</ko>
    <lt>Afrikaan localisation of Firefox</lt>
+   <mk>Afrikaan localisation of Firefox</mk>
+   <nb>Afrikaan localisation of Firefox</nb>
    <nl>Afrikaanse lokalisatie van Firefox</nl>
    <pl>Afrikaan localisation of Firefox</pl>
    <pt_BR>Africâner Localização para Firefox</pt_BR>
@@ -35,10 +46,13 @@ Afrikaan_Firefox
    <ro>Afrikaan localisation of Firefox</ro>
    <ru>Afrikaan localisation of Firefox</ru>
    <sk>Afrikaan localisation of Firefox</sk>
+   <sl>Afrikaan localisation of Firefox</sl>
    <sq>Afrikaan localisation of Firefox</sq>
+   <sr>Afrikaan localisation of Firefox</sr>
    <sv>Afrikaan lokalisering av Firefox</sv>
    <tr>Afrikaan localisation of Firefox</tr>
-   <uk>Afrikaan localisation of Firefox</uk>
+   <uk>Afrikaan локалізація Firefox</uk>
+   <zh_CN>Afrikaan localisation of Firefox</zh_CN>
    <zh_TW>Afrikaan localisation of Firefox</zh_TW>
 </description>
 

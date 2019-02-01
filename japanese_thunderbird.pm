@@ -11,23 +11,34 @@ Japanses_Thunderbird
 
 <description>
    <am>Japanese localisation of Thunderbird</am>
-   <ca>Japanese localisation of Thunderbird</ca>
+   <ar>Japanese localisation of Thunderbird</ar>
+   <bg>Japanese localisation of Thunderbird</bg>
+   <ca>Localització en japonès de Thunderbird</ca>
    <cs>Japanese localisation of Thunderbird</cs>
    <da>Japansk oversættelse af Thunderbird</da>
    <de>Japanische Lokalisierung von Thunderbird</de>
    <el>Ιαπωνικός εντοπισμός του Thunderbird</el>
    <en>Japanese localisation of Thunderbird</en>
    <es>Japanese localisation of Thunderbird</es>
+   <et>Japanese localisation of Thunderbird</et>
+   <eu>Japanese localisation of Thunderbird</eu>
+   <fa>Japanese localisation of Thunderbird</fa>
    <fi>Japanese localisation of Thunderbird</fi>
    <fr>Localisation japonaise pour Thunderbird</fr>
+   <he_IL>Japanese localisation of Thunderbird</he_IL>
    <hi>Japanese localisation of Thunderbird</hi>
    <hr>Japanese localisation of Thunderbird</hr>
    <hu>Japanese localisation of Thunderbird</hu>
+   <id>Japanese localisation of Thunderbird</id>
    <is>Japanese localisation of Thunderbird</is>
    <it>Localizzazione giapponese di Thunderbird</it>
+   <ja_JP>Japanese localisation of Thunderbird</ja_JP>
    <ja>Japanese localisation of Thunderbird</ja>
    <kk>Japanese localisation of Thunderbird</kk>
+   <ko>Japanese localisation of Thunderbird</ko>
    <lt>Japanese localisation of Thunderbird</lt>
+   <mk>Japanese localisation of Thunderbird</mk>
+   <nb>Japanese localisation of Thunderbird</nb>
    <nl>Japanse lokalisatie van Thunderbird</nl>
    <pl>Japanese localisation of Thunderbird</pl>
    <pt_BR>Japonês Localização para Thunderbird</pt_BR>
@@ -35,10 +46,13 @@ Japanses_Thunderbird
    <ro>Japanese localisation of Thunderbird</ro>
    <ru>Japanese localisation of Thunderbird</ru>
    <sk>Japanese localisation of Thunderbird</sk>
+   <sl>Japanese localisation of Thunderbird</sl>
    <sq>Japanese localisation of Thunderbird</sq>
+   <sr>Japanese localisation of Thunderbird</sr>
    <sv>Japansk lokalisering av Thunderbird</sv>
    <tr>Japanese localisation of Thunderbird</tr>
-   <uk>Japanese localisation of Thunderbird</uk>
+   <uk>Japanese локалізація Thunderbird</uk>
+   <zh_CN>Japanese localisation of Thunderbird</zh_CN>
    <zh_TW>Japanese localisation of Thunderbird</zh_TW>
 </description>
 

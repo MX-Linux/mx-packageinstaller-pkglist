@@ -12,23 +12,34 @@ VirtualBox
 
 <description>
    <am>Virtualbox</am>
+   <ar>Virtualbox</ar>
+   <bg>Virtualbox</bg>
    <ca>Virtualbox</ca>
    <cs>Virtualbox</cs>
    <da>Virtualbox</da>
    <de>Die Virtualisierungssoftware VirtualBox</de>
    <el>Virtualbox</el>
    <en>Virtualbox</en>
-   <es>Virtualbox</es>
+   <es>Máquina virtual</es>
+   <et>Virtualbox</et>
+   <eu>Virtualbox</eu>
+   <fa>Virtualbox</fa>
    <fi>Virtualbox</fi>
    <fr>Virtualbox</fr>
+   <he_IL>Virtualbox</he_IL>
    <hi>Virtualbox</hi>
    <hr>Virtualbox</hr>
    <hu>Virtualbox</hu>
+   <id>Virtualbox</id>
    <is>Virtualbox</is>
    <it>Virtualbox</it>
+   <ja_JP>Virtualbox</ja_JP>
    <ja>Virtualbox</ja>
    <kk>Virtualbox</kk>
+   <ko>Virtualbox</ko>
    <lt>Virtualbox</lt>
+   <mk>Virtualbox</mk>
+   <nb>Virtualbox</nb>
    <nl>Virtualbox</nl>
    <pl>Virtualbox</pl>
    <pt_BR>Virtualbox</pt_BR>
@@ -36,10 +47,13 @@ VirtualBox
    <ro>Virtualbox</ro>
    <ru>Приложение виртуализации VirtualBox</ru>
    <sk>Virtualbox</sk>
+   <sl>Virtualbox</sl>
    <sq>Virtualbox</sq>
+   <sr>Virtualbox</sr>
    <sv>Virtualbox</sv>
    <tr>Virtualbox</tr>
    <uk>Virtualbox</uk>
+   <zh_CN>Virtualbox</zh_CN>
    <zh_TW>Virtualbox</zh_TW>
 </description>
 
