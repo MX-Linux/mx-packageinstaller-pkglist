@@ -40,7 +40,7 @@ Remote Access
    <mk>Remote access help app from antiX</mk>
    <nb>Remote access help app from antiX</nb>
    <nl>Afstand toegankelijke hulp app van antiX</nl>
-   <pl>Remote access help app from antiX</pl>
+   <pl>aplikacja zdalnej pomocy od antiX</pl>
    <pt_BR>Aplicação do antiX para ajuda por acesso remoto</pt_BR>
    <pt>Aplicação do antiX para ajuda por acesso remoto</pt>
    <ro>Remote access help app from antiX</ro>

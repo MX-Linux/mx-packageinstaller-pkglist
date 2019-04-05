@@ -40,7 +40,7 @@ French
    <mk>French Language Meta-Package</mk>
    <nb>French Language Meta-Package</nb>
    <nl>Franse Taal Meta-Pakket</nl>
-   <pl>French Language Meta-Package</pl>
+   <pl>Francuski metapakiet językowy</pl>
    <pt_BR>Francês Meta-Pacote de Idioma</pt_BR>
    <pt>Francês Meta-Pacote de Idioma</pt>
    <ro>French Language Meta-Package</ro>

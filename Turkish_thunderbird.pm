@@ -40,7 +40,7 @@ Turkish_Thunderbird
    <mk>Turkish localisation of Thunderbird</mk>
    <nb>Turkish localisation of Thunderbird</nb>
    <nl>Turkse lokalisatie van Thunderbird</nl>
-   <pl>Turkish localisation of Thunderbird</pl>
+   <pl>Turecka lokalizacja Thunderbirda</pl>
    <pt_BR>Turco Localização para Thunderbird</pt_BR>
    <pt>Turco Localização para Thunderbird</pt>
    <ro>Turkish localisation of Thunderbird</ro>

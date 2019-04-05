@@ -40,7 +40,7 @@ atom
    <mk>atom text editor IDE</mk>
    <nb>atom text editor IDE</nb>
    <nl>atom text editor IDE</nl>
-   <pl>atom text editor IDE</pl>
+   <pl>edytor tekstu atom IDE</pl>
    <pt_BR>atom text editor IDE</pt_BR>
    <pt>atom text editor IDE</pt>
    <ro>atom text editor IDE</ro>
@@ -49,7 +49,7 @@ atom
    <sl>atom text editor IDE</sl>
    <sq>atom text editor IDE</sq>
    <sr>atom text editor IDE</sr>
-   <sv>atom text editor IDE</sv>
+   <sv>atom textredigerare IDE</sv>
    <tr>atom text editor IDE</tr>
    <uk>atom text editor IDE</uk>
    <zh_CN>atom text editor IDE</zh_CN>

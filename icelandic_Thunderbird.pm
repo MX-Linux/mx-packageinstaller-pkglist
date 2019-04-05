@@ -40,7 +40,7 @@ Icelandic_Thunderbird
    <mk>Icelandic localisation of Thunderbird</mk>
    <nb>Icelandic localisation of Thunderbird</nb>
    <nl>IJslandse lokalisatie van Thunderbird</nl>
-   <pl>Icelandic localisation of Thunderbird</pl>
+   <pl>Islandzka lokalizacja Thunderbirda</pl>
    <pt_BR>Islandês Localização para Thunderbird</pt_BR>
    <pt>Islandês Localização para Thunderbird</pt>
    <ro>Icelandic localisation of Thunderbird</ro>

@@ -40,7 +40,7 @@ Faba Icon Colors
    <mk>a Faba icon theme with many colour choices</mk>
    <nb>a Faba icon theme with many colour choices</nb>
    <nl>een Faba icoon thema met veel kleurkeuzes</nl>
-   <pl>a Faba icon theme with many colour choices</pl>
+   <pl>motyw ikon Faba z dużym wyborem kolorów</pl>
    <pt_BR>a Faba icon theme with many colour choices</pt_BR>
    <pt>Tema de ícones Faba com muitas opções de cores</pt>
    <ro>a Faba icon theme with many colour choices</ro>

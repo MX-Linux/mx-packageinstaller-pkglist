@@ -40,7 +40,7 @@ Plex
    <mk>Plex Mediaserver (includes web client)(requires reboot after install)</mk>
    <nb>Plex Mediaserver (includes web client)(requires reboot after install)</nb>
    <nl>Plex Mediaserver (inclusief webcliënt) (moet na installatie opnieuw worden opgestart)</nl>
-   <pl>Plex Mediaserver (includes web client)(requires reboot after install)</pl>
+   <pl>Plex Media Server (zawiera klienta WWW) (wymaga ponownego uruchomienia po instalacji)</pl>
    <pt_BR>Plex Mediaserver (includes web client)(requires reboot after install)</pt_BR>
    <pt>Servidor multimédia Plex; inclui cliente de web; requere reinício do computador após a instalação</pt>
    <ro>Plex Mediaserver (includes web client)(requires reboot after install)</ro>

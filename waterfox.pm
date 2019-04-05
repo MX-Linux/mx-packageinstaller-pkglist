@@ -40,7 +40,7 @@ Waterfox
    <mk>alternative mozilla-based browser</mk>
    <nb>alternative mozilla-based browser</nb>
    <nl>alternatieve op mozilla gebaseerde browser</nl>
-   <pl>alternative mozilla-based browser</pl>
+   <pl>alternatywna przeglądarka oparta na Mozilli</pl>
    <pt_BR>Navegador web alternativo baseado em código da Mozilla</pt_BR>
    <pt>Navegador web alternativo baseado no firefox da Mozilla</pt>
    <ro>alternative mozilla-based browser</ro>

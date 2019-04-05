@@ -40,7 +40,7 @@ Dutch_Firefox
    <mk>Dutch localisation of Firefox</mk>
    <nb>Dutch localisation of Firefox</nb>
    <nl>Nederlandse lokalisatie van Firefox</nl>
-   <pl>Dutch localisation of Firefox</pl>
+   <pl>Holenderska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Holandês Localização para Firefox</pt_BR>
    <pt>Holandês Localização para Firefox</pt>
    <ro>Dutch localisation of Firefox</ro>

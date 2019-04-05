@@ -41,7 +41,7 @@ SimpleScreenRecorder
    <mk>a Qt-based screencast recorder</mk>
    <nb>a Qt-based screencast recorder</nb>
    <nl>a Qt-gebaseerde screencast recorder</nl>
-   <pl>a Qt-based screencast recorder</pl>
+   <pl>rejestrator ekranu oparty na QT</pl>
    <pt_BR>a Qt-based screencast recorder</pt_BR>
    <pt>a Qt-based screencast recorder</pt>
    <ro>a Qt-based screencast recorder</ro>

@@ -40,7 +40,7 @@ Croatian
    <mk>Croatian Language Meta-Package</mk>
    <nb>Croatian Language Meta-Package</nb>
    <nl>Kroatische Taal Meta-Pakket</nl>
-   <pl>Croatian Language Meta-Package</pl>
+   <pl>Chorwacki metapakiet językowy</pl>
    <pt_BR>Croata Meta-Pacote de Idioma</pt_BR>
    <pt>Croata Meta-Pacote de Idioma</pt>
    <ro>Croatian Language Meta-Package</ro>

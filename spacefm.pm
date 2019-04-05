@@ -40,7 +40,7 @@ SpaceFM
    <mk>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</mk>
    <nb>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</nb>
    <nl>een bestand en desktop manager met meerdere tabbladen voor stabiliteit, snelheid, gemak en flexibiliteit</nl>
-   <pl>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</pl>
+   <pl>wielopanelowy menedżer plików i pulpitu oferujący stabilność, szybkość, wygodę i elastyczność</pl>
    <pt_BR>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</pt_BR>
    <pt>Gestor de ficheiros e da área de trabalho multi-painel com separadores, que proporciona estabilidade, rapidez, comodidade e flexibilidade</pt>
    <ro>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ro>

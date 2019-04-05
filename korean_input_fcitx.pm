@@ -40,7 +40,7 @@ Korean_Input_fcitx
    <mk>Korean Fonts and fcitx</mk>
    <nb>Korean Fonts and fcitx</nb>
    <nl>Koreaanse Fonts en fcitx</nl>
-   <pl>Korean Fonts and fcitx</pl>
+   <pl>Koreańskie fonty i fcitx</pl>
    <pt_BR>Coreano Fontes e fcitx</pt_BR>
    <pt>Coreano Fontes e fcitx</pt>
    <ro>Korean Fonts and fcitx</ro>

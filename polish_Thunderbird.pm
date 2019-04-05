@@ -40,7 +40,7 @@ Polish_Thunderbird
    <mk>Polish localisation of Thunderbird</mk>
    <nb>Polish localisation of Thunderbird</nb>
    <nl>Poolse lokalisatie van Thunderbird</nl>
-   <pl>Polish localisation of Thunderbird</pl>
+   <pl>Polska lokalizacja Thunderbirda</pl>
    <pt_BR>Polonês Localização para Thunderbird</pt_BR>
    <pt>Polaco Localização para Thunderbird</pt>
    <ro>Polish localisation of Thunderbird</ro>

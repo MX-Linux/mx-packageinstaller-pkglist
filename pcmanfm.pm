@@ -40,7 +40,7 @@ PCManFM
    <mk>a fast and lightweight file manager</mk>
    <nb>a fast and lightweight file manager</nb>
    <nl>een snelle en lichtgewicht bestandsmanager</nl>
-   <pl>a fast and lightweight file manager</pl>
+   <pl>szybki i lekki menedżer plików</pl>
    <pt_BR>a fast and lightweight file manager</pt_BR>
    <pt>Gestor de ficheiros ligeiro e rápido</pt>
    <ro>a fast and lightweight file manager</ro>

@@ -40,7 +40,7 @@ Skype (64bit only)
    <mk>Peer-to-peer video, voice, messaging</mk>
    <nb>Peer-to-peer video, voice, messaging</nb>
    <nl>Peer-to-peer video, voice, berichten</nl>
-   <pl>Peer-to-peer video, voice, messaging</pl>
+   <pl>wideo, głos, przesyłanie wiadomości typu peer-to-peer</pl>
    <pt_BR>Peer-to-peer video, voice, messaging</pt_BR>
    <pt>Peer-to-peer video, voice, messaging</pt>
    <ro>Peer-to-peer video, voice, messaging</ro>

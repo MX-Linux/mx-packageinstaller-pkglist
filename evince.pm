@@ -40,7 +40,7 @@ Evince
    <mk>a simple document (PostScript, PDF) viewer</mk>
    <nb>a simple document (PostScript, PDF) viewer</nb>
    <nl>een eenvoudige document (PostScript, PDF) lezer</nl>
-   <pl>a simple document (PostScript, PDF) viewer</pl>
+   <pl>prosta przeglądarka dokumentów (PostScript, PDF)</pl>
    <pt_BR>a simple document (PostScript, PDF) viewer</pt_BR>
    <pt>Visualizador de documentos (PostScript, PDF) simples e de fácil utilização</pt>
    <ro>a simple document (PostScript, PDF) viewer</ro>

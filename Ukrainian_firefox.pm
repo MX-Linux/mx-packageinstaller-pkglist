@@ -40,7 +40,7 @@ Ukrainian_Firefox
    <mk>Ukrainian localisation of Firefox</mk>
    <nb>Ukrainian localisation of Firefox</nb>
    <nl>Oekraïense lokalisatie van Firefox</nl>
-   <pl>Ukrainian localisation of Firefox</pl>
+   <pl>Ukraińska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Ucraniano Localização para Firefox</pt_BR>
    <pt>Ucraniano Localização para Firefox</pt>
    <ro>Ukrainian localisation of Firefox</ro>

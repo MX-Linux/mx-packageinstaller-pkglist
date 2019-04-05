@@ -40,7 +40,7 @@ gThumb
    <mk>advanced image viewer and browser</mk>
    <nb>advanced image viewer and browser</nb>
    <nl>geavanceerde afbeelding weergever en browser</nl>
-   <pl>advanced image viewer and browser</pl>
+   <pl>zaawansowana przeglądarka grafiki</pl>
    <pt_BR>advanced image viewer and browser</pt_BR>
    <pt>Visualizador e explorador de imagens avançado</pt>
    <ro>advanced image viewer and browser</ro>

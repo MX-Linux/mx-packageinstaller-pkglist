@@ -40,7 +40,7 @@ French_Firefox
    <mk>French localisation of Firefox</mk>
    <nb>French localisation of Firefox</nb>
    <nl>Franse lokalisatie van Firefox</nl>
-   <pl>French localisation of Firefox</pl>
+   <pl>Francuska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Francês Localização para Firefox</pt_BR>
    <pt>Francês Localização para Firefox</pt>
    <ro>French localisation of Firefox</ro>

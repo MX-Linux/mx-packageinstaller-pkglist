@@ -40,7 +40,7 @@ Primary
    <mk>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</mk>
    <nb>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</nb>
    <nl>Basis. Inclusief: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, en marble</nl>
-   <pl>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</pl>
+   <pl>Szkoła podstawowa. Zawiera: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype i marble</pl>
    <pt_BR>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</pt_BR>
    <pt>Ensino básico, 1º e 2º ciclos. Inclui: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, e marble</pt>
    <ro>Primary. Includes: celestia-gnome, gcompris, laby, lybniz, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ro>

@@ -40,7 +40,7 @@ GB_English_Firefox
    <mk>GB English localisation of Firefox</mk>
    <nb>GB English localisation of Firefox</nb>
    <nl>GB Engelse lokalisatie van Firefox</nl>
-   <pl>GB English localisation of Firefox</pl>
+   <pl>Angielski Brytyjski lokalizacja przeglądarki Firefox</pl>
    <pt_BR>GB Inglês Localização para Firefox</pt_BR>
    <pt>Inglês GB Localização para Firefox</pt>
    <ro>GB English localisation of Firefox</ro>

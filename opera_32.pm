@@ -40,7 +40,7 @@ Opera
    <mk>Opera browser (32 bit is beta-only)</mk>
    <nb>Opera browser (32 bit is beta-only)</nb>
    <nl>Opera browser (32 bit is enkel-beta)</nl>
-   <pl>Opera browser (32 bit is beta-only)</pl>
+   <pl>przeglądarka Opera (wersja 32-bitowa tylko w wersji beta)</pl>
    <pt_BR>Opera browser (32 bit is beta-only)</pt_BR>
    <pt>Navegador web Opera (32 bit is beta-only)</pt>
    <ro>Opera browser (32 bit is beta-only)</ro>

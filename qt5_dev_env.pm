@@ -36,11 +36,11 @@ QT5 Dev Enviroment
    <ja>QT5 Development Environment</ja>
    <kk>QT5 Development Environment</kk>
    <ko>QT5 Development Environment</ko>
-   <lt>QT5 Development Environment</lt>
+   <lt>QT5 plėtojimo aplinka</lt>
    <mk>QT5 Development Environment</mk>
    <nb>QT5 Development Environment</nb>
    <nl>QT5 Ontwikkelingsomgeving</nl>
-   <pl>QT5 Development Environment</pl>
+   <pl>środowisko programistyczne QT5</pl>
    <pt_BR>QT5 Development Environment</pt_BR>
    <pt>QT5 Development Environment</pt>
    <ro>QT5 Development Environment</ro>

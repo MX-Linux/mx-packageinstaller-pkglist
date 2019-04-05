@@ -16,7 +16,7 @@ Evolvere Icon Themes
    <ca>evolvere icons (vibrant)</ca>
    <cs>evolvere icons (vibrant)</cs>
    <da>evolvere-ikoner (farverige)</da>
-   <de>evolvere icons (vibrant)</de>
+   <de>Symbolthema Evolvere</de>
    <el>εικονίδια evolvere (ζωντανή)</el>
    <en>evolvere icons (vibrant)</en>
    <es>evolvere icons (vibrant)</es>
@@ -40,7 +40,7 @@ Evolvere Icon Themes
    <mk>evolvere icons (vibrant)</mk>
    <nb>evolvere icons (vibrant)</nb>
    <nl>evolvere iconen (levendig)</nl>
-   <pl>evolvere icons (vibrant)</pl>
+   <pl>ikony evolvere (vibrant)</pl>
    <pt_BR>evolvere icons (vibrant)</pt_BR>
    <pt>evolvere icons (vibrant)</pt>
    <ro>evolvere icons (vibrant)</ro>
@@ -49,7 +49,7 @@ Evolvere Icon Themes
    <sl>evolvere icons (vibrant)</sl>
    <sq>evolvere icons (vibrant)</sq>
    <sr>evolvere icons (vibrant)</sr>
-   <sv>evolvere icons (vibrant)</sv>
+   <sv>evolvere ikoner (lysande)</sv>
    <tr>evolvere icons (vibrant)</tr>
    <uk>evolvere icons (vibrant)</uk>
    <zh_CN>evolvere icons (vibrant)</zh_CN>

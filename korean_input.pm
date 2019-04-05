@@ -40,7 +40,7 @@ Korean_Input
    <mk>Korean Fonts and ibus</mk>
    <nb>Korean Fonts and ibus</nb>
    <nl>Koreaanse Fonts en ibus</nl>
-   <pl>Korean Fonts and ibus</pl>
+   <pl>Koreańskie fonty i ibus</pl>
    <pt_BR>Coreano Fontes e ibus</pt_BR>
    <pt>Coreano Fontes e ibus</pt>
    <ro>Korean Fonts and ibus</ro>

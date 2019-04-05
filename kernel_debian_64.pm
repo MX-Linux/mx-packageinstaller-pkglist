@@ -40,7 +40,7 @@ Debian 64 bit
    <mk>Default Debian 4.9 kernel Meltdown patched, 64bit</mk>
    <nb>Default Debian 4.9 kernel Meltdown patched, 64bit</nb>
    <nl>Standaard Debian 4.9 kernel Meltdown patched, 64bit</nl>
-   <pl>Default Debian 4.9 kernel Meltdown patched, 64bit</pl>
+   <pl>domyślny Debian 4.9 kernel Meltdown patched, 64bit</pl>
    <pt_BR>Default Debian 4.9 kernel Meltdown patched, 64bit</pt_BR>
    <pt>Núcleo padrão Debian 4.9 com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
    <ro>Default Debian 4.9 kernel Meltdown patched, 64bit</ro>

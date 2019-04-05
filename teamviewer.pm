@@ -40,7 +40,7 @@ TeamViewer
    <mk>Teamviewer remote access</mk>
    <nb>Teamviewer remote access</nb>
    <nl>Teamviewer afstand toegang</nl>
-   <pl>Teamviewer remote access</pl>
+   <pl>dostęp zdalny TeamViewer</pl>
    <pt_BR>Teamviewer remote access</pt_BR>
    <pt>Teamviewer remote access</pt>
    <ro>Teamviewer remote access</ro>

@@ -40,7 +40,7 @@ Pan
    <mk>a gnome Usenet newsreader</mk>
    <nb>a gnome Usenet newsreader</nb>
    <nl>a gnome Usenet nieuwslezer</nl>
-   <pl>a gnome Usenet newsreader</pl>
+   <pl>gnomowy czytnik grup dyskusyjnych Usenet</pl>
    <pt_BR>a gnome Usenet newsreader</pt_BR>
    <pt>a gnome Usenet newsreader</pt>
    <ro>a gnome Usenet newsreader</ro>

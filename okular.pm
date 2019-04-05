@@ -40,7 +40,7 @@ Okular
    <mk>a universal document viewer -WARNING- pulls in elements of KDE</mk>
    <nb>a universal document viewer -WARNING- pulls in elements of KDE</nb>
    <nl>een universele document lezer -WAARSCHUWING- installeert elementen van KDE</nl>
-   <pl>a universal document viewer -WARNING- pulls in elements of KDE</pl>
+   <pl>uniwersalna przeglądarka dokumentów - OSTRZEŻENIE - zawiera elementy KDE</pl>
    <pt_BR>a universal document viewer -WARNING- pulls in elements of KDE</pt_BR>
    <pt>Visualizador de documentos universal -AVISO- instala elementos do Ambiente de Trabalho KDE</pt>
    <ro>a universal document viewer -WARNING- pulls in elements of KDE</ro>

@@ -40,7 +40,7 @@ Adobe Reader
    <mk>Adobe Reader PDF viewer</mk>
    <nb>Adobe Reader PDF viewer</nb>
    <nl>Adobe Reader PDF lezer</nl>
-   <pl>Adobe Reader PDF viewer</pl>
+   <pl>przeglądarka plików PDF Adobe Reader</pl>
    <pt_BR>Adobe Reader PDF viewer</pt_BR>
    <pt>Visualizador de PDF Adobe Reader</pt>
    <ro>Adobe Reader PDF viewer</ro>

@@ -40,7 +40,7 @@ Tor and Privoxy
    <mk>Tor and Privoxy</mk>
    <nb>Tor and Privoxy</nb>
    <nl>Tor en Privoxy</nl>
-   <pl>Tor and Privoxy</pl>
+   <pl>przeglądarka Tor i serwer proxy Privoxy</pl>
    <pt_BR>Tor and Privoxy</pt_BR>
    <pt>Tor and Privoxy</pt>
    <ro>Tor and Privoxy</ro>

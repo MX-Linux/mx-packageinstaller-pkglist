@@ -40,7 +40,7 @@ Palemoon
    <mk>Palemoon from the mx repo</mk>
    <nb>Palemoon from the mx repo</nb>
    <nl>Palemoon uit de mx pakketbron</nl>
-   <pl>Palemoon from the mx repo</pl>
+   <pl>Palemoon z repozytorium MX</pl>
    <pt_BR>Palemoon from the mx repo</pt_BR>
    <pt>Navegador web Palemoon do repositório mx repo</pt>
    <ro>Palemoon from the mx repo</ro>

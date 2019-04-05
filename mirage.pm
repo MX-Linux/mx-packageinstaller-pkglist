@@ -40,7 +40,7 @@ Mirage
    <mk>fast and simple image viewer</mk>
    <nb>fast and simple image viewer</nb>
    <nl>snelle en eenvoudige afbeeldingsweergave</nl>
-   <pl>fast and simple image viewer</pl>
+   <pl>szybka i prosta przeglądarka grafiki i zdjęć</pl>
    <pt_BR>fast and simple image viewer</pt_BR>
    <pt>Visualizador de imagens rápido e simples</pt>
    <ro>fast and simple image viewer</ro>

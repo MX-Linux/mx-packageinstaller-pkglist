@@ -40,7 +40,7 @@ Albanian_Thunderbird
    <mk>Albanian localisation of Thunderbird</mk>
    <nb>Albanian localisation of Thunderbird</nb>
    <nl>Albanese lokalisatie van Thunderbird</nl>
-   <pl>Albanian localisation of Thunderbird</pl>
+   <pl>Albańska lokalizacja Thunderbirda</pl>
    <pt_BR>Albanês Localização para Thunderbird</pt_BR>
    <pt>Albanês Localização para Thunderbird</pt>
    <ro>Albanian localisation of Thunderbird</ro>

@@ -40,7 +40,7 @@ Polish
    <mk>Polish Language Meta-Package</mk>
    <nb>Polish Language Meta-Package</nb>
    <nl>Poolse Taal Meta-Pakket</nl>
-   <pl>Polish Language Meta-Package</pl>
+   <pl>Polski metapakiet językowy</pl>
    <pt_BR>Polonês Meta-Pacote de Idioma</pt_BR>
    <pt>Polaco Meta-Pacote de Idioma</pt>
    <ro>Polish Language Meta-Package</ro>

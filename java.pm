@@ -40,7 +40,7 @@ Java
    <mk>Java 8- installs openjdk-8 and icedtea</mk>
    <nb>Java 8- installs openjdk-8 and icedtea</nb>
    <nl>Java 8- installeert openjdk-8 en icedtea</nl>
-   <pl>Java 8- installs openjdk-8 and icedtea</pl>
+   <pl>Java 8 - instaluje openjdk-8 i icedtea</pl>
    <pt_BR>Java 8- installs openjdk-8 and icedtea</pt_BR>
    <pt>Java 8 - instala o openjdk-8 e o icedtea</pt>
    <ro>Java 8- installs openjdk-8 and icedtea</ro>

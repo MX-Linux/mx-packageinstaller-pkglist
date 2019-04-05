@@ -40,7 +40,7 @@ Italian_Thunderbird
    <mk>Italian localisation of Thunderbird</mk>
    <nb>Italian localisation of Thunderbird</nb>
    <nl>Italiaanse lokalisatie van Thunderbird</nl>
-   <pl>Italian localisation of Thunderbird</pl>
+   <pl>Włoska lokalizacja Thunderbirda</pl>
    <pt_BR>Italiano Localização para Thunderbird</pt_BR>
    <pt>Italiano Localização para Thunderbird</pt>
    <ro>Italian localisation of Thunderbird</ro>

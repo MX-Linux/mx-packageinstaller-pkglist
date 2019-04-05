@@ -40,7 +40,7 @@ Chinese_fonts
    <mk>Chinese fonts packages</mk>
    <nb>Chinese fonts packages</nb>
    <nl>Chinese font pakketten</nl>
-   <pl>Chinese fonts packages</pl>
+   <pl>pakiety z chińskimi fontami (czcionkami)</pl>
    <pt_BR>Chinês Pacotes de fontes</pt_BR>
    <pt>Chinês Pacotes de fontes</pt>
    <ro>Chinese fonts packages</ro>

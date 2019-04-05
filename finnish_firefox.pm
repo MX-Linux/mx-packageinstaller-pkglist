@@ -40,7 +40,7 @@ Finnish_Firefox
    <mk>Finnish localisation of Firefox</mk>
    <nb>Finnish localisation of Firefox</nb>
    <nl>Finse lokalisatie van Firefox</nl>
-   <pl>Finnish localisation of Firefox</pl>
+   <pl>Fińska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Finlandês Localização para Firefox</pt_BR>
    <pt>Finlandês Localização para Firefox</pt>
    <ro>Finnish localisation of Firefox</ro>

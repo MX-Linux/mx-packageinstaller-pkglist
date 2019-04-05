@@ -40,7 +40,7 @@ Slimjet
    <mk>Latest Slimjet Browser (run again for updates)</mk>
    <nb>Latest Slimjet Browser (run again for updates)</nb>
    <nl>Meest recente Slimjet Browser (nogmaals uitvoeren voor updates)</nl>
-   <pl>Latest Slimjet Browser (run again for updates)</pl>
+   <pl>najnowsza przeglądarka Slimjet (uruchom ponownie w celu aktualizacji)</pl>
    <pt_BR>Latest Slimjet Browser (run again for updates)</pt_BR>
    <pt>Navegador web Slimjet, versão mais recente (para obter actualizações, se disponíveis, voltar a executar)</pt>
    <ro>Latest Slimjet Browser (run again for updates)</ro>

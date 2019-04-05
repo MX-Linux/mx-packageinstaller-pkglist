@@ -40,7 +40,7 @@ Spanish_Thunderbird
    <mk>Spanish localisation of Thunderbird</mk>
    <nb>Spanish localisation of Thunderbird</nb>
    <nl>Spaanse lokalisatie van Thunderbird</nl>
-   <pl>Spanish localisation of Thunderbird</pl>
+   <pl>Hiszpańska lokalizacja Thunderbirda</pl>
    <pt_BR>Castelhano Localização para Thunderbird</pt_BR>
    <pt>Castelhano Localização para Thunderbird</pt>
    <ro>Spanish localisation of Thunderbird</ro>

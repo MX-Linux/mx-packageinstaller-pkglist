@@ -40,7 +40,7 @@ Audacity
    <mk>a multi-track audio editor</mk>
    <nb>a multi-track audio editor</nb>
    <nl>een multi-track audio editor</nl>
-   <pl>a multi-track audio editor</pl>
+   <pl>wielościeżkowy edytor audio</pl>
    <pt_BR>Editor de áudio multi-faixa</pt_BR>
    <pt>Editor de áudio multi-faixa</pt>
    <ro>a multi-track audio editor</ro>

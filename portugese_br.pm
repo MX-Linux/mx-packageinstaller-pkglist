@@ -40,7 +40,7 @@ Portugese(BR)
    <mk>Portugese(BR) Language Meta-Package</mk>
    <nb>Portugese(BR) Language Meta-Package</nb>
    <nl>Portugese(BR) Taal Meta-Pakket</nl>
-   <pl>Portugese(BR) Language Meta-Package</pl>
+   <pl>Portugalski (BR) metapakiet językowy</pl>
    <pt_BR>Português(BR) Meta-Pacote de Idioma</pt_BR>
    <pt>Português(BR) Meta-Pacote de Idioma</pt>
    <ro>Portugese(BR) Language Meta-Package</ro>

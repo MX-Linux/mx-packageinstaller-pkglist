@@ -40,7 +40,7 @@ Slovak_Thunderbird
    <mk>Slovak localisation of Thunderbird</mk>
    <nb>Slovak localisation of Thunderbird</nb>
    <nl>Slovaakse lokalisatie van Thunderbird</nl>
-   <pl>Slovak localisation of Thunderbird</pl>
+   <pl>Słowacka lokalizacja Thunderbirda</pl>
    <pt_BR>Eslovaco Localização para Thunderbird</pt_BR>
    <pt>Eslovaco Localização para Thunderbird</pt>
    <ro>Slovak localisation of Thunderbird</ro>

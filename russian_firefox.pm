@@ -40,7 +40,7 @@ Russian_Firefox
    <mk>Russian localisation of Firefox</mk>
    <nb>Russian localisation of Firefox</nb>
    <nl>Russische lokalisatie van Firefox</nl>
-   <pl>Russian localisation of Firefox</pl>
+   <pl>Rosyjska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Russo Localização para Firefox</pt_BR>
    <pt>Russo Localização para Firefox</pt>
    <ro>Russian localisation of Firefox</ro>

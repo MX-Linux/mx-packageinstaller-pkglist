@@ -40,7 +40,7 @@ clonezilla
    <mk>clone and restore disks and partitions</mk>
    <nb>clone and restore disks and partitions</nb>
    <nl>kloon en herstel schijven en partities</nl>
-   <pl>clone and restore disks and partitions</pl>
+   <pl>klonowanie i przywracanie dysków i partycji</pl>
    <pt_BR>restaurar ou fazer uma cópia de discos e partições</pt_BR>
    <pt>clonar e restaurar discos e partições</pt>
    <ro>clone and restore disks and partitions</ro>

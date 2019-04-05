@@ -40,7 +40,7 @@ Spanish
    <mk>Spanish Language Meta-Package</mk>
    <nb>Spanish Language Meta-Package</nb>
    <nl>Spaanse Taal Meta-Pakket</nl>
-   <pl>Spanish Language Meta-Package</pl>
+   <pl>Hiszpański metapakiet językowy</pl>
    <pt_BR>Castelhano Meta-Pacote de Idioma</pt_BR>
    <pt>Castelhano Meta-Pacote de Idioma</pt>
    <ro>Spanish Language Meta-Package</ro>

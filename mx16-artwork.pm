@@ -40,7 +40,7 @@ MX 16 Wallpapers
    <mk>backgrounds originally supplied with MX 16</mk>
    <nb>backgrounds originally supplied with MX 16</nb>
    <nl>achtergronden oorspronkelijk geleverd met MX 16</nl>
-   <pl>backgrounds originally supplied with MX 16</pl>
+   <pl>tła oryginalnie dostarczone z MX 16</pl>
    <pt_BR>backgrounds originally supplied with MX 16</pt_BR>
    <pt>Imagens de fundo originalmente incluídas no MX 16</pt>
    <ro>backgrounds originally supplied with MX 16</ro>

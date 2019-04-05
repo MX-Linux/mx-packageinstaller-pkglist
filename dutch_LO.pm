@@ -40,7 +40,7 @@ Dutch_Libreoffice
    <mk>Dutch LibreOffice Language Meta-Package</mk>
    <nb>Dutch LibreOffice Language Meta-Package</nb>
    <nl>Nederlandse LibreOffice Taal Meta-Pakket</nl>
-   <pl>Dutch LibreOffice Language Meta-Package</pl>
+   <pl>Holenderski metapakiet językowy dla LibreOffice</pl>
    <pt_BR>Holandês Meta-Pacote de Idioma para LibreOffice</pt_BR>
    <pt>Holandês Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Dutch LibreOffice Language Meta-Package</ro>

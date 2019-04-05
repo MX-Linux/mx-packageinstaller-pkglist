@@ -40,7 +40,7 @@ additional screensavers
    <mk>extra screensavers (requires xscreensaver)</mk>
    <nb>extra screensavers (requires xscreensaver)</nb>
    <nl>extra screensavers (vereist xscreensaver)</nl>
-   <pl>extra screensavers (requires xscreensaver)</pl>
+   <pl>dodatkowe wygaszacze ekranu (wymaga xscreensaver)</pl>
    <pt_BR>extra screensavers (requires xscreensaver)</pt_BR>
    <pt>extra screensavers (requires xscreensaver)</pt>
    <ro>extra screensavers (requires xscreensaver)</ro>
@@ -49,7 +49,7 @@ additional screensavers
    <sl>extra screensavers (requires xscreensaver)</sl>
    <sq>extra screensavers (requires xscreensaver)</sq>
    <sr>extra screensavers (requires xscreensaver)</sr>
-   <sv>extra screensavers (requires xscreensaver)</sv>
+   <sv>extra skärmsläckare (kräver xscreensaver)</sv>
    <tr>extra screensavers (requires xscreensaver)</tr>
    <uk>extra screensavers (requires xscreensaver)</uk>
    <zh_CN>extra screensavers (requires xscreensaver)</zh_CN>

@@ -40,7 +40,7 @@ GIMP Full
    <mk>advanced picture editor- installs GIMP, help and plugins</mk>
    <nb>advanced picture editor- installs GIMP, help and plugins</nb>
    <nl>geavanceerde foto-editor - installeert GIMP, help en plugins</nl>
-   <pl>advanced picture editor- installs GIMP, help and plugins</pl>
+   <pl>zaawansowany edytor grafiki i zdjęć - instaluje program GIMP, wtyczki i pliki pomocy</pl>
    <pt_BR>advanced picture editor- installs GIMP, help and plugins</pt_BR>
    <pt>editor de imagem avançado - instala o GIMP, ajuda e suplementos (plugins)</pt>
    <ro>advanced picture editor- installs GIMP, help and plugins</ro>

@@ -40,7 +40,7 @@ Basque_Firefox
    <mk>Basque localisation of Firefox</mk>
    <nb>Basque localisation of Firefox</nb>
    <nl>Baskische lokalisatie van Firefox</nl>
-   <pl>Basque localisation of Firefox</pl>
+   <pl>Baskijska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Basco Localização para Firefox</pt_BR>
    <pt>Basco Localização para Firefox</pt>
    <ro>Basque localisation of Firefox</ro>

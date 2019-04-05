@@ -40,7 +40,7 @@ WinFF
    <mk>graphical video and audio batch converter</mk>
    <nb>graphical video and audio batch converter</nb>
    <nl>grafische video- en audiobatchomzetter</nl>
-   <pl>graphical video and audio batch converter</pl>
+   <pl>graficzny konwerter wsadowy wideo i audio</pl>
    <pt_BR>Conversor gráfico de vídeo e áudio (conversão em lotes)</pt_BR>
    <pt>Conversor gráfico de vídeo e áudio (conversão em lotes)</pt>
    <ro>graphical video and audio batch converter</ro>

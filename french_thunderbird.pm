@@ -40,7 +40,7 @@ French_Thunderbird
    <mk>French localisation of Thunderbird</mk>
    <nb>French localisation of Thunderbird</nb>
    <nl>Franse lokalisatie van Thunderbird</nl>
-   <pl>French localisation of Thunderbird</pl>
+   <pl>Francuska lokalizacja Thunderbirda</pl>
    <pt_BR>Francês Localização para Thunderbird</pt_BR>
    <pt>Francês Localização para Thunderbird</pt>
    <ro>French localisation of Thunderbird</ro>

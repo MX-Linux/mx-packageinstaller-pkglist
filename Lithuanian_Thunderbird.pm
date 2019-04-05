@@ -40,7 +40,7 @@ Lithuanian_Thunderbird
    <mk>Lithuanian localisation of Thunderbird</mk>
    <nb>Lithuanian localisation of Thunderbird</nb>
    <nl>Litouwse lokalisatie van Thunderbird</nl>
-   <pl>Lithuanian localisation of Thunderbird</pl>
+   <pl>Litewska lokalizacja Thunderbirda</pl>
    <pt_BR>Lituano Localização para Thunderbird</pt_BR>
    <pt>Lituano Localização para Thunderbird</pt>
    <ro>Lithuanian localisation of Thunderbird</ro>

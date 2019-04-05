@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (19.04.01) mx; urgency=medium
+
+  * translation update
+  * add master-pdf-4 (fehlix) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 05 Apr 2019 18:34:45 -0400
+
 mx-packageinstaller-pkglist (19.03.01) mx; urgency=medium
 
   * update antiX kernels

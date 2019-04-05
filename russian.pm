@@ -40,7 +40,7 @@ Russian
    <mk>Russian Language Meta-Package</mk>
    <nb>Russian Language Meta-Package</nb>
    <nl>Russische Taal Meta-Pakket</nl>
-   <pl>Russian Language Meta-Package</pl>
+   <pl>Rosyjski metapakiet językowy</pl>
    <pt_BR>Russo Meta-Pacote de Idioma</pt_BR>
    <pt>Russo Meta-Pacote de Idioma</pt>
    <ro>Russian Language Meta-Package</ro>

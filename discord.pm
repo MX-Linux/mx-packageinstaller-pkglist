@@ -40,7 +40,7 @@ Discord
    <mk>All-in-one voice and text chat for gamers</mk>
    <nb>All-in-one voice and text chat for gamers</nb>
    <nl>Alles-in-een stem en tekst chat voor gamers</nl>
-   <pl>All-in-one voice and text chat for gamers</pl>
+   <pl>kompleksowy czat głosowy i tekstowy dla graczy</pl>
    <pt_BR>Chat de voz e texto tudo-em-um para gamers</pt_BR>
    <pt>Aplicação de mensagens (chat), de voz e de texto, para jogadores</pt>
    <ro>All-in-one voice and text chat for gamers</ro>

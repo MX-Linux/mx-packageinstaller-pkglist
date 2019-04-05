@@ -40,7 +40,7 @@ Norwegian_Firefox
    <mk>Norwegian localisation of Firefox</mk>
    <nb>Norwegian localisation of Firefox</nb>
    <nl>Noorse lokalisatie van Firefox</nl>
-   <pl>Norwegian localisation of Firefox</pl>
+   <pl>Norweska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Norueguês Localização para Firefox</pt_BR>
    <pt>Norueguês Localização para Firefox</pt>
    <ro>Norwegian localisation of Firefox</ro>

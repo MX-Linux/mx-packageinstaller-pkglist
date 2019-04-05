@@ -40,7 +40,7 @@ Japanese_Input_fcitx
    <mk>Japanese fcitx</mk>
    <nb>Japanese fcitx</nb>
    <nl>Japanse fcitx</nl>
-   <pl>Japanese fcitx</pl>
+   <pl>Japoński fcitx</pl>
    <pt_BR>Japonês fcitx</pt_BR>
    <pt>Japonês fcitx</pt>
    <ro>Japanese fcitx</ro>

@@ -40,7 +40,7 @@ Claws-Mail
    <mk>Claws Mail lightweight email client</mk>
    <nb>Claws Mail lightweight email client</nb>
    <nl>Claws Mail lichtgewicht email programma</nl>
-   <pl>Claws Mail lightweight email client</pl>
+   <pl>Claws Mail lekki klient poczty e-mail</pl>
    <pt_BR>Claws Mail lightweight email client</pt_BR>
    <pt>Cliente de correio-electrónico simples e ligeiro</pt>
    <ro>Claws Mail lightweight email client</ro>

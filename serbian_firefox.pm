@@ -40,7 +40,7 @@ Serbian_Firefox
    <mk>Serbian localisation of Firefox</mk>
    <nb>Serbian localisation of Firefox</nb>
    <nl>Servische lokalisatie van Firefox</nl>
-   <pl>Serbian localisation of Firefox</pl>
+   <pl>Serbska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Sérvio Localização para Firefox</pt_BR>
    <pt>Sérvio Localização para Firefox</pt>
    <ro>Serbian localisation of Firefox</ro>

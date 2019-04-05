@@ -40,7 +40,7 @@ Arabic_Firefox
    <mk>Arabic localisation of Firefox</mk>
    <nb>Arabic localisation of Firefox</nb>
    <nl>Arabische lokalisatie van Firefox</nl>
-   <pl>Arabic localisation of Firefox</pl>
+   <pl>Arabska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Árabe Localização para Firefox</pt_BR>
    <pt>Árabe Localização para Firefox</pt>
    <ro>Arabic localisation of Firefox</ro>

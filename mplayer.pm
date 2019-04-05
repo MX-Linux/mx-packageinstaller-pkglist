@@ -40,7 +40,7 @@ mplayer
    <mk>a powerful multimedia player and much more</mk>
    <nb>a powerful multimedia player and much more</nb>
    <nl>een krachtige multimediaspeler en nog veel meer</nl>
-   <pl>a powerful multimedia player and much more</pl>
+   <pl>potężny odtwarzacz multimedialny i wiele więcej</pl>
    <pt_BR>a powerful multimedia player and much more</pt_BR>
    <pt>Poderoso reprodutor de multimédia e muito mais</pt>
    <ro>a powerful multimedia player and much more</ro>

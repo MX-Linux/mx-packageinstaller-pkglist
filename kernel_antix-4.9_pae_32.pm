@@ -16,7 +16,7 @@ antix 4.9 32 bit pae
    <ca>antiX 4.9.160 kernel, 32 bit pae</ca>
    <cs>antiX 4.9.160 kernel, 32 bit pae</cs>
    <da>antiX 4.9.160 kerne, 32 bit pae</da>
-   <de>antiX 4.9.160 Kernel, 32 bit pae</de>
+   <de>antiX 4.9.160 kernel, 32 bit pae</de>
    <el>πυρήνας antiX 4.9.160, 32 bit pae</el>
    <en>antiX 4.9.160 kernel, 32 bit pae</en>
    <es>antiX 4.9.160 kernel, 32 bit pae</es>

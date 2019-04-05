@@ -40,7 +40,7 @@ Firefox
    <mk>Latest Firefox</mk>
    <nb>Latest Firefox</nb>
    <nl>Meest recente Firefox</nl>
-   <pl>Latest Firefox</pl>
+   <pl>najnowszy Firefox</pl>
    <pt_BR>Latest Firefox</pt_BR>
    <pt>Latest Firefox</pt>
    <ro>Latest Firefox</ro>

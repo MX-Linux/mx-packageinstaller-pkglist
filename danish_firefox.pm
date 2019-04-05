@@ -40,7 +40,7 @@ Danish_Firefox
    <mk>Danish localisation of Firefox</mk>
    <nb>Danish localisation of Firefox</nb>
    <nl>Deense lokalisatie van Firefox</nl>
-   <pl>Danish localisation of Firefox</pl>
+   <pl>Duńska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Dinamarquês Localização para Firefox</pt_BR>
    <pt>Dinamarquês Localização para Firefox</pt>
    <ro>Danish localisation of Firefox</ro>

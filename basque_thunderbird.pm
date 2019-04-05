@@ -40,7 +40,7 @@ Basque_Thunderbird
    <mk>Basque localisation of Thunderbird</mk>
    <nb>Basque localisation of Thunderbird</nb>
    <nl>Baskische lokalisatie van Thunderbird</nl>
-   <pl>Basque localisation of Thunderbird</pl>
+   <pl>Baskijska lokalizacja Thunderbirda</pl>
    <pt_BR>Basco Localização para Thunderbird</pt_BR>
    <pt>Basco Localização para Thunderbird</pt>
    <ro>Basque localisation of Thunderbird</ro>

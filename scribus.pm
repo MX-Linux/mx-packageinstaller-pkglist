@@ -40,7 +40,7 @@ Scribus
    <mk>a desktop page layout program</mk>
    <nb>a desktop page layout program</nb>
    <nl>a desktop pagina layout programma</nl>
-   <pl>a desktop page layout program</pl>
+   <pl>program do składu tekstu (DTP), projektowania publikacji i tworzenia plików PDF</pl>
    <pt_BR>a desktop page layout program</pt_BR>
    <pt>Programa de paginação electrónica (composição de publicações)</pt>
    <ro>a desktop page layout program</ro>

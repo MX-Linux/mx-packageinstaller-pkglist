@@ -40,7 +40,7 @@ Czech_Thunderbird
    <mk>Czech localisation of Thunderbird</mk>
    <nb>Czech localisation of Thunderbird</nb>
    <nl>Tjechische lokalisatie van Thunderbird</nl>
-   <pl>Czech localisation of Thunderbird</pl>
+   <pl>Czeska lokalizacja Thunderbirda</pl>
    <pt_BR>Checo Localização para Thunderbird</pt_BR>
    <pt>Checo Localização para Thunderbird</pt>
    <ro>Czech localisation of Thunderbird</ro>

@@ -6,7 +6,7 @@ Office
 </category>
 
 <name>
-Master PDF Editor (Free Version)
+Master PDF Editor 4 (Free Version)
 </name>
 
 <description>
@@ -40,7 +40,7 @@ Master PDF Editor (Free Version)
    <mk>Edit PDF documents.</mk>
    <nb>Edit PDF documents.</nb>
    <nl>Bewerk PDF documenten</nl>
-   <pl>edytuje dokumenty PDF</pl>
+   <pl>Edit PDF documents.</pl>
    <pt_BR>Edit PDF documents.</pt_BR>
    <pt>Editar documentos em formato .pdf.</pt>
    <ro>Edit PDF documents.</ro>
@@ -63,10 +63,23 @@ all
 <screenshot>https://code-industry.net/wp-content/uploads/2016/05/pdfa-edit.png</screenshot>
 
 <preinstall>
-curl -RL $(curl -s https://code-industry.net/free-pdf-editor/ | grep -Eo https://[^[:space:]]*$(dpkg --print-architecture).deb) -o /tmp/master_pdf.deb
-apt install /tmp/master_pdf.deb
-rm /tmp/master.txt
-rm /tmp/master_pdf.deb
+
+rm /tmp/master_pdf_4.deb         2>/dev/null
+rm -r /tmp/master_pdf_4_control  2>/dev/null
+ARCH=$(dpkg --print-architecture)
+curl -RL https://code-industry.net/public/master-pdf-editor-4.3.89_${ARCH/amd64/qt5.amd64}.deb -o /tmp/master_pdf_4.deb
+mkdir  /tmp/master_pdf_4_control 
+pushd /tmp/master_pdf_4_control >/dev/null
+ar p  /tmp/master_pdf_4.deb  control.tar.gz | tar -xz
+sed -i s/master-pdf-editor/master-pdf-editor-4/ control 
+tar cvzf control.tar.gz *[!z]
+ar r  /tmp/master_pdf_4.deb  control.tar.gz
+popd >/dev/null
+apt install /tmp/master_pdf_4.deb
+rm /tmp/master.txt     2>/dev/null
+rm /tmp/master_pdf_4.deb 2>/dev/null
+rm -r /tmp/master_pdf_4_control  2>/dev/null
+
 </preinstall>
 
 <install_package_names>
@@ -80,6 +93,6 @@ rm /tmp/master_pdf.deb
 
 
 <uninstall_package_names>
-master-pdf-editor
+master-pdf-editor-4
 </uninstall_package_names>
 </app>

@@ -40,7 +40,7 @@ Greek
    <mk>Greek Language Meta-Package</mk>
    <nb>Greek Language Meta-Package</nb>
    <nl>Griekse Taal Meta-Pakket</nl>
-   <pl>Greek Language Meta-Package</pl>
+   <pl>Grecki metapakiet językowy</pl>
    <pt_BR>Grego Meta-Pacote de Idioma</pt_BR>
    <pt>Grego Meta-Pacote de Idioma</pt>
    <ro>Greek Language Meta-Package</ro>

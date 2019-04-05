@@ -41,7 +41,7 @@ Shutter
    <mk>a feature rich screenshot app</mk>
    <nb>a feature rich screenshot app</nb>
    <nl>een functie rijke screenshot app</nl>
-   <pl>a feature rich screenshot app</pl>
+   <pl>funkcjonalna aplikacja do wykonywania zrzutów ekranu</pl>
    <pt_BR>a feature rich screenshot app</pt_BR>
    <pt>Aplicação de captura de ecrã plena de funcionalidades</pt>
    <ro>a feature rich screenshot app</ro>

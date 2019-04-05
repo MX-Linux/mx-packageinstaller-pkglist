@@ -40,7 +40,7 @@ Preschool
    <mk>Pre-School. Includes: gamine, gcompris and tuxpaint</mk>
    <nb>Pre-School. Includes: gamine, gcompris and tuxpaint</nb>
    <nl>Pre-School. Inclusief: gamine, gcompris en tuxpaint</nl>
-   <pl>Pre-School. Includes: gamine, gcompris and tuxpaint</pl>
+   <pl>Przedszkole. Zawiera: gamine, gcompris i tuxpaint</pl>
    <pt_BR>Pre-School. Includes: gamine, gcompris and tuxpaint</pt_BR>
    <pt>Pré-escola/infantil. Inclui: gamine, gcompris e tuxpaint</pt>
    <ro>Pre-School. Includes: gamine, gcompris and tuxpaint</ro>

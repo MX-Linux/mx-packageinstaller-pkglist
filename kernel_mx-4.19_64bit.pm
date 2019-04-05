@@ -49,7 +49,7 @@ MX 4.19
    <sl>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</sl>
    <sq>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</sq>
    <sr>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</sr>
-   <sv>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</sv>
+   <sv>MX 4.19 kärna Meltdown och Spectre patched, 64 bit</sv>
    <tr>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</tr>
    <uk>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</uk>
    <zh_CN>MX 4.19 kernel Meltdown and Spectre patched, 64 bit</zh_CN>

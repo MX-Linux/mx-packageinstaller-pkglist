@@ -40,7 +40,7 @@ Italian_Libreoffice
    <mk>Italian LibreOffice Language Meta-Package</mk>
    <nb>Italian LibreOffice Language Meta-Package</nb>
    <nl>Italiaanse LibreOffice Taal Meta-Pakket</nl>
-   <pl>Italian LibreOffice Language Meta-Package</pl>
+   <pl>Włoski metapakiet językowy dla LibreOffice</pl>
    <pt_BR>Italiano Meta-Pacote de Idioma para LibreOffice</pt_BR>
    <pt>Italiano Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Italian LibreOffice Language Meta-Package</ro>

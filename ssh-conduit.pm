@@ -40,7 +40,7 @@ ssh Conduit
    <mk>A simple way to use remote resources via an ssh encypted connection</mk>
    <nb>A simple way to use remote resources via an ssh encypted connection</nb>
    <nl>Een simpele manier om bronnen op afstand e gebruiken middels een ssh versleutelde verbinding</nl>
-   <pl>A simple way to use remote resources via an ssh encypted connection</pl>
+   <pl>prosty sposób korzystania ze zdalnych zasobów za pośrednictwem zaszyfrowanego połączenia ssh</pl>
    <pt_BR>Um jeito simples de acessar recursos remotos via uma conexão ssh encriptada</pt_BR>
    <pt>Uma forma simples de usar recursos remotos através duma ligação ssh encriptada</pt>
    <ro>A simple way to use remote resources via an ssh encypted connection</ro>

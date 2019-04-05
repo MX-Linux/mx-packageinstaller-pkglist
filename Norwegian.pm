@@ -40,7 +40,7 @@ Norwegian
    <mk>Norwegian Language Meta-Package</mk>
    <nb>Norwegian Language Meta-Package</nb>
    <nl>Noorse Taal Meta-Pakket</nl>
-   <pl>Norwegian Language Meta-Package</pl>
+   <pl>Norweski metapakiet językowy</pl>
    <pt_BR>Norueguês Meta-Pacote de Idioma</pt_BR>
    <pt>Norueguês Meta-Pacote de Idioma</pt>
    <ro>Norwegian Language Meta-Package</ro>

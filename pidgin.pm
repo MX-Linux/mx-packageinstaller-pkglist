@@ -40,7 +40,7 @@ Pidgin
    <mk>an easy to use and free chat client</mk>
    <nb>an easy to use and free chat client</nb>
    <nl>een gebruiksvriendelijk en gratis chatprogramma</nl>
-   <pl>an easy to use and free chat client</pl>
+   <pl>łatwy w użyciu i darmowy klient czatu</pl>
    <pt_BR>an easy to use and free chat client</pt_BR>
    <pt>Cliente de 'chat' livre e fácil de usar</pt>
    <ro>an easy to use and free chat client</ro>

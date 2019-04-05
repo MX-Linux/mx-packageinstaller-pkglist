@@ -40,7 +40,7 @@ Abiword
    <mk>lightweight word processor</mk>
    <nb>lightweight word processor</nb>
    <nl>lichtgewicht word processor</nl>
-   <pl>lightweight word processor</pl>
+   <pl>lekki edytor tekstu</pl>
    <pt_BR>Processador de texto simples e ligeiro</pt_BR>
    <pt>Processador de texto simples e ligeiro</pt>
    <ro>lightweight word processor</ro>

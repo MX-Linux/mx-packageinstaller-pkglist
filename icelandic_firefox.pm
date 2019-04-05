@@ -40,7 +40,7 @@ Icelandic_Firefox
    <mk>Icelandic localisation of Firefox</mk>
    <nb>Icelandic localisation of Firefox</nb>
    <nl>IJslandse lokalisatie van Firefox</nl>
-   <pl>Icelandic localisation of Firefox</pl>
+   <pl>Islandzka lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Islandês Localização para Firefox</pt_BR>
    <pt>Islandês Localização para Firefox</pt>
    <ro>Icelandic localisation of Firefox</ro>

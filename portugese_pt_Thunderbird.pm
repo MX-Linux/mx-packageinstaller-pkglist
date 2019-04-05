@@ -40,7 +40,7 @@ Portugese(PT) Thunderbird
    <mk>Portugese(PT) localisation of Thunderbird</mk>
    <nb>Portugese(PT) localisation of Thunderbird</nb>
    <nl>Portugese(PT) lokalisatie van Thunderbird</nl>
-   <pl>Portugese(PT) localisation of Thunderbird</pl>
+   <pl>Portugalska (PT) lokalizacja Thunderbirda</pl>
    <pt_BR>Português(PT) Localização para Thunderbird</pt_BR>
    <pt>Português(PT) Localização para Thunderbird</pt>
    <ro>Portugese(PT) localisation of Thunderbird</ro>

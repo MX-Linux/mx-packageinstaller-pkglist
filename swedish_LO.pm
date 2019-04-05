@@ -40,7 +40,7 @@ Swedish_Libreoffice
    <mk>Swedish Language Meta-Package for LibreOffice</mk>
    <nb>Swedish Language Meta-Package for LibreOffice</nb>
    <nl>Zweedse Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Swedish Language Meta-Package for LibreOffice</pl>
+   <pl>Szwedzki metapakiet językowy dla LibreOffice</pl>
    <pt_BR>Sueco Meta-Pacote de Idioma para LibreOffice</pt_BR>
    <pt>Sueco Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Swedish Language Meta-Package for LibreOffice</ro>

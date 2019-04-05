@@ -40,7 +40,7 @@ Italian
    <mk>Italian Language Meta-Package</mk>
    <nb>Italian Language Meta-Package</nb>
    <nl>Italiaanse Taal Meta-Pakket</nl>
-   <pl>Italian Language Meta-Package</pl>
+   <pl>Włoski metapakiet językowy</pl>
    <pt_BR>Italiano Meta-Pacote de Idioma</pt_BR>
    <pt>Italiano Meta-Pacote de Idioma</pt>
    <ro>Italian Language Meta-Package</ro>

@@ -40,7 +40,7 @@ xscreensaver
    <mk>the classic screensaver for X servers</mk>
    <nb>the classic screensaver for X servers</nb>
    <nl>de klassieke screensaver voor X servers</nl>
-   <pl>the classic screensaver for X servers</pl>
+   <pl>klasyczny wygaszacz ekranu dla serwerów X</pl>
    <pt_BR>the classic screensaver for X servers</pt_BR>
    <pt>the classic screensaver for X servers</pt>
    <ro>the classic screensaver for X servers</ro>
@@ -49,7 +49,7 @@ xscreensaver
    <sl>the classic screensaver for X servers</sl>
    <sq>the classic screensaver for X servers</sq>
    <sr>the classic screensaver for X servers</sr>
-   <sv>the classic screensaver for X servers</sv>
+   <sv>klassisk skärmsläckare för X server</sv>
    <tr>the classic screensaver for X servers</tr>
    <uk>the classic screensaver for X servers</uk>
    <zh_CN>the classic screensaver for X servers</zh_CN>

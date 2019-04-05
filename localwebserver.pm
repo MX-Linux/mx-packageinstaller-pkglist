@@ -40,7 +40,7 @@ Local Web Server
    <mk>apache2, php7, mariaDB</mk>
    <nb>apache2, php7, mariaDB</nb>
    <nl>apache2, php7, mariaDB</nl>
-   <pl>apache2, php7, mariaDB</pl>
+   <pl>Apache2, PHP7, MariaDB</pl>
    <pt_BR>apache2, php7, mariaDB</pt_BR>
    <pt>apache2, php7, mariaDB</pt>
    <ro>apache2, php7, mariaDB</ro>

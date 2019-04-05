@@ -40,7 +40,7 @@ Qupzilla
    <mk>Latest Qupzilla lightweight browser</mk>
    <nb>Latest Qupzilla lightweight browser</nb>
    <nl>Meest recente Qupzilla lichtgewicht browser</nl>
-   <pl>Latest Qupzilla lightweight browser</pl>
+   <pl>najnowsza lekka przeglądarka Qupzilla</pl>
    <pt_BR>Latest Qupzilla lightweight browser</pt_BR>
    <pt>Navegador web ligeiro Qupzilla, versão mais recente</pt>
    <ro>Latest Qupzilla lightweight browser</ro>

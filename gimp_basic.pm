@@ -40,7 +40,7 @@ GIMP Basic
    <mk>advanced picture editor - installs GIMP only</mk>
    <nb>advanced picture editor - installs GIMP only</nb>
    <nl>geavanceerde foto-editor - installeert alleen GIMP</nl>
-   <pl>advanced picture editor - installs GIMP only</pl>
+   <pl>zaawansowany edytor grafiki i zdjęć - instaluje tylko program GIMP</pl>
    <pt_BR>advanced picture editor - installs GIMP only</pt_BR>
    <pt>editor de imagem avançado - instala apenas o GIMP</pt>
    <ro>advanced picture editor - installs GIMP only</ro>

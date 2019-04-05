@@ -40,7 +40,7 @@ Advert-Block-antiX
    <mk>Block adservers with a modified Hosts file</mk>
    <nb>Block adservers with a modified Hosts file</nb>
    <nl>Blokkeer adservers met een aangepast Hosts bestand</nl>
-   <pl>Block adservers with a modified Hosts file</pl>
+   <pl>blokuje serwery reklamowe ze zmodyfikowanym plikiem Hosts</pl>
    <pt_BR>Block adservers with a modified Hosts file</pt_BR>
    <pt>Bloquear servidores de publicidade através de um ficheiro de hospedeiros (Hosts) modificado</pt>
    <ro>Block adservers with a modified Hosts file</ro>

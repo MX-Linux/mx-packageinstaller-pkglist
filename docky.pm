@@ -40,7 +40,7 @@ Docky
    <mk>Elegant, Clean, Powerful Dock</mk>
    <nb>Elegant, Clean, Powerful Dock</nb>
    <nl>Elegant, Schoon, Krachtig Dock</nl>
-   <pl>Elegant, Clean, Powerful Dock</pl>
+   <pl>elegancki, czysty, potężny panel dokujący</pl>
    <pt_BR>Elegant, Clean, Powerful Dock</pt_BR>
    <pt>Doca elegante, sóbria e poderosa</pt>
    <ro>Elegant, Clean, Powerful Dock</ro>

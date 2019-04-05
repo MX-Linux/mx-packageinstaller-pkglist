@@ -40,7 +40,7 @@ German_Thunderbird
    <mk>German localisation of Thunderbird</mk>
    <nb>German localisation of Thunderbird</nb>
    <nl>Duitse lokalisatie van Thunderbird</nl>
-   <pl>German localisation of Thunderbird</pl>
+   <pl>Niemiecka lokalizacja Thunderbirda</pl>
    <pt_BR>Alemão Localização para Thunderbird</pt_BR>
    <pt>Alemão Localização para Thunderbird</pt>
    <ro>German localisation of Thunderbird</ro>

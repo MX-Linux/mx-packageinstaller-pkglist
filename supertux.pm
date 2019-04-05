@@ -40,7 +40,7 @@ SuperTux
    <mk>Mario style platform game w/ Tux</mk>
    <nb>Mario style platform game w/ Tux</nb>
    <nl>Mario stijl platform spel met Tux</nl>
-   <pl>Mario style platform game w/ Tux</pl>
+   <pl>Gra platformowa w/ Tux w stylu Mario</pl>
    <pt_BR>Mario style platform game w/ Tux</pt_BR>
    <pt>Mario style platform game w/ Tux</pt>
    <ro>Mario style platform game w/ Tux</ro>

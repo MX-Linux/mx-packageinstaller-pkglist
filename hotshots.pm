@@ -41,7 +41,7 @@ Hotshots
    <mk>a Qt-4 based advanced screencapture app</mk>
    <nb>a Qt-4 based advanced screencapture app</nb>
    <nl>een geavanceerde screencapture-app op basis van Qt-4</nl>
-   <pl>a Qt-4 based advanced screencapture app</pl>
+   <pl>zaawansowana aplikacja do wykonywania zrzutów ekranu oparta na Qt-4</pl>
    <pt_BR>a Qt-4 based advanced screencapture app</pt_BR>
    <pt>Aplicação avançada de captura de ecrã baseada em Qt-4</pt>
    <ro>a Qt-4 based advanced screencapture app</ro>

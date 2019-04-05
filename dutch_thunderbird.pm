@@ -40,7 +40,7 @@ Dutch_Thunderbird
    <mk>Dutch localisation of Thunderbird</mk>
    <nb>Dutch localisation of Thunderbird</nb>
    <nl>Nederlandse lokalisatie van Thunderbird</nl>
-   <pl>Dutch localisation of Thunderbird</pl>
+   <pl>Holenderska lokalizacja Thunderbirda</pl>
    <pt_BR>Holandês Localização para Thunderbird</pt_BR>
    <pt>Holandês Localização para Thunderbird</pt>
    <ro>Dutch localisation of Thunderbird</ro>

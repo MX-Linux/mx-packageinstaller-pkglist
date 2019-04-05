@@ -40,7 +40,7 @@ Dictionary
    <mk>OpenDict Dictionary</mk>
    <nb>OpenDict Dictionary</nb>
    <nl>OpenDict Woordenboek</nl>
-   <pl>OpenDict Dictionary</pl>
+   <pl>słownik OpenDict</pl>
    <pt_BR>OpenDict Dictionary</pt_BR>
    <pt>Dicionário OpenDict</pt>
    <ro>OpenDict Dictionary</ro>

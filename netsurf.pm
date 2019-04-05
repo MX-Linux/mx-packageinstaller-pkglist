@@ -40,7 +40,7 @@ Netsurf
    <mk>Latest Netsurf Browser</mk>
    <nb>Latest Netsurf Browser</nb>
    <nl>Meest Recente Netsurf Browser</nl>
-   <pl>Latest Netsurf Browser</pl>
+   <pl>najnowsza przeglądarka Netsurf</pl>
    <pt_BR>Latest Netsurf Browser</pt_BR>
    <pt>Navegador web Netsurf, versão mais recente</pt>
    <ro>Latest Netsurf Browser</ro>

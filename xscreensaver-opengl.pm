@@ -40,7 +40,7 @@ openGL screensavers
    <mk>extra opengl screensavers (requires xscreensaver)</mk>
    <nb>extra opengl screensavers (requires xscreensaver)</nb>
    <nl>extra opengl screensavers (vereist xscreensaver)</nl>
-   <pl>extra opengl screensavers (requires xscreensaver)</pl>
+   <pl>dodatkowe wygaszacze ekranu openGL (wymaga xscreensaver)</pl>
    <pt_BR>extra opengl screensavers (requires xscreensaver)</pt_BR>
    <pt>extra opengl screensavers (requires xscreensaver)</pt>
    <ro>extra opengl screensavers (requires xscreensaver)</ro>
@@ -49,7 +49,7 @@ openGL screensavers
    <sl>extra opengl screensavers (requires xscreensaver)</sl>
    <sq>extra opengl screensavers (requires xscreensaver)</sq>
    <sr>extra opengl screensavers (requires xscreensaver)</sr>
-   <sv>extra opengl screensavers (requires xscreensaver)</sv>
+   <sv>extra opengl skärmsläckare (kräver xscreensaver)</sv>
    <tr>extra opengl screensavers (requires xscreensaver)</tr>
    <uk>extra opengl screensavers (requires xscreensaver)</uk>
    <zh_CN>extra opengl screensavers (requires xscreensaver)</zh_CN>
