@@ -40,7 +40,7 @@ Pithos
    <mk>a native Pandora Radio client</mk>
    <nb>a native Pandora Radio client</nb>
    <nl>een origineel Pandora Radio programma</nl>
-   <pl>a native Pandora Radio client</pl>
+   <pl>natywny klient Radio Pandora</pl>
    <pt_BR>a native Pandora Radio client</pt_BR>
    <pt>a native Pandora Radio client</pt>
    <ro>a native Pandora Radio client</ro>

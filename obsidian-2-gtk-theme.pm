@@ -40,7 +40,7 @@ Obsidian-2 Gtk Theme
    <mk>a dark Gtk Theme</mk>
    <nb>a dark Gtk Theme</nb>
    <nl>een donker Gtk thema</nl>
-   <pl>a dark Gtk Theme</pl>
+   <pl>ciemny motyw GTK</pl>
    <pt_BR>Tema escuro para Gtk</pt_BR>
    <pt>Tema escuro para Gtk</pt>
    <ro>a dark Gtk Theme</ro>

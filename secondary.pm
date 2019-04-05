@@ -40,7 +40,7 @@ Secondary
    <mk>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, lybniz, melting, ri-li and stellarium</mk>
    <nb>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, lybniz, melting, ri-li and stellarium</nb>
    <nl>Gevorderd. Inclusief: calibre, celestia, dia, laby, lightspeed, lybniz, melting, ri-li  en stellarium</nl>
-   <pl>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, lybniz, melting, ri-li and stellarium</pl>
+   <pl>Szkoła średnia: Zawiera: calibre, celestia, dia, laby, lightspeed, lybniz, melting, ri-li i stellarium</pl>
    <pt_BR>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, lybniz, melting, ri-li and stellarium</pt_BR>
    <pt>Ensino básico 3º ciclo. Inclui: calibre, celestia, dia, laby, lightspeed, lybniz, melting, ri-li e stellarium</pt>
    <ro>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, lybniz, melting, ri-li and stellarium</ro>

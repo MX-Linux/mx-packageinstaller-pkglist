@@ -40,7 +40,7 @@ IceWM
    <mk>lightweight environment</mk>
    <nb>lightweight environment</nb>
    <nl>lichtgewicht omgeving</nl>
-   <pl>lightweight environment</pl>
+   <pl>lekkie środowisko</pl>
    <pt_BR>lightweight environment</pt_BR>
    <pt>Ambiente de Trabalho simples e ligeiro</pt>
    <ro>lightweight environment</ro>

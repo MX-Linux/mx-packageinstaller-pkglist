@@ -40,7 +40,7 @@ Spanish_Libreoffice
    <mk>Spanish Language Meta-Package for LibreOffice</mk>
    <nb>Spanish Language Meta-Package for LibreOffice</nb>
    <nl>Spaanse Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Spanish Language Meta-Package for LibreOffice</pl>
+   <pl>Hiszpański metapakiet językowy dla LibreOffice</pl>
    <pt_BR>Castelhano Meta-Pacote de Idioma para LibreOffice</pt_BR>
    <pt>Castelhano Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Spanish Language Meta-Package for LibreOffice</ro>

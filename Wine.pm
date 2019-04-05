@@ -40,7 +40,7 @@ Wine
    <mk>run Windows applications without a copy of Microsoft Windows</mk>
    <nb>run Windows applications without a copy of Microsoft Windows</nb>
    <nl>Windowstoepassingen uitvoeren zonder een exemplaar van Microsoft Windows</nl>
-   <pl>run Windows applications without a copy of Microsoft Windows</pl>
+   <pl>uruchamiaj aplikacje Windows bez kopii systemu Microsoft Windows</pl>
    <pt_BR>Executar aplicações para Windows sem precisar do Microsoft Windows</pt_BR>
    <pt>Executar aplicações para Windows sem precisar do Microsoft Windows</pt>
    <ro>run Windows applications without a copy of Microsoft Windows</ro>

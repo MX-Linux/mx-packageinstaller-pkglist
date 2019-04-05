@@ -40,7 +40,7 @@ QT5 Documention
    <mk>Documentation files for Qt-5 and QtCreator IDE</mk>
    <nb>Documentation files for Qt-5 and QtCreator IDE</nb>
    <nl>Documentatiebestanden voor Qt-5 en QtCreator IDE</nl>
-   <pl>Documentation files for Qt-5 and QtCreator IDE</pl>
+   <pl>pliki dokumentacji dla QT-5 i QtCreator IDE</pl>
    <pt_BR>Documentation files for Qt-5 and QtCreator IDE</pt_BR>
    <pt>Documentation files for Qt-5 and QtCreator IDE</pt>
    <ro>Documentation files for Qt-5 and QtCreator IDE</ro>

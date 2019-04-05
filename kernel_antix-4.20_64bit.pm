@@ -17,7 +17,7 @@ antiX 4.20 64 bit
    <cs>antiX 4.20.12 kernel Meltdown and Spectre patched, 64 bit</cs>
    <da>antiX 4.20.12 kerne meltdown- og spectre-rettelse, 64 bit</da>
    <de>antiX 4.20.12 Kernel - Meltdown und Spectre gepatcht, 64 bit</de>
-   <el>antiX 4.20.12 πυρήνα Meltdown και Spectre patched, 64 bit </el>
+   <el>antiX 4.20.12 πυρήνα Meltdown και Spectre patched, 64 bit</el>
    <en>antiX 4.20.12 kernel Meltdown and Spectre patched, 64 bit</en>
    <es>antiX 4.20.12 kernel Meltdown and Spectre patched, 64 bit</es>
    <et>antiX 4.20.12 kernel Meltdown and Spectre patched, 64 bit</et>

@@ -40,7 +40,7 @@ Spotify
    <mk>Spotify from Spotify Testing Repo</mk>
    <nb>Spotify from Spotify Testing Repo</nb>
    <nl>Spotify uit Spotify Testing Pakketbron</nl>
-   <pl>Spotify from Spotify Testing Repo</pl>
+   <pl>Spotify z repozytorium testowego Spotify</pl>
    <pt_BR>Spotify from Spotify Testing Repo</pt_BR>
    <pt>Spotify from Spotify Testing Repo</pt>
    <ro>Spotify from Spotify Testing Repo</ro>

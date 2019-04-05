@@ -40,7 +40,7 @@ Spanish_Firefox
    <mk>Spanish localisation of Firefox</mk>
    <nb>Spanish localisation of Firefox</nb>
    <nl>Spaanse lokalisatie van Firefox</nl>
-   <pl>Spanish localisation of Firefox</pl>
+   <pl>Hiszpańska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Castelhano Localização para Firefox</pt_BR>
    <pt>Castelhano Localização para Firefox</pt>
    <ro>Spanish localisation of Firefox</ro>

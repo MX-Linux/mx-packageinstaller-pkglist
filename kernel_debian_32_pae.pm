@@ -40,7 +40,7 @@ Debian 32 bit w/pae
    <mk>Default Debian 4.9 32bit linux kernel w/PAE</mk>
    <nb>Default Debian 4.9 32bit linux kernel w/PAE</nb>
    <nl>Standaard Debian 4.9 32bit linux kernel met PAE</nl>
-   <pl>Default Debian 4.9 32bit linux kernel w/PAE</pl>
+   <pl>domyślny Debian 4.9 32bit linux kernel w/PAE</pl>
    <pt_BR>Default Debian 4.9 32bit linux kernel w/PAE</pt_BR>
    <pt>Núcleo linux padrão Debian 4.9 32bit c/PAE</pt>
    <ro>Default Debian 4.9 32bit linux kernel w/PAE</ro>

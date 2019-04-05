@@ -40,7 +40,7 @@ Farsi_Firefox
    <mk>Farsi localisation of Firefox</mk>
    <nb>Farsi localisation of Firefox</nb>
    <nl>Perzische lokalisatie van Firefox</nl>
-   <pl>Farsi localisation of Firefox</pl>
+   <pl>Farsi lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Persa Localização para Firefox</pt_BR>
    <pt>Persa Localização para Firefox</pt>
    <ro>Farsi localisation of Firefox</ro>

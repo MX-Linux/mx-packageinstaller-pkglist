@@ -40,7 +40,7 @@ Finch
    <mk>a text-console-based, modular instant messaging client</mk>
    <nb>a text-console-based, modular instant messaging client</nb>
    <nl>een modulaire client voor instant messaging op basis van tekstconsoles</nl>
-   <pl>a text-console-based, modular instant messaging client</pl>
+   <pl>oparty na konsoli tekstowej, modułowy klient wiadomości błyskawicznych (komunikator)</pl>
    <pt_BR>a text-console-based, modular instant messaging client</pt_BR>
    <pt>Cliente de mensagens instantâneas modular e baseado em consola</pt>
    <ro>a text-console-based, modular instant messaging client</ro>

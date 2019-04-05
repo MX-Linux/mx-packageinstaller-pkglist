@@ -40,7 +40,7 @@ Dropbox
    <mk>Dropbox file sync utility</mk>
    <nb>Dropbox file sync utility</nb>
    <nl>Dropbox bestand synchronisatie gereedschap</nl>
-   <pl>Dropbox file sync utility</pl>
+   <pl>narzędzie synchronizacji plików Dropbox</pl>
    <pt_BR>Dropbox file sync utility</pt_BR>
    <pt>Utilitário de armazenagem e sincronização de ficheiros</pt>
    <ro>Dropbox file sync utility</ro>

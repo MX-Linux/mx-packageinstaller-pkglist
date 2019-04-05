@@ -40,7 +40,7 @@ LXDE
    <mk>basic install of LXDE</mk>
    <nb>basic install of LXDE</nb>
    <nl>basisinstallatie van LXDE</nl>
-   <pl>basic install of LXDE</pl>
+   <pl>podstawowa instalacja LXDE</pl>
    <pt_BR>basic install of LXDE</pt_BR>
    <pt>Instalação básica do Ambiente de Trabalho LXDE</pt>
    <ro>basic install of LXDE</ro>

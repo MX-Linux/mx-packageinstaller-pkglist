@@ -40,7 +40,7 @@ Portugese(BR)_Firefox
    <mk>Portuguese(BR) localisation of Firefox</mk>
    <nb>Portuguese(BR) localisation of Firefox</nb>
    <nl>Portugese(BR) lokalisatie van Firefox</nl>
-   <pl>Portuguese(BR) localisation of Firefox</pl>
+   <pl>Portugalska (BR) lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Português(BR) Localização para Firefox</pt_BR>
    <pt>Português(BR) Localização para Firefox</pt>
    <ro>Portuguese(BR) localisation of Firefox</ro>

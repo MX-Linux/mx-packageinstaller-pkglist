@@ -41,7 +41,7 @@ VirtualBox
    <mk>Virtualbox</mk>
    <nb>Virtualbox</nb>
    <nl>Virtualbox</nl>
-   <pl>Virtualbox</pl>
+   <pl>menedżer maszyn wirtualnych</pl>
    <pt_BR>Virtualbox</pt_BR>
    <pt>Virtualbox</pt>
    <ro>Virtualbox</ro>

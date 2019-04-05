@@ -40,7 +40,7 @@ SuperTuxKart
    <mk>Mario kart style racing</mk>
    <nb>Mario kart style racing</nb>
    <nl>Mario kart stijl racen</nl>
-   <pl>Mario kart style racing</pl>
+   <pl>wyścigi w stylu Mario Kart</pl>
    <pt_BR>Mario kart style racing</pt_BR>
    <pt>Mario kart style racing</pt>
    <ro>Mario kart style racing</ro>

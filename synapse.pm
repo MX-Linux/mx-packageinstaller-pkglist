@@ -40,7 +40,7 @@ Synapse
    <mk>alternate semantic file launcher</mk>
    <nb>alternate semantic file launcher</nb>
    <nl>alternatieve semantische bestandsopstarter</nl>
-   <pl>alternate semantic file launcher</pl>
+   <pl>alternatywny program uruchamiający pliki semantyczne</pl>
    <pt_BR>alternate semantic file launcher</pt_BR>
    <pt>alternate semantic file launcher</pt>
    <ro>alternate semantic file launcher</ro>

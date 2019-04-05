@@ -40,7 +40,7 @@ Polish_Libreoffice
    <mk>Polish Language Meta-Package for LibreOffice</mk>
    <nb>Polish Language Meta-Package for LibreOffice</nb>
    <nl>Poolse Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Polish Language Meta-Package for LibreOffice</pl>
+   <pl>Polski metapakiet językowy dla LibreOffice</pl>
    <pt_BR>Polonês Meta-Pacote de Idioma para LibreOffice</pt_BR>
    <pt>Polaco Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Polish Language Meta-Package for LibreOffice</ro>

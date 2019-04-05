@@ -40,7 +40,7 @@ Gnumeric
    <mk>lightweight spreadsheet</mk>
    <nb>lightweight spreadsheet</nb>
    <nl>lichtgewicht speadsheet</nl>
-   <pl>lightweight spreadsheet</pl>
+   <pl>lekki arkusz kalkulacyjny</pl>
    <pt_BR>lightweight spreadsheet</pt_BR>
    <pt>Folha de cálculo simples e ligeira</pt>
    <ro>lightweight spreadsheet</ro>

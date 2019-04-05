@@ -40,7 +40,7 @@ Greek_Firefox
    <mk>Greek localisation of Firefox</mk>
    <nb>Greek localisation of Firefox</nb>
    <nl>Griekse lokalisatie van Firefox</nl>
-   <pl>Greek localisation of Firefox</pl>
+   <pl>Grecka lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Grego Localização para Firefox</pt_BR>
    <pt>Grego Localização para Firefox</pt>
    <ro>Greek localisation of Firefox</ro>

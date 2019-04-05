@@ -40,7 +40,7 @@ Ukrainian_Fonts
    <mk>Ukrainian fonts packages</mk>
    <nb>Ukrainian fonts packages</nb>
    <nl>Oekraïense font pakketten</nl>
-   <pl>Ukrainian fonts packages</pl>
+   <pl>pakiety z ukraińskimi fontami (czcionkami)</pl>
    <pt_BR>Ucraniano fonts Pacotes</pt_BR>
    <pt>Ucraniano pacotes de fontes</pt>
    <ro>Ukrainian fonts packages</ro>

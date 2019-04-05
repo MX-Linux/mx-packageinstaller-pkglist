@@ -40,7 +40,7 @@ Japanese_Fonts
    <mk>Japanese fonts packages</mk>
    <nb>Japanese fonts packages</nb>
    <nl>Japanse font pakketten</nl>
-   <pl>Japanese fonts packages</pl>
+   <pl>pakiety z japońskimi fontami (czcionkami)</pl>
    <pt_BR>Japonês fonts Pacotes</pt_BR>
    <pt>Japonês fonts Pacotes</pt>
    <ro>Japanese fonts packages</ro>

@@ -40,7 +40,7 @@ rTorrent
    <mk>an ncurses BitTorrent client</mk>
    <nb>an ncurses BitTorrent client</nb>
    <nl>een ncurses BitTorrent programma</nl>
-   <pl>an ncurses BitTorrent client</pl>
+   <pl>klient ncurses BitTorrent</pl>
    <pt_BR>an ncurses BitTorrent client</pt_BR>
    <pt>Cliente de BitTorrent baseado em ncurses</pt>
    <ro>an ncurses BitTorrent client</ro>

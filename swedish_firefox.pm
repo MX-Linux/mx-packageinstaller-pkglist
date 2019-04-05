@@ -40,7 +40,7 @@ Swedish_Firefox
    <mk>Swedish localisation of Firefox</mk>
    <nb>Swedish localisation of Firefox</nb>
    <nl>Zweedse lokalisatie van Firefox</nl>
-   <pl>Swedish localisation of Firefox</pl>
+   <pl>Szwedzka lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Sueco Localização para Firefox</pt_BR>
    <pt>Sueco Localização para Firefox</pt>
    <ro>Swedish localisation of Firefox</ro>

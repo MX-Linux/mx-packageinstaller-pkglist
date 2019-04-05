@@ -40,7 +40,7 @@ German_Firefox
    <mk>German localisation of Firefox</mk>
    <nb>German localisation of Firefox</nb>
    <nl>Duitse lokalisatie van Firefox</nl>
-   <pl>German localisation of Firefox</pl>
+   <pl>Niemiecka lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Alemão Localização para Firefox</pt_BR>
    <pt>Alemão Localização para Firefox</pt>
    <ro>German localisation of Firefox</ro>

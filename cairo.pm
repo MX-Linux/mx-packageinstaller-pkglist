@@ -40,7 +40,7 @@ Cairo Dock
    <mk>3d capable dock w/ plugins</mk>
    <nb>3d capable dock w/ plugins</nb>
    <nl>3d geschikt dock met plugins</nl>
-   <pl>3d capable dock w/ plugins</pl>
+   <pl>panel dokujący obsługujacy 3D</pl>
    <pt_BR>3d capable dock w/ plugins</pt_BR>
    <pt>Doca com capacidade 3D, com suplementos (plugins)</pt>
    <ro>3d capable dock w/ plugins</ro>

@@ -41,7 +41,7 @@ recordmydesktop
    <mk>a desktop session recorder</mk>
    <nb>a desktop session recorder</nb>
    <nl>een desktop sessie recorder</nl>
-   <pl>a desktop session recorder</pl>
+   <pl>program do nagrywania obrazu z pulpitu i ekranu komputera</pl>
    <pt_BR>a desktop session recorder</pt_BR>
    <pt>Regista em vídeo a sessão de trabalho conforme evolui no ecrã</pt>
    <ro>a desktop session recorder</ro>

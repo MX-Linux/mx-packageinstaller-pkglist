@@ -40,7 +40,7 @@ Serbian_Thunderbird
    <mk>Serbian localisation of Thunderbird</mk>
    <nb>Serbian localisation of Thunderbird</nb>
    <nl>Servische lokalisatie van Thunderbird</nl>
-   <pl>Serbian localisation of Thunderbird</pl>
+   <pl>Serbska lokalizacja Thunderbirda</pl>
    <pt_BR>Sérvio Localização para Thunderbird</pt_BR>
    <pt>Sérvio Localização para Thunderbird</pt>
    <ro>Serbian localisation of Thunderbird</ro>

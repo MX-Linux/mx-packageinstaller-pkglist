@@ -40,7 +40,7 @@ Google Earth Pro
    <mk>Google Earth Globe</mk>
    <nb>Google Earth Globe</nb>
    <nl>Google Earth Wereldbol</nl>
-   <pl>Google Earth Globe</pl>
+   <pl>Globus Google Earth</pl>
    <pt_BR>Google Earth Globe</pt_BR>
    <pt>Ver a Terra a partir do espaço</pt>
    <ro>Google Earth Globe</ro>

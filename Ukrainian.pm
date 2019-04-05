@@ -40,7 +40,7 @@ Ukrainian
    <mk>Ukrainian Language Meta-Package</mk>
    <nb>Ukrainian Language Meta-Package</nb>
    <nl>Oekraïense Taal Meta-Pakket</nl>
-   <pl>Ukrainian Language Meta-Package</pl>
+   <pl>Ukraiński metapakiet językowy</pl>
    <pt_BR>Ucraniano Meta-Pacote de Idioma</pt_BR>
    <pt>Ucraniano Meta-Pacote de Idioma</pt>
    <ro>Ukrainian Language Meta-Package</ro>

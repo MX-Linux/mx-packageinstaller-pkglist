@@ -40,7 +40,7 @@ Romanian_Thunderbird
    <mk>Romanian localisation of Thunderbird</mk>
    <nb>Romanian localisation of Thunderbird</nb>
    <nl>Roemeense lokalisatie van Thunderbird</nl>
-   <pl>Romanian localisation of Thunderbird</pl>
+   <pl>Rumuńska lokalizacja Thunderbirda</pl>
    <pt_BR>Romeno Localização para Thunderbird</pt_BR>
    <pt>Romeno Localização para Thunderbird</pt>
    <ro>Romanian localisation of Thunderbird</ro>

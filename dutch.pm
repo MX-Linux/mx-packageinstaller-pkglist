@@ -40,7 +40,7 @@ Dutch
    <mk>Dutch Language Meta-Package</mk>
    <nb>Dutch Language Meta-Package</nb>
    <nl>Nederlandse Taal Meta-Pakket</nl>
-   <pl>Dutch Language Meta-Package</pl>
+   <pl>Holenderski metapakiet językowy</pl>
    <pt_BR>Holandês Meta-Pacote de Idioma</pt_BR>
    <pt>Holandês Meta-Pacote de Idioma</pt>
    <ro>Dutch Language Meta-Package</ro>

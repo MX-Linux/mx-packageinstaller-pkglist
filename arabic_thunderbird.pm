@@ -40,7 +40,7 @@ Arabic_Thunderbird
    <mk>Arabic localisation of Thunderbird</mk>
    <nb>Arabic localisation of Thunderbird</nb>
    <nl>Arabische lokalisatie van Thunderbird</nl>
-   <pl>Arabic localisation of Thunderbird</pl>
+   <pl>Arabska lokalizacja Thunderbirda</pl>
    <pt_BR>Árabe Localização para Thunderbird</pt_BR>
    <pt>Árabe Localização para Thunderbird</pt>
    <ro>Arabic localisation of Thunderbird</ro>

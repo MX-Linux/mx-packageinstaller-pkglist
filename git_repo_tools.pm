@@ -40,7 +40,7 @@ GIT Tools
    <mk>GIT Repo tools</mk>
    <nb>GIT Repo tools</nb>
    <nl>GIT Pakketbron Gereedschappen</nl>
-   <pl>GIT Repo tools</pl>
+   <pl>repozytorium narzędzi GIT</pl>
    <pt_BR>GIT Repo tools</pt_BR>
    <pt>Ferramentas GIT Repo</pt>
    <ro>GIT Repo tools</ro>

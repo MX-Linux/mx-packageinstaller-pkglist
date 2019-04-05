@@ -40,7 +40,7 @@ Chinese_Input
    <mk>Chinese ibus</mk>
    <nb>Chinese ibus</nb>
    <nl>Chinese ibus</nl>
-   <pl>Chinese ibus</pl>
+   <pl>Chiński ibus</pl>
    <pt_BR>Chinês ibus</pt_BR>
    <pt>Chinês ibus</pt>
    <ro>Chinese ibus</ro>

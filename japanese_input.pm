@@ -40,7 +40,7 @@ Japanese_Input
    <mk>Japanese ibus</mk>
    <nb>Japanese ibus</nb>
    <nl>Japanse ibus</nl>
-   <pl>Japanese ibus</pl>
+   <pl>Japoński ibus</pl>
    <pt_BR>Japonês ibus</pt_BR>
    <pt>Japonês ibus</pt>
    <ro>Japanese ibus</ro>

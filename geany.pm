@@ -40,7 +40,7 @@ Geany
    <mk>fast and lightweight IDE and text editor</mk>
    <nb>fast and lightweight IDE and text editor</nb>
    <nl>snelle en lichtgewicht IDE en tekstverwerker</nl>
-   <pl>fast and lightweight IDE and text editor</pl>
+   <pl>szybkie i lekkie środowisko programistyczne oraz edytor tekstu</pl>
    <pt_BR>fast and lightweight IDE and text editor</pt_BR>
    <pt>IDE (Integrated Development Environment) e editor de texto, ligeiro e rápido</pt>
    <ro>fast and lightweight IDE and text editor</ro>

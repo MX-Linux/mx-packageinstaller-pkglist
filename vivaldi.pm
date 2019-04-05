@@ -40,7 +40,7 @@ Vivaldi
    <mk>Vivaldi web browser</mk>
    <nb>Vivaldi web browser</nb>
    <nl>Vivaldi web browser</nl>
-   <pl>Vivaldi web browser</pl>
+   <pl>przeglądarka Vivaldi</pl>
    <pt_BR>Navegador web Vivaldi</pt_BR>
    <pt>Navegador web Vivaldi</pt>
    <ro>Vivaldi web browser</ro>

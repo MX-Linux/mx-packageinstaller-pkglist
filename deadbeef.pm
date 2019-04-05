@@ -40,7 +40,7 @@ DeaDBeeF
    <mk>simple audio player</mk>
    <nb>simple audio player</nb>
    <nl>eenvoudige audio speler</nl>
-   <pl>simple audio player</pl>
+   <pl>prosty odtwarzacz audio</pl>
    <pt_BR>Reprodutor de áudio muito simples</pt_BR>
    <pt>Reprodutor de áudio simples e de fácil utilização</pt>
    <ro>simple audio player</ro>

@@ -40,7 +40,7 @@ ImageMagick
    <mk>a software suite to create, edit, and compose bitmap images</mk>
    <nb>a software suite to create, edit, and compose bitmap images</nb>
    <nl>een softwaresuite voor het maken, bewerken en samenstellen van bitmapafbeeldingen</nl>
-   <pl>a software suite to create, edit, and compose bitmap images</pl>
+   <pl>pakiet oprogramowania do tworzenia, edycji i komponowania grafiki bitmapowej (rastrowej)</pl>
    <pt_BR>a software suite to create, edit, and compose bitmap images</pt_BR>
    <pt>Conjunto de programas para criar, editar, e compôr imagens bitmap</pt>
    <ro>a software suite to create, edit, and compose bitmap images</ro>

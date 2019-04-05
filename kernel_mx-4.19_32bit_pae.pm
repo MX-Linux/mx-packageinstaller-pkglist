@@ -49,7 +49,7 @@ MX 4.19 PAE
    <sl>MX 4.19 kernel, 32 bit PAE</sl>
    <sq>MX 4.19 kernel, 32 bit PAE</sq>
    <sr>MX 4.19 kernel, 32 bit PAE</sr>
-   <sv>MX 4.19 kernel, 32 bit PAE</sv>
+   <sv>MX 4.19 kärna, 32 bit PAE</sv>
    <tr>MX 4.19 kernel, 32 bit PAE</tr>
    <uk>MX 4.19 kernel, 32 bit PAE</uk>
    <zh_CN>MX 4.19 kernel, 32 bit PAE</zh_CN>

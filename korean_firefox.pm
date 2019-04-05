@@ -40,7 +40,7 @@ Korean_Firefox
    <mk>Korean localisation of Firefox</mk>
    <nb>Korean localisation of Firefox</nb>
    <nl>Koreaanse lokalisatie van Firefox</nl>
-   <pl>Korean localisation of Firefox</pl>
+   <pl>Koreańska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Coreano Localização para Firefox</pt_BR>
    <pt>Coreano Localização para Firefox</pt>
    <ro>Korean localisation of Firefox</ro>

@@ -40,7 +40,7 @@ deb packaging tools
    <mk>tools for creation of deb packages</mk>
    <nb>tools for creation of deb packages</nb>
    <nl>gereedschappen voor het maken van deb pakketten</nl>
-   <pl>tools for creation of deb packages</pl>
+   <pl>narzędzia do tworzenia pakietów deb</pl>
    <pt_BR>Ferramentas para criação de Pacotes deb</pt_BR>
    <pt>Ferramentas para criar pacotes deb</pt>
    <ro>tools for creation of deb packages</ro>

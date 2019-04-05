@@ -40,7 +40,7 @@ Compiz
    <mk>OpenGL Window Manager with compositing</mk>
    <nb>OpenGL Window Manager with compositing</nb>
    <nl>OpenGL Scherm Beheer met compositing</nl>
-   <pl>OpenGL Window Manager with compositing</pl>
+   <pl>menedżer okien OpenGL z komponowaniem</pl>
    <pt_BR>OpenGL Window Manager with compositing</pt_BR>
    <pt>Gestor de Janelas em OpenGL com composição (compositing)</pt>
    <ro>OpenGL Window Manager with compositing</ro>

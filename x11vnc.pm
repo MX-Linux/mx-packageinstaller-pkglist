@@ -40,7 +40,7 @@ x11vnc
    <mk>VNC server for X window environments</mk>
    <nb>VNC server for X window environments</nb>
    <nl>VNC server voor X window omgevingen</nl>
-   <pl>VNC server for X window environments</pl>
+   <pl>Serwer VNC dla środowisk X Window</pl>
    <pt_BR>Servidor VNC para ambientes de janelas "X"</pt_BR>
    <pt>Servidor VNC para ambientes de janelas "X"</pt>
    <ro>VNC server for X window environments</ro>

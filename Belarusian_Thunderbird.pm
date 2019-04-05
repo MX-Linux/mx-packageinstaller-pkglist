@@ -40,7 +40,7 @@ Belarusian_Thunderbird
    <mk>Belarusian localisation of Thunderbird</mk>
    <nb>Belarusian localisation of Thunderbird</nb>
    <nl>Wit-Russische lokalisatie van Thunderbird</nl>
-   <pl>Belarusian localisation of Thunderbird</pl>
+   <pl>Białoruska lokalizacja Thunderbirda</pl>
    <pt_BR>Bielorrusso Localização para Thunderbird</pt_BR>
    <pt>Bielorrusso Localização para Thunderbird</pt>
    <ro>Belarusian localisation of Thunderbird</ro>

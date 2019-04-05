@@ -40,7 +40,7 @@ MATE
    <mk>basic install of MATE desktop</mk>
    <nb>basic install of MATE desktop</nb>
    <nl>basisinstallatie van de MATE desktop</nl>
-   <pl>basic install of MATE desktop</pl>
+   <pl>podstawowa instalacja środowiska MATE</pl>
    <pt_BR>basic install of MATE desktop</pt_BR>
    <pt>Instalação básica do Ambiente de Trabalho MATE</pt>
    <ro>basic install of MATE desktop</ro>

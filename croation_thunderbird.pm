@@ -40,7 +40,7 @@ Croatian_thunderbird
    <mk>Croatian localisation of thunderbird</mk>
    <nb>Croatian localisation of thunderbird</nb>
    <nl>Kroatische lokalisatie van Thunderbird</nl>
-   <pl>Croatian localisation of thunderbird</pl>
+   <pl>Chorwacka lokalizacja Thunderbirda</pl>
    <pt_BR>Croata Localização para Thunderbird</pt_BR>
    <pt>Croata Localização para Thunderbird</pt>
    <ro>Croatian localisation of thunderbird</ro>

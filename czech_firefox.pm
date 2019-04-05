@@ -40,7 +40,7 @@ Czech_Firefox
    <mk>Czech localisation of Firefox</mk>
    <nb>Czech localisation of Firefox</nb>
    <nl>Tjechische lokalisatie van Firefox</nl>
-   <pl>Czech localisation of Firefox</pl>
+   <pl>Czeska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Checo Localização para Firefox</pt_BR>
    <pt>Checo Localização para Firefox</pt>
    <ro>Czech localisation of Firefox</ro>

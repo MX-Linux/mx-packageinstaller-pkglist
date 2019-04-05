@@ -40,7 +40,7 @@ Bulgarian_Thunderbird
    <mk>Bulgarian localisation of Thunderbird</mk>
    <nb>Bulgarian localisation of Thunderbird</nb>
    <nl>Bulgaarse lokalisatie van Thunderbird</nl>
-   <pl>Bulgarian localisation of Thunderbird</pl>
+   <pl>Bułgarska lokalizacja Thunderbirda</pl>
    <pt_BR>Búlgaro Localização para Thunderbird</pt_BR>
    <pt>Búlgaro Localização para Thunderbird</pt>
    <ro>Bulgarian localisation of Thunderbird</ro>

@@ -40,7 +40,7 @@ Meld
    <mk>graphical tool to diff and merge files</mk>
    <nb>graphical tool to diff and merge files</nb>
    <nl>grafisch hulpmiddel om bestanden te scheiden en samen te voegen</nl>
-   <pl>graphical tool to diff and merge files</pl>
+   <pl>graficzne narzędzie do porównywania i scalania plików</pl>
    <pt_BR>graphical tool to diff and merge files</pt_BR>
    <pt>Ferramenta gráfica para comparar (diff) e integrar (merge) ficheiros</pt>
    <ro>graphical tool to diff and merge files</ro>

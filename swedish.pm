@@ -40,7 +40,7 @@ Swedish
    <mk>Swedish Language Meta-Package</mk>
    <nb>Swedish Language Meta-Package</nb>
    <nl>Zweedse Taal Meta-Pakket</nl>
-   <pl>Swedish Language Meta-Package</pl>
+   <pl>Szwedzki metapakiet językowy</pl>
    <pt_BR>Sueco Meta-Pacote de Idioma</pt_BR>
    <pt>Sueco Meta-Pacote de Idioma</pt>
    <ro>Swedish Language Meta-Package</ro>

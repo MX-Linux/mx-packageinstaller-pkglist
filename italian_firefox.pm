@@ -40,7 +40,7 @@ Italian_Firefox
    <mk>Italian localisation of Firefox</mk>
    <nb>Italian localisation of Firefox</nb>
    <nl>Italiaanse lokalisatie van Firefox</nl>
-   <pl>Italian localisation of Firefox</pl>
+   <pl>Włoska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Italiano Localização para Firefox</pt_BR>
    <pt>Italiano Localização para Firefox</pt>
    <ro>Italian localisation of Firefox</ro>

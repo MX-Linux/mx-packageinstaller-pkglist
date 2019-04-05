@@ -40,7 +40,7 @@ KDE5 Standard
    <mk>Installs kde-standard, kde-plasma-desktop</mk>
    <nb>Installs kde-standard, kde-plasma-desktop</nb>
    <nl>Installeert kde-standard, kde-plasma-desktop</nl>
-   <pl>Installs kde-standard, kde-plasma-desktop</pl>
+   <pl>instaluje kde-standard, kde-plasma-desktop</pl>
    <pt_BR>Installs kde-standard, kde-plasma-desktop</pt_BR>
    <pt>Instala os pacotes kde-standard e kde-plasma-desktop</pt>
    <ro>Installs kde-standard, kde-plasma-desktop</ro>

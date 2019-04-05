@@ -40,7 +40,7 @@ Chinese_Input_fcitx
    <mk>Chinese fcitx</mk>
    <nb>Chinese fcitx</nb>
    <nl>Chinese fcitx</nl>
-   <pl>Chinese fcitx</pl>
+   <pl>Chiński fcitx</pl>
    <pt_BR>Chinês fcitx</pt_BR>
    <pt>Chinês fcitx</pt>
    <ro>Chinese fcitx</ro>

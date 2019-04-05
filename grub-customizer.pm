@@ -40,7 +40,7 @@ grub customizer
    <mk>customize grub boot menu</mk>
    <nb>customize grub boot menu</nb>
    <nl>pas grub boot menu aan</nl>
-   <pl>customize grub boot menu</pl>
+   <pl>dostosowywuje menu rozruchowe grub</pl>
    <pt_BR>customize grub boot menu</pt_BR>
    <pt>customize grub boot menu</pt>
    <ro>customize grub boot menu</ro>
@@ -49,7 +49,7 @@ grub customizer
    <sl>customize grub boot menu</sl>
    <sq>customize grub boot menu</sq>
    <sr>customize grub boot menu</sr>
-   <sv>customize grub boot menu</sv>
+   <sv>anpassa grub boot meny</sv>
    <tr>customize grub boot menu</tr>
    <uk>customize grub boot menu</uk>
    <zh_CN>customize grub boot menu</zh_CN>

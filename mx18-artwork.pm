@@ -40,7 +40,7 @@ MX 18 Wallpapers
    <mk>backgrounds originally supplied with MX 18</mk>
    <nb>backgrounds originally supplied with MX 18</nb>
    <nl>achtergronden oorspronkelijk geleverd met MX 18</nl>
-   <pl>backgrounds originally supplied with MX 18</pl>
+   <pl>tła oryginalnie dostarczone z MX 18</pl>
    <pt_BR>backgrounds originally supplied with MX 18</pt_BR>
    <pt>backgrounds originally supplied with MX 18</pt>
    <ro>backgrounds originally supplied with MX 18</ro>
@@ -49,7 +49,7 @@ MX 18 Wallpapers
    <sl>backgrounds originally supplied with MX 18</sl>
    <sq>backgrounds originally supplied with MX 18</sq>
    <sr>backgrounds originally supplied with MX 18</sr>
-   <sv>backgrounds originally supplied with MX 18</sv>
+   <sv>wallpapers ursprungligen medföljande MX 18</sv>
    <tr>backgrounds originally supplied with MX 18</tr>
    <uk>backgrounds originally supplied with MX 18</uk>
    <zh_CN>backgrounds originally supplied with MX 18</zh_CN>

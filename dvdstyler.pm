@@ -40,7 +40,7 @@ DVDStyler
    <mk>DVD authoring application for the creation of professional-looking DVDs</mk>
    <nb>DVD authoring application for the creation of professional-looking DVDs</nb>
    <nl>DVD auteurstoepassing voor het maken van professioneel ogende DVD's</nl>
-   <pl>DVD authoring application for the creation of professional-looking DVDs</pl>
+   <pl>aplikacja do authoringu DVD czyli tworzenia profesjonalnie wyglądających płyt DVD</pl>
    <pt_BR>DVD authoring application for the creation of professional-looking DVDs</pt_BR>
    <pt>Aplicação de composição de DVDs para criar DVDs de aspecto  profissional</pt>
    <ro>DVD authoring application for the creation of professional-looking DVDs</ro>

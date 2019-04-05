@@ -40,7 +40,7 @@ XMMS
    <mk>multimedia player modelled on winamp</mk>
    <nb>multimedia player modelled on winamp</nb>
    <nl>multimediaspeler gemodelleerd naar winamp</nl>
-   <pl>multimedia player modelled on winamp</pl>
+   <pl>odtwarzacz multimedialny wzorowany na Winampie</pl>
    <pt_BR>Reprodutor de multimídia semelhante ao winamp</pt_BR>
    <pt>Reprodutor de multimédia semelhante ao winamp</pt>
    <ro>multimedia player modelled on winamp</ro>

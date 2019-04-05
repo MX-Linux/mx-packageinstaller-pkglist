@@ -40,7 +40,7 @@ XnView
    <mk>picture viewer, browser and converter</mk>
    <nb>picture viewer, browser and converter</nb>
    <nl>afbeelding bekijker, verkenner en omzetter</nl>
-   <pl>picture viewer, browser and converter</pl>
+   <pl>przeglądarka zdjęć i konwerter</pl>
    <pt_BR>picture viewer, browser and converter</pt_BR>
    <pt>picture viewer, browser and converter</pt>
    <ro>picture viewer, browser and converter</ro>
@@ -49,7 +49,7 @@ XnView
    <sl>picture viewer, browser and converter</sl>
    <sq>picture viewer, browser and converter</sq>
    <sr>picture viewer, browser and converter</sr>
-   <sv>picture viewer, browser and converter</sv>
+   <sv>bildvisare och konverterare</sv>
    <tr>picture viewer, browser and converter</tr>
    <uk>picture viewer, browser and converter</uk>
    <zh_CN>picture viewer, browser and converter</zh_CN>

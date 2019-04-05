@@ -40,7 +40,7 @@ Bulgarian_Firefox
    <mk>Bulgarian localisation of Firefox</mk>
    <nb>Bulgarian localisation of Firefox</nb>
    <nl>Bulgaarse lokalisatie van Firefox</nl>
-   <pl>Bulgarian localisation of Firefox</pl>
+   <pl>Bułgarska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Búlgaro Localização para Firefox</pt_BR>
    <pt>Búlgaro Localização para Firefox</pt>
    <ro>Bulgarian localisation of Firefox</ro>

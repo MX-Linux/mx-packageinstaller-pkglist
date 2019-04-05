@@ -40,7 +40,7 @@ Play on Linux
    <mk>Play on Linux</mk>
    <nb>Play on Linux</nb>
    <nl>Speel op Linux</nl>
-   <pl>Play on Linux</pl>
+   <pl>umożliwia łatwą instalację i używanie wielu gier i oprogramowania</pl>
    <pt_BR>Play on Linux</pt_BR>
    <pt>Instalar programas do Windows</pt>
    <ro>Play on Linux</ro>

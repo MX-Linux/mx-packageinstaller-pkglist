@@ -40,7 +40,7 @@ adobe flash
    <mk>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</mk>
    <nb>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</nb>
    <nl>Officiële Adobe Flash, inclusief plugins voor chromium (pepperflash) en firefox</nl>
-   <pl>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</pl>
+   <pl>oficjalny Adobe Flash, w tym wtyczki do Chromium (Pepperflash) i Firefoksa</pl>
    <pt_BR>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</pt_BR>
    <pt>Adobe Flash oficial que inclui suplementos (plugins) para chromium (pepperflash) e firefox</pt>
    <ro>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</ro>

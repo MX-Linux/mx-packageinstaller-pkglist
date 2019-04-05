@@ -40,7 +40,7 @@ Filezilla
    <mk>a full-featured FTP client with an easy-to-use GUI</mk>
    <nb>a full-featured FTP client with an easy-to-use GUI</nb>
    <nl>een volledig voorzien FTP programma met een makkelijk te gebruiken grafische werkomgeving</nl>
-   <pl>a full-featured FTP client with an easy-to-use GUI</pl>
+   <pl>w pełni funkcjonalny klient FTP z łatwym w użyciu interfejsem graficznym</pl>
    <pt_BR>a full-featured FTP client with an easy-to-use GUI</pt_BR>
    <pt>Cliente FTP completo com interface gráfica intuitiva</pt>
    <ro>a full-featured FTP client with an easy-to-use GUI</ro>
