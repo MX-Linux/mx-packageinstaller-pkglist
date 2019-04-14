@@ -74,7 +74,7 @@ syncthing
 
 
 <postinstall>
-
+cp /usr/share/applications/syncthing-start.desktop /etc/xdg/autostart
 </postinstall>
 
 
