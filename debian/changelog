@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.04.05) mx; urgency=medium
+
+  * add pia and nordvpn installers 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 26 Apr 2019 19:44:25 -0400
+
 mx-packageinstaller-pkglist (19.04.04) mx; urgency=medium
 
   * add anydesk (fehlix) and font-manager (stevo) 
