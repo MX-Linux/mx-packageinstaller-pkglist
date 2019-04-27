@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.04.06) mx; urgency=medium
+
+  * removed icetea plugin from java.pm 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 27 Apr 2019 13:20:38 -0400
+
 mx-packageinstaller-pkglist (19.04.05) mx; urgency=medium
 
   * add pia and nordvpn installers 
