@@ -63,7 +63,7 @@ PIAVPN - Private Internet Access VPN
 <screenshot>none</screenshot>
 
 <preinstall>
-apt install piavpn-downloader-installer
+apt install --reinstall piavpn-downloader-installer
 </preinstall>
 
 <install_package_names>
