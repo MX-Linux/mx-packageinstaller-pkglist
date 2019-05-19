@@ -67,18 +67,18 @@ MX 4.19 PAE
 </preinstall>
 
 <install_package_names>
-linux-image-4.19.0-1-686-pae-unsigned
-linux-headers-4.19.0-1-686-pae
+linux-image-4.19.0-5-686-pae-unsigned
+linux-headers-4.19.0-5-686-pae
 </install_package_names>
 
 
 <postinstall>
-/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-4.19.0-1-686-pae-unsigned
+/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-4.19.0-5-686-pae-unsigned
 </postinstall>
 
 
 <uninstall_package_names>
-linux-image-4.19.0-1-686-pae-unsigned
-linux-headers-4.19.0-1-686-pae
+linux-image-4.19.0-5-686-pae-unsigned
+linux-headers-4.19.0-5-686-pae
 </uninstall_package_names>
 </app>
