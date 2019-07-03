@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.07) mx; urgency=medium
+
+  * updated google entries 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 02 Jul 2019 21:35:50 -0400
+
 mx-packageinstaller-pkglist (19.05.04) mx; urgency=medium
 
   * added mullvadvpn scripts 
