@@ -69,7 +69,6 @@ all
 <install_package_names>
 aspell-fr
 myspell-fr
-manpages-fr
 </install_package_names>
 
 
@@ -81,6 +80,5 @@ manpages-fr
 <uninstall_package_names>
 aspell-fr
 myspell-fr
-manpages-fr
 </uninstall_package_names>
 </app>

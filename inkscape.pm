@@ -76,7 +76,6 @@ pstoedit
 python-lxml
 python-numpy
 transfig
-libgnomevfs2-extra
 </install_package_names>
 
 
