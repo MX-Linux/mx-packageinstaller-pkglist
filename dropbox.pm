@@ -68,7 +68,6 @@ all
 
 <install_package_names>
 nautilus-dropbox
-python-gpgme
 </install_package_names>
 
 

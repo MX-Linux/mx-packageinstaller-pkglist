@@ -68,7 +68,7 @@ all
 
 <install_package_names>
 aspell-it
-myspell-it
+hunspell-it
 manpages-it
 </install_package_names>
 
@@ -80,7 +80,7 @@ manpages-it
 
 <uninstall_package_names>
 aspell-it
-myspell-it
+hunspell-it
 manpages-it
 </uninstall_package_names>
 </app>

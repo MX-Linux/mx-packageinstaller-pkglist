@@ -69,7 +69,6 @@ all
 <install_package_names>
 handbrake
 handbrake-cli
-handbrake-gtk
 </install_package_names>
 
 
@@ -81,6 +80,5 @@ handbrake-gtk
 <uninstall_package_names>
 handbrake
 handbrake-cli
-handbrake-gtk
 </uninstall_package_names>
 </app>
