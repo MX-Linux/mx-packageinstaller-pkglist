@@ -10,50 +10,50 @@ PIAVPN - Private Internet Access VPN
 </name>
 
 <description>
-   <am>Private Internet Access VPN and sysVinit scripts</am>
-   <ar>Private Internet Access VPN and sysVinit scripts</ar>
-   <bg>Private Internet Access VPN and sysVinit scripts</bg>
-   <ca>Private Internet Access VPN and sysVinit scripts</ca>
-   <cs>Private Internet Access VPN and sysVinit scripts</cs>
-   <da>Private Internet Access VPN and sysVinit scripts</da>
-   <de>Private Internet Access VPN and sysVinit scripts</de>
-   <el>Private Internet Access VPN and sysVinit scripts</el>
-   <en>Private Internet Access VPN and sysVinit scripts</en>
-   <es>Private Internet Access VPN and sysVinit scripts</es>
-   <et>Private Internet Access VPN and sysVinit scripts</et>
-   <eu>Private Internet Access VPN and sysVinit scripts</eu>
-   <fa>Private Internet Access VPN and sysVinit scripts</fa>
-   <fi>Private Internet Access VPN and sysVinit scripts</fi>
-   <fr>Private Internet Access VPN and sysVinit scripts</fr>
-   <he_IL>Private Internet Access VPN and sysVinit scripts</he_IL>
-   <hi>Private Internet Access VPN and sysVinit scripts</hi>
-   <hr>Private Internet Access VPN and sysVinit scripts</hr>
-   <hu>Private Internet Access VPN and sysVinit scripts</hu>
-   <id>Private Internet Access VPN and sysVinit scripts</id>
-   <is>Private Internet Access VPN and sysVinit scripts</is>
-   <it>Private Internet Access VPN and sysVinit scriptsv</it>
-   <ja_JP>Private Internet Access VPN and sysVinit scripts</ja_JP>
-   <ja>Private Internet Access VPN and sysVinit scripts</ja>
-   <kk>Private Internet Access VPN and sysVinit scripts</kk>
-   <ko>Private Internet Access VPN and sysVinit scripts</ko>
-   <lt>Private Internet Access VPN and sysVinit scripts</lt>
-   <mk>Private Internet Access VPN and sysVinit scripts</mk>
-   <nb>Private Internet Access VPN and sysVinit scripts</nb>
-   <nl>Private Internet Access VPN and sysVinit scripts</nl>
-   <pl>Private Internet Access VPN and sysVinit scripts</pl>
-   <pt_BR>Private Internet Access VPN and sysVinit scripts</pt_BR>
-   <pt>Private Internet Access VPN and sysVinit scripts</pt>
-   <ro>Private Internet Access VPN and sysVinit scripts</ro>
-   <ru>Private Internet Access VPN and sysVinit scripts</ru>
-   <sk>Private Internet Access VPN and sysVinit scripts</sk>
-   <sl>Private Internet Access VPN and sysVinit scripts</sl>
-   <sq>Private Internet Access VPN and sysVinit scripts</sq>
-   <sr>Private Internet Access VPN and sysVinit scripts</sr>
-   <sv>Private Internet Access VPN and sysVinit scripts</sv>
-   <tr>Private Internet Access VPN and sysVinit scripts</tr>
-   <uk>Private Internet Access VPN and sysVinit scripts</uk>
-   <zh_CN>Private Internet Access VPN and sysVinit scripts</zh_CN>
-   <zh_TW>Private Internet Access VPN and sysVinit scripts</zh_TW>
+   <am>Private Internet Access VPN</am>
+   <ar>Private Internet Access VPN</ar>
+   <bg>Private Internet Access VPN</bg>
+   <ca>Private Internet Access VPN</ca>
+   <cs>Private Internet Access VPN</cs>
+   <da>Private Internet Access VPN</da>
+   <de>Private Internet Access VPN</de>
+   <el>Private Internet Access VPN</el>
+   <en>Private Internet Access VPN</en>
+   <es>Private Internet Access VPN</es>
+   <et>Private Internet Access VPN</et>
+   <eu>Private Internet Access VPN</eu>
+   <fa>Private Internet Access VPN</fa>
+   <fi>Private Internet Access VPN</fi>
+   <fr>Private Internet Access VPN</fr>
+   <he_IL>Private Internet Access VPN</he_IL>
+   <hi>Private Internet Access VPN</hi>
+   <hr>Private Internet Access VPN</hr>
+   <hu>Private Internet Access VPN</hu>
+   <id>Private Internet Access VPN</id>
+   <is>Private Internet Access VPN</is>
+   <it>Private Internet Access VPNv</it>
+   <ja_JP>Private Internet Access VPN</ja_JP>
+   <ja>Private Internet Access VPN</ja>
+   <kk>Private Internet Access VPN</kk>
+   <ko>Private Internet Access VPN</ko>
+   <lt>Private Internet Access VPN</lt>
+   <mk>Private Internet Access VPN</mk>
+   <nb>Private Internet Access VPN</nb>
+   <nl>Private Internet Access VPN</nl>
+   <pl>Private Internet Access VPN</pl>
+   <pt_BR>Private Internet Access VPN</pt_BR>
+   <pt>Private Internet Access VPN</pt>
+   <ro>Private Internet Access VPN</ro>
+   <ru>Private Internet Access VPN</ru>
+   <sk>Private Internet Access VPN</sk>
+   <sl>Private Internet Access VPN</sl>
+   <sq>Private Internet Access VPN</sq>
+   <sr>Private Internet Access VPN</sr>
+   <sv>Private Internet Access VPN</sv>
+   <tr>Private Internet Access VPN</tr>
+   <uk>Private Internet Access VPN</uk>
+   <zh_CN>Private Internet Access VPN</zh_CN>
+   <zh_TW>Private Internet Access VPN</zh_TW>
 </description>
 
 <installable>
@@ -63,19 +63,21 @@ PIAVPN - Private Internet Access VPN
 <screenshot>none</screenshot>
 
 <preinstall>
-apt install --reinstall piavpn-downloader-installer
 </preinstall>
 
 <install_package_names>
-piavpn-sysvinit-compat
+piavpn-downloader-installer
 </install_package_names>
 
 <postinstall>
 
+if [ -x /usr/share/pia-downloader-installer/install_piavpn.sh ]; then
+        /usr/share/pia-downloader-installer/install_piavpn.sh
+fi
+
 </postinstall>
 
 <uninstall_package_names>
-piavpn-sysvinit-compat
 piavpn-downloader-installer
 </uninstall_package_names>
 </app>
