@@ -63,7 +63,6 @@ Google Earth Pro
 <screenshot>none</screenshot>
 
 <preinstall>
-wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
 echo "deb [arch=amd64] http://dl.google.com/linux/earth/deb/ stable main">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 </preinstall>

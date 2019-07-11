@@ -68,7 +68,7 @@ all
 
 <install_package_names>
 aspell-ca
-hunspell-ca
+myspell-ca
 </install_package_names>
 
 
@@ -79,6 +79,6 @@ hunspell-ca
 
 <uninstall_package_names>
 aspell-ca
-hunspell-ca
+myspell-ca
 </uninstall_package_names>
 </app>

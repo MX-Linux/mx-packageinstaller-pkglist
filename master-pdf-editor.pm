@@ -65,6 +65,7 @@ all
 <preinstall>
 curl -RL $(curl -s https://code-industry.net/free-pdf-editor/ | grep -Eo https://[^[:space:]]*$(dpkg --print-architecture).deb) -o /tmp/master_pdf.deb
 apt install /tmp/master_pdf.deb
+rm /tmp/master.txt
 rm /tmp/master_pdf.deb
 </preinstall>
 

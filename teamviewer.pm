@@ -64,7 +64,8 @@ all
 
 <preinstall>
 wget http://download.teamviewer.com/download/teamviewer_i386.deb
-apt-get install ./teamviewer_i386.deb
+dpkg -i teamviewer_i386.deb
+apt-get -f install
 rm teamviewer_i386.deb
 </preinstall>
 

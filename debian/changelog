@@ -1,22 +1,8 @@
-mx-packageinstaller-pkglist (19.07.02) mx; urgency=medium
+mx-packageinstaller-pkglist (19.05.05) mx; urgency=medium
 
-  * modified plex install routine (using plex-sysvinit-compat)
+  * piavpan installer changes 
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 06 Jul 2019 16:55:04 -0400
-
-mx-packageinstaller-pkglist (19.07.01) mx; urgency=medium
-
-  * update language entries
-  * adjust secondary and primary entries
-  * misc. other adjustments for buster 
-
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 05 Jul 2019 00:07:13 -0400
-
-mx-packageinstaller-pkglist (19.07) mx; urgency=medium
-
-  * updated google entries 
-
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 02 Jul 2019 21:35:50 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 10 Jul 2019 21:34:58 -0400
 
 mx-packageinstaller-pkglist (19.05.04) mx; urgency=medium
 

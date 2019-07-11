@@ -1,0 +1,56 @@
+#!/bin/sh
+
+### BEGIN INIT INFO
+# Provides:        plexmediaserver
+# Required-Start:  $network $remote_fs $syslog
+# Required-Stop:   $network $remote_fs $syslog
+# Default-Start:   2 3 4 5
+# Default-Stop:    0 6
+# Short-Description: Start plexmediaserver 
+### END INIT INFO
+
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+
+. /lib/lsb/init-functions
+
+DAEMON=/usr/sbin/start_pms
+PIDFILE=/var/run/plexmediaserver.pid
+
+test -x $DAEMON || exit 5
+
+LOCKFILE=/run/lock/plexmediaserver
+
+main()
+{
+case $1 in
+	start)
+		log_daemon_msg "Starting plexmediaserver" 
+		
+		(
+			flock -w 180 9
+			start-stop-daemon --start --chuid plex:plex --exec $DAEMON &
+		) 9>$LOCKFILE
+		log_end_msg $?
+  		;;
+	stop)
+		log_daemon_msg "Stopping plexmediaserver"
+		pkill Plex
+		log_end_msg $?
+  		;;
+    *)
+		echo "Usage: $0 {start|stop}"
+		exit 2
+		;;
+esac
+}
+
+if [ -L /etc/init.d/plexmediaserver ]; then 
+	if [ "$(readlink "/etc/init.d/plexmediaserver")" -ef "/etc/init.d/plexserver" ]; then
+		main $1
+	else
+		ln -fs /etc/init.d/plexserver /etc/init.d/plexmediaserver
+		main $1
+	fi
+fi
+
+exit 0

@@ -82,7 +82,6 @@ fcitx-frontend-gtk2
 fcitx-frontend-gtk3
 fcitx-frontend-qt4
 fcitx-frontend-qt5
-fonts-alee
 </install_package_names>
 
 
@@ -107,6 +106,5 @@ fcitx-frontend-gtk2
 fcitx-frontend-gtk3
 fcitx-frontend-qt4
 fcitx-frontend-qt5
-fonts-alee
 </uninstall_package_names>
 </app>

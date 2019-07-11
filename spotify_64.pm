@@ -66,6 +66,9 @@ Spotify
 apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 931FF8E79F0876134EDDBDCCA87FF9DF48BF1C90
 echo "deb http://repository.spotify.com stable non-free">/etc/apt/sources.list.d/spotify.list
 apt-get update
+wget http://ftp.us.debian.org/debian/pool/main/o/openssl/libssl1.0.0_1.0.1t-1+deb8u6_amd64.deb -o libssl1.0.0.deb
+dpkg -i libssl1.0.0.deb
+rm -f libssl1.0.0.deb
 </preinstall>
 
 <install_package_names>
