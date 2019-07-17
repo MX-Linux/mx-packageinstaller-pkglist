@@ -63,20 +63,29 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-curl -RL $(curl -s https://anydesk.com/de/downloads/linux | grep -m1 -Eo https://[^[:space:]]*$(dpkg --print-architecture).deb) -o /tmp/anydesk.deb
-apt-get install /tmp/anydesk.deb
-rm /tmp/anydesk.deb
+rm /tmp/anydesk.deb 2>/dev/null
+curl -RL  -o /tmp/anydesk.deb $(curl -s https://anydesk.com/en/downloads/linux \
+  | grep -m1 -Eo https://[^[:space:]]*$(dpkg --print-architecture).deb)
+# fehlix: fix anydesk deb package
+# apt-get install /tmp/anydesk.deb
+dpkg --unpack /tmp/anydesk.deb
+chmod 755 /var/lib/dpkg/info/anydesk.postinst 2>/dev/null
+chmod 755 /var/lib/dpkg/info/anydesk.postrm   2>/dev/null
+chmod 755 /var/lib/dpkg/info/anydesk.preinst  2>/dev/null
+chmod 755 /var/lib/dpkg/info/anydesk.prerm    2>/dev/null
+chmod -R 755 /usr/share/anydesk               2>/dev/null
+dpkg --configure anydesk
+apt-get install -f
+rm /tmp/anydesk.deb 2>/dev/null
 </preinstall>
 
 <install_package_names>
 
 </install_package_names>
 
-
 <postinstall>
 
 </postinstall>
-
 
 <uninstall_package_names>
 anydesk

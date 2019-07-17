@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (19.07.04) mx; urgency=medium
+
+  * updae anydesk, teamviewer, add freeoffice
+  * fix plex 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 16 Jul 2019 21:40:47 -0400
+
 mx-packageinstaller-pkglist (19.07.03) mx; urgency=medium
 
   * update piavpn (fehlix)
