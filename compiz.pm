@@ -68,6 +68,12 @@ all
 
 <install_package_names>
 compiz
+emerald 
+emerald-themes 
+fusion-icon 
+compiz-plugins-extra 
+compiz-plugins-experimental
+simple-ccsm
 </install_package_names>
 
 

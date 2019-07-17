@@ -63,20 +63,20 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-wget http://download.teamviewer.com/download/teamviewer_i386.deb
-apt-get install ./teamviewer_i386.deb
-rm teamviewer_i386.deb
+
+( curl -RLJ https://download.teamviewer.com/download/linux/signature/TeamViewer2017.asc | apt-key add - ) 2>/dev/null 1>/dev/null
+echo "deb http://linux.teamviewer.com/deb stable main" > /etc/apt/sources.list.d/teamviewer.list
+apt-get update
+
 </preinstall>
 
 <install_package_names>
-
+teamviewer
 </install_package_names>
-
 
 <postinstall>
 
 </postinstall>
-
 
 <uninstall_package_names>
 teamviewer

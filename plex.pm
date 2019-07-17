@@ -75,7 +75,9 @@ plexmediaserver
 
 
 <postinstall>
-[ -x /usr/sbin/start_pms ] && apt-get install plex-sysvinit-compat
+if [ -x /usr/sbin/start_pms ]; then
+apt-get install plex-sysvinit-compat
+fi
 </postinstall>
 
 
@@ -83,5 +85,4 @@ plexmediaserver
 plexmediaserver
 plex-sysvinit-compat
 </uninstall_package_names>
-</app>
 </app>
