@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.07.05) mx; urgency=medium
+
+  * add firefox-esr 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 17 Jul 2019 23:10:54 -0400
+
 mx-packageinstaller-pkglist (19.07.04) mx; urgency=medium
 
   * updae anydesk, teamviewer, add freeoffice
