@@ -52,7 +52,8 @@ Firefox-ESR
    <sv>Senaste Firefox-ESR</sv>
    <tr>Latest Firefox-ESR</tr>
    <uk>Крайній Firefox-ESR</uk>
-   <zh_CN>Latest Firefox-ESR</zh_TW>
+   <zh_CN>Latest Firefox-ESR</zh_CN>
+   <zh_TW>Latest Firefox-ESR</zh_TW>
 </description>
 
 <installable>
