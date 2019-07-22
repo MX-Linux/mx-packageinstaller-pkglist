@@ -68,7 +68,7 @@ all
 
 <install_package_names>
 gnome-games
-gnome-hearts
+hearts
 </install_package_names>
 
 
@@ -79,6 +79,6 @@ gnome-hearts
 
 <uninstall_package_names>
 gnome-games
-gnome-hearts
+hearts
 </uninstall_package_names>
 </app>

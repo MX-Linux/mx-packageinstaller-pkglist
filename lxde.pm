@@ -68,6 +68,9 @@ all
 
 <install_package_names>
 lxde
+lxtask
+lxlauncher
+lxmusic
 </install_package_names>
 
 
@@ -84,10 +87,8 @@ lxterminal
 lxde-core
 lxde-icon-theme
 lxinput
-lxrandr
 lxlauncher
 lxtask
-update-notifier
 lxmusic
 lxpanel
 </uninstall_package_names>
