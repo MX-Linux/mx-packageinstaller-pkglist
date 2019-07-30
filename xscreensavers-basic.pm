@@ -68,6 +68,7 @@ all
 
 <install_package_names>
 xscreensaver
+xscreensaver-data
 </install_package_names>
 
 
@@ -78,5 +79,6 @@ xscreensaver
 
 <uninstall_package_names>
 xscreensaver
+xscreensaver-data
 </uninstall_package_names>
 </app>

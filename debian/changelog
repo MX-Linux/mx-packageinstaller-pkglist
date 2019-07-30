@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.07.08) mx; urgency=medium
+
+  *  updated screensaver entries
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 30 Jul 2019 18:53:44 -0400
+
 mx-packageinstaller-pkglist (19.07.07) mx; urgency=medium
 
   * remove compiz and shutter 
