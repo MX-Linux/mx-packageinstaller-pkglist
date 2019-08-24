@@ -63,9 +63,9 @@ Debian-Backports 32 bit No PAE
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://http.debian.net/debian stretch-backports main">/etc/apt/sources.list.d/mxpitemp.list
+echo "deb http://http.debian.net/debian buster-backports main">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
-apt-get install -t stretch-backports
+apt-get install -t buster-backports
 </preinstall>
 
 <install_package_names>
