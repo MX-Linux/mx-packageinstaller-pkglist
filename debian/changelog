@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.08.02) mx; urgency=medium
+
+  * update chromium routine 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 27 Aug 2019 21:10:34 -0400
+
 mx-packageinstaller-pkglist (19.08.01) mx; urgency=medium
 
   * misc. updates 
