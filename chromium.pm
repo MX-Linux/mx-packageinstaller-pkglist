@@ -69,6 +69,7 @@ all
 <install_package_names>
 chromium
 chromium-l10n
+chromium-sandbox
 </install_package_names>
 
 
@@ -80,5 +81,6 @@ chromium-l10n
 <uninstall_package_names>
 chromium
 chromium-l10n
+chromium-sandbox
 </uninstall_package_names>
 </app>
