@@ -15,11 +15,11 @@ AnyDesk
    <bg>AnyDesk remote access</bg>
    <ca>Accés remot AnyDesk</ca>
    <cs>AnyDesk remote access</cs>
-   <da>AnyDesk fjernadgang</da>
-   <de>Fernzugriff mit AnyDesk</de>
+   <da>AnyDesk remote access</da>
+   <de>AnyDesk Fernzugriff</de>
    <el>AnyDesk απομακρυσμένη πρόσβαση</el>
    <en>AnyDesk remote access</en>
-   <es>AnyDesk remote access</es>
+   <es>Acceso remoto a cualquier escritorio.</es>
    <et>AnyDesk remote access</et>
    <eu>AnyDesk remote access</eu>
    <fa>AnyDesk remote access</fa>
@@ -36,17 +36,17 @@ AnyDesk
    <ja>AnyDesk remote access</ja>
    <kk>AnyDesk remote access</kk>
    <ko>AnyDesk remote access</ko>
-   <lt>AnyDesk nuotolinė prieiga</lt>
+   <lt>AnyDesk remote access</lt>
    <mk>AnyDesk remote access</mk>
    <nb>AnyDesk remote access</nb>
    <nl>AnyDesk afstand toegang</nl>
    <pl>dostęp zdalny AnyDesk</pl>
-   <pt_BR>AnyDesk remote access</pt_BR>
-   <pt>AnyDesk remote access</pt>
+   <pt_BR>Aplicativo de acesso remoto</pt_BR>
+   <pt>Aplicação de acesso remoto</pt>
    <ro>AnyDesk remote access</ro>
-   <ru>Удаленный рабочий стол, передача файлов и видеосвязь</ru>
-   <sk>AnyDesk remote access</sk>
-   <sl>AnyDesk remote access</sl>
+   <ru>Удаленный доступ AnyDesk</ru>
+   <sk>Vzdialený prýstup AnyDesk</sk>
+   <sl>AnyDesk oddaljeni dostop</sl>
    <sq>AnyDesk remote access</sq>
    <sr>AnyDesk remote access</sr>
    <sv>AnyDesk fjärråtkomst</sv>
@@ -65,7 +65,7 @@ all
 <preinstall>
 rm /tmp/anydesk.deb 2>/dev/null
 curl -RL  -o /tmp/anydesk.deb $(curl -s https://anydesk.com/en/downloads/linux \
-  | grep -m1 -Eo https://[^[:space:]]*$(dpkg --print-architecture).deb)
+| grep -m1 -Eo https://[^[:space:]]*$(dpkg --print-architecture).deb)
 # fehlix: fix anydesk deb package
 # apt-get install /tmp/anydesk.deb
 dpkg --unpack /tmp/anydesk.deb

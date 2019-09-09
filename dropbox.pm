@@ -41,12 +41,12 @@ Dropbox
    <nb>Dropbox file sync utility</nb>
    <nl>Dropbox bestand synchronisatie gereedschap</nl>
    <pl>narzędzie synchronizacji plików Dropbox</pl>
-   <pt_BR>Dropbox file sync utility</pt_BR>
+   <pt_BR>Utilitário de armazenamento e sincronização de arquivos</pt_BR>
    <pt>Utilitário de armazenagem e sincronização de ficheiros</pt>
    <ro>Dropbox file sync utility</ro>
    <ru>Утилита синхронизации файлов с Dropbox</ru>
    <sk>Dropbox file sync utility</sk>
-   <sl>Dropbox file sync utility</sl>
+   <sl>orodje za sinhronizacijo Dropbox datotek</sl>
    <sq>Dropbox file sync utility</sq>
    <sr>Dropbox file sync utility</sr>
    <sv>Dropbox filsynkroniserings-redskap</sv>

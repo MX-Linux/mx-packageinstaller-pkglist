@@ -19,7 +19,7 @@ MOC
    <de>Ein Konsolen-Audio-Player, der leistungsstark und einfach zu bedienen ist.</de>
    <el>ένα κονσόλα ήχου που έχει σχεδιαστεί για να είναι ισχυρό και εύκολο στη χρήση</el>
    <en>a console audio player designed to be powerful and easy to use</en>
-   <es>reproductor de audio para consola de comandos potente y fácil de usar</es>
+   <es>Reproductor de audio para consola de comandos potente y fácil de usar</es>
    <et>a console audio player designed to be powerful and easy to use</et>
    <eu>a console audio player designed to be powerful and easy to use</eu>
    <fa>a console audio player designed to be powerful and easy to use</fa>
@@ -41,7 +41,7 @@ MOC
    <nb>a console audio player designed to be powerful and easy to use</nb>
    <nl>een krachtige en gebruiksvriendelijke audiospeler voor de console</nl>
    <pl>konsolowy odtwarzacz audio zaprojektowany tak, aby był potężny i łatwy w użyciu</pl>
-   <pt_BR>a console audio player designed to be powerful and easy to use</pt_BR>
+   <pt_BR>Reprodutor de áudio em consola/terminal concebido para ser poderoso e fácil de usar</pt_BR>
    <pt>Reprodutor de áudio em consola/terminal concebido para ser poderoso e fácil de usar</pt>
    <ro>a console audio player designed to be powerful and easy to use</ro>
    <ru>Консольный аудиоплеер созданный для простоты использования и богатого функционала</ru>

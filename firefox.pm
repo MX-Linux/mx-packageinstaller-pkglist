@@ -41,12 +41,12 @@ Firefox
    <nb>Latest Firefox</nb>
    <nl>Meest recente Firefox</nl>
    <pl>najnowszy Firefox</pl>
-   <pt_BR>Latest Firefox</pt_BR>
-   <pt>Latest Firefox</pt>
+   <pt_BR>Firefox mais recente</pt_BR>
+   <pt>Firefox mais recente</pt>
    <ro>Latest Firefox</ro>
    <ru>Браузер Firefox последней версии</ru>
    <sk>Latest Firefox</sk>
-   <sl>Latest Firefox</sl>
+   <sl>Zadnja različica Firefox-a</sl>
    <sq>Latest Firefox</sq>
    <sr>Latest Firefox</sr>
    <sv>Senaste Firefox</sv>

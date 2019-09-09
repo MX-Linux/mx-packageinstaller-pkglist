@@ -19,7 +19,7 @@ Polish_Thunderbird
    <de>Polnische Lokalisierung von Thunderbird</de>
    <el>Πολωνικός εντοπισμός του Thunderbird</el>
    <en>Polish localisation of Thunderbird</en>
-   <es>Polish localisation of Thunderbird</es>
+   <es>Localización Polaca de Thunderbird</es>
    <et>Polish localisation of Thunderbird</et>
    <eu>Polish localisation of Thunderbird</eu>
    <fa>Polish localisation of Thunderbird</fa>

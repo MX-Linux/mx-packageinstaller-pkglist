@@ -19,7 +19,7 @@ Norwegian_Libreoffice
    <de>Norwegisches Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Νορβηγικά</el>
    <en>Norwegian Language Meta-Package for LibreOffice</en>
-   <es>Norwegian Language Meta-Package for LibreOffice</es>
+   <es>Meta-Paquete de Idioma Noruego para LibreOffice</es>
    <et>Norwegian Language Meta-Package for LibreOffice</et>
    <eu>Norwegian Language Meta-Package for LibreOffice</eu>
    <fa>Norwegian Language Meta-Package for LibreOffice</fa>

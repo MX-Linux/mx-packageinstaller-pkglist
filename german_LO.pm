@@ -19,7 +19,7 @@ German_Libreoffice
    <de>Deutsches Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα γερμανικά</el>
    <en>German Language Meta-Package for LibreOffice</en>
-   <es>German Language Meta-Package for LibreOffice</es>
+   <es>Meta-Paquete de Idioma Alemán para LibreOffice</es>
    <et>German Language Meta-Package for LibreOffice</et>
    <eu>German Language Meta-Package for LibreOffice</eu>
    <fa>German Language Meta-Package for LibreOffice</fa>

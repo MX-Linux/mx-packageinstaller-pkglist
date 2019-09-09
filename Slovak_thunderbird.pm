@@ -19,7 +19,7 @@ Slovak_Thunderbird
    <de>Slowakische Lokalisierung von Thunderbird</de>
    <el>Σλοβακική εντοπισμός του Thunderbird</el>
    <en>Slovak localisation of Thunderbird</en>
-   <es>Slovak localisation of Thunderbird</es>
+   <es>Localización Eslovaca de Thunderbird</es>
    <et>Slovak localisation of Thunderbird</et>
    <eu>Slovak localisation of Thunderbird</eu>
    <fa>Slovak localisation of Thunderbird</fa>

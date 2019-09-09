@@ -19,7 +19,7 @@ Meld
    <de>Grafisches Werkzeug zum Vergleichen und Zusammenführen von Dateien</de>
    <el>γραφικό εργαλείο για τη διάχυση και συγχώνευση αρχείων</el>
    <en>graphical tool to diff and merge files</en>
-   <es>herramienta gráfica de comparación de archivos</es>
+   <es>Herramienta gráfica de comparación de archivos</es>
    <et>graphical tool to diff and merge files</et>
    <eu>graphical tool to diff and merge files</eu>
    <fa>graphical tool to diff and merge files</fa>
@@ -41,7 +41,7 @@ Meld
    <nb>graphical tool to diff and merge files</nb>
    <nl>grafisch hulpmiddel om bestanden te scheiden en samen te voegen</nl>
    <pl>graficzne narzędzie do porównywania i scalania plików</pl>
-   <pt_BR>graphical tool to diff and merge files</pt_BR>
+   <pt_BR>Ferramenta gráfica para comparar (diff) e integrar (merge) arquivos</pt_BR>
    <pt>Ferramenta gráfica para comparar (diff) e integrar (merge) ficheiros</pt>
    <ro>graphical tool to diff and merge files</ro>
    <ru>Графическая утилита для сравнения и слияния файлов и каталогов</ru>

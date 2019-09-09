@@ -19,7 +19,7 @@ Audacity
    <de>Ein Mehrspur-Audio-Editor</de>
    <el>ένα πρόγραμμα επεξεργασίας ήχου πολλαπλών κομματιών</el>
    <en>a multi-track audio editor</en>
-   <es>editor de audio multi-pistas</es>
+   <es>Editor de audio multi-pistas</es>
    <et>a multi-track audio editor</et>
    <eu>a multi-track audio editor</eu>
    <fa>a multi-track audio editor</fa>
@@ -45,8 +45,8 @@ Audacity
    <pt>Editor de áudio multi-faixa</pt>
    <ro>a multi-track audio editor</ro>
    <ru>Многодорожечный аудио редактор</ru>
-   <sk>a multi-track audio editor</sk>
-   <sl>a multi-track audio editor</sl>
+   <sk>viackanálový audio editor</sk>
+   <sl>večstezni urejevalnik zvoka</sl>
    <sq>a multi-track audio editor</sq>
    <sr>a multi-track audio editor</sr>
    <sv>en flerspårs ljudredigerare</sv>

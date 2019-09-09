@@ -42,11 +42,11 @@ clonezilla
    <nl>kloon en herstel schijven en partities</nl>
    <pl>klonowanie i przywracanie dysków i partycji</pl>
    <pt_BR>restaurar ou fazer uma cópia de discos e partições</pt_BR>
-   <pt>clonar e restaurar discos e partições</pt>
+   <pt>Clonar e restaurar discos e partições</pt>
    <ro>clone and restore disks and partitions</ro>
    <ru>Клонирование и восстановление дисков и разделов</ru>
    <sk>clone and restore disks and partitions</sk>
-   <sl>clone and restore disks and partitions</sl>
+   <sl>kloniranje in obnova diskov in razdelkov</sl>
    <sq>clone and restore disks and partitions</sq>
    <sr>clone and restore disks and partitions</sr>
    <sv>klona och återställ diskar och partitioner</sv>

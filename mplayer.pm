@@ -19,7 +19,7 @@ mplayer
    <de>Ein leistungsstarker Multimedia-Player und vieles mehr</de>
    <el>ένα ισχυρό πρόγραμμα αναπαραγωγής πολυμέσων και πολλά άλλα</el>
    <en>a powerful multimedia player and much more</en>
-   <es>potente reproductor multimedia y mucho más</es>
+   <es>Potente reproductor multimedia y mucho más</es>
    <et>a powerful multimedia player and much more</et>
    <eu>a powerful multimedia player and much more</eu>
    <fa>a powerful multimedia player and much more</fa>
@@ -41,7 +41,7 @@ mplayer
    <nb>a powerful multimedia player and much more</nb>
    <nl>een krachtige multimediaspeler en nog veel meer</nl>
    <pl>potężny odtwarzacz multimedialny i wiele więcej</pl>
-   <pt_BR>a powerful multimedia player and much more</pt_BR>
+   <pt_BR>Poderoso reprodutor de multimídia e muito mais</pt_BR>
    <pt>Poderoso reprodutor de multimédia e muito mais</pt>
    <ro>a powerful multimedia player and much more</ro>
    <ru>Продвинутый медиаплеер и даже больше</ru>

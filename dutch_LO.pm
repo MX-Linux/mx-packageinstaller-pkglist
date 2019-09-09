@@ -19,7 +19,7 @@ Dutch_Libreoffice
    <de>Niederländisches LibreOffice Meta-Paket</de>
    <el>Libreoffice για ολλανδική γλώσσα</el>
    <en>Dutch LibreOffice Language Meta-Package</en>
-   <es>Dutch LibreOffice Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Holandés LibreOffice</es>
    <et>Dutch LibreOffice Language Meta-Package</et>
    <eu>Dutch LibreOffice Language Meta-Package</eu>
    <fa>Dutch LibreOffice Language Meta-Package</fa>

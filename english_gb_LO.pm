@@ -19,7 +19,7 @@ GB_English_Libreoffice
    <de>English (GB) Help for LibreOffice</de>
    <el>Βοήθεια για το LibreOffice στα Αγγλικά (ΜΒ)</el>
    <en>GB English Help for LibreOffice</en>
-   <es>GB English Help for LibreOffice</es>
+   <es>Ayuda Inglesa (GB) para LibreOffice</es>
    <et>GB English Help for LibreOffice</et>
    <eu>GB English Help for LibreOffice</eu>
    <fa>GB English Help for LibreOffice</fa>

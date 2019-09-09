@@ -19,7 +19,7 @@ Dutch
    <de>Niederländisches Sprach-Meta-Paket</de>
    <el>Ολλανδική γλώσσα</el>
    <en>Dutch Language Meta-Package</en>
-   <es>Dutch Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Holandés</es>
    <et>Dutch Language Meta-Package</et>
    <eu>Dutch Language Meta-Package</eu>
    <fa>Dutch Language Meta-Package</fa>

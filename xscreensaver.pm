@@ -13,13 +13,13 @@ xscreensaver
    <am>the classic screensaver for X servers</am>
    <ar>the classic screensaver for X servers</ar>
    <bg>the classic screensaver for X servers</bg>
-   <ca>the classic screensaver for X servers</ca>
+   <ca>l'estalvi de pantalla clàssic per a servidors de X</ca>
    <cs>the classic screensaver for X servers</cs>
    <da>den klassiske pauseskærm til X-servere</da>
    <de>klassische Bildschirmschoner für X Server</de>
    <el>κλασική προφύλαξη οθόνης</el>
    <en>the classic screensaver for X servers</en>
-   <es>the classic screensaver for X servers</es>
+   <es>El protector de pantalla clásico para servidores X</es>
    <et>the classic screensaver for X servers</et>
    <eu>the classic screensaver for X servers</eu>
    <fa>the classic screensaver for X servers</fa>
@@ -36,13 +36,13 @@ xscreensaver
    <ja>the classic screensaver for X servers</ja>
    <kk>the classic screensaver for X servers</kk>
    <ko>the classic screensaver for X servers</ko>
-   <lt>the classic screensaver for X servers</lt>
+   <lt>klasikinė ekrano užsklanda, skirta X serveriams</lt>
    <mk>the classic screensaver for X servers</mk>
    <nb>the classic screensaver for X servers</nb>
    <nl>de klassieke screensaver voor X servers</nl>
    <pl>klasyczny wygaszacz ekranu dla serwerów X</pl>
-   <pt_BR>the classic screensaver for X servers</pt_BR>
-   <pt>the classic screensaver for X servers</pt>
+   <pt_BR>A proteção de tela clássica para servidores X</pt_BR>
+   <pt>A protecção de ecrã clássica para servidores X</pt>
    <ro>the classic screensaver for X servers</ro>
    <ru>классические заставки экрана для X сервера</ru>
    <sk>the classic screensaver for X servers</sk>

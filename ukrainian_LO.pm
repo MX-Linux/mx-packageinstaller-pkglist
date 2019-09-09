@@ -19,7 +19,7 @@ Ukrainian_Libreoffice
    <de>Ukrainische Lokalisierung von LibreOffice</de>
    <el>LibreOffice στην ουκρανική γλώσσα</el>
    <en>Ukrainian localisation of LibreOffice</en>
-   <es>Ukrainian localisation of LibreOffice</es>
+   <es>Localización Ucraniana de LibreOffice</es>
    <et>Ukrainian localisation of LibreOffice</et>
    <eu>Ukrainian localisation of LibreOffice</eu>
    <fa>Ukrainian localisation of LibreOffice</fa>

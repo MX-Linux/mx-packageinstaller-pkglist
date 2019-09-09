@@ -13,13 +13,13 @@ grub customizer
    <am>customize grub boot menu</am>
    <ar>customize grub boot menu</ar>
    <bg>customize grub boot menu</bg>
-   <ca>customize grub boot menu</ca>
+   <ca>personalitza el menú d'arrencada GRUB</ca>
    <cs>customize grub boot menu</cs>
    <da>tilpas grub-opstartsmenu</da>
    <de>Individualisierung des GRUB Bootmenüs</de>
    <el>προσαρμόστε το μενού εκκίνησης grub</el>
    <en>customize grub boot menu</en>
-   <es>customize grub boot menu</es>
+   <es>Personalizar el menú de arranque grub</es>
    <et>customize grub boot menu</et>
    <eu>customize grub boot menu</eu>
    <fa>customize grub boot menu</fa>
@@ -41,8 +41,8 @@ grub customizer
    <nb>customize grub boot menu</nb>
    <nl>pas grub boot menu aan</nl>
    <pl>dostosowywuje menu rozruchowe grub</pl>
-   <pt_BR>customize grub boot menu</pt_BR>
-   <pt>customize grub boot menu</pt>
+   <pt_BR>Personalizar o menu do grub</pt_BR>
+   <pt>Personalizar o menu do grub</pt>
    <ro>customize grub boot menu</ro>
    <ru>настройка меню загрузки GRUB</ru>
    <sk>customize grub boot menu</sk>

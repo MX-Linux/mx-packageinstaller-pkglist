@@ -19,7 +19,7 @@ Waterfox
    <de>Alternativer Mozilla-basierter Browser</de>
    <el>εναλλακτικό πρόγραμμα περιήγησης που βασίζεται σε mozilla</el>
    <en>alternative mozilla-based browser</en>
-   <es>navegador alternativo basado en mozilla</es>
+   <es>Navegador alternativo basado en Mozilla</es>
    <et>alternative mozilla-based browser</et>
    <eu>alternative mozilla-based browser</eu>
    <fa>alternative mozilla-based browser</fa>

@@ -19,7 +19,7 @@ Advert-Block-antiX
    <de>Blockiert Werbung über die Datei /etc/hosts</de>
    <el>Αποκλείστε διαφημιστές με ένα τροποποιημένο αρχείο Hosts</el>
    <en>Block adservers with a modified Hosts file</en>
-   <es>Bloquear adservers con fichero Hosts modificado</es>
+   <es>Bloquear servidores de anuncios con fichero Hosts modificado</es>
    <et>Block adservers with a modified Hosts file</et>
    <eu>Block adservers with a modified Hosts file</eu>
    <fa>Block adservers with a modified Hosts file</fa>
@@ -41,12 +41,12 @@ Advert-Block-antiX
    <nb>Block adservers with a modified Hosts file</nb>
    <nl>Blokkeer adservers met een aangepast Hosts bestand</nl>
    <pl>blokuje serwery reklamowe ze zmodyfikowanym plikiem Hosts</pl>
-   <pt_BR>Block adservers with a modified Hosts file</pt_BR>
+   <pt_BR>Bloquear servidores de publicidade através de um ficheiro de hospedeiros (Hosts) modificado</pt_BR>
    <pt>Bloquear servidores de publicidade através de um ficheiro de hospedeiros (Hosts) modificado</pt>
    <ro>Block adservers with a modified Hosts file</ro>
    <ru>Блокирует сервера рекламы при помощи модицированного файла Hosts</ru>
-   <sk>Block adservers with a modified Hosts file</sk>
-   <sl>Block adservers with a modified Hosts file</sl>
+   <sk>Blokovanie reklamných serverov cez upravený Hosts</sk>
+   <sl>Blokiranje oglasnih strežnikov s spreminjanjem datoteke Hosts</sl>
    <sq>Block adservers with a modified Hosts file</sq>
    <sr>Block adservers with a modified Hosts file</sr>
    <sv>Blockera annonsservrar med en modifierad Hosts fil</sv>

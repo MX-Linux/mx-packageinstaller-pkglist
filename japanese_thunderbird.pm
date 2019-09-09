@@ -19,7 +19,7 @@ Japanses_Thunderbird
    <de>Japanische Lokalisierung von Thunderbird</de>
    <el>Ιαπωνικός εντοπισμός του Thunderbird</el>
    <en>Japanese localisation of Thunderbird</en>
-   <es>Japanese localisation of Thunderbird</es>
+   <es>Localización Japonesa de Thunderbird</es>
    <et>Japanese localisation of Thunderbird</et>
    <eu>Japanese localisation of Thunderbird</eu>
    <fa>Japanese localisation of Thunderbird</fa>

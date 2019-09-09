@@ -19,7 +19,7 @@ Danish_Firefox
    <de>Dänische Lokalisierung von Firefox</de>
    <el>Δανικός εντοπισμός του Firefox</el>
    <en>Danish localisation of Firefox</en>
-   <es>Danish localisation of Firefox</es>
+   <es>Localización Danesa de Firefox</es>
    <et>Danish localisation of Firefox</et>
    <eu>Danish localisation of Firefox</eu>
    <fa>Danish localisation of Firefox</fa>
@@ -44,7 +44,7 @@ Danish_Firefox
    <pt_BR>Dinamarquês Localização para Firefox</pt_BR>
    <pt>Dinamarquês Localização para Firefox</pt>
    <ro>Danish localisation of Firefox</ro>
-   <ru>Danish localisation of Firefox</ru>
+   <ru>Датская локализация Firefox</ru>
    <sk>Danish localisation of Firefox</sk>
    <sl>Danish localisation of Firefox</sl>
    <sq>Danish localisation of Firefox</sq>

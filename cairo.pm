@@ -19,7 +19,7 @@ Cairo Dock
    <de>3d-fähiges Dock mit Plugins</de>
    <el>3d dock με plugins</el>
    <en>3d capable dock w/ plugins</en>
-   <es>Dock c/ plugins y soporte 3D</es>
+   <es>Muelle compatible con plugins 3D</es>
    <et>3d capable dock w/ plugins</et>
    <eu>3d capable dock w/ plugins</eu>
    <fa>3d capable dock w/ plugins</fa>
@@ -41,12 +41,12 @@ Cairo Dock
    <nb>3d capable dock w/ plugins</nb>
    <nl>3d geschikt dock met plugins</nl>
    <pl>panel dokujący obsługujacy 3D</pl>
-   <pt_BR>3d capable dock w/ plugins</pt_BR>
+   <pt_BR>Doca com capacidade 3D, com suplementos (plugins)</pt_BR>
    <pt>Doca com capacidade 3D, com suplementos (plugins)</pt>
    <ro>3d capable dock w/ plugins</ro>
    <ru>Док-панель с поддержкой 3D и плагинами</ru>
    <sk>3d capable dock w/ plugins</sk>
-   <sl>3d capable dock w/ plugins</sl>
+   <sl>Sidrišče z vstavki, ki podpira tudi 3d</sl>
    <sq>3d capable dock w/ plugins</sq>
    <sr>3d capable dock w/ plugins</sr>
    <sv>3D kapabel docka med plugins</sv>

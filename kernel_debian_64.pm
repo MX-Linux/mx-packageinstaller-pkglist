@@ -19,7 +19,7 @@ Debian 64 bit
    <de>Standard Debian 4.9 Kernel Meltdown gepatcht, 64bit</de>
    <el>Προκαθορισμένο Debian 4.9 πυρήνα Meltdown patched, 64bit</el>
    <en>Default Debian 4.9 kernel Meltdown patched, 64bit</en>
-   <es>Default Debian 4.9 kernel Meltdown patched, 64bit</es>
+   <es>kernel antiX 4.9 con parche Meltdown y Spectre, 64 bit</es>
    <et>Default Debian 4.9 kernel Meltdown patched, 64bit</et>
    <eu>Default Debian 4.9 kernel Meltdown patched, 64bit</eu>
    <fa>Default Debian 4.9 kernel Meltdown patched, 64bit</fa>

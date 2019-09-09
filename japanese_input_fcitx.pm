@@ -19,7 +19,7 @@ Japanese_Input_fcitx
    <de>Japanisch Fcitx</de>
    <el>Ιαπωνικά fcitx</el>
    <en>Japanese fcitx</en>
-   <es>Japanese fcitx</es>
+   <es>Fcitx Japonés</es>
    <et>Japanese fcitx</et>
    <eu>Japanese fcitx</eu>
    <fa>Japanese fcitx</fa>

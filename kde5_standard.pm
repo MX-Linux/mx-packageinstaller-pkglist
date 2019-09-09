@@ -19,7 +19,7 @@ KDE5 Standard
    <de>Installiert KDE-standard, KDE-plasma-desktop</de>
    <el>Εγκατάσταση του kde-standard, kde-plasma-desktop</el>
    <en>Installs kde-standard, kde-plasma-desktop</en>
-   <es>Installs kde-standard, kde-plasma-desktop</es>
+   <es>Instala kde-standard, kde-escritorio-plasma</es>
    <et>Installs kde-standard, kde-plasma-desktop</et>
    <eu>Installs kde-standard, kde-plasma-desktop</eu>
    <fa>Installs kde-standard, kde-plasma-desktop</fa>
@@ -41,7 +41,7 @@ KDE5 Standard
    <nb>Installs kde-standard, kde-plasma-desktop</nb>
    <nl>Installeert kde-standard, kde-plasma-desktop</nl>
    <pl>instaluje kde-standard, kde-plasma-desktop</pl>
-   <pt_BR>Installs kde-standard, kde-plasma-desktop</pt_BR>
+   <pt_BR>Instala os pacotes kde-standard e kde-plasma-desktop</pt_BR>
    <pt>Instala os pacotes kde-standard e kde-plasma-desktop</pt>
    <ro>Installs kde-standard, kde-plasma-desktop</ro>
    <ru>Устанавливает kde-standart, kde-plasma-desktop</ru>

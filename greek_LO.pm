@@ -19,7 +19,7 @@ Greek_Libreoffice
    <de>Griechisches Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα ελληνικά</el>
    <en>Greek Language Meta-Package for LibreOffice</en>
-   <es>Greek Language Meta-Package for LibreOffice</es>
+   <es>Meta-Paquete de Idioma Griego para LibreOffice</es>
    <et>Greek Language Meta-Package for LibreOffice</et>
    <eu>Greek Language Meta-Package for LibreOffice</eu>
    <fa>Greek Language Meta-Package for LibreOffice</fa>

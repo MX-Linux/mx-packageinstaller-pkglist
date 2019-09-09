@@ -19,7 +19,7 @@ Obsidian-2 Gtk Theme
    <de>Ein dunkles Gtk-Thema</de>
    <el>ένα σκοτεινό θέμα Gtk</el>
    <en>a dark Gtk Theme</en>
-   <es>tema Gtk oscuro</es>
+   <es>Tema GTK oscuro</es>
    <et>a dark Gtk Theme</et>
    <eu>a dark Gtk Theme</eu>
    <fa>a dark Gtk Theme</fa>

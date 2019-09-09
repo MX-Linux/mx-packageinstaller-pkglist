@@ -46,7 +46,7 @@ Discord
    <ro>All-in-one voice and text chat for gamers</ro>
    <ru>Все-в-одном голосовой и текстовый чат для геймеров</ru>
    <sk>All-in-one voice and text chat for gamers</sk>
-   <sl>All-in-one voice and text chat for gamers</sl>
+   <sl>Vse v enem rešitev za glasovno in tekstno sporazumevanje igričarjev</sl>
    <sq>All-in-one voice and text chat for gamers</sq>
    <sr>All-in-one voice and text chat for gamers</sr>
    <sv>Allt-i-ett röst och textchatt för gamers</sv>

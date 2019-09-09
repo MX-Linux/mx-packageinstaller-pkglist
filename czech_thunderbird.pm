@@ -19,7 +19,7 @@ Czech_Thunderbird
    <de>Tschechische Lokalisierung von Thunderbird</de>
    <el>Τσεχική εντοπισμός του Thunderbird</el>
    <en>Czech localisation of Thunderbird</en>
-   <es>Czech localisation of Thunderbird</es>
+   <es>Localización Checa de Thunderbird</es>
    <et>Czech localisation of Thunderbird</et>
    <eu>Czech localisation of Thunderbird</eu>
    <fa>Czech localisation of Thunderbird</fa>

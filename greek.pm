@@ -19,7 +19,7 @@ Greek
    <de>Griechisches Sprach-Meta-Paket</de>
    <el>Ελληνική γλώσσα</el>
    <en>Greek Language Meta-Package</en>
-   <es>Greek Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Griego</es>
    <et>Greek Language Meta-Package</et>
    <eu>Greek Language Meta-Package</eu>
    <fa>Greek Language Meta-Package</fa>

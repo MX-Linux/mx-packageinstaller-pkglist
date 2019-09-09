@@ -19,7 +19,7 @@ Romanian
    <de>Rumänisches Sprach-Meta-Paket</de>
    <el>Ρουμανική γλώσσα</el>
    <en>Romanian Language Meta-Package</en>
-   <es>Romanian Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Rumano</es>
    <et>Romanian Language Meta-Package</et>
    <eu>Romanian Language Meta-Package</eu>
    <fa>Romanian Language Meta-Package</fa>

@@ -19,7 +19,7 @@ LXDE
    <de>Grundinstallation von LXDE</de>
    <el>βασική εγκατάσταση του LXDE</el>
    <en>basic install of LXDE</en>
-   <es>instalación mínima de LXDE</es>
+   <es>Instalación mínima de LXDE</es>
    <et>basic install of LXDE</et>
    <eu>basic install of LXDE</eu>
    <fa>basic install of LXDE</fa>
@@ -41,7 +41,7 @@ LXDE
    <nb>basic install of LXDE</nb>
    <nl>basisinstallatie van LXDE</nl>
    <pl>podstawowa instalacja LXDE</pl>
-   <pt_BR>basic install of LXDE</pt_BR>
+   <pt_BR>Instalação básica do Ambiente de Trabalho LXDE</pt_BR>
    <pt>Instalação básica do Ambiente de Trabalho LXDE</pt>
    <ro>basic install of LXDE</ro>
    <ru>Базовая установка LXDE</ru>

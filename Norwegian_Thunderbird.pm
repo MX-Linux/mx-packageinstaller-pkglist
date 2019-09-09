@@ -19,7 +19,7 @@ Norwegian_Thunderbird
    <de>Norwegische Lokalisierung von Thunderbird</de>
    <el>Νορβηγική εντοπισμός του Thunderbird</el>
    <en>Norwegian localisation of Thunderbird</en>
-   <es>Norwegian localisation of Thunderbird</es>
+   <es>Localización Noruega de Thunderbird</es>
    <et>Norwegian localisation of Thunderbird</et>
    <eu>Norwegian localisation of Thunderbird</eu>
    <fa>Norwegian localisation of Thunderbird</fa>

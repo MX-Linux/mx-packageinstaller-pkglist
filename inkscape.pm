@@ -41,7 +41,7 @@ Inkscape
    <nb>a vector-based drawing program</nb>
    <nl>een vector-gebaseerd tekenprogramma</nl>
    <pl>program do tworzenia grafiki wektorowej</pl>
-   <pt_BR>a vector-based drawing program</pt_BR>
+   <pt_BR>Programa de desenho de base vectorial</pt_BR>
    <pt>Programa de desenho de base vectorial</pt>
    <ro>a vector-based drawing program</ro>
    <ru>Векторный графический редактор с богатым функционалом</ru>
@@ -50,7 +50,7 @@ Inkscape
    <sq>a vector-based drawing program</sq>
    <sr>a vector-based drawing program</sr>
    <sv>ett vektorbaserat ritprogram</sv>
-   <tr>a vector-based drawing program</tr>
+   <tr>bir vektörel çizim programı</tr>
    <uk>програма для роботи з векторною графікою</uk>
    <zh_CN>a vector-based drawing program</zh_CN>
    <zh_TW>a vector-based drawing program</zh_TW>

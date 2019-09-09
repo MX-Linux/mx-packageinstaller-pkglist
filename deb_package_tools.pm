@@ -46,7 +46,7 @@ deb packaging tools
    <ro>tools for creation of deb packages</ro>
    <ru>Инструменты для создания deb пакетов</ru>
    <sk>tools for creation of deb packages</sk>
-   <sl>tools for creation of deb packages</sl>
+   <sl>orodja za izdelavo deb paketov</sl>
    <sq>tools for creation of deb packages</sq>
    <sr>tools for creation of deb packages</sr>
    <sv>verktyg för att skapa deb paket</sv>

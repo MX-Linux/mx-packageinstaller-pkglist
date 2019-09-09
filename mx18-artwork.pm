@@ -13,13 +13,13 @@ MX 18 Wallpapers
    <am>backgrounds originally supplied with MX 18</am>
    <ar>backgrounds originally supplied with MX 18</ar>
    <bg>backgrounds originally supplied with MX 18</bg>
-   <ca>backgrounds originally supplied with MX 18</ca>
+   <ca>Fons de pantalla subministrats amb MX 18</ca>
    <cs>backgrounds originally supplied with MX 18</cs>
    <da>baggrunde fra MX 18</da>
    <de>Bildschirmhintergründe, die ursprünglich mit MX 18 geliefert wurden</de>
    <el>επιφάνεια εργασίας που παρέχεται αρχικά με MX 18</el>
    <en>backgrounds originally supplied with MX 18</en>
-   <es>backgrounds originally supplied with MX 18</es>
+   <es>Fondos de escritorio suministrados originalmente con MX 18</es>
    <et>backgrounds originally supplied with MX 18</et>
    <eu>backgrounds originally supplied with MX 18</eu>
    <fa>backgrounds originally supplied with MX 18</fa>
@@ -41,8 +41,8 @@ MX 18 Wallpapers
    <nb>backgrounds originally supplied with MX 18</nb>
    <nl>achtergronden oorspronkelijk geleverd met MX 18</nl>
    <pl>tła oryginalnie dostarczone z MX 18</pl>
-   <pt_BR>backgrounds originally supplied with MX 18</pt_BR>
-   <pt>backgrounds originally supplied with MX 18</pt>
+   <pt_BR>Imagens de fundo originalmente incluídas no MX 18</pt_BR>
+   <pt>Imagens de fundo originalmente incluídas no MX 18</pt>
    <ro>backgrounds originally supplied with MX 18</ro>
    <ru>Обои первоначально входившие в MX 18</ru>
    <sk>backgrounds originally supplied with MX 18</sk>

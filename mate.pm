@@ -19,7 +19,7 @@ MATE
    <de>Basisinstallation von MATE Desktop</de>
    <el>βασική εγκατάσταση της επιφάνειας εργασίας MATE</el>
    <en>basic install of MATE desktop</en>
-   <es>instalación mínima del escritorio MATE</es>
+   <es>Instalación mínima del escritorio MATE</es>
    <et>basic install of MATE desktop</et>
    <eu>basic install of MATE desktop</eu>
    <fa>basic install of MATE desktop</fa>
@@ -41,7 +41,7 @@ MATE
    <nb>basic install of MATE desktop</nb>
    <nl>basisinstallatie van de MATE desktop</nl>
    <pl>podstawowa instalacja środowiska MATE</pl>
-   <pt_BR>basic install of MATE desktop</pt_BR>
+   <pt_BR>Instalação básica do Ambiente de Trabalho MATE</pt_BR>
    <pt>Instalação básica do Ambiente de Trabalho MATE</pt>
    <ro>basic install of MATE desktop</ro>
    <ru>Базовая установка окружения MATE</ru>

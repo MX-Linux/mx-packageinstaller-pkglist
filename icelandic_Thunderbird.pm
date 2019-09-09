@@ -19,7 +19,7 @@ Icelandic_Thunderbird
    <de>Isländische Lokalisierung von Thunderbird</de>
    <el>Ισλανδικός εντοπισμός του Thunderbird</el>
    <en>Icelandic localisation of Thunderbird</en>
-   <es>Icelandic localisation of Thunderbird</es>
+   <es>Localización Islandesa de Thunderbird</es>
    <et>Icelandic localisation of Thunderbird</et>
    <eu>Icelandic localisation of Thunderbird</eu>
    <fa>Icelandic localisation of Thunderbird</fa>

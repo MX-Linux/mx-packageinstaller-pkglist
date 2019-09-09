@@ -19,7 +19,7 @@ GIT Tools
    <de>GIT Repo Werkzeuge</de>
    <el>Εργαλεία GIT</el>
    <en>GIT Repo tools</en>
-   <es>herramientas de repositorio GIT</es>
+   <es>Herramientas de repositorio GIT</es>
    <et>GIT Repo tools</et>
    <eu>GIT Repo tools</eu>
    <fa>GIT Repo tools</fa>
@@ -41,12 +41,12 @@ GIT Tools
    <nb>GIT Repo tools</nb>
    <nl>GIT Pakketbron Gereedschappen</nl>
    <pl>repozytorium narzędzi GIT</pl>
-   <pt_BR>GIT Repo tools</pt_BR>
+   <pt_BR>Ferramentas GIT Repo</pt_BR>
    <pt>Ferramentas GIT Repo</pt>
    <ro>GIT Repo tools</ro>
    <ru>Инструменты репозитория GIT</ru>
    <sk>GIT Repo tools</sk>
-   <sl>GIT Repo tools</sl>
+   <sl>orodja za GIT repozitorije</sl>
    <sq>GIT Repo tools</sq>
    <sr>GIT Repo tools</sr>
    <sv>GIT Förråds verktyg</sv>

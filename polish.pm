@@ -19,7 +19,7 @@ Polish
    <de>Polnisches Sprach-Meta-Paket</de>
    <el>Πολωνική γλώσσα</el>
    <en>Polish Language Meta-Package</en>
-   <es>Polish Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Polaco</es>
    <et>Polish Language Meta-Package</et>
    <eu>Polish Language Meta-Package</eu>
    <fa>Polish Language Meta-Package</fa>

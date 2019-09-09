@@ -19,7 +19,7 @@ Japanese_Input
    <de>Japanischer IBus</de>
    <el>Ιαπωνικά ibus</el>
    <en>Japanese ibus</en>
-   <es>Japanese ibus</es>
+   <es>Ibus Japonés</es>
    <et>Japanese ibus</et>
    <eu>Japanese ibus</eu>
    <fa>Japanese ibus</fa>

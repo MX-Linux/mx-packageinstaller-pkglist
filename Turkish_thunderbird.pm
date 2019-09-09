@@ -19,7 +19,7 @@ Turkish_Thunderbird
    <de>Türkische Lokalisierung von Thunderbird</de>
    <el>Τουρκικός εντοπισμός του Thunderbird</el>
    <en>Turkish localisation of Thunderbird</en>
-   <es>Turkish localisation of Thunderbird</es>
+   <es>Localización Turca de Thunderbird</es>
    <et>Turkish localisation of Thunderbird</et>
    <eu>Turkish localisation of Thunderbird</eu>
    <fa>Turkish localisation of Thunderbird</fa>

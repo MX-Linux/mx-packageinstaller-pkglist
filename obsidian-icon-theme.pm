@@ -41,7 +41,7 @@ Obsidian Icon Theme
    <nb>an updated/refreshed Faenza-ish icon theme with many colour choices</nb>
    <nl>een geüpdatet/verfrist icoonthema van Faenza-ish met vele kleurkeuzes</nl>
    <pl>zaktualizowany/odświeżony motyw ikon Faenza z wieloma opcjami kolorów</pl>
-   <pt_BR>an updated/refreshed Faenza-ish icon theme with many colour choices</pt_BR>
+   <pt_BR>Tema de ícones ao estilo Faenza com muitas opções de cores, actualizado/refrescado</pt_BR>
    <pt>Tema de ícones ao estilo Faenza com muitas opções de cores, actualizado/refrescado</pt>
    <ro>an updated/refreshed Faenza-ish icon theme with many colour choices</ro>
    <ru>Обновленная тема в стиле Faenza с большим выбором цветов</ru>

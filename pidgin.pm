@@ -19,7 +19,7 @@ Pidgin
    <de>Ein einfach zu bedienender und kostenloser Chat-Client</de>
    <el>ένα εύκολο στη χρήση και δωρεάν πελάτη συνομιλίας</el>
    <en>an easy to use and free chat client</en>
-   <es>cliente de chat libre y fácil de usar</es>
+   <es>Un cliente de chat fácil de usar y gratuito.</es>
    <et>an easy to use and free chat client</et>
    <eu>an easy to use and free chat client</eu>
    <fa>an easy to use and free chat client</fa>
@@ -41,7 +41,7 @@ Pidgin
    <nb>an easy to use and free chat client</nb>
    <nl>een gebruiksvriendelijk en gratis chatprogramma</nl>
    <pl>łatwy w użyciu i darmowy klient czatu</pl>
-   <pt_BR>an easy to use and free chat client</pt_BR>
+   <pt_BR>Cliente de 'chat' livre e fácil de usar</pt_BR>
    <pt>Cliente de 'chat' livre e fácil de usar</pt>
    <ro>an easy to use and free chat client</ro>
    <ru>Простой в использовании многопротокольный клиент мгновенных сообщений</ru>

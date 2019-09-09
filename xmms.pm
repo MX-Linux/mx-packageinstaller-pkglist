@@ -19,7 +19,7 @@ XMMS
    <de>Multimedia-Player nach dem Vorbild von Winamp</de>
    <el>αναπαραγωγή πολυμέσων με βάση το winamp</el>
    <en>multimedia player modelled on winamp</en>
-   <es>reproductor multimedia estilo winamp</es>
+   <es>Reproductor multimedia estilo Winamp</es>
    <et>multimedia player modelled on winamp</et>
    <eu>multimedia player modelled on winamp</eu>
    <fa>multimedia player modelled on winamp</fa>

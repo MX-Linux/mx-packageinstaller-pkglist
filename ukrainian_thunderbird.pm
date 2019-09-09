@@ -19,7 +19,7 @@ Ukrainian_Thunderbird
    <de>Ukrainische Lokalisierung von Thunderbird</de>
    <el>Ουκρανικός εντοπισμός του Thunderbird</el>
    <en>Ukrainian localisation of Thunderbird</en>
-   <es>Ukrainian localisation of Thunderbird</es>
+   <es>Localización Ucraniana de Thunderbird</es>
    <et>Ukrainian localisation of Thunderbird</et>
    <eu>Ukrainian localisation of Thunderbird</eu>
    <fa>Ukrainian localisation of Thunderbird</fa>

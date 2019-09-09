@@ -19,7 +19,7 @@ SuperTuxKart
    <de>Mario-Kart-Rennen</de>
    <el>Mario kart style racing</el>
    <en>Mario kart style racing</en>
-   <es>juego de carreras estilo Mario kart</es>
+   <es>Juego de carreras estilo Mario kart</es>
    <et>Mario kart style racing</et>
    <eu>Mario kart style racing</eu>
    <fa>Mario kart style racing</fa>

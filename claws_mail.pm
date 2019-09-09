@@ -36,17 +36,17 @@ Claws-Mail
    <ja>Claws Mail lightweight email client</ja>
    <kk>Claws Mail lightweight email client</kk>
    <ko>Claws Mail lightweight email client</ko>
-   <lt>Claws Mail lightweight email client</lt>
+   <lt>Claws Mail supaprastintas el. pašto klientas</lt>
    <mk>Claws Mail lightweight email client</mk>
    <nb>Claws Mail lightweight email client</nb>
    <nl>Claws Mail lichtgewicht email programma</nl>
    <pl>Claws Mail lekki klient poczty e-mail</pl>
-   <pt_BR>Claws Mail lightweight email client</pt_BR>
+   <pt_BR>Cliente de e-mail simples e ligeiro</pt_BR>
    <pt>Cliente de correio-electrónico simples e ligeiro</pt>
    <ro>Claws Mail lightweight email client</ro>
    <ru>Легковесный e-mail клиент</ru>
    <sk>Claws Mail lightweight email client</sk>
-   <sl>Claws Mail lightweight email client</sl>
+   <sl>Lahek poštni odjemalec Clwas Mail</sl>
    <sq>Claws Mail lightweight email client</sq>
    <sr>Claws Mail lightweight email client</sr>
    <sv>Claws Mail lättvikts E-mejl klient</sv>

@@ -13,38 +13,38 @@ Falkon
    <am>Latest Falkon lightweight browser</am>
    <ar>Latest Falkon lightweight browser</ar>
    <bg>Latest Falkon lightweight browser</bg>
-   <ca>Darrera versió del navegador lleuger Falkon</ca>
+   <ca>El darrer navegador lleuger Falkon</ca>
    <cs>Latest Falkon lightweight browser</cs>
-   <da>Seneste Falkon letvægtsbrowser</da>
-   <de>Neuester Falkon leichtgewichtiger Browser</de>
-   <el>Τελευταίο ελαφρύ πρόγραμμα περιήγησης Falkon</el>
+   <da>Latest Falkon lightweight browser</da>
+   <de>Latest Falkon lightweight browser</de>
+   <el>Latest Falkon lightweight browser</el>
    <en>Latest Falkon lightweight browser</en>
-   <es>Navegador liviano Falkon actualizado</es>
+   <es>Último navegador ligero Falkon</es>
    <et>Latest Falkon lightweight browser</et>
    <eu>Latest Falkon lightweight browser</eu>
    <fa>Latest Falkon lightweight browser</fa>
    <fi>Latest Falkon lightweight browser</fi>
-   <fr>La dernière version du navigateur léger Falkon</fr>
+   <fr>Dernière version du navigateur léger Falkon</fr>
    <he_IL>Latest Falkon lightweight browser</he_IL>
    <hi>Latest Falkon lightweight browser</hi>
    <hr>Latest Falkon lightweight browser</hr>
    <hu>Latest Falkon lightweight browser</hu>
    <id>Latest Falkon lightweight browser</id>
    <is>Latest Falkon lightweight browser</is>
-   <it>L'ultima versione del browser leggero Falkon</it>
+   <it>Ultimo browser leggero Falkon</it>
    <ja_JP>Latest Falkon lightweight browser</ja_JP>
    <ja>Latest Falkon lightweight browser</ja>
    <kk>Latest Falkon lightweight browser</kk>
    <ko>Latest Falkon lightweight browser</ko>
-   <lt>Naujausia Falkon supaprastinta naršyklė</lt>
+   <lt>Latest Falkon lightweight browser</lt>
    <mk>Latest Falkon lightweight browser</mk>
    <nb>Latest Falkon lightweight browser</nb>
-   <nl>Meest recente Falkon lichtgewicht browser</nl>
-   <pl>najnowsza lekka przeglądarka Falkon</pl>
+   <nl>Nieuwste Falkon lichtgewicht browser</nl>
+   <pl>Latest Falkon lightweight browser</pl>
    <pt_BR>Latest Falkon lightweight browser</pt_BR>
-   <pt>Navegador web ligeiro Falkon, versão mais recente</pt>
+   <pt>O mais recente navegador leve Falkon</pt>
    <ro>Latest Falkon lightweight browser</ro>
-   <ru>Легковесный браузер Falkon последней версии</ru>
+   <ru>Latest Falkon lightweight browser</ru>
    <sk>Latest Falkon lightweight browser</sk>
    <sl>Latest Falkon lightweight browser</sl>
    <sq>Latest Falkon lightweight browser</sq>

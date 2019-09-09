@@ -19,7 +19,7 @@ Portugese(BR) Libreoffice
    <de>Portugiesisches (BR) Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα πορτογαλικά (Βραζιλίας)</el>
    <en>Portugese(BR) Language Meta-Package for LibreOffice</en>
-   <es>Portugese(BR) Language Meta-Package for LibreOffice</es>
+   <es>Meta-Paquete de Idioma Portugués (BR) para LibreOffice</es>
    <et>Portugese(BR) Language Meta-Package for LibreOffice</et>
    <eu>Portugese(BR) Language Meta-Package for LibreOffice</eu>
    <fa>Portugese(BR) Language Meta-Package for LibreOffice</fa>

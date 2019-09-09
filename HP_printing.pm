@@ -36,12 +36,12 @@ HP Printing
    <ja>HPLIP and printing extras</ja>
    <kk>HPLIP and printing extras</kk>
    <ko>HPLIP and printing extras</ko>
-   <lt>HPLIP and printing extras</lt>
+   <lt>HPLIP ir spausdinimo papildiniai</lt>
    <mk>HPLIP and printing extras</mk>
    <nb>HPLIP and printing extras</nb>
    <nl>HPLIP en printing extras</nl>
    <pl>HPLIP i dodatki do drukowania</pl>
-   <pt_BR>HPLIP and printing extras</pt_BR>
+   <pt_BR>Criação de imagens e impressão para computadores HP com Linux [HP Linux Imaging and Printing] e extras de impressão</pt_BR>
    <pt>Criação de imagens e impressão para computadores HP com Linux [HP Linux Imaging and Printing] e extras de impressão</pt>
    <ro>HPLIP and printing extras</ro>
    <ru>HPLIP и вспомогательные компоненты печати</ru>

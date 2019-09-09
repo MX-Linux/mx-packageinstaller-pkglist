@@ -19,7 +19,7 @@ Debian 32 bit no-pae
    <de>Standard Debian 4.9 32bit Linux Kernel, no-PAE, Einzelkern</de>
    <el>Προκαθορισμένο Debian 4.9 32bit linux kernel, no-PAE, single core</el>
    <en>Default Debian 4.9 32bit linux kernel, no-PAE, single core</en>
-   <es>Default Debian 4.9 32bit linux kernel, no-PAE, single core</es>
+   <es>Kernel de linux Debian Predeterminado 4.9 32bit, no-PAE, un solo nucleo</es>
    <et>Default Debian 4.9 32bit linux kernel, no-PAE, single core</et>
    <eu>Default Debian 4.9 32bit linux kernel, no-PAE, single core</eu>
    <fa>Default Debian 4.9 32bit linux kernel, no-PAE, single core</fa>

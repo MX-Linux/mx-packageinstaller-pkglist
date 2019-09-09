@@ -19,7 +19,7 @@ Italian_Thunderbird
    <de>Italienische Lokalisierung von Thunderbird</de>
    <el>Ιταλικός εντοπισμός του Thunderbird</el>
    <en>Italian localisation of Thunderbird</en>
-   <es>Italian localisation of Thunderbird</es>
+   <es>Localización Italiana de Thunderbird</es>
    <et>Italian localisation of Thunderbird</et>
    <eu>Italian localisation of Thunderbird</eu>
    <fa>Italian localisation of Thunderbird</fa>

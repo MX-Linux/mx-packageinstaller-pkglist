@@ -41,12 +41,12 @@ KeepassX
    <nb>KeePassX is a free/open-source password manager/safe</nb>
    <nl>KeePassX is een gratis/open-source wachtwoord manager/kluis</nl>
    <pl>KeePassX to bezpłatny menedżer haseł/sejf o otwartym kodzie źródłowym</pl>
-   <pt_BR>KeePassX is a free/open-source password manager/safe</pt_BR>
+   <pt_BR>Guarda e gestão de senhas (palavras-passe) em software livre e de fonte aberta</pt_BR>
    <pt>Guarda e gestão de senhas (palavras-passe) em software livre e de fonte aberta</pt>
    <ro>KeePassX is a free/open-source password manager/safe</ro>
    <ru>KeePassX - менеджер паролей с открытым кодом (форк KeePass)</ru>
    <sk>KeePassX is a free/open-source password manager/safe</sk>
-   <sl>KeePassX is a free/open-source password manager/safe</sl>
+   <sl>KeePassXje brezplačen odprtokodni urejavalnik/sef za gesla</sl>
    <sq>KeePassX is a free/open-source password manager/safe</sq>
    <sr>KeePassX is a free/open-source password manager/safe</sr>
    <sv>KeePassX är en fri/öppen källkod lösenordshanterare/förvarare</sv>

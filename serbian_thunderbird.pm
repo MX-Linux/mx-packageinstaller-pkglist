@@ -19,7 +19,7 @@ Serbian_Thunderbird
    <de>Serbische Lokalisierung von Thunderbird</de>
    <el>Σερβικός εντοπισμός του Thunderbird</el>
    <en>Serbian localisation of Thunderbird</en>
-   <es>Serbian localisation of Thunderbird</es>
+   <es>Localización Serbia de Thunderbird</es>
    <et>Serbian localisation of Thunderbird</et>
    <eu>Serbian localisation of Thunderbird</eu>
    <fa>Serbian localisation of Thunderbird</fa>

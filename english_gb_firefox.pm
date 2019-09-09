@@ -19,7 +19,7 @@ GB_English_Firefox
    <de>Englische (GB) Lokalisierung von Firefox</de>
    <el>Αγγλικός (ΜΒ) εντοπισμός του Firefox</el>
    <en>GB English localisation of Firefox</en>
-   <es>GB English localisation of Firefox</es>
+   <es>Localización Inglesa (GB) de Firefox</es>
    <et>GB English localisation of Firefox</et>
    <eu>GB English localisation of Firefox</eu>
    <fa>GB English localisation of Firefox</fa>

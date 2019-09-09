@@ -41,12 +41,12 @@ GIMP Full
    <nb>advanced picture editor- installs GIMP, help and plugins</nb>
    <nl>geavanceerde foto-editor - installeert GIMP, help en plugins</nl>
    <pl>zaawansowany edytor grafiki i zdjęć - instaluje program GIMP, wtyczki i pliki pomocy</pl>
-   <pt_BR>advanced picture editor- installs GIMP, help and plugins</pt_BR>
-   <pt>editor de imagem avançado - instala o GIMP, ajuda e suplementos (plugins)</pt>
+   <pt_BR>Editor de imagem avançado - instala o GIMP, ajuda e suplementos (plugins)</pt_BR>
+   <pt>Editor de imagem avançado - instala o GIMP, ajuda e suplementos (plugins)</pt>
    <ro>advanced picture editor- installs GIMP, help and plugins</ro>
    <ru>Продвинутый графический редактор - установка GIMP, справка и плагины</ru>
    <sk>advanced picture editor- installs GIMP, help and plugins</sk>
-   <sl>advanced picture editor- installs GIMP, help and plugins</sl>
+   <sl>napredni urejevalnik slik - namesti GIMP, pomoč in vsatvke</sl>
    <sq>advanced picture editor- installs GIMP, help and plugins</sq>
    <sr>advanced picture editor- installs GIMP, help and plugins</sr>
    <sv>avancerad bildredigerare - installerar GIMP, hjälp och plugins</sv>

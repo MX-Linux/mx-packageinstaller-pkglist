@@ -41,7 +41,7 @@ SMtube
    <nb>search and download Youtube videos</nb>
    <nl>zoek en download Youtube video's</nl>
    <pl>wyszukuj i pobieraj filmy z YouTube</pl>
-   <pt_BR>search and download Youtube videos</pt_BR>
+   <pt_BR>Pesquisar e baixar vídeos do Youtube</pt_BR>
    <pt>pesquisar e descarregar vídeos do Youtube</pt>
    <ro>search and download Youtube videos</ro>
    <ru>Поиск и скачивание видео в Youtube</ru>

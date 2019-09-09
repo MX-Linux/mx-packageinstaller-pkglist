@@ -19,7 +19,7 @@ Google Music Manager
    <de>Google Music Manager Beta, 64 bit</de>
    <el>Google Music Manager Beta, 64 bit</el>
    <en>Google Music Manager Beta, 64 bit</en>
-   <es>Google Music Manager Beta, 64 bit</es>
+   <es>Beta del Administrador de Google Music, 64 bit</es>
    <et>Google Music Manager Beta, 64 bit</et>
    <eu>Google Music Manager Beta, 64 bit</eu>
    <fa>Google Music Manager Beta, 64 bit</fa>

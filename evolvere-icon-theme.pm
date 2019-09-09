@@ -13,13 +13,13 @@ Evolvere Icon Themes
    <am>evolvere icons (vibrant)</am>
    <ar>evolvere icons (vibrant)</ar>
    <bg>evolvere icons (vibrant)</bg>
-   <ca>evolvere icons (vibrant)</ca>
+   <ca>icones evolvere (vibrants)</ca>
    <cs>evolvere icons (vibrant)</cs>
    <da>evolvere-ikoner (farverige)</da>
    <de>Symbolthema Evolvere</de>
    <el>εικονίδια evolvere (ζωντανή)</el>
    <en>evolvere icons (vibrant)</en>
-   <es>evolvere icons (vibrant)</es>
+   <es>iconos evolvere (vibrante)</es>
    <et>evolvere icons (vibrant)</et>
    <eu>evolvere icons (vibrant)</eu>
    <fa>evolvere icons (vibrant)</fa>
@@ -41,12 +41,12 @@ Evolvere Icon Themes
    <nb>evolvere icons (vibrant)</nb>
    <nl>evolvere iconen (levendig)</nl>
    <pl>ikony evolvere (vibrant)</pl>
-   <pt_BR>evolvere icons (vibrant)</pt_BR>
-   <pt>evolvere icons (vibrant)</pt>
+   <pt_BR>Ícones evolvere (vibrant)</pt_BR>
+   <pt>Ícones evolvere (vibrant)</pt>
    <ro>evolvere icons (vibrant)</ro>
-   <ru>evolvere icons (vibrant)</ru>
+   <ru>Значки evolvere (яркие)</ru>
    <sk>evolvere icons (vibrant)</sk>
-   <sl>evolvere icons (vibrant)</sl>
+   <sl>evlovere ikone (žive)</sl>
    <sq>evolvere icons (vibrant)</sq>
    <sr>evolvere icons (vibrant)</sr>
    <sv>evolvere ikoner (lysande)</sv>

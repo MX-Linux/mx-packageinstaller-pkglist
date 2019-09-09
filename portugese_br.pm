@@ -19,7 +19,7 @@ Portugese(BR)
    <de>Portugiesisches (BR) Sprach-Meta-Paket</de>
    <el>Πορτογαλικά (Βραζιλίας) Γλώσσα</el>
    <en>Portugese(BR) Language Meta-Package</en>
-   <es>Portugese(BR) Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Portugués (BR)</es>
    <et>Portugese(BR) Language Meta-Package</et>
    <eu>Portugese(BR) Language Meta-Package</eu>
    <fa>Portugese(BR) Language Meta-Package</fa>

@@ -19,7 +19,7 @@ German
    <de>Deutsches Sprach-Meta-Paket</de>
    <el>Γερμανική γλώσσα</el>
    <en>German Language Meta-Package</en>
-   <es>German Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Alemán</es>
    <et>German Language Meta-Package</et>
    <eu>German Language Meta-Package</eu>
    <fa>German Language Meta-Package</fa>

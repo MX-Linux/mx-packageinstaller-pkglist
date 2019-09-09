@@ -19,7 +19,7 @@ Dutch_Thunderbird
    <de>Niederländische Lokalisierung von Thunderbird</de>
    <el>Ολλανδικός εντοπισμός του Thunderbird</el>
    <en>Dutch localisation of Thunderbird</en>
-   <es>Dutch localisation of Thunderbird</es>
+   <es>Localización Holandesa de Thunderbird</es>
    <et>Dutch localisation of Thunderbird</et>
    <eu>Dutch localisation of Thunderbird</eu>
    <fa>Dutch localisation of Thunderbird</fa>

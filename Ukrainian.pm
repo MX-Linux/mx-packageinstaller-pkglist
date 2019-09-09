@@ -19,7 +19,7 @@ Ukrainian
    <de>Ukrainisches Sprach-Meta-Paket</de>
    <el>Ουκρανική γλώσσα</el>
    <en>Ukrainian Language Meta-Package</en>
-   <es>Ukrainian Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Ucranio</es>
    <et>Ukrainian Language Meta-Package</et>
    <eu>Ukrainian Language Meta-Package</eu>
    <fa>Ukrainian Language Meta-Package</fa>

@@ -19,7 +19,7 @@ DeaDBeeF
    <de>Einfacher Audio-Player</de>
    <el>απλή συσκευή αναπαραγωγής ήχου</el>
    <en>simple audio player</en>
-   <es>reproductor de audio sencillo</es>
+   <es>Reproductor de audio sencillo</es>
    <et>simple audio player</et>
    <eu>simple audio player</eu>
    <fa>simple audio player</fa>
@@ -46,7 +46,7 @@ DeaDBeeF
    <ro>simple audio player</ro>
    <ru>Музыкальный проигрыватель</ru>
    <sk>simple audio player</sk>
-   <sl>simple audio player</sl>
+   <sl>preprost predvajalnik zvoka</sl>
    <sq>simple audio player</sq>
    <sr>simple audio player</sr>
    <sv>enkel ljudspelare</sv>

@@ -20,7 +20,7 @@ SimpleScreenRecorder
    <de>Ein Qt-basierter Bildschirm-Rekorder</de>
    <el>μια καταγραφική εκπομπής με βάση το Qt</el>
    <en>a Qt-based screencast recorder</en>
-   <es>grabador de pantalla basado en Qt</es>
+   <es>Grabador de pantalla basado en Qt</es>
    <et>a Qt-based screencast recorder</et>
    <eu>a Qt-based screencast recorder</eu>
    <fa>a Qt-based screencast recorder</fa>
@@ -42,8 +42,8 @@ SimpleScreenRecorder
    <nb>a Qt-based screencast recorder</nb>
    <nl>a Qt-gebaseerde screencast recorder</nl>
    <pl>rejestrator ekranu oparty na QT</pl>
-   <pt_BR>a Qt-based screencast recorder</pt_BR>
-   <pt>a Qt-based screencast recorder</pt>
+   <pt_BR>Gravador de vídeo na tela baseado em Qt</pt_BR>
+   <pt>Gravador de vídeo no ecrã baseado em Qt</pt>
    <ro>a Qt-based screencast recorder</ro>
    <ru>Запись скринкастов</ru>
    <sk>a Qt-based screencast recorder</sk>

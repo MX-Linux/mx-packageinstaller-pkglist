@@ -13,13 +13,13 @@ antiX 4.9 32 bit no-pae
    <am>antiX 4.9.189 kernel, 32 bit no-pae</am>
    <ar>antiX 4.9.189 kernel, 32 bit no-pae</ar>
    <bg>antiX 4.9.189 kernel, 32 bit no-pae</bg>
-   <ca>antiX 4.9.189 kernel, 32 bit no-pae</ca>
+   <ca>Kernel d'antix 4.9.189, 32 bit no- pae</ca>
    <cs>antiX 4.9.189 kernel, 32 bit no-pae</cs>
    <da>antiX 4.9.189 kerne, 32 bit uden pae</da>
    <de>antiX 4.9.189 Kernel, 32 bit no-pae</de>
    <el>πυρήνα antiX 4.9.189, 32 bit no-pae</el>
    <en>antiX 4.9.189 kernel, 32 bit no-pae</en>
-   <es>antiX 4.9.189 kernel, 32 bit no-pae</es>
+   <es>kernel antiX no-pae 4.9.189, 32 bit</es>
    <et>antiX 4.9.189 kernel, 32 bit no-pae</et>
    <eu>antiX 4.9.189 kernel, 32 bit no-pae</eu>
    <fa>antiX 4.9.189 kernel, 32 bit no-pae</fa>
@@ -31,7 +31,7 @@ antiX 4.9 32 bit no-pae
    <hu>antiX 4.9.189 kernel, 32 bit no-pae</hu>
    <id>antiX 4.9.189 kernel, 32 bit no-pae</id>
    <is>antiX 4.9.189 kernel, 32 bit no-pae</is>
-   <it>Kernel antiX 4.9.189, 32 bit no-pae</it>
+   <it>antiX 4.9.189 kernel, 32 bit no-pae</it>
    <ja_JP>antiX 4.9.189 kernel, 32 bit no-pae</ja_JP>
    <ja>antiX 4.9.189 kernel, 32 bit no-pae</ja>
    <kk>antiX 4.9.189 kernel, 32 bit no-pae</kk>
@@ -42,14 +42,14 @@ antiX 4.9 32 bit no-pae
    <nl>antiX 4.9.189 kernel, 32 bit no-pae</nl>
    <pl>antiX 4.9.189 kernel, 32 bit no-pae</pl>
    <pt_BR>antiX 4.9.189 kernel, 32 bit no-pae</pt_BR>
-   <pt>antiX 4.9.189 kernel, 32 bit no-pae</pt>
+   <pt>Núcleo antiX 4.9.189, 32 bit  sem pae</pt>
    <ro>antiX 4.9.189 kernel, 32 bit no-pae</ro>
-   <ru>antiX ядро 4.9.189, 32 bit no-pae</ru>
+   <ru>antiX 4.9.189 kernel, 32 bit no-pae</ru>
    <sk>antiX 4.9.189 kernel, 32 bit no-pae</sk>
    <sl>antiX 4.9.189 kernel, 32 bit no-pae</sl>
    <sq>antiX 4.9.189 kernel, 32 bit no-pae</sq>
    <sr>antiX 4.9.189 kernel, 32 bit no-pae</sr>
-   <sv>antiX 4.9.189 kernel, 32 bit no-pae</sv>
+   <sv>antiX 4.9.189 kärna 32 bit no-pae</sv>
    <tr>antiX 4.9.189 kernel, 32 bit no-pae</tr>
    <uk>antiX 4.9.189 kernel, 32 bit no-pae</uk>
    <zh_CN>antiX 4.9.189 kernel, 32 bit no-pae</zh_CN>
