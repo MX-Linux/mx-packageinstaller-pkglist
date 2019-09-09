@@ -19,7 +19,7 @@ Swedish_Thunderbird
    <de>Schwedische Lokalisierung von Thunderbird</de>
    <el>Σουηδικός εντοπισμός του Thunderbird</el>
    <en>Swedish localisation of Thunderbird</en>
-   <es>Swedish localisation of Thunderbird</es>
+   <es>Localización Sueca de Thunderbird</es>
    <et>Swedish localisation of Thunderbird</et>
    <eu>Swedish localisation of Thunderbird</eu>
    <fa>Swedish localisation of Thunderbird</fa>

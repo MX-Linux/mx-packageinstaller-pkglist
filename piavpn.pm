@@ -13,25 +13,25 @@ PIAVPN - Private Internet Access VPN
    <am>Private Internet Access VPN</am>
    <ar>Private Internet Access VPN</ar>
    <bg>Private Internet Access VPN</bg>
-   <ca>Private Internet Access VPN</ca>
+   <ca>Accés privat a internet VPN</ca>
    <cs>Private Internet Access VPN</cs>
    <da>Private Internet Access VPN</da>
    <de>Private Internet Access VPN</de>
    <el>Private Internet Access VPN</el>
    <en>Private Internet Access VPN</en>
-   <es>Private Internet Access VPN</es>
+   <es>Acceso Privado a Internet VPN</es>
    <et>Private Internet Access VPN</et>
    <eu>Private Internet Access VPN</eu>
    <fa>Private Internet Access VPN</fa>
    <fi>Private Internet Access VPN</fi>
-   <fr>Private Internet Access VPN</fr>
+   <fr>Accès Internet Privé par VPN</fr>
    <he_IL>Private Internet Access VPN</he_IL>
    <hi>Private Internet Access VPN</hi>
    <hr>Private Internet Access VPN</hr>
    <hu>Private Internet Access VPN</hu>
    <id>Private Internet Access VPN</id>
    <is>Private Internet Access VPN</is>
-   <it>Private Internet Access VPNv</it>
+   <it>Accesso internet privato VPN</it>
    <ja_JP>Private Internet Access VPN</ja_JP>
    <ja>Private Internet Access VPN</ja>
    <kk>Private Internet Access VPN</kk>
@@ -39,10 +39,10 @@ PIAVPN - Private Internet Access VPN
    <lt>Private Internet Access VPN</lt>
    <mk>Private Internet Access VPN</mk>
    <nb>Private Internet Access VPN</nb>
-   <nl>Private Internet Access VPN</nl>
+   <nl>Privé Internet Toegang VPN</nl>
    <pl>Private Internet Access VPN</pl>
    <pt_BR>Private Internet Access VPN</pt_BR>
-   <pt>Private Internet Access VPN</pt>
+   <pt>Acesso Privado à Internet VPN</pt>
    <ro>Private Internet Access VPN</ro>
    <ru>Private Internet Access VPN</ru>
    <sk>Private Internet Access VPN</sk>
@@ -72,7 +72,7 @@ piavpn-downloader-installer
 <postinstall>
 
 if [ -x /usr/share/pia-downloader-installer/install_piavpn.sh ]; then
-        /usr/share/pia-downloader-installer/install_piavpn.sh
+/usr/share/pia-downloader-installer/install_piavpn.sh
 fi
 
 </postinstall>

@@ -41,8 +41,8 @@ Synapse
    <nb>alternate semantic file launcher</nb>
    <nl>alternatieve semantische bestandsopstarter</nl>
    <pl>alternatywny program uruchamiający pliki semantyczne</pl>
-   <pt_BR>alternate semantic file launcher</pt_BR>
-   <pt>alternate semantic file launcher</pt>
+   <pt_BR>Lançador de arquivos semântico</pt_BR>
+   <pt>Lançador de ficheiros semântico</pt>
    <ro>alternate semantic file launcher</ro>
    <ru>Приложение для продвинутого поиска и запуска файлов</ru>
    <sk>alternate semantic file launcher</sk>

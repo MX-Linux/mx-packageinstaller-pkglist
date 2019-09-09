@@ -19,7 +19,7 @@ Adobe Reader
    <de>Adobe Reader PDF Betrachter</de>
    <el>Πρόγραμμα προβολής PDF του Adobe Reader</el>
    <en>Adobe Reader PDF viewer</en>
-   <es>Adobe Reader, Visualizador de PDF</es>
+   <es>Adobe Reader, visualizador de PDF</es>
    <et>Adobe Reader PDF viewer</et>
    <eu>Adobe Reader PDF viewer</eu>
    <fa>Adobe Reader PDF viewer</fa>
@@ -41,12 +41,12 @@ Adobe Reader
    <nb>Adobe Reader PDF viewer</nb>
    <nl>Adobe Reader PDF lezer</nl>
    <pl>przeglądarka plików PDF Adobe Reader</pl>
-   <pt_BR>Adobe Reader PDF viewer</pt_BR>
+   <pt_BR>Visualizador de PDF Adobe Reader</pt_BR>
    <pt>Visualizador de PDF Adobe Reader</pt>
    <ro>Adobe Reader PDF viewer</ro>
    <ru>Просмотрщик PDF документов от Adobe</ru>
-   <sk>Adobe Reader PDF viewer</sk>
-   <sl>Adobe Reader PDF viewer</sl>
+   <sk>prehliadač PDF Adobe Reader</sk>
+   <sl>Adobe Reader za pregledovanje PDF dokumentov</sl>
    <sq>Adobe Reader PDF viewer</sq>
    <sr>Adobe Reader PDF viewer</sr>
    <sv>Adobe Reader PDF visningsprogram</sv>

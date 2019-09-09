@@ -19,7 +19,7 @@ Bulgarian_Thunderbird
    <de>Bulgarische Lokalisierung von Thunderbird</de>
    <el>Βουλγαρικό εντοπισμό του Thunderbird</el>
    <en>Bulgarian localisation of Thunderbird</en>
-   <es>localización Búlgaro de Thunderbird</es>
+   <es>Localización Búlgaro de Thunderbird</es>
    <et>Bulgarian localisation of Thunderbird</et>
    <eu>Bulgarian localisation of Thunderbird</eu>
    <fa>Bulgarian localisation of Thunderbird</fa>

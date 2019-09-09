@@ -19,7 +19,7 @@ Romanian_Thunderbird
    <de>Rumänische Lokalisierung von Thunderbird</de>
    <el>Ρουμάνικος εντοπισμός του Thunderbird</el>
    <en>Romanian localisation of Thunderbird</en>
-   <es>Romanian localisation of Thunderbird</es>
+   <es>Localización Rumana de Thunderbird</es>
    <et>Romanian localisation of Thunderbird</et>
    <eu>Romanian localisation of Thunderbird</eu>
    <fa>Romanian localisation of Thunderbird</fa>

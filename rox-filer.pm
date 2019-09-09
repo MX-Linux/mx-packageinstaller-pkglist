@@ -19,7 +19,7 @@ ROXFiler
    <de>Ein schneller und leistungsfähiger grafischer Dateimanager</de>
    <el>ένα γρήγορο και ισχυρό γραφικό διαχειριστή αρχείων</el>
    <en>a fast and powerful graphical file manager</en>
-   <es>gestor gráfico de archivos rápido y potente</es>
+   <es>Gestor gráfico de archivos rápido y potente</es>
    <et>a fast and powerful graphical file manager</et>
    <eu>a fast and powerful graphical file manager</eu>
    <fa>a fast and powerful graphical file manager</fa>
@@ -41,7 +41,7 @@ ROXFiler
    <nb>a fast and powerful graphical file manager</nb>
    <nl>een snelle en krachtige grafische bestandsmanager</nl>
    <pl>szybki i potężny graficzny menedżer plików</pl>
-   <pt_BR>a fast and powerful graphical file manager</pt_BR>
+   <pt_BR>Gestor de arquivos gráfico, rápido e poderoso</pt_BR>
    <pt>Gestor de ficheiros gráfico, rápido e poderoso</pt>
    <ro>a fast and powerful graphical file manager</ro>
    <ru>Быстрый и многофункциональный файловый менеджер</ru>

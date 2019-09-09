@@ -19,7 +19,7 @@ Geany
    <de>Schneller und schlanker Texteditor und IDE</de>
    <el>γρήγορο και ελαφρύ IDE και πρόγραμμα επεξεργασίας κειμένου</el>
    <en>fast and lightweight IDE and text editor</en>
-   <es>editor de textos rápido y liviano (IDE)</es>
+   <es>Editor de textos rápido y liviano (IDE)</es>
    <et>fast and lightweight IDE and text editor</et>
    <eu>fast and lightweight IDE and text editor</eu>
    <fa>fast and lightweight IDE and text editor</fa>
@@ -41,12 +41,12 @@ Geany
    <nb>fast and lightweight IDE and text editor</nb>
    <nl>snelle en lichtgewicht IDE en tekstverwerker</nl>
    <pl>szybkie i lekkie środowisko programistyczne oraz edytor tekstu</pl>
-   <pt_BR>fast and lightweight IDE and text editor</pt_BR>
+   <pt_BR>IDE (Integrated Development Environment) e editor de texto, ligeiro e rápido</pt_BR>
    <pt>IDE (Integrated Development Environment) e editor de texto, ligeiro e rápido</pt>
    <ro>fast and lightweight IDE and text editor</ro>
    <ru>Быстрая и легковесная IDE и текстовый редактор</ru>
    <sk>fast and lightweight IDE and text editor</sk>
-   <sl>fast and lightweight IDE and text editor</sl>
+   <sl>lahek in hiter IDE urejevalnik teksta</sl>
    <sq>fast and lightweight IDE and text editor</sq>
    <sr>fast and lightweight IDE and text editor</sr>
    <sv>snabb lättvikts IDE och textredigerare</sv>

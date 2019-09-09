@@ -45,8 +45,8 @@ Abiword
    <pt>Processador de texto simples e ligeiro</pt>
    <ro>lightweight word processor</ro>
    <ru>Легковесный текстовый редактор</ru>
-   <sk>lightweight word processor</sk>
-   <sl>lightweight word processor</sl>
+   <sk>ľahký textový editor</sk>
+   <sl>lahek urejevalnik besedil</sl>
    <sq>lightweight word processor</sq>
    <sr>lightweight word processor</sr>
    <sv>lättvikts ordbehandlare</sv>

@@ -19,7 +19,7 @@ Hungarian
    <de>Ungarisches Sprach-Meta-Paket</de>
    <el>Ουγγρική γλώσσα</el>
    <en>Hungarian Language Meta-Package</en>
-   <es>Hungarian Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Húngaro</es>
    <et>Hungarian Language Meta-Package</et>
    <eu>Hungarian Language Meta-Package</eu>
    <fa>Hungarian Language Meta-Package</fa>

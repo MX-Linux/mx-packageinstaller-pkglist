@@ -19,7 +19,7 @@ Ukrainian_Fonts
    <de>Ukrainische Schriftenpakete</de>
    <el>Ουκρανικά πακέτα γραμματοσειρών</el>
    <en>Ukrainian fonts packages</en>
-   <es>Ukrainian fonts packages</es>
+   <es>Paquetes de fuentes ucranianas</es>
    <et>Ukrainian fonts packages</et>
    <eu>Ukrainian fonts packages</eu>
    <fa>Ukrainian fonts packages</fa>
@@ -41,8 +41,8 @@ Ukrainian_Fonts
    <nb>Ukrainian fonts packages</nb>
    <nl>Oekraïense font pakketten</nl>
    <pl>pakiety z ukraińskimi fontami (czcionkami)</pl>
-   <pt_BR>Ucraniano fonts Pacotes</pt_BR>
-   <pt>Ucraniano pacotes de fontes</pt>
+   <pt_BR>Ucraniano Pacotes de fontes</pt_BR>
+   <pt>Ucraniano Pacotes de fontes</pt>
    <ro>Ukrainian fonts packages</ro>
    <ru>Ukrainian fonts packages</ru>
    <sk>Ukrainian fonts packages</sk>

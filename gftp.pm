@@ -19,7 +19,7 @@ gftp
    <de>Ein Multithreading-FTP-Client</de>
    <el>ένα πολυνηματικό πρόγραμμα-πελάτη FTP</el>
    <en>a multithreaded FTP client</en>
-   <es>cliente FTP multihilo</es>
+   <es>Cliente FTP multiproceso</es>
    <et>a multithreaded FTP client</et>
    <eu>a multithreaded FTP client</eu>
    <fa>a multithreaded FTP client</fa>
@@ -41,12 +41,12 @@ gftp
    <nb>a multithreaded FTP client</nb>
    <nl>een multithreaded FTP programma</nl>
    <pl>wielowątkowy klient FTP</pl>
-   <pt_BR>a multithreaded FTP client</pt_BR>
+   <pt_BR>Cliente de FTP multilinha de execução (multithreaded)</pt_BR>
    <pt>Cliente de FTP multilinha de execução (multithreaded)</pt>
    <ro>a multithreaded FTP client</ro>
    <ru>Многопоточный FTP клиент</ru>
    <sk>a multithreaded FTP client</sk>
-   <sl>a multithreaded FTP client</sl>
+   <sl>večnitni FTP odjemalec</sl>
    <sq>a multithreaded FTP client</sq>
    <sr>a multithreaded FTP client</sr>
    <sv>en multitråds FTP-klient</sv>

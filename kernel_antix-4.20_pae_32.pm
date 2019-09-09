@@ -13,18 +13,18 @@ antiX 5.2.8 32 bit pae
    <am>antiX 5.2.8 kernel pae 32 bit</am>
    <ar>antiX 5.2.8 kernel pae 32 bit</ar>
    <bg>antiX 5.2.8 kernel pae 32 bit</bg>
-   <ca>antiX 5.2.8 kernel pae 32 bit</ca>
+   <ca>Kernel d'antix 5.2.8 pae de 32 bit</ca>
    <cs>antiX 5.2.8 kernel pae 32 bit</cs>
    <da>antiX 5.2.8 kerne pae 32 bit</da>
    <de>antiX 5.2.8 Kernel pae 32 bit</de>
    <el>antiX 5.2.8 πυρήνα pae 32 bit</el>
    <en>antiX 5.2.8 kernel pae 32 bit</en>
-   <es>antiX 5.2.8 kernel pae 32 bit</es>
+   <es>kernel antiX pae 5.2.8 32 bit</es>
    <et>antiX 5.2.8 kernel pae 32 bit</et>
    <eu>antiX 5.2.8 kernel pae 32 bit</eu>
    <fa>antiX 5.2.8 kernel pae 32 bit</fa>
    <fi>antiX 5.2.8 kernel pae 32 bit</fi>
-   <fr>Noyau antiX 5.2.8 pae 32 bit</fr>
+   <fr>Noyau antiX 5.2.8 pae, 32 bit</fr>
    <he_IL>antiX 5.2.8 kernel pae 32 bit</he_IL>
    <hi>antiX 5.2.8 kernel pae 32 bit</hi>
    <hr>antiX 5.2.8 kernel pae 32 bit</hr>
@@ -44,12 +44,12 @@ antiX 5.2.8 32 bit pae
    <pt_BR>antiX 5.2.8 kernel pae 32 bit</pt_BR>
    <pt>antiX 5.2.8 kernel pae 32 bit</pt>
    <ro>antiX 5.2.8 kernel pae 32 bit</ro>
-   <ru>antiX ядро 5.2.8, 32 bit pae</ru>
+   <ru>antiX 5.2.8 kernel pae 32 bit</ru>
    <sk>antiX 5.2.8 kernel pae 32 bit</sk>
    <sl>antiX 5.2.8 kernel pae 32 bit</sl>
    <sq>antiX 5.2.8 kernel pae 32 bit</sq>
    <sr>antiX 5.2.8 kernel pae 32 bit</sr>
-   <sv>antiX 5.2.8 kernel pae 32 bit</sv>
+   <sv>antiX 5.2.8 kärna pae 32 bit</sv>
    <tr>antiX 5.2.8 kernel pae 32 bit</tr>
    <uk>antiX 5.2.8 kernel pae 32 bit</uk>
    <zh_CN>antiX 5.2.8 kernel pae 32 bit</zh_CN>

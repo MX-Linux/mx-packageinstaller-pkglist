@@ -19,7 +19,7 @@ Estonian_Firefox
    <de>Estnische Lokalisierung von Firefox</de>
    <el>Εστονικός εντοπισμός του Firefox</el>
    <en>Estonian localisation of Firefox</en>
-   <es>Estonian localisation of Firefox</es>
+   <es>Localización Estonia de Firefox</es>
    <et>Estonian localisation of Firefox</et>
    <eu>Estonian localisation of Firefox</eu>
    <fa>Estonian localisation of Firefox</fa>

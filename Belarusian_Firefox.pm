@@ -44,7 +44,7 @@ Belarusian_Firefox
    <pt_BR>Bielorrusso Localização para Firefox</pt_BR>
    <pt>Bielorrusso Localização para Firefox</pt>
    <ro>Belarusian localisation of Firefox</ro>
-   <ru>Belarusian localisation of Firefox</ru>
+   <ru>Белорусская локализация Firefox</ru>
    <sk>Belarusian localisation of Firefox</sk>
    <sl>Belarusian localisation of Firefox</sl>
    <sq>Belarusian localisation of Firefox</sq>

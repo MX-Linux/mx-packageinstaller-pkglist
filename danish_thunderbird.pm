@@ -19,7 +19,7 @@ Danish_Thunderbird
    <de>Dänische Lokalisierung von Thunderbird</de>
    <el>Δανικός εντοπισμός του Thunderbird</el>
    <en>Danish localisation of Thunderbird</en>
-   <es>Danish localisation of Thunderbird</es>
+   <es>Localización Danesa de Thunderbird</es>
    <et>Danish localisation of Thunderbird</et>
    <eu>Danish localisation of Thunderbird</eu>
    <fa>Danish localisation of Thunderbird</fa>

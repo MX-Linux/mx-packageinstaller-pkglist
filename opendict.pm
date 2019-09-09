@@ -41,12 +41,12 @@ Dictionary
    <nb>OpenDict Dictionary</nb>
    <nl>OpenDict Woordenboek</nl>
    <pl>słownik OpenDict</pl>
-   <pt_BR>OpenDict Dictionary</pt_BR>
+   <pt_BR>Dicionário OpenDict</pt_BR>
    <pt>Dicionário OpenDict</pt>
    <ro>OpenDict Dictionary</ro>
    <ru>Словарь OpenDict</ru>
    <sk>OpenDict Dictionary</sk>
-   <sl>OpenDict Dictionary</sl>
+   <sl>OpenDict slovar</sl>
    <sq>OpenDict Dictionary</sq>
    <sr>OpenDict Dictionary</sr>
    <sv>OpenDict Ordbok</sv>

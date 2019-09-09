@@ -41,8 +41,8 @@ Play on Linux
    <nb>Play on Linux</nb>
    <nl>Speel op Linux</nl>
    <pl>umożliwia łatwą instalację i używanie wielu gier i oprogramowania</pl>
-   <pt_BR>Play on Linux</pt_BR>
-   <pt>Instalar programas do Windows</pt>
+   <pt_BR>Instalar programas do Windows em sistemas Linux</pt_BR>
+   <pt>Instalar programas do Windows em sistemas Linux</pt>
    <ro>Play on Linux</ro>
    <ru>Надстройка для запуска игр в окружении Wine</ru>
    <sk>Play on Linux</sk>

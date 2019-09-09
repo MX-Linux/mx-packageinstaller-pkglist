@@ -19,7 +19,7 @@ Japanese_Fonts
    <de>Japanische Schriftenpakete</de>
    <el>Ιαπωνικά πακέτα γραμματοσειρών</el>
    <en>Japanese fonts packages</en>
-   <es>Japanese fonts packages</es>
+   <es>Paquetes de fuentes japonesas</es>
    <et>Japanese fonts packages</et>
    <eu>Japanese fonts packages</eu>
    <fa>Japanese fonts packages</fa>

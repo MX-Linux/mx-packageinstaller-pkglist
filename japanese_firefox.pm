@@ -19,7 +19,7 @@ Japanese_Firefox
    <de>Japanische Lokalisierung von Firefox</de>
    <el>Ιαπωνικό εντοπισμό του Firefox</el>
    <en>Japanese localisation of Firefox</en>
-   <es>Japanese localisation of Firefox</es>
+   <es>Localización Japonesa de Firefox</es>
    <et>Japanese localisation of Firefox</et>
    <eu>Japanese localisation of Firefox</eu>
    <fa>Japanese localisation of Firefox</fa>
@@ -44,7 +44,7 @@ Japanese_Firefox
    <pt_BR>Japonês Localização para Firefox</pt_BR>
    <pt>Japonês Localização para Firefox</pt>
    <ro>Japanese localisation of Firefox</ro>
-   <ru>Japanese localisation of Firefox</ru>
+   <ru>Японская локализация Firefox</ru>
    <sk>Japanese localisation of Firefox</sk>
    <sl>Japanese localisation of Firefox</sl>
    <sq>Japanese localisation of Firefox</sq>

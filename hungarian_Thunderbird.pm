@@ -19,7 +19,7 @@ Hungarian_Thunderbird
    <de>Ungarische Lokalisierung von Thunderbird</de>
    <el>Ουγγρικός εντοπισμός του Thunderbird</el>
    <en>Hungarian localisation of Thunderbird</en>
-   <es>Hungarian localisation of Thunderbird</es>
+   <es>Localización Húngara de Thunderbird</es>
    <et>Hungarian localisation of Thunderbird</et>
    <eu>Hungarian localisation of Thunderbird</eu>
    <fa>Hungarian localisation of Thunderbird</fa>

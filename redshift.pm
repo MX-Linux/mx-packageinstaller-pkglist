@@ -13,18 +13,18 @@ Redshift
    <am>Transition monitor color temperature by time of day</am>
    <ar>Transition monitor color temperature by time of day</ar>
    <bg>Transition monitor color temperature by time of day</bg>
-   <ca>Transition monitor color temperature by time of day</ca>
+   <ca>Modifica la temperatura de color de la pantalla segons l'hora del dia</ca>
    <cs>Transition monitor color temperature by time of day</cs>
    <da>Transition monitor color temperature by time of day</da>
    <de>Transition monitor color temperature by time of day</de>
    <el>Transition monitor color temperature by time of day</el>
    <en>Transition monitor color temperature by time of day</en>
-   <es>Transition monitor color temperature by time of day</es>
+   <es>Monitor de transición de temperatura de color por hora del día</es>
    <et>Transition monitor color temperature by time of day</et>
    <eu>Transition monitor color temperature by time of day</eu>
    <fa>Transition monitor color temperature by time of day</fa>
    <fi>Transition monitor color temperature by time of day</fi>
-   <fr>Transition monitor color temperature by time of day</fr>
+   <fr>Adaptation de la température des couleurs de votre écran selon le moment de la journée</fr>
    <he_IL>Transition monitor color temperature by time of day</he_IL>
    <hi>Transition monitor color temperature by time of day</hi>
    <hr>Transition monitor color temperature by time of day</hr>
@@ -39,7 +39,7 @@ Redshift
    <lt>Transition monitor color temperature by time of day</lt>
    <mk>Transition monitor color temperature by time of day</mk>
    <nb>Transition monitor color temperature by time of day</nb>
-   <nl>Transition monitor color temperature by time of day</nl>
+   <nl>Pas monitor kleurtemperatuur aan aan tijdstip van de dag</nl>
    <pl>Transition monitor color temperature by time of day</pl>
    <pt_BR>Transition monitor color temperature by time of day</pt_BR>
    <pt>Transition monitor color temperature by time of day</pt>
@@ -50,7 +50,7 @@ Redshift
    <sq>Transition monitor color temperature by time of day</sq>
    <sr>Transition monitor color temperature by time of day</sr>
    <sv>Transition monitor color temperature by time of day</sv>
-   <tr>Transition monitor color temperature by time of day</tr>
+   <tr>Günün saatine göre geçiş monitörü renk sıcaklığı</tr>
    <uk>Transition monitor color temperature by time of day</uk>
    <zh_CN>Transition monitor color temperature by time of day</zh_CN>
    <zh_TW>Transition monitor color temperature by time of day</zh_TW>

@@ -19,7 +19,7 @@ Korean_Input_fcitx
    <de>Koreanische Schriftzeichen und Fcitx</de>
    <el>Κορεατικές γραμματοσειρές και fcitx</el>
    <en>Korean Fonts and fcitx</en>
-   <es>Korean Fonts and fcitx</es>
+   <es>Fuentes Coreanas y fcitx</es>
    <et>Korean Fonts and fcitx</et>
    <eu>Korean Fonts and fcitx</eu>
    <fa>Korean Fonts and fcitx</fa>

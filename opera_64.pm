@@ -41,7 +41,7 @@ Opera
    <nb>Opera browser</nb>
    <nl>Opera browser</nl>
    <pl>przeglądarka Opera</pl>
-   <pt_BR>Opera browser</pt_BR>
+   <pt_BR>Navegador web Opera</pt_BR>
    <pt>Navegador web Opera</pt>
    <ro>Opera browser</ro>
    <ru>Браузер Opera</ru>

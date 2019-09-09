@@ -13,25 +13,25 @@ SoftMaker FreeOffice 2018
    <am>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</am>
    <ar>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ar>
    <bg>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</bg>
-   <ca>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ca>
+   <ca>SoftMaker FreeOffice 2018 és una suite ofimàtica ràpida, compatible i fiable.</ca>
    <cs>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</cs>
    <da>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</da>
    <de>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</de>
    <el>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</el>
    <en>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</en>
-   <es>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</es>
+   <es>SoftMaker FreeOffice 2018 es una suite ofimática rápida, compatible y confiable</es>
    <et>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</et>
    <eu>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</eu>
    <fa>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</fa>
    <fi>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</fi>
-   <fr>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</fr>
+   <fr>SoftMaker FreeOffice 2018 est une suite bureautique fiable, rapide et compatible</fr>
    <he_IL>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</he_IL>
    <hi>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</hi>
    <hr>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</hr>
    <hu>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</hu>
    <id>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</id>
    <is>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</is>
-   <it>SoftMaker FreeOffice 2018v</it>
+   <it>SoftMaker FreeOffice 2018 è una suite per ufficio veloce, affidabile e compatibile</it>
    <ja_JP>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ja_JP>
    <ja>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ja>
    <kk>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</kk>
@@ -39,17 +39,17 @@ SoftMaker FreeOffice 2018
    <lt>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</lt>
    <mk>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</mk>
    <nb>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</nb>
-   <nl>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</nl>
+   <nl>SoftMaker FreeOffice 2018 is een snel, geschikt en betrouwbaar officeprogramma</nl>
    <pl>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</pl>
    <pt_BR>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</pt_BR>
-   <pt>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</pt>
+   <pt>O SoftMaker FreeOffice 2018 é uma suite de escritório rápida, compatível e confiável</pt>
    <ro>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ro>
    <ru>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ru>
    <sk>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</sk>
-   <sl>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</sl>
+   <sl>SoftMaker FreeOffice 2018 je hiter in združljiv paket za pisarniško rabo</sl>
    <sq>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</sq>
    <sr>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</sr>
-   <sv>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</sv>
+   <sv>SoftMaker FreeOffice 2018 är snabb, kompatibel och pålitlig kontors-uppsättning</sv>
    <tr>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</tr>
    <uk>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</uk>
    <zh_CN>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</zh_CN>
@@ -124,7 +124,7 @@ softmaker-freeoffice-2018
 <postuninstall>
 
 echo "removing Softmaker repository key"
-apt-key del 0x3413DA98AA3E7F5E 
+apt-key del 0x3413DA98AA3E7F5E
 
 echo "removing Softmaker repository  /etc/apt/sources.list.d/softmaker.list"
 rm /etc/apt/sources.list.d/softmaker.list

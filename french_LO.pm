@@ -19,7 +19,7 @@ French_Libreoffice
    <de>Französisches Meta-Paket für LibreOffice</de>
    <el>LibreOffice στη γαλλική γλώσσα</el>
    <en>French Language Meta-Package for LibreOffice</en>
-   <es>French Language Meta-Package for LibreOffice</es>
+   <es>Meta-Paquete de Idioma Francés para LibreOffice</es>
    <et>French Language Meta-Package for LibreOffice</et>
    <eu>French Language Meta-Package for LibreOffice</eu>
    <fa>French Language Meta-Package for LibreOffice</fa>

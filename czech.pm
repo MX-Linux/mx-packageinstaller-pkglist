@@ -19,7 +19,7 @@ Czech
    <de>Tschechisches Sprach-Meta-Paket</de>
    <el>Τσεχική γλώσσα</el>
    <en>Czech Language Meta-Package</en>
-   <es>Czech Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Checo</es>
    <et>Czech Language Meta-Package</et>
    <eu>Czech Language Meta-Package</eu>
    <fa>Czech Language Meta-Package</fa>

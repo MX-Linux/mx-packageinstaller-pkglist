@@ -19,7 +19,7 @@ Russian_Thunderbird
    <de>Russische Lokalisierung von Thunderbird</de>
    <el>Ρωσικός εντοπισμός του Thunderbird</el>
    <en>Russian localisation of Thunderbird</en>
-   <es>Russian localisation of Thunderbird</es>
+   <es>Localización Rusa de Thunderbird</es>
    <et>Russian localisation of Thunderbird</et>
    <eu>Russian localisation of Thunderbird</eu>
    <fa>Russian localisation of Thunderbird</fa>

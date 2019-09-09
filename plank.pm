@@ -41,7 +41,7 @@ Plank
    <nb>Simple but good looking dock</nb>
    <nl>Eenvoudig maar goed uitziende dock</nl>
    <pl>prosty, ale dobrze wyglądający panel dokujący</pl>
-   <pt_BR>Simple but good looking dock</pt_BR>
+   <pt_BR>Doca simples mas elegante</pt_BR>
    <pt>Doca simples mas elegante</pt>
    <ro>Simple but good looking dock</ro>
    <ru>Простой но стильно выглядящий док</ru>

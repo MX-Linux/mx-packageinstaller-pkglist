@@ -19,7 +19,7 @@ Greek_Thunderbird
    <de>Griechische Lokalisierung von Thunderbird</de>
    <el>Ελληνικός εντοπισμός του Thunderbird</el>
    <en>Greek localisation of Thunderbird</en>
-   <es>Greek localisation of Thunderbird</es>
+   <es>Localización Griega de Thunderbird</es>
    <et>Greek localisation of Thunderbird</et>
    <eu>Greek localisation of Thunderbird</eu>
    <fa>Greek localisation of Thunderbird</fa>

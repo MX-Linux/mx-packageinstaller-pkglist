@@ -19,7 +19,7 @@ Google Earth
    <de>Google Earth Globe</de>
    <el>Google Earth Globe</el>
    <en>Google Earth Globe</en>
-   <es>Google Earth Globe</es>
+   <es>Globo Terráqueo de Google Earth</es>
    <et>Google Earth Globe</et>
    <eu>Google Earth Globe</eu>
    <fa>Google Earth Globe</fa>
@@ -41,7 +41,7 @@ Google Earth
    <nb>Google Earth Globe</nb>
    <nl>Google Earth Wereldbol</nl>
    <pl>Globus Google Earth</pl>
-   <pt_BR>Google Earth Globe</pt_BR>
+   <pt_BR>Ver a Terra a partir do espaço</pt_BR>
    <pt>Ver a Terra a partir do espaço</pt>
    <ro>Google Earth Globe</ro>
    <ru>Google Планета Земля - спутниковые снимки земного шара</ru>

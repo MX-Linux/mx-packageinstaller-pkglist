@@ -19,7 +19,7 @@ ssh Conduit
    <de>Auf einfache Art und Weise auf entfernte Rechnern über verschlüsselte SSH-Verbindungen zuzugreifen.</de>
    <el>Ένας απλός τρόπος για τη χρήση απομακρυσμένων πόρων μέσω κρυπτογραφημένης σύνδεσης ssh</el>
    <en>A simple way to use remote resources via an ssh encypted connection</en>
-   <es>A simple way to use remote resources via an ssh encypted connection</es>
+   <es>Una forma sencilla de usar recursos remotos a través de una conexión cifrada ssh</es>
    <et>A simple way to use remote resources via an ssh encypted connection</et>
    <eu>A simple way to use remote resources via an ssh encypted connection</eu>
    <fa>A simple way to use remote resources via an ssh encypted connection</fa>

@@ -19,7 +19,7 @@ Korean_Thunderbird
    <de>Koreanische Lokalisierung von Thunderbird</de>
    <el>Κορεατικός εντοπισμός του Thunderbird</el>
    <en>Korean localisation of Thunderbird</en>
-   <es>Korean localisation of Thunderbird</es>
+   <es>Localización Coreana de Thunderbird</es>
    <et>Korean localisation of Thunderbird</et>
    <eu>Korean localisation of Thunderbird</eu>
    <fa>Korean localisation of Thunderbird</fa>

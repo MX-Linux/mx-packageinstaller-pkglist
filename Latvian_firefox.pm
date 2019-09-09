@@ -19,7 +19,7 @@ Latvian_Firefox
    <de>Lettische Lokalisierung von Firefox</de>
    <el>Λετονική εντοπισμός του Firefox</el>
    <en>Latvian localisation of Firefox</en>
-   <es>Latvian localisation of Firefox</es>
+   <es>Localización Letona de Firefox</es>
    <et>Latvian localisation of Firefox</et>
    <eu>Latvian localisation of Firefox</eu>
    <fa>Latvian localisation of Firefox</fa>
@@ -44,7 +44,7 @@ Latvian_Firefox
    <pt_BR>Letão Localização para Firefox</pt_BR>
    <pt>Letão Localização para Firefox</pt>
    <ro>Latvian localisation of Firefox</ro>
-   <ru>Latvian localisation of Firefox</ru>
+   <ru>Латвийская локализация Firefox</ru>
    <sk>Latvian localisation of Firefox</sk>
    <sl>Latvian localisation of Firefox</sl>
    <sq>Latvian localisation of Firefox</sq>

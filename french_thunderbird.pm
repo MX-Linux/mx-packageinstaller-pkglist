@@ -19,7 +19,7 @@ French_Thunderbird
    <de>Französische Lokalisierung von Thunderbird</de>
    <el>Γαλλικός εντοπισμός του Thunderbird</el>
    <en>French localisation of Thunderbird</en>
-   <es>French localisation of Thunderbird</es>
+   <es>Localización Francés de Thunderbird</es>
    <et>French localisation of Thunderbird</et>
    <eu>French localisation of Thunderbird</eu>
    <fa>French localisation of Thunderbird</fa>

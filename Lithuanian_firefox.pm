@@ -19,7 +19,7 @@ Lithuanian_Firefox
    <de>Litauische Lokalisierung von Firefox</de>
    <el>Λιθουανικός εντοπισμός του Firefox</el>
    <en>Lithuanian localisation of Firefox</en>
-   <es>Lithuanian localisation of Firefox</es>
+   <es>Localización Lituana de Firefox</es>
    <et>Lithuanian localisation of Firefox</et>
    <eu>Lithuanian localisation of Firefox</eu>
    <fa>Lithuanian localisation of Firefox</fa>
@@ -44,7 +44,7 @@ Lithuanian_Firefox
    <pt_BR>Lituano Localização para Firefox</pt_BR>
    <pt>Lituano Localização para Firefox</pt>
    <ro>Lithuanian localisation of Firefox</ro>
-   <ru>Lithuanian localisation of Firefox</ru>
+   <ru>Литовская локализация Firefox</ru>
    <sk>Lithuanian localisation of Firefox</sk>
    <sl>Lithuanian localisation of Firefox</sl>
    <sq>Lithuanian localisation of Firefox</sq>

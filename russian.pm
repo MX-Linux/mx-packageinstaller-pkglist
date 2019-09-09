@@ -19,7 +19,7 @@ Russian
    <de>Russisches Sprach-Meta-Paket</de>
    <el>Ρωσική γλώσσα</el>
    <en>Russian Language Meta-Package</en>
-   <es>Russian Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Ruso</es>
    <et>Russian Language Meta-Package</et>
    <eu>Russian Language Meta-Package</eu>
    <fa>Russian Language Meta-Package</fa>

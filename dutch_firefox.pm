@@ -19,7 +19,7 @@ Dutch_Firefox
    <de>Niederländische Lokalisierung von Firefox</de>
    <el>Ολλανδικός εντοπισμός του Firefox</el>
    <en>Dutch localisation of Firefox</en>
-   <es>Dutch localisation of Firefox</es>
+   <es>Localización Holandesa de Firefox</es>
    <et>Dutch localisation of Firefox</et>
    <eu>Dutch localisation of Firefox</eu>
    <fa>Dutch localisation of Firefox</fa>
@@ -44,7 +44,7 @@ Dutch_Firefox
    <pt_BR>Holandês Localização para Firefox</pt_BR>
    <pt>Holandês Localização para Firefox</pt>
    <ro>Dutch localisation of Firefox</ro>
-   <ru>Dutch localisation of Firefox</ru>
+   <ru>Голландская локализация Firefox</ru>
    <sk>Dutch localisation of Firefox</sk>
    <sl>Dutch localisation of Firefox</sl>
    <sq>Dutch localisation of Firefox</sq>

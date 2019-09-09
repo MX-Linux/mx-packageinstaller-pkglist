@@ -19,7 +19,7 @@ Preschool
    <de>Vorschule: Inklusive Gamine, Gcompris und Tuxpaint</de>
    <el>Προσχολικός. Περιλαμβάνει: gamine, gcompris και tuxpaint</el>
    <en>Pre-School. Includes: gamine, gcompris and tuxpaint</en>
-   <es>Pre-School. Includes: gamine, gcompris and tuxpaint</es>
+   <es>Preescolar. Incluye: gamine, gcompris y tuxpaint.</es>
    <et>Pre-School. Includes: gamine, gcompris and tuxpaint</et>
    <eu>Pre-School. Includes: gamine, gcompris and tuxpaint</eu>
    <fa>Pre-School. Includes: gamine, gcompris and tuxpaint</fa>
@@ -41,7 +41,7 @@ Preschool
    <nb>Pre-School. Includes: gamine, gcompris and tuxpaint</nb>
    <nl>Pre-School. Inclusief: gamine, gcompris en tuxpaint</nl>
    <pl>Przedszkole. Zawiera: gamine, gcompris i tuxpaint</pl>
-   <pt_BR>Pre-School. Includes: gamine, gcompris and tuxpaint</pt_BR>
+   <pt_BR>Pré-escola/infantil. Inclui: gamine, gcompris e tuxpaint</pt_BR>
    <pt>Pré-escola/infantil. Inclui: gamine, gcompris e tuxpaint</pt>
    <ro>Pre-School. Includes: gamine, gcompris and tuxpaint</ro>
    <ru>Приложения для дошкольников: gamine, gcompris и tuxpaint</ru>

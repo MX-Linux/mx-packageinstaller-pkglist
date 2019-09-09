@@ -19,7 +19,7 @@ GB_English_Thunderbird
    <de>Englische (GB) Lokalisierung von Thunderbird</de>
    <el>Αγγλικός (ΜΒ) εντοπισμός του Thunderbird</el>
    <en>GB English localisation of Thunderbird</en>
-   <es>GB English localisation of Thunderbird</es>
+   <es>Localización Inglesa (GB) de Thunderbird</es>
    <et>GB English localisation of Thunderbird</et>
    <eu>GB English localisation of Thunderbird</eu>
    <fa>GB English localisation of Thunderbird</fa>

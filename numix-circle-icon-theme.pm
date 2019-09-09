@@ -13,13 +13,13 @@ Numix Circle Icons
    <am>numix circular icons</am>
    <ar>numix circular icons</ar>
    <bg>numix circular icons</bg>
-   <ca>numix circular icons</ca>
+   <ca>Icones circulars numix</ca>
    <cs>numix circular icons</cs>
    <da>numix cirkulære ikoner</da>
    <de>Symbolthema Numix Circle</de>
    <el>εικονίδια numix κυκλικά</el>
    <en>numix circular icons</en>
-   <es>numix circular icons</es>
+   <es>Numix iconos circulares</es>
    <et>numix circular icons</et>
    <eu>numix circular icons</eu>
    <fa>numix circular icons</fa>
@@ -41,8 +41,8 @@ Numix Circle Icons
    <nb>numix circular icons</nb>
    <nl>numix cirkelvormige iconen</nl>
    <pl>okrągłe ikony numix</pl>
-   <pt_BR>numix circular icons</pt_BR>
-   <pt>numix circular icons</pt>
+   <pt_BR>Ícones circulares numix</pt_BR>
+   <pt>Ícones circulares numix</pt>
    <ro>numix circular icons</ro>
    <ru>Круглые значки Numix</ru>
    <sk>numix circular icons</sk>

@@ -19,7 +19,7 @@ Portugese(PT) Thunderbird
    <de>Portugiesische (PT) Lokalisierung von Thunderbird</de>
    <el>Πορτογαλικός εντοπισμός του Thunderbird</el>
    <en>Portugese(PT) localisation of Thunderbird</en>
-   <es>Portugese(PT) localisation of Thunderbird</es>
+   <es>Localización Portuguesa (PT) de Thunderbird</es>
    <et>Portugese(PT) localisation of Thunderbird</et>
    <eu>Portugese(PT) localisation of Thunderbird</eu>
    <fa>Portugese(PT) localisation of Thunderbird</fa>

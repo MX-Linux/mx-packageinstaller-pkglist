@@ -44,7 +44,7 @@ Spanish_Firefox
    <pt_BR>Castelhano Localização para Firefox</pt_BR>
    <pt>Castelhano Localização para Firefox</pt>
    <ro>Spanish localisation of Firefox</ro>
-   <ru>Spanish localisation of Firefox</ru>
+   <ru>Испанская локализация Firefox</ru>
    <sk>Spanish localisation of Firefox</sk>
    <sl>Spanish localisation of Firefox</sl>
    <sq>Spanish localisation of Firefox</sq>

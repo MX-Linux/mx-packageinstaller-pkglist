@@ -13,25 +13,25 @@ Mullvad VPN
    <am>Mullvad VPN and sysVinit scripts</am>
    <ar>Mullvad VPN and sysVinit scripts</ar>
    <bg>Mullvad VPN and sysVinit scripts</bg>
-   <ca>Mullvad VPN and sysVinit scripts</ca>
+   <ca>Scripts Mullvad VPN i sysVinit</ca>
    <cs>Mullvad VPN and sysVinit scripts</cs>
    <da>Mullvad VPN and sysVinit scripts</da>
-   <de>Mullvad VPN and sysVinit scripts</de>
-   <el>Mullvad VPN and sysVinit scripts</el>
+   <de>Mullvad VPN und sysVinit Scripte</de>
+   <el>σενάρια του Mullvad VPN και sysVinit</el>
    <en>Mullvad VPN and sysVinit scripts</en>
-   <es>Mullvad VPN and sysVinit scripts</es>
+   <es>Mullvad VPN y scripts sysVinit</es>
    <et>Mullvad VPN and sysVinit scripts</et>
    <eu>Mullvad VPN and sysVinit scripts</eu>
    <fa>Mullvad VPN and sysVinit scripts</fa>
    <fi>Mullvad VPN and sysVinit scripts</fi>
-   <fr>Mullvad VPN and sysVinit scripts</fr>
+   <fr>Scripts pour Mullvad VPN et sysVinit</fr>
    <he_IL>Mullvad VPN and sysVinit scripts</he_IL>
    <hi>Mullvad VPN and sysVinit scripts</hi>
    <hr>Mullvad VPN and sysVinit scripts</hr>
    <hu>Mullvad VPN and sysVinit scripts</hu>
    <id>Mullvad VPN and sysVinit scripts</id>
    <is>Mullvad VPN and sysVinit scripts</is>
-   <it>Mullvad VPN and sysVinit scriptsv</it>
+   <it>Mullvad VPN e script sysVinit</it>
    <ja_JP>Mullvad VPN and sysVinit scripts</ja_JP>
    <ja>Mullvad VPN and sysVinit scripts</ja>
    <kk>Mullvad VPN and sysVinit scripts</kk>
@@ -39,17 +39,17 @@ Mullvad VPN
    <lt>Mullvad VPN and sysVinit scripts</lt>
    <mk>Mullvad VPN and sysVinit scripts</mk>
    <nb>Mullvad VPN and sysVinit scripts</nb>
-   <nl>Mullvad VPN and sysVinit scripts</nl>
+   <nl>Mullvad VPN en sysVinit scripts</nl>
    <pl>Mullvad VPN and sysVinit scripts</pl>
-   <pt_BR>Mullvad VPN and sysVinit scripts</pt_BR>
-   <pt>Mullvad VPN and sysVinit scripts</pt>
+   <pt_BR>Scripts para sysVinit e Mullvad VPN</pt_BR>
+   <pt>Scripts para sysVinit e VPN Mullvad</pt>
    <ro>Mullvad VPN and sysVinit scripts</ro>
-   <ru>Mullvad VPN and sysVinit scripts</ru>
+   <ru>VPN и SysVinit - скрипты от Mullvad</ru>
    <sk>Mullvad VPN and sysVinit scripts</sk>
    <sl>Mullvad VPN and sysVinit scripts</sl>
    <sq>Mullvad VPN and sysVinit scripts</sq>
    <sr>Mullvad VPN and sysVinit scripts</sr>
-   <sv>Mullvad VPN and sysVinit scripts</sv>
+   <sv>Mullvad VPN och sysVinit skript</sv>
    <tr>Mullvad VPN and sysVinit scripts</tr>
    <uk>Mullvad VPN and sysVinit scripts</uk>
    <zh_CN>Mullvad VPN and sysVinit scripts</zh_CN>
@@ -71,10 +71,10 @@ mullvadvpn-downloader-installer
 </install_package_names>
 
 <postinstall>
-# run Mullvad installer 
+# run Mullvad installer
 INSTALL=/usr/share/mullvad-downloader-installer/install_mullvadvpn.sh
 if [ -x $INSTALL ]; then
-   /usr/share/mullvad-downloader-installer/install_mullvadvpn.sh
+/usr/share/mullvad-downloader-installer/install_mullvadvpn.sh
 fi
 
 </postinstall>

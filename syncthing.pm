@@ -13,13 +13,13 @@ Syncthing
    <am>Syncthing file sync utility</am>
    <ar>Syncthing file sync utility</ar>
    <bg>Syncthing file sync utility</bg>
-   <ca>Utilitat de sincronització de fitxers amb Syncthing</ca>
+   <ca>Utilitat de sincronització de fitxers Syncthing</ca>
    <cs>Syncthing file sync utility</cs>
-   <da>Syncthing-filsynkroniseringsredskab</da>
+   <da>Syncthing file sync utility</da>
    <de>Syncthing Dateisynchronisationsprogramm</de>
-   <el>Βοηθητικό πρόγραμμα συγχρονισμού αρχείων Syncthing</el>
+   <el>Συγχρονισμός χρησιμότητας συγχρονισμού αρχείων</el>
    <en>Syncthing file sync utility</en>
-   <es>Sincronizar archivos con Syncthing</es>
+   <es>Utilidad de sincronización de archivos de sincronización</es>
    <et>Syncthing file sync utility</et>
    <eu>Syncthing file sync utility</eu>
    <fa>Syncthing file sync utility</fa>
@@ -31,27 +31,27 @@ Syncthing
    <hu>Syncthing file sync utility</hu>
    <id>Syncthing file sync utility</id>
    <is>Syncthing file sync utility</is>
-   <it>Utility di sincronizzazione dei file</it>
+   <it>Syncthing applicazione di sincronizzazione di file</it>
    <ja_JP>Syncthing file sync utility</ja_JP>
    <ja>Syncthing file sync utility</ja>
    <kk>Syncthing file sync utility</kk>
    <ko>Syncthing file sync utility</ko>
-   <lt>Syncthing failų sinchronizavimo paslaugų programa</lt>
+   <lt>Syncthing file sync utility</lt>
    <mk>Syncthing file sync utility</mk>
    <nb>Syncthing file sync utility</nb>
-   <nl>Syncthing bestand synchronisatie gereedschap</nl>
-   <pl>narzędzie synchronizacji plików Syncthing</pl>
-   <pt_BR>Syncthing file sync utility</pt_BR>
-   <pt>Utilitário de armazenagem e sincronização de ficheiros</pt>
+   <nl>Syncthing file synchronisatie hulpprogramma</nl>
+   <pl>Syncthing file sync utility</pl>
+   <pt_BR>Utilitário de sincronização de arquivos</pt_BR>
+   <pt>Utilitário de sincronização de ficheiros</pt>
    <ro>Syncthing file sync utility</ro>
-   <ru>Утилита синхронизации файлов с Syncthing</ru>
+   <ru>Syncthing - приложение распределенной синхронизации файлов</ru>
    <sk>Syncthing file sync utility</sk>
    <sl>Syncthing file sync utility</sl>
    <sq>Syncthing file sync utility</sq>
    <sr>Syncthing file sync utility</sr>
    <sv>Syncthing filsynkroniserings-redskap</sv>
    <tr>Syncthing file sync utility</tr>
-   <uk>утиліта синхронізації файлів Syncthing</uk>
+   <uk>Syncthing file sync utility</uk>
    <zh_CN>Syncthing file sync utility</zh_CN>
    <zh_TW>Syncthing file sync utility</zh_TW>
 </description>

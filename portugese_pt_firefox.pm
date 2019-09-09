@@ -19,7 +19,7 @@ Portugese(PT) Firefox
    <de>Portugiesische (PT) Lokalisierung von Firefox</de>
    <el>Πορτογαλικός εντοπισμός του Firefox</el>
    <en>Portugese(PT) localisation of Firefox</en>
-   <es>Portugese(PT) localisation of Firefox</es>
+   <es>Localización Portuguesa (PT) de Firefox</es>
    <et>Portugese(PT) localisation of Firefox</et>
    <eu>Portugese(PT) localisation of Firefox</eu>
    <fa>Portugese(PT) localisation of Firefox</fa>

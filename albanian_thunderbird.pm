@@ -45,7 +45,7 @@ Albanian_Thunderbird
    <pt>Albanês Localização para Thunderbird</pt>
    <ro>Albanian localisation of Thunderbird</ro>
    <ru>Albanian localisation of Thunderbird</ru>
-   <sk>Albanian localisation of Thunderbird</sk>
+   <sk>Albanian lokalizácia pre Thunderbird</sk>
    <sl>Albanian localisation of Thunderbird</sl>
    <sq>Albanian localisation of Thunderbird</sq>
    <sr>Albanian localisation of Thunderbird</sr>

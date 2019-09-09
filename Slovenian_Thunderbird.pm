@@ -19,7 +19,7 @@ Slovenian_Thunderbird
    <de>Slowenische Lokalisierung von Thunderbird</de>
    <el>Σλοβένικος εντοπισμός του Thunderbird</el>
    <en>Slovenian localisation of Thunderbird</en>
-   <es>Slovenian localisation of Thunderbird</es>
+   <es>Localización Eslovena de Thunderbird</es>
    <et>Slovenian localisation of Thunderbird</et>
    <eu>Slovenian localisation of Thunderbird</eu>
    <fa>Slovenian localisation of Thunderbird</fa>

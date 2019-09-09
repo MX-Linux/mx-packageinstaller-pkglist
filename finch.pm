@@ -19,7 +19,7 @@ Finch
    <de>Ein modularer Instant Messaging-Client in der Textconsole</de>
    <el>πελάτη άμεσων μηνυμάτων σε κονσόλα κειμένου</el>
    <en>a text-console-based, modular instant messaging client</en>
-   <es>cliente de mensajería instantánea modular para línea de comandos</es>
+   <es>Cliente de mensajería instantánea modular para línea de comandos</es>
    <et>a text-console-based, modular instant messaging client</et>
    <eu>a text-console-based, modular instant messaging client</eu>
    <fa>a text-console-based, modular instant messaging client</fa>
@@ -41,12 +41,12 @@ Finch
    <nb>a text-console-based, modular instant messaging client</nb>
    <nl>een modulaire client voor instant messaging op basis van tekstconsoles</nl>
    <pl>oparty na konsoli tekstowej, modułowy klient wiadomości błyskawicznych (komunikator)</pl>
-   <pt_BR>a text-console-based, modular instant messaging client</pt_BR>
-   <pt>Cliente de mensagens instantâneas modular e baseado em consola</pt>
+   <pt_BR>Cliente de mensagens instantâneas modular, por consola/terminal</pt_BR>
+   <pt>Cliente de mensagens instantâneas modular, por consola/terminal</pt>
    <ro>a text-console-based, modular instant messaging client</ro>
    <ru>Консольный модульный клиент мгновенных сообщений</ru>
    <sk>a text-console-based, modular instant messaging client</sk>
-   <sl>a text-console-based, modular instant messaging client</sl>
+   <sl>na tekstovni konmzoli temelječ, modularni odjemalec za instantno sporočanje</sl>
    <sq>a text-console-based, modular instant messaging client</sq>
    <sr>a text-console-based, modular instant messaging client</sr>
    <sv>en textkonsol-baserad modulär snabbmeddelande-klient</sv>

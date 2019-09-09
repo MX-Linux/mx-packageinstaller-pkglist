@@ -36,12 +36,12 @@ gThumb
    <ja>advanced image viewer and browser</ja>
    <kk>advanced image viewer and browser</kk>
    <ko>advanced image viewer and browser</ko>
-   <lt>advanced image viewer and browser</lt>
+   <lt>išplėstinė paveikslų žiūryklė ir naršyklė</lt>
    <mk>advanced image viewer and browser</mk>
    <nb>advanced image viewer and browser</nb>
    <nl>geavanceerde afbeelding weergever en browser</nl>
    <pl>zaawansowana przeglądarka grafiki</pl>
-   <pt_BR>advanced image viewer and browser</pt_BR>
+   <pt_BR>Visualizador e explorador de imagens avançado</pt_BR>
    <pt>Visualizador e explorador de imagens avançado</pt>
    <ro>advanced image viewer and browser</ro>
    <ru>Продвинутый просмотрщик и каталогизатор изображений</ru>

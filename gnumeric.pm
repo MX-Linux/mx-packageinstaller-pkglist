@@ -19,7 +19,7 @@ Gnumeric
    <de>Leichtgewichtige Tabellenkalkulation</de>
    <el>ελαφρύ υπολογιστικό φύλλο</el>
    <en>lightweight spreadsheet</en>
-   <es>software de hojas de cálculo liviano</es>
+   <es>Hoja de cálculo ligera</es>
    <et>lightweight spreadsheet</et>
    <eu>lightweight spreadsheet</eu>
    <fa>lightweight spreadsheet</fa>
@@ -41,7 +41,7 @@ Gnumeric
    <nb>lightweight spreadsheet</nb>
    <nl>lichtgewicht speadsheet</nl>
    <pl>lekki arkusz kalkulacyjny</pl>
-   <pt_BR>lightweight spreadsheet</pt_BR>
+   <pt_BR>Planilha simples e ligeira</pt_BR>
    <pt>Folha de cálculo simples e ligeira</pt>
    <ro>lightweight spreadsheet</ro>
    <ru>Легковесный редактор электронных таблиц (включает основные функции Excel)</ru>

@@ -19,7 +19,7 @@ Steam
    <de>Steam powered Games</de>
    <el>Παιχνίδια του Stream</el>
    <en>Steam powered games</en>
-   <es>Steam powered games</es>
+   <es>Juegos accionados por Steam</es>
    <et>Steam powered games</et>
    <eu>Steam powered games</eu>
    <fa>Steam powered games</fa>
@@ -41,7 +41,7 @@ Steam
    <nb>Steam powered games</nb>
    <nl>Steam aangedreven spellen</nl>
    <pl>Gry na Steam</pl>
-   <pt_BR>Steam powered games</pt_BR>
+   <pt_BR>Jogos da Plataforma Steam</pt_BR>
    <pt>Jogos da Plataforma Steam</pt>
    <ro>Steam powered games</ro>
    <ru>Платформа цифрового распространения игр</ru>

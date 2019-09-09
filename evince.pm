@@ -36,17 +36,17 @@ Evince
    <ja>a simple document (PostScript, PDF) viewer</ja>
    <kk>a simple document (PostScript, PDF) viewer</kk>
    <ko>a simple document (PostScript, PDF) viewer</ko>
-   <lt>a simple document (PostScript, PDF) viewer</lt>
+   <lt>paprasta dokumentų (PostScript, PDF) žiūryklė</lt>
    <mk>a simple document (PostScript, PDF) viewer</mk>
    <nb>a simple document (PostScript, PDF) viewer</nb>
    <nl>een eenvoudige document (PostScript, PDF) lezer</nl>
    <pl>prosta przeglądarka dokumentów (PostScript, PDF)</pl>
-   <pt_BR>a simple document (PostScript, PDF) viewer</pt_BR>
+   <pt_BR>Visualizador de documentos (PostScript, PDF) simples e de fácil utilização</pt_BR>
    <pt>Visualizador de documentos (PostScript, PDF) simples e de fácil utilização</pt>
    <ro>a simple document (PostScript, PDF) viewer</ro>
    <ru>Просмотрщик документов PostScript, PDF</ru>
    <sk>a simple document (PostScript, PDF) viewer</sk>
-   <sl>a simple document (PostScript, PDF) viewer</sl>
+   <sl>preprost pregledovalnik dokumentov (PostScript, PDF)</sl>
    <sq>a simple document (PostScript, PDF) viewer</sq>
    <sr>a simple document (PostScript, PDF) viewer</sr>
    <sv>en enkel dokument (PostScript, PDF) läsare</sv>

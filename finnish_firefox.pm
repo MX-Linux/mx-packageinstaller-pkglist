@@ -19,7 +19,7 @@ Finnish_Firefox
    <de>Finnische Lokalisierung von Firefox</de>
    <el>Φινλανδικός εντοπισμός του Firefox</el>
    <en>Finnish localisation of Firefox</en>
-   <es>Finnish localisation of Firefox</es>
+   <es>Localización Finlandesa de Firefox</es>
    <et>Finnish localisation of Firefox</et>
    <eu>Finnish localisation of Firefox</eu>
    <fa>Finnish localisation of Firefox</fa>
@@ -44,7 +44,7 @@ Finnish_Firefox
    <pt_BR>Finlandês Localização para Firefox</pt_BR>
    <pt>Finlandês Localização para Firefox</pt>
    <ro>Finnish localisation of Firefox</ro>
-   <ru>Finnish localisation of Firefox</ru>
+   <ru>Финская локализация Firefox</ru>
    <sk>Finnish localisation of Firefox</sk>
    <sl>Finnish localisation of Firefox</sl>
    <sq>Finnish localisation of Firefox</sq>

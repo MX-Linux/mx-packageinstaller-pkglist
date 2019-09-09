@@ -44,7 +44,7 @@ Chinese_fonts
    <pt_BR>Chinês Pacotes de fontes</pt_BR>
    <pt>Chinês Pacotes de fontes</pt>
    <ro>Chinese fonts packages</ro>
-   <ru>Chinese fonts packages</ru>
+   <ru>Пакеты китайских шрифтов</ru>
    <sk>Chinese fonts packages</sk>
    <sl>Chinese fonts packages</sl>
    <sq>Chinese fonts packages</sq>

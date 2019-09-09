@@ -41,7 +41,7 @@ Google Chrome
    <nb>Latest Google Chrome browser (stable)</nb>
    <nl>Meest recente Chrome browser (stable)</nl>
    <pl>najnowsza przeglądarka Google Chrome (stabilna)</pl>
-   <pt_BR>Latest Google Chrome browser (stable)</pt_BR>
+   <pt_BR>Versão mais recente (estável) do navegador web Google Chrome</pt_BR>
    <pt>Versão mais recente (estável) do navegador web Google Chrome</pt>
    <ro>Latest Google Chrome browser (stable)</ro>
    <ru>Браузер Google Chrome (последняя стабильная версия)</ru>

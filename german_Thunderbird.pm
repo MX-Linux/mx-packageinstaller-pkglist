@@ -19,7 +19,7 @@ German_Thunderbird
    <de>Deutsche Lokalisierung von Thunderbird</de>
    <el>Γερμανικός εντοπισμός του Thunderbird</el>
    <en>German localisation of Thunderbird</en>
-   <es>German localisation of Thunderbird</es>
+   <es>Localización Alemana de Thunderbird</es>
    <et>German localisation of Thunderbird</et>
    <eu>German localisation of Thunderbird</eu>
    <fa>German localisation of Thunderbird</fa>

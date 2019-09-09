@@ -13,25 +13,25 @@ Java
    <am>Java 8- installs openjdk-8</am>
    <ar>Java 8- installs openjdk-8</ar>
    <bg>Java 8- installs openjdk-8</bg>
-   <ca>Instal·la Java 8- openjdk-8</ca>
+   <ca>Java 8- instal·la openjdk-8</ca>
    <cs>Java 8- installs openjdk-8</cs>
-   <da>Java 8- installerer openjdk-8</da>
-   <de>Java 8: Openjdk-8 wird installiert</de>
+   <da>Java 8- installs openjdk-8</da>
+   <de>Java 8- installiert openjdk-8</de>
    <el>Java 8- εγκατάσταση του openjdk-8</el>
    <en>Java 8- installs openjdk-8</en>
-   <es>Java 8- installs openjdk-8</es>
+   <es>Java 8; instala openjdk-8</es>
    <et>Java 8- installs openjdk-8</et>
    <eu>Java 8- installs openjdk-8</eu>
    <fa>Java 8- installs openjdk-8</fa>
    <fi>Java 8- installs openjdk-8</fi>
-   <fr>Java 8- installation de openjdk-8</fr>
+   <fr>Java 8- installe openjdk-8</fr>
    <he_IL>Java 8- installs openjdk-8</he_IL>
    <hi>Java 8- installs openjdk-8</hi>
    <hr>Java 8- installs openjdk-8</hr>
    <hu>Java 8- installs openjdk-8</hu>
    <id>Java 8- installs openjdk-8</id>
    <is>Java 8- installs openjdk-8</is>
-   <it>Installa java-8 openjdk-8</it>
+   <it>Java 8- installa openjdk-8</it>
    <ja_JP>Java 8- installs openjdk-8</ja_JP>
    <ja>Java 8- installs openjdk-8</ja>
    <kk>Java 8- installs openjdk-8</kk>
@@ -41,12 +41,12 @@ Java
    <nb>Java 8- installs openjdk-8</nb>
    <nl>Java 8- installeert openjdk-8</nl>
    <pl>Java 8 - instaluje openjdk-8</pl>
-   <pt_BR>Java 8- installs openjdk-8</pt_BR>
+   <pt_BR>Java 8 - instala o openjdk-8</pt_BR>
    <pt>Java 8 - instala o openjdk-8</pt>
    <ro>Java 8- installs openjdk-8</ro>
    <ru>Java 8 - устанавливает OpenJDK-8</ru>
    <sk>Java 8- installs openjdk-8</sk>
-   <sl>Java 8- installs openjdk-8</sl>
+   <sl>Java 8- namesti openjdk-8</sl>
    <sq>Java 8- installs openjdk-8</sq>
    <sr>Java 8- installs openjdk-8</sr>
    <sv>Java 8- installerar openjdk-8</sv>

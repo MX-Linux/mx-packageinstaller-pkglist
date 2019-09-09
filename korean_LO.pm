@@ -19,7 +19,7 @@ Korean_Libreoffice
    <de>Koreanische Lokalisierung von LibreOffice</de>
    <el>LibreOffice σε κορεατική γλώσσα</el>
    <en>Korean localisation of LibreOffice</en>
-   <es>Korean localisation of LibreOffice</es>
+   <es>Localización Coreana de LibreOffice</es>
    <et>Korean localisation of LibreOffice</et>
    <eu>Korean localisation of LibreOffice</eu>
    <fa>Korean localisation of LibreOffice</fa>

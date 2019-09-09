@@ -46,7 +46,7 @@ Chromium
    <ro>Latest Chromium browser and language pack</ro>
    <ru>Браузер Chromium последней версии и языковые пакеты</ru>
    <sk>Latest Chromium browser and language pack</sk>
-   <sl>Latest Chromium browser and language pack</sl>
+   <sl>Zadnja različica jezikovnega paketa za brskalnik Chromium</sl>
    <sq>Latest Chromium browser and language pack</sq>
    <sr>Latest Chromium browser and language pack</sr>
    <sv>Senaste Chromium webbläsare med språkpaket</sv>

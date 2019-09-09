@@ -19,7 +19,7 @@ US_English_Libreoffice
    <de>Englische (US) Hilfe für LibreOffice</de>
    <el>Βοήθεια για το LibreOffice στα Αγγλικά (ΗΠΑ)</el>
    <en>US English Help for LibreOffice</en>
-   <es>US English Help for LibreOffice</es>
+   <es>Ayuda Inglesa (EE.UU.) para LiberOffice</es>
    <et>US English Help for LibreOffice</et>
    <eu>US English Help for LibreOffice</eu>
    <fa>US English Help for LibreOffice</fa>

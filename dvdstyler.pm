@@ -19,7 +19,7 @@ DVDStyler
    <de>DVD-Authoring-Anwendung zur Erstellung professionell aussehender DVDs</de>
    <el>Εφαρμογή δημιουργίας DVD για τη δημιουργία επαγγελματικών DVD</el>
    <en>DVD authoring application for the creation of professional-looking DVDs</en>
-   <es>aplicación para la creación de DVD's con un look profesional</es>
+   <es>Aplicación de autoría de DVD para la creación de DVD de aspecto profesional.</es>
    <et>DVD authoring application for the creation of professional-looking DVDs</et>
    <eu>DVD authoring application for the creation of professional-looking DVDs</eu>
    <fa>DVD authoring application for the creation of professional-looking DVDs</fa>
@@ -41,12 +41,12 @@ DVDStyler
    <nb>DVD authoring application for the creation of professional-looking DVDs</nb>
    <nl>DVD auteurstoepassing voor het maken van professioneel ogende DVD's</nl>
    <pl>aplikacja do authoringu DVD czyli tworzenia profesjonalnie wyglądających płyt DVD</pl>
-   <pt_BR>DVD authoring application for the creation of professional-looking DVDs</pt_BR>
+   <pt_BR>Aplicativo de composição de DVDs para criar DVDs de aspecto  profissional</pt_BR>
    <pt>Aplicação de composição de DVDs para criar DVDs de aspecto  profissional</pt>
    <ro>DVD authoring application for the creation of professional-looking DVDs</ro>
    <ru>Приложение авторинга DVD для создания профессионально оформленных DVD</ru>
    <sk>DVD authoring application for the creation of professional-looking DVDs</sk>
-   <sl>DVD authoring application for the creation of professional-looking DVDs</sl>
+   <sl>Program za avtoriziranje DVD nosilcev, ki omogoča ustvarjanje DVD plošč profesionalnega videza</sl>
    <sq>DVD authoring application for the creation of professional-looking DVDs</sq>
    <sr>DVD authoring application for the creation of professional-looking DVDs</sr>
    <sv>DVD-skapande applikation för att göra proffsiga DVD</sv>

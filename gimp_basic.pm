@@ -41,12 +41,12 @@ GIMP Basic
    <nb>advanced picture editor - installs GIMP only</nb>
    <nl>geavanceerde foto-editor - installeert alleen GIMP</nl>
    <pl>zaawansowany edytor grafiki i zdjęć - instaluje tylko program GIMP</pl>
-   <pt_BR>advanced picture editor - installs GIMP only</pt_BR>
-   <pt>editor de imagem avançado - instala apenas o GIMP</pt>
+   <pt_BR>Editor de imagem avançado - instala apenas o GIMP</pt_BR>
+   <pt>Editor de imagem avançado - instala apenas o GIMP</pt>
    <ro>advanced picture editor - installs GIMP only</ro>
    <ru>Продвинутый графический редактор - установка только GIMP</ru>
    <sk>advanced picture editor - installs GIMP only</sk>
-   <sl>advanced picture editor - installs GIMP only</sl>
+   <sl>napredni urejevalnik slik - namesti le GIMP</sl>
    <sq>advanced picture editor - installs GIMP only</sq>
    <sr>advanced picture editor - installs GIMP only</sr>
    <sv>avancerad bildredigerare - installerar enbart GIMP</sv>

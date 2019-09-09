@@ -19,7 +19,7 @@ Italian
    <de>Italienisches Sprach-Meta-Paket</de>
    <el>Ιταλική γλώσσα</el>
    <en>Italian Language Meta-Package</en>
-   <es>Italian Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Italiano</es>
    <et>Italian Language Meta-Package</et>
    <eu>Italian Language Meta-Package</eu>
    <fa>Italian Language Meta-Package</fa>

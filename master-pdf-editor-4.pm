@@ -40,8 +40,8 @@ Master PDF Editor 4 (Free Version)
    <mk>Edit PDF documents.</mk>
    <nb>Edit PDF documents.</nb>
    <nl>Bewerk PDF documenten</nl>
-   <pl>Edit PDF documents.</pl>
-   <pt_BR>Edit PDF documents.</pt_BR>
+   <pl>edytuje dokumenty PDF</pl>
+   <pt_BR>Editar documentos em formato .pdf.</pt_BR>
    <pt>Editar documentos em formato .pdf.</pt>
    <ro>Edit PDF documents.</ro>
    <ru>Редактор PDF документов</ru>
@@ -68,10 +68,10 @@ rm /tmp/master_pdf_4.deb         2>/dev/null
 rm -r /tmp/master_pdf_4_control  2>/dev/null
 ARCH=$(dpkg --print-architecture)
 curl -RL https://code-industry.net/public/master-pdf-editor-4.3.89_${ARCH/amd64/qt5.amd64}.deb -o /tmp/master_pdf_4.deb
-mkdir  /tmp/master_pdf_4_control 
+mkdir  /tmp/master_pdf_4_control
 pushd /tmp/master_pdf_4_control >/dev/null
 ar p  /tmp/master_pdf_4.deb  control.tar.gz | tar -xz
-sed -i s/master-pdf-editor/master-pdf-editor-4/ control 
+sed -i s/master-pdf-editor/master-pdf-editor-4/ control
 tar cvzf control.tar.gz *[!z]
 ar r  /tmp/master_pdf_4.deb  control.tar.gz
 popd >/dev/null

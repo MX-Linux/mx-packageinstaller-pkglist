@@ -13,13 +13,13 @@ antiX 5.2.8 64 bit
    <am>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</am>
    <ar>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</ar>
    <bg>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</bg>
-   <ca>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</ca>
+   <ca>Kernel d'antix 5.2.8 amb pegats per meltdown i Spectra, 64 bit</ca>
    <cs>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</cs>
    <da>antiX 5.2.8 kerne meltdown- og spectre-rettelse, 64 bit</da>
-   <de>antiX 5.2.8 Kernel - Meltdown und Spectre gepatcht, 64 bit</de>
+   <de>antiX 5.2.8 Kernel - Meltdown und Spectre gepatcht, 64 Bit</de>
    <el>antiX 5.2.8 πυρήνα Meltdown και Spectre patched, 64 bit</el>
    <en>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</en>
-   <es>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</es>
+   <es>kernel antiX 5.2.8 con parche Meltdown y Spectre, 64 bit</es>
    <et>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</et>
    <eu>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</eu>
    <fa>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</fa>
@@ -41,15 +41,15 @@ antiX 5.2.8 64 bit
    <nb>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</nb>
    <nl>antiX 5.2.8 kernel Meltdown en Spectre patched, 64 bit</nl>
    <pl>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</pl>
-   <pt_BR>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</pt_BR>
-   <pt>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</pt>
+   <pt_BR>antiX 5.2.8 kernel com correções para as falhas Meltdown e Spectre, 64 bit</pt_BR>
+   <pt>Núcleo antiX 5.2.8 com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
    <ro>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</ro>
-   <ru>antiX ядро 5.2.8 с патчами Meltdown и Spectre, 64 bit</ru>
+   <ru>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</ru>
    <sk>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</sk>
    <sl>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</sl>
    <sq>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</sq>
    <sr>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</sr>
-   <sv>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</sv>
+   <sv>antiX 5.2.8 kärna Meltdown och Spectre fixad, 64 bit</sv>
    <tr>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</tr>
    <uk>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</uk>
    <zh_CN>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</zh_CN>

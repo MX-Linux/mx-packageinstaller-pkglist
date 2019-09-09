@@ -42,7 +42,7 @@ Debian-Backports 32 bit No PAE
    <nl>Debian Backports Kernel (32 bit Geen PAE)</nl>
    <pl>Debian Backports Kernel (32 bit No PAE)</pl>
    <pt_BR>Debian Backports Kernel (32 bit No PAE)</pt_BR>
-   <pt>Debian Backports Kernel (32 bit No PAE)</pt>
+   <pt>Núcleo do Debian Backports (32 bit No PAE)</pt>
    <ro>Debian Backports Kernel (32 bit No PAE)</ro>
    <ru>Debian ядро Backports, 32 bit no-PAE</ru>
    <sk>Debian Backports Kernel (32 bit No PAE)</sk>

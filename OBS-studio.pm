@@ -20,7 +20,7 @@ OBS-Studio
    <de>OBS-Studio - Streaming Video und Screencaster (OpenGL 3 Hardware erforderlich)</de>
    <el>OBS-Studio - Video Streaming και Screencaster (Απαιτείται hardware με OpenGL 3)</el>
    <en>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</en>
-   <es>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</es>
+   <es>OBS-Studio - Transmisión de Video y Screencaster (requiere hardware OpenGL 3)</es>
    <et>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</et>
    <eu>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</eu>
    <fa>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</fa>
@@ -47,7 +47,7 @@ OBS-Studio
    <ro>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ro>
    <ru>Потоковое видео и видеотрансляции экрана (требуется OpenGL 3 оборудование)</ru>
    <sk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</sk>
-   <sl>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</sl>
+   <sl>OBS-Studio - program za pretakanje videa in vsebine zaslona (potrebna je OpenGL 3 strojna oprema)</sl>
    <sq>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</sq>
    <sr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</sr>
    <sv>OBS-Studio - Strömmande Video och Skärminspelare (OpenGL 3 hårdvara krävs)</sv>

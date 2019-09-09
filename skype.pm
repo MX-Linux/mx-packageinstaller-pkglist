@@ -15,11 +15,11 @@ Skype (64bit only)
    <bg>Peer-to-peer video, voice, messaging</bg>
    <ca>Missatgeria peer-to-peer de vídeo i veu</ca>
    <cs>Peer-to-peer video, voice, messaging</cs>
-   <da>Modpart-til-modpart vide, stemme, samtale</da>
+   <da>Modpart-til-modpart video, stemme, samtale</da>
    <de>Peer-to-Peer-Video, Sprache, Messaging</de>
    <el>Peer-to-peer βίντεο, φωνή, μηνύματα</el>
    <en>Peer-to-peer video, voice, messaging</en>
-   <es>Peer-to-peer video, voice, messaging</es>
+   <es>Vídeo entre pares, voz, mensajería</es>
    <et>Peer-to-peer video, voice, messaging</et>
    <eu>Peer-to-peer video, voice, messaging</eu>
    <fa>Peer-to-peer video, voice, messaging</fa>

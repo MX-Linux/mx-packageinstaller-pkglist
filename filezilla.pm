@@ -19,7 +19,7 @@ Filezilla
    <de>Ein voll ausgestatter FTP-Client mit benutzerfreundliche Oberfläche</de>
    <el>ένα πλήρως εξοπλισμένο πρόγραμμα-πελάτη FTP με ένα εύχρηστο GUI</el>
    <en>a full-featured FTP client with an easy-to-use GUI</en>
-   <es>un cliente FTP con una interfaz completa y fácil de usar</es>
+   <es>Un cliente FTP con una interfaz completa y fácil de usar</es>
    <et>a full-featured FTP client with an easy-to-use GUI</et>
    <eu>a full-featured FTP client with an easy-to-use GUI</eu>
    <fa>a full-featured FTP client with an easy-to-use GUI</fa>
@@ -41,12 +41,12 @@ Filezilla
    <nb>a full-featured FTP client with an easy-to-use GUI</nb>
    <nl>een volledig voorzien FTP programma met een makkelijk te gebruiken grafische werkomgeving</nl>
    <pl>w pełni funkcjonalny klient FTP z łatwym w użyciu interfejsem graficznym</pl>
-   <pt_BR>a full-featured FTP client with an easy-to-use GUI</pt_BR>
+   <pt_BR>Cliente FTP completo com interface gráfica intuitiva</pt_BR>
    <pt>Cliente FTP completo com interface gráfica intuitiva</pt>
    <ro>a full-featured FTP client with an easy-to-use GUI</ro>
    <ru>Полнофункциональный FTP клиент с удобным GUI</ru>
    <sk>a full-featured FTP client with an easy-to-use GUI</sk>
-   <sl>a full-featured FTP client with an easy-to-use GUI</sl>
+   <sl>Polnozmogljiv FTP odjemalec z enostavnim uporabniškim vmesnikom</sl>
    <sq>a full-featured FTP client with an easy-to-use GUI</sq>
    <sr>a full-featured FTP client with an easy-to-use GUI</sr>
    <sv>en fullutrustad FTP klient med lättanvänt grafiskt gränssnitt</sv>

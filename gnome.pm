@@ -41,7 +41,7 @@ Gnome Base
    <nb>Minimal install of gnome shell</nb>
    <nl>Minimale installatie van de gnome shell</nl>
    <pl>minimalna instalalacja powłoki gnome</pl>
-   <pt_BR>Minimal install of gnome shell</pt_BR>
+   <pt_BR>Instalação mínima do interpretador de comandos (shell) gnome</pt_BR>
    <pt>Instalação mínima do interpretador de comandos (shell) gnome</pt>
    <ro>Minimal install of gnome shell</ro>
    <ru>Минимальная установка Gnome Shell</ru>

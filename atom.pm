@@ -13,13 +13,13 @@ atom
    <am>atom text editor IDE</am>
    <ar>atom text editor IDE</ar>
    <bg>atom text editor IDE</bg>
-   <ca>atom text editor IDE</ca>
+   <ca>atom editor de text IDE</ca>
    <cs>atom text editor IDE</cs>
    <da>atom-tekstredigerings-IDE</da>
    <de>IDE des Atom Textprogramms</de>
    <el>πρόγραμμα επεξεργασίας κειμένου IDE</el>
    <en>atom text editor IDE</en>
-   <es>atom text editor IDE</es>
+   <es>Editor de texto atom IDE</es>
    <et>atom text editor IDE</et>
    <eu>atom text editor IDE</eu>
    <fa>atom text editor IDE</fa>
@@ -41,12 +41,12 @@ atom
    <nb>atom text editor IDE</nb>
    <nl>atom text editor IDE</nl>
    <pl>edytor tekstu atom IDE</pl>
-   <pt_BR>atom text editor IDE</pt_BR>
-   <pt>atom text editor IDE</pt>
+   <pt_BR>Editor de texto / IDE (Integrated Development Environment)</pt_BR>
+   <pt>Editor de texto / IDE (Integrated Development Environment)</pt>
    <ro>atom text editor IDE</ro>
    <ru>Текстовый редактор и среда разработки Atom</ru>
-   <sk>atom text editor IDE</sk>
-   <sl>atom text editor IDE</sl>
+   <sk>atom textový editor a IDE</sk>
+   <sl>atom IDE urejevalnik teksta</sl>
    <sq>atom text editor IDE</sq>
    <sr>atom text editor IDE</sr>
    <sv>atom textredigerare IDE</sv>

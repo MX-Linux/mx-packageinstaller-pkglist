@@ -19,7 +19,7 @@ Norwegian
    <de>Norwegisches Sprach-Meta-Paket</de>
    <el>Νορβηγική γλώσσα</el>
    <en>Norwegian Language Meta-Package</en>
-   <es>Norwegian Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Noruego</es>
    <et>Norwegian Language Meta-Package</et>
    <eu>Norwegian Language Meta-Package</eu>
    <fa>Norwegian Language Meta-Package</fa>

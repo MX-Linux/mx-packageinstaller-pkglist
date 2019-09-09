@@ -42,7 +42,7 @@ Debian-Backports 32 bit PAE
    <nl>Debian Backports Kernel (32 bit PAE)</nl>
    <pl>Debian Backports Kernel (32 bit PAE)</pl>
    <pt_BR>Debian Backports Kernel (32 bit PAE)</pt_BR>
-   <pt>Debian Backports Kernel (32 bit PAE)</pt>
+   <pt>Núcleo do Debian Backports (32 bit PAE)</pt>
    <ro>Debian Backports Kernel (32 bit PAE)</ro>
    <ru>Debian ядро Backports, 32 bit PAE</ru>
    <sk>Debian Backports Kernel (32 bit PAE)</sk>

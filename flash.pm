@@ -19,7 +19,7 @@ adobe flash
    <de>Offizielles Adobe-Flash-Plugin für Chromium (pepperflash) und Firefox</de>
    <el>Επίσημο Adobe Flash, συμπεριλαμβανομένων των plugin για chromium (pepperflash) και firefox</el>
    <en>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</en>
-   <es>Adobe Flash oficial. Incluye plugins para chromium (pepperflash) y firefox</es>
+   <es>Adobe Flash oficial. Incluye plugins para Chromium (pepperflash) y Firefox</es>
    <et>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</et>
    <eu>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</eu>
    <fa>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</fa>
@@ -41,12 +41,12 @@ adobe flash
    <nb>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</nb>
    <nl>Officiële Adobe Flash, inclusief plugins voor chromium (pepperflash) en firefox</nl>
    <pl>oficjalny Adobe Flash, w tym wtyczki do Chromium (Pepperflash) i Firefoksa</pl>
-   <pt_BR>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</pt_BR>
+   <pt_BR>Adobe Flash oficial que inclui suplementos (plugins) para chromium (pepperflash) e firefox</pt_BR>
    <pt>Adobe Flash oficial que inclui suplementos (plugins) para chromium (pepperflash) e firefox</pt>
    <ro>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</ro>
    <ru>Официальный Adobe Flash, включающий плагины для Chromium (pepperflash) и Firefox</ru>
    <sk>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</sk>
-   <sl>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</sl>
+   <sl>Uradni Adobe Flash, skupaj z vstavki za chromium (pepperflash) in firefox</sl>
    <sq>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</sq>
    <sr>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</sr>
    <sv>Officiell Adobe Flash, inkluderande plugins för chromium (pepperflash) och firefox</sv>

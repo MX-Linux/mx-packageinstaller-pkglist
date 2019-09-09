@@ -19,7 +19,7 @@ Thai_Firefox
    <de>Thailändische Lokalisierung von Firefox</de>
    <el>Ταϊλάνδης εντοπισμός του Firefox</el>
    <en>Thai localisation of Firefox</en>
-   <es>Thai localisation of Firefox</es>
+   <es>Localización Tailandesa de Firefox</es>
    <et>Thai localisation of Firefox</et>
    <eu>Thai localisation of Firefox</eu>
    <fa>Thai localisation of Firefox</fa>
@@ -44,7 +44,7 @@ Thai_Firefox
    <pt_BR>Tailandês Localização para Firefox</pt_BR>
    <pt>Tailandês Localização para Firefox</pt>
    <ro>Thai localisation of Firefox</ro>
-   <ru>Thai localisation of Firefox</ru>
+   <ru>Тайская локализация Firefox</ru>
    <sk>Thai localisation of Firefox</sk>
    <sl>Thai localisation of Firefox</sl>
    <sq>Thai localisation of Firefox</sq>

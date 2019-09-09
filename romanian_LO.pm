@@ -19,7 +19,7 @@ Romanian_Libreoffice
    <de>Rumänisches Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Ρουμανικά</el>
    <en>Romanian Language Meta-Package for LibreOffice</en>
-   <es>Romanian Language Meta-Package for LibreOffice</es>
+   <es>Meta-Paquete de Idioma Rumano para LibreOffice</es>
    <et>Romanian Language Meta-Package for LibreOffice</et>
    <eu>Romanian Language Meta-Package for LibreOffice</eu>
    <fa>Romanian Language Meta-Package for LibreOffice</fa>

@@ -19,7 +19,7 @@ French
    <de>Französisches Sprach-Meta-Paket</de>
    <el>Γαλλική γλώσσα</el>
    <en>French Language Meta-Package</en>
-   <es>French Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Francés</es>
    <et>French Language Meta-Package</et>
    <eu>French Language Meta-Package</eu>
    <fa>French Language Meta-Package</fa>

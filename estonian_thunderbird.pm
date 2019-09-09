@@ -19,7 +19,7 @@ Estonian_Thunderbird
    <de>Estnische Lokalisierung von Thunderbird</de>
    <el>Εστονικός εντοπισμός του Thunderbird</el>
    <en>Estonian localisation of Thunderbird</en>
-   <es>Estonian localisation of Thunderbird</es>
+   <es>Localización Estonia de Thunderbird</es>
    <et>Estonian localisation of Thunderbird</et>
    <eu>Estonian localisation of Thunderbird</eu>
    <fa>Estonian localisation of Thunderbird</fa>

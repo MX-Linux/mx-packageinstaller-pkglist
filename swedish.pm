@@ -19,7 +19,7 @@ Swedish
    <de>Schwedisches Sprach-Meta-Paket</de>
    <el>Σουηδική γλώσσα</el>
    <en>Swedish Language Meta-Package</en>
-   <es>Swedish Language Meta-Package</es>
+   <es>Meta-Paquete de Idioma Sueco</es>
    <et>Swedish Language Meta-Package</et>
    <eu>Swedish Language Meta-Package</eu>
    <fa>Swedish Language Meta-Package</fa>

@@ -41,8 +41,8 @@ Thunderbird
    <nb>Latest Thunderbird email client from MX Community</nb>
    <nl>Meest recente Thunderbird email programma vanuit MX Community</nl>
    <pl>najnowszy klient poczty e-mail Thunderbird od społeczności MX</pl>
-   <pt_BR>Latest Thunderbird email client from MX Community</pt_BR>
-   <pt>Cliente de correio electrónico Thunderbird mais recente da comunidade MX</pt>
+   <pt_BR>Thunderbird (cliente de e-mail) mais recente da comunidade MX</pt_BR>
+   <pt>Thunderbird (cliente de correio-electrónico) mais recente da comunidade MX</pt>
    <ro>Latest Thunderbird email client from MX Community</ro>
    <ru>Почтовый клиент Thunderbird последней версии из MX Community</ru>
    <sk>Latest Thunderbird email client from MX Community</sk>

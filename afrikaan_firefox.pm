@@ -44,8 +44,8 @@ Afrikaan_Firefox
    <pt_BR>Africâner Localização para Firefox</pt_BR>
    <pt>Africâner Localização para Firefox</pt>
    <ro>Afrikaan localisation of Firefox</ro>
-   <ru>Afrikaan localisation of Firefox</ru>
-   <sk>Afrikaan localisation of Firefox</sk>
+   <ru>Африканская локализация Firefox</ru>
+   <sk>Afrikaan lokalizácia pre Firefox</sk>
    <sl>Afrikaan localisation of Firefox</sl>
    <sq>Afrikaan localisation of Firefox</sq>
    <sr>Afrikaan localisation of Firefox</sr>

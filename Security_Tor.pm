@@ -19,7 +19,7 @@ Tor and Privoxy
    <de>Tor und Privoxy</de>
    <el>Tor και Privoxy</el>
    <en>Tor and Privoxy</en>
-   <es>Tor and Privoxy</es>
+   <es>Tor y Privoxy</es>
    <et>Tor and Privoxy</et>
    <eu>Tor and Privoxy</eu>
    <fa>Tor and Privoxy</fa>
@@ -36,7 +36,7 @@ Tor and Privoxy
    <ja>Tor and Privoxy</ja>
    <kk>Tor and Privoxy</kk>
    <ko>Tor and Privoxy</ko>
-   <lt>Tor and Privoxy</lt>
+   <lt>Tor ir Privoxy</lt>
    <mk>Tor and Privoxy</mk>
    <nb>Tor and Privoxy</nb>
    <nl>Tor en Privoxy</nl>

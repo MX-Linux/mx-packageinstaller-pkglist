@@ -19,7 +19,7 @@ Russian_Fonts
    <de>Russische Schriftenpakete</de>
    <el>Ρωσικά πακέτα γραμματοσειρών</el>
    <en>Russian fonts packages</en>
-   <es>Russian fonts packages</es>
+   <es>Paquetes de fuentes rusas</es>
    <et>Russian fonts packages</et>
    <eu>Russian fonts packages</eu>
    <fa>Russian fonts packages</fa>
@@ -41,8 +41,8 @@ Russian_Fonts
    <nb>Russian fonts packages</nb>
    <nl>Russische font pakketten</nl>
    <pl>pakiety z rosyjskimi fontami (czcionkami)</pl>
-   <pt_BR>Russo fonts Pacotes</pt_BR>
-   <pt>Russo pacotes de fontes</pt>
+   <pt_BR>Russo Pacotes de fontes</pt_BR>
+   <pt>Russo Pacotes de fontes</pt>
    <ro>Russian fonts packages</ro>
    <ru>Пакеты русских шрифтов</ru>
    <sk>Russian fonts packages</sk>

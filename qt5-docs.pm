@@ -19,7 +19,7 @@ QT5 Documention
    <de>Dokumentationsdateien für Qt-5 und QtCreator IDE</de>
    <el>Αρχεία τεκμηρίωσης για IDE Qt-5 και QtCreator</el>
    <en>Documentation files for Qt-5 and QtCreator IDE</en>
-   <es>documentación de Qt-5 y del IDE QtCreator</es>
+   <es>Documentación de Qt-5 y del IDE QtCreator</es>
    <et>Documentation files for Qt-5 and QtCreator IDE</et>
    <eu>Documentation files for Qt-5 and QtCreator IDE</eu>
    <fa>Documentation files for Qt-5 and QtCreator IDE</fa>

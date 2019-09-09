@@ -41,8 +41,8 @@ Simple Card Games
    <nb>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</nb>
    <nl>eenvoudige Desktop Kaart en Puzzel Spellen (solitaire, hearts, mines, etc)</nl>
    <pl>proste gry karciane i łamigłówki (solitare, hearts, mines itp.)</pl>
-   <pt_BR>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</pt_BR>
-   <pt>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</pt>
+   <pt_BR>Jogos simples (solitare, hearts, mines, etc)</pt_BR>
+   <pt>Jogos simples (solitare, hearts, mines, etc)</pt>
    <ro>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</ro>
    <ru>Простые карточные игры и головоломки (солитер, червы, сапёр, и т.д.)</ru>
    <sk>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</sk>

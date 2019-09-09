@@ -19,7 +19,7 @@ Blender
    <de>Eine kostenlose und quelloffene 3D-Animationssuite</de>
    <el>μια ελεύθερη σουίτα 3D animation</el>
    <en>a free and open source 3D animation suite</en>
-   <es>una suite de animación en 3D libre y de código abierto</es>
+   <es>Una suite de animación en 3D libre y de código abierto</es>
    <et>a free and open source 3D animation suite</et>
    <eu>a free and open source 3D animation suite</eu>
    <fa>a free and open source 3D animation suite</fa>
@@ -46,7 +46,7 @@ Blender
    <ro>a free and open source 3D animation suite</ro>
    <ru>Бесплатная среда 3D анимации с открытым кодом</ru>
    <sk>a free and open source 3D animation suite</sk>
-   <sl>a free and open source 3D animation suite</sl>
+   <sl>brezplačen odprtokodni paket za 3D animacijo</sl>
    <sq>a free and open source 3D animation suite</sq>
    <sr>a free and open source 3D animation suite</sr>
    <sv>en fri och öppen källkods 3D animationssvit</sv>

@@ -44,8 +44,8 @@ Basque_Firefox
    <pt_BR>Basco Localização para Firefox</pt_BR>
    <pt>Basco Localização para Firefox</pt>
    <ro>Basque localisation of Firefox</ro>
-   <ru>Basque localisation of Firefox</ru>
-   <sk>Basque localisation of Firefox</sk>
+   <ru>Баскская локализация Firefox</ru>
+   <sk>Basque lokalizácia pre Firefox</sk>
    <sl>Basque localisation of Firefox</sl>
    <sq>Basque localisation of Firefox</sq>
    <sr>Basque localisation of Firefox</sr>

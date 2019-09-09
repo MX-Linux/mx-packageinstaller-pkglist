@@ -19,7 +19,7 @@ TeamViewer
    <de>Fernzugriff mit Teamviewer</de>
    <el>Teamviewer απομακρυσμένη πρόσβαση</el>
    <en>Teamviewer remote access</en>
-   <es>Teamviewer remote access</es>
+   <es>Teamviewer acceso remoto</es>
    <et>Teamviewer remote access</et>
    <eu>Teamviewer remote access</eu>
    <fa>Teamviewer remote access</fa>
@@ -41,8 +41,8 @@ TeamViewer
    <nb>Teamviewer remote access</nb>
    <nl>Teamviewer afstand toegang</nl>
    <pl>dostęp zdalny TeamViewer</pl>
-   <pt_BR>Teamviewer remote access</pt_BR>
-   <pt>Teamviewer remote access</pt>
+   <pt_BR>Aplicativo de acesso remoto</pt_BR>
+   <pt>Aplicação de acesso remoto</pt>
    <ro>Teamviewer remote access</ro>
    <ru>Удаленный рабочий стол, передача файлов и видеосвязь</ru>
    <sk>Teamviewer remote access</sk>

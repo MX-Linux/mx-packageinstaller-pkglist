@@ -19,7 +19,7 @@ Lithuanian_Thunderbird
    <de>Litauische Lokalisierung von Thunderbird</de>
    <el>Λιθουανικός εντοπισμός του Thunderbird</el>
    <en>Lithuanian localisation of Thunderbird</en>
-   <es>Lithuanian localisation of Thunderbird</es>
+   <es>Localización Lituana de Thunderbird</es>
    <et>Lithuanian localisation of Thunderbird</et>
    <eu>Lithuanian localisation of Thunderbird</eu>
    <fa>Lithuanian localisation of Thunderbird</fa>

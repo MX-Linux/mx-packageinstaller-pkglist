@@ -19,7 +19,7 @@ Finnish_Thunderbird
    <de>Finnische Lokalisierung von Thunderbird</de>
    <el>Φινλανδικός εντοπισμός του Thunderbird</el>
    <en>Finnish localisation of Thunderbird</en>
-   <es>Finnish localisation of Thunderbird</es>
+   <es>Localización Finlandesa de Thunderbird</es>
    <et>Finnish localisation of Thunderbird</et>
    <eu>Finnish localisation of Thunderbird</eu>
    <fa>Finnish localisation of Thunderbird</fa>

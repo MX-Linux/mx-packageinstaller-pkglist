@@ -19,7 +19,7 @@ rTorrent
    <de>Ein mit ncurses realisierter BitTorrent-Client</de>
    <el>ένα ncurses BitTorrent πελάτη</el>
    <en>an ncurses BitTorrent client</en>
-   <es>an ncurses BitTorrent client</es>
+   <es>Un cliente ncurses BitTorrent</es>
    <et>an ncurses BitTorrent client</et>
    <eu>an ncurses BitTorrent client</eu>
    <fa>an ncurses BitTorrent client</fa>
@@ -41,7 +41,7 @@ rTorrent
    <nb>an ncurses BitTorrent client</nb>
    <nl>een ncurses BitTorrent programma</nl>
    <pl>klient ncurses BitTorrent</pl>
-   <pt_BR>an ncurses BitTorrent client</pt_BR>
+   <pt_BR>Cliente de BitTorrent baseado em ncurses</pt_BR>
    <pt>Cliente de BitTorrent baseado em ncurses</pt>
    <ro>an ncurses BitTorrent client</ro>
    <ru>Клиент BitTorrent с интерфейсом на ncurses</ru>
