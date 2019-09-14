@@ -68,7 +68,7 @@ all
 
 <install_package_names>
 aspell-nl
-myspell-nl
+hunspell-nl
 </install_package_names>
 
 
@@ -79,6 +79,6 @@ myspell-nl
 
 <uninstall_package_names>
 aspell-nl
-myspell-nl
+hunspell-nl
 </uninstall_package_names>
 </app>
