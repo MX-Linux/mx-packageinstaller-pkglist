@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (19.09.01) mx; urgency=medium
+
+  * fix to dutch language pack
+  * fix spotify
+  * add odrive 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 14 Sep 2019 16:17:53 -0400
+
 mx-packageinstaller-pkglist (19.08.04) mx; urgency=medium
 
   * added redshift
