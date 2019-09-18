@@ -63,7 +63,8 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-
+apt-get update
+apt-get install --install-recommends kde-standard 
 </preinstall>
 
 <install_package_names>
@@ -77,7 +78,7 @@ kde-plasma-desktop
 
 <uninstall_package_names>
 kde-standard
-kde-standard
+kde-plasma-desktop
 </uninstall_package_names>
 
 </app>
