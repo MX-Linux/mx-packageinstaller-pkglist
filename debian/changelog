@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (19.09.02) mx; urgency=medium
+
+  * opera_64 now tries to set up extra codecs (fehlix)
+  * kde-standard now installs recommends 
+  * preschool pm file fixed, removing missing packages (sleepyeyesvince)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 18 Sep 2019 12:45:34 -0400
+
 mx-packageinstaller-pkglist (19.09.01) mx; urgency=medium
 
   * fix to dutch language pack

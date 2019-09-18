@@ -68,8 +68,7 @@ all
 
 <install_package_names>
 gamine
-gcompris
-gcompris-sound-en
+gcompris-qt
 tuxpaint
 </install_package_names>
 
@@ -81,8 +80,7 @@ tuxpaint
 
 <uninstall_package_names>
 gamine
-gcompris
-gcompris-sound-en
+gcompris-qt
 tuxpaint
 </uninstall_package_names>
 </app>
