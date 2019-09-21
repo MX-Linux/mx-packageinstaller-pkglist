@@ -72,15 +72,15 @@ apache2-utils
 curl
 mariadb-server
 mariadb-client
-php7.0
-libapache2-mod-php7.0
-php7.0-mysql
+php7.3
+libapache2-mod-php7.3
+php7.3-mysql
 php-common
-php7.0-cli
-php7.0-common
-php7.0-json
-php7.0-opcache
-php7.0-readline
+php7.3-cli
+php7.3-common
+php7.3-json
+php7.3-opcache
+php7.3-readline
 </install_package_names>
 
 
@@ -95,14 +95,14 @@ apache2-utils
 curl
 mariadb-server
 mariadb-client
-php7.0
-libapache2-mod-php7.0
-php7.0-mysql
+php7.3
+libapache2-mod-php7.3
+php7.3-mysql
 php-common
-php7.0-cli
-php7.0-common
-php7.0-json
-php7.0-opcache
-php7.0-readline
+php7.3-cli
+php7.3-common
+php7.3-json
+php7.3-opcache
+php7.3-readline
 </uninstall_package_names>
 </app>
