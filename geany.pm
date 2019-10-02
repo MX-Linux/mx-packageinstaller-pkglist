@@ -38,6 +38,7 @@ Geany
    <ko>fast and lightweight IDE and text editor</ko>
    <lt>fast and lightweight IDE and text editor</lt>
    <mk>fast and lightweight IDE and text editor</mk>
+   <mr>fast and lightweight IDE and text editor</mr>
    <nb>fast and lightweight IDE and text editor</nb>
    <nl>snelle en lichtgewicht IDE en tekstverwerker</nl>
    <pl>szybkie i lekkie środowisko programistyczne oraz edytor tekstu</pl>

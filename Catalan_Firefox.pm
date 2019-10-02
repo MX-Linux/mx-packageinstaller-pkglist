@@ -38,6 +38,7 @@ Catalan_Firefox
    <ko>Catalan localisation of Firefox</ko>
    <lt>Catalan localisation of Firefox</lt>
    <mk>Catalan localisation of Firefox</mk>
+   <mr>Catalan localisation of Firefox</mr>
    <nb>Catalan localisation of Firefox</nb>
    <nl>Catalaanse lokalisatie van Firefox</nl>
    <pl>Katalońska lokalizacja przeglądarki Firefox</pl>

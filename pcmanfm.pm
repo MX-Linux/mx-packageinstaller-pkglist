@@ -38,6 +38,7 @@ PCManFM
    <ko>a fast and lightweight file manager</ko>
    <lt>greita ir supaprastinta failų tvarkytuvė</lt>
    <mk>a fast and lightweight file manager</mk>
+   <mr>a fast and lightweight file manager</mr>
    <nb>a fast and lightweight file manager</nb>
    <nl>een snelle en lichtgewicht bestandsmanager</nl>
    <pl>szybki i lekki menedżer plików</pl>
@@ -46,7 +47,7 @@ PCManFM
    <ro>a fast and lightweight file manager</ro>
    <ru>Быстрый и легковесный файловый менеджер</ru>
    <sk>a fast and lightweight file manager</sk>
-   <sl>a fast and lightweight file manager</sl>
+   <sl>Lahek in hiter upravljalnik datotek</sl>
    <sq>a fast and lightweight file manager</sq>
    <sr>a fast and lightweight file manager</sr>
    <sv>en snabb lättvikts filhanterare</sv>

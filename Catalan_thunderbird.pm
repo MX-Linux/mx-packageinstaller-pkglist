@@ -38,6 +38,7 @@ Catalan_Thunderbird
    <ko>Catalan localisation of Thunderbird</ko>
    <lt>Catalan localisation of Thunderbird</lt>
    <mk>Catalan localisation of Thunderbird</mk>
+   <mr>Catalan localisation of Thunderbird</mr>
    <nb>Catalan localisation of Thunderbird</nb>
    <nl>Catalaanse lokalisatie van Thunderbird</nl>
    <pl>Katalońska lokalizacja Thunderbirda</pl>

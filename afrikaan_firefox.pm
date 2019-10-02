@@ -38,6 +38,7 @@ Afrikaan_Firefox
    <ko>Afrikaan localisation of Firefox</ko>
    <lt>Afrikaan localisation of Firefox</lt>
    <mk>Afrikaan localisation of Firefox</mk>
+   <mr>Afrikaan localisation of Firefox</mr>
    <nb>Afrikaan localisation of Firefox</nb>
    <nl>Afrikaanse lokalisatie van Firefox</nl>
    <pl>Afrykanerska lokalizacja przeglądarki Firefox</pl>

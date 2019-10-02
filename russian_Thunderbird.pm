@@ -38,6 +38,7 @@ Russian_Thunderbird
    <ko>Russian localisation of Thunderbird</ko>
    <lt>Russian localisation of Thunderbird</lt>
    <mk>Russian localisation of Thunderbird</mk>
+   <mr>Russian localisation of Thunderbird</mr>
    <nb>Russian localisation of Thunderbird</nb>
    <nl>Russische lokalisatie van Thunderbird</nl>
    <pl>Rosyjska lokalizacja Thunderbirda</pl>

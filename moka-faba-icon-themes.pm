@@ -38,6 +38,7 @@ Moka/Faba Icon Themes
    <ko>a comprehensive icon set with a uniform flat "rounded square" look</ko>
    <lt>a comprehensive icon set with a uniform flat "rounded square" look</lt>
    <mk>a comprehensive icon set with a uniform flat "rounded square" look</mk>
+   <mr>a comprehensive icon set with a uniform flat "rounded square" look</mr>
    <nb>a comprehensive icon set with a uniform flat "rounded square" look</nb>
    <nl>een uitgebreide icoonenset met een uniform plat "rond vierkant" uiterlijk</nl>
    <pl>obszerny zestaw ikon o jednolitym płaskim wyglądzie "zaokrąglonego kwadratu"</pl>
@@ -46,7 +47,7 @@ Moka/Faba Icon Themes
    <ro>a comprehensive icon set with a uniform flat "rounded square" look</ro>
    <ru>Обширный набор иконок оформленных в стиле "скругленный квадрат"</ru>
    <sk>a comprehensive icon set with a uniform flat "rounded square" look</sk>
-   <sl>a comprehensive icon set with a uniform flat "rounded square" look</sl>
+   <sl>Širok nabor ikon z edinstvenim videzom "zaokroženih pravokotnikov"</sl>
    <sq>a comprehensive icon set with a uniform flat "rounded square" look</sq>
    <sr>a comprehensive icon set with a uniform flat "rounded square" look</sr>
    <sv>ett omfattande ikon-set med en uniform platt "rundad fyrkant" look</sv>

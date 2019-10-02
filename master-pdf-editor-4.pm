@@ -38,6 +38,7 @@ Master PDF Editor 4 (Free Version)
    <ko>Edit PDF documents.</ko>
    <lt>Taisyti PDF dokumentus.</lt>
    <mk>Edit PDF documents.</mk>
+   <mr>Edit PDF documents.</mr>
    <nb>Edit PDF documents.</nb>
    <nl>Bewerk PDF documenten</nl>
    <pl>edytuje dokumenty PDF</pl>
@@ -46,7 +47,7 @@ Master PDF Editor 4 (Free Version)
    <ro>Edit PDF documents.</ro>
    <ru>Редактор PDF документов</ru>
    <sk>Edit PDF documents.</sk>
-   <sl>Edit PDF documents.</sl>
+   <sl>Urejanje PDF dokumentov</sl>
    <sq>Edit PDF documents.</sq>
    <sr>Edit PDF documents.</sr>
    <sv>Redigera PDF-dokument</sv>

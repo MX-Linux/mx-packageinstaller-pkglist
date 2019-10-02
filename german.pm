@@ -38,6 +38,7 @@ German
    <ko>German Language Meta-Package</ko>
    <lt>German Language Meta-Package</lt>
    <mk>German Language Meta-Package</mk>
+   <mr>German Language Meta-Package</mr>
    <nb>German Language Meta-Package</nb>
    <nl>Duitse Taal Meta-Pakket</nl>
    <pl>Niemiecki metapakiet językowy</pl>

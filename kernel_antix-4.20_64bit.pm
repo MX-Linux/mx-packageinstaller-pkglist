@@ -38,6 +38,7 @@ antiX 5.2.8 64 bit
    <ko>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</ko>
    <lt>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</lt>
    <mk>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</mk>
+   <mr>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</mr>
    <nb>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</nb>
    <nl>antiX 5.2.8 kernel Meltdown en Spectre patched, 64 bit</nl>
    <pl>antiX 5.2.8 kernel Meltdown and Spectre patched, 64 bit</pl>

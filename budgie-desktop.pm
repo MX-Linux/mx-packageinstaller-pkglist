@@ -38,6 +38,7 @@ Budgie Desktop
    <ko>a lightweight desktop environment</ko>
    <lt>supaprastinta darbalaukio aplinka</lt>
    <mk>a lightweight desktop environment</mk>
+   <mr>a lightweight desktop environment</mr>
    <nb>a lightweight desktop environment</nb>
    <nl>een lichtgewicht desktop omgeving</nl>
    <pl>lekkie środowisko graficzne</pl>

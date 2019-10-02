@@ -38,6 +38,7 @@ Handbrake
    <ko>versatile DVD ripper and video transcoder (cli and GUI)</ko>
    <lt>versatile DVD ripper and video transcoder (cli and GUI)</lt>
    <mk>versatile DVD ripper and video transcoder (cli and GUI)</mk>
+   <mr>versatile DVD ripper and video transcoder (cli and GUI)</mr>
    <nb>versatile DVD ripper and video transcoder (cli and GUI)</nb>
    <nl>veelzijdige DVD ripper en video transcoder (cli en GUI)</nl>
    <pl>wszechstronny ripper DVD i transkoder wideo (CLI i GUI)</pl>
@@ -46,7 +47,7 @@ Handbrake
    <ro>versatile DVD ripper and video transcoder (cli and GUI)</ro>
    <ru>Многофункциональный DVD риппер и перекодировщик видео</ru>
    <sk>versatile DVD ripper and video transcoder (cli and GUI)</sk>
-   <sl>versatile DVD ripper and video transcoder (cli and GUI)</sl>
+   <sl>Vsestranski zajemalnik DVDjev in video transkoder (ukazna vrstica in grafični vmesnik)</sl>
    <sq>versatile DVD ripper and video transcoder (cli and GUI)</sq>
    <sr>versatile DVD ripper and video transcoder (cli and GUI)</sr>
    <sv>mångsidig DVD ripper och video transcoder (cli och GUI)</sv>

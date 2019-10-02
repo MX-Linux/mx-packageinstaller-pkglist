@@ -38,6 +38,7 @@ Dropbox Thunar Addin
    <ko>Thunar Addin for Dropbox file sync utility</ko>
    <lt>Thunar Addin for Dropbox file sync utility</lt>
    <mk>Thunar Addin for Dropbox file sync utility</mk>
+   <mr>Thunar Addin for Dropbox file sync utility</mr>
    <nb>Thunar Addin for Dropbox file sync utility</nb>
    <nl>Thunar Toevoeging voor Dropbox bestand synchronisatie gereedschap</nl>
    <pl>dodatek do Thunara dla narzędzia synchronizacji plików Dropbox</pl>

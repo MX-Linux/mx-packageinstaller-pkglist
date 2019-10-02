@@ -38,6 +38,7 @@ Advert-Block-antiX
    <ko>Block adservers with a modified Hosts file</ko>
    <lt>Block adservers with a modified Hosts file</lt>
    <mk>Block adservers with a modified Hosts file</mk>
+   <mr>Block adservers with a modified Hosts file</mr>
    <nb>Block adservers with a modified Hosts file</nb>
    <nl>Blokkeer adservers met een aangepast Hosts bestand</nl>
    <pl>blokuje serwery reklamowe ze zmodyfikowanym plikiem Hosts</pl>

@@ -38,6 +38,7 @@ Debian-Backports 64 bit
    <ko>Debian Backports kernel Meltdown patched, 64 bit</ko>
    <lt>Debian Backports kernel Meltdown patched, 64 bit</lt>
    <mk>Debian Backports kernel Meltdown patched, 64 bit</mk>
+   <mr>Debian Backports kernel Meltdown patched, 64 bit</mr>
    <nb>Debian Backports kernel Meltdown patched, 64 bit</nb>
    <nl>Debian Backports kernel Meltdown patched, 64 bit</nl>
    <pl>Debian Backports kernel Meltdown patched, 64 bit</pl>

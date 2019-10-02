@@ -38,6 +38,7 @@ antiX 5.2.8 32 bit pae
    <ko>antiX 5.2.8 kernel pae 32 bit</ko>
    <lt>antiX 5.2.8 kernel pae 32 bit</lt>
    <mk>antiX 5.2.8 kernel pae 32 bit</mk>
+   <mr>antiX 5.2.8 kernel pae 32 bit</mr>
    <nb>antiX 5.2.8 kernel pae 32 bit</nb>
    <nl>antiX 5.2.8 kernel pae 32 bit</nl>
    <pl>antiX 5.2.8 kernel pae 32 bit</pl>

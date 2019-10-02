@@ -38,6 +38,7 @@ Hungarian
    <ko>Hungarian Language Meta-Package</ko>
    <lt>Hungarian Language Meta-Package</lt>
    <mk>Hungarian Language Meta-Package</mk>
+   <mr>Hungarian Language Meta-Package</mr>
    <nb>Hungarian Language Meta-Package</nb>
    <nl>Hongaarse Taal Meta-Pakket</nl>
    <pl>Węgierski metapakiet językowy</pl>

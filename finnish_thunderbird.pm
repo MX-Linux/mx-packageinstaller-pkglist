@@ -38,6 +38,7 @@ Finnish_Thunderbird
    <ko>Finnish localisation of Thunderbird</ko>
    <lt>Finnish localisation of Thunderbird</lt>
    <mk>Finnish localisation of Thunderbird</mk>
+   <mr>Finnish localisation of Thunderbird</mr>
    <nb>Finnish localisation of Thunderbird</nb>
    <nl>Finse lokalisatie van Thunderbird</nl>
    <pl>Fińska lokalizacja Thunderbirda</pl>

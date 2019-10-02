@@ -38,6 +38,7 @@ Polish
    <ko>Polish Language Meta-Package</ko>
    <lt>Polish Language Meta-Package</lt>
    <mk>Polish Language Meta-Package</mk>
+   <mr>Polish Language Meta-Package</mr>
    <nb>Polish Language Meta-Package</nb>
    <nl>Poolse Taal Meta-Pakket</nl>
    <pl>Polski metapakiet językowy</pl>

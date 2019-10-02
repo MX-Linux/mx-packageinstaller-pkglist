@@ -39,6 +39,7 @@ recordmydesktop
    <ko>a desktop session recorder</ko>
    <lt>a desktop session recorder</lt>
    <mk>a desktop session recorder</mk>
+   <mr>a desktop session recorder</mr>
    <nb>a desktop session recorder</nb>
    <nl>een desktop sessie recorder</nl>
    <pl>program do nagrywania obrazu z pulpitu i ekranu komputera</pl>
@@ -47,7 +48,7 @@ recordmydesktop
    <ro>a desktop session recorder</ro>
    <ru>Запись сеанса рабочего стола</ru>
    <sk>a desktop session recorder</sk>
-   <sl>a desktop session recorder</sl>
+   <sl>Snemalnik namizja</sl>
    <sq>a desktop session recorder</sq>
    <sr>a desktop session recorder</sr>
    <sv>en skrivbordssessions-inspelare</sv>

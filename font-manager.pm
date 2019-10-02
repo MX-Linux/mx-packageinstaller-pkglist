@@ -38,6 +38,7 @@ font-manager
    <ko>font management application from the GNOME desktop</ko>
    <lt>font management application from the GNOME desktop</lt>
    <mk>font management application from the GNOME desktop</mk>
+   <mr>font management application from the GNOME desktop</mr>
    <nb>font management application from the GNOME desktop</nb>
    <nl>font beheer applicatie vanuit de GNOME desktop</nl>
    <pl>aplikacja do zarządzania czcionkami ze środowiska GNOME</pl>

@@ -38,6 +38,7 @@ Korean_Thunderbird
    <ko>Korean localisation of Thunderbird</ko>
    <lt>Korean localisation of Thunderbird</lt>
    <mk>Korean localisation of Thunderbird</mk>
+   <mr>Korean localisation of Thunderbird</mr>
    <nb>Korean localisation of Thunderbird</nb>
    <nl>Koreaanse lokalisatie van Thunderbird</nl>
    <pl>Koreańska lokalizacja Thunderbirda</pl>

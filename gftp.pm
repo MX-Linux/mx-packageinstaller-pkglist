@@ -38,6 +38,7 @@ gftp
    <ko>a multithreaded FTP client</ko>
    <lt>a multithreaded FTP client</lt>
    <mk>a multithreaded FTP client</mk>
+   <mr>a multithreaded FTP client</mr>
    <nb>a multithreaded FTP client</nb>
    <nl>een multithreaded FTP programma</nl>
    <pl>wielowątkowy klient FTP</pl>

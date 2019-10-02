@@ -38,6 +38,7 @@ SMplayer
    <ko>themable gui frontend to MPlayer with other interesting features</ko>
    <lt>themable gui frontend to MPlayer with other interesting features</lt>
    <mk>themable gui frontend to MPlayer with other interesting features</mk>
+   <mr>themable gui frontend to MPlayer with other interesting features</mr>
    <nb>themable gui frontend to MPlayer with other interesting features</nb>
    <nl>gui die van thema's kan worden voorzien, frontend voor MPlayer met andere interessante functies</nl>
    <pl>tematyczna nakładka na GUI do MPlayera z innymi ciekawymi funkcjami</pl>
@@ -46,7 +47,7 @@ SMplayer
    <ro>themable gui frontend to MPlayer with other interesting features</ro>
    <ru>Графическая оболочка для MPlayer с множеством фишек</ru>
    <sk>themable gui frontend to MPlayer with other interesting features</sk>
-   <sl>themable gui frontend to MPlayer with other interesting features</sl>
+   <sl>Prilagodljiva grafična podoba za Mplayer z zanimivimi dodatnimi funkcijami</sl>
    <sq>themable gui frontend to MPlayer with other interesting features</sq>
    <sr>themable gui frontend to MPlayer with other interesting features</sr>
    <sv>temabar grafisk front-end till MPlayer med andra intressanta möjligheter</sv>

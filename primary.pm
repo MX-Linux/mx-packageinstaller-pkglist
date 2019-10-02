@@ -38,6 +38,7 @@ Primary
    <ko>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ko>
    <lt>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</lt>
    <mk>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</mk>
+   <mr>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</mr>
    <nb>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</nb>
    <nl>Basis. Inclusief: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, en marble</nl>
    <pl>Szkoła podstawowa. Zawiera: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype i marble</pl>
@@ -46,7 +47,7 @@ Primary
    <ro>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ro>
    <ru>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ru>
    <sk>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</sk>
-   <sl>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</sl>
+   <sl>Osnovna šola. Vsebuje: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype in marble</sl>
    <sq>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</sq>
    <sr>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</sr>
    <sv>Primary. Inkluderar: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, och marble</sv>

@@ -38,6 +38,7 @@ Pan
    <ko>a gnome Usenet newsreader</ko>
    <lt>a gnome Usenet newsreader</lt>
    <mk>a gnome Usenet newsreader</mk>
+   <mr>a gnome Usenet newsreader</mr>
    <nb>a gnome Usenet newsreader</nb>
    <nl>a gnome Usenet nieuwslezer</nl>
    <pl>gnomowy czytnik grup dyskusyjnych Usenet</pl>
@@ -46,7 +47,7 @@ Pan
    <ro>a gnome Usenet newsreader</ro>
    <ru>Новостной клиент Usenet для окружения Gnome</ru>
    <sk>a gnome Usenet newsreader</sk>
-   <sl>a gnome Usenet newsreader</sl>
+   <sl>Bralnik novic za Usenet za Gnome okolje</sl>
    <sq>a gnome Usenet newsreader</sq>
    <sr>a gnome Usenet newsreader</sr>
    <sv>en gnome Usenet nyhetsläsare</sv>

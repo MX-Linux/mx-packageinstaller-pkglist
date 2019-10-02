@@ -38,6 +38,7 @@ Adobe Reader
    <ko>Adobe Reader PDF viewer</ko>
    <lt>Adobe Reader PDF žiūryklė</lt>
    <mk>Adobe Reader PDF viewer</mk>
+   <mr>Adobe Reader PDF viewer</mr>
    <nb>Adobe Reader PDF viewer</nb>
    <nl>Adobe Reader PDF lezer</nl>
    <pl>przeglądarka plików PDF Adobe Reader</pl>

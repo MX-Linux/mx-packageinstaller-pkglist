@@ -38,6 +38,7 @@ Croatian_Additional
    <ko>Additional Croatian Meta-Package</ko>
    <lt>Papildomas kroatų metapaketas</lt>
    <mk>Additional Croatian Meta-Package</mk>
+   <mr>Additional Croatian Meta-Package</mr>
    <nb>Additional Croatian Meta-Package</nb>
    <nl>Toegevoegd Kroatisch Meta-Pakket</nl>
    <pl>Chorwacki dodatkowy metapakiet</pl>

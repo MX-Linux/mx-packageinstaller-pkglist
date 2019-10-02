@@ -38,6 +38,7 @@ Opera
    <ko>Opera browser (32 bit is beta-only)</ko>
    <lt>Opera naršyklė (32 bitų yra tik beta versija)</lt>
    <mk>Opera browser (32 bit is beta-only)</mk>
+   <mr>Opera browser (32 bit is beta-only)</mr>
    <nb>Opera browser (32 bit is beta-only)</nb>
    <nl>Opera browser (32 bit is enkel-beta)</nl>
    <pl>przeglądarka Opera (wersja 32-bitowa tylko w wersji beta)</pl>
@@ -46,7 +47,7 @@ Opera
    <ro>Opera browser (32 bit is beta-only)</ro>
    <ru>Браузер Opera (32 bit бета-версия)</ru>
    <sk>Opera browser (32 bit is beta-only)</sk>
-   <sl>Opera browser (32 bit is beta-only)</sl>
+   <sl>Opera brskalnik (32 bitni je zgolj beta)</sl>
    <sq>Opera browser (32 bit is beta-only)</sq>
    <sr>Opera browser (32 bit is beta-only)</sr>
    <sv>Opera webbläsare (32 bit är enbart i beta)</sv>

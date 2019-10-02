@@ -38,6 +38,7 @@ Vivaldi
    <ko>Vivaldi web browser</ko>
    <lt>Vivaldi saityno naršyklė</lt>
    <mk>Vivaldi web browser</mk>
+   <mr>Vivaldi web browser</mr>
    <nb>Vivaldi web browser</nb>
    <nl>Vivaldi web browser</nl>
    <pl>przeglądarka Vivaldi</pl>
@@ -46,7 +47,7 @@ Vivaldi
    <ro>Vivaldi web browser</ro>
    <ru>Браузер Vivaldi</ru>
    <sk>Vivaldi web browser</sk>
-   <sl>Vivaldi web browser</sl>
+   <sl>Vivaldi spletni brskalnik</sl>
    <sq>Vivaldi web browser</sq>
    <sr>Vivaldi web browser</sr>
    <sv>Vivaldi webbläsare</sv>

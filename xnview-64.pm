@@ -38,6 +38,7 @@ XnView
    <ko>picture viewer, browser and converter</ko>
    <lt>picture viewer, browser and converter</lt>
    <mk>picture viewer, browser and converter</mk>
+   <mr>picture viewer, browser and converter</mr>
    <nb>picture viewer, browser and converter</nb>
    <nl>afbeelding bekijker, verkenner en omzetter</nl>
    <pl>przeglądarka zdjęć i konwerter</pl>
@@ -46,7 +47,7 @@ XnView
    <ro>picture viewer, browser and converter</ro>
    <ru>Просмотрщик изображений, каталогизатор и конвертер</ru>
    <sk>picture viewer, browser and converter</sk>
-   <sl>picture viewer, browser and converter</sl>
+   <sl>Pregledovalnik slik, brskalnik in pretvornik</sl>
    <sq>picture viewer, browser and converter</sq>
    <sr>picture viewer, browser and converter</sr>
    <sv>bildvisare och konverterare</sv>

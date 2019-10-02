@@ -38,6 +38,7 @@ Waterfox
    <ko>alternative mozilla-based browser</ko>
    <lt>alternative mozilla-based browser</lt>
    <mk>alternative mozilla-based browser</mk>
+   <mr>alternative mozilla-based browser</mr>
    <nb>alternative mozilla-based browser</nb>
    <nl>alternatieve op mozilla gebaseerde browser</nl>
    <pl>alternatywna przeglądarka oparta na Mozilli</pl>
@@ -46,7 +47,7 @@ Waterfox
    <ro>alternative mozilla-based browser</ro>
    <ru>Браузер основанный на Firefox (сохранена поддержка дополнений на XUL/XPCOM)</ru>
    <sk>alternative mozilla-based browser</sk>
-   <sl>alternative mozilla-based browser</sl>
+   <sl>Alternativni brskalnik, ki temelji na Mozilli</sl>
    <sq>alternative mozilla-based browser</sq>
    <sr>alternative mozilla-based browser</sr>
    <sv>alternativ mozilla-baserad webbläsare</sv>

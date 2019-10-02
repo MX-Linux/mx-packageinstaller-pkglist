@@ -38,6 +38,7 @@ Danish_Thunderbird
    <ko>Danish localisation of Thunderbird</ko>
    <lt>Danish localisation of Thunderbird</lt>
    <mk>Danish localisation of Thunderbird</mk>
+   <mr>Danish localisation of Thunderbird</mr>
    <nb>Danish localisation of Thunderbird</nb>
    <nl>Deense lokalisatie van Thunderbird</nl>
    <pl>Duńska lokalizacja Thunderbirda</pl>

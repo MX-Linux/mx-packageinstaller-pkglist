@@ -38,6 +38,7 @@ Slovak_Firefox
    <ko>Slovak localisation of Firefox</ko>
    <lt>Slovak localisation of Firefox</lt>
    <mk>Slovak localisation of Firefox</mk>
+   <mr>Slovak localisation of Firefox</mr>
    <nb>Slovak localisation of Firefox</nb>
    <nl>Slovaakse lokalisatie van Firefox</nl>
    <pl>Słowacka lokalizacja przeglądarki Firefox</pl>

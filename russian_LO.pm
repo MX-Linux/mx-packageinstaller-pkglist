@@ -38,6 +38,7 @@ Russian_Libreoffice
    <ko>Russian localisation of LibreOffice</ko>
    <lt>Russian localisation of LibreOffice</lt>
    <mk>Russian localisation of LibreOffice</mk>
+   <mr>Russian localisation of LibreOffice</mr>
    <nb>Russian localisation of LibreOffice</nb>
    <nl>Russische lokalisatie van LibreOffice</nl>
    <pl>Rosyjska lokalizacja LibreOffice</pl>

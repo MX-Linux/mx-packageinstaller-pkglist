@@ -38,6 +38,7 @@ antiX 4.9 64 bit
    <ko>antiX 4.9.189 kernel Meltdown and Spectre patched, 64 bit</ko>
    <lt>antiX 4.9.189 kernel Meltdown and Spectre patched, 64 bit</lt>
    <mk>antiX 4.9.189 kernel Meltdown and Spectre patched, 64 bit</mk>
+   <mr>antiX 4.9.189 kernel Meltdown and Spectre patched, 64 bit</mr>
    <nb>antiX 4.9.189 kernel Meltdown and Spectre patched, 64 bit</nb>
    <nl>antiX 4.9.189 kernel Meltdown en Spectre patched, 64 bit</nl>
    <pl>antiX 4.9.189 kernel Meltdown and Spectre patched, 64 bit</pl>

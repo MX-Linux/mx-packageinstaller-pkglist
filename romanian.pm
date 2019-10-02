@@ -38,6 +38,7 @@ Romanian
    <ko>Romanian Language Meta-Package</ko>
    <lt>Romanian Language Meta-Package</lt>
    <mk>Romanian Language Meta-Package</mk>
+   <mr>Romanian Language Meta-Package</mr>
    <nb>Romanian Language Meta-Package</nb>
    <nl>Roemeense Taal Meta-Pakket</nl>
    <pl>Rumuński metapakiet językowy</pl>

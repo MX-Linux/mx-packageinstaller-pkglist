@@ -38,6 +38,7 @@ Polish_Firefox
    <ko>Polish localisation of Firefox</ko>
    <lt>Polish localisation of Firefox</lt>
    <mk>Polish localisation of Firefox</mk>
+   <mr>Polish localisation of Firefox</mr>
    <nb>Polish localisation of Firefox</nb>
    <nl>Poolse lokalisatie van Firefox</nl>
    <pl>Polska lokalizacja przeglądarki Firefox</pl>

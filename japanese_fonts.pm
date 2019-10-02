@@ -38,6 +38,7 @@ Japanese_Fonts
    <ko>Japanese fonts packages</ko>
    <lt>Japonų šriftų paketai</lt>
    <mk>Japanese fonts packages</mk>
+   <mr>Japanese fonts packages</mr>
    <nb>Japanese fonts packages</nb>
    <nl>Japanse font pakketten</nl>
    <pl>pakiety z japońskimi fontami (czcionkami)</pl>

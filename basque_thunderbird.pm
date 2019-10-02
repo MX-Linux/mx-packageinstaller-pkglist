@@ -38,6 +38,7 @@ Basque_Thunderbird
    <ko>Basque localisation of Thunderbird</ko>
    <lt>Basque localisation of Thunderbird</lt>
    <mk>Basque localisation of Thunderbird</mk>
+   <mr>Basque localisation of Thunderbird</mr>
    <nb>Basque localisation of Thunderbird</nb>
    <nl>Baskische lokalisatie van Thunderbird</nl>
    <pl>Baskijska lokalizacja Thunderbirda</pl>

@@ -38,6 +38,7 @@ atom
    <ko>atom text editor IDE</ko>
    <lt>atom text editor IDE</lt>
    <mk>atom text editor IDE</mk>
+   <mr>atom text editor IDE</mr>
    <nb>atom text editor IDE</nb>
    <nl>atom text editor IDE</nl>
    <pl>edytor tekstu atom IDE</pl>

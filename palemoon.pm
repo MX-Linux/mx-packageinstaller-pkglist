@@ -38,6 +38,7 @@ Palemoon
    <ko>Palemoon from the mx repo</ko>
    <lt>Palemoon iš mx saugyklos</lt>
    <mk>Palemoon from the mx repo</mk>
+   <mr>Palemoon from the mx repo</mr>
    <nb>Palemoon from the mx repo</nb>
    <nl>Palemoon uit de mx pakketbron</nl>
    <pl>Palemoon z repozytorium MX</pl>
@@ -46,7 +47,7 @@ Palemoon
    <ro>Palemoon from the mx repo</ro>
    <ru>Браузер Palemoon из репозитория mx</ru>
    <sk>Palemoon from the mx repo</sk>
-   <sl>Palemoon from the mx repo</sl>
+   <sl>Palemoon iz mx repozitorija</sl>
    <sq>Palemoon from the mx repo</sq>
    <sr>Palemoon from the mx repo</sr>
    <sv>Palemoon från mx repo</sv>

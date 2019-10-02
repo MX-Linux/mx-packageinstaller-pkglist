@@ -38,6 +38,7 @@ Chinese_Input
    <ko>Chinese ibus</ko>
    <lt>Kinų ibus</lt>
    <mk>Chinese ibus</mk>
+   <mr>Chinese ibus</mr>
    <nb>Chinese ibus</nb>
    <nl>Chinese ibus</nl>
    <pl>Chiński ibus</pl>

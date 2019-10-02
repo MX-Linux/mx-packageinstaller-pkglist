@@ -38,6 +38,7 @@ Ukrainian_Thunderbird
    <ko>Ukrainian localisation of Thunderbird</ko>
    <lt>Ukrainian localisation of Thunderbird</lt>
    <mk>Ukrainian localisation of Thunderbird</mk>
+   <mr>Ukrainian localisation of Thunderbird</mr>
    <nb>Ukrainian localisation of Thunderbird</nb>
    <nl>Oekraïense lokalisatie van Thunderbird</nl>
    <pl>Ukraińska lokalizacja Thunderbirda</pl>

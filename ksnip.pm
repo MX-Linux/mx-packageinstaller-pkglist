@@ -39,6 +39,7 @@ ksnip
    <ko>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</ko>
    <lt>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</lt>
    <mk>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</mk>
+   <mr>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</mr>
    <nb>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</nb>
    <nl>Qt (niet kde) -gebaseerd gereedschap voor screenshots geïnspireerd op de Windows Snipping Tools</nl>
    <pl>Oparte na Qt (nie KDE) narzędzie do zrzutu ekranu zainspirowane Windows Snipping Tools</pl>
@@ -47,7 +48,7 @@ ksnip
    <ro>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</ro>
    <ru>Утилита захвата снимков экрана наподобие Windows Snipping Tools</ru>
    <sk>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</sk>
-   <sl>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</sl>
+   <sl>Qt (ne KDE) orodje za zajemanje zaslona, ki išče navdih v Windows Snipping Tools</sl>
    <sq>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</sq>
    <sr>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</sr>
    <sv>Qt (inte kde) -baserat skärmdumpsverktyg inspirerat av Windows Skärmklippsverktyg</sv>

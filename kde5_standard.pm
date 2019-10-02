@@ -38,6 +38,7 @@ KDE5 Standard
    <ko>Installs kde-standard, kde-plasma-desktop</ko>
    <lt>Installs kde-standard, kde-plasma-desktop</lt>
    <mk>Installs kde-standard, kde-plasma-desktop</mk>
+   <mr>Installs kde-standard, kde-plasma-desktop</mr>
    <nb>Installs kde-standard, kde-plasma-desktop</nb>
    <nl>Installeert kde-standard, kde-plasma-desktop</nl>
    <pl>instaluje kde-standard, kde-plasma-desktop</pl>
@@ -46,7 +47,7 @@ KDE5 Standard
    <ro>Installs kde-standard, kde-plasma-desktop</ro>
    <ru>Устанавливает kde-standart, kde-plasma-desktop</ru>
    <sk>Installs kde-standard, kde-plasma-desktop</sk>
-   <sl>Installs kde-standard, kde-plasma-desktop</sl>
+   <sl>Namesti kde-standard in kde-plasma-desktop</sl>
    <sq>Installs kde-standard, kde-plasma-desktop</sq>
    <sr>Installs kde-standard, kde-plasma-desktop</sr>
    <sv>Installerar kde-standard, kde-plasma-desktop</sv>
@@ -64,7 +65,7 @@ all
 
 <preinstall>
 apt-get update
-apt-get install --install-recommends kde-standard 
+apt-get install --install-recommends kde-standard
 </preinstall>
 
 <install_package_names>

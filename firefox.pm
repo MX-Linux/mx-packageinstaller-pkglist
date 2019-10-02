@@ -38,6 +38,7 @@ Firefox
    <ko>Latest Firefox</ko>
    <lt>Naujausia Firefox</lt>
    <mk>Latest Firefox</mk>
+   <mr>Latest Firefox</mr>
    <nb>Latest Firefox</nb>
    <nl>Meest recente Firefox</nl>
    <pl>najnowszy Firefox</pl>

@@ -38,6 +38,7 @@ Evolvere Icon Themes
    <ko>evolvere icons (vibrant)</ko>
    <lt>evolvere icons (vibrant)</lt>
    <mk>evolvere icons (vibrant)</mk>
+   <mr>evolvere icons (vibrant)</mr>
    <nb>evolvere icons (vibrant)</nb>
    <nl>evolvere iconen (levendig)</nl>
    <pl>ikony evolvere (vibrant)</pl>

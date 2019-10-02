@@ -38,6 +38,7 @@ GB_English_Thunderbird
    <ko>GB English localisation of Thunderbird</ko>
    <lt>GB English localisation of Thunderbird</lt>
    <mk>GB English localisation of Thunderbird</mk>
+   <mr>GB English localisation of Thunderbird</mr>
    <nb>GB English localisation of Thunderbird</nb>
    <nl>GB Engelse lokalisatie van Thunderbird</nl>
    <pl>Angielski Brytyjski lokalizacja Thunderbirda</pl>

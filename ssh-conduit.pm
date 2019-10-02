@@ -38,6 +38,7 @@ ssh Conduit
    <ko>A simple way to use remote resources via an ssh encypted connection</ko>
    <lt>A simple way to use remote resources via an ssh encypted connection</lt>
    <mk>A simple way to use remote resources via an ssh encypted connection</mk>
+   <mr>A simple way to use remote resources via an ssh encypted connection</mr>
    <nb>A simple way to use remote resources via an ssh encypted connection</nb>
    <nl>Een simpele manier om bronnen op afstand e gebruiken middels een ssh versleutelde verbinding</nl>
    <pl>prosty sposób korzystania ze zdalnych zasobów za pośrednictwem zaszyfrowanego połączenia ssh</pl>
@@ -46,7 +47,7 @@ ssh Conduit
    <ro>A simple way to use remote resources via an ssh encypted connection</ro>
    <ru>Лёгкий способ использовать удаленные ресурсы через шифрованное соединение ssh</ru>
    <sk>A simple way to use remote resources via an ssh encypted connection</sk>
-   <sl>A simple way to use remote resources via an ssh encypted connection</sl>
+   <sl>Preprost način za rabo oddaljenih virov preko ssh šifrirane povezave</sl>
    <sq>A simple way to use remote resources via an ssh encypted connection</sq>
    <sr>A simple way to use remote resources via an ssh encypted connection</sr>
    <sv>Ett enkelt sätt att använda fjärresurser via en ssh-krypterad anslutming</sv>

@@ -38,15 +38,16 @@ Opera
    <ko>Opera browser</ko>
    <lt>Opera naršyklė</lt>
    <mk>Opera browser</mk>
+   <mr>Opera browser</mr>
    <nb>Opera browser</nb>
    <nl>Opera browser</nl>
    <pl>przeglądarka Opera</pl>
-   <pt_BR>Opera browser</pt_BR>
+   <pt_BR>Navegador web Opera</pt_BR>
    <pt>Navegador web Opera</pt>
    <ro>Opera browser</ro>
    <ru>Браузер Opera</ru>
    <sk>Opera browser</sk>
-   <sl>Opera browser</sl>
+   <sl>Opera brskalnik</sl>
    <sq>Opera browser</sq>
    <sr>Opera browser</sr>
    <sv>Opera webbläsare</sv>
@@ -73,9 +74,9 @@ echo "Get Opera Archive Keyring"
 
 curl -sq -o $AK -RLJ https://deb.opera.com/archive.key
 if [ ! -f $AK ]; then
-   echo "Failed to fetch Oprea Archive Keyring"
-   echo "Exit"
-   exit 1
+echo "Failed to fetch Oprea Archive Keyring"
+echo "Exit"
+exit 1
 fi
 
 # keyring sanity check
@@ -86,7 +87,7 @@ echo "Adding Opera Archive Keyring"
 
 AK=/etc/apt/trusted.gpg.d/opera-archive-keyring.gpg
 rm $AK 2>/dev/null
- 
+
 gpg --no-default-keyring --keyring $TK --output $AK --export  'Opera Software Archive'
 gpg --no-default-keyring --keyring $AK --keyid-format 0xlong --list-keys 'Opera Software Archive'
 
@@ -94,8 +95,8 @@ rm -r $TD 2>/dev/null
 
 # disable opera in /etc/apt/sources.list.d/various.list
 
-if [ -f /etc/apt/sources.list.d/various.list ]; then 
-    sed -i -r '/opera.com/{s/^[[:space:]]*//; s/^([^#])/# \1/}' /etc/apt/sources.list.d/various.list
+if [ -f /etc/apt/sources.list.d/various.list ]; then
+sed -i -r '/opera.com/{s/^[[:space:]]*//; s/^([^#])/# \1/}' /etc/apt/sources.list.d/various.list
 fi
 
 
@@ -106,7 +107,7 @@ apt-get update
 
 # create dummy /etc/apt/sources.list
 if [ ! -f /etc/apt/sources.list ]; then
-	echo "## empty list " > /etc/apt/sources.list
+echo "## empty list " > /etc/apt/sources.list
 fi
 
 </preinstall>
@@ -130,34 +131,34 @@ KS="--keyserver keyserver.ubuntu.com"
 B=http://security.ubuntu.com/ubuntu
 
 case $( . /etc/os-release; echo $VERSION_ID) in
-	9)  U=$B/dists/xenial-security
-	;;
-	10) U=$B/dists/bionic-security
-	;;
-	*) U=$B/dists/xenial-security
-	;;
+9)  U=$B/dists/xenial-security
+;;
+10) U=$B/dists/bionic-security
+;;
+*) U=$B/dists/xenial-security
+;;
 esac
 
 TD=$(mktemp -d /tmp/tmpdir-ffmpeg.XXXXXXXXXXXXX)
 KR="--keyring $TD/keyring.kbx"
 
 if  gpg -q --no-default-keyring  $KR $KS --recv-key $KIDS  2>/dev/null; then
-	echo "Checking security-archive signing key :  OK"
+echo "Checking security-archive signing key :  OK"
 else
-	echo "Checking security-archive signing key : failed "
-	echo "Exit"
-	exit 1
+echo "Checking security-archive signing key : failed "
+echo "Exit"
+exit 1
 fi
 
 R=$TD/InRelease
 curl -sq -o $R -RLJ $U/InRelease
 
 if  gpgv -q $KR  $R  2>/dev/null; then
-	echo "Release signature check: OK"
+echo "Release signature check: OK"
 else
-	echo "Release signature check: failed "
-	echo "Exit"
-	exit 2
+echo "Release signature check: failed "
+echo "Exit"
+exit 2
 fi
 ARCH="$(dpkg --print-architecture)"
 S=$(sed -n -E  's=^ ([a-zA-Z0-9]{64}).*universe/binary-'"$ARCH"'/Packages.gz=\1=p' $R )
@@ -168,11 +169,11 @@ echo "$S Packages.gz" > $P.sha256
 
 cd $TD
 if sha256sum --status --check $P.sha256 2>/dev/null ; then
-   echo "Package-list checksum verification: ok"
+echo "Package-list checksum verification: ok"
 else
-   echo "Package-list checksum verification: failed"
-   echo "Exit"
-   exit 3
+echo "Package-list checksum verification: failed"
+echo "Exit"
+exit 3
 fi
 
 
@@ -186,18 +187,18 @@ echo "$S  $DEB" > $DEB.sha256
 curl -sq -o $DEB -RLJ $B/$P
 
 if sha256sum --status --check $DEB.sha256 ; then
-   echo "Deb-package checksum verification: ok"
+echo "Deb-package checksum verification: ok"
 else
-   echo "deb-Package checksum verification: failed"
-   echo "Exit"
-   exit 3
+echo "deb-Package checksum verification: failed"
+echo "Exit"
+exit 3
 fi
 
 case "$(dpkg --print-architecture)" in
-	amd64) 	LIB="usr/lib/x86_64-linux-gnu/opera/lib_extra"
-	;;
-	i386)   LIB="usr/lib/i386-linux-gnu/opera/lib_extra"
-	;;
+amd64) 	LIB="usr/lib/x86_64-linux-gnu/opera/lib_extra"
+;;
+i386)   LIB="usr/lib/i386-linux-gnu/opera/lib_extra"
+;;
 esac
 dpkg-deb --fsys-tarfile $DEB | sudo tar x -C / --wildcards \*libffmpeg\.so --xform  "s,.*/,$LIB/,"
 
@@ -221,20 +222,20 @@ opera-stable
 #set -x
 # disable opera in /etc/apt/sources.list.d/various.list
 
-if [ -f "/etc/apt/sources.list.d/various.list" ]; then 
-    sed -i -r '/opera.com/{s/^[[:space:]]*//; s/^([^#])/# \1/}' /etc/apt/sources.list.d/various.list
+if [ -f "/etc/apt/sources.list.d/various.list" ]; then
+sed -i -r '/opera.com/{s/^[[:space:]]*//; s/^([^#])/# \1/}' /etc/apt/sources.list.d/various.list
 fi
 
 # disable opera's default list  in /etc/apt/sources.list.d/opera-stable.list
 if [ -f /etc/apt/sources.list.d/opera-stable.list ]; then
- sed -i -r '/opera.com/{s/^[[:space:]]*//; s/^([^#])/# \1/}' /etc/apt/sources.list.d/opera-stable.list
+sed -i -r '/opera.com/{s/^[[:space:]]*//; s/^([^#])/# \1/}' /etc/apt/sources.list.d/opera-stable.list
 fi
 
 case "$(dpkg --print-architecture)" in
-	amd64) 	rm -r /usr/lib/x86_64-linux-gnu/opera 2>/dev/null
-	;;
-	i386)   rm -r /usr/lib/i386-linux-gnu/opera 2>/dev/null
-	;;
+amd64) 	rm -r /usr/lib/x86_64-linux-gnu/opera 2>/dev/null
+;;
+i386)   rm -r /usr/lib/i386-linux-gnu/opera 2>/dev/null
+;;
 esac
 
 </postuninstall>

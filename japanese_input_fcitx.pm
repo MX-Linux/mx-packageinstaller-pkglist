@@ -38,6 +38,7 @@ Japanese_Input_fcitx
    <ko>Japanese fcitx</ko>
    <lt>Japonų fcitx</lt>
    <mk>Japanese fcitx</mk>
+   <mr>Japanese fcitx</mr>
    <nb>Japanese fcitx</nb>
    <nl>Japanse fcitx</nl>
    <pl>Japoński fcitx</pl>

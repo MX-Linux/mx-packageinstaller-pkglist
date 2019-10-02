@@ -38,6 +38,7 @@ DeaDBeeF
    <ko>simple audio player</ko>
    <lt>paprastas garso grotuvas</lt>
    <mk>simple audio player</mk>
+   <mr>simple audio player</mr>
    <nb>simple audio player</nb>
    <nl>eenvoudige audio speler</nl>
    <pl>prosty odtwarzacz audio</pl>

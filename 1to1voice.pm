@@ -38,6 +38,7 @@ Messaging
    <ko>voice chat between two pc's via encrypted mumble</ko>
    <lt>voice chat between two pc's via encrypted mumble</lt>
    <mk>voice chat between two pc's via encrypted mumble</mk>
+   <mr>voice chat between two pc's via encrypted mumble</mr>
    <nb>voice chat between two pc's via encrypted mumble</nb>
    <nl>voice chat tussen twee PCs via beveiligde mumble</nl>
    <pl>czat głosowy pomiędzy dwoma komputerami szyfrowany przez mumble</pl>

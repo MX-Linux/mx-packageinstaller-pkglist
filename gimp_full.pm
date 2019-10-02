@@ -38,6 +38,7 @@ GIMP Full
    <ko>advanced picture editor- installs GIMP, help and plugins</ko>
    <lt>išplėstinis paveikslų redaktorius - įdiegia GIMP, žinyną ir įskiepius</lt>
    <mk>advanced picture editor- installs GIMP, help and plugins</mk>
+   <mr>advanced picture editor- installs GIMP, help and plugins</mr>
    <nb>advanced picture editor- installs GIMP, help and plugins</nb>
    <nl>geavanceerde foto-editor - installeert GIMP, help en plugins</nl>
    <pl>zaawansowany edytor grafiki i zdjęć - instaluje program GIMP, wtyczki i pliki pomocy</pl>

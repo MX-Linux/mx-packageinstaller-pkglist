@@ -38,6 +38,7 @@ SuperTuxKart
    <ko>Mario kart style racing</ko>
    <lt>Mario kart style racing</lt>
    <mk>Mario kart style racing</mk>
+   <mr>Mario kart style racing</mr>
    <nb>Mario kart style racing</nb>
    <nl>Mario kart stijl racen</nl>
    <pl>wyścigi w stylu Mario Kart</pl>
@@ -46,7 +47,7 @@ SuperTuxKart
    <ro>Mario kart style racing</ro>
    <ru>Гонки на картах в стиле Mario</ru>
    <sk>Mario kart style racing</sk>
-   <sl>Mario kart style racing</sl>
+   <sl>Mario kartingu podobna  igra</sl>
    <sq>Mario kart style racing</sq>
    <sr>Mario kart style racing</sr>
    <sv>Mario kart stil racing</sv>

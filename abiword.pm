@@ -38,6 +38,7 @@ Abiword
    <ko>lightweight word processor</ko>
    <lt>lightweight word processor</lt>
    <mk>lightweight word processor</mk>
+   <mr>lightweight word processor</mr>
    <nb>lightweight word processor</nb>
    <nl>lichtgewicht word processor</nl>
    <pl>lekki edytor tekstu</pl>

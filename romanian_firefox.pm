@@ -38,6 +38,7 @@ Romanian_Firfox
    <ko>Romanian localisation of Firefox</ko>
    <lt>Romanian localisation of Firefox</lt>
    <mk>Romanian localisation of Firefox</mk>
+   <mr>Romanian localisation of Firefox</mr>
    <nb>Romanian localisation of Firefox</nb>
    <nl>Roemeense lokalisatie van Firefox</nl>
    <pl>Rumuńska lokalizacja przeglądarki Firefox</pl>

@@ -38,6 +38,7 @@ German_Thunderbird
    <ko>German localisation of Thunderbird</ko>
    <lt>German localisation of Thunderbird</lt>
    <mk>German localisation of Thunderbird</mk>
+   <mr>German localisation of Thunderbird</mr>
    <nb>German localisation of Thunderbird</nb>
    <nl>Duitse lokalisatie van Thunderbird</nl>
    <pl>Niemiecka lokalizacja Thunderbirda</pl>

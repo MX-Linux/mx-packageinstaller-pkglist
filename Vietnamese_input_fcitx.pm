@@ -38,6 +38,7 @@ Vietnamese_Input_fcitx
    <ko>Vietnamese Fonts and fcitx</ko>
    <lt>Vietnamese Fonts and fcitx</lt>
    <mk>Vietnamese Fonts and fcitx</mk>
+   <mr>Vietnamese Fonts and fcitx</mr>
    <nb>Vietnamese Fonts and fcitx</nb>
    <nl>Vietnamese Fonts en fcitx</nl>
    <pl>Wietnamskie fonty i fcitx</pl>

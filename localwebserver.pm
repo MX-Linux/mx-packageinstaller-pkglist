@@ -38,6 +38,7 @@ Local Web Server
    <ko>apache2, php7, mariaDB</ko>
    <lt>apache2, php7, mariaDB</lt>
    <mk>apache2, php7, mariaDB</mk>
+   <mr>apache2, php7, mariaDB</mr>
    <nb>apache2, php7, mariaDB</nb>
    <nl>apache2, php7, mariaDB</nl>
    <pl>Apache2, PHP7, MariaDB</pl>

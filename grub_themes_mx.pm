@@ -38,6 +38,7 @@ grub-themes-mx
    <ko>themes for grub boot menu</ko>
    <lt>themes for grub boot menu</lt>
    <mk>themes for grub boot menu</mk>
+   <mr>themes for grub boot menu</mr>
    <nb>themes for grub boot menu</nb>
    <nl>thema's voor grub boot menu</nl>
    <pl>motywy dla menu rozruchowego grub</pl>
@@ -46,7 +47,7 @@ grub-themes-mx
    <ro>themes for grub boot menu</ro>
    <ru>темы для меню загрузки GRUB</ru>
    <sk>themes for grub boot menu</sk>
-   <sl>themes for grub boot menu</sl>
+   <sl>teme za grub zagonski meni</sl>
    <sq>themes for grub boot menu</sq>
    <sr>themes for grub boot menu</sr>
    <sv>theman för grub boot meny</sv>

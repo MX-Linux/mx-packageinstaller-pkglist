@@ -38,6 +38,7 @@ Java
    <ko>Java 8- installs openjdk-8</ko>
    <lt>Java 8- installs openjdk-8</lt>
    <mk>Java 8- installs openjdk-8</mk>
+   <mr>Java 8- installs openjdk-8</mr>
    <nb>Java 8- installs openjdk-8</nb>
    <nl>Java 8- installeert openjdk-8</nl>
    <pl>Java 8 - instaluje openjdk-8</pl>

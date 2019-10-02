@@ -38,6 +38,7 @@ Polish_Thunderbird
    <ko>Polish localisation of Thunderbird</ko>
    <lt>Polish localisation of Thunderbird</lt>
    <mk>Polish localisation of Thunderbird</mk>
+   <mr>Polish localisation of Thunderbird</mr>
    <nb>Polish localisation of Thunderbird</nb>
    <nl>Poolse lokalisatie van Thunderbird</nl>
    <pl>Polska lokalizacja Thunderbirda</pl>

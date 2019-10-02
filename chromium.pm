@@ -38,6 +38,7 @@ Chromium
    <ko>Latest Chromium browser and language pack</ko>
    <lt>Latest Chromium browser and language pack</lt>
    <mk>Latest Chromium browser and language pack</mk>
+   <mr>Latest Chromium browser and language pack</mr>
    <nb>Latest Chromium browser and language pack</nb>
    <nl>Meest recente Chromium browser en talen pakket</nl>
    <pl>najnowsza przeglądarka Chromium i pakiet językowy</pl>

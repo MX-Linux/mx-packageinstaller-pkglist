@@ -15,9 +15,9 @@ Firefox-ESR
    <bg>Latest Firefox-ESR</bg>
    <ca>El darrer Firefox-ESR</ca>
    <cs>Latest Firefox-ESR</cs>
-   <da>Latest Firefox-ESR</da>
+   <da>Seneste Firefox-ESR</da>
    <de>Latest Firefox-ESR</de>
-   <el>Latest Firefox-ESR</el>
+   <el>Τελευταία Firefox-ESR</el>
    <en>Latest Firefox-ESR</en>
    <es>Último Firefox-ESR</es>
    <et>Latest Firefox-ESR</et>
@@ -38,6 +38,7 @@ Firefox-ESR
    <ko>Latest Firefox-ESR</ko>
    <lt>Latest Firefox-ESR</lt>
    <mk>Latest Firefox-ESR</mk>
+   <mr>Latest Firefox-ESR</mr>
    <nb>Latest Firefox-ESR</nb>
    <nl>Nieuwste Firefox-ESR</nl>
    <pl>Latest Firefox-ESR</pl>
@@ -46,7 +47,7 @@ Firefox-ESR
    <ro>Latest Firefox-ESR</ro>
    <ru>Latest Firefox-ESR</ru>
    <sk>Latest Firefox-ESR</sk>
-   <sl>Latest Firefox-ESR</sl>
+   <sl>Zadnji Firefox-ESR</sl>
    <sq>Latest Firefox-ESR</sq>
    <sr>Latest Firefox-ESR</sr>
    <sv>Senaste Firefox-ESR</sv>

@@ -38,6 +38,7 @@ Okular
    <ko>a universal document viewer -WARNING- pulls in elements of KDE</ko>
    <lt>a universal document viewer -WARNING- pulls in elements of KDE</lt>
    <mk>a universal document viewer -WARNING- pulls in elements of KDE</mk>
+   <mr>a universal document viewer -WARNING- pulls in elements of KDE</mr>
    <nb>a universal document viewer -WARNING- pulls in elements of KDE</nb>
    <nl>een universele document lezer -WAARSCHUWING- installeert elementen van KDE</nl>
    <pl>uniwersalna przeglądarka dokumentów - OSTRZEŻENIE - zawiera elementy KDE</pl>
@@ -46,7 +47,7 @@ Okular
    <ro>a universal document viewer -WARNING- pulls in elements of KDE</ro>
    <ru>Универсальный просмотрщик документов -ВНИМАНИЕ- тянет с собой элементы KDE</ru>
    <sk>a universal document viewer -WARNING- pulls in elements of KDE</sk>
-   <sl>a universal document viewer -WARNING- pulls in elements of KDE</sl>
+   <sl>Univerzalni pregledovalnik dokumentov - POZOR - uporablja dele KDE okolja</sl>
    <sq>a universal document viewer -WARNING- pulls in elements of KDE</sq>
    <sr>a universal document viewer -WARNING- pulls in elements of KDE</sr>
    <sv>en universiell dokumentläsare -Varning- drar in delar av KDE</sv>

@@ -24,20 +24,21 @@ openGL screensavers
    <eu>extra opengl screensavers</eu>
    <fa>extra opengl screensavers</fa>
    <fi>extra opengl screensavers</fi>
-   <fr>écran de veille opengl supplémentaires</fr>
+   <fr>écrans de veille opengl supplémentaires</fr>
    <he_IL>extra opengl screensavers</he_IL>
    <hi>extra opengl screensavers</hi>
    <hr>extra opengl screensavers</hr>
    <hu>extra opengl screensavers</hu>
    <id>extra opengl screensavers</id>
    <is>extra opengl screensavers</is>
-   <it>salvaschermi extra opengl</it>
+   <it>screensaver opengl extra</it>
    <ja_JP>extra opengl screensavers</ja_JP>
    <ja>extra opengl screensavers</ja>
    <kk>extra opengl screensavers</kk>
    <ko>extra opengl screensavers</ko>
    <lt>extra opengl screensavers</lt>
    <mk>extra opengl screensavers</mk>
+   <mr>extra opengl screensavers</mr>
    <nb>extra opengl screensavers</nb>
    <nl>extra opengl screensavers</nl>
    <pl>dodatkowe wygaszacze ekranu openGL</pl>
@@ -46,7 +47,7 @@ openGL screensavers
    <ro>extra opengl screensavers</ro>
    <ru>extra opengl screensavers</ru>
    <sk>extra opengl screensavers</sk>
-   <sl>extra opengl screensavers</sl>
+   <sl>Dodatni opengl ohranjevalniki zaslona</sl>
    <sq>extra opengl screensavers</sq>
    <sr>extra opengl screensavers</sr>
    <sv>extra opengl skärmsläckare</sv>

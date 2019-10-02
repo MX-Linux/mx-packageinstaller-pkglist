@@ -38,6 +38,7 @@ Russian_Fonts
    <ko>Russian fonts packages</ko>
    <lt>Rusų šriftų paketai</lt>
    <mk>Russian fonts packages</mk>
+   <mr>Russian fonts packages</mr>
    <nb>Russian fonts packages</nb>
    <nl>Russische font pakketten</nl>
    <pl>pakiety z rosyjskimi fontami (czcionkami)</pl>

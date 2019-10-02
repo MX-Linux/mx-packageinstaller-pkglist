@@ -38,6 +38,7 @@ Blueman
    <ko>a GTK+ bluetooth management utility</ko>
    <lt>a GTK+ bluetooth management utility</lt>
    <mk>a GTK+ bluetooth management utility</mk>
+   <mr>a GTK+ bluetooth management utility</mr>
    <nb>a GTK+ bluetooth management utility</nb>
    <nl>een GTK+ bluetooth beheer utility</nl>
    <pl>narzędzie GTK+ do zarządzania bluetooth</pl>

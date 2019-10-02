@@ -38,6 +38,7 @@ Syncthing
    <ko>Syncthing file sync utility</ko>
    <lt>Syncthing file sync utility</lt>
    <mk>Syncthing file sync utility</mk>
+   <mr>Syncthing file sync utility</mr>
    <nb>Syncthing file sync utility</nb>
    <nl>Syncthing file synchronisatie hulpprogramma</nl>
    <pl>Syncthing file sync utility</pl>
@@ -46,7 +47,7 @@ Syncthing
    <ro>Syncthing file sync utility</ro>
    <ru>Syncthing - приложение распределенной синхронизации файлов</ru>
    <sk>Syncthing file sync utility</sk>
-   <sl>Syncthing file sync utility</sl>
+   <sl>Syncthing orodje za sinhronizacijo datotek</sl>
    <sq>Syncthing file sync utility</sq>
    <sr>Syncthing file sync utility</sr>
    <sv>Syncthing filsynkroniserings-redskap</sv>

@@ -38,6 +38,7 @@ MX 15 Wallpapers
    <ko>backgrounds originally supplied with MX 15</ko>
    <lt>backgrounds originally supplied with MX 15</lt>
    <mk>backgrounds originally supplied with MX 15</mk>
+   <mr>backgrounds originally supplied with MX 15</mr>
    <nb>backgrounds originally supplied with MX 15</nb>
    <nl>achtergronden oorspronkelijk geleverd met MX 15</nl>
    <pl>tła oryginalnie dostarczone z MX 15</pl>
@@ -46,7 +47,7 @@ MX 15 Wallpapers
    <ro>backgrounds originally supplied with MX 15</ro>
    <ru>Обои использованные для дистрибутива MX 15</ru>
    <sk>backgrounds originally supplied with MX 15</sk>
-   <sl>backgrounds originally supplied with MX 15</sl>
+   <sl>Izvirna ozadja za MX 15</sl>
    <sq>backgrounds originally supplied with MX 15</sq>
    <sr>backgrounds originally supplied with MX 15</sr>
    <sv>wallpapers ursprungligen medföljande MX 15</sv>

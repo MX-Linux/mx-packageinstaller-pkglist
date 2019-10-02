@@ -38,6 +38,7 @@ Croatian_Libreoffice
    <ko>Croatian LibreOffice Language Meta-Package</ko>
    <lt>Croatian LibreOffice Language Meta-Package</lt>
    <mk>Croatian LibreOffice Language Meta-Package</mk>
+   <mr>Croatian LibreOffice Language Meta-Package</mr>
    <nb>Croatian LibreOffice Language Meta-Package</nb>
    <nl>Kroatische LibreOffice Taal Meta-Pakket</nl>
    <pl>Chorwacki metapakiet językowy dla LibreOffice</pl>

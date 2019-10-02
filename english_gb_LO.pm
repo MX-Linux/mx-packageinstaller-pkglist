@@ -38,6 +38,7 @@ GB_English_Libreoffice
    <ko>GB English Help for LibreOffice</ko>
    <lt>GB English Help for LibreOffice</lt>
    <mk>GB English Help for LibreOffice</mk>
+   <mr>GB English Help for LibreOffice</mr>
    <nb>GB English Help for LibreOffice</nb>
    <nl>GB Engelse Hulp voor LibreOffice</nl>
    <pl>Angielski Brytyjski pomoc dla LibreOffice</pl>

@@ -38,6 +38,7 @@ grub customizer
    <ko>customize grub boot menu</ko>
    <lt>customize grub boot menu</lt>
    <mk>customize grub boot menu</mk>
+   <mr>customize grub boot menu</mr>
    <nb>customize grub boot menu</nb>
    <nl>pas grub boot menu aan</nl>
    <pl>dostosowywuje menu rozruchowe grub</pl>
@@ -46,7 +47,7 @@ grub customizer
    <ro>customize grub boot menu</ro>
    <ru>настройка меню загрузки GRUB</ru>
    <sk>customize grub boot menu</sk>
-   <sl>customize grub boot menu</sl>
+   <sl>prilagodi grub zagonski meni</sl>
    <sq>customize grub boot menu</sq>
    <sr>customize grub boot menu</sr>
    <sv>anpassa grub boot meny</sv>

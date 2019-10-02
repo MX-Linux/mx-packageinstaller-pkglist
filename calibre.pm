@@ -38,6 +38,7 @@ Calibre
    <ko>an e-book library management application</ko>
    <lt>an e-book library management application</lt>
    <mk>an e-book library management application</mk>
+   <mr>an e-book library management application</mr>
    <nb>an e-book library management application</nb>
    <nl>een e-boek bibliotheek beheer applicatie</nl>
    <pl>aplikacja do zarządzania bibliotekami e-booków w systemie,  ich wyświetlania, edycji, tworzenia i konwersji</pl>

@@ -38,6 +38,7 @@ Gnumeric
    <ko>lightweight spreadsheet</ko>
    <lt>lightweight spreadsheet</lt>
    <mk>lightweight spreadsheet</mk>
+   <mr>lightweight spreadsheet</mr>
    <nb>lightweight spreadsheet</nb>
    <nl>lichtgewicht speadsheet</nl>
    <pl>lekki arkusz kalkulacyjny</pl>
@@ -46,7 +47,7 @@ Gnumeric
    <ro>lightweight spreadsheet</ro>
    <ru>Легковесный редактор электронных таблиц (включает основные функции Excel)</ru>
    <sk>lightweight spreadsheet</sk>
-   <sl>lightweight spreadsheet</sl>
+   <sl>lahka preglednica</sl>
    <sq>lightweight spreadsheet</sq>
    <sr>lightweight spreadsheet</sr>
    <sv>lättvikts spreadsheet</sv>

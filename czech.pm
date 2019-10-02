@@ -38,6 +38,7 @@ Czech
    <ko>Czech Language Meta-Package</ko>
    <lt>Czech Language Meta-Package</lt>
    <mk>Czech Language Meta-Package</mk>
+   <mr>Czech Language Meta-Package</mr>
    <nb>Czech Language Meta-Package</nb>
    <nl>Tjechische Taal Meta-Pakket</nl>
    <pl>Czeski metapakiet językowy</pl>

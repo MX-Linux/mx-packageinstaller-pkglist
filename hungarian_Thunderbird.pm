@@ -38,6 +38,7 @@ Hungarian_Thunderbird
    <ko>Hungarian localisation of Thunderbird</ko>
    <lt>Hungarian localisation of Thunderbird</lt>
    <mk>Hungarian localisation of Thunderbird</mk>
+   <mr>Hungarian localisation of Thunderbird</mr>
    <nb>Hungarian localisation of Thunderbird</nb>
    <nl>Hongaarse lokalisatie van Thunderbird</nl>
    <pl>Węgierska lokalizacja Thunderbirda</pl>

@@ -38,6 +38,7 @@ Spotify
    <ko>Spotify from Spotify Testing Repo</ko>
    <lt>Spotify from Spotify Testing Repo</lt>
    <mk>Spotify from Spotify Testing Repo</mk>
+   <mr>Spotify from Spotify Testing Repo</mr>
    <nb>Spotify from Spotify Testing Repo</nb>
    <nl>Spotify uit Spotify Testing Pakketbron</nl>
    <pl>Spotify z repozytorium testowego Spotify</pl>
@@ -46,7 +47,7 @@ Spotify
    <ro>Spotify from Spotify Testing Repo</ro>
    <ru>Сервис потокового аудио включающий более 30 млн. треков</ru>
    <sk>Spotify from Spotify Testing Repo</sk>
-   <sl>Spotify from Spotify Testing Repo</sl>
+   <sl>Spotify iz Spotify testnega repozitorija</sl>
    <sq>Spotify from Spotify Testing Repo</sq>
    <sr>Spotify from Spotify Testing Repo</sr>
    <sv>Spotify från Spotify Testing Förråd</sv>

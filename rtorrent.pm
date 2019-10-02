@@ -38,6 +38,7 @@ rTorrent
    <ko>an ncurses BitTorrent client</ko>
    <lt>an ncurses BitTorrent client</lt>
    <mk>an ncurses BitTorrent client</mk>
+   <mr>an ncurses BitTorrent client</mr>
    <nb>an ncurses BitTorrent client</nb>
    <nl>een ncurses BitTorrent programma</nl>
    <pl>klient ncurses BitTorrent</pl>
@@ -46,7 +47,7 @@ rTorrent
    <ro>an ncurses BitTorrent client</ro>
    <ru>Клиент BitTorrent с интерфейсом на ncurses</ru>
    <sk>an ncurses BitTorrent client</sk>
-   <sl>an ncurses BitTorrent client</sl>
+   <sl>Ncurses BitTorrent odjemalec</sl>
    <sq>an ncurses BitTorrent client</sq>
    <sr>an ncurses BitTorrent client</sr>
    <sv>en ncurses BitTorrent klient</sv>

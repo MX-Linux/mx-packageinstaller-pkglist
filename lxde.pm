@@ -38,6 +38,7 @@ LXDE
    <ko>basic install of LXDE</ko>
    <lt>basic install of LXDE</lt>
    <mk>basic install of LXDE</mk>
+   <mr>basic install of LXDE</mr>
    <nb>basic install of LXDE</nb>
    <nl>basisinstallatie van LXDE</nl>
    <pl>podstawowa instalacja LXDE</pl>
@@ -46,7 +47,7 @@ LXDE
    <ro>basic install of LXDE</ro>
    <ru>Базовая установка LXDE</ru>
    <sk>basic install of LXDE</sk>
-   <sl>basic install of LXDE</sl>
+   <sl>Osnovna namestitev LXDE</sl>
    <sq>basic install of LXDE</sq>
    <sr>basic install of LXDE</sr>
    <sv>enkel installation av LXDE</sv>
