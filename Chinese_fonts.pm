@@ -38,6 +38,7 @@ Chinese_fonts
    <ko>Chinese fonts packages</ko>
    <lt>Kinų šriftų paketai</lt>
    <mk>Chinese fonts packages</mk>
+   <mr>Chinese fonts packages</mr>
    <nb>Chinese fonts packages</nb>
    <nl>Chinese font pakketten</nl>
    <pl>pakiety z chińskimi fontami (czcionkami)</pl>

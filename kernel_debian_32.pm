@@ -38,6 +38,7 @@ Debian 32 bit no-pae
    <ko>Default Debian 4.9 32bit linux kernel, no-PAE, single core</ko>
    <lt>Default Debian 4.9 32bit linux kernel, no-PAE, single core</lt>
    <mk>Default Debian 4.9 32bit linux kernel, no-PAE, single core</mk>
+   <mr>Default Debian 4.9 32bit linux kernel, no-PAE, single core</mr>
    <nb>Default Debian 4.9 32bit linux kernel, no-PAE, single core</nb>
    <nl>Standaard Debian 4.9 32bit linux kernel, geen PAE, single core</nl>
    <pl>domyślny Debian 4.9 32bit linux kernel, no-PAE, single core</pl>
@@ -46,7 +47,7 @@ Debian 32 bit no-pae
    <ro>Default Debian 4.9 32bit linux kernel, no-PAE, single core</ro>
    <ru>Debian ядро по умолчанию 4.9, 32bit no-PAE одно ядро</ru>
    <sk>Default Debian 4.9 32bit linux kernel, no-PAE, single core</sk>
-   <sl>Default Debian 4.9 32bit linux kernel, no-PAE, single core</sl>
+   <sl>Privzeti Debian 4.9 32bit linux kernel, no-PAE, single core</sl>
    <sq>Default Debian 4.9 32bit linux kernel, no-PAE, single core</sq>
    <sr>Default Debian 4.9 32bit linux kernel, no-PAE, single core</sr>
    <sv>Standard Debian 4.9 32bit linux kärna, no-PAE, single core</sv>

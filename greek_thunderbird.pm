@@ -38,6 +38,7 @@ Greek_Thunderbird
    <ko>Greek localisation of Thunderbird</ko>
    <lt>Greek localisation of Thunderbird</lt>
    <mk>Greek localisation of Thunderbird</mk>
+   <mr>Greek localisation of Thunderbird</mr>
    <nb>Greek localisation of Thunderbird</nb>
    <nl>Griekse lokalisatie van Thunderbird</nl>
    <pl>Grecka lokalizacja Thunderbirda</pl>
@@ -46,7 +47,7 @@ Greek_Thunderbird
    <ro>Greek localisation of Thunderbird</ro>
    <ru>Greek localisation of Thunderbird</ru>
    <sk>Greek localisation of Thunderbird</sk>
-   <sl>Greek localisation of Thunderbird</sl>
+   <sl>Grška lokalizacija za Thunderbird</sl>
    <sq>Greek localisation of Thunderbird</sq>
    <sr>Greek localisation of Thunderbird</sr>
    <sv>Grekisk lokalisering för Thunderbird</sv>

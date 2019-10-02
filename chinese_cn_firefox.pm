@@ -38,6 +38,7 @@ Chinese_CN_Firefox
    <ko>Chinese_simplified localisation of Firefox</ko>
    <lt>Chinese_simplified localisation of Firefox</lt>
    <mk>Chinese_simplified localisation of Firefox</mk>
+   <mr>Chinese_simplified localisation of Firefox</mr>
    <nb>Chinese_simplified localisation of Firefox</nb>
    <nl>Vereenvoudigd Chinese lokalisatie van Firefox</nl>
    <pl>Chiński uproszczony lokalizacja przeglądarki Firefox</pl>

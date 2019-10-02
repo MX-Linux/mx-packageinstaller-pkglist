@@ -38,6 +38,7 @@ Remote Access
    <ko>Remote access help app from antiX</ko>
    <lt>Nuotolinės prieigos pagalbos programa iš antiX</lt>
    <mk>Remote access help app from antiX</mk>
+   <mr>Remote access help app from antiX</mr>
    <nb>Remote access help app from antiX</nb>
    <nl>Afstand toegankelijke hulp app van antiX</nl>
    <pl>aplikacja zdalnej pomocy od antiX</pl>

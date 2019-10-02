@@ -38,6 +38,7 @@ Google Earth Pro
    <ko>Google Earth Globe</ko>
    <lt>Google Earth Globe</lt>
    <mk>Google Earth Globe</mk>
+   <mr>Google Earth Globe</mr>
    <nb>Google Earth Globe</nb>
    <nl>Google Earth Wereldbol</nl>
    <pl>Globus Google Earth</pl>
@@ -46,7 +47,7 @@ Google Earth Pro
    <ro>Google Earth Globe</ro>
    <ru>Google Планета Земля - спутниковые снимки земного шара</ru>
    <sk>Google Earth Globe</sk>
-   <sl>Google Earth Globe</sl>
+   <sl>Googlovv globus Zemlje</sl>
    <sq>Google Earth Globe</sq>
    <sr>Google Earth Globe</sr>
    <sv>Google Earth Glob</sv>

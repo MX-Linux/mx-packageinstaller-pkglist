@@ -38,6 +38,7 @@ Megasync
    <ko>Client for MEGA file syncing service</ko>
    <lt>Client for MEGA file syncing service</lt>
    <mk>Client for MEGA file syncing service</mk>
+   <mr>Client for MEGA file syncing service</mr>
    <nb>Client for MEGA file syncing service</nb>
    <nl>Programma voor MEGA bestandssynchronisatieservice</nl>
    <pl>klient dla usługi synchronizacji plików MEGA</pl>
@@ -46,7 +47,7 @@ Megasync
    <ro>Client for MEGA file syncing service</ro>
    <ru>Клиент синхронизации файлов для MEGA</ru>
    <sk>Client for MEGA file syncing service</sk>
-   <sl>Client for MEGA file syncing service</sl>
+   <sl>Odjemalec za sinhronizacijo datotek iz MEGA oblaka</sl>
    <sq>Client for MEGA file syncing service</sq>
    <sr>Client for MEGA file syncing service</sr>
    <sv>Klient för MEGA filsynkroniserings-service</sv>

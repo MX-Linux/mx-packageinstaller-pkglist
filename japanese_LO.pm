@@ -38,6 +38,7 @@ Japanses_Libreoffice
    <ko>Japanese localisation of LibreOffice</ko>
    <lt>Japanese localisation of LibreOffice</lt>
    <mk>Japanese localisation of LibreOffice</mk>
+   <mr>Japanese localisation of LibreOffice</mr>
    <nb>Japanese localisation of LibreOffice</nb>
    <nl>Japanse lokalisatie van LibreOffice</nl>
    <pl>Japońska lokalizacja LibreOffice</pl>

@@ -38,6 +38,7 @@ US_English_Libreoffice
    <ko>US English Help for LibreOffice</ko>
    <lt>US English Help for LibreOffice</lt>
    <mk>US English Help for LibreOffice</mk>
+   <mr>US English Help for LibreOffice</mr>
    <nb>US English Help for LibreOffice</nb>
    <nl>US Engelse Hulp voor LibreOffice</nl>
    <pl>Angielski Amerykański pomoc dla LibreOffice</pl>

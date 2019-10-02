@@ -38,6 +38,7 @@ Discord
    <ko>All-in-one voice and text chat for gamers</ko>
    <lt>All-in-one voice and text chat for gamers</lt>
    <mk>All-in-one voice and text chat for gamers</mk>
+   <mr>All-in-one voice and text chat for gamers</mr>
    <nb>All-in-one voice and text chat for gamers</nb>
    <nl>Alles-in-een stem en tekst chat voor gamers</nl>
    <pl>kompleksowy czat głosowy i tekstowy dla graczy</pl>

@@ -38,6 +38,7 @@ IceWM
    <ko>lightweight environment</ko>
    <lt>supaprastinta aplinka</lt>
    <mk>lightweight environment</mk>
+   <mr>lightweight environment</mr>
    <nb>lightweight environment</nb>
    <nl>lichtgewicht omgeving</nl>
    <pl>lekkie środowisko</pl>
@@ -46,7 +47,7 @@ IceWM
    <ro>lightweight environment</ro>
    <ru>Легковесный оконный менеджер</ru>
    <sk>lightweight environment</sk>
-   <sl>lightweight environment</sl>
+   <sl>Lahko okolje</sl>
    <sq>lightweight environment</sq>
    <sr>lightweight environment</sr>
    <sv>lättviktsmiljö</sv>

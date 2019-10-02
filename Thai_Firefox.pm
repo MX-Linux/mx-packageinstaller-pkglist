@@ -38,6 +38,7 @@ Thai_Firefox
    <ko>Thai localisation of Firefox</ko>
    <lt>Thai localisation of Firefox</lt>
    <mk>Thai localisation of Firefox</mk>
+   <mr>Thai localisation of Firefox</mr>
    <nb>Thai localisation of Firefox</nb>
    <nl>Thaise lokalisatie van Firefox</nl>
    <pl>Tajska lokalizacja przeglądarki Firefox</pl>

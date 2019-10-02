@@ -38,6 +38,7 @@ Audacity
    <ko>a multi-track audio editor</ko>
    <lt>a multi-track audio editor</lt>
    <mk>a multi-track audio editor</mk>
+   <mr>a multi-track audio editor</mr>
    <nb>a multi-track audio editor</nb>
    <nl>een multi-track audio editor</nl>
    <pl>wielościeżkowy edytor audio</pl>

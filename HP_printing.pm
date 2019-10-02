@@ -38,6 +38,7 @@ HP Printing
    <ko>HPLIP and printing extras</ko>
    <lt>HPLIP ir spausdinimo papildiniai</lt>
    <mk>HPLIP and printing extras</mk>
+   <mr>HPLIP and printing extras</mr>
    <nb>HPLIP and printing extras</nb>
    <nl>HPLIP en printing extras</nl>
    <pl>HPLIP i dodatki do drukowania</pl>
@@ -46,7 +47,7 @@ HP Printing
    <ro>HPLIP and printing extras</ro>
    <ru>HPLIP и вспомогательные компоненты печати</ru>
    <sk>HPLIP and printing extras</sk>
-   <sl>HPLIP and printing extras</sl>
+   <sl>Dodatki za HPLIP in tiskanje</sl>
    <sq>HPLIP and printing extras</sq>
    <sr>HPLIP and printing extras</sr>
    <sv>HPLIP och utskrifts-extras</sv>

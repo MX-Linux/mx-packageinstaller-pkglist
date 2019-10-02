@@ -38,6 +38,7 @@ MATE
    <ko>basic install of MATE desktop</ko>
    <lt>basic install of MATE desktop</lt>
    <mk>basic install of MATE desktop</mk>
+   <mr>basic install of MATE desktop</mr>
    <nb>basic install of MATE desktop</nb>
    <nl>basisinstallatie van de MATE desktop</nl>
    <pl>podstawowa instalacja środowiska MATE</pl>
@@ -46,7 +47,7 @@ MATE
    <ro>basic install of MATE desktop</ro>
    <ru>Базовая установка окружения MATE</ru>
    <sk>basic install of MATE desktop</sk>
-   <sl>basic install of MATE desktop</sl>
+   <sl>Osnovna namestitev MATE namizja</sl>
    <sq>basic install of MATE desktop</sq>
    <sr>basic install of MATE desktop</sr>
    <sv>enkel installation av MATE skrivbord</sv>

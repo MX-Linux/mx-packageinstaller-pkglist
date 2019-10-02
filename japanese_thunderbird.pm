@@ -38,6 +38,7 @@ Japanses_Thunderbird
    <ko>Japanese localisation of Thunderbird</ko>
    <lt>Japanese localisation of Thunderbird</lt>
    <mk>Japanese localisation of Thunderbird</mk>
+   <mr>Japanese localisation of Thunderbird</mr>
    <nb>Japanese localisation of Thunderbird</nb>
    <nl>Japanse lokalisatie van Thunderbird</nl>
    <pl>Japońska lokalizacja Thunderbirda</pl>

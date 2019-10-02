@@ -38,6 +38,7 @@ Steam
    <ko>Steam powered games</ko>
    <lt>Steam powered games</lt>
    <mk>Steam powered games</mk>
+   <mr>Steam powered games</mr>
    <nb>Steam powered games</nb>
    <nl>Steam aangedreven spellen</nl>
    <pl>Gry na Steam</pl>
@@ -46,7 +47,7 @@ Steam
    <ro>Steam powered games</ro>
    <ru>Платформа цифрового распространения игр</ru>
    <sk>Steam powered games</sk>
-   <sl>Steam powered games</sl>
+   <sl>Steam igre</sl>
    <sq>Steam powered games</sq>
    <sr>Steam powered games</sr>
    <sv>Steam-drivna spel</sv>

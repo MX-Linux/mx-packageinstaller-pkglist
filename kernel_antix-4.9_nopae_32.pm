@@ -38,6 +38,7 @@ antiX 4.9 32 bit no-pae
    <ko>antiX 4.9.189 kernel, 32 bit no-pae</ko>
    <lt>antiX 4.9.189 kernel, 32 bit no-pae</lt>
    <mk>antiX 4.9.189 kernel, 32 bit no-pae</mk>
+   <mr>antiX 4.9.189 kernel, 32 bit no-pae</mr>
    <nb>antiX 4.9.189 kernel, 32 bit no-pae</nb>
    <nl>antiX 4.9.189 kernel, 32 bit no-pae</nl>
    <pl>antiX 4.9.189 kernel, 32 bit no-pae</pl>

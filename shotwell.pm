@@ -38,6 +38,7 @@ Shotwell
    <ko>digital photo organizer</ko>
    <lt>digital photo organizer</lt>
    <mk>digital photo organizer</mk>
+   <mr>digital photo organizer</mr>
    <nb>digital photo organizer</nb>
    <nl>digitale foto-organisator</nl>
    <pl>przeglądarka i menedżer plików graficznych i fotografii cyfrowych</pl>
@@ -46,7 +47,7 @@ Shotwell
    <ro>digital photo organizer</ro>
    <ru>Каталогизатор фотографий и видеофайлов</ru>
    <sk>digital photo organizer</sk>
-   <sl>digital photo organizer</sl>
+   <sl>Digitalni organizator fotografiji</sl>
    <sq>digital photo organizer</sq>
    <sr>digital photo organizer</sr>
    <sv>digital foto-organiserare</sv>

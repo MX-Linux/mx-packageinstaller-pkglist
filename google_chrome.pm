@@ -38,6 +38,7 @@ Google Chrome
    <ko>Latest Google Chrome browser (stable)</ko>
    <lt>Latest Google Chrome browser (stable)</lt>
    <mk>Latest Google Chrome browser (stable)</mk>
+   <mr>Latest Google Chrome browser (stable)</mr>
    <nb>Latest Google Chrome browser (stable)</nb>
    <nl>Meest recente Chrome browser (stable)</nl>
    <pl>najnowsza przeglądarka Google Chrome (stabilna)</pl>
@@ -46,7 +47,7 @@ Google Chrome
    <ro>Latest Google Chrome browser (stable)</ro>
    <ru>Браузер Google Chrome (последняя стабильная версия)</ru>
    <sk>Latest Google Chrome browser (stable)</sk>
-   <sl>Latest Google Chrome browser (stable)</sl>
+   <sl>Zadnja različica googlovega Chrome brskalnika</sl>
    <sq>Latest Google Chrome browser (stable)</sq>
    <sr>Latest Google Chrome browser (stable)</sr>
    <sv>SenasteGoogle Chrome webbläsare (stable)</sv>

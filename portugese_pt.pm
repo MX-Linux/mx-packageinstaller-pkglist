@@ -38,6 +38,7 @@ Portugese(PT)
    <ko>Portugese(PT) Language Meta-Package</ko>
    <lt>Portugese(PT) Language Meta-Package</lt>
    <mk>Portugese(PT) Language Meta-Package</mk>
+   <mr>Portugese(PT) Language Meta-Package</mr>
    <nb>Portugese(PT) Language Meta-Package</nb>
    <nl>Portugese(PT) Taal Meta-Pakket</nl>
    <pl>Portugalski (PT) metapakiet językowy</pl>

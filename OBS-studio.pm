@@ -39,6 +39,7 @@ OBS-Studio
    <ko>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ko>
    <lt>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</lt>
    <mk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</mk>
+   <mr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</mr>
    <nb>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</nb>
    <nl>OBS-Studio - Video en Screencaster Streamen (OpenGL 3 hardware vereist)</nl>
    <pl>strumieniowanie wideo i nagrywanie ekranu komputera (wymagany sprzęt OpenGL 3)</pl>

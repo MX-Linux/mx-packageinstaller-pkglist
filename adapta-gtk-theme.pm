@@ -38,6 +38,7 @@ Adapta Gtk Theme
    <ko>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</ko>
    <lt>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</lt>
    <mk>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</mk>
+   <mr>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</mr>
    <nb>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</nb>
    <nl>een modern plat Gtk Thema in lichte en donkere varianten, met widgets die neon blauwe highlights hebben</nl>
    <pl>nowoczesny płaski motyw Gtk w jasnych i ciemnych wariantach, z widżetami o neonowo niebieskich wyróżnieniach</pl>

@@ -17,7 +17,7 @@ Open Drive
    <cs>Multi-service cloud storage sync client</cs>
    <da>Multi-service cloud storage sync client</da>
    <de>Multi-service cloud storage sync client</de>
-   <el>Multi-service cloud storage sync client</el>
+   <el>Προγραμματιστής συγχρονισμού αποθήκευσης cloud πολλαπλών υπηρεσιών</el>
    <en>Multi-service cloud storage sync client</en>
    <es>Multi-service cloud storage sync client</es>
    <et>Multi-service cloud storage sync client</et>
@@ -31,18 +31,19 @@ Open Drive
    <hu>Multi-service cloud storage sync client</hu>
    <id>Multi-service cloud storage sync client</id>
    <is>Multi-service cloud storage sync client</is>
-   <it>Multi-service cloud storage sync client</it>
+   <it>Client di sincronizzazione di archiviazione cloud multi-servizio</it>
    <ja_JP>Multi-service cloud storage sync client</ja_JP>
    <ja>Multi-service cloud storage sync client</ja>
    <kk>Multi-service cloud storage sync client</kk>
    <ko>Multi-service cloud storage sync client</ko>
    <lt>Multi-service cloud storage sync client</lt>
    <mk>Multi-service cloud storage sync client</mk>
+   <mr>Multi-service cloud storage sync client</mr>
    <nb>Multi-service cloud storage sync client</nb>
-   <nl>Multi-service cloud storage sync client</nl>
+   <nl>Multi-service cloud-opslag synchronisatieclient</nl>
    <pl>Multi-service cloud storage sync client</pl>
    <pt_BR>Multi-service cloud storage sync client</pt_BR>
-   <pt>Multi-service cloud storage sync client</pt>
+   <pt>Cliente de sincronização de armazenamento em cloud multi-serviços</pt>
    <ro>Multi-service cloud storage sync client</ro>
    <ru>Multi-service cloud storage sync client</ru>
    <sk>Multi-service cloud storage sync client</sk>

@@ -38,6 +38,7 @@ Spanish
    <ko>Spanish Language Meta-Package</ko>
    <lt>Spanish Language Meta-Package</lt>
    <mk>Spanish Language Meta-Package</mk>
+   <mr>Spanish Language Meta-Package</mr>
    <nb>Spanish Language Meta-Package</nb>
    <nl>Spaanse Taal Meta-Pakket</nl>
    <pl>Hiszpański metapakiet językowy</pl>

@@ -38,6 +38,7 @@ Debian 64 bit
    <ko>Default Debian 4.9 kernel Meltdown patched, 64bit</ko>
    <lt>Default Debian 4.9 kernel Meltdown patched, 64bit</lt>
    <mk>Default Debian 4.9 kernel Meltdown patched, 64bit</mk>
+   <mr>Default Debian 4.9 kernel Meltdown patched, 64bit</mr>
    <nb>Default Debian 4.9 kernel Meltdown patched, 64bit</nb>
    <nl>Standaard Debian 4.9 kernel Meltdown patched, 64bit</nl>
    <pl>domyślny Debian 4.9 kernel Meltdown patched, 64bit</pl>
@@ -46,7 +47,7 @@ Debian 64 bit
    <ro>Default Debian 4.9 kernel Meltdown patched, 64bit</ro>
    <ru>Debian ядро по умолчанию 4.9 с патчем от Meltdown, 64bit</ru>
    <sk>Default Debian 4.9 kernel Meltdown patched, 64bit</sk>
-   <sl>Default Debian 4.9 kernel Meltdown patched, 64bit</sl>
+   <sl>Privzeti Debian 4.9 kernel Meltdown patched, 64bit</sl>
    <sq>Default Debian 4.9 kernel Meltdown patched, 64bit</sq>
    <sr>Default Debian 4.9 kernel Meltdown patched, 64bit</sr>
    <sv>Standard Debian 4.9 kärna Meltdown patched, 64bit</sv>

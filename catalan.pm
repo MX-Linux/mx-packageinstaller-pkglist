@@ -38,6 +38,7 @@ Catalan
    <ko>Catalan Language Meta-Package</ko>
    <lt>Catalan Language Meta-Package</lt>
    <mk>Catalan Language Meta-Package</mk>
+   <mr>Catalan Language Meta-Package</mr>
    <nb>Catalan Language Meta-Package</nb>
    <nl>Catalaanse Taal Meta-Pakket</nl>
    <pl>Kataloński metapakiet językowy</pl>

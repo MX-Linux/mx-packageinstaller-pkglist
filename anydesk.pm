@@ -38,6 +38,7 @@ AnyDesk
    <ko>AnyDesk remote access</ko>
    <lt>AnyDesk remote access</lt>
    <mk>AnyDesk remote access</mk>
+   <mr>AnyDesk remote access</mr>
    <nb>AnyDesk remote access</nb>
    <nl>AnyDesk afstand toegang</nl>
    <pl>dostęp zdalny AnyDesk</pl>

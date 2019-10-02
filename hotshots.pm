@@ -39,6 +39,7 @@ Hotshots
    <ko>a Qt-4 based advanced screencapture app</ko>
    <lt>a Qt-4 based advanced screencapture app</lt>
    <mk>a Qt-4 based advanced screencapture app</mk>
+   <mr>a Qt-4 based advanced screencapture app</mr>
    <nb>a Qt-4 based advanced screencapture app</nb>
    <nl>een geavanceerde screencapture-app op basis van Qt-4</nl>
    <pl>zaawansowana aplikacja do wykonywania zrzutów ekranu oparta na Qt-4</pl>
@@ -47,7 +48,7 @@ Hotshots
    <ro>a Qt-4 based advanced screencapture app</ro>
    <ru>Основанное на Qt-4 приложение создания снимков экрана</ru>
    <sk>a Qt-4 based advanced screencapture app</sk>
-   <sl>a Qt-4 based advanced screencapture app</sl>
+   <sl>Napredni zajemalnik zaslona, ki temelji na Qt-4</sl>
    <sq>a Qt-4 based advanced screencapture app</sq>
    <sr>a Qt-4 based advanced screencapture app</sr>
    <sv>en Qt-4 baserad avancerad skärmfilmningsapp</sv>

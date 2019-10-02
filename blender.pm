@@ -38,6 +38,7 @@ Blender
    <ko>a free and open source 3D animation suite</ko>
    <lt>a free and open source 3D animation suite</lt>
    <mk>a free and open source 3D animation suite</mk>
+   <mr>a free and open source 3D animation suite</mr>
    <nb>a free and open source 3D animation suite</nb>
    <nl>een gratis en open source 3D animatie suite</nl>
    <pl>wolne i otwarte oprogramowanie do modelowania i renderowania obrazów oraz animacji 3D</pl>

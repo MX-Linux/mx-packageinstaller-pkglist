@@ -38,6 +38,7 @@ Meld
    <ko>graphical tool to diff and merge files</ko>
    <lt>graphical tool to diff and merge files</lt>
    <mk>graphical tool to diff and merge files</mk>
+   <mr>graphical tool to diff and merge files</mr>
    <nb>graphical tool to diff and merge files</nb>
    <nl>grafisch hulpmiddel om bestanden te scheiden en samen te voegen</nl>
    <pl>graficzne narzędzie do porównywania i scalania plików</pl>
@@ -46,7 +47,7 @@ Meld
    <ro>graphical tool to diff and merge files</ro>
    <ru>Графическая утилита для сравнения и слияния файлов и каталогов</ru>
    <sk>graphical tool to diff and merge files</sk>
-   <sl>graphical tool to diff and merge files</sl>
+   <sl>Grafično orodje za spajanje in lovčevanje datotek</sl>
    <sq>graphical tool to diff and merge files</sq>
    <sr>graphical tool to diff and merge files</sr>
    <sv>grafiskt verktyg för att "diff" och "merge" filer</sv>

@@ -38,6 +38,7 @@ Estonian_Thunderbird
    <ko>Estonian localisation of Thunderbird</ko>
    <lt>Estonian localisation of Thunderbird</lt>
    <mk>Estonian localisation of Thunderbird</mk>
+   <mr>Estonian localisation of Thunderbird</mr>
    <nb>Estonian localisation of Thunderbird</nb>
    <nl>Estische lokalisatie van Thunderbird</nl>
    <pl>Estońska lokalizacja Thunderbirda</pl>
@@ -46,7 +47,7 @@ Estonian_Thunderbird
    <ro>Estonian localisation of Thunderbird</ro>
    <ru>Estonian localisation of Thunderbird</ru>
    <sk>Estonian localisation of Thunderbird</sk>
-   <sl>Estonian localisation of Thunderbird</sl>
+   <sl>Estonska lokalizacjja za Thunderbird</sl>
    <sq>Estonian localisation of Thunderbird</sq>
    <sr>Estonian localisation of Thunderbird</sr>
    <sv>Estnisk lokalisering av Thunderbird</sv>

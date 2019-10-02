@@ -38,6 +38,7 @@ SpaceFM
    <ko>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ko>
    <lt>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</lt>
    <mk>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</mk>
+   <mr>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</mr>
    <nb>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</nb>
    <nl>een bestand en desktop manager met meerdere tabbladen voor stabiliteit, snelheid, gemak en flexibiliteit</nl>
    <pl>wielopanelowy menedżer plików i pulpitu oferujący stabilność, szybkość, wygodę i elastyczność</pl>
@@ -46,7 +47,7 @@ SpaceFM
    <ro>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ro>
    <ru>Мультипанельный менеджер файлов с поддержкой вкладок и окружением рабочего стола</ru>
    <sk>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</sk>
-   <sl>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</sl>
+   <sl>Upravljalnik datotek in namizja z več panoji, ki ponuja stabilnost, hitrost, fleksibilnost in udobje</sl>
    <sq>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</sq>
    <sr>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</sr>
    <sv>en multi-panels fil och skrivbordshanterare med flikar som erbjuder stabilitet, snabbhet, bekvämlighet och flexibilitet</sv>

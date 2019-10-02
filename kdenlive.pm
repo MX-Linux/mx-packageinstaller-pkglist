@@ -38,6 +38,7 @@ Kdenlive
    <ko>the KDE video editor</ko>
    <lt>the KDE video editor</lt>
    <mk>the KDE video editor</mk>
+   <mr>the KDE video editor</mr>
    <nb>the KDE video editor</nb>
    <nl>de KDE video editor</nl>
    <pl>edytor wideo KDE</pl>
@@ -46,7 +47,7 @@ Kdenlive
    <ro>the KDE video editor</ro>
    <ru>Полупрофессиональный нелинейный видео редактор</ru>
    <sk>the KDE video editor</sk>
-   <sl>the KDE video editor</sl>
+   <sl>KDE video urejevalnik</sl>
    <sq>the KDE video editor</sq>
    <sr>the KDE video editor</sr>
    <sv>KDE video redigerare</sv>

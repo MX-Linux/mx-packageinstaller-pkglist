@@ -38,6 +38,7 @@ Gnome Base
    <ko>Minimal install of gnome shell</ko>
    <lt>Minimal install of gnome shell</lt>
    <mk>Minimal install of gnome shell</mk>
+   <mr>Minimal install of gnome shell</mr>
    <nb>Minimal install of gnome shell</nb>
    <nl>Minimale installatie van de gnome shell</nl>
    <pl>minimalna instalalacja powłoki gnome</pl>
@@ -46,7 +47,7 @@ Gnome Base
    <ro>Minimal install of gnome shell</ro>
    <ru>Минимальная установка Gnome Shell</ru>
    <sk>Minimal install of gnome shell</sk>
-   <sl>Minimal install of gnome shell</sl>
+   <sl>Minimalna namestitev gnome ogrodja</sl>
    <sq>Minimal install of gnome shell</sq>
    <sr>Minimal install of gnome shell</sr>
    <sv>Minimal installation av gnome shell</sv>

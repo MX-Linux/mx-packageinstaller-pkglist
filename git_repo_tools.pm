@@ -38,6 +38,7 @@ GIT Tools
    <ko>GIT Repo tools</ko>
    <lt>GIT saugyklos įrankiai</lt>
    <mk>GIT Repo tools</mk>
+   <mr>GIT Repo tools</mr>
    <nb>GIT Repo tools</nb>
    <nl>GIT Pakketbron Gereedschappen</nl>
    <pl>repozytorium narzędzi GIT</pl>

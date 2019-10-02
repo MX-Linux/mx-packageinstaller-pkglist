@@ -38,6 +38,7 @@ Finnish_Firefox
    <ko>Finnish localisation of Firefox</ko>
    <lt>Finnish localisation of Firefox</lt>
    <mk>Finnish localisation of Firefox</mk>
+   <mr>Finnish localisation of Firefox</mr>
    <nb>Finnish localisation of Firefox</nb>
    <nl>Finse lokalisatie van Firefox</nl>
    <pl>Fińska lokalizacja przeglądarki Firefox</pl>

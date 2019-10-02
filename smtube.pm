@@ -38,6 +38,7 @@ SMtube
    <ko>search and download Youtube videos</ko>
    <lt>search and download Youtube videos</lt>
    <mk>search and download Youtube videos</mk>
+   <mr>search and download Youtube videos</mr>
    <nb>search and download Youtube videos</nb>
    <nl>zoek en download Youtube video's</nl>
    <pl>wyszukuj i pobieraj filmy z YouTube</pl>
@@ -46,7 +47,7 @@ SMtube
    <ro>search and download Youtube videos</ro>
    <ru>Поиск и скачивание видео в Youtube</ru>
    <sk>search and download Youtube videos</sk>
-   <sl>search and download Youtube videos</sl>
+   <sl>Išči in prenesivideo posnetke iz Youtube</sl>
    <sq>search and download Youtube videos</sq>
    <sr>search and download Youtube videos</sr>
    <sv>sök och ladda ner Youtube videos</sv>

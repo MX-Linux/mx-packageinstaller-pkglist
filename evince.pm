@@ -38,6 +38,7 @@ Evince
    <ko>a simple document (PostScript, PDF) viewer</ko>
    <lt>paprasta dokumentų (PostScript, PDF) žiūryklė</lt>
    <mk>a simple document (PostScript, PDF) viewer</mk>
+   <mr>a simple document (PostScript, PDF) viewer</mr>
    <nb>a simple document (PostScript, PDF) viewer</nb>
    <nl>een eenvoudige document (PostScript, PDF) lezer</nl>
    <pl>prosta przeglądarka dokumentów (PostScript, PDF)</pl>

@@ -38,6 +38,7 @@ NordVPN - VPN
    <ko>NordVPN - NordVPN client and sysVinit scripts</ko>
    <lt>NordVPN - NordVPN client and sysVinit scripts</lt>
    <mk>NordVPN - NordVPN client and sysVinit scripts</mk>
+   <mr>NordVPN - NordVPN client and sysVinit scripts</mr>
    <nb>NordVPN - NordVPN client and sysVinit scripts</nb>
    <nl>NordVPN - NordVPN cliënt en sysVinit scripts</nl>
    <pl>NordVPN - NordVPN client and sysVinit scripts</pl>
@@ -46,7 +47,7 @@ NordVPN - VPN
    <ro>NordVPN - NordVPN client and sysVinit scripts</ro>
    <ru>Клиент NordVPN и скрипты SysVinit</ru>
    <sk>NordVPN - NordVPN client and sysVinit scripts</sk>
-   <sl>NordVPN - NordVPN client and sysVinit scripts</sl>
+   <sl>NordVPN - NordVPN odjemalec in sysVinit skripte</sl>
    <sq>NordVPN - NordVPN client and sysVinit scripts</sq>
    <sr>NordVPN - NordVPN client and sysVinit scripts</sr>
    <sv>NordVPN - NordVPN klient och sysVinit skript</sv>

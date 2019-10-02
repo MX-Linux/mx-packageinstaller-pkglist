@@ -38,6 +38,7 @@ Mirage
    <ko>fast and simple image viewer</ko>
    <lt>greita ir paprasta paveikslų žiūryklė</lt>
    <mk>fast and simple image viewer</mk>
+   <mr>fast and simple image viewer</mr>
    <nb>fast and simple image viewer</nb>
    <nl>snelle en eenvoudige afbeeldingsweergave</nl>
    <pl>szybka i prosta przeglądarka grafiki i zdjęć</pl>
@@ -46,7 +47,7 @@ Mirage
    <ro>fast and simple image viewer</ro>
    <ru>Быстрый и простой просмотрщик изображений</ru>
    <sk>fast and simple image viewer</sk>
-   <sl>fast and simple image viewer</sl>
+   <sl>Hiter in enostaven pregledovalnik slik</sl>
    <sq>fast and simple image viewer</sq>
    <sr>fast and simple image viewer</sr>
    <sv>snabb och enkel bildvisare</sv>

@@ -38,6 +38,7 @@ Pidgin
    <ko>an easy to use and free chat client</ko>
    <lt>an easy to use and free chat client</lt>
    <mk>an easy to use and free chat client</mk>
+   <mr>an easy to use and free chat client</mr>
    <nb>an easy to use and free chat client</nb>
    <nl>een gebruiksvriendelijk en gratis chatprogramma</nl>
    <pl>łatwy w użyciu i darmowy klient czatu</pl>
@@ -46,7 +47,7 @@ Pidgin
    <ro>an easy to use and free chat client</ro>
    <ru>Простой в использовании многопротокольный клиент мгновенных сообщений</ru>
    <sk>an easy to use and free chat client</sk>
-   <sl>an easy to use and free chat client</sl>
+   <sl>Brezplačen in enostaven odjemalec za klepet</sl>
    <sq>an easy to use and free chat client</sq>
    <sr>an easy to use and free chat client</sr>
    <sv>en lättanvänd och fri chattklient</sv>

@@ -38,6 +38,7 @@ Scratch
    <ko>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</ko>
    <lt>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</lt>
    <mk>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</mk>
+   <mr>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</mr>
    <nb>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</nb>
    <nl>Scratch Grafische Progammeer Omgeving van M.I.T. https://scratch.mit.edu/</nl>
    <pl>programistyczne środowisko graficzne Scratch od M.I.T. https://scratch.mit.edu/</pl>
@@ -46,7 +47,7 @@ Scratch
    <ro>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</ro>
    <ru>Окружение визуального программирования Scratch https://scratch.mit.edu/</ru>
    <sk>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</sk>
-   <sl>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</sl>
+   <sl>Scratch grafično okolje za učenje programiranja (M.I.T. https://scratch.mit.edu/)</sl>
    <sq>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</sq>
    <sr>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</sr>
    <sv>Scratch Grafisk Programmeringsmiljö från M.I.T. https://scratch.mit.edu/</sv>

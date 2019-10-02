@@ -38,6 +38,7 @@ Debian 32 bit w/pae
    <ko>Default Debian 4.9 32bit linux kernel w/PAE</ko>
    <lt>Default Debian 4.9 32bit linux kernel w/PAE</lt>
    <mk>Default Debian 4.9 32bit linux kernel w/PAE</mk>
+   <mr>Default Debian 4.9 32bit linux kernel w/PAE</mr>
    <nb>Default Debian 4.9 32bit linux kernel w/PAE</nb>
    <nl>Standaard Debian 4.9 32bit linux kernel met PAE</nl>
    <pl>domyślny Debian 4.9 32bit linux kernel w/PAE</pl>
@@ -46,7 +47,7 @@ Debian 32 bit w/pae
    <ro>Default Debian 4.9 32bit linux kernel w/PAE</ro>
    <ru>Debian ядро по умолчанию 4.9, 32bit PAE</ru>
    <sk>Default Debian 4.9 32bit linux kernel w/PAE</sk>
-   <sl>Default Debian 4.9 32bit linux kernel w/PAE</sl>
+   <sl>Privzeti Debian 4.9 32bit linux kernel w/PAE</sl>
    <sq>Default Debian 4.9 32bit linux kernel w/PAE</sq>
    <sr>Default Debian 4.9 32bit linux kernel w/PAE</sr>
    <sv>Standard Debian 4.9 32bit linuxkärna med PAE</sv>

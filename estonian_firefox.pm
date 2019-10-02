@@ -38,6 +38,7 @@ Estonian_Firefox
    <ko>Estonian localisation of Firefox</ko>
    <lt>Estonian localisation of Firefox</lt>
    <mk>Estonian localisation of Firefox</mk>
+   <mr>Estonian localisation of Firefox</mr>
    <nb>Estonian localisation of Firefox</nb>
    <nl>Estische lokalisatie van Firefox</nl>
    <pl>Estońska lokalizacja przeglądarki Firefox</pl>
@@ -46,7 +47,7 @@ Estonian_Firefox
    <ro>Estonian localisation of Firefox</ro>
    <ru>Estonian localisation of Firefox</ru>
    <sk>Estonian localisation of Firefox</sk>
-   <sl>Estonian localisation of Firefox</sl>
+   <sl>Estonska lokalizacija za Firefox</sl>
    <sq>Estonian localisation of Firefox</sq>
    <sr>Estonian localisation of Firefox</sr>
    <sv>Estnisk lokalisering av Firefox</sv>

@@ -38,6 +38,7 @@ Liquorix 32 bit no-pae
    <ko>Liquorix Kernel (no PAE, latest 4.x from MX TEST repo)</ko>
    <lt>Liquorix Kernel (no PAE, latest 4.x from MX TEST repo)</lt>
    <mk>Liquorix Kernel (no PAE, latest 4.x from MX TEST repo)</mk>
+   <mr>Liquorix Kernel (no PAE, latest 4.x from MX TEST repo)</mr>
    <nb>Liquorix Kernel (no PAE, latest 4.x from MX TEST repo)</nb>
    <nl>Liquorix Kernel (geen PAE, laatste 4.x vanuit MX TEST pakketbron)</nl>
    <pl>Liquorix Kernel (no PAE, latest 4.x from MX TEST repo)</pl>

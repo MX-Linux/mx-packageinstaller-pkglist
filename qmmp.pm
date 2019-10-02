@@ -38,6 +38,7 @@ Qmmp
    <ko>a winamp/xmms type feature-rich audio player written in Qt</ko>
    <lt>a winamp/xmms type feature-rich audio player written in Qt</lt>
    <mk>a winamp/xmms type feature-rich audio player written in Qt</mk>
+   <mr>a winamp/xmms type feature-rich audio player written in Qt</mr>
    <nb>a winamp/xmms type feature-rich audio player written in Qt</nb>
    <nl>een veelzijdige winamp/xmms achtige audio speler geschreven in Qt</nl>
    <pl>funkcjonalny odtwarzacz audio typu Winamp/xmms napisany w Qt</pl>
@@ -46,7 +47,7 @@ Qmmp
    <ro>a winamp/xmms type feature-rich audio player written in Qt</ro>
    <ru>Многофункциональный аудиоплеер наподобие winamp/xmms</ru>
    <sk>a winamp/xmms type feature-rich audio player written in Qt</sk>
-   <sl>a winamp/xmms type feature-rich audio player written in Qt</sl>
+   <sl>Predvajalnik glasbe, ki je podoben winamp/xmms in ima veliko funkcij, pisan v Qt</sl>
    <sq>a winamp/xmms type feature-rich audio player written in Qt</sq>
    <sr>a winamp/xmms type feature-rich audio player written in Qt</sr>
    <sv>en winamp/xmms typ ljudspelare rik på möjligheter skriven i Qt</sv>

@@ -38,6 +38,7 @@ Chinese_CN_Thunderbird
    <ko>Chinese_simplified localisation of Thunderbird</ko>
    <lt>Chinese_simplified localisation of Thunderbird</lt>
    <mk>Chinese_simplified localisation of Thunderbird</mk>
+   <mr>Chinese_simplified localisation of Thunderbird</mr>
    <nb>Chinese_simplified localisation of Thunderbird</nb>
    <nl>Vereenvoudigd Chinese lokalisatie van Thunderbird</nl>
    <pl>Chiński uproszczony lokalizacja Thunderbirda</pl>

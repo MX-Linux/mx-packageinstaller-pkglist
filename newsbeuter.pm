@@ -38,6 +38,7 @@ Newsbeuter
    <ko>a text mode rss feed reader with podcast support</ko>
    <lt>a text mode rss feed reader with podcast support</lt>
    <mk>a text mode rss feed reader with podcast support</mk>
+   <mr>a text mode rss feed reader with podcast support</mr>
    <nb>a text mode rss feed reader with podcast support</nb>
    <nl>een tekstmodus rss-feedlezer met podcast-ondersteuning</nl>
    <pl>czytnik kanałów RSS w trybie tekstowym z obsługą podcastów</pl>
@@ -46,7 +47,7 @@ Newsbeuter
    <ro>a text mode rss feed reader with podcast support</ro>
    <ru>Текстовый агрегатор новостей RSS с поддержкой подкастов</ru>
    <sk>a text mode rss feed reader with podcast support</sk>
-   <sl>a text mode rss feed reader with podcast support</sl>
+   <sl>Tekstovni bralnik za RSS vire s podporo za podcaste</sl>
    <sq>a text mode rss feed reader with podcast support</sq>
    <sr>a text mode rss feed reader with podcast support</sr>
    <sv>en textläges  rss feed läsare med podcast support</sv>

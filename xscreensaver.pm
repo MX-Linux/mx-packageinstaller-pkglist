@@ -38,6 +38,7 @@ xscreensaver
    <ko>the classic screensaver for X servers</ko>
    <lt>klasikinė ekrano užsklanda, skirta X serveriams</lt>
    <mk>the classic screensaver for X servers</mk>
+   <mr>the classic screensaver for X servers</mr>
    <nb>the classic screensaver for X servers</nb>
    <nl>de klassieke screensaver voor X servers</nl>
    <pl>klasyczny wygaszacz ekranu dla serwerów X</pl>
@@ -46,7 +47,7 @@ xscreensaver
    <ro>the classic screensaver for X servers</ro>
    <ru>классические заставки экрана для X сервера</ru>
    <sk>the classic screensaver for X servers</sk>
-   <sl>the classic screensaver for X servers</sl>
+   <sl>Klasični ohranjevalniki zaslona za X strežnike</sl>
    <sq>the classic screensaver for X servers</sq>
    <sr>the classic screensaver for X servers</sr>
    <sv>klassisk skärmsläckare för X server</sv>

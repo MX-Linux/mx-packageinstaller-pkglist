@@ -38,6 +38,7 @@ Spanish_Firefox
    <ko>Spanish localisation of Firefox</ko>
    <lt>Spanish localisation of Firefox</lt>
    <mk>Spanish localisation of Firefox</mk>
+   <mr>Spanish localisation of Firefox</mr>
    <nb>Spanish localisation of Firefox</nb>
    <nl>Spaanse lokalisatie van Firefox</nl>
    <pl>Hiszpańska lokalizacja przeglądarki Firefox</pl>

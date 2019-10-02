@@ -38,6 +38,7 @@ Vietnamese_Input
    <ko>Vietnamese Fonts and ibus</ko>
    <lt>Vietnamese Fonts and ibus</lt>
    <mk>Vietnamese Fonts and ibus</mk>
+   <mr>Vietnamese Fonts and ibus</mr>
    <nb>Vietnamese Fonts and ibus</nb>
    <nl>Vietnamese Fonts en ibus</nl>
    <pl>Wietnamskie fonty i ibus</pl>

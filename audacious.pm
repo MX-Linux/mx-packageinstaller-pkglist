@@ -38,6 +38,7 @@ Audacious
    <ko>lightweight winamp/xmms like audio player</ko>
    <lt>lightweight winamp/xmms like audio player</lt>
    <mk>lightweight winamp/xmms like audio player</mk>
+   <mr>lightweight winamp/xmms like audio player</mr>
    <nb>lightweight winamp/xmms like audio player</nb>
    <nl>lichtgewicht audio speler als winamp/xmms</nl>
    <pl>lekki odtwarzacz audio podobny do winamp/xmms</pl>

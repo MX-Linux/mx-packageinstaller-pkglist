@@ -31,13 +31,14 @@ additional screensavers
    <hu>extra screensavers</hu>
    <id>extra screensavers</id>
    <is>extra screensavers</is>
-   <it>salvaschermi extra</it>
+   <it>screensaver extra</it>
    <ja_JP>extra screensavers</ja_JP>
    <ja>extra screensavers</ja>
    <kk>extra screensavers</kk>
    <ko>extra screensavers</ko>
    <lt>extra screensavers</lt>
    <mk>extra screensavers</mk>
+   <mr>extra screensavers</mr>
    <nb>extra screensavers</nb>
    <nl>extra screensavers</nl>
    <pl>dodatkowe wygaszacze ekranu</pl>
@@ -46,7 +47,7 @@ additional screensavers
    <ro>extra screensavers</ro>
    <ru>extra screensavers</ru>
    <sk>extra screensavers</sk>
-   <sl>extra screensavers</sl>
+   <sl>Dodatni ohranjevalniki zaslona</sl>
    <sq>extra screensavers</sq>
    <sr>extra screensavers</sr>
    <sv>extra skärmsläckare</sv>

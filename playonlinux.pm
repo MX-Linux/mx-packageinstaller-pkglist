@@ -38,6 +38,7 @@ Play on Linux
    <ko>Play on Linux</ko>
    <lt>Play on Linux</lt>
    <mk>Play on Linux</mk>
+   <mr>Play on Linux</mr>
    <nb>Play on Linux</nb>
    <nl>Speel op Linux</nl>
    <pl>umożliwia łatwą instalację i używanie wielu gier i oprogramowania</pl>
@@ -46,7 +47,7 @@ Play on Linux
    <ro>Play on Linux</ro>
    <ru>Надстройка для запуска игр в окружении Wine</ru>
    <sk>Play on Linux</sk>
-   <sl>Play on Linux</sl>
+   <sl>Igraj v Linuxu</sl>
    <sq>Play on Linux</sq>
    <sr>Play on Linux</sr>
    <sv>Play on Linux</sv>

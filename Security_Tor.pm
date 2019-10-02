@@ -38,6 +38,7 @@ Tor and Privoxy
    <ko>Tor and Privoxy</ko>
    <lt>Tor ir Privoxy</lt>
    <mk>Tor and Privoxy</mk>
+   <mr>Tor and Privoxy</mr>
    <nb>Tor and Privoxy</nb>
    <nl>Tor en Privoxy</nl>
    <pl>przeglądarka Tor i serwer proxy Privoxy</pl>
@@ -46,7 +47,7 @@ Tor and Privoxy
    <ro>Tor and Privoxy</ro>
    <ru>Tor и Privoxy - обеспечение анонимности и фильтрации веб</ru>
    <sk>Tor and Privoxy</sk>
-   <sl>Tor and Privoxy</sl>
+   <sl>Tor in Privoxy</sl>
    <sq>Tor and Privoxy</sq>
    <sr>Tor and Privoxy</sr>
    <sv>Tor och Privoxy</sv>

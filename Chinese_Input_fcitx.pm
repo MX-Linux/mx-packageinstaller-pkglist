@@ -38,6 +38,7 @@ Chinese_Input_fcitx
    <ko>Chinese fcitx</ko>
    <lt>Kinų fcitx</lt>
    <mk>Chinese fcitx</mk>
+   <mr>Chinese fcitx</mr>
    <nb>Chinese fcitx</nb>
    <nl>Chinese fcitx</nl>
    <pl>Chiński fcitx</pl>

@@ -38,6 +38,7 @@ GIMP Basic
    <ko>advanced picture editor - installs GIMP only</ko>
    <lt>išplėstinis paveikslų redaktorius - įdiegia tik GIMP</lt>
    <mk>advanced picture editor - installs GIMP only</mk>
+   <mr>advanced picture editor - installs GIMP only</mr>
    <nb>advanced picture editor - installs GIMP only</nb>
    <nl>geavanceerde foto-editor - installeert alleen GIMP</nl>
    <pl>zaawansowany edytor grafiki i zdjęć - instaluje tylko program GIMP</pl>

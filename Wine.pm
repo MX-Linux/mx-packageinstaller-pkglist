@@ -38,6 +38,7 @@ Wine
    <ko>run Windows applications without a copy of Microsoft Windows</ko>
    <lt>run Windows applications without a copy of Microsoft Windows</lt>
    <mk>run Windows applications without a copy of Microsoft Windows</mk>
+   <mr>run Windows applications without a copy of Microsoft Windows</mr>
    <nb>run Windows applications without a copy of Microsoft Windows</nb>
    <nl>Windowstoepassingen uitvoeren zonder een exemplaar van Microsoft Windows</nl>
    <pl>uruchamiaj aplikacje Windows bez kopii systemu Microsoft Windows</pl>
@@ -46,7 +47,7 @@ Wine
    <ro>run Windows applications without a copy of Microsoft Windows</ro>
    <ru>Запуск приложений для Windows в окружении GNU/Linux</ru>
    <sk>run Windows applications without a copy of Microsoft Windows</sk>
-   <sl>run Windows applications without a copy of Microsoft Windows</sl>
+   <sl>Poženite Windows aplikacije brez kopije Microsoft Windows</sl>
    <sq>run Windows applications without a copy of Microsoft Windows</sq>
    <sr>run Windows applications without a copy of Microsoft Windows</sr>
    <sv>kör Windows applikationer utan Microsoft Windows</sv>

@@ -38,6 +38,7 @@ Japanese_Input
    <ko>Japanese ibus</ko>
    <lt>Japonų ibus</lt>
    <mk>Japanese ibus</mk>
+   <mr>Japanese ibus</mr>
    <nb>Japanese ibus</nb>
    <nl>Japanse ibus</nl>
    <pl>Japoński ibus</pl>

@@ -17,7 +17,7 @@ SoftMaker FreeOffice 2018
    <cs>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</cs>
    <da>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</da>
    <de>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</de>
-   <el>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</el>
+   <el>Το SoftMaker FreeOffice 2018 είναι μια γρήγορη, συμβατή και αξιόπιστη σουίτα γραφείου</el>
    <en>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</en>
    <es>SoftMaker FreeOffice 2018 es una suite ofimática rápida, compatible y confiable</es>
    <et>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</et>
@@ -38,6 +38,7 @@ SoftMaker FreeOffice 2018
    <ko>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ko>
    <lt>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</lt>
    <mk>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</mk>
+   <mr>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</mr>
    <nb>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</nb>
    <nl>SoftMaker FreeOffice 2018 is een snel, geschikt en betrouwbaar officeprogramma</nl>
    <pl>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</pl>

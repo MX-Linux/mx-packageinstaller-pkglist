@@ -38,6 +38,7 @@ Portugese(BR)_Thunderbird
    <ko>Portuguese(BR) localisation of Thunderbird</ko>
    <lt>Portuguese(BR) localisation of Thunderbird</lt>
    <mk>Portuguese(BR) localisation of Thunderbird</mk>
+   <mr>Portuguese(BR) localisation of Thunderbird</mr>
    <nb>Portuguese(BR) localisation of Thunderbird</nb>
    <nl>Portugese(BR) lokalisatie van Thunderbird</nl>
    <pl>Portugalska (BR) lokalizacja Thunderbirda</pl>

@@ -38,6 +38,7 @@ Scribus
    <ko>a desktop page layout program</ko>
    <lt>a desktop page layout program</lt>
    <mk>a desktop page layout program</mk>
+   <mr>a desktop page layout program</mr>
    <nb>a desktop page layout program</nb>
    <nl>a desktop pagina layout programma</nl>
    <pl>program do składu tekstu (DTP), projektowania publikacji i tworzenia plików PDF</pl>
@@ -46,7 +47,7 @@ Scribus
    <ro>a desktop page layout program</ro>
    <ru>Приложение для визуальной вёрстки документов</ru>
    <sk>a desktop page layout program</sk>
-   <sl>a desktop page layout program</sl>
+   <sl>Namizno urejanje preloma strani</sl>
    <sq>a desktop page layout program</sq>
    <sr>a desktop page layout program</sr>
    <sv>ett skrivbords sidlayout-program</sv>

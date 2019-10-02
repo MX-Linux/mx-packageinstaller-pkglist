@@ -38,6 +38,7 @@ mplayer
    <ko>a powerful multimedia player and much more</ko>
    <lt>a powerful multimedia player and much more</lt>
    <mk>a powerful multimedia player and much more</mk>
+   <mr>a powerful multimedia player and much more</mr>
    <nb>a powerful multimedia player and much more</nb>
    <nl>een krachtige multimediaspeler en nog veel meer</nl>
    <pl>potężny odtwarzacz multimedialny i wiele więcej</pl>
@@ -46,7 +47,7 @@ mplayer
    <ro>a powerful multimedia player and much more</ro>
    <ru>Продвинутый медиаплеер и даже больше</ru>
    <sk>a powerful multimedia player and much more</sk>
-   <sl>a powerful multimedia player and much more</sl>
+   <sl>Zmogljiv večpredstavnostni predvajalnik in mnogo več</sl>
    <sq>a powerful multimedia player and much more</sq>
    <sr>a powerful multimedia player and much more</sr>
    <sv>en kraftfull multimediaspelare och mycket mer</sv>

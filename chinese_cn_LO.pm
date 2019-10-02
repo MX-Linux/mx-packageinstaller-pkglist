@@ -38,6 +38,7 @@ Chinese_CN_LO
    <ko>Chinese_simplified localisation of LibreOffice</ko>
    <lt>Chinese_simplified localisation of LibreOffice</lt>
    <mk>Chinese_simplified localisation of LibreOffice</mk>
+   <mr>Chinese_simplified localisation of LibreOffice</mr>
    <nb>Chinese_simplified localisation of LibreOffice</nb>
    <nl>Vereenvoudigd Chinese lokalisatie van LibreOffice</nl>
    <pl>Chiński uproszczony lokalizacja LibreOffice</pl>

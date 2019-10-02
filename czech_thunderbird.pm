@@ -38,6 +38,7 @@ Czech_Thunderbird
    <ko>Czech localisation of Thunderbird</ko>
    <lt>Czech localisation of Thunderbird</lt>
    <mk>Czech localisation of Thunderbird</mk>
+   <mr>Czech localisation of Thunderbird</mr>
    <nb>Czech localisation of Thunderbird</nb>
    <nl>Tjechische lokalisatie van Thunderbird</nl>
    <pl>Czeska lokalizacja Thunderbirda</pl>

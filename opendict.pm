@@ -38,6 +38,7 @@ Dictionary
    <ko>OpenDict Dictionary</ko>
    <lt>OpenDict žodynas</lt>
    <mk>OpenDict Dictionary</mk>
+   <mr>OpenDict Dictionary</mr>
    <nb>OpenDict Dictionary</nb>
    <nl>OpenDict Woordenboek</nl>
    <pl>słownik OpenDict</pl>

@@ -38,6 +38,7 @@ Hungarian_Firefox
    <ko>Hungarian localisation of Firefox</ko>
    <lt>Hungarian localisation of Firefox</lt>
    <mk>Hungarian localisation of Firefox</mk>
+   <mr>Hungarian localisation of Firefox</mr>
    <nb>Hungarian localisation of Firefox</nb>
    <nl>Hongaarse lokalisatie van Firefox</nl>
    <pl>Węgierska lokalizacja przeglądarki Firefox</pl>
@@ -46,7 +47,7 @@ Hungarian_Firefox
    <ro>Hungarian localisation of Firefox</ro>
    <ru>Венгерская локализация Firefox</ru>
    <sk>Hungarian localisation of Firefox</sk>
-   <sl>Hungarian localisation of Firefox</sl>
+   <sl>Madžarska lokalizacija za Firefox</sl>
    <sq>Hungarian localisation of Firefox</sq>
    <sr>Hungarian localisation of Firefox</sr>
    <sv>Ungersk lokalisering av Firefox</sv>
