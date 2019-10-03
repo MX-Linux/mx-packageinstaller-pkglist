@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (19.10.01) mx; urgency=medium
+
+  *  update translations
+  *  update kernel entries
+  *  add apparmor
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 03 Oct 2019 19:51:02 -0400
+
 mx-packageinstaller-pkglist (19.09.03) mx; urgency=medium
 
   * update localwebserver.pm to php7.3 
