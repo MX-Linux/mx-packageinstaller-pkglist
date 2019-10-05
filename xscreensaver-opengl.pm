@@ -79,7 +79,7 @@ xscreensaver-gl-extra
 
 
 <uninstall_package_names>
-xscreensavers-gl
+xscreensaver-gl
 xscreensaver-gl-extra
 </uninstall_package_names>
 </app>
