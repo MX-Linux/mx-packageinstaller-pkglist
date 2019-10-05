@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.10.02) UNRELEASED; urgency=medium
+
+  * fix screensavers-opengl typo 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 05 Oct 2019 13:20:58 -0400
+
 mx-packageinstaller-pkglist (19.10.01) mx; urgency=medium
 
   *  update translations
