@@ -77,7 +77,7 @@ linux-headers-686-pae
 
 <postinstall>
 rm -f /etc/apt/sources.list.d/mxpitemp.list
-/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-686-pae
+rebuild_dkms_packages.sh linux-image-686-pae
 apt-get -y remove linux-image-686-pae linux-headers-686-pae
 apt-get update
 </postinstall>

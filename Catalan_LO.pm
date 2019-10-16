@@ -63,18 +63,19 @@ all
 
 <screenshot>none</screenshot>
 
+
 <preinstall>
+
+package_list="
+libreoffice-l10n-ca
+libreoffice-help-ca
+"
+lo-installer.sh $package_list
 
 </preinstall>
 
 <install_package_names>
-libreoffice-calc
-libreoffice-draw
-libreoffice-impress
-libreoffice-math
-libreoffice-writer
-libreoffice-l10n-ca
-libreoffice-help-ca
+
 </install_package_names>
 
 
@@ -84,11 +85,6 @@ libreoffice-help-ca
 
 
 <uninstall_package_names>
-libreoffice-calc
-libreoffice-draw
-libreoffice-impress
-libreoffice-math
-libreoffice-writer
 libreoffice-l10n-ca
 libreoffice-help-ca
 </uninstall_package_names>

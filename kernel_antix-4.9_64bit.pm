@@ -74,7 +74,7 @@ linux-headers-4.9.193-antix.1-amd64-smp
 
 
 <postinstall>
-/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-4.9.193-antix.1-amd64-smp
+rebuild_dkms_packages.sh linux-image-4.9.193-antix.1-amd64-smp
 </postinstall>
 
 

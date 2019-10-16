@@ -1,8 +1,11 @@
-mx-packageinstaller-pkglist (19.10.02) UNRELEASED; urgency=medium
+mx-packageinstaller-pkglist (19.10.03) mx; urgency=medium
 
   * fix screensavers-opengl typo 
+  * add libreoffice backports functionality
+  * update kernel entries
+  * move rebuild_dkms_packages.sh to /usr/bin
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 05 Oct 2019 13:20:58 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 16 Oct 2019 18:39:49 -0400
 
 mx-packageinstaller-pkglist (19.10.01) mx; urgency=medium
 

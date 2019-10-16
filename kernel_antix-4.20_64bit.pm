@@ -74,7 +74,7 @@ linux-headers-5.2.15-antix.1-amd64-smp
 
 
 <postinstall>
-/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-5.2.15-antix.1-amd64-smp
+rebuild_dkms_packages.sh linux-image-5.2.15-antix.1-amd64-smp
 </postinstall>
 
 

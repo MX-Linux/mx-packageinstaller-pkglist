@@ -64,7 +64,7 @@ Liquorix 32 bit no-pae
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://mxrepo.com/mx/testrepo/ stretch test">/etc/apt/sources.list.d/mxpitemp.list
+echo "deb http://mxrepo.com/mx/testrepo/ buster test">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 </preinstall>
 
@@ -78,7 +78,7 @@ ndiswrapper-dkms
 
 <postinstall>
 rm -f /etc/apt/sources.list.d/mxpitemp.list
-/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-liquorix-686
+rebuild_dkms_packages.sh linux-image-liquorix-686
 apt-get -y remove linux-image-liquorix-686 linux-headers-liquorix-686
 apt-get update
 
