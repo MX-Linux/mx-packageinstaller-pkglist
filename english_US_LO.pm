@@ -63,12 +63,18 @@ all
 
 <screenshot>none</screenshot>
 
+
 <preinstall>
+
+package_list="
+libreoffice-help-en-us
+"
+lo-installer.sh $package_list
 
 </preinstall>
 
 <install_package_names>
-libreoffice-help-en-us
+
 </install_package_names>
 
 

@@ -74,7 +74,7 @@ linux-headers-686
 
 
 <postinstall>
-/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-686
+rebuild_dkms_packages.sh linux-image-686
 </postinstall>
 
 

@@ -74,7 +74,7 @@ linux-headers-amd64
 
 
 <postinstall>
-/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-amd64
+rebuild_dkms_packages.sh linux-image-amd64
 </postinstall>
 
 

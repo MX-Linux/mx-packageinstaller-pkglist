@@ -74,7 +74,7 @@ linux-headers-4.9.193-antix.1-686-smp-pae
 
 
 <postinstall>
-/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-4.9.193-antix.1-686-smp-pae
+rebuild_dkms_packages.sh linux-image-4.9.193-antix.1-686-smp-pae
 </postinstall>
 
 

@@ -64,7 +64,7 @@ Liquorix 64 bit
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://mxrepo.com/mx/testrepo/ stretch test">/etc/apt/sources.list.d/mxpitemp.list
+echo "deb http://mxrepo.com/mx/testrepo/ buster test">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 </preinstall>
 
@@ -78,7 +78,7 @@ ndiswrapper-dkms
 
 <postinstall>
 rm -f /etc/apt/sources.list.d/mxpitemp.list
-/usr/share/mx-packageinstaller-pkglist/rebuild_dkms_packages.sh linux-image-liquorix-amd64
+rebuild_dkms_packages.sh linux-image-liquorix-amd64
 apt-get -y remove linux-image-liquorix-amd64 linux-headers-liquorix-amd64
 apt-get update
 </postinstall>

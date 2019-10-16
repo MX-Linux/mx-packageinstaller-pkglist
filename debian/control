@@ -12,3 +12,27 @@ Depends: mx-packageinstaller (>=18.7.2)
 Description: Part of MX program for installing additional packages.
  MX-packageinstaller is a program used for installing additional packages. 
  MX-packageinstaller-pkglist contains the list of packages and installation instructions.
+
+
+Package: lo-backports-helper
+Architecture: all
+Maintainer: dummy <user@dev.null>
+Conflicts: lo-main-helper
+Provides: lo-backports-helper
+Section: misc
+Priority: optional
+Multi-Arch: foreign
+Description: libreoffice dummy helper package
+ A helper package for MX Package installer.
+ 
+ 
+Package: lo-main-helper
+Architecture: all
+Maintainer: dummy <user@dev.null>
+Conflicts: lo-backports-helper
+Provides: lo-main-helper
+Section: misc
+Priority: optional
+Multi-Arch: foreign
+Description: libreoffice dummy helper package
+ A helper package for MX Package Installer.
