@@ -67,17 +67,18 @@ Waterfox
 </preinstall>
 
 <install_package_names>
-waterfox
-waterfox-locale-$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)
+waterfox-classic-kpe
 </install_package_names>
 
 
 <postinstall>
-
+if [ "$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)" != "en" ]; then 
+apt-get install waterfox-classic-i18n-$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1) 
+fi
 </postinstall>
 
 
 <uninstall_package_names>
-waterfox
+waterfox-classic-kpe
 </uninstall_package_names>
 </app>
