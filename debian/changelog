@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.11.01) mx; urgency=medium
+
+  * update debian kernel entries 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 14 Nov 2019 10:01:27 -0400
+ 
 mx-packageinstaller-pkglist (19.10.05) mx; urgency=medium
 
   * update waterfox entry to new pakcage names 
