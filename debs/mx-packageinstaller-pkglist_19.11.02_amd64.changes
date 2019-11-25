@@ -1,0 +1,39 @@
+Format: 1.8
+Date: Sun, 24 Nov 2019 20:18:43 -0500
+Source: mx-packageinstaller-pkglist
+Binary: lo-backports-helper lo-main-helper mx-packageinstaller-pkglist
+Architecture: source all
+Version: 19.11.02
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ lo-backports-helper - libreoffice dummy helper package
+ lo-main-helper - libreoffice dummy helper package
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (19.11.02) mx; urgency=medium
+ .
+   * revised vivaldi.pm (fehlix)
+Checksums-Sha1:
+ b069b7e4ef142a082a085caafd28faa7f47c879c 850 mx-packageinstaller-pkglist_19.11.02.dsc
+ 3c49e5930514cd187ab10c229a7dd9725aaf87f9 429952 mx-packageinstaller-pkglist_19.11.02.tar.xz
+ 1546c070966af02e0ad66e93e694098739e68d0d 6756 lo-backports-helper_19.11.02_all.deb
+ 7e5b0bbf57a471fc75ad05dda116388b6ae31354 6752 lo-main-helper_19.11.02_all.deb
+ 0ca2f81bce956cce054f4f68a4a5869d582365d1 138468 mx-packageinstaller-pkglist_19.11.02_all.deb
+ 0d8be42b52bf0395edeae0dafe49c6403ddaa832 5323 mx-packageinstaller-pkglist_19.11.02_amd64.buildinfo
+Checksums-Sha256:
+ f786b251f71de8d0b682407d3e896f597971c92f25162063fd3e8803e8404bb2 850 mx-packageinstaller-pkglist_19.11.02.dsc
+ 09ac471cac8835b663df03e9f3dd319c6c98b741703edab196fd48979a7ac180 429952 mx-packageinstaller-pkglist_19.11.02.tar.xz
+ 1dbf367436b780ca2702bd7f1709ce27d336921270cf4f76b17f219442511610 6756 lo-backports-helper_19.11.02_all.deb
+ 1a73ebab1e95d4c29e75a0475c1ebf75848a4b7b2878eaef94e0aac587e544e1 6752 lo-main-helper_19.11.02_all.deb
+ a44a890eae6baad7afde95fe09ce08213a335280a45c461de46baea93f4a852b 138468 mx-packageinstaller-pkglist_19.11.02_all.deb
+ 06218bed073e0e122901126b342256c5f14b3ab3564bf2141f66b66e206a763a 5323 mx-packageinstaller-pkglist_19.11.02_amd64.buildinfo
+Files:
+ aec4fc5112b5290c8f31ab48f2997a5f 850 admin optional mx-packageinstaller-pkglist_19.11.02.dsc
+ 535bb0ae29b9e3d8b71a6fec00a003dd 429952 admin optional mx-packageinstaller-pkglist_19.11.02.tar.xz
+ ee5cd44102b870439275de2241cef968 6756 misc optional lo-backports-helper_19.11.02_all.deb
+ 55a7934e779e1f0d5ab679d4cc50ecad 6752 misc optional lo-main-helper_19.11.02_all.deb
+ aca344ff3d4f975c9a3bba0e1efcb733 138468 admin optional mx-packageinstaller-pkglist_19.11.02_all.deb
+ 27d6e450fa9c97dfb2cf1d7488b9e874 5323 admin optional mx-packageinstaller-pkglist_19.11.02_amd64.buildinfo
