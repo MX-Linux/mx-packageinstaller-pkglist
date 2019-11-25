@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 14 Nov 2019 10:07:12 -0500
+Source: mx-packageinstaller-pkglist
+Binary: lo-backports-helper lo-main-helper mx-packageinstaller-pkglist
+Architecture: source all
+Version: 19.11.01
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ lo-backports-helper - libreoffice dummy helper package
+ lo-main-helper - libreoffice dummy helper package
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (19.11.01) mx; urgency=medium
+ .
+   * update debian kernel entries
+Checksums-Sha1:
+ 456ca0b730e5968f422bcf48df058ddf1115b0ee 1412 mx-packageinstaller-pkglist_19.11.01.dsc
+ e9b074ad7e59c20f0781e55b7c742e9e4aa9a5d4 136088 mx-packageinstaller-pkglist_19.11.01.tar.xz
+ 60527ea32cdb0a7da1bc1fc1048822d9a8975d21 6740 lo-backports-helper_19.11.01_all.deb
+ 5de156afb4d9428d7c859cb047df1fa395c82969 6736 lo-main-helper_19.11.01_all.deb
+ 3fa55dea1b9a5deaefc61efcdc55335dc4f67219 135512 mx-packageinstaller-pkglist_19.11.01_all.deb
+ 1b336051a8805fcdf0dbce5829bd6ed965d87ddc 5745 mx-packageinstaller-pkglist_19.11.01_amd64.buildinfo
+Checksums-Sha256:
+ 26800845fcb03c5a133132f7692a3fcfa78cf5d82b8e11afa691288e147f3559 1412 mx-packageinstaller-pkglist_19.11.01.dsc
+ 43d422d19f532607e8d22d32bf97c69e54c2fe8ba6b9105ee042934249c64e3a 136088 mx-packageinstaller-pkglist_19.11.01.tar.xz
+ 1546b3aba333fba34a26daa1fb1309f920566c42f4ce0f11561011c437946119 6740 lo-backports-helper_19.11.01_all.deb
+ f9fd194d4b038a006ef76183635e4bcce7ebfcccb16f96f0062ae598374f7bb7 6736 lo-main-helper_19.11.01_all.deb
+ 0852411a68389f80a4d27d6951fea3ed89ebcd1acadb77176f19a5e5aabe4c93 135512 mx-packageinstaller-pkglist_19.11.01_all.deb
+ 29b9b3f6aee7524943edd089852a3d1d02fcd2f919ad1398186b3098c6207e5b 5745 mx-packageinstaller-pkglist_19.11.01_amd64.buildinfo
+Files:
+ 1bfb7d8c6b1ec76212199977e586da65 1412 admin optional mx-packageinstaller-pkglist_19.11.01.dsc
+ 8186752495f44ececdc924e3453b1476 136088 admin optional mx-packageinstaller-pkglist_19.11.01.tar.xz
+ f64dad53b57d22c70a311e0377984bf4 6740 misc optional lo-backports-helper_19.11.01_all.deb
+ ccbdbe586467f2d544674c9352ecfc05 6736 misc optional lo-main-helper_19.11.01_all.deb
+ 184157c841519298d35cb2a40c2fa6d5 135512 admin optional mx-packageinstaller-pkglist_19.11.01_all.deb
+ 513d90f0530648b5580967e4c0d1c563 5745 admin optional mx-packageinstaller-pkglist_19.11.01_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl3Nct0THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumDYiB/0Rbi1vtnAjqNmJQ7TLYm2IqLoTRr+b
+/0iHQEXDi++65lWmArFl5AC3duhL5y51sww3XbKqTeJ9xcg6wQE8X5E5qCQSWby+
+XIfwUUs/CuVhe2+gMPaizWeYh9mcuH1IFcj657Yw7PYrLAjfhUmxzlFNeqYDl4I7
+fUPD+RTtpp1Ug7gUa6lngQCsPhnPv7L9fMVUMpWm8L5v8jGLlBNso3prjq5psTuL
+V/8/hqcZDFudkHcua+mW37MEdg9VideNhVB6C9DmNoVqG0gled+dIGKk1VLAiLPx
+d1O58anbD14i8eDJAa2F6x6pDfbw9lfFCydSo6cmrCeuBmfOTB4LYjLg
+=j/Ou
+-----END PGP SIGNATURE-----
