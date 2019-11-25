@@ -1,6 +1,12 @@
+mx-packageinstaller-pkglist (19.11.01) mx; urgency=medium
+
+  * revised vivaldi.pm (fehlix)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 24 Nov 2019 20:18:43 -0500
+
 mx-packageinstaller-pkglist (19.10.05) mx; urgency=medium
 
-  * update waterfox entry to new pakcage names 
+  * update waterfox entry to new package names 
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 27 Oct 2019 22:40:18 -0400
 
