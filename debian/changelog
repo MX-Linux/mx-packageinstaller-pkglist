@@ -1,8 +1,14 @@
-mx-packageinstaller-pkglist (19.11.01) mx; urgency=medium
+mx-packageinstaller-pkglist (19.11.02) mx; urgency=medium
 
   * revised vivaldi.pm (fehlix)
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 24 Nov 2019 20:18:43 -0500
+
+mx-packageinstaller-pkglist (19.11.01) mx; urgency=medium
+
+  * update debian kernel entries 
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 14 Nov 2019 10:07:12 -0500
 
 mx-packageinstaller-pkglist (19.10.05) mx; urgency=medium
 
