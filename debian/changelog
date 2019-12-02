@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.11.03) mx; urgency=medium
+
+  * add mx-fluxbox entry in window manager
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 01 Dec 2019 19:56:51 -0500
+
 mx-packageinstaller-pkglist (19.11.02) mx; urgency=medium
 
   * revised vivaldi.pm (fehlix)
