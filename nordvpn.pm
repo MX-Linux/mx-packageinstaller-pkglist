@@ -64,15 +64,19 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
+# purge obsolete nordvpn-sysvinit-compat 
+if dpkg-query -f '${db:Status-Abbrev}' -W nordvpn-sysvinit-compat  2>/dev/null 1>/dev/null; then
+apt-get -y remove --purge nordvpn-sysvinit-compat
+fi
+rm /tmp/nordvpn-release.deb 2>/dev/null
 wget https://repo.nordvpn.com/deb/nordvpn/debian/pool/main/nordvpn-release_1.0.0_all.deb -O /tmp/nordvpn-release.deb
 dpkg -i /tmp/nordvpn-release.deb
 rm /tmp/nordvpn-release.deb
 apt-get update
-apt-get install nordvpn
 </preinstall>
 
 <install_package_names>
-nordvpn-sysvinit-compat
+nordvpn
 </install_package_names>
 
 <postinstall>
@@ -81,6 +85,13 @@ nordvpn-sysvinit-compat
 
 <uninstall_package_names>
 nordvpn
-nordvpn-sysvinit-compat
 </uninstall_package_names>
+
+<postuninstall>
+# purge obsolete nordvpn-sysvinit-compat 
+if dpkg-query -f '${db:Status-Abbrev}' -W nordvpn-sysvinit-compat  2>/dev/null 1>/dev/null; then
+apt-get -y remove --purge nordvpn-sysvinit-compat
+fi
+</postuninstall>
+
 </app>
