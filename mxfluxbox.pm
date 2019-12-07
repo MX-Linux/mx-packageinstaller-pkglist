@@ -71,6 +71,7 @@ all
 fluxbox
 idesk
 mx-fluxbox
+gkrellm
 </install_package_names>
 
 
@@ -83,5 +84,6 @@ mx-fluxbox
 fluxbox
 idesk
 mx-fluxbox
+gkrellm
 </uninstall_package_names>
 </app>
