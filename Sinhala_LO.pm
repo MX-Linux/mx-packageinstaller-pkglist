@@ -10,51 +10,52 @@ Sinhala_Libreoffice
 </name>
 
 <description>
-   <am>Sinhala Language Meta-Package for LibreOffice</am>
-   <ar>Sinhala Language Meta-Package for LibreOffice</ar>
-   <bg>Sinhala Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Sinhala per LibreOffice</ca>
-   <cs>Sinhala Language Meta-Package for LibreOffice</cs>
-   <da>Sinhala sprog-metapakke til LibreOffice</da>
-   <de>Sinhala Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Sinhala</el>
-   <en>Sinhala Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Sinhala para LibreOffice</es>
-   <et>Sinhala Language Meta-Package for LibreOffice</et>
-   <eu>Sinhala Language Meta-Package for LibreOffice</eu>
-   <fa>Sinhala Language Meta-Package for LibreOffice</fa>
-   <fi>Sinhala Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Sinhala pour LibreOffice</fr>
-   <he_IL>Sinhala Language Meta-Package for LibreOffice</he_IL>
-   <hi>Sinhala Language Meta-Package for LibreOffice</hi>
-   <hr>Sinhala Language Meta-Package for LibreOffice</hr>
-   <hu>Sinhala Language Meta-Package for LibreOffice</hu>
-   <id>Sinhala Language Meta-Package for LibreOffice</id>
-   <is>Sinhala Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Sinhala per LibreOffice</it>
-   <ja_JP>Sinhala Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Sinhala Language Meta-Package for LibreOffice</ja>
-   <kk>Sinhala Language Meta-Package for LibreOffice</kk>
-   <ko>Sinhala Language Meta-Package for LibreOffice</ko>
-   <lt>Sinhala Language Meta-Package for LibreOffice</lt>
-   <mk>Sinhala Language Meta-Package for LibreOffice</mk>
-   <mr>Sinhala Language Meta-Package for LibreOffice</mr>
-   <nb>Sinhala Language Meta-Package for LibreOffice</nb>
-   <nl>Sinhala Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Sinhala metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Sinhala Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Sinhala Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Sinhala Language Meta-Package for LibreOffice</ro>
-   <ru>Sinhala Language Meta-Package for LibreOffice</ru>
-   <sk>Sinhala Language Meta-Package for LibreOffice</sk>
-   <sl>Sinhala Language Meta-Package for LibreOffice</sl>
-   <sq>Sinhala Language Meta-Package for LibreOffice</sq>
-   <sr>Sinhala Language Meta-Package for LibreOffice</sr>
-   <sv>Sinhala Språk Meta-Paket för LibreOffice</sv>
-   <tr>Sinhala Language Meta-Package for LibreOffice</tr>
-   <uk>Sinhala Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Sinhala Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Sinhala Language Meta-Package for LibreOffice</zh_TW>
+   <am>Peer-to-peer video, voice, messaging</am>
+   <ar>Peer-to-peer video, voice, messaging</ar>
+   <bg>Peer-to-peer video, voice, messaging</bg>
+   <ca>Missatgeria peer-to-peer de vídeo i veu</ca>
+   <cs>Peer-to-peer video, voice, messaging</cs>
+   <da>Modpart-til-modpart video, stemme, samtale</da>
+   <de>Peer-to-Peer-Video, Sprache, Messaging</de>
+   <el>Peer-to-peer βίντεο, φωνή, μηνύματα</el>
+   <en>Peer-to-peer video, voice, messaging</en>
+   <es>Vídeo entre pares, voz, mensajería</es>
+   <et>Peer-to-peer video, voice, messaging</et>
+   <eu>Peer-to-peer video, voice, messaging</eu>
+   <fa>Peer-to-peer video, voice, messaging</fa>
+   <fil_PH>Peer-to-peer video, voice, messaging</fil_PH>
+   <fi>Peer-to-peer video, voice, messaging</fi>
+   <fr>Messagerie vocale, vidéo, peer-to-peer</fr>
+   <he_IL>Peer-to-peer video, voice, messaging</he_IL>
+   <hi>Peer-to-peer video, voice, messaging</hi>
+   <hr>Peer-to-peer video, voice, messaging</hr>
+   <hu>Peer-to-peer video, voice, messaging</hu>
+   <id>Peer-to-peer video, voice, messaging</id>
+   <is>Peer-to-peer video, voice, messaging</is>
+   <it>Peer-to-peer video, voce e messaggi</it>
+   <ja_JP>Peer-to-peer video, voice, messaging</ja_JP>
+   <ja>Peer-to-peer video, voice, messaging</ja>
+   <kk>Peer-to-peer video, voice, messaging</kk>
+   <ko>Peer-to-peer video, voice, messaging</ko>
+   <lt>Peer-to-peer video, voice, messaging</lt>
+   <mk>Peer-to-peer video, voice, messaging</mk>
+   <mr>Peer-to-peer video, voice, messaging</mr>
+   <nb>Peer-to-peer video, voice, messaging</nb>
+   <nl>Peer-to-peer video, voice, berichten</nl>
+   <pl>wideo, głos, przesyłanie wiadomości typu peer-to-peer</pl>
+   <pt_BR>Peer-to-peer video, voice, messaging</pt_BR>
+   <pt>Peer-to-peer video, voice, messaging</pt>
+   <ro>Peer-to-peer video, voice, messaging</ro>
+   <ru>Голосовая и видеосвязь (IP-телефония)</ru>
+   <sk>Peer-to-peer video, voice, messaging</sk>
+   <sl>Peer-to-peer video, zvok, sporočila</sl>
+   <sq>Peer-to-peer video, voice, messaging</sq>
+   <sr>Peer-to-peer video, voice, messaging</sr>
+   <sv>Peer-to-peer video, röst, meddelandetjänst</sv>
+   <tr>Peer-to-peer video, voice, messaging</tr>
+   <uk>Peer-to-peer video, voice, messaging</uk>
+   <zh_CN>Peer-to-peer video, voice, messaging</zh_CN>
+   <zh_TW>Peer-to-peer video, voice, messaging</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ additional screensavers
 </name>
 
 <description>
-   <am>extra screensavers</am>
-   <ar>extra screensavers</ar>
-   <bg>extra screensavers</bg>
-   <ca>Estalvis de pantalla addicionals</ca>
-   <cs>extra screensavers</cs>
-   <da>ekstra pauseskærme</da>
-   <de>zusätzliche Bildschirmschoner</de>
-   <el>επιπλέον προφύλαξη οθόνης</el>
-   <en>extra screensavers</en>
-   <es>Salvapantallas extra</es>
-   <et>extra screensavers</et>
-   <eu>extra screensavers</eu>
-   <fa>extra screensavers</fa>
-   <fi>extra screensavers</fi>
-   <fr>écrans de veille supplémentaires</fr>
-   <he_IL>extra screensavers</he_IL>
-   <hi>extra screensavers</hi>
-   <hr>extra screensavers</hr>
-   <hu>extra screensavers</hu>
-   <id>extra screensavers</id>
-   <is>extra screensavers</is>
-   <it>screensaver extra</it>
-   <ja_JP>extra screensavers</ja_JP>
-   <ja>extra screensavers</ja>
-   <kk>extra screensavers</kk>
-   <ko>extra screensavers</ko>
-   <lt>extra screensavers</lt>
-   <mk>extra screensavers</mk>
-   <mr>extra screensavers</mr>
-   <nb>extra screensavers</nb>
-   <nl>extra screensavers</nl>
-   <pl>dodatkowe wygaszacze ekranu</pl>
-   <pt_BR>Proteções de tela adicionais</pt_BR>
-   <pt>protetores de ecrã extra</pt>
-   <ro>extra screensavers</ro>
-   <ru>extra screensavers</ru>
-   <sk>extra screensavers</sk>
-   <sl>Dodatni ohranjevalniki zaslona</sl>
-   <sq>extra screensavers</sq>
-   <sr>extra screensavers</sr>
-   <sv>extra skärmsläckare</sv>
-   <tr>extra screensavers</tr>
-   <uk>extra screensavers</uk>
-   <zh_CN>extra screensavers</zh_CN>
-   <zh_TW>extra screensavers</zh_TW>
+   <am>extra opengl screensavers</am>
+   <ar>extra opengl screensavers</ar>
+   <bg>extra opengl screensavers</bg>
+   <ca>estalvis de pantalla opengl addicionals</ca>
+   <cs>extra opengl screensavers</cs>
+   <da>ekstra opengl-pauseskærme</da>
+   <de>zusätzliche opengl Bildschirmschoner</de>
+   <el>επιπλέον προφύλαξη οθόνης opengl</el>
+   <en>extra opengl screensavers</en>
+   <es>Salvapantallas opengl extra</es>
+   <et>extra opengl screensavers</et>
+   <eu>extra opengl screensavers</eu>
+   <fa>extra opengl screensavers</fa>
+   <fil_PH>extra opengl screensavers</fil_PH>
+   <fi>extra opengl screensavers</fi>
+   <fr>écrans de veille opengl supplémentaires</fr>
+   <he_IL>extra opengl screensavers</he_IL>
+   <hi>extra opengl screensavers</hi>
+   <hr>extra opengl screensavers</hr>
+   <hu>extra opengl screensavers</hu>
+   <id>extra opengl screensavers</id>
+   <is>extra opengl screensavers</is>
+   <it>screensaver opengl extra</it>
+   <ja_JP>extra opengl screensavers</ja_JP>
+   <ja>extra opengl screensavers</ja>
+   <kk>extra opengl screensavers</kk>
+   <ko>extra opengl screensavers</ko>
+   <lt>extra opengl screensavers</lt>
+   <mk>extra opengl screensavers</mk>
+   <mr>extra opengl screensavers</mr>
+   <nb>extra opengl screensavers</nb>
+   <nl>extra opengl screensavers</nl>
+   <pl>dodatkowe wygaszacze ekranu openGL</pl>
+   <pt_BR>Proteções de tela opengl adicionais</pt_BR>
+   <pt>protetores de ecrã opengl extra</pt>
+   <ro>extra opengl screensavers</ro>
+   <ru>дополнительные opengl скринсэйверы</ru>
+   <sk>extra opengl screensavers</sk>
+   <sl>Dodatni opengl ohranjevalniki zaslona</sl>
+   <sq>extra opengl screensavers</sq>
+   <sr>extra opengl screensavers</sr>
+   <sv>extra opengl skärmsläckare</sv>
+   <tr>extra opengl screensavers</tr>
+   <uk>extra opengl screensavers</uk>
+   <zh_CN>extra opengl screensavers</zh_CN>
+   <zh_TW>extra opengl screensavers</zh_TW>
 </description>
 
 <installable>

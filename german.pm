@@ -10,51 +10,52 @@ German
 </name>
 
 <description>
-   <am>German Language Meta-Package</am>
-   <ar>German Language Meta-Package</ar>
-   <bg>German Language Meta-Package</bg>
-   <ca>Meta-paquet de llengua alemanya</ca>
-   <cs>German Language Meta-Package</cs>
-   <da>Tysk sprog-metapakke</da>
-   <de>Deutsches Sprach-Meta-Paket</de>
-   <el>Γερμανική γλώσσα</el>
-   <en>German Language Meta-Package</en>
-   <es>Meta-Paquete de Idioma Alemán</es>
-   <et>German Language Meta-Package</et>
-   <eu>German Language Meta-Package</eu>
-   <fa>German Language Meta-Package</fa>
-   <fi>German Language Meta-Package</fi>
-   <fr>Méta-paquet pour langue allemande</fr>
-   <he_IL>German Language Meta-Package</he_IL>
-   <hi>German Language Meta-Package</hi>
-   <hr>German Language Meta-Package</hr>
-   <hu>German Language Meta-Package</hu>
-   <id>German Language Meta-Package</id>
-   <is>German Language Meta-Package</is>
-   <it>Meta-pacchetto della lingua tedesca</it>
-   <ja_JP>German Language Meta-Package</ja_JP>
-   <ja>German Language Meta-Package</ja>
-   <kk>German Language Meta-Package</kk>
-   <ko>German Language Meta-Package</ko>
-   <lt>German Language Meta-Package</lt>
-   <mk>German Language Meta-Package</mk>
-   <mr>German Language Meta-Package</mr>
-   <nb>German Language Meta-Package</nb>
-   <nl>Duitse Taal Meta-Pakket</nl>
-   <pl>Niemiecki metapakiet językowy</pl>
-   <pt_BR>Alemão Meta-Pacote de Idioma</pt_BR>
-   <pt>Alemão Meta-Pacote de Idioma</pt>
-   <ro>German Language Meta-Package</ro>
-   <ru>German Language Meta-Package</ru>
-   <sk>German Language Meta-Package</sk>
-   <sl>German Language Meta-Package</sl>
-   <sq>German Language Meta-Package</sq>
-   <sr>German Language Meta-Package</sr>
-   <sv>Tyskt Språk Meta-Paket</sv>
-   <tr>German Language Meta-Package</tr>
-   <uk>German Language Meta-Package</uk>
-   <zh_CN>German Language Meta-Package</zh_CN>
-   <zh_TW>German Language Meta-Package</zh_TW>
+   <am>German localisation of Thunderbird</am>
+   <ar>German localisation of Thunderbird</ar>
+   <bg>German localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Alemany</ca>
+   <cs>German localisation of Thunderbird</cs>
+   <da>Tysk oversættelse af Thunderbird</da>
+   <de>Deutsche Lokalisierung von Thunderbird</de>
+   <el>Γερμανικός εντοπισμός του Thunderbird</el>
+   <en>German localisation of Thunderbird</en>
+   <es>Localización Alemana de Thunderbird</es>
+   <et>German localisation of Thunderbird</et>
+   <eu>German localisation of Thunderbird</eu>
+   <fa>German localisation of Thunderbird</fa>
+   <fil_PH>German localisation of Thunderbird</fil_PH>
+   <fi>German localisation of Thunderbird</fi>
+   <fr>Localisation allemande pour Thunderbird</fr>
+   <he_IL>German localisation of Thunderbird</he_IL>
+   <hi>German localisation of Thunderbird</hi>
+   <hr>German localisation of Thunderbird</hr>
+   <hu>German localisation of Thunderbird</hu>
+   <id>German localisation of Thunderbird</id>
+   <is>German localisation of Thunderbird</is>
+   <it>Localizzazione tedesca di Thunderbird</it>
+   <ja_JP>German localisation of Thunderbird</ja_JP>
+   <ja>German localisation of Thunderbird</ja>
+   <kk>German localisation of Thunderbird</kk>
+   <ko>German localisation of Thunderbird</ko>
+   <lt>German localisation of Thunderbird</lt>
+   <mk>German localisation of Thunderbird</mk>
+   <mr>German localisation of Thunderbird</mr>
+   <nb>German localisation of Thunderbird</nb>
+   <nl>Duitse lokalisatie van Thunderbird</nl>
+   <pl>Niemiecka lokalizacja Thunderbirda</pl>
+   <pt_BR>Alemão Localização para Thunderbird</pt_BR>
+   <pt>Alemão Localização para Thunderbird</pt>
+   <ro>German localisation of Thunderbird</ro>
+   <ru>German localisation of Thunderbird</ru>
+   <sk>German localisation of Thunderbird</sk>
+   <sl>German localisation of Thunderbird</sl>
+   <sq>German localisation of Thunderbird</sq>
+   <sr>German localisation of Thunderbird</sr>
+   <sv>Tysk lokalisering av Thunderbird</sv>
+   <tr>Thunderbird'ün Almanca yerelleştirmesi</tr>
+   <uk>German локалізація Thunderbird</uk>
+   <zh_CN>German localisation of Thunderbird</zh_CN>
+   <zh_TW>German localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

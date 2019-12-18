@@ -10,51 +10,52 @@ Chinese_Input
 </name>
 
 <description>
-   <am>Chinese ibus</am>
-   <ar>Chinese ibus</ar>
-   <bg>Chinese ibus</bg>
-   <ca>IBUS en Xinès</ca>
-   <cs>Chinese ibus</cs>
-   <da>Kinesisk ibus</da>
-   <de>Chinesischer IBus</de>
-   <el>Κινέζικα ibus</el>
-   <en>Chinese ibus</en>
-   <es>ibus Chino</es>
-   <et>Chinese ibus</et>
-   <eu>Chinese ibus</eu>
-   <fa>Chinese ibus</fa>
-   <fi>Chinese ibus</fi>
-   <fr>Chinois ibus</fr>
-   <he_IL>Chinese ibus</he_IL>
-   <hi>Chinese ibus</hi>
-   <hr>Chinese ibus</hr>
-   <hu>Chinese ibus</hu>
-   <id>Chinese ibus</id>
-   <is>Chinese ibus</is>
-   <it>Chinese ibus</it>
-   <ja_JP>Chinese ibus</ja_JP>
-   <ja>Chinese ibus</ja>
-   <kk>Chinese ibus</kk>
-   <ko>Chinese ibus</ko>
-   <lt>Kinų ibus</lt>
-   <mk>Chinese ibus</mk>
-   <mr>Chinese ibus</mr>
-   <nb>Chinese ibus</nb>
-   <nl>Chinese ibus</nl>
-   <pl>Chiński ibus</pl>
-   <pt_BR>Chinês ibus</pt_BR>
-   <pt>Chinês ibus</pt>
-   <ro>Chinese ibus</ro>
-   <ru>Chinese ibus</ru>
-   <sk>Chinese ibus</sk>
-   <sl>Chinese ibus</sl>
-   <sq>Chinese ibus</sq>
-   <sr>Chinese ibus</sr>
-   <sv>Kinesisk ibus</sv>
-   <tr>Chinese ibus</tr>
-   <uk>Chinese ibus</uk>
-   <zh_CN>Chinese ibus</zh_CN>
-   <zh_TW>Chinese ibus</zh_TW>
+   <am>Chinese_traditional localisation of LibreOffice</am>
+   <ar>Chinese_traditional localisation of LibreOffice</ar>
+   <bg>Chinese_traditional localisation of LibreOffice</bg>
+   <ca>Localització de LibreOffice en Xinès tradicional</ca>
+   <cs>Chinese_traditional localisation of LibreOffice</cs>
+   <da>Kinesisk (traditionel) oversættelse af LibreOffice</da>
+   <de>Chinesische (traditionell) Lokalisierung von LibreOffice</de>
+   <el>LibreOffice για παραδοσιακά κινεζικά</el>
+   <en>Chinese_traditional localisation of LibreOffice</en>
+   <es>Localización Chino tradicional de LibreOffice</es>
+   <et>Chinese_traditional localisation of LibreOffice</et>
+   <eu>Chinese_traditional localisation of LibreOffice</eu>
+   <fa>Chinese_traditional localisation of LibreOffice</fa>
+   <fil_PH>Chinese_traditional localisation of LibreOffice</fil_PH>
+   <fi>Chinese_traditional localisation of LibreOffice</fi>
+   <fr>Localisation chinois-traditionnel pour LibreOffice</fr>
+   <he_IL>Chinese_traditional localisation of LibreOffice</he_IL>
+   <hi>Chinese_traditional localisation of LibreOffice</hi>
+   <hr>Chinese_traditional localisation of LibreOffice</hr>
+   <hu>Chinese_traditional localisation of LibreOffice</hu>
+   <id>Chinese_traditional localisation of LibreOffice</id>
+   <is>Chinese_traditional localisation of LibreOffice</is>
+   <it>Localizzazione in Cinese_tradizionale di LibreOffice</it>
+   <ja_JP>Chinese_traditional localisation of LibreOffice</ja_JP>
+   <ja>Chinese_traditional localisation of LibreOffice</ja>
+   <kk>Chinese_traditional localisation of LibreOffice</kk>
+   <ko>Chinese_traditional localisation of LibreOffice</ko>
+   <lt>Chinese_traditional localisation of LibreOffice</lt>
+   <mk>Chinese_traditional localisation of LibreOffice</mk>
+   <mr>Chinese_traditional localisation of LibreOffice</mr>
+   <nb>Chinese_traditional localisation of LibreOffice</nb>
+   <nl>Traditioneel Chinese lokalisatie van LibreOffice</nl>
+   <pl>Chiński tradycyjny lokalizacja LibreOffice</pl>
+   <pt_BR>Chinês_tradicional Localização para LibreOffice</pt_BR>
+   <pt>Chinês_tradicional Localização para LibreOffice</pt>
+   <ro>Chinese_traditional localisation of LibreOffice</ro>
+   <ru>Chinese_traditional localisation of LibreOffice</ru>
+   <sk>Chinese_traditional localisation of LibreOffice</sk>
+   <sl>Chinese_traditional localisation of LibreOffice</sl>
+   <sq>Chinese_traditional localisation of LibreOffice</sq>
+   <sr>Chinese_traditional localisation of LibreOffice</sr>
+   <sv>Kinesisk_traditionell lokalisering av LibreOffice</sv>
+   <tr>Chinese_traditional localisation of LibreOffice</tr>
+   <uk>Chinese_traditional локалізація LibreOffice</uk>
+   <zh_CN>Chinese_traditional localisation of LibreOffice</zh_CN>
+   <zh_TW>Chinese_traditional localisation of LibreOffice</zh_TW>
 </description>
 
 <installable>

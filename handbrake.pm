@@ -10,51 +10,52 @@ Handbrake
 </name>
 
 <description>
-   <am>versatile DVD ripper and video transcoder (cli and GUI)</am>
-   <ar>versatile DVD ripper and video transcoder (cli and GUI)</ar>
-   <bg>versatile DVD ripper and video transcoder (cli and GUI)</bg>
-   <ca>gravador de DVDs i transcodificador de vídeo versàtil (IGU i consola)</ca>
-   <cs>versatile DVD ripper and video transcoder (cli and GUI)</cs>
-   <da>alsidig DVD-ripper og -videotranskoder (kommandolinje og grafisk brugerflade)</da>
-   <de>Vielseitiger DVD-Ripper und Video-Transcoder (Cli und GUI)</de>
-   <el>ευέλικτο DVD ripper και video transcoder (cli και GUI)</el>
-   <en>versatile DVD ripper and video transcoder (cli and GUI)</en>
-   <es>Versátil DVD ripper y transcodificador de vídeo (CLI y GUI)</es>
-   <et>versatile DVD ripper and video transcoder (cli and GUI)</et>
-   <eu>versatile DVD ripper and video transcoder (cli and GUI)</eu>
-   <fa>versatile DVD ripper and video transcoder (cli and GUI)</fa>
-   <fi>versatile DVD ripper and video transcoder (cli and GUI)</fi>
-   <fr>Extracteur de DVD et transcodeur vidéo (cli and GUI)</fr>
-   <he_IL>versatile DVD ripper and video transcoder (cli and GUI)</he_IL>
-   <hi>versatile DVD ripper and video transcoder (cli and GUI)</hi>
-   <hr>versatile DVD ripper and video transcoder (cli and GUI)</hr>
-   <hu>versatile DVD ripper and video transcoder (cli and GUI)</hu>
-   <id>versatile DVD ripper and video transcoder (cli and GUI)</id>
-   <is>versatile DVD ripper and video transcoder (cli and GUI)</is>
-   <it>versatile etrattore audio da DVD e transcoder video (CLI e GUI)</it>
-   <ja_JP>versatile DVD ripper and video transcoder (cli and GUI)</ja_JP>
-   <ja>versatile DVD ripper and video transcoder (cli and GUI)</ja>
-   <kk>versatile DVD ripper and video transcoder (cli and GUI)</kk>
-   <ko>versatile DVD ripper and video transcoder (cli and GUI)</ko>
-   <lt>versatile DVD ripper and video transcoder (cli and GUI)</lt>
-   <mk>versatile DVD ripper and video transcoder (cli and GUI)</mk>
-   <mr>versatile DVD ripper and video transcoder (cli and GUI)</mr>
-   <nb>versatile DVD ripper and video transcoder (cli and GUI)</nb>
-   <nl>veelzijdige DVD ripper en video transcoder (cli en GUI)</nl>
-   <pl>wszechstronny ripper DVD i transkoder wideo (CLI i GUI)</pl>
-   <pt_BR>Versátil extractor de dados de DVDs (DVD ripper) e transcodificador de vídeo (por consola e interface gáfica)</pt_BR>
-   <pt>Versátil extractor de dados de DVDs (DVD ripper) e transcodificador de vídeo (por consola e interface gáfica)</pt>
-   <ro>versatile DVD ripper and video transcoder (cli and GUI)</ro>
-   <ru>Многофункциональный DVD риппер и перекодировщик видео</ru>
-   <sk>versatile DVD ripper and video transcoder (cli and GUI)</sk>
-   <sl>Vsestranski zajemalnik DVDjev in video transkoder (ukazna vrstica in grafični vmesnik)</sl>
-   <sq>versatile DVD ripper and video transcoder (cli and GUI)</sq>
-   <sr>versatile DVD ripper and video transcoder (cli and GUI)</sr>
-   <sv>mångsidig DVD ripper och video transcoder (cli och GUI)</sv>
-   <tr>versatile DVD ripper and video transcoder (cli and GUI)</tr>
-   <uk>універсальний DVD витягувач та відео перетворювач (графічний та консольний)</uk>
-   <zh_CN>versatile DVD ripper and video transcoder (cli and GUI)</zh_CN>
-   <zh_TW>versatile DVD ripper and video transcoder (cli and GUI)</zh_TW>
+   <am>Hebrew Language Meta-Package for LibreOffice</am>
+   <ar>Hebrew Language Meta-Package for LibreOffice</ar>
+   <bg>Hebrew Language Meta-Package for LibreOffice</bg>
+   <ca>Metpaquet d'idioma Hebreu per LibreOffice</ca>
+   <cs>Hebrew Language Meta-Package for LibreOffice</cs>
+   <da>Hebrew Language Meta-Package for LibreOffice</da>
+   <de>Hebräisches Meta-Paket für LibreOffice</de>
+   <el>Hebrew Language Meta-Package for LibreOffice</el>
+   <en>Hebrew Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de idioma hebreo para LibreOffice</es>
+   <et>Hebrew Language Meta-Package for LibreOffice</et>
+   <eu>Hebrew Language Meta-Package for LibreOffice</eu>
+   <fa>Hebrew Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Hebrew Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Hebrew Language Meta-Package for LibreOffice</fi>
+   <fr>Hebrew Language Meta-Package for LibreOffice</fr>
+   <he_IL>Hebrew Language Meta-Package for LibreOffice</he_IL>
+   <hi>Hebrew Language Meta-Package for LibreOffice</hi>
+   <hr>Hebrew Language Meta-Package for LibreOffice</hr>
+   <hu>Hebrew Language Meta-Package for LibreOffice</hu>
+   <id>Hebrew Language Meta-Package for LibreOffice</id>
+   <is>Hebrew Language Meta-Package for LibreOffice</is>
+   <it>Hebrew Language Meta-Package for LibreOffice</it>
+   <ja_JP>Hebrew Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Hebrew Language Meta-Package for LibreOffice</ja>
+   <kk>Hebrew Language Meta-Package for LibreOffice</kk>
+   <ko>Hebrew Language Meta-Package for LibreOffice</ko>
+   <lt>Hebrew Language Meta-Package for LibreOffice</lt>
+   <mk>Hebrew Language Meta-Package for LibreOffice</mk>
+   <mr>Hebrew Language Meta-Package for LibreOffice</mr>
+   <nb>Hebrew Language Meta-Package for LibreOffice</nb>
+   <nl>Hebreews Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Hebrew Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Hebrew Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Hebreu Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Hebrew Language Meta-Package for LibreOffice</ro>
+   <ru>Hebrew Language Meta-Package for LibreOffice</ru>
+   <sk>Hebrew Language Meta-Package for LibreOffice</sk>
+   <sl>Hebrejski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Hebrew Language Meta-Package for LibreOffice</sq>
+   <sr>Hebrew Language Meta-Package for LibreOffice</sr>
+   <sv>Hebreiskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Hebrew Language Meta-Package for LibreOffice</tr>
+   <uk>Hebrew Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Hebrew Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Hebrew Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

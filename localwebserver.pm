@@ -10,51 +10,52 @@ Local Web Server
 </name>
 
 <description>
-   <am>apache2, php7, mariaDB</am>
-   <ar>apache2, php7, mariaDB</ar>
-   <bg>apache2, php7, mariaDB</bg>
-   <ca>apache2, php7, mariaDB</ca>
-   <cs>apache2, php7, mariaDB</cs>
-   <da>apache2, php7, mariaDB</da>
-   <de>Apache2, PHP7, MariaDB</de>
-   <el>apache2, php7, mariaDB</el>
-   <en>apache2, php7, mariaDB</en>
-   <es>apache2, php7, mariaDB</es>
-   <et>apache2, php7, mariaDB</et>
-   <eu>apache2, php7, mariaDB</eu>
-   <fa>apache2, php7, mariaDB</fa>
-   <fi>apache2, php7, mariaDB</fi>
-   <fr>apache2, php7, mariaDB</fr>
-   <he_IL>apache2, php7, mariaDB</he_IL>
-   <hi>apache2, php7, mariaDB</hi>
-   <hr>apache2, php7, mariaDB</hr>
-   <hu>apache2, php7, mariaDB</hu>
-   <id>apache2, php7, mariaDB</id>
-   <is>apache2, php7, mariaDB</is>
-   <it>apache2, php7, mariaDB</it>
-   <ja_JP>apache2, php7, mariaDB</ja_JP>
-   <ja>apache2, php7, mariaDB</ja>
-   <kk>apache2, php7, mariaDB</kk>
-   <ko>apache2, php7, mariaDB</ko>
-   <lt>apache2, php7, mariaDB</lt>
-   <mk>apache2, php7, mariaDB</mk>
-   <mr>apache2, php7, mariaDB</mr>
-   <nb>apache2, php7, mariaDB</nb>
-   <nl>apache2, php7, mariaDB</nl>
-   <pl>Apache2, PHP7, MariaDB</pl>
-   <pt_BR>apache2, php7, mariaDB</pt_BR>
-   <pt>apache2, php7, mariaDB</pt>
-   <ro>apache2, php7, mariaDB</ro>
-   <ru>ПО веб-сервера: apache2, php7, mariaDB</ru>
-   <sk>apache2, php7, mariaDB</sk>
-   <sl>apache2, php7, mariaDB</sl>
-   <sq>apache2, php7, mariaDB</sq>
-   <sr>apache2, php7, mariaDB</sr>
-   <sv>apache2, php7, mariaDB</sv>
-   <tr>apache2, php7, mariaDB</tr>
-   <uk>apache2, php7, mariaDB</uk>
-   <zh_CN>apache2, php7, mariaDB</zh_CN>
-   <zh_TW>apache2, php7, mariaDB</zh_TW>
+   <am>basic install of LXDE</am>
+   <ar>basic install of LXDE</ar>
+   <bg>basic install of LXDE</bg>
+   <ca>Instal·lació bàsica de LXDE</ca>
+   <cs>basic install of LXDE</cs>
+   <da>grundlæggende installation af LXDE</da>
+   <de>Grundinstallation von LXDE</de>
+   <el>βασική εγκατάσταση του LXDE</el>
+   <en>basic install of LXDE</en>
+   <es>Instalación mínima de LXDE</es>
+   <et>basic install of LXDE</et>
+   <eu>basic install of LXDE</eu>
+   <fa>basic install of LXDE</fa>
+   <fil_PH>basic install of LXDE</fil_PH>
+   <fi>LXDE-työpöydän perusasennus</fi>
+   <fr>Installation de base du bureau LXDE</fr>
+   <he_IL>basic install of LXDE</he_IL>
+   <hi>basic install of LXDE</hi>
+   <hr>basic install of LXDE</hr>
+   <hu>basic install of LXDE</hu>
+   <id>basic install of LXDE</id>
+   <is>basic install of LXDE</is>
+   <it>installazione base di LXDE</it>
+   <ja_JP>basic install of LXDE</ja_JP>
+   <ja>basic install of LXDE</ja>
+   <kk>basic install of LXDE</kk>
+   <ko>basic install of LXDE</ko>
+   <lt>basic install of LXDE</lt>
+   <mk>basic install of LXDE</mk>
+   <mr>basic install of LXDE</mr>
+   <nb>basic install of LXDE</nb>
+   <nl>basisinstallatie van LXDE</nl>
+   <pl>podstawowa instalacja LXDE</pl>
+   <pt_BR>Instalação básica do Ambiente de Trabalho LXDE</pt_BR>
+   <pt>Instalação básica do Ambiente de Trabalho LXDE</pt>
+   <ro>basic install of LXDE</ro>
+   <ru>Базовая установка LXDE</ru>
+   <sk>basic install of LXDE</sk>
+   <sl>Osnovna namestitev LXDE</sl>
+   <sq>basic install of LXDE</sq>
+   <sr>basic install of LXDE</sr>
+   <sv>enkel installation av LXDE</sv>
+   <tr>basic install of LXDE</tr>
+   <uk>базовий набір стільниці LXDE</uk>
+   <zh_CN>basic install of LXDE</zh_CN>
+   <zh_TW>basic install of LXDE</zh_TW>
 </description>
 
 <installable>

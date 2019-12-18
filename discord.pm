@@ -10,51 +10,52 @@ Discord
 </name>
 
 <description>
-   <am>All-in-one voice and text chat for gamers</am>
-   <ar>All-in-one voice and text chat for gamers</ar>
-   <bg>All-in-one voice and text chat for gamers</bg>
-   <ca>Xat integral (tot en un) per a veu i text per jugadors</ca>
-   <cs>All-in-one voice and text chat for gamers</cs>
-   <da>Alt-i-ét stemme- og tekstchat til spillere</da>
-   <de>Komplettes Chatprogramm (Text + Ton) für Gamer</de>
-   <el>φωνή και συνομιλία κειμένου για παίκτες</el>
-   <en>All-in-one voice and text chat for gamers</en>
-   <es>Chat de voz y texto todo-en-uno para jugadores</es>
-   <et>All-in-one voice and text chat for gamers</et>
-   <eu>All-in-one voice and text chat for gamers</eu>
-   <fa>All-in-one voice and text chat for gamers</fa>
-   <fi>All-in-one voice and text chat for gamers</fi>
-   <fr>Chat texte et voix tout-en-un pour les joueurs</fr>
-   <he_IL>All-in-one voice and text chat for gamers</he_IL>
-   <hi>All-in-one voice and text chat for gamers</hi>
-   <hr>All-in-one voice and text chat for gamers</hr>
-   <hu>All-in-one voice and text chat for gamers</hu>
-   <id>All-in-one voice and text chat for gamers</id>
-   <is>All-in-one voice and text chat for gamers</is>
-   <it>Chat per giocatori tutto in uno, voce e testo.</it>
-   <ja_JP>All-in-one voice and text chat for gamers</ja_JP>
-   <ja>All-in-one voice and text chat for gamers</ja>
-   <kk>All-in-one voice and text chat for gamers</kk>
-   <ko>All-in-one voice and text chat for gamers</ko>
-   <lt>All-in-one voice and text chat for gamers</lt>
-   <mk>All-in-one voice and text chat for gamers</mk>
-   <mr>All-in-one voice and text chat for gamers</mr>
-   <nb>All-in-one voice and text chat for gamers</nb>
-   <nl>Alles-in-een stem en tekst chat voor gamers</nl>
-   <pl>kompleksowy czat głosowy i tekstowy dla graczy</pl>
-   <pt_BR>Chat de voz e texto tudo-em-um para gamers</pt_BR>
-   <pt>Aplicação de mensagens (chat), de voz e de texto, para jogadores</pt>
-   <ro>All-in-one voice and text chat for gamers</ro>
-   <ru>Все-в-одном голосовой и текстовый чат для геймеров</ru>
-   <sk>All-in-one voice and text chat for gamers</sk>
-   <sl>Vse v enem rešitev za glasovno in tekstno sporazumevanje igričarjev</sl>
-   <sq>All-in-one voice and text chat for gamers</sq>
-   <sr>All-in-one voice and text chat for gamers</sr>
-   <sv>Allt-i-ett röst och textchatt för gamers</sv>
-   <tr>All-in-one voice and text chat for gamers</tr>
-   <uk>Повноцінний голосовий та текстовий чат для гравців</uk>
-   <zh_CN>All-in-one voice and text chat for gamers</zh_CN>
-   <zh_TW>All-in-one voice and text chat for gamers</zh_TW>
+   <am>Dropbox file sync utility</am>
+   <ar>Dropbox file sync utility</ar>
+   <bg>Dropbox file sync utility</bg>
+   <ca>Utilitat de sincronització de fitxers amb Dropbox</ca>
+   <cs>Dropbox file sync utility</cs>
+   <da>Dropbox-filsynkroniseringsredskab</da>
+   <de>Dropbox Dateisynchronisationsprogramm</de>
+   <el>Βοηθητικό πρόγραμμα συγχρονισμού αρχείων Dropbox</el>
+   <en>Dropbox file sync utility</en>
+   <es>Sincronizar archivos con Dropbox</es>
+   <et>Dropbox file sync utility</et>
+   <eu>Dropbox file sync utility</eu>
+   <fa>Dropbox file sync utility</fa>
+   <fil_PH>Dropbox file sync utility</fil_PH>
+   <fi>Dropbox file sync utility</fi>
+   <fr>Utilitaire de synchronisation de fichier Dropbox</fr>
+   <he_IL>Dropbox file sync utility</he_IL>
+   <hi>Dropbox file sync utility</hi>
+   <hr>Dropbox file sync utility</hr>
+   <hu>Dropbox file sync utility</hu>
+   <id>Dropbox file sync utility</id>
+   <is>Dropbox file sync utility</is>
+   <it>Utility di sincronizzazione dei file</it>
+   <ja_JP>Dropbox file sync utility</ja_JP>
+   <ja>Dropbox file sync utility</ja>
+   <kk>Dropbox file sync utility</kk>
+   <ko>Dropbox file sync utility</ko>
+   <lt>Dropbox failų sinchronizavimo paslaugų programa</lt>
+   <mk>Dropbox file sync utility</mk>
+   <mr>Dropbox file sync utility</mr>
+   <nb>Dropbox file sync utility</nb>
+   <nl>Dropbox bestand synchronisatie gereedschap</nl>
+   <pl>narzędzie synchronizacji plików Dropbox</pl>
+   <pt_BR>Utilitário de armazenamento e sincronização de arquivos</pt_BR>
+   <pt>Utilitário de armazenagem e sincronização de ficheiros</pt>
+   <ro>Dropbox file sync utility</ro>
+   <ru>Утилита синхронизации файлов с Dropbox</ru>
+   <sk>Dropbox file sync utility</sk>
+   <sl>orodje za sinhronizacijo Dropbox datotek</sl>
+   <sq>Dropbox file sync utility</sq>
+   <sr>Dropbox file sync utility</sr>
+   <sv>Dropbox filsynkroniserings-redskap</sv>
+   <tr>Dropbox file sync utility</tr>
+   <uk>утиліта синхронізації файлів Dropbox</uk>
+   <zh_CN>Dropbox file sync utility</zh_CN>
+   <zh_TW>Dropbox file sync utility</zh_TW>
 </description>
 
 <installable>

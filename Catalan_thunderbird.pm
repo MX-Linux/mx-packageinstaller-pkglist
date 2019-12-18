@@ -10,51 +10,52 @@ Catalan_Thunderbird
 </name>
 
 <description>
-   <am>Catalan localisation of Thunderbird</am>
-   <ar>Catalan localisation of Thunderbird</ar>
-   <bg>Catalan localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Català</ca>
-   <cs>Catalan localisation of Thunderbird</cs>
-   <da>Catalansk oversættelse af Thunderbird</da>
-   <de>Katalanische Lokalisierung von Thunderbird</de>
-   <el>Καταλανική εντοπισμός του Thunderbird</el>
-   <en>Catalan localisation of Thunderbird</en>
-   <es>Localización catalana de Thunderbird</es>
-   <et>Catalan localisation of Thunderbird</et>
-   <eu>Catalan localisation of Thunderbird</eu>
-   <fa>Catalan localisation of Thunderbird</fa>
-   <fi>Catalan localisation of Thunderbird</fi>
-   <fr>Localisation catalane pour Thunderbird</fr>
-   <he_IL>Catalan localisation of Thunderbird</he_IL>
-   <hi>Catalan localisation of Thunderbird</hi>
-   <hr>Catalan localisation of Thunderbird</hr>
-   <hu>Catalan localisation of Thunderbird</hu>
-   <id>Catalan localisation of Thunderbird</id>
-   <is>Catalan localisation of Thunderbird</is>
-   <it>Localizzazione catalana di Thunderbird</it>
-   <ja_JP>Catalan localisation of Thunderbird</ja_JP>
-   <ja>Catalan localisation of Thunderbird</ja>
-   <kk>Catalan localisation of Thunderbird</kk>
-   <ko>Catalan localisation of Thunderbird</ko>
-   <lt>Catalan localisation of Thunderbird</lt>
-   <mk>Catalan localisation of Thunderbird</mk>
-   <mr>Catalan localisation of Thunderbird</mr>
-   <nb>Catalan localisation of Thunderbird</nb>
-   <nl>Catalaanse lokalisatie van Thunderbird</nl>
-   <pl>Katalońska lokalizacja Thunderbirda</pl>
-   <pt_BR>Catalão Localização para Thunderbird</pt_BR>
-   <pt>Catalão Localização para Thunderbird</pt>
-   <ro>Catalan localisation of Thunderbird</ro>
-   <ru>Catalan localisation of Thunderbird</ru>
-   <sk>Catalan localisation of Thunderbird</sk>
-   <sl>Catalan localisation of Thunderbird</sl>
-   <sq>Catalan localisation of Thunderbird</sq>
-   <sr>Catalan localisation of Thunderbird</sr>
-   <sv>Katalansk lokalisering av Thunderbird</sv>
-   <tr>Catalan localisation of Thunderbird</tr>
-   <uk>Catalan локалізація Thunderbird</uk>
-   <zh_CN>Catalan localisation of Thunderbird</zh_CN>
-   <zh_TW>Catalan localisation of Thunderbird</zh_TW>
+   <am>Chinese_simplified localisation of Firefox</am>
+   <ar>Chinese_simplified localisation of Firefox</ar>
+   <bg>Chinese_simplified localisation of Firefox</bg>
+   <ca>Localització de Firefox en Xinès simplificat</ca>
+   <cs>Chinese_simplified localisation of Firefox</cs>
+   <da>Kinesisk (forenklet) oversættelse af Firefox</da>
+   <de>Chinesische (vereinfacht) Lokalisierung von Firefox</de>
+   <el>Κινεζικός εντοπισμός του Firefox</el>
+   <en>Chinese_simplified localisation of Firefox</en>
+   <es>Localización Chino simplificado de Firefox</es>
+   <et>Chinese_simplified localisation of Firefox</et>
+   <eu>Chinese_simplified localisation of Firefox</eu>
+   <fa>Chinese_simplified localisation of Firefox</fa>
+   <fil_PH>Chinese_simplified localisation of Firefox</fil_PH>
+   <fi>Chinese_simplified localisation of Firefox</fi>
+   <fr>Localisation chinois-simplifié pour Firefox</fr>
+   <he_IL>Chinese_simplified localisation of Firefox</he_IL>
+   <hi>Chinese_simplified localisation of Firefox</hi>
+   <hr>Chinese_simplified localisation of Firefox</hr>
+   <hu>Chinese_simplified localisation of Firefox</hu>
+   <id>Chinese_simplified localisation of Firefox</id>
+   <is>Chinese_simplified localisation of Firefox</is>
+   <it>Localizzazione in Cinese_semplificato di Firefox</it>
+   <ja_JP>Chinese_simplified localisation of Firefox</ja_JP>
+   <ja>Chinese_simplified localisation of Firefox</ja>
+   <kk>Chinese_simplified localisation of Firefox</kk>
+   <ko>Chinese_simplified localisation of Firefox</ko>
+   <lt>Chinese_simplified localisation of Firefox</lt>
+   <mk>Chinese_simplified localisation of Firefox</mk>
+   <mr>Chinese_simplified localisation of Firefox</mr>
+   <nb>Chinese_simplified localisation of Firefox</nb>
+   <nl>Vereenvoudigd Chinese lokalisatie van Firefox</nl>
+   <pl>Chiński uproszczony lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Chinês_simplificado Localização para Firefox</pt_BR>
+   <pt>Chinês_simplificado Localização para Firefox</pt>
+   <ro>Chinese_simplified localisation of Firefox</ro>
+   <ru>Китайская упрощенная локализация Firefox</ru>
+   <sk>Chinese_simplified localisation of Firefox</sk>
+   <sl>Chinese_simplified localisation of Firefox</sl>
+   <sq>Chinese_simplified localisation of Firefox</sq>
+   <sr>Chinese_simplified localisation of Firefox</sr>
+   <sv>Kinesisk_förenklad lokalisering av Firefox</sv>
+   <tr>Firefox'un Basitleştirilmiş_Çince yerelleştirmesi</tr>
+   <uk>Chinese_simplified локалізація Firefox</uk>
+   <zh_CN>Chinese_simplified localisation of Firefox</zh_CN>
+   <zh_TW>Chinese_simplified localisation of Firefox</zh_TW>
 </description>
 
 <installable>

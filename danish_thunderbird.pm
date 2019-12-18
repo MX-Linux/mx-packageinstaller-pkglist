@@ -10,51 +10,52 @@ Danish_Thunderbird
 </name>
 
 <description>
-   <am>Danish localisation of Thunderbird</am>
-   <ar>Danish localisation of Thunderbird</ar>
-   <bg>Danish localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Danès</ca>
-   <cs>Danish localisation of Thunderbird</cs>
-   <da>Dansk oversættelse af Thunderbird</da>
-   <de>Dänische Lokalisierung von Thunderbird</de>
-   <el>Δανικός εντοπισμός του Thunderbird</el>
-   <en>Danish localisation of Thunderbird</en>
-   <es>Localización Danesa de Thunderbird</es>
-   <et>Danish localisation of Thunderbird</et>
-   <eu>Danish localisation of Thunderbird</eu>
-   <fa>Danish localisation of Thunderbird</fa>
-   <fi>Danish localisation of Thunderbird</fi>
-   <fr>Localisation danoise pour Thunderbird</fr>
-   <he_IL>Danish localisation of Thunderbird</he_IL>
-   <hi>Danish localisation of Thunderbird</hi>
-   <hr>Danish localisation of Thunderbird</hr>
-   <hu>Danish localisation of Thunderbird</hu>
-   <id>Danish localisation of Thunderbird</id>
-   <is>Danish localisation of Thunderbird</is>
-   <it>Localizzazione danese di Thunderbird</it>
-   <ja_JP>Danish localisation of Thunderbird</ja_JP>
-   <ja>Danish localisation of Thunderbird</ja>
-   <kk>Danish localisation of Thunderbird</kk>
-   <ko>Danish localisation of Thunderbird</ko>
-   <lt>Danish localisation of Thunderbird</lt>
-   <mk>Danish localisation of Thunderbird</mk>
-   <mr>Danish localisation of Thunderbird</mr>
-   <nb>Danish localisation of Thunderbird</nb>
-   <nl>Deense lokalisatie van Thunderbird</nl>
-   <pl>Duńska lokalizacja Thunderbirda</pl>
-   <pt_BR>Dinamarquês Localização para Thunderbird</pt_BR>
-   <pt>Dinamarquês Localização para Thunderbird</pt>
-   <ro>Danish localisation of Thunderbird</ro>
-   <ru>Danish localisation of Thunderbird</ru>
-   <sk>Danish localisation of Thunderbird</sk>
-   <sl>Danish localisation of Thunderbird</sl>
-   <sq>Danish localisation of Thunderbird</sq>
-   <sr>Danish localisation of Thunderbird</sr>
-   <sv>Dansk lokalisering av Thunderbird</sv>
-   <tr>Danish localisation of Thunderbird</tr>
-   <uk>Danish локалізація Thunderbird</uk>
-   <zh_CN>Danish localisation of Thunderbird</zh_CN>
-   <zh_TW>Danish localisation of Thunderbird</zh_TW>
+   <am>simple audio player</am>
+   <ar>simple audio player</ar>
+   <bg>simple audio player</bg>
+   <ca>senzill reproductor d'àudio</ca>
+   <cs>simple audio player</cs>
+   <da>Simpel lydafspiller</da>
+   <de>Einfacher Audio-Player</de>
+   <el>απλή συσκευή αναπαραγωγής ήχου</el>
+   <en>simple audio player</en>
+   <es>Reproductor de audio sencillo</es>
+   <et>simple audio player</et>
+   <eu>simple audio player</eu>
+   <fa>simple audio player</fa>
+   <fil_PH>simple audio player</fil_PH>
+   <fi>simple audio player</fi>
+   <fr>Lecteur audio basique</fr>
+   <he_IL>simple audio player</he_IL>
+   <hi>simple audio player</hi>
+   <hr>simple audio player</hr>
+   <hu>simple audio player</hu>
+   <id>simple audio player</id>
+   <is>simple audio player</is>
+   <it>Lettore di tracce audio semplice</it>
+   <ja_JP>simple audio player</ja_JP>
+   <ja>simple audio player</ja>
+   <kk>simple audio player</kk>
+   <ko>simple audio player</ko>
+   <lt>paprastas garso grotuvas</lt>
+   <mk>simple audio player</mk>
+   <mr>simple audio player</mr>
+   <nb>simple audio player</nb>
+   <nl>eenvoudige audio speler</nl>
+   <pl>prosty odtwarzacz audio</pl>
+   <pt_BR>Reprodutor de áudio muito simples</pt_BR>
+   <pt>Reprodutor de áudio simples e de fácil utilização</pt>
+   <ro>simple audio player</ro>
+   <ru>Музыкальный проигрыватель</ru>
+   <sk>jednoduchý zvukový prehrávač</sk>
+   <sl>preprost predvajalnik zvoka</sl>
+   <sq>simple audio player</sq>
+   <sr>simple audio player</sr>
+   <sv>enkel ljudspelare</sv>
+   <tr>simple audio player</tr>
+   <uk>простий аудіо програвач</uk>
+   <zh_CN>simple audio player</zh_CN>
+   <zh_TW>simple audio player</zh_TW>
 </description>
 
 <installable>

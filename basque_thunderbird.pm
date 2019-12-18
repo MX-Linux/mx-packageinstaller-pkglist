@@ -10,51 +10,52 @@ Basque_Thunderbird
 </name>
 
 <description>
-   <am>Basque localisation of Thunderbird</am>
-   <ar>Basque localisation of Thunderbird</ar>
-   <bg>Basque localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Euskara</ca>
-   <cs>Basque localisation of Thunderbird</cs>
-   <da>Baskisk oversættelse af Thunderbird</da>
-   <de>Baskische Lokalisierung von Thunderbird</de>
-   <el>Basque εντοπισμός του Thunderbird</el>
-   <en>Basque localisation of Thunderbird</en>
-   <es>Localización Vasco de Thunderbird</es>
-   <et>Basque localisation of Thunderbird</et>
-   <eu>Basque localisation of Thunderbird</eu>
-   <fa>Basque localisation of Thunderbird</fa>
-   <fi>Basque localisation of Thunderbird</fi>
-   <fr>Localisation basque pour Thunderbird</fr>
-   <he_IL>Basque localisation of Thunderbird</he_IL>
-   <hi>Basque localisation of Thunderbird</hi>
-   <hr>Baskijska lokalizacija Thunderbirda</hr>
-   <hu>Basque localisation of Thunderbird</hu>
-   <id>Basque localisation of Thunderbird</id>
-   <is>Basque localisation of Thunderbird</is>
-   <it>Localizzazione basca di Thunderbird</it>
-   <ja_JP>Basque localisation of Thunderbird</ja_JP>
-   <ja>Basque localisation of Thunderbird</ja>
-   <kk>Basque localisation of Thunderbird</kk>
-   <ko>Basque localisation of Thunderbird</ko>
-   <lt>Basque localisation of Thunderbird</lt>
-   <mk>Basque localisation of Thunderbird</mk>
-   <mr>Basque localisation of Thunderbird</mr>
-   <nb>Basque localisation of Thunderbird</nb>
-   <nl>Baskische lokalisatie van Thunderbird</nl>
-   <pl>Baskijska lokalizacja Thunderbirda</pl>
-   <pt_BR>Basco Localização para Thunderbird</pt_BR>
-   <pt>Basco Localização para Thunderbird</pt>
-   <ro>Basque localisation of Thunderbird</ro>
-   <ru>Basque localisation of Thunderbird</ru>
-   <sk>Basque lokalizácia pre Thunderbird</sk>
-   <sl>Basque localisation of Thunderbird</sl>
-   <sq>Basque localisation of Thunderbird</sq>
-   <sr>Basque localisation of Thunderbird</sr>
-   <sv>Baskisk lokalisering av Thunderbird</sv>
-   <tr>Basque localisation of Thunderbird</tr>
-   <uk>Basque локалізація Thunderbird</uk>
-   <zh_CN>Basque localisation of Thunderbird</zh_CN>
-   <zh_TW>Basque localisation of Thunderbird</zh_TW>
+   <am>Belarusian localisation of Firefox</am>
+   <ar>Belarusian localisation of Firefox</ar>
+   <bg>Belarusian localisation of Firefox</bg>
+   <ca>Localització de Firefox en Belarus</ca>
+   <cs>Belarusian localisation of Firefox</cs>
+   <da>Hviderussisk oversættelse af Firefox</da>
+   <de>Weißrussische Lokalisierung von Firefox</de>
+   <el>Λευκορωσικός εντοπισμός του Firefox</el>
+   <en>Belarusian localisation of Firefox</en>
+   <es>Localización Belorruso de Firefox</es>
+   <et>Belarusian localisation of Firefox</et>
+   <eu>Belarusian localisation of Firefox</eu>
+   <fa>Belarusian localisation of Firefox</fa>
+   <fil_PH>Belarusian localisation of Firefox</fil_PH>
+   <fi>Belarusian localisation of Firefox</fi>
+   <fr>Localisation biélorusse pour Firefox</fr>
+   <he_IL>Belarusian localisation of Firefox</he_IL>
+   <hi>Belarusian localisation of Firefox</hi>
+   <hr>Bjeloruska lokalizacija Firefoxa</hr>
+   <hu>Belarusian localisation of Firefox</hu>
+   <id>Belarusian localisation of Firefox</id>
+   <is>Belarusian localisation of Firefox</is>
+   <it>Localizzazione bielorussa di Firefox</it>
+   <ja_JP>Belarusian localisation of Firefox</ja_JP>
+   <ja>Belarusian localisation of Firefox</ja>
+   <kk>Belarusian localisation of Firefox</kk>
+   <ko>Belarusian localisation of Firefox</ko>
+   <lt>Belarusian localisation of Firefox</lt>
+   <mk>Belarusian localisation of Firefox</mk>
+   <mr>Belarusian localisation of Firefox</mr>
+   <nb>Belarusian localisation of Firefox</nb>
+   <nl>Wit-Russische lokalisatie van Firefox</nl>
+   <pl>Białoruska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Bielorrusso Localização para Firefox</pt_BR>
+   <pt>Bielorrusso Localização para Firefox</pt>
+   <ro>Belarusian localisation of Firefox</ro>
+   <ru>Белорусская локализация Firefox</ru>
+   <sk>Bieloruská lokalizácia pre Firefox</sk>
+   <sl>Belarusian localisation of Firefox</sl>
+   <sq>Belarusian localisation of Firefox</sq>
+   <sr>Belarusian localisation of Firefox</sr>
+   <sv>Belarus lokalisering av Firefox</sv>
+   <tr>Firefox'un Beyaz Rusça yerelleştirmesi</tr>
+   <uk>Belarusian локалізація Firefox</uk>
+   <zh_CN>Belarusian localisation of Firefox</zh_CN>
+   <zh_TW>Belarusian localisation of Firefox</zh_TW>
 </description>
 
 <installable>

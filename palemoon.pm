@@ -10,51 +10,52 @@ Palemoon
 </name>
 
 <description>
-   <am>Palemoon from the mx repo</am>
-   <ar>Palemoon from the mx repo</ar>
-   <bg>Palemoon from the mx repo</bg>
-   <ca>Palemoon del dipòsit de MX</ca>
-   <cs>Palemoon from the mx repo</cs>
-   <da>Palemoon mx-softwarekilden</da>
-   <de>Pale Moon aus dem MX-Repo</de>
-   <el>Palemoon από το mx repo</el>
-   <en>Palemoon from the mx repo</en>
-   <es>Palemoon desde el repositorio de MX</es>
-   <et>Palemoon from the mx repo</et>
-   <eu>Palemoon from the mx repo</eu>
-   <fa>Palemoon from the mx repo</fa>
-   <fi>Palemoon from the mx repo</fi>
-   <fr>Palemoon du dépôt MX</fr>
-   <he_IL>Palemoon from the mx repo</he_IL>
-   <hi>Palemoon from the mx repo</hi>
-   <hr>Palemoon from the mx repo</hr>
-   <hu>Palemoon from the mx repo</hu>
-   <id>Palemoon from the mx repo</id>
-   <is>Palemoon from the mx repo</is>
-   <it>Palemoon dal repo mx</it>
-   <ja_JP>Palemoon from the mx repo</ja_JP>
-   <ja>Palemoon from the mx repo</ja>
-   <kk>Palemoon from the mx repo</kk>
-   <ko>Palemoon from the mx repo</ko>
-   <lt>Palemoon iš mx saugyklos</lt>
-   <mk>Palemoon from the mx repo</mk>
-   <mr>Palemoon from the mx repo</mr>
-   <nb>Palemoon from the mx repo</nb>
-   <nl>Palemoon uit de mx pakketbron</nl>
-   <pl>Palemoon z repozytorium MX</pl>
-   <pt_BR>Navegador web Palemoon do repositório mx repo</pt_BR>
-   <pt>Navegador web Palemoon do repositório mx repo</pt>
-   <ro>Palemoon from the mx repo</ro>
-   <ru>Браузер Palemoon из репозитория mx</ru>
-   <sk>Palemoon from the mx repo</sk>
-   <sl>Palemoon iz mx repozitorija</sl>
-   <sq>Palemoon from the mx repo</sq>
-   <sr>Palemoon from the mx repo</sr>
-   <sv>Palemoon från mx repo</sv>
-   <tr>Palemoon from the mx repo</tr>
-   <uk>Palemoon зі сховища mx</uk>
-   <zh_CN>Palemoon from the mx repo</zh_CN>
-   <zh_TW>Palemoon from the mx repo</zh_TW>
+   <am>a gnome Usenet newsreader</am>
+   <ar>a gnome Usenet newsreader</ar>
+   <bg>a gnome Usenet newsreader</bg>
+   <ca>lector de notícies Usenet</ca>
+   <cs>a gnome Usenet newsreader</cs>
+   <da>en gnome Usenet-nyhedslæser</da>
+   <de>Ein Gnome Usenet Newsreader</de>
+   <el>Usenet newsreader</el>
+   <en>a gnome Usenet newsreader</en>
+   <es>Lector de noticias Usenet de gnome</es>
+   <et>a gnome Usenet newsreader</et>
+   <eu>a gnome Usenet newsreader</eu>
+   <fa>a gnome Usenet newsreader</fa>
+   <fil_PH>a gnome Usenet newsreader</fil_PH>
+   <fi>a gnome Usenet newsreader</fi>
+   <fr>Un lecteur de nouvelles Usenet pour Gnome</fr>
+   <he_IL>a gnome Usenet newsreader</he_IL>
+   <hi>a gnome Usenet newsreader</hi>
+   <hr>a gnome Usenet newsreader</hr>
+   <hu>a gnome Usenet newsreader</hu>
+   <id>a gnome Usenet newsreader</id>
+   <is>a gnome Usenet newsreader</is>
+   <it>lettore di news dalla rete Usenet basato su GTK2</it>
+   <ja_JP>a gnome Usenet newsreader</ja_JP>
+   <ja>a gnome Usenet newsreader</ja>
+   <kk>a gnome Usenet newsreader</kk>
+   <ko>a gnome Usenet newsreader</ko>
+   <lt>a gnome Usenet newsreader</lt>
+   <mk>a gnome Usenet newsreader</mk>
+   <mr>a gnome Usenet newsreader</mr>
+   <nb>a gnome Usenet newsreader</nb>
+   <nl>a gnome Usenet nieuwslezer</nl>
+   <pl>gnomowy czytnik grup dyskusyjnych Usenet</pl>
+   <pt_BR>Agregador de notícias Usenet para gnome</pt_BR>
+   <pt>Agregador de notícias Usenet para gnome</pt>
+   <ro>a gnome Usenet newsreader</ro>
+   <ru>Новостной клиент Usenet для окружения Gnome</ru>
+   <sk>a gnome Usenet newsreader</sk>
+   <sl>Bralnik novic za Usenet za Gnome okolje</sl>
+   <sq>a gnome Usenet newsreader</sq>
+   <sr>a gnome Usenet newsreader</sr>
+   <sv>en gnome Usenet nyhetsläsare</sv>
+   <tr>a gnome Usenet newsreader</tr>
+   <uk>a gnome Usenet newsreader</uk>
+   <zh_CN>a gnome Usenet newsreader</zh_CN>
+   <zh_TW>a gnome Usenet newsreader</zh_TW>
 </description>
 
 <installable>

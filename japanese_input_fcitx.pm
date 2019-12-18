@@ -10,51 +10,52 @@ Japanese_Input_fcitx
 </name>
 
 <description>
-   <am>Japanese fcitx</am>
-   <ar>Japanese fcitx</ar>
-   <bg>Japanese fcitx</bg>
-   <ca>Fcitx en italià</ca>
-   <cs>Japanese fcitx</cs>
-   <da>Japansk fcitx</da>
-   <de>Japanisch Fcitx</de>
-   <el>Ιαπωνικά fcitx</el>
-   <en>Japanese fcitx</en>
-   <es>Fcitx Japonés</es>
-   <et>Japanese fcitx</et>
-   <eu>Japanese fcitx</eu>
-   <fa>Japanese fcitx</fa>
-   <fi>Japanese fcitx</fi>
-   <fr>Japonais fcitx</fr>
-   <he_IL>Japanese fcitx</he_IL>
-   <hi>Japanese fcitx</hi>
-   <hr>Japanese fcitx</hr>
-   <hu>Japanese fcitx</hu>
-   <id>Japanese fcitx</id>
-   <is>Japanese fcitx</is>
-   <it>Fcitx per la lingua giapponese</it>
-   <ja_JP>Japanese fcitx</ja_JP>
-   <ja>Japanese fcitx</ja>
-   <kk>Japanese fcitx</kk>
-   <ko>Japanese fcitx</ko>
-   <lt>Japonų fcitx</lt>
-   <mk>Japanese fcitx</mk>
-   <mr>Japanese fcitx</mr>
-   <nb>Japanese fcitx</nb>
-   <nl>Japanse fcitx</nl>
-   <pl>Japoński fcitx</pl>
-   <pt_BR>Japonês fcitx</pt_BR>
-   <pt>Japonês fcitx</pt>
-   <ro>Japanese fcitx</ro>
-   <ru>Japanese fcitx</ru>
-   <sk>Japanese fcitx</sk>
-   <sl>Japanese fcitx</sl>
-   <sq>Japanese fcitx</sq>
-   <sr>Japanese fcitx</sr>
-   <sv>Japansk fcitx</sv>
-   <tr>Japanese fcitx</tr>
-   <uk>Japanese fcitx</uk>
-   <zh_CN>Japanese fcitx</zh_CN>
-   <zh_TW>Japanese fcitx</zh_TW>
+   <am>Japanese ibus</am>
+   <ar>Japanese ibus</ar>
+   <bg>Japanese ibus</bg>
+   <ca>Ibus en japonès</ca>
+   <cs>Japanese ibus</cs>
+   <da>Japansk ibus</da>
+   <de>Japanischer IBus</de>
+   <el>Ιαπωνικά ibus</el>
+   <en>Japanese ibus</en>
+   <es>Ibus Japonés</es>
+   <et>Japanese ibus</et>
+   <eu>Japanese ibus</eu>
+   <fa>Japanese ibus</fa>
+   <fil_PH>Japanese ibus</fil_PH>
+   <fi>Japanese ibus</fi>
+   <fr>Japonais ibus</fr>
+   <he_IL>Japanese ibus</he_IL>
+   <hi>Japanese ibus</hi>
+   <hr>Japanese ibus</hr>
+   <hu>Japanese ibus</hu>
+   <id>Japanese ibus</id>
+   <is>Japanese ibus</is>
+   <it>Ibus per la lingua giapponese</it>
+   <ja_JP>Japanese ibus</ja_JP>
+   <ja>Japanese ibus</ja>
+   <kk>Japanese ibus</kk>
+   <ko>Japanese ibus</ko>
+   <lt>Japonų ibus</lt>
+   <mk>Japanese ibus</mk>
+   <mr>Japanese ibus</mr>
+   <nb>Japanese ibus</nb>
+   <nl>Japanse ibus</nl>
+   <pl>Japoński ibus</pl>
+   <pt_BR>Japonês ibus</pt_BR>
+   <pt>Japonês ibus</pt>
+   <ro>Japanese ibus</ro>
+   <ru>Japanese ibus</ru>
+   <sk>Japanese ibus</sk>
+   <sl>Japanese ibus</sl>
+   <sq>Japanese ibus</sq>
+   <sr>Japanese ibus</sr>
+   <sv>Japansk ibus</sv>
+   <tr>Japanese ibus</tr>
+   <uk>Japanese ibus</uk>
+   <zh_CN>Japanese ibus</zh_CN>
+   <zh_TW>Japanese ibus</zh_TW>
 </description>
 
 <installable>

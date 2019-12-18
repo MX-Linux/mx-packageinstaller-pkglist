@@ -10,51 +10,52 @@ SMplayer
 </name>
 
 <description>
-   <am>themable gui frontend to MPlayer with other interesting features</am>
-   <ar>themable gui frontend to MPlayer with other interesting features</ar>
-   <bg>themable gui frontend to MPlayer with other interesting features</bg>
-   <ca>Frontal IGU configurable per MPlayer amb característiques interessants</ca>
-   <cs>themable gui frontend to MPlayer with other interesting features</cs>
-   <da>grafisk brugerflade-frontend med temaer til MPlayer med andre interessante funktionaliteter</da>
-   <de>Themen-anpassbares GUI-Frontend zu MPlayer mit weiteren interessanten Funktionen</de>
-   <el>διασκεδαστικό gui frontend στο MPlayer με άλλα ενδιαφέροντα χαρακτηριστικά</el>
-   <en>themable gui frontend to MPlayer with other interesting features</en>
-   <es>Interfaz gráfica de usuario temática para MPlayer con otras características interesantes</es>
-   <et>themable gui frontend to MPlayer with other interesting features</et>
-   <eu>themable gui frontend to MPlayer with other interesting features</eu>
-   <fa>themable gui frontend to MPlayer with other interesting features</fa>
-   <fi>themable gui frontend to MPlayer with other interesting features</fi>
-   <fr>Interface graphique/frontend personnalisable pour MPlayer avec fonctionnalités utiles</fr>
-   <he_IL>themable gui frontend to MPlayer with other interesting features</he_IL>
-   <hi>themable gui frontend to MPlayer with other interesting features</hi>
-   <hr>themable gui frontend to MPlayer with other interesting features</hr>
-   <hu>themable gui frontend to MPlayer with other interesting features</hu>
-   <id>themable gui frontend to MPlayer with other interesting features</id>
-   <is>themable gui frontend to MPlayer with other interesting features</is>
-   <it>interfaccia grafica per MPlayer con ulteriori interessanti funzionalità</it>
-   <ja_JP>themable gui frontend to MPlayer with other interesting features</ja_JP>
-   <ja>themable gui frontend to MPlayer with other interesting features</ja>
-   <kk>themable gui frontend to MPlayer with other interesting features</kk>
-   <ko>themable gui frontend to MPlayer with other interesting features</ko>
-   <lt>themable gui frontend to MPlayer with other interesting features</lt>
-   <mk>themable gui frontend to MPlayer with other interesting features</mk>
-   <mr>themable gui frontend to MPlayer with other interesting features</mr>
-   <nb>themable gui frontend to MPlayer with other interesting features</nb>
-   <nl>gui die van thema's kan worden voorzien, frontend voor MPlayer met andere interessante functies</nl>
-   <pl>tematyczna nakładka na GUI do MPlayera z innymi ciekawymi funkcjami</pl>
-   <pt_BR>Interface gráfica para o MPlayer com vários temas e com outras funcionalidades interessantes</pt_BR>
-   <pt>Interface gráfica para o MPlayer com vários temas e com outras funcionalidades interessantes</pt>
-   <ro>themable gui frontend to MPlayer with other interesting features</ro>
-   <ru>Графическая оболочка для MPlayer с множеством фишек</ru>
-   <sk>themable gui frontend to MPlayer with other interesting features</sk>
-   <sl>Prilagodljiva grafična podoba za Mplayer z zanimivimi dodatnimi funkcijami</sl>
-   <sq>themable gui frontend to MPlayer with other interesting features</sq>
-   <sr>themable gui frontend to MPlayer with other interesting features</sr>
-   <sv>temabar grafisk front-end till MPlayer med andra intressanta möjligheter</sv>
-   <tr>themable gui frontend to MPlayer with other interesting features</tr>
-   <uk>themable gui frontend to MPlayer with other interesting features</uk>
-   <zh_CN>themable gui frontend to MPlayer with other interesting features</zh_CN>
-   <zh_TW>themable gui frontend to MPlayer with other interesting features</zh_TW>
+   <am>search and download Youtube videos</am>
+   <ar>search and download Youtube videos</ar>
+   <bg>search and download Youtube videos</bg>
+   <ca>Cerca i descarrega vídeos de Youtube</ca>
+   <cs>search and download Youtube videos</cs>
+   <da>søg efter og download Youtube-videoer</da>
+   <de>YouTube-Videos finden und herunterladen</de>
+   <el>αναζήτηση και λήψη βίντεο Youtube</el>
+   <en>search and download Youtube videos</en>
+   <es>Busque y descargue videos de Youtube</es>
+   <et>search and download Youtube videos</et>
+   <eu>search and download Youtube videos</eu>
+   <fa>search and download Youtube videos</fa>
+   <fil_PH>search and download Youtube videos</fil_PH>
+   <fi>search and download Youtube videos</fi>
+   <fr>Rechercher et télécharger des vidéos Youtube</fr>
+   <he_IL>search and download Youtube videos</he_IL>
+   <hi>search and download Youtube videos</hi>
+   <hr>search and download Youtube videos</hr>
+   <hu>search and download Youtube videos</hu>
+   <id>search and download Youtube videos</id>
+   <is>search and download Youtube videos</is>
+   <it>cerca e scarica video da Youtube</it>
+   <ja_JP>search and download Youtube videos</ja_JP>
+   <ja>search and download Youtube videos</ja>
+   <kk>search and download Youtube videos</kk>
+   <ko>search and download Youtube videos</ko>
+   <lt>search and download Youtube videos</lt>
+   <mk>search and download Youtube videos</mk>
+   <mr>search and download Youtube videos</mr>
+   <nb>search and download Youtube videos</nb>
+   <nl>zoek en download Youtube video's</nl>
+   <pl>wyszukuj i pobieraj filmy z YouTube</pl>
+   <pt_BR>Pesquisar e baixar vídeos do Youtube</pt_BR>
+   <pt>pesquisar e descarregar vídeos do Youtube</pt>
+   <ro>search and download Youtube videos</ro>
+   <ru>Поиск и скачивание видео в Youtube</ru>
+   <sk>search and download Youtube videos</sk>
+   <sl>Išči in prenesivideo posnetke iz Youtube</sl>
+   <sq>search and download Youtube videos</sq>
+   <sr>search and download Youtube videos</sr>
+   <sv>sök och ladda ner Youtube videos</sv>
+   <tr>search and download Youtube videos</tr>
+   <uk>пошук та завантаження відео з Youtube</uk>
+   <zh_CN>search and download Youtube videos</zh_CN>
+   <zh_TW>search and download Youtube videos</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ Ndebele_Libreoffice
 </name>
 
 <description>
-   <am>Ndebele Language Meta-Package for LibreOffice</am>
-   <ar>Ndebele Language Meta-Package for LibreOffice</ar>
-   <bg>Ndebele Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Ndebele per LibreOffice</ca>
-   <cs>Ndebele Language Meta-Package for LibreOffice</cs>
-   <da>Ndebele sprog-metapakke til LibreOffice</da>
-   <de>Ndebele Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Ndebele</el>
-   <en>Ndebele Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Ndebele para LibreOffice</es>
-   <et>Ndebele Language Meta-Package for LibreOffice</et>
-   <eu>Ndebele Language Meta-Package for LibreOffice</eu>
-   <fa>Ndebele Language Meta-Package for LibreOffice</fa>
-   <fi>Ndebele Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Ndebele pour LibreOffice</fr>
-   <he_IL>Ndebele Language Meta-Package for LibreOffice</he_IL>
-   <hi>Ndebele Language Meta-Package for LibreOffice</hi>
-   <hr>Ndebele Language Meta-Package for LibreOffice</hr>
-   <hu>Ndebele Language Meta-Package for LibreOffice</hu>
-   <id>Ndebele Language Meta-Package for LibreOffice</id>
-   <is>Ndebele Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Ndebele per LibreOffice</it>
-   <ja_JP>Ndebele Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Ndebele Language Meta-Package for LibreOffice</ja>
-   <kk>Ndebele Language Meta-Package for LibreOffice</kk>
-   <ko>Ndebele Language Meta-Package for LibreOffice</ko>
-   <lt>Ndebele Language Meta-Package for LibreOffice</lt>
-   <mk>Ndebele Language Meta-Package for LibreOffice</mk>
-   <mr>Ndebele Language Meta-Package for LibreOffice</mr>
-   <nb>Ndebele Language Meta-Package for LibreOffice</nb>
-   <nl>Ndebele Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Ndebele metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Ndebele Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Ndebele Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Ndebele Language Meta-Package for LibreOffice</ro>
-   <ru>Ndebele Language Meta-Package for LibreOffice</ru>
-   <sk>Ndebele Language Meta-Package for LibreOffice</sk>
-   <sl>Ndebele Language Meta-Package for LibreOffice</sl>
-   <sq>Ndebele Language Meta-Package for LibreOffice</sq>
-   <sr>Ndebele Language Meta-Package for LibreOffice</sr>
-   <sv>Ndebele Språk Meta-Paket för LibreOffice</sv>
-   <tr>Ndebele Language Meta-Package for LibreOffice</tr>
-   <uk>Ndebele Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Ndebele Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Ndebele Language Meta-Package for LibreOffice</zh_TW>
+   <am>Nepalese Language Meta-Package for LibreOffice</am>
+   <ar>Nepalese Language Meta-Package for LibreOffice</ar>
+   <bg>Nepalese Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Nepalès per LibreOffice</ca>
+   <cs>Nepalese Language Meta-Package for LibreOffice</cs>
+   <da>Nepalese Language Meta-Package for LibreOffice</da>
+   <de>Nepalesisches Meta-Paket für LibreOffice</de>
+   <el>Nepalese Language Meta-Package for LibreOffice</el>
+   <en>Nepalese Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de idioma nepalí para LibreOffice</es>
+   <et>Nepalese Language Meta-Package for LibreOffice</et>
+   <eu>Nepalese Language Meta-Package for LibreOffice</eu>
+   <fa>Nepalese Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Nepalese Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Nepalese Language Meta-Package for LibreOffice</fi>
+   <fr>Nepalese Language Meta-Package for LibreOffice</fr>
+   <he_IL>Nepalese Language Meta-Package for LibreOffice</he_IL>
+   <hi>Nepalese Language Meta-Package for LibreOffice</hi>
+   <hr>Nepalese Language Meta-Package for LibreOffice</hr>
+   <hu>Nepalese Language Meta-Package for LibreOffice</hu>
+   <id>Nepalese Language Meta-Package for LibreOffice</id>
+   <is>Nepalese Language Meta-Package for LibreOffice</is>
+   <it>Nepalese Language Meta-Package for LibreOffice</it>
+   <ja_JP>Nepalese Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Nepalese Language Meta-Package for LibreOffice</ja>
+   <kk>Nepalese Language Meta-Package for LibreOffice</kk>
+   <ko>Nepalese Language Meta-Package for LibreOffice</ko>
+   <lt>Nepalese Language Meta-Package for LibreOffice</lt>
+   <mk>Nepalese Language Meta-Package for LibreOffice</mk>
+   <mr>Nepalese Language Meta-Package for LibreOffice</mr>
+   <nb>Nepalese Language Meta-Package for LibreOffice</nb>
+   <nl>Nepalees Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Nepalese Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Nepalese Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Nepalês Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Nepalese Language Meta-Package for LibreOffice</ro>
+   <ru>Nepalese Language Meta-Package for LibreOffice</ru>
+   <sk>Nepalese Language Meta-Package for LibreOffice</sk>
+   <sl>Nepalski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Nepalese Language Meta-Package for LibreOffice</sq>
+   <sr>Nepalese Language Meta-Package for LibreOffice</sr>
+   <sv>Nepalesiskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Nepalese Language Meta-Package for LibreOffice</tr>
+   <uk>Nepalese Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Nepalese Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Nepalese Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

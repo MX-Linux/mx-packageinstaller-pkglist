@@ -10,51 +10,52 @@ Portugese(PT) Libreoffice
 </name>
 
 <description>
-   <am>Portugese(PT) Language Meta-Package for LibreOffice</am>
-   <ar>Portugese(PT) Language Meta-Package for LibreOffice</ar>
-   <bg>Portugese(PT) Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet de llengua Portuguesa(PT) per LibreOffice</ca>
-   <cs>Portugese(PT) Language Meta-Package for LibreOffice</cs>
-   <da>Portugisisk (portugal) sprog-metapakke til LibreOffice</da>
-   <de>Portugiesisches (PT) Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα πορτογαλικά</el>
-   <en>Portugese(PT) Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Portugués (PT) para LibreOffice</es>
-   <et>Portugese(PT) Language Meta-Package for LibreOffice</et>
-   <eu>Portugese(PT) Language Meta-Package for LibreOffice</eu>
-   <fa>Portugese(PT) Language Meta-Package for LibreOffice</fa>
-   <fi>Portugese(PT) Language Meta-Package for LibreOffice</fi>
-   <fr>Meta-Paquet de langue Portuguais(PT) pour LibreOffice</fr>
-   <he_IL>Portugese(PT) Language Meta-Package for LibreOffice</he_IL>
-   <hi>Portugese(PT) Language Meta-Package for LibreOffice</hi>
-   <hr>Portugese(PT) Language Meta-Package for LibreOffice</hr>
-   <hu>Portugese(PT) Language Meta-Package for LibreOffice</hu>
-   <id>Portugese(PT) Language Meta-Package for LibreOffice</id>
-   <is>Portugese(PT) Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua portoghese(PT) per LibreOffice</it>
-   <ja_JP>Portugese(PT) Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Portugese(PT) Language Meta-Package for LibreOffice</ja>
-   <kk>Portugese(PT) Language Meta-Package for LibreOffice</kk>
-   <ko>Portugese(PT) Language Meta-Package for LibreOffice</ko>
-   <lt>Portugese(PT) Language Meta-Package for LibreOffice</lt>
-   <mk>Portugese(PT) Language Meta-Package for LibreOffice</mk>
-   <mr>Portugese(PT) Language Meta-Package for LibreOffice</mr>
-   <nb>Portugese(PT) Language Meta-Package for LibreOffice</nb>
-   <nl>Portugese(PT) Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Portugalski (PT) metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Português(PT) Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Português(PT) Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Portugese(PT) Language Meta-Package for LibreOffice</ro>
-   <ru>Portugese(PT) Language Meta-Package for LibreOffice</ru>
-   <sk>Portugese(PT) Language Meta-Package for LibreOffice</sk>
-   <sl>Portugese(PT) Language Meta-Package for LibreOffice</sl>
-   <sq>Portugese(PT) Language Meta-Package for LibreOffice</sq>
-   <sr>Portugese(PT) Language Meta-Package for LibreOffice</sr>
-   <sv>Portugisiskt(PT) Språk Meta-Paket för LibreOffice</sv>
-   <tr>Portugese(PT) Language Meta-Package for LibreOffice</tr>
-   <uk>Portugese(PT) Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Portugese(PT) Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Portugese(PT) Language Meta-Package for LibreOffice</zh_TW>
+   <am>Portugese(PT) Language Meta-Package</am>
+   <ar>Portugese(PT) Language Meta-Package</ar>
+   <bg>Portugese(PT) Language Meta-Package</bg>
+   <ca>Meta-paquet de llengua per Portuguès (PT)</ca>
+   <cs>Portugese(PT) Language Meta-Package</cs>
+   <da>Portugisisk (portugal) sprog-metapakke</da>
+   <de>Portugiesisches (PT) Sprach-Meta-Paket</de>
+   <el>Πορτογαλική γλώσσα</el>
+   <en>Portugese(PT) Language Meta-Package</en>
+   <es>Meta-Paquete de Idioma Portugués (PT)</es>
+   <et>Portugese(PT) Language Meta-Package</et>
+   <eu>Portugese(PT) Language Meta-Package</eu>
+   <fa>Portugese(PT) Language Meta-Package</fa>
+   <fil_PH>Portugese(PT) Language Meta-Package</fil_PH>
+   <fi>Portugese(PT) Language Meta-Package</fi>
+   <fr>Méta-paquet pour langue portugaise (PT)</fr>
+   <he_IL>Portugese(PT) Language Meta-Package</he_IL>
+   <hi>Portugese(PT) Language Meta-Package</hi>
+   <hr>Portugese(PT) Language Meta-Package</hr>
+   <hu>Portugese(PT) Language Meta-Package</hu>
+   <id>Portugese(PT) Language Meta-Package</id>
+   <is>Portugese(PT) Language Meta-Package</is>
+   <it>Meta-pacchetto della lingua portoghese(PT)</it>
+   <ja_JP>Portugese(PT) Language Meta-Package</ja_JP>
+   <ja>Portugese(PT) Language Meta-Package</ja>
+   <kk>Portugese(PT) Language Meta-Package</kk>
+   <ko>Portugese(PT) Language Meta-Package</ko>
+   <lt>Portugese(PT) Language Meta-Package</lt>
+   <mk>Portugese(PT) Language Meta-Package</mk>
+   <mr>Portugese(PT) Language Meta-Package</mr>
+   <nb>Portugese(PT) Language Meta-Package</nb>
+   <nl>Portugese(PT) Taal Meta-Pakket</nl>
+   <pl>Portugalski (PT) metapakiet językowy</pl>
+   <pt_BR>Português(PT) Meta-Pacote de Idioma</pt_BR>
+   <pt>Português(PT) Meta-Pacote de Idioma</pt>
+   <ro>Portugese(PT) Language Meta-Package</ro>
+   <ru>Portugese(PT) Language Meta-Package</ru>
+   <sk>Portugese(PT) Language Meta-Package</sk>
+   <sl>Portugese(PT) Language Meta-Package</sl>
+   <sq>Portugese(PT) Language Meta-Package</sq>
+   <sr>Portugese(PT) Language Meta-Package</sr>
+   <sv>Portugisiskt(PT) Språk Meta-Paket </sv>
+   <tr>Portugese(PT) Language Meta-Package</tr>
+   <uk>Portugese(PT) Language Meta-Package</uk>
+   <zh_CN>Portugese(PT) Language Meta-Package</zh_CN>
+   <zh_TW>Portugese(PT) Language Meta-Package</zh_TW>
 </description>
 
 <installable>

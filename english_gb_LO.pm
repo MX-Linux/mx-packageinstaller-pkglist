@@ -10,51 +10,52 @@ GB_English_Libreoffice
 </name>
 
 <description>
-   <am>GB English Help for LibreOffice</am>
-   <ar>GB English Help for LibreOffice</ar>
-   <bg>GB English Help for LibreOffice</bg>
-   <ca>Ajuda en anglès (UK) per LibreOffice</ca>
-   <cs>GB English Help for LibreOffice</cs>
-   <da>Engelsk (storbritannien) hjælp til LibreOffice</da>
-   <de>English (GB) Help for LibreOffice</de>
-   <el>Βοήθεια για το LibreOffice στα Αγγλικά (ΜΒ)</el>
-   <en>GB English Help for LibreOffice</en>
-   <es>Ayuda Inglesa (GB) para LibreOffice</es>
-   <et>GB English Help for LibreOffice</et>
-   <eu>GB English Help for LibreOffice</eu>
-   <fa>GB English Help for LibreOffice</fa>
-   <fi>GB English Help for LibreOffice</fi>
-   <fr>Aide anglais_GB pour LibreOffice</fr>
-   <he_IL>GB English Help for LibreOffice</he_IL>
-   <hi>GB English Help for LibreOffice</hi>
-   <hr>GB English Help for LibreOffice</hr>
-   <hu>GB English Help for LibreOffice</hu>
-   <id>GB English Help for LibreOffice</id>
-   <is>GB English Help for LibreOffice</is>
-   <it>Guida in Inglese GB per LibreOffice</it>
-   <ja_JP>GB English Help for LibreOffice</ja_JP>
-   <ja>GB English Help for LibreOffice</ja>
-   <kk>GB English Help for LibreOffice</kk>
-   <ko>GB English Help for LibreOffice</ko>
-   <lt>GB English Help for LibreOffice</lt>
-   <mk>GB English Help for LibreOffice</mk>
-   <mr>GB English Help for LibreOffice</mr>
-   <nb>GB English Help for LibreOffice</nb>
-   <nl>GB Engelse Hulp voor LibreOffice</nl>
-   <pl>Angielski Brytyjski pomoc dla LibreOffice</pl>
-   <pt_BR>GB Inglês Help para LibreOffice</pt_BR>
-   <pt>Inglês GB Help para LibreOffice</pt>
-   <ro>GB English Help for LibreOffice</ro>
-   <ru>GB English Help for LibreOffice</ru>
-   <sk>GB English Help for LibreOffice</sk>
-   <sl>GB English Help for LibreOffice</sl>
-   <sq>GB English Help for LibreOffice</sq>
-   <sr>GB English Help for LibreOffice</sr>
-   <sv>GB Engelsk Hjälp för LibreOffice</sv>
-   <tr>GB English Help for LibreOffice</tr>
-   <uk>GB English довідка LibreOffice</uk>
-   <zh_CN>GB English Help for LibreOffice</zh_CN>
-   <zh_TW>GB English Help for LibreOffice</zh_TW>
+   <am>GB English localisation of Thunderbird</am>
+   <ar>GB English localisation of Thunderbird</ar>
+   <bg>GB English localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en anglès (UK)</ca>
+   <cs>GB English localisation of Thunderbird</cs>
+   <da>Engelsk (storbritannien) oversættelse af Thunderbird</da>
+   <de>Englische (GB) Lokalisierung von Thunderbird</de>
+   <el>Αγγλικός (ΜΒ) εντοπισμός του Thunderbird</el>
+   <en>GB English localisation of Thunderbird</en>
+   <es>Localización Inglesa (GB) de Thunderbird</es>
+   <et>GB English localisation of Thunderbird</et>
+   <eu>GB English localisation of Thunderbird</eu>
+   <fa>GB English localisation of Thunderbird</fa>
+   <fil_PH>GB English localisation of Thunderbird</fil_PH>
+   <fi>GB English localisation of Thunderbird</fi>
+   <fr>Localisation anglaise_GB pour Thunderbird</fr>
+   <he_IL>GB English localisation of Thunderbird</he_IL>
+   <hi>GB English localisation of Thunderbird</hi>
+   <hr>GB English localisation of Thunderbird</hr>
+   <hu>GB English localisation of Thunderbird</hu>
+   <id>GB English localisation of Thunderbird</id>
+   <is>GB English localisation of Thunderbird</is>
+   <it>Localizzazione in Inglese GB di Thunderbird</it>
+   <ja_JP>GB English localisation of Thunderbird</ja_JP>
+   <ja>GB English localisation of Thunderbird</ja>
+   <kk>GB English localisation of Thunderbird</kk>
+   <ko>GB English localisation of Thunderbird</ko>
+   <lt>GB English localisation of Thunderbird</lt>
+   <mk>GB English localisation of Thunderbird</mk>
+   <mr>GB English localisation of Thunderbird</mr>
+   <nb>GB English localisation of Thunderbird</nb>
+   <nl>GB Engelse lokalisatie van Thunderbird</nl>
+   <pl>Angielski Brytyjski lokalizacja Thunderbirda</pl>
+   <pt_BR>GB Inglês Localização para Thunderbird</pt_BR>
+   <pt>Inglês GB Localização para Thunderbird</pt>
+   <ro>GB English localisation of Thunderbird</ro>
+   <ru>GB English localisation of Thunderbird</ru>
+   <sk>GB English localisation of Thunderbird</sk>
+   <sl>GB English localisation of Thunderbird</sl>
+   <sq>GB English localisation of Thunderbird</sq>
+   <sr>GB English localisation of Thunderbird</sr>
+   <sv>GB Engelsk lokalisering av Thunderbird</sv>
+   <tr>Thunderbird'ün Britanya İngilizcesi yerelleştirmesi</tr>
+   <uk>GB English локалізація Thunderbird</uk>
+   <zh_CN>GB English localisation of Thunderbird</zh_CN>
+   <zh_TW>GB English localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

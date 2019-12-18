@@ -10,51 +10,52 @@ Oromo_Libreoffice
 </name>
 
 <description>
-   <am>Oromo Language Meta-Package for LibreOffice</am>
-   <ar>Oromo Language Meta-Package for LibreOffice</ar>
-   <bg>Oromo Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Oromo per LibreOffice</ca>
-   <cs>Oromo Language Meta-Package for LibreOffice</cs>
-   <da>Oromo sprog-metapakke til LibreOffice</da>
-   <de>Oromo Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Oromo</el>
-   <en>Oromo Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Oromo para LibreOffice</es>
-   <et>Oromo Language Meta-Package for LibreOffice</et>
-   <eu>Oromo Language Meta-Package for LibreOffice</eu>
-   <fa>Oromo Language Meta-Package for LibreOffice</fa>
-   <fi>Oromo Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Oromo pour LibreOffice</fr>
-   <he_IL>Oromo Language Meta-Package for LibreOffice</he_IL>
-   <hi>Oromo Language Meta-Package for LibreOffice</hi>
-   <hr>Oromo Language Meta-Package for LibreOffice</hr>
-   <hu>Oromo Language Meta-Package for LibreOffice</hu>
-   <id>Oromo Language Meta-Package for LibreOffice</id>
-   <is>Oromo Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Oromo per LibreOffice</it>
-   <ja_JP>Oromo Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Oromo Language Meta-Package for LibreOffice</ja>
-   <kk>Oromo Language Meta-Package for LibreOffice</kk>
-   <ko>Oromo Language Meta-Package for LibreOffice</ko>
-   <lt>Oromo Language Meta-Package for LibreOffice</lt>
-   <mk>Oromo Language Meta-Package for LibreOffice</mk>
-   <mr>Oromo Language Meta-Package for LibreOffice</mr>
-   <nb>Oromo Language Meta-Package for LibreOffice</nb>
-   <nl>Oromo Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Oromo metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Oromo Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Oromo Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Oromo Language Meta-Package for LibreOffice</ro>
-   <ru>Oromo Language Meta-Package for LibreOffice</ru>
-   <sk>Oromo Language Meta-Package for LibreOffice</sk>
-   <sl>Oromo Language Meta-Package for LibreOffice</sl>
-   <sq>Oromo Language Meta-Package for LibreOffice</sq>
-   <sr>Oromo Language Meta-Package for LibreOffice</sr>
-   <sv>Oromo Språk Meta-Paket för LibreOffice</sv>
-   <tr>Oromo Language Meta-Package for LibreOffice</tr>
-   <uk>Oromo Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Oromo Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Oromo Language Meta-Package for LibreOffice</zh_TW>
+   <am>Palemoon from the mx repo</am>
+   <ar>Palemoon from the mx repo</ar>
+   <bg>Palemoon from the mx repo</bg>
+   <ca>Palemoon del dipòsit de MX</ca>
+   <cs>Palemoon from the mx repo</cs>
+   <da>Palemoon mx-softwarekilden</da>
+   <de>Pale Moon aus dem MX-Repo</de>
+   <el>Palemoon από το mx repo</el>
+   <en>Palemoon from the mx repo</en>
+   <es>Palemoon desde el repositorio de MX</es>
+   <et>Palemoon from the mx repo</et>
+   <eu>Palemoon from the mx repo</eu>
+   <fa>Palemoon from the mx repo</fa>
+   <fil_PH>Palemoon from the mx repo</fil_PH>
+   <fi>Palemoon from the mx repo</fi>
+   <fr>Palemoon du dépôt MX</fr>
+   <he_IL>Palemoon from the mx repo</he_IL>
+   <hi>Palemoon from the mx repo</hi>
+   <hr>Palemoon from the mx repo</hr>
+   <hu>Palemoon from the mx repo</hu>
+   <id>Palemoon from the mx repo</id>
+   <is>Palemoon from the mx repo</is>
+   <it>Palemoon dal repo mx</it>
+   <ja_JP>Palemoon from the mx repo</ja_JP>
+   <ja>Palemoon from the mx repo</ja>
+   <kk>Palemoon from the mx repo</kk>
+   <ko>Palemoon from the mx repo</ko>
+   <lt>Palemoon iš mx saugyklos</lt>
+   <mk>Palemoon from the mx repo</mk>
+   <mr>Palemoon from the mx repo</mr>
+   <nb>Palemoon from the mx repo</nb>
+   <nl>Palemoon uit de mx pakketbron</nl>
+   <pl>Palemoon z repozytorium MX</pl>
+   <pt_BR>Navegador web Palemoon do repositório mx repo</pt_BR>
+   <pt>Navegador web Palemoon do repositório mx repo</pt>
+   <ro>Palemoon from the mx repo</ro>
+   <ru>Браузер Palemoon из репозитория mx</ru>
+   <sk>Palemoon from the mx repo</sk>
+   <sl>Palemoon iz mx repozitorija</sl>
+   <sq>Palemoon from the mx repo</sq>
+   <sr>Palemoon from the mx repo</sr>
+   <sv>Palemoon från mx repo</sv>
+   <tr>Palemoon from the mx repo</tr>
+   <uk>Palemoon зі сховища mx</uk>
+   <zh_CN>Palemoon from the mx repo</zh_CN>
+   <zh_TW>Palemoon from the mx repo</zh_TW>
 </description>
 
 <installable>

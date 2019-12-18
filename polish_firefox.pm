@@ -10,51 +10,52 @@ Polish_Firefox
 </name>
 
 <description>
-   <am>Polish localisation of Firefox</am>
-   <ar>Polish localisation of Firefox</ar>
-   <bg>Polish localisation of Firefox</bg>
-   <ca>Localització de Firefox en Polonès</ca>
-   <cs>Polish localisation of Firefox</cs>
-   <da>Polsk oversættelse af Firefox</da>
-   <de>Polnische Lokalisierung von Firefox</de>
-   <el>Πολωνική εντοπισμός του Firefox</el>
-   <en>Polish localisation of Firefox</en>
-   <es>Localización Polaca de Firefox</es>
-   <et>Polish localisation of Firefox</et>
-   <eu>Polish localisation of Firefox</eu>
-   <fa>Polish localisation of Firefox</fa>
-   <fi>Polish localisation of Firefox</fi>
-   <fr>Localisation polonaise pour Firefox</fr>
-   <he_IL>Polish localisation of Firefox</he_IL>
-   <hi>Polish localisation of Firefox</hi>
-   <hr>Polish localisation of Firefox</hr>
-   <hu>Polish localisation of Firefox</hu>
-   <id>Polish localisation of Firefox</id>
-   <is>Polish localisation of Firefox</is>
-   <it>Localizzazione polacca di Firefox</it>
-   <ja_JP>Polish localisation of Firefox</ja_JP>
-   <ja>Polish localisation of Firefox</ja>
-   <kk>Polish localisation of Firefox</kk>
-   <ko>Polish localisation of Firefox</ko>
-   <lt>Polish localisation of Firefox</lt>
-   <mk>Polish localisation of Firefox</mk>
-   <mr>Polish localisation of Firefox</mr>
-   <nb>Polish localisation of Firefox</nb>
-   <nl>Poolse lokalisatie van Firefox</nl>
-   <pl>Polska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Polonês Localização para Firefox</pt_BR>
-   <pt>Polaco Localização para Firefox</pt>
-   <ro>Polish localisation of Firefox</ro>
-   <ru>Польская локализация Firefox</ru>
-   <sk>Polish localisation of Firefox</sk>
-   <sl>Polish localisation of Firefox</sl>
-   <sq>Polish localisation of Firefox</sq>
-   <sr>Polish localisation of Firefox</sr>
-   <sv>Polsk lokalisering av Firefox</sv>
-   <tr>Polish localisation of Firefox</tr>
-   <uk>Polish локалізація Firefox</uk>
-   <zh_CN>Polish localisation of Firefox</zh_CN>
-   <zh_TW>Polish localisation of Firefox</zh_TW>
+   <am>Polish Language Meta-Package for LibreOffice</am>
+   <ar>Polish Language Meta-Package for LibreOffice</ar>
+   <bg>Polish Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet de llengua per LibreOffice en Polonès</ca>
+   <cs>Polish Language Meta-Package for LibreOffice</cs>
+   <da>Polsk sprog-metapakke til LibreOffice</da>
+   <de>Polnisches Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα πολωνικά</el>
+   <en>Polish Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Polaco para LibreOffice</es>
+   <et>Polish Language Meta-Package for LibreOffice</et>
+   <eu>Polish Language Meta-Package for LibreOffice</eu>
+   <fa>Polish Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Polish Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Polish Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue polonaise pour LibreOffice</fr>
+   <he_IL>Polish Language Meta-Package for LibreOffice</he_IL>
+   <hi>Polish Language Meta-Package for LibreOffice</hi>
+   <hr>Polish Language Meta-Package for LibreOffice</hr>
+   <hu>Polish Language Meta-Package for LibreOffice</hu>
+   <id>Polish Language Meta-Package for LibreOffice</id>
+   <is>Polish Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua polacca per LibreOffice</it>
+   <ja_JP>Polish Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Polish Language Meta-Package for LibreOffice</ja>
+   <kk>Polish Language Meta-Package for LibreOffice</kk>
+   <ko>Polish Language Meta-Package for LibreOffice</ko>
+   <lt>Polish Language Meta-Package for LibreOffice</lt>
+   <mk>Polish Language Meta-Package for LibreOffice</mk>
+   <mr>Polish Language Meta-Package for LibreOffice</mr>
+   <nb>Polish Language Meta-Package for LibreOffice</nb>
+   <nl>Poolse Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Polski metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Polonês Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Polaco Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Polish Language Meta-Package for LibreOffice</ro>
+   <ru>Polish Language Meta-Package for LibreOffice</ru>
+   <sk>Polish Language Meta-Package for LibreOffice</sk>
+   <sl>Polish Language Meta-Package for LibreOffice</sl>
+   <sq>Polish Language Meta-Package for LibreOffice</sq>
+   <sr>Polish Language Meta-Package for LibreOffice</sr>
+   <sv>Polskt Språk Meta-Paket för LibreOffice </sv>
+   <tr>Polish Language Meta-Package for LibreOffice</tr>
+   <uk>Polish Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Polish Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Polish Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

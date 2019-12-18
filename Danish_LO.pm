@@ -10,51 +10,52 @@ Danish_Libreoffice
 </name>
 
 <description>
-   <am>Danish Language Meta-Package for LibreOffice</am>
-   <ar>Danish Language Meta-Package for LibreOffice</ar>
-   <bg>Danish Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Danish per LibreOffice</ca>
-   <cs>Danish Language Meta-Package for LibreOffice</cs>
-   <da>Danish sprog-metapakke til LibreOffice</da>
-   <de>Danish Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Danish</el>
-   <en>Danish Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Danish para LibreOffice</es>
-   <et>Danish Language Meta-Package for LibreOffice</et>
-   <eu>Danish Language Meta-Package for LibreOffice</eu>
-   <fa>Danish Language Meta-Package for LibreOffice</fa>
-   <fi>Danish Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Danish pour LibreOffice</fr>
-   <he_IL>Danish Language Meta-Package for LibreOffice</he_IL>
-   <hi>Danish Language Meta-Package for LibreOffice</hi>
-   <hr>Danish Language Meta-Package for LibreOffice</hr>
-   <hu>Danish Language Meta-Package for LibreOffice</hu>
-   <id>Danish Language Meta-Package for LibreOffice</id>
-   <is>Danish Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Danish per LibreOffice</it>
-   <ja_JP>Danish Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Danish Language Meta-Package for LibreOffice</ja>
-   <kk>Danish Language Meta-Package for LibreOffice</kk>
-   <ko>Danish Language Meta-Package for LibreOffice</ko>
-   <lt>Danish Language Meta-Package for LibreOffice</lt>
-   <mk>Danish Language Meta-Package for LibreOffice</mk>
-   <mr>Danish Language Meta-Package for LibreOffice</mr>
-   <nb>Danish Language Meta-Package for LibreOffice</nb>
-   <nl>Danish Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Danish metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Danish Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Danish Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Danish Language Meta-Package for LibreOffice</ro>
-   <ru>Danish Language Meta-Package for LibreOffice</ru>
-   <sk>Danish Language Meta-Package for LibreOffice</sk>
-   <sl>Danish Language Meta-Package for LibreOffice</sl>
-   <sq>Danish Language Meta-Package for LibreOffice</sq>
-   <sr>Danish Language Meta-Package for LibreOffice</sr>
-   <sv>Danish Språk Meta-Paket för LibreOffice</sv>
-   <tr>Danish Language Meta-Package for LibreOffice</tr>
-   <uk>Danish Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Danish Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Danish Language Meta-Package for LibreOffice</zh_TW>
+   <am>Danish localisation of Thunderbird</am>
+   <ar>Danish localisation of Thunderbird</ar>
+   <bg>Danish localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Danès</ca>
+   <cs>Danish localisation of Thunderbird</cs>
+   <da>Dansk oversættelse af Thunderbird</da>
+   <de>Dänische Lokalisierung von Thunderbird</de>
+   <el>Δανικός εντοπισμός του Thunderbird</el>
+   <en>Danish localisation of Thunderbird</en>
+   <es>Localización Danesa de Thunderbird</es>
+   <et>Danish localisation of Thunderbird</et>
+   <eu>Danish localisation of Thunderbird</eu>
+   <fa>Danish localisation of Thunderbird</fa>
+   <fil_PH>Danish localisation of Thunderbird</fil_PH>
+   <fi>Danish localisation of Thunderbird</fi>
+   <fr>Localisation danoise pour Thunderbird</fr>
+   <he_IL>Danish localisation of Thunderbird</he_IL>
+   <hi>Danish localisation of Thunderbird</hi>
+   <hr>Danish localisation of Thunderbird</hr>
+   <hu>Danish localisation of Thunderbird</hu>
+   <id>Danish localisation of Thunderbird</id>
+   <is>Danish localisation of Thunderbird</is>
+   <it>Localizzazione danese di Thunderbird</it>
+   <ja_JP>Danish localisation of Thunderbird</ja_JP>
+   <ja>Danish localisation of Thunderbird</ja>
+   <kk>Danish localisation of Thunderbird</kk>
+   <ko>Danish localisation of Thunderbird</ko>
+   <lt>Danish localisation of Thunderbird</lt>
+   <mk>Danish localisation of Thunderbird</mk>
+   <mr>Danish localisation of Thunderbird</mr>
+   <nb>Danish localisation of Thunderbird</nb>
+   <nl>Deense lokalisatie van Thunderbird</nl>
+   <pl>Duńska lokalizacja Thunderbirda</pl>
+   <pt_BR>Dinamarquês Localização para Thunderbird</pt_BR>
+   <pt>Dinamarquês Localização para Thunderbird</pt>
+   <ro>Danish localisation of Thunderbird</ro>
+   <ru>Danish localisation of Thunderbird</ru>
+   <sk>Danish localisation of Thunderbird</sk>
+   <sl>Danish localisation of Thunderbird</sl>
+   <sq>Danish localisation of Thunderbird</sq>
+   <sr>Danish localisation of Thunderbird</sr>
+   <sv>Dansk lokalisering av Thunderbird</sv>
+   <tr>Thunderbird'ün Danimarkaca yerelleştirmesi</tr>
+   <uk>Danish локалізація Thunderbird</uk>
+   <zh_CN>Danish localisation of Thunderbird</zh_CN>
+   <zh_TW>Danish localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

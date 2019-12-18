@@ -10,51 +10,52 @@ Italian_Thunderbird
 </name>
 
 <description>
-   <am>Italian localisation of Thunderbird</am>
-   <ar>Italian localisation of Thunderbird</ar>
-   <bg>Italian localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en italià</ca>
-   <cs>Italian localisation of Thunderbird</cs>
-   <da>Italiensk oversættelse af Thunderbird</da>
-   <de>Italienische Lokalisierung von Thunderbird</de>
-   <el>Ιταλικός εντοπισμός του Thunderbird</el>
-   <en>Italian localisation of Thunderbird</en>
-   <es>Localización Italiana de Thunderbird</es>
-   <et>Italian localisation of Thunderbird</et>
-   <eu>Italian localisation of Thunderbird</eu>
-   <fa>Italian localisation of Thunderbird</fa>
-   <fi>Italian localisation of Thunderbird</fi>
-   <fr>Localisation italienne pour Thunderbird</fr>
-   <he_IL>Italian localisation of Thunderbird</he_IL>
-   <hi>Italian localisation of Thunderbird</hi>
-   <hr>Italian localisation of Thunderbird</hr>
-   <hu>Italian localisation of Thunderbird</hu>
-   <id>Italian localisation of Thunderbird</id>
-   <is>Italian localisation of Thunderbird</is>
-   <it>Localizzazione italiana di Thunderbird</it>
-   <ja_JP>Italian localisation of Thunderbird</ja_JP>
-   <ja>Italian localisation of Thunderbird</ja>
-   <kk>Italian localisation of Thunderbird</kk>
-   <ko>Italian localisation of Thunderbird</ko>
-   <lt>Italian localisation of Thunderbird</lt>
-   <mk>Italian localisation of Thunderbird</mk>
-   <mr>Italian localisation of Thunderbird</mr>
-   <nb>Italian localisation of Thunderbird</nb>
-   <nl>Italiaanse lokalisatie van Thunderbird</nl>
-   <pl>Włoska lokalizacja Thunderbirda</pl>
-   <pt_BR>Italiano Localização para Thunderbird</pt_BR>
-   <pt>Italiano Localização para Thunderbird</pt>
-   <ro>Italian localisation of Thunderbird</ro>
-   <ru>Italian localisation of Thunderbird</ru>
-   <sk>Italian localisation of Thunderbird</sk>
-   <sl>Italian localisation of Thunderbird</sl>
-   <sq>Italian localisation of Thunderbird</sq>
-   <sr>Italian localisation of Thunderbird</sr>
-   <sv>Italiensk lokalisering av Thunderbird</sv>
-   <tr>Italian localisation of Thunderbird</tr>
-   <uk>Italian локалізація Thunderbird</uk>
-   <zh_CN>Italian localisation of Thunderbird</zh_CN>
-   <zh_TW>Italian localisation of Thunderbird</zh_TW>
+   <am>Japanese localisation of Firefox</am>
+   <ar>Japanese localisation of Firefox</ar>
+   <bg>Japanese localisation of Firefox</bg>
+   <ca>Localització de Firefox en Japonès</ca>
+   <cs>Japanese localisation of Firefox</cs>
+   <da>Japansk oversættelse af Firefox</da>
+   <de>Japanische Lokalisierung von Firefox</de>
+   <el>Ιαπωνικό εντοπισμό του Firefox</el>
+   <en>Japanese localisation of Firefox</en>
+   <es>Localización Japonesa de Firefox</es>
+   <et>Japanese localisation of Firefox</et>
+   <eu>Japanese localisation of Firefox</eu>
+   <fa>Japanese localisation of Firefox</fa>
+   <fil_PH>Japanese localisation of Firefox</fil_PH>
+   <fi>Japanese localisation of Firefox</fi>
+   <fr>Localisation japonaise pour Firefox</fr>
+   <he_IL>Japanese localisation of Firefox</he_IL>
+   <hi>Japanese localisation of Firefox</hi>
+   <hr>Japanese localisation of Firefox</hr>
+   <hu>Japanese localisation of Firefox</hu>
+   <id>Japanese localisation of Firefox</id>
+   <is>Japanese localisation of Firefox</is>
+   <it>Localizzazione giapponese di Firefox</it>
+   <ja_JP>Japanese localisation of Firefox</ja_JP>
+   <ja>Japanese localisation of Firefox</ja>
+   <kk>Japanese localisation of Firefox</kk>
+   <ko>Japanese localisation of Firefox</ko>
+   <lt>Japanese localisation of Firefox</lt>
+   <mk>Japanese localisation of Firefox</mk>
+   <mr>Japanese localisation of Firefox</mr>
+   <nb>Japanese localisation of Firefox</nb>
+   <nl>Japanse lokalisatie van Firefox</nl>
+   <pl>Japońska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Japonês Localização para Firefox</pt_BR>
+   <pt>Japonês Localização para Firefox</pt>
+   <ro>Japanese localisation of Firefox</ro>
+   <ru>Японская локализация Firefox</ru>
+   <sk>Japanese localisation of Firefox</sk>
+   <sl>Japanese localisation of Firefox</sl>
+   <sq>Japanese localisation of Firefox</sq>
+   <sr>Japanese localisation of Firefox</sr>
+   <sv>Japansk lokalisering av Firefox</sv>
+   <tr>Firefox'un Japonca yerelleştirmesi</tr>
+   <uk>Japanese локалізація Firefox</uk>
+   <zh_CN>Japanese localisation of Firefox</zh_CN>
+   <zh_TW>Japanese localisation of Firefox</zh_TW>
 </description>
 
 <installable>

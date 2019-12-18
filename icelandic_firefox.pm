@@ -10,51 +10,52 @@ Icelandic_Firefox
 </name>
 
 <description>
-   <am>Icelandic localisation of Firefox</am>
-   <ar>Icelandic localisation of Firefox</ar>
-   <bg>Icelandic localisation of Firefox</bg>
-   <ca>Localització de Firefox en Islandès</ca>
-   <cs>Icelandic localisation of Firefox</cs>
-   <da>Islandsk oversættelse af Firefox</da>
-   <de>Isländische Lokalisierung von Firefox</de>
-   <el>Ισλανδικός εντοπισμός του Firefox</el>
-   <en>Icelandic localisation of Firefox</en>
-   <es>Localización Islandesa de Firefox</es>
-   <et>Icelandic localisation of Firefox</et>
-   <eu>Icelandic localisation of Firefox</eu>
-   <fa>Icelandic localisation of Firefox</fa>
-   <fi>Icelandic localisation of Firefox</fi>
-   <fr>Localisation islandaise pour Firefox</fr>
-   <he_IL>Icelandic localisation of Firefox</he_IL>
-   <hi>Icelandic localisation of Firefox</hi>
-   <hr>Icelandic localisation of Firefox</hr>
-   <hu>Icelandic localisation of Firefox</hu>
-   <id>Icelandic localisation of Firefox</id>
-   <is>Icelandic localisation of Firefox</is>
-   <it>Localizzazione islandese di Firefox</it>
-   <ja_JP>Icelandic localisation of Firefox</ja_JP>
-   <ja>Icelandic localisation of Firefox</ja>
-   <kk>Icelandic localisation of Firefox</kk>
-   <ko>Icelandic localisation of Firefox</ko>
-   <lt>Icelandic localisation of Firefox</lt>
-   <mk>Icelandic localisation of Firefox</mk>
-   <mr>Icelandic localisation of Firefox</mr>
-   <nb>Icelandic localisation of Firefox</nb>
-   <nl>IJslandse lokalisatie van Firefox</nl>
-   <pl>Islandzka lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Islandês Localização para Firefox</pt_BR>
-   <pt>Islandês Localização para Firefox</pt>
-   <ro>Icelandic localisation of Firefox</ro>
-   <ru>Исландская локализация Firefox</ru>
-   <sk>Icelandic localisation of Firefox</sk>
-   <sl>Icelandic localisation of Firefox</sl>
-   <sq>Icelandic localisation of Firefox</sq>
-   <sr>Icelandic localisation of Firefox</sr>
-   <sv>Isländsk lokalisering av Firefox </sv>
-   <tr>Icelandic localisation of Firefox</tr>
-   <uk>Icelandic локалізація Firefox</uk>
-   <zh_CN>Icelandic localisation of Firefox</zh_CN>
-   <zh_TW>Icelandic localisation of Firefox</zh_TW>
+   <am>Icelandic Language Meta-Package for LibreOffice</am>
+   <ar>Icelandic Language Meta-Package for LibreOffice</ar>
+   <bg>Icelandic Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Islandès per LibreOffice</ca>
+   <cs>Icelandic Language Meta-Package for LibreOffice</cs>
+   <da>Icelandic Language Meta-Package for LibreOffice</da>
+   <de>Isländisches Meta-Paket für LibreOffice</de>
+   <el>Icelandic Language Meta-Package for LibreOffice</el>
+   <en>Icelandic Language Meta-Package for LibreOffice</en>
+   <es>Meta Paquete de Idioma Islandés para LibreOffice</es>
+   <et>Icelandic Language Meta-Package for LibreOffice</et>
+   <eu>Icelandic Language Meta-Package for LibreOffice</eu>
+   <fa>Icelandic Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Icelandic Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Icelandic Language Meta-Package for LibreOffice</fi>
+   <fr>Icelandic Language Meta-Package for LibreOffice</fr>
+   <he_IL>Icelandic Language Meta-Package for LibreOffice</he_IL>
+   <hi>Icelandic Language Meta-Package for LibreOffice</hi>
+   <hr>Icelandic Language Meta-Package for LibreOffice</hr>
+   <hu>Icelandic Language Meta-Package for LibreOffice</hu>
+   <id>Icelandic Language Meta-Package for LibreOffice</id>
+   <is>Icelandic Language Meta-Package for LibreOffice</is>
+   <it>Icelandic Language Meta-Package for LibreOffice</it>
+   <ja_JP>Icelandic Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Icelandic Language Meta-Package for LibreOffice</ja>
+   <kk>Icelandic Language Meta-Package for LibreOffice</kk>
+   <ko>Icelandic Language Meta-Package for LibreOffice</ko>
+   <lt>Icelandic Language Meta-Package for LibreOffice</lt>
+   <mk>Icelandic Language Meta-Package for LibreOffice</mk>
+   <mr>Icelandic Language Meta-Package for LibreOffice</mr>
+   <nb>Icelandic Language Meta-Package for LibreOffice</nb>
+   <nl>IJslandse Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Icelandic Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Icelandic Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Islandês Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Icelandic Language Meta-Package for LibreOffice</ro>
+   <ru>Icelandic Language Meta-Package for LibreOffice</ru>
+   <sk>Icelandic Language Meta-Package for LibreOffice</sk>
+   <sl>Islandski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Icelandic Language Meta-Package for LibreOffice</sq>
+   <sr>Icelandic Language Meta-Package for LibreOffice</sr>
+   <sv>Isländskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Icelandic Language Meta-Package for LibreOffice</tr>
+   <uk>Icelandic Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Icelandic Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Icelandic Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

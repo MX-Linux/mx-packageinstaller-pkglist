@@ -10,51 +10,52 @@ Vietnamese_Input_fcitx
 </name>
 
 <description>
-   <am>Vietnamese Fonts and fcitx</am>
-   <ar>Vietnamese Fonts and fcitx</ar>
-   <bg>Vietnamese Fonts and fcitx</bg>
-   <ca>Tipus de lletra i FCITX Vietnamesos</ca>
-   <cs>Vietnamese Fonts and fcitx</cs>
-   <da>Vietnamesisk skrifttyper og fcitx</da>
-   <de>Vietnamesische Schriftzeichen und Fcitx</de>
-   <el>Βιετναμέζικες γραμματοσειρές και fcitx</el>
-   <en>Vietnamese Fonts and fcitx</en>
-   <es>Fuentes tipográficas vietnamitas y fcitx</es>
-   <et>Vietnamese Fonts and fcitx</et>
-   <eu>Vietnamese Fonts and fcitx</eu>
-   <fa>Vietnamese Fonts and fcitx</fa>
-   <fi>Vietnamese Fonts and fcitx</fi>
-   <fr>Polices vietnamiennes et fcitx</fr>
-   <he_IL>Vietnamese Fonts and fcitx</he_IL>
-   <hi>Vietnamese Fonts and fcitx</hi>
-   <hr>Vietnamese Fonts and fcitx</hr>
-   <hu>Vietnamese Fonts and fcitx</hu>
-   <id>Vietnamese Fonts and fcitx</id>
-   <is>Vietnamese Fonts and fcitx</is>
-   <it>Font e fcitx per la lingua vietnamita</it>
-   <ja_JP>Vietnamese Fonts and fcitx</ja_JP>
-   <ja>Vietnamese Fonts and fcitx</ja>
-   <kk>Vietnamese Fonts and fcitx</kk>
-   <ko>Vietnamese Fonts and fcitx</ko>
-   <lt>Vietnamese Fonts and fcitx</lt>
-   <mk>Vietnamese Fonts and fcitx</mk>
-   <mr>Vietnamese Fonts and fcitx</mr>
-   <nb>Vietnamese Fonts and fcitx</nb>
-   <nl>Vietnamese Fonts en fcitx</nl>
-   <pl>Wietnamskie fonty i fcitx</pl>
-   <pt_BR>Vietnamita Fontes e fcitx</pt_BR>
-   <pt>Vietnamita Fontes e fcitx</pt>
-   <ro>Vietnamese Fonts and fcitx</ro>
-   <ru>Vietnamese Fonts and fcitx</ru>
-   <sk>Vietnamese Fonts and fcitx</sk>
-   <sl>Vietnamese Fonts and fcitx</sl>
-   <sq>Vietnamese Fonts and fcitx</sq>
-   <sr>Vietnamese Fonts and fcitx</sr>
-   <sv>Vietnamesiska Typsnitt och fcitx</sv>
-   <tr>Vietnamese Fonts and fcitx</tr>
-   <uk>Vietnamese Fonts and fcitx</uk>
-   <zh_CN>Vietnamese Fonts and fcitx</zh_CN>
-   <zh_TW>Vietnamese Fonts and fcitx</zh_TW>
+   <am>Vietnamese Fonts and ibus</am>
+   <ar>Vietnamese Fonts and ibus</ar>
+   <bg>Vietnamese Fonts and ibus</bg>
+   <ca>Tipus de lletra i IBUS Vietnamesos</ca>
+   <cs>Vietnamese Fonts and ibus</cs>
+   <da>Vietnamesisk skrifttyper og ibus</da>
+   <de>Vietnamesische Schriftzeichen und IBus</de>
+   <el>Βιετναμέζικες γραμματοσειρές και ibus</el>
+   <en>Vietnamese Fonts and ibus</en>
+   <es>Fuentes tipográficas e IBus vietnamitas</es>
+   <et>Vietnamese Fonts and ibus</et>
+   <eu>Vietnamese Fonts and ibus</eu>
+   <fa>Vietnamese Fonts and ibus</fa>
+   <fil_PH>Vietnamese Fonts and ibus</fil_PH>
+   <fi>Vietnamese Fonts and ibus</fi>
+   <fr>Polices vietnamiennes et ibus</fr>
+   <he_IL>Vietnamese Fonts and ibus</he_IL>
+   <hi>Vietnamese Fonts and ibus</hi>
+   <hr>Vietnamese Fonts and ibus</hr>
+   <hu>Vietnamese Fonts and ibus</hu>
+   <id>Vietnamese Fonts and ibus</id>
+   <is>Vietnamese Fonts and ibus</is>
+   <it>Fonts e ibus per la lingua vietnamita</it>
+   <ja_JP>Vietnamese Fonts and ibus</ja_JP>
+   <ja>Vietnamese Fonts and ibus</ja>
+   <kk>Vietnamese Fonts and ibus</kk>
+   <ko>Vietnamese Fonts and ibus</ko>
+   <lt>Vietnamese Fonts and ibus</lt>
+   <mk>Vietnamese Fonts and ibus</mk>
+   <mr>Vietnamese Fonts and ibus</mr>
+   <nb>Vietnamese Fonts and ibus</nb>
+   <nl>Vietnamese Fonts en ibus</nl>
+   <pl>Wietnamskie fonty i ibus</pl>
+   <pt_BR>Vietnamita Fontes e ibus</pt_BR>
+   <pt>Vietnamita Fontes e ibus</pt>
+   <ro>Vietnamese Fonts and ibus</ro>
+   <ru>Vietnamese Fonts and ibus</ru>
+   <sk>Vietnamese Fonts and ibus</sk>
+   <sl>Vietnamese Fonts and ibus</sl>
+   <sq>Vietnamese Fonts and ibus</sq>
+   <sr>Vietnamese Fonts and ibus</sr>
+   <sv>Vietnamesiska Typsnitt och ibus</sv>
+   <tr>Vietnamese Fonts and ibus</tr>
+   <uk>Vietnamese Fonts and ibus</uk>
+   <zh_CN>Vietnamese Fonts and ibus</zh_CN>
+   <zh_TW>Vietnamese Fonts and ibus</zh_TW>
 </description>
 
 <installable>

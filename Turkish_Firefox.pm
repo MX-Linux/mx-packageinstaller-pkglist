@@ -10,51 +10,52 @@ Turkish_Firefox
 </name>
 
 <description>
-   <am>Turkish localisation of Firefox</am>
-   <ar>Turkish localisation of Firefox</ar>
-   <bg>Turkish localisation of Firefox</bg>
-   <ca>Localització de Firefox en Turc</ca>
-   <cs>Turkish localisation of Firefox</cs>
-   <da>Tyrkisk oversættelse af Firefox</da>
-   <de>Türkische Lokalisierung von Firefox</de>
-   <el>Τουρκικός εντοπισμός του Firefox</el>
-   <en>Turkish localisation of Firefox</en>
-   <es>Localización Turca de Firefox</es>
-   <et>Turkish localisation of Firefox</et>
-   <eu>Turkish localisation of Firefox</eu>
-   <fa>Turkish localisation of Firefox</fa>
-   <fi>Turkish localisation of Firefox</fi>
-   <fr>Localisation turque pour Firefox</fr>
-   <he_IL>Turkish localisation of Firefox</he_IL>
-   <hi>Turkish localisation of Firefox</hi>
-   <hr>Turkish localisation of Firefox</hr>
-   <hu>Turkish localisation of Firefox</hu>
-   <id>Turkish localisation of Firefox</id>
-   <is>Turkish localisation of Firefox</is>
-   <it>Localizzazione turca di Firefox</it>
-   <ja_JP>Turkish localisation of Firefox</ja_JP>
-   <ja>Turkish localisation of Firefox</ja>
-   <kk>Turkish localisation of Firefox</kk>
-   <ko>Turkish localisation of Firefox</ko>
-   <lt>Turkish localisation of Firefox</lt>
-   <mk>Turkish localisation of Firefox</mk>
-   <mr>Turkish localisation of Firefox</mr>
-   <nb>Turkish localisation of Firefox</nb>
-   <nl>Turkse lokalisatie van Firefox</nl>
-   <pl>Turecka lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Turco Localização para Firefox</pt_BR>
-   <pt>Turco Localização para Firefox</pt>
-   <ro>Turkish localisation of Firefox</ro>
-   <ru>Турецкая локализация Firefox</ru>
-   <sk>Turkish localisation of Firefox</sk>
-   <sl>Turkish localisation of Firefox</sl>
-   <sq>Turkish localisation of Firefox</sq>
-   <sr>Turkish localisation of Firefox</sr>
-   <sv>Turkisk lokalisering av Firefox</sv>
-   <tr>Turkish localisation of Firefox</tr>
-   <uk>Turkish localisation of Firefox</uk>
-   <zh_CN>Turkish localisation of Firefox</zh_CN>
-   <zh_TW>Turkish localisation of Firefox</zh_TW>
+   <am>Turkish Language Meta-Package for LibreOffice</am>
+   <ar>Turkish Language Meta-Package for LibreOffice</ar>
+   <bg>Turkish Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Turc per LibreOffice</ca>
+   <cs>Turkish Language Meta-Package for LibreOffice</cs>
+   <da>Turkish Language Meta-Package for LibreOffice</da>
+   <de>Türkisches Meta-Paket für LibreOffice</de>
+   <el>Turkish Language Meta-Package for LibreOffice</el>
+   <en>Turkish Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de idioma turco para LibreOffice</es>
+   <et>Turkish Language Meta-Package for LibreOffice</et>
+   <eu>Turkish Language Meta-Package for LibreOffice</eu>
+   <fa>Turkish Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Turkish Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Turkish Language Meta-Package for LibreOffice</fi>
+   <fr>Turkish Language Meta-Package for LibreOffice</fr>
+   <he_IL>Turkish Language Meta-Package for LibreOffice</he_IL>
+   <hi>Turkish Language Meta-Package for LibreOffice</hi>
+   <hr>Turkish Language Meta-Package for LibreOffice</hr>
+   <hu>Turkish Language Meta-Package for LibreOffice</hu>
+   <id>Turkish Language Meta-Package for LibreOffice</id>
+   <is>Turkish Language Meta-Package for LibreOffice</is>
+   <it>Turkish Language Meta-Package for LibreOffice</it>
+   <ja_JP>Turkish Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Turkish Language Meta-Package for LibreOffice</ja>
+   <kk>Turkish Language Meta-Package for LibreOffice</kk>
+   <ko>Turkish Language Meta-Package for LibreOffice</ko>
+   <lt>Turkish Language Meta-Package for LibreOffice</lt>
+   <mk>Turkish Language Meta-Package for LibreOffice</mk>
+   <mr>Turkish Language Meta-Package for LibreOffice</mr>
+   <nb>Turkish Language Meta-Package for LibreOffice</nb>
+   <nl>Turkish Language Meta-Package for LibreOffice</nl>
+   <pl>Turkish Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Turkish Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Turco Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Turkish Language Meta-Package for LibreOffice</ro>
+   <ru>Turkish Language Meta-Package for LibreOffice</ru>
+   <sk>Turkish Language Meta-Package for LibreOffice</sk>
+   <sl>Turškijezikovni meta-paket za LibreOffice</sl>
+   <sq>Turkish Language Meta-Package for LibreOffice</sq>
+   <sr>Turkish Language Meta-Package for LibreOffice</sr>
+   <sv>Turkiskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Turkish Language Meta-Package for LibreOffice</tr>
+   <uk>Turkish Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Turkish Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Turkish Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

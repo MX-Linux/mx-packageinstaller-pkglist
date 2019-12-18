@@ -10,51 +10,52 @@ Danish_Firefox
 </name>
 
 <description>
-   <am>Danish localisation of Firefox</am>
-   <ar>Danish localisation of Firefox</ar>
-   <bg>Danish localisation of Firefox</bg>
-   <ca>Localització de Firefox en Danès</ca>
-   <cs>Danish localisation of Firefox</cs>
-   <da>Dansk oversættelse af Firefox</da>
-   <de>Dänische Lokalisierung von Firefox</de>
-   <el>Δανικός εντοπισμός του Firefox</el>
-   <en>Danish localisation of Firefox</en>
-   <es>Localización Danesa de Firefox</es>
-   <et>Danish localisation of Firefox</et>
-   <eu>Danish localisation of Firefox</eu>
-   <fa>Danish localisation of Firefox</fa>
-   <fi>Danish localisation of Firefox</fi>
-   <fr>Localisation danoise pour Firefox</fr>
-   <he_IL>Danish localisation of Firefox</he_IL>
-   <hi>Danish localisation of Firefox</hi>
-   <hr>Danish localisation of Firefox</hr>
-   <hu>Danish localisation of Firefox</hu>
-   <id>Danish localisation of Firefox</id>
-   <is>Danish localisation of Firefox</is>
-   <it>Localizzazione danese di Firefox</it>
-   <ja_JP>Danish localisation of Firefox</ja_JP>
-   <ja>Danish localisation of Firefox</ja>
-   <kk>Danish localisation of Firefox</kk>
-   <ko>Danish localisation of Firefox</ko>
-   <lt>Danish localisation of Firefox</lt>
-   <mk>Danish localisation of Firefox</mk>
-   <mr>Danish localisation of Firefox</mr>
-   <nb>Danish localisation of Firefox</nb>
-   <nl>Deense lokalisatie van Firefox</nl>
-   <pl>Duńska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Dinamarquês Localização para Firefox</pt_BR>
-   <pt>Dinamarquês Localização para Firefox</pt>
-   <ro>Danish localisation of Firefox</ro>
-   <ru>Датская локализация Firefox</ru>
-   <sk>Danish localisation of Firefox</sk>
-   <sl>Danish localisation of Firefox</sl>
-   <sq>Danish localisation of Firefox</sq>
-   <sr>Danish localisation of Firefox</sr>
-   <sv>Dansk lokalisering av Firefox</sv>
-   <tr>Danish localisation of Firefox</tr>
-   <uk>Danish локалізація Firefox</uk>
-   <zh_CN>Danish localisation of Firefox</zh_CN>
-   <zh_TW>Danish localisation of Firefox</zh_TW>
+   <am>Danish Language Meta-Package for LibreOffice</am>
+   <ar>Danish Language Meta-Package for LibreOffice</ar>
+   <bg>Danish Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Danès per LibreOffice</ca>
+   <cs>Danish Language Meta-Package for LibreOffice</cs>
+   <da>Danish Language Meta-Package for LibreOffice</da>
+   <de>Dänisches Meta-Paket für LibreOffice</de>
+   <el>Danish Language Meta-Package for LibreOffice</el>
+   <en>Danish Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de idioma danés para LibreOffice</es>
+   <et>Danish Language Meta-Package for LibreOffice</et>
+   <eu>Danish Language Meta-Package for LibreOffice</eu>
+   <fa>Danish Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Danish Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Danish Language Meta-Package for LibreOffice</fi>
+   <fr>Danish Language Meta-Package for LibreOffice</fr>
+   <he_IL>Danish Language Meta-Package for LibreOffice</he_IL>
+   <hi>Danish Language Meta-Package for LibreOffice</hi>
+   <hr>Danish Language Meta-Package for LibreOffice</hr>
+   <hu>Danish Language Meta-Package for LibreOffice</hu>
+   <id>Danish Language Meta-Package for LibreOffice</id>
+   <is>Danish Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua danese per LibreOffice</it>
+   <ja_JP>Danish Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Danish Language Meta-Package for LibreOffice</ja>
+   <kk>Danish Language Meta-Package for LibreOffice</kk>
+   <ko>Danish Language Meta-Package for LibreOffice</ko>
+   <lt>Danish Language Meta-Package for LibreOffice</lt>
+   <mk>Danish Language Meta-Package for LibreOffice</mk>
+   <mr>Danish Language Meta-Package for LibreOffice</mr>
+   <nb>Danish Language Meta-Package for LibreOffice</nb>
+   <nl>Danish Language Meta-Package for LibreOffice</nl>
+   <pl>Danish Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Danish Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Dinamarquês Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Danish Language Meta-Package for LibreOffice</ro>
+   <ru>Danish Language Meta-Package for LibreOffice</ru>
+   <sk>Danish Language Meta-Package for LibreOffice</sk>
+   <sl>Danski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Danish Language Meta-Package for LibreOffice</sq>
+   <sr>Danish Language Meta-Package for LibreOffice</sr>
+   <sv>Danskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Danish Language Meta-Package for LibreOffice</tr>
+   <uk>Danish Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Danish Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Danish Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

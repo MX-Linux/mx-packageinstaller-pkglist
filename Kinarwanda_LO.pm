@@ -10,51 +10,52 @@ Kinarwanda_Libreoffice
 </name>
 
 <description>
-   <am>Kinarwanda Language Meta-Package for LibreOffice</am>
-   <ar>Kinarwanda Language Meta-Package for LibreOffice</ar>
-   <bg>Kinarwanda Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Kinarwanda per LibreOffice</ca>
-   <cs>Kinarwanda Language Meta-Package for LibreOffice</cs>
-   <da>Kinarwanda sprog-metapakke til LibreOffice</da>
-   <de>Kinarwanda Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Kinarwanda</el>
-   <en>Kinarwanda Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Kinarwanda para LibreOffice</es>
-   <et>Kinarwanda Language Meta-Package for LibreOffice</et>
-   <eu>Kinarwanda Language Meta-Package for LibreOffice</eu>
-   <fa>Kinarwanda Language Meta-Package for LibreOffice</fa>
-   <fi>Kinarwanda Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Kinarwanda pour LibreOffice</fr>
-   <he_IL>Kinarwanda Language Meta-Package for LibreOffice</he_IL>
-   <hi>Kinarwanda Language Meta-Package for LibreOffice</hi>
-   <hr>Kinarwanda Language Meta-Package for LibreOffice</hr>
-   <hu>Kinarwanda Language Meta-Package for LibreOffice</hu>
-   <id>Kinarwanda Language Meta-Package for LibreOffice</id>
-   <is>Kinarwanda Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Kinarwanda per LibreOffice</it>
-   <ja_JP>Kinarwanda Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Kinarwanda Language Meta-Package for LibreOffice</ja>
-   <kk>Kinarwanda Language Meta-Package for LibreOffice</kk>
-   <ko>Kinarwanda Language Meta-Package for LibreOffice</ko>
-   <lt>Kinarwanda Language Meta-Package for LibreOffice</lt>
-   <mk>Kinarwanda Language Meta-Package for LibreOffice</mk>
-   <mr>Kinarwanda Language Meta-Package for LibreOffice</mr>
-   <nb>Kinarwanda Language Meta-Package for LibreOffice</nb>
-   <nl>Kinarwanda Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Kinarwanda metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Kinarwanda Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Kinarwanda Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Kinarwanda Language Meta-Package for LibreOffice</ro>
-   <ru>Kinarwanda Language Meta-Package for LibreOffice</ru>
-   <sk>Kinarwanda Language Meta-Package for LibreOffice</sk>
-   <sl>Kinarwanda Language Meta-Package for LibreOffice</sl>
-   <sq>Kinarwanda Language Meta-Package for LibreOffice</sq>
-   <sr>Kinarwanda Language Meta-Package for LibreOffice</sr>
-   <sv>Kinarwanda Språk Meta-Paket för LibreOffice</sv>
-   <tr>Kinarwanda Language Meta-Package for LibreOffice</tr>
-   <uk>Kinarwanda Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Kinarwanda Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Kinarwanda Language Meta-Package for LibreOffice</zh_TW>
+   <am>Kodi Media Center (formerly XBMC)</am>
+   <ar>Kodi Media Center (formerly XBMC)</ar>
+   <bg>Kodi Media Center (formerly XBMC)</bg>
+   <ca>Centre de Mèdia Kodi (anteriorment XBMC)</ca>
+   <cs>Kodi Media Center (formerly XBMC)</cs>
+   <da>Kodi Media Center (tidligere XBMC)</da>
+   <de>Kodi Media Center (ehemals XBMC)</de>
+   <el>Κέντρο πολυμέσων Kodi (πρώην XBMC)</el>
+   <en>Kodi Media Center (formerly XBMC)</en>
+   <es>Kodi Media Center (anteriormente conocido como XBMC)</es>
+   <et>Kodi Media Center (formerly XBMC)</et>
+   <eu>Kodi Media Center (formerly XBMC)</eu>
+   <fa>Kodi Media Center (formerly XBMC)</fa>
+   <fil_PH>Kodi Media Center (formerly XBMC)</fil_PH>
+   <fi>Kodi Media Center (formerly XBMC)</fi>
+   <fr>Kodi Media Center (anciennement XBMC)</fr>
+   <he_IL>Kodi Media Center (formerly XBMC)</he_IL>
+   <hi>Kodi Media Center (formerly XBMC)</hi>
+   <hr>Kodi Media Center (formerly XBMC)</hr>
+   <hu>Kodi Media Center (formerly XBMC)</hu>
+   <id>Kodi Media Center (formerly XBMC)</id>
+   <is>Kodi Media Center (formerly XBMC)</is>
+   <it>Kodi Media Center (in precedenza XBMC)</it>
+   <ja_JP>Kodi Media Center (formerly XBMC)</ja_JP>
+   <ja>Kodi Media Center (formerly XBMC)</ja>
+   <kk>Kodi Media Center (formerly XBMC)</kk>
+   <ko>Kodi Media Center (formerly XBMC)</ko>
+   <lt>Kodi medijos centras (buvęs XBMC)</lt>
+   <mk>Kodi Media Center (formerly XBMC)</mk>
+   <mr>Kodi Media Center (formerly XBMC)</mr>
+   <nb>Kodi Media Center (formerly XBMC)</nb>
+   <nl>Kodi Media Centrum (voorheen XBMC)</nl>
+   <pl>Kodi Media Center (poprzednio XBMC)</pl>
+   <pt_BR>Centro Multimídia Kodi (anteriormente XBMC)</pt_BR>
+   <pt>Centro Multimédia Kodi (anteriormente chamava-se XBMC)</pt>
+   <ro>Kodi Media Center (formerly XBMC)</ro>
+   <ru>Медиацентр Kodi (бывший XBMC)</ru>
+   <sk>Kodi Media Center (formerly XBMC)</sk>
+   <sl>Kodi medijsko središče (bivši XBMC)</sl>
+   <sq>Kodi Media Center (formerly XBMC)</sq>
+   <sr>Kodi Media Center (formerly XBMC)</sr>
+   <sv>Kodi Media Center (tidigare XBMC)</sv>
+   <tr>Kodi Media Center (formerly XBMC)</tr>
+   <uk>Kodi Media Center (колишній XBMC)</uk>
+   <zh_CN>Kodi Media Center (formerly XBMC)</zh_CN>
+   <zh_TW>Kodi Media Center (formerly XBMC)</zh_TW>
 </description>
 
 <installable>

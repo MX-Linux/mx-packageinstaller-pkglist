@@ -10,51 +10,52 @@ QT5 Dev Enviroment
 </name>
 
 <description>
-   <am>QT5 Development Environment</am>
-   <ar>QT5 Development Environment</ar>
-   <bg>QT5 Development Environment</bg>
-   <ca>Entorn de desenvolupament per QT5</ca>
-   <cs>QT5 Development Environment</cs>
-   <da>QT5-udviklingsmiljø</da>
-   <de>Qt5 Entwicklungsumgebung</de>
-   <el>Περιβάλλον ανάπτυξης του QT5</el>
-   <en>QT5 Development Environment</en>
-   <es>Entorno de desarrollo QT5</es>
-   <et>QT5 Development Environment</et>
-   <eu>QT5 Development Environment</eu>
-   <fa>QT5 Development Environment</fa>
-   <fi>QT5 kehitysympäristö</fi>
-   <fr>Environnement de développement QT5</fr>
-   <he_IL>QT5 Development Environment</he_IL>
-   <hi>QT5 Development Environment</hi>
-   <hr>QT5 Development Environment</hr>
-   <hu>QT5 Development Environment</hu>
-   <id>QT5 Development Environment</id>
-   <is>QT5 Development Environment</is>
-   <it>Ambiente di sviluppo QT5</it>
-   <ja_JP>QT5 Development Environment</ja_JP>
-   <ja>QT5 Development Environment</ja>
-   <kk>QT5 Development Environment</kk>
-   <ko>QT5 Development Environment</ko>
-   <lt>QT5 plėtojimo aplinka</lt>
-   <mk>QT5 Development Environment</mk>
-   <mr>QT5 Development Environment</mr>
-   <nb>QT5 Development Environment</nb>
-   <nl>QT5 Ontwikkelingsomgeving</nl>
-   <pl>środowisko programistyczne QT5</pl>
-   <pt_BR>QT5 Development Environment</pt_BR>
-   <pt>QT5 Development Environment</pt>
-   <ro>QT5 Development Environment</ro>
-   <ru>Среда разработки под QT-5</ru>
-   <sk>QT5 Development Environment</sk>
-   <sl>QT5 razvojno okolje</sl>
-   <sq>QT5 Development Environment</sq>
-   <sr>QT5 Development Environment</sr>
-   <sv>QT5 Utvecklingsmiljö</sv>
-   <tr>QT5 Development Environment</tr>
-   <uk>QT5 Development Environment</uk>
-   <zh_CN>QT5 Development Environment</zh_CN>
-   <zh_TW>QT5 Development Environment</zh_TW>
+   <am>Documentation files for Qt-5 and QtCreator IDE</am>
+   <ar>Documentation files for Qt-5 and QtCreator IDE</ar>
+   <bg>Documentation files for Qt-5 and QtCreator IDE</bg>
+   <ca>Fitxers de documentació per a l'IDE QT5 i QTCreator</ca>
+   <cs>Documentation files for Qt-5 and QtCreator IDE</cs>
+   <da>Dokumentationsfiler til Qt-5 og QtCreator IDE</da>
+   <de>Dokumentationsdateien für Qt-5 und QtCreator IDE</de>
+   <el>Αρχεία τεκμηρίωσης για IDE Qt-5 και QtCreator</el>
+   <en>Documentation files for Qt-5 and QtCreator IDE</en>
+   <es>Documentación de Qt-5 y del IDE QtCreator</es>
+   <et>Documentation files for Qt-5 and QtCreator IDE</et>
+   <eu>Documentation files for Qt-5 and QtCreator IDE</eu>
+   <fa>Documentation files for Qt-5 and QtCreator IDE</fa>
+   <fil_PH>Documentation files for Qt-5 and QtCreator IDE</fil_PH>
+   <fi>Documentation files for Qt-5 and QtCreator IDE</fi>
+   <fr>Fichiers de documentation pour Qt-5 et QtCreator IDE</fr>
+   <he_IL>Documentation files for Qt-5 and QtCreator IDE</he_IL>
+   <hi>Documentation files for Qt-5 and QtCreator IDE</hi>
+   <hr>Documentation files for Qt-5 and QtCreator IDE</hr>
+   <hu>Documentation files for Qt-5 and QtCreator IDE</hu>
+   <id>Documentation files for Qt-5 and QtCreator IDE</id>
+   <is>Documentation files for Qt-5 and QtCreator IDE</is>
+   <it>File di documentazione per Qt-5 e QtCreator IDE</it>
+   <ja_JP>Documentation files for Qt-5 and QtCreator IDE</ja_JP>
+   <ja>Documentation files for Qt-5 and QtCreator IDE</ja>
+   <kk>Documentation files for Qt-5 and QtCreator IDE</kk>
+   <ko>Documentation files for Qt-5 and QtCreator IDE</ko>
+   <lt>Documentation files for Qt-5 and QtCreator IDE</lt>
+   <mk>Documentation files for Qt-5 and QtCreator IDE</mk>
+   <mr>Documentation files for Qt-5 and QtCreator IDE</mr>
+   <nb>Documentation files for Qt-5 and QtCreator IDE</nb>
+   <nl>Documentatiebestanden voor Qt-5 en QtCreator IDE</nl>
+   <pl>pliki dokumentacji dla QT-5 i QtCreator IDE</pl>
+   <pt_BR>Documentation files for Qt-5 and QtCreator IDE</pt_BR>
+   <pt>Documentation files for Qt-5 and QtCreator IDE</pt>
+   <ro>Documentation files for Qt-5 and QtCreator IDE</ro>
+   <ru>Документация по QT-5 и QtCreator IDE</ru>
+   <sk>Documentation files for Qt-5 and QtCreator IDE</sk>
+   <sl>Dokumentacija za Qt-5 in QtCreator IDE</sl>
+   <sq>Documentation files for Qt-5 and QtCreator IDE</sq>
+   <sr>Documentation files for Qt-5 and QtCreator IDE</sr>
+   <sv>Dokumentationsfiler för Qt-5 och QtCreator IDE</sv>
+   <tr>Documentation files for Qt-5 and QtCreator IDE</tr>
+   <uk>Documentation files for Qt-5 and QtCreator IDE</uk>
+   <zh_CN>Documentation files for Qt-5 and QtCreator IDE</zh_CN>
+   <zh_TW>Documentation files for Qt-5 and QtCreator IDE</zh_TW>
 </description>
 
 <installable>

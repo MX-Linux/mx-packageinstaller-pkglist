@@ -10,51 +10,52 @@ Thunderbird
 </name>
 
 <description>
-   <am>Latest Thunderbird email client from MX Community</am>
-   <ar>Latest Thunderbird email client from MX Community</ar>
-   <bg>Latest Thunderbird email client from MX Community</bg>
-   <ca>Darrer client de correu Thunderbird de la Comunitat MX</ca>
-   <cs>Latest Thunderbird email client from MX Community</cs>
-   <da>Seneste Thunderbird e-mailklient fra MX-fællesskabet</da>
-   <de>Neuester Thunderbird E-Mail-Client von MX Community</de>
-   <el>Τελευταίο πρόγραμμα-πελάτη ηλεκτρονικού ταχυδρομείου Thunderbird από την κοινότητα MX</el>
-   <en>Latest Thunderbird email client from MX Community</en>
-   <es>El último Thunderbird (cliente de correo) de la comunidad MX</es>
-   <et>Latest Thunderbird email client from MX Community</et>
-   <eu>Latest Thunderbird email client from MX Community</eu>
-   <fa>Latest Thunderbird email client from MX Community</fa>
-   <fi>Viimeisin MX-yhteisön Thunderbird sähköpostiohjelma</fi>
-   <fr>La dernière version du client mail Thunderbird par la Communauté MX</fr>
-   <he_IL>Latest Thunderbird email client from MX Community</he_IL>
-   <hi>Latest Thunderbird email client from MX Community</hi>
-   <hr>Latest Thunderbird email client from MX Community</hr>
-   <hu>Latest Thunderbird email client from MX Community</hu>
-   <id>Latest Thunderbird email client from MX Community</id>
-   <is>Latest Thunderbird email client from MX Community</is>
-   <it>l'ultima versione di client email Thunderbird dalla MX Community</it>
-   <ja_JP>Latest Thunderbird email client from MX Community</ja_JP>
-   <ja>Latest Thunderbird email client from MX Community</ja>
-   <kk>Latest Thunderbird email client from MX Community</kk>
-   <ko>Latest Thunderbird email client from MX Community</ko>
-   <lt>Latest Thunderbird email client from MX Community</lt>
-   <mk>Latest Thunderbird email client from MX Community</mk>
-   <mr>Latest Thunderbird email client from MX Community</mr>
-   <nb>Latest Thunderbird email client from MX Community</nb>
-   <nl>Meest recente Thunderbird email programma vanuit MX Community</nl>
-   <pl>najnowszy klient poczty e-mail Thunderbird od społeczności MX</pl>
-   <pt_BR>Thunderbird (cliente de e-mail) mais recente da comunidade MX</pt_BR>
-   <pt>Thunderbird (cliente de correio-electrónico) mais recente da comunidade MX</pt>
-   <ro>Latest Thunderbird email client from MX Community</ro>
-   <ru>Почтовый клиент Thunderbird последней версии из MX Community</ru>
-   <sk>Latest Thunderbird email client from MX Community</sk>
-   <sl>Zadnja različica poštnega odjemalca Thunderbird iz MX skupnosti</sl>
-   <sq>Latest Thunderbird email client from MX Community</sq>
-   <sr>Latest Thunderbird email client from MX Community</sr>
-   <sv>Senaste Thunderbird mejlklient från MX Community</sv>
-   <tr>Latest Thunderbird email client from MX Community</tr>
-   <uk>Latest Thunderbird email client from MX Community</uk>
-   <zh_CN>Latest Thunderbird email client from MX Community</zh_CN>
-   <zh_TW>Latest Thunderbird email client from MX Community</zh_TW>
+   <am>Tsonga Language Meta-Package for LibreOffice</am>
+   <ar>Tsonga Language Meta-Package for LibreOffice</ar>
+   <bg>Tsonga Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Tsonga per LibreOffice</ca>
+   <cs>Tsonga Language Meta-Package for LibreOffice</cs>
+   <da>Tsonga Language Meta-Package for LibreOffice</da>
+   <de>Tsonga Meta-Paket für LibreOffice</de>
+   <el>Tsonga Language Meta-Package for LibreOffice</el>
+   <en>Tsonga Language Meta-Package for LibreOffice</en>
+   <es>Meta-Package idioma songa para LibreOffice</es>
+   <et>Tsonga Language Meta-Package for LibreOffice</et>
+   <eu>Tsonga Language Meta-Package for LibreOffice</eu>
+   <fa>Tsonga Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Tsonga Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Tsonga Language Meta-Package for LibreOffice</fi>
+   <fr>Tsonga Language Meta-Package for LibreOffice</fr>
+   <he_IL>Tsonga Language Meta-Package for LibreOffice</he_IL>
+   <hi>Tsonga Language Meta-Package for LibreOffice</hi>
+   <hr>Tsonga Language Meta-Package for LibreOffice</hr>
+   <hu>Tsonga Language Meta-Package for LibreOffice</hu>
+   <id>Tsonga Language Meta-Package for LibreOffice</id>
+   <is>Tsonga Language Meta-Package for LibreOffice</is>
+   <it>Tsonga Language Meta-Package for LibreOffice</it>
+   <ja_JP>Tsonga Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Tsonga Language Meta-Package for LibreOffice</ja>
+   <kk>Tsonga Language Meta-Package for LibreOffice</kk>
+   <ko>Tsonga Language Meta-Package for LibreOffice</ko>
+   <lt>Tsonga Language Meta-Package for LibreOffice</lt>
+   <mk>Tsonga Language Meta-Package for LibreOffice</mk>
+   <mr>Tsonga Language Meta-Package for LibreOffice</mr>
+   <nb>Tsonga Language Meta-Package for LibreOffice</nb>
+   <nl>Tsonga Language Meta-Package for LibreOffice</nl>
+   <pl>Tsonga Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Tsonga Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Tsonga Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Tsonga Language Meta-Package for LibreOffice</ro>
+   <ru>Tsonga Language Meta-Package for LibreOffice</ru>
+   <sk>Tsonga Language Meta-Package for LibreOffice</sk>
+   <sl>Tsongški jezikovni meta-paket za LibreOffice</sl>
+   <sq>Tsonga Language Meta-Package for LibreOffice</sq>
+   <sr>Tsonga Language Meta-Package for LibreOffice</sr>
+   <sv>Tsonga Språk Meta-Paket för LibreOffice</sv>
+   <tr>Tsonga Language Meta-Package for LibreOffice</tr>
+   <uk>Tsonga Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Tsonga Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Tsonga Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

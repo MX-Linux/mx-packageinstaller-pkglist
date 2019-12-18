@@ -10,51 +10,52 @@ Opera
 </name>
 
 <description>
-   <am>Opera browser (32 bit is beta-only)</am>
-   <ar>Opera browser (32 bit is beta-only)</ar>
-   <bg>Opera browser (32 bit is beta-only)</bg>
-   <ca>Navegador Opera (32 bit només beta)</ca>
-   <cs>Opera browser (32 bit is beta-only)</cs>
-   <da>Opera-browser (32 bit er kun beta)</da>
-   <de>Opera-Browser (32 Bit ist nur Beta-Version)</de>
-   <el>Πρόγραμμα περιήγησης Opera (32 bit είναι μόνο beta)</el>
-   <en>Opera browser (32 bit is beta-only)</en>
-   <es>Navegador Opera (32 bit - solo versión beta)</es>
-   <et>Opera browser (32 bit is beta-only)</et>
-   <eu>Opera browser (32 bit is beta-only)</eu>
-   <fa>Opera browser (32 bit is beta-only)</fa>
-   <fi>Opera browser (32 bit is beta-only)</fi>
-   <fr>Navigateur Opera (32 bit en beta uniquement)</fr>
-   <he_IL>Opera browser (32 bit is beta-only)</he_IL>
-   <hi>Opera browser (32 bit is beta-only)</hi>
-   <hr>Opera browser (32 bit is beta-only)</hr>
-   <hu>Opera browser (32 bit is beta-only)</hu>
-   <id>Opera browser (32 bit is beta-only)</id>
-   <is>Opera browser (32 bit is beta-only)</is>
-   <it>Opera browser (a 32 bit è esclusivamente-beta)</it>
-   <ja_JP>Opera browser (32 bit is beta-only)</ja_JP>
-   <ja>Opera browser (32 bit is beta-only)</ja>
-   <kk>Opera browser (32 bit is beta-only)</kk>
-   <ko>Opera browser (32 bit is beta-only)</ko>
-   <lt>Opera naršyklė (32 bitų yra tik beta versija)</lt>
-   <mk>Opera browser (32 bit is beta-only)</mk>
-   <mr>Opera browser (32 bit is beta-only)</mr>
-   <nb>Opera browser (32 bit is beta-only)</nb>
-   <nl>Opera browser (32 bit is enkel-beta)</nl>
-   <pl>przeglądarka Opera (wersja 32-bitowa tylko w wersji beta)</pl>
-   <pt_BR>Navegador web Opera (32 bit is beta-only)</pt_BR>
-   <pt>Navegador web Opera (32 bit is beta-only)</pt>
-   <ro>Opera browser (32 bit is beta-only)</ro>
-   <ru>Браузер Opera (32 bit бета-версия)</ru>
-   <sk>Opera browser (32 bit is beta-only)</sk>
-   <sl>Opera brskalnik (32 bitni je zgolj beta)</sl>
-   <sq>Opera browser (32 bit is beta-only)</sq>
-   <sr>Opera browser (32 bit is beta-only)</sr>
-   <sv>Opera webbläsare (32 bit är enbart i beta)</sv>
-   <tr>Opera browser (32 bit is beta-only)</tr>
-   <uk>Браузер Opera (32 біт лише у бета-версії)</uk>
-   <zh_CN>Opera browser (32 bit is beta-only)</zh_CN>
-   <zh_TW>Opera browser (32 bit is beta-only)</zh_TW>
+   <am>Opera browser</am>
+   <ar>Opera browser</ar>
+   <bg>Opera browser</bg>
+   <ca>Navegador Opera</ca>
+   <cs>Opera browser</cs>
+   <da>Opera-browser</da>
+   <de>Opera-Browser</de>
+   <el>Πρόγραμμα περιήγησης Opera</el>
+   <en>Opera browser</en>
+   <es>Navegador Opera</es>
+   <et>Opera browser</et>
+   <eu>Opera browser</eu>
+   <fa>Opera browser</fa>
+   <fil_PH>Opera browser</fil_PH>
+   <fi>Opera-nettiselain</fi>
+   <fr>Navigateur Opera</fr>
+   <he_IL>Opera browser</he_IL>
+   <hi>Opera browser</hi>
+   <hr>Opera browser</hr>
+   <hu>Opera browser</hu>
+   <id>Opera browser</id>
+   <is>Opera browser</is>
+   <it>Opera browser</it>
+   <ja_JP>Opera browser</ja_JP>
+   <ja>Opera browser</ja>
+   <kk>Opera browser</kk>
+   <ko>Opera browser</ko>
+   <lt>Opera naršyklė</lt>
+   <mk>Opera browser</mk>
+   <mr>Opera browser</mr>
+   <nb>Opera browser</nb>
+   <nl>Opera browser</nl>
+   <pl>przeglądarka Opera</pl>
+   <pt_BR>Navegador web Opera</pt_BR>
+   <pt>Navegador web Opera</pt>
+   <ro>Opera browser</ro>
+   <ru>Браузер Opera</ru>
+   <sk>Opera browser</sk>
+   <sl>Opera brskalnik</sl>
+   <sq>Opera browser</sq>
+   <sr>Opera browser</sr>
+   <sv>Opera webbläsare</sv>
+   <tr>Opera tarayıcı</tr>
+   <uk>Браузер Opera</uk>
+   <zh_CN>Opera browser</zh_CN>
+   <zh_TW>Opera browser</zh_TW>
 </description>
 
 <installable>

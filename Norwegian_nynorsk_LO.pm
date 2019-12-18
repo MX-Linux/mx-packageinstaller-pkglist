@@ -10,51 +10,52 @@ Norwegian_nynorsk_Libreoffice
 </name>
 
 <description>
-   <am>Norwegian_nynorsk Language Meta-Package for LibreOffice</am>
-   <ar>Norwegian_nynorsk Language Meta-Package for LibreOffice</ar>
-   <bg>Norwegian_nynorsk Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Norwegian_nynorsk per LibreOffice</ca>
-   <cs>Norwegian_nynorsk Language Meta-Package for LibreOffice</cs>
-   <da>Norwegian_nynorsk sprog-metapakke til LibreOffice</da>
-   <de>Norwegian_nynorsk Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Norwegian_nynorsk</el>
-   <en>Norwegian_nynorsk Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Norwegian_nynorsk para LibreOffice</es>
-   <et>Norwegian_nynorsk Language Meta-Package for LibreOffice</et>
-   <eu>Norwegian_nynorsk Language Meta-Package for LibreOffice</eu>
-   <fa>Norwegian_nynorsk Language Meta-Package for LibreOffice</fa>
-   <fi>Norwegian_nynorsk Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Norwegian_nynorsk pour LibreOffice</fr>
-   <he_IL>Norwegian_nynorsk Language Meta-Package for LibreOffice</he_IL>
-   <hi>Norwegian_nynorsk Language Meta-Package for LibreOffice</hi>
-   <hr>Norwegian_nynorsk Language Meta-Package for LibreOffice</hr>
-   <hu>Norwegian_nynorsk Language Meta-Package for LibreOffice</hu>
-   <id>Norwegian_nynorsk Language Meta-Package for LibreOffice</id>
-   <is>Norwegian_nynorsk Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Norwegian_nynorsk per LibreOffice</it>
-   <ja_JP>Norwegian_nynorsk Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Norwegian_nynorsk Language Meta-Package for LibreOffice</ja>
-   <kk>Norwegian_nynorsk Language Meta-Package for LibreOffice</kk>
-   <ko>Norwegian_nynorsk Language Meta-Package for LibreOffice</ko>
-   <lt>Norwegian_nynorsk Language Meta-Package for LibreOffice</lt>
-   <mk>Norwegian_nynorsk Language Meta-Package for LibreOffice</mk>
-   <mr>Norwegian_nynorsk Language Meta-Package for LibreOffice</mr>
-   <nb>Norwegian_nynorsk Language Meta-Package for LibreOffice</nb>
-   <nl>Norwegian_nynorsk Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Norwegian_nynorsk metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Norwegian_nynorsk Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Norwegian_nynorsk Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Norwegian_nynorsk Language Meta-Package for LibreOffice</ro>
-   <ru>Norwegian_nynorsk Language Meta-Package for LibreOffice</ru>
-   <sk>Norwegian_nynorsk Language Meta-Package for LibreOffice</sk>
-   <sl>Norwegian_nynorsk Language Meta-Package for LibreOffice</sl>
-   <sq>Norwegian_nynorsk Language Meta-Package for LibreOffice</sq>
-   <sr>Norwegian_nynorsk Language Meta-Package for LibreOffice</sr>
-   <sv>Norwegian_nynorsk Språk Meta-Paket för LibreOffice</sv>
-   <tr>Norwegian_nynorsk Language Meta-Package for LibreOffice</tr>
-   <uk>Norwegian_nynorsk Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Norwegian_nynorsk Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Norwegian_nynorsk Language Meta-Package for LibreOffice</zh_TW>
+   <am>Norwegian Language Meta-Package</am>
+   <ar>Norwegian Language Meta-Package</ar>
+   <bg>Norwegian Language Meta-Package</bg>
+   <ca>Meta-paquet de llengua per a Noruec</ca>
+   <cs>Norwegian Language Meta-Package</cs>
+   <da>Norsk sprog-metapakke</da>
+   <de>Norwegisches Sprach-Meta-Paket</de>
+   <el>Νορβηγική γλώσσα</el>
+   <en>Norwegian Language Meta-Package</en>
+   <es>Meta-Paquete de Idioma Noruego</es>
+   <et>Norwegian Language Meta-Package</et>
+   <eu>Norwegian Language Meta-Package</eu>
+   <fa>Norwegian Language Meta-Package</fa>
+   <fil_PH>Norwegian Language Meta-Package</fil_PH>
+   <fi>Norwegian Language Meta-Package</fi>
+   <fr>Méta-paquet pour langue norvégienne</fr>
+   <he_IL>Norwegian Language Meta-Package</he_IL>
+   <hi>Norwegian Language Meta-Package</hi>
+   <hr>Norwegian Language Meta-Package</hr>
+   <hu>Norwegian Language Meta-Package</hu>
+   <id>Norwegian Language Meta-Package</id>
+   <is>Norwegian Language Meta-Package</is>
+   <it>Meta-pacchetto della lingua norvegese</it>
+   <ja_JP>Norwegian Language Meta-Package</ja_JP>
+   <ja>Norwegian Language Meta-Package</ja>
+   <kk>Norwegian Language Meta-Package</kk>
+   <ko>Norwegian Language Meta-Package</ko>
+   <lt>Norwegian Language Meta-Package</lt>
+   <mk>Norwegian Language Meta-Package</mk>
+   <mr>Norwegian Language Meta-Package</mr>
+   <nb>Norwegian Language Meta-Package</nb>
+   <nl>Noorse Taal Meta-Pakket</nl>
+   <pl>Norweski metapakiet językowy</pl>
+   <pt_BR>Norueguês Meta-Pacote de Idioma</pt_BR>
+   <pt>Norueguês Meta-Pacote de Idioma</pt>
+   <ro>Norwegian Language Meta-Package</ro>
+   <ru>Norwegian Language Meta-Package</ru>
+   <sk>Norwegian Language Meta-Package</sk>
+   <sl>Norwegian Language Meta-Package</sl>
+   <sq>Norwegian Language Meta-Package</sq>
+   <sr>Norwegian Language Meta-Package</sr>
+   <sv>Norskt Språk Meta-Paket </sv>
+   <tr>Norwegian Language Meta-Package</tr>
+   <uk>Norwegian Language Meta-Package</uk>
+   <zh_CN>Norwegian Language Meta-Package</zh_CN>
+   <zh_TW>Norwegian Language Meta-Package</zh_TW>
 </description>
 
 <installable>

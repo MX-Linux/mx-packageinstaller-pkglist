@@ -10,51 +10,52 @@ Turkish_Thunderbird
 </name>
 
 <description>
-   <am>Turkish localisation of Thunderbird</am>
-   <ar>Turkish localisation of Thunderbird</ar>
-   <bg>Turkish localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Turc</ca>
-   <cs>Turkish localisation of Thunderbird</cs>
-   <da>Tyrkisk oversættelse af Thunderbird</da>
-   <de>Türkische Lokalisierung von Thunderbird</de>
-   <el>Τουρκικός εντοπισμός του Thunderbird</el>
-   <en>Turkish localisation of Thunderbird</en>
-   <es>Localización Turca de Thunderbird</es>
-   <et>Turkish localisation of Thunderbird</et>
-   <eu>Turkish localisation of Thunderbird</eu>
-   <fa>Turkish localisation of Thunderbird</fa>
-   <fi>Turkish localisation of Thunderbird</fi>
-   <fr>Localisation turque pour Thunderbird</fr>
-   <he_IL>Turkish localisation of Thunderbird</he_IL>
-   <hi>Turkish localisation of Thunderbird</hi>
-   <hr>Turkish localisation of Thunderbird</hr>
-   <hu>Turkish localisation of Thunderbird</hu>
-   <id>Turkish localisation of Thunderbird</id>
-   <is>Turkish localisation of Thunderbird</is>
-   <it>Localizzazione turca di Thunderbird</it>
-   <ja_JP>Turkish localisation of Thunderbird</ja_JP>
-   <ja>Turkish localisation of Thunderbird</ja>
-   <kk>Turkish localisation of Thunderbird</kk>
-   <ko>Turkish localisation of Thunderbird</ko>
-   <lt>Turkish localisation of Thunderbird</lt>
-   <mk>Turkish localisation of Thunderbird</mk>
-   <mr>Turkish localisation of Thunderbird</mr>
-   <nb>Turkish localisation of Thunderbird</nb>
-   <nl>Turkse lokalisatie van Thunderbird</nl>
-   <pl>Turecka lokalizacja Thunderbirda</pl>
-   <pt_BR>Turco Localização para Thunderbird</pt_BR>
-   <pt>Turco Localização para Thunderbird</pt>
-   <ro>Turkish localisation of Thunderbird</ro>
-   <ru>Turkish localisation of Thunderbird</ru>
-   <sk>Turkish localisation of Thunderbird</sk>
-   <sl>Turkish localisation of Thunderbird</sl>
-   <sq>Turkish localisation of Thunderbird</sq>
-   <sr>Turkish localisation of Thunderbird</sr>
-   <sv>Turkisk lokalisering av Thunderbird</sv>
-   <tr>Turkish localisation of Thunderbird</tr>
-   <uk>Turkish localisation of Thunderbird</uk>
-   <zh_CN>Turkish localisation of Thunderbird</zh_CN>
-   <zh_TW>Turkish localisation of Thunderbird</zh_TW>
+   <am>Uighur Language Meta-Package for LibreOffice</am>
+   <ar>Uighur Language Meta-Package for LibreOffice</ar>
+   <bg>Uighur Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Uigur per LibreOffice</ca>
+   <cs>Uighur Language Meta-Package for LibreOffice</cs>
+   <da>Uighur Language Meta-Package for LibreOffice</da>
+   <de>Uighurisches Meta-Paket für LibreOffice</de>
+   <el>Uighur Language Meta-Package for LibreOffice</el>
+   <en>Uighur Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete idioma uighur para LibreOffice</es>
+   <et>Uighur Language Meta-Package for LibreOffice</et>
+   <eu>Uighur Language Meta-Package for LibreOffice</eu>
+   <fa>Uighur Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Uighur Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Uighur Language Meta-Package for LibreOffice</fi>
+   <fr>Uighur Language Meta-Package for LibreOffice</fr>
+   <he_IL>Uighur Language Meta-Package for LibreOffice</he_IL>
+   <hi>Uighur Language Meta-Package for LibreOffice</hi>
+   <hr>Uighur Language Meta-Package for LibreOffice</hr>
+   <hu>Uighur Language Meta-Package for LibreOffice</hu>
+   <id>Uighur Language Meta-Package for LibreOffice</id>
+   <is>Uighur Language Meta-Package for LibreOffice</is>
+   <it>Uighur Language Meta-Package for LibreOffice</it>
+   <ja_JP>Uighur Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Uighur Language Meta-Package for LibreOffice</ja>
+   <kk>Uighur Language Meta-Package for LibreOffice</kk>
+   <ko>Uighur Language Meta-Package for LibreOffice</ko>
+   <lt>Uighur Language Meta-Package for LibreOffice</lt>
+   <mk>Uighur Language Meta-Package for LibreOffice</mk>
+   <mr>Uighur Language Meta-Package for LibreOffice</mr>
+   <nb>Uighur Language Meta-Package for LibreOffice</nb>
+   <nl>Uighur Language Meta-Package for LibreOffice</nl>
+   <pl>Uighur Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Uighur Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Uigur Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Uighur Language Meta-Package for LibreOffice</ro>
+   <ru>Uighur Language Meta-Package for LibreOffice</ru>
+   <sk>Uighur Language Meta-Package for LibreOffice</sk>
+   <sl>Ujgurski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Uighur Language Meta-Package for LibreOffice</sq>
+   <sr>Uighur Language Meta-Package for LibreOffice</sr>
+   <sv>Uighur Språk Meta-Paket för LibreOffice</sv>
+   <tr>Uighur Language Meta-Package for LibreOffice</tr>
+   <uk>Uighur Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Uighur Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Uighur Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>
