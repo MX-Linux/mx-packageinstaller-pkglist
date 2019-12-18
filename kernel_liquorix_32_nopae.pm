@@ -10,51 +10,52 @@ Liquorix 32 bit no-pae
 </name>
 
 <description>
-   <am>Liquorix Kernel (no PAE, latest from MX TEST repo)</am>
-   <ar>Liquorix Kernel (no PAE, latest from MX TEST repo)</ar>
-   <bg>Liquorix Kernel (no PAE, latest from MX TEST repo)</bg>
-   <ca>Nucli de Liquorix (sense PAE, darrer del dipòsit MX TEST)</ca>
-   <cs>Liquorix Kernel (no PAE, latest from MX TEST repo)</cs>
-   <da>Liquorix-kerne (ingen PAE, seneste fra MX TEST-softwarekilde)</da>
-   <de>Liquorix Kernel (kein PAE, neueste Version von MX TEST repo)</de>
-   <el>Liquorix Kernel (χωρίς PAE, τελευταίες από το MX TEST repo)</el>
-   <en>Liquorix Kernel (no PAE, latest from MX TEST repo)</en>
-   <es>Kernel Liquorix (no PAE, último del repositorio MX TEST)</es>
-   <et>Liquorix Kernel (no PAE, latest from MX TEST repo)</et>
-   <eu>Liquorix Kernel (no PAE, latest from MX TEST repo)</eu>
-   <fa>Liquorix Kernel (no PAE, latest from MX TEST repo)</fa>
-   <fi>Liquorix Kernel (no PAE, latest from MX TEST repo)</fi>
-   <fr>Noyau Liquorix (no PAE, dernier du dépôt de test MX)</fr>
-   <he_IL>Liquorix Kernel (no PAE, latest from MX TEST repo)</he_IL>
-   <hi>Liquorix Kernel (no PAE, latest from MX TEST repo)</hi>
-   <hr>Liquorix Kernel (no PAE, latest from MX TEST repo)</hr>
-   <hu>Liquorix Kernel (no PAE, latest from MX TEST repo)</hu>
-   <id>Liquorix Kernel (no PAE, latest from MX TEST repo)</id>
-   <is>Liquorix Kernel (no PAE, latest from MX TEST repo)</is>
-   <it>Liquorix Kernel (no PAE, ultimo da MX TEST repo)</it>
-   <ja_JP>Liquorix Kernel (no PAE, latest from MX TEST repo)</ja_JP>
-   <ja>Liquorix Kernel (no PAE, latest from MX TEST repo)</ja>
-   <kk>Liquorix Kernel (no PAE, latest from MX TEST repo)</kk>
-   <ko>Liquorix Kernel (no PAE, latest from MX TEST repo)</ko>
-   <lt>Liquorix Kernel (no PAE, latest from MX TEST repo)</lt>
-   <mk>Liquorix Kernel (no PAE, latest from MX TEST repo)</mk>
-   <mr>Liquorix Kernel (no PAE, latest from MX TEST repo)</mr>
-   <nb>Liquorix Kernel (no PAE, latest from MX TEST repo)</nb>
-   <nl>Liquorix Kernel (geen PAE, laatste vanuit MX TEST pakketbron)</nl>
-   <pl>Liquorix Kernel (no PAE, latest from MX TEST repo)</pl>
-   <pt_BR>Liquorix Kernel (no PAE, latest from MX TEST repo)</pt_BR>
-   <pt>Núcleo Liquorix (no PAE, mais recente no MX TEST repo)</pt>
-   <ro>Liquorix Kernel (no PAE, latest from MX TEST repo)</ro>
-   <ru>Liquorix ядро (no-PAE, последнее из репозитория MX TEST)</ru>
-   <sk>Liquorix Kernel (no PAE, latest from MX TEST repo)</sk>
-   <sl>Liquorix Kernel (no PAE, latest from MX TEST repo)</sl>
-   <sq>Liquorix Kernel (no PAE, latest from MX TEST repo)</sq>
-   <sr>Liquorix Kernel (no PAE, latest from MX TEST repo)</sr>
-   <sv>Liquorix Kärna (no PAE, senaste från MX TEST repo)</sv>
-   <tr>Liquorix Kernel (no PAE, latest from MX TEST repo)</tr>
-   <uk>Liquorix Kernel (no PAE, latest from MX TEST repo)</uk>
-   <zh_CN>Liquorix Kernel (no PAE, latest from MX TEST repo)</zh_CN>
-   <zh_TW>Liquorix Kernel (no PAE, latest from MX TEST repo)</zh_TW>
+   <am>Liquorix Kernel (PAE, latest from MX TEST repo)</am>
+   <ar>Liquorix Kernel (PAE, latest from MX TEST repo)</ar>
+   <bg>Liquorix Kernel (PAE, latest from MX TEST repo)</bg>
+   <ca>Kernel Liquorix (PAE, més recent del dipòsit MX TEST)</ca>
+   <cs>Liquorix Kernel (PAE, latest from MX TEST repo)</cs>
+   <da>Liquorix Kernel (PAE, latest from MX TEST repo)</da>
+   <de>Liquorix Kernel (PAE, der neueste im MX TEST Repo)</de>
+   <el>Liquorix Kernel (PAE, latest from MX TEST repo)</el>
+   <en>Liquorix Kernel (PAE, latest from MX TEST repo)</en>
+   <es>Liquorix Kernel (PAE, último desde MX TEST repo)</es>
+   <et>Liquorix Kernel (PAE, latest from MX TEST repo)</et>
+   <eu>Liquorix Kernel (PAE, latest from MX TEST repo)</eu>
+   <fa>Liquorix Kernel (PAE, latest from MX TEST repo)</fa>
+   <fil_PH>Liquorix Kernel (PAE, latest from MX TEST repo)</fil_PH>
+   <fi>Liquorix Kernel (PAE, latest from MX TEST repo)</fi>
+   <fr>Liquorix Kernel (PAE, latest from MX TEST repo)</fr>
+   <he_IL>Liquorix Kernel (PAE, latest from MX TEST repo)</he_IL>
+   <hi>Liquorix Kernel (PAE, latest from MX TEST repo)</hi>
+   <hr>Liquorix Kernel (PAE, latest from MX TEST repo)</hr>
+   <hu>Liquorix Kernel (PAE, latest from MX TEST repo)</hu>
+   <id>Liquorix Kernel (PAE, latest from MX TEST repo)</id>
+   <is>Liquorix Kernel (PAE, latest from MX TEST repo)</is>
+   <it>Liquorix Kernel (PAE, latest from MX TEST repo)</it>
+   <ja_JP>Liquorix Kernel (PAE, latest from MX TEST repo)</ja_JP>
+   <ja>Liquorix Kernel (PAE, latest from MX TEST repo)</ja>
+   <kk>Liquorix Kernel (PAE, latest from MX TEST repo)</kk>
+   <ko>Liquorix Kernel (PAE, latest from MX TEST repo)</ko>
+   <lt>Liquorix Kernel (PAE, latest from MX TEST repo)</lt>
+   <mk>Liquorix Kernel (PAE, latest from MX TEST repo)</mk>
+   <mr>Liquorix Kernel (PAE, latest from MX TEST repo)</mr>
+   <nb>Liquorix Kernel (PAE, latest from MX TEST repo)</nb>
+   <nl>Liquorix Kernel (PAE, latest from MX TEST repo)</nl>
+   <pl>Liquorix Kernel (PAE, latest from MX TEST repo)</pl>
+   <pt_BR>Liquorix Kernel (PAE, latest from MX TEST repo)</pt_BR>
+   <pt>Núcleo (kernel) (PAE, versão mais recente do MX TEST repo)</pt>
+   <ro>Liquorix Kernel (PAE, latest from MX TEST repo)</ro>
+   <ru>Liquorix ядро, PAE (последняя версия из репозитория MX TEST)</ru>
+   <sk>Liquorix Kernel (PAE, latest from MX TEST repo)</sk>
+   <sl>Liquorix jedro (PAE, zadnje iz MX TEST repozitorija)</sl>
+   <sq>Liquorix Kernel (PAE, latest from MX TEST repo)</sq>
+   <sr>Liquorix Kernel (PAE, latest from MX TEST repo)</sr>
+   <sv>Liquorix Kärna (PAE, senaste från MX TEST repo)</sv>
+   <tr>Liquorix Kernel (PAE, latest from MX TEST repo)</tr>
+   <uk>Liquorix Kernel (PAE, latest from MX TEST repo)</uk>
+   <zh_CN>Liquorix Kernel (PAE, latest from MX TEST repo)</zh_CN>
+   <zh_TW>Liquorix Kernel (PAE, latest from MX TEST repo)</zh_TW>
 </description>
 
 <installable>

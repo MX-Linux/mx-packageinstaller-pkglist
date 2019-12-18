@@ -10,51 +10,52 @@ Indic_Libreoffice
 </name>
 
 <description>
-   <am>Indic Language Meta-Package for LibreOffice</am>
-   <ar>Indic Language Meta-Package for LibreOffice</ar>
-   <bg>Indic Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Indic per LibreOffice</ca>
-   <cs>Indic Language Meta-Package for LibreOffice</cs>
-   <da>Indic sprog-metapakke til LibreOffice</da>
-   <de>Indic Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Indic</el>
-   <en>Indic Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Indic para LibreOffice</es>
-   <et>Indic Language Meta-Package for LibreOffice</et>
-   <eu>Indic Language Meta-Package for LibreOffice</eu>
-   <fa>Indic Language Meta-Package for LibreOffice</fa>
-   <fi>Indic Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Indic pour LibreOffice</fr>
-   <he_IL>Indic Language Meta-Package for LibreOffice</he_IL>
-   <hi>Indic Language Meta-Package for LibreOffice</hi>
-   <hr>Indic Language Meta-Package for LibreOffice</hr>
-   <hu>Indic Language Meta-Package for LibreOffice</hu>
-   <id>Indic Language Meta-Package for LibreOffice</id>
-   <is>Indic Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Indic per LibreOffice</it>
-   <ja_JP>Indic Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Indic Language Meta-Package for LibreOffice</ja>
-   <kk>Indic Language Meta-Package for LibreOffice</kk>
-   <ko>Indic Language Meta-Package for LibreOffice</ko>
-   <lt>Indic Language Meta-Package for LibreOffice</lt>
-   <mk>Indic Language Meta-Package for LibreOffice</mk>
-   <mr>Indic Language Meta-Package for LibreOffice</mr>
-   <nb>Indic Language Meta-Package for LibreOffice</nb>
-   <nl>Indic Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Indic metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Indic Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Indic Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Indic Language Meta-Package for LibreOffice</ro>
-   <ru>Indic Language Meta-Package for LibreOffice</ru>
-   <sk>Indic Language Meta-Package for LibreOffice</sk>
-   <sl>Indic Language Meta-Package for LibreOffice</sl>
-   <sq>Indic Language Meta-Package for LibreOffice</sq>
-   <sr>Indic Language Meta-Package for LibreOffice</sr>
-   <sv>Indic Språk Meta-Paket för LibreOffice</sv>
-   <tr>Indic Language Meta-Package for LibreOffice</tr>
-   <uk>Indic Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Indic Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Indic Language Meta-Package for LibreOffice</zh_TW>
+   <am>Indonesian Language Meta-Package for LibreOffice</am>
+   <ar>Indonesian Language Meta-Package for LibreOffice</ar>
+   <bg>Indonesian Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Indonesi per LibreOffice</ca>
+   <cs>Indonesian Language Meta-Package for LibreOffice</cs>
+   <da>Indonesian Language Meta-Package for LibreOffice</da>
+   <de>Indonesisches Meta-Paket für LibreOffice</de>
+   <el>Indonesian Language Meta-Package for LibreOffice</el>
+   <en>Indonesian Language Meta-Package for LibreOffice</en>
+   <es>Metapaquete de idioma indonesio para LibreOffice</es>
+   <et>Indonesian Language Meta-Package for LibreOffice</et>
+   <eu>Indonesian Language Meta-Package for LibreOffice</eu>
+   <fa>Indonesian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Indonesian Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Indonesian Language Meta-Package for LibreOffice</fi>
+   <fr>Indonesian Language Meta-Package for LibreOffice</fr>
+   <he_IL>Indonesian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Indonesian Language Meta-Package for LibreOffice</hi>
+   <hr>Indonesian Language Meta-Package for LibreOffice</hr>
+   <hu>Indonesian Language Meta-Package for LibreOffice</hu>
+   <id>Indonesian Language Meta-Package for LibreOffice</id>
+   <is>Indonesian Language Meta-Package for LibreOffice</is>
+   <it>Indonesian Language Meta-Package for LibreOffice</it>
+   <ja_JP>Indonesian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Indonesian Language Meta-Package for LibreOffice</ja>
+   <kk>Indonesian Language Meta-Package for LibreOffice</kk>
+   <ko>Indonesian Language Meta-Package for LibreOffice</ko>
+   <lt>Indonesian Language Meta-Package for LibreOffice</lt>
+   <mk>Indonesian Language Meta-Package for LibreOffice</mk>
+   <mr>Indonesian Language Meta-Package for LibreOffice</mr>
+   <nb>Indonesian Language Meta-Package for LibreOffice</nb>
+   <nl>Indonesisch Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Indonesian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Indonesian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Indonésio Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Indonesian Language Meta-Package for LibreOffice</ro>
+   <ru>Indonesian Language Meta-Package for LibreOffice</ru>
+   <sk>Indonesian Language Meta-Package for LibreOffice</sk>
+   <sl>Indonezijski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Indonesian Language Meta-Package for LibreOffice</sq>
+   <sr>Indonesian Language Meta-Package for LibreOffice</sr>
+   <sv>Indonesiskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Indonesian Language Meta-Package for LibreOffice</tr>
+   <uk>Indonesian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Indonesian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Indonesian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

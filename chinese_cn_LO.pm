@@ -10,51 +10,52 @@ Chinese_CN_LO
 </name>
 
 <description>
-   <am>Chinese_simplified localisation of LibreOffice</am>
-   <ar>Chinese_simplified localisation of LibreOffice</ar>
-   <bg>Chinese_simplified localisation of LibreOffice</bg>
-   <ca>Localització de LibreOffice en xinès simplificat</ca>
-   <cs>Chinese_simplified localisation of LibreOffice</cs>
-   <da>Kinesisk (forenklet) oversættelse af LibreOffice</da>
-   <de>Chinesisch (vereinfacht) Lokalisierung von LibreOffice</de>
-   <el>LibreOffice για κινέζικα</el>
-   <en>Chinese_simplified localisation of LibreOffice</en>
-   <es>Localización Chino simplificado de LibreOffice</es>
-   <et>Chinese_simplified localisation of LibreOffice</et>
-   <eu>Chinese_simplified localisation of LibreOffice</eu>
-   <fa>Chinese_simplified localisation of LibreOffice</fa>
-   <fi>Chinese_simplified localisation of LibreOffice</fi>
-   <fr>Localisation chinois-simplifié pour LibreOffice</fr>
-   <he_IL>Chinese_simplified localisation of LibreOffice</he_IL>
-   <hi>Chinese_simplified localisation of LibreOffice</hi>
-   <hr>Chinese_simplified localisation of LibreOffice</hr>
-   <hu>Chinese_simplified localisation of LibreOffice</hu>
-   <id>Chinese_simplified localisation of LibreOffice</id>
-   <is>Chinese_simplified localisation of LibreOffice</is>
-   <it>Localizzazione in Cinese_semplificato di LibreOffice</it>
-   <ja_JP>Chinese_simplified localisation of LibreOffice</ja_JP>
-   <ja>Chinese_simplified localisation of LibreOffice</ja>
-   <kk>Chinese_simplified localisation of LibreOffice</kk>
-   <ko>Chinese_simplified localisation of LibreOffice</ko>
-   <lt>Chinese_simplified localisation of LibreOffice</lt>
-   <mk>Chinese_simplified localisation of LibreOffice</mk>
-   <mr>Chinese_simplified localisation of LibreOffice</mr>
-   <nb>Chinese_simplified localisation of LibreOffice</nb>
-   <nl>Vereenvoudigd Chinese lokalisatie van LibreOffice</nl>
-   <pl>Chiński uproszczony lokalizacja LibreOffice</pl>
-   <pt_BR>Chinês_simplificado Localização para LibreOffice</pt_BR>
-   <pt>Chinês_simplificado Localização para LibreOffice</pt>
-   <ro>Chinese_simplified localisation of LibreOffice</ro>
-   <ru>Chinese_simplified localisation of LibreOffice</ru>
-   <sk>Chinese_simplified localisation of LibreOffice</sk>
-   <sl>Chinese_simplified localisation of LibreOffice</sl>
-   <sq>Chinese_simplified localisation of LibreOffice</sq>
-   <sr>Chinese_simplified localisation of LibreOffice</sr>
-   <sv>Kinesisk_förenklad lokalisering av LibreOffice</sv>
-   <tr>Chinese_simplified localisation of LibreOffice</tr>
-   <uk>Chinese_simplified локалізація LibreOffice</uk>
-   <zh_CN>Chinese_simplified localisation of LibreOffice</zh_CN>
-   <zh_TW>Chinese_simplified localisation of LibreOffice</zh_TW>
+   <am>Chinese_simplified localisation of Thunderbird</am>
+   <ar>Chinese_simplified localisation of Thunderbird</ar>
+   <bg>Chinese_simplified localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Xinès simplificat</ca>
+   <cs>Chinese_simplified localisation of Thunderbird</cs>
+   <da>Kinesisk (forenklet) oversættelse af Thunderbird</da>
+   <de>Chinesische (vereinfacht) Lokalisierung von Thunderbird</de>
+   <el>Κινεζικός εντοπισμός του Thunderbird</el>
+   <en>Chinese_simplified localisation of Thunderbird</en>
+   <es>Localización Chino simplificado de Thunderbird</es>
+   <et>Chinese_simplified localisation of Thunderbird</et>
+   <eu>Chinese_simplified localisation of Thunderbird</eu>
+   <fa>Chinese_simplified localisation of Thunderbird</fa>
+   <fil_PH>Chinese_simplified localisation of Thunderbird</fil_PH>
+   <fi>Chinese_simplified localisation of Thunderbird</fi>
+   <fr>Localisation chinois-simplifié pour Thunderbird</fr>
+   <he_IL>Chinese_simplified localisation of Thunderbird</he_IL>
+   <hi>Chinese_simplified localisation of Thunderbird</hi>
+   <hr>Chinese_simplified localisation of Thunderbird</hr>
+   <hu>Chinese_simplified localisation of Thunderbird</hu>
+   <id>Chinese_simplified localisation of Thunderbird</id>
+   <is>Chinese_simplified localisation of Thunderbird</is>
+   <it>Localizzazione in Cinese_semplificato di Thunderbird</it>
+   <ja_JP>Chinese_simplified localisation of Thunderbird</ja_JP>
+   <ja>Chinese_simplified localisation of Thunderbird</ja>
+   <kk>Chinese_simplified localisation of Thunderbird</kk>
+   <ko>Chinese_simplified localisation of Thunderbird</ko>
+   <lt>Chinese_simplified localisation of Thunderbird</lt>
+   <mk>Chinese_simplified localisation of Thunderbird</mk>
+   <mr>Chinese_simplified localisation of Thunderbird</mr>
+   <nb>Chinese_simplified localisation of Thunderbird</nb>
+   <nl>Vereenvoudigd Chinese lokalisatie van Thunderbird</nl>
+   <pl>Chiński uproszczony lokalizacja Thunderbirda</pl>
+   <pt_BR>Chinês_simplificado Localização para Thunderbird</pt_BR>
+   <pt>Chinês_simplificado Localização para Thunderbird</pt>
+   <ro>Chinese_simplified localisation of Thunderbird</ro>
+   <ru>Chinese_simplified localisation of Thunderbird</ru>
+   <sk>Chinese_simplified localisation of Thunderbird</sk>
+   <sl>Chinese_simplified localisation of Thunderbird</sl>
+   <sq>Chinese_simplified localisation of Thunderbird</sq>
+   <sr>Chinese_simplified localisation of Thunderbird</sr>
+   <sv>Kinesisk_förenklad lokalisering av Thunderbird</sv>
+   <tr>Thunderbird'ün Basitleştirilmiş_Çince yerelleştirmesi</tr>
+   <uk>Chinese_simplified локалізація Thunderbird</uk>
+   <zh_CN>Chinese_simplified localisation of Thunderbird</zh_CN>
+   <zh_TW>Chinese_simplified localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

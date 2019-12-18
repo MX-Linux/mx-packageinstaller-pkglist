@@ -10,51 +10,52 @@ Portugese(PT) Thunderbird
 </name>
 
 <description>
-   <am>Portugese(PT) localisation of Thunderbird</am>
-   <ar>Portugese(PT) localisation of Thunderbird</ar>
-   <bg>Portugese(PT) localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Portuguès (PT)</ca>
-   <cs>Portugese(PT) localisation of Thunderbird</cs>
-   <da>Portugisisk (portugal) oversættelse af Thunderbird</da>
-   <de>Portugiesische (PT) Lokalisierung von Thunderbird</de>
-   <el>Πορτογαλικός εντοπισμός του Thunderbird</el>
-   <en>Portugese(PT) localisation of Thunderbird</en>
-   <es>Localización Portuguesa (PT) de Thunderbird</es>
-   <et>Portugese(PT) localisation of Thunderbird</et>
-   <eu>Portugese(PT) localisation of Thunderbird</eu>
-   <fa>Portugese(PT) localisation of Thunderbird</fa>
-   <fi>Portugese(PT) localisation of Thunderbird</fi>
-   <fr>Localisation portugaise (PT) pour Thunderbird</fr>
-   <he_IL>Portugese(PT) localisation of Thunderbird</he_IL>
-   <hi>Portugese(PT) localisation of Thunderbird</hi>
-   <hr>Portugese(PT) localisation of Thunderbird</hr>
-   <hu>Portugese(PT) localisation of Thunderbird</hu>
-   <id>Portugese(PT) localisation of Thunderbird</id>
-   <is>Portugese(PT) localisation of Thunderbird</is>
-   <it>Localizzazione portoghese(PT) di Thunderbird</it>
-   <ja_JP>Portugese(PT) localisation of Thunderbird</ja_JP>
-   <ja>Portugese(PT) localisation of Thunderbird</ja>
-   <kk>Portugese(PT) localisation of Thunderbird</kk>
-   <ko>Portugese(PT) localisation of Thunderbird</ko>
-   <lt>Portugese(PT) localisation of Thunderbird</lt>
-   <mk>Portugese(PT) localisation of Thunderbird</mk>
-   <mr>Portugese(PT) localisation of Thunderbird</mr>
-   <nb>Portugese(PT) localisation of Thunderbird</nb>
-   <nl>Portugese(PT) lokalisatie van Thunderbird</nl>
-   <pl>Portugalska (PT) lokalizacja Thunderbirda</pl>
-   <pt_BR>Português(PT) Localização para Thunderbird</pt_BR>
-   <pt>Português(PT) Localização para Thunderbird</pt>
-   <ro>Portugese(PT) localisation of Thunderbird</ro>
-   <ru>Portugese(PT) localisation of Thunderbird</ru>
-   <sk>Portugese(PT) localisation of Thunderbird</sk>
-   <sl>Portugese(PT) localisation of Thunderbird</sl>
-   <sq>Portugese(PT) localisation of Thunderbird</sq>
-   <sr>Portugese(PT) localisation of Thunderbird</sr>
-   <sv>Portugisisk (PT) lokalisering för Thunderbird</sv>
-   <tr>Portugese(PT) localisation of Thunderbird</tr>
-   <uk>Portugese(PT) локалізація Thunderbird</uk>
-   <zh_CN>Portugese(PT) localisation of Thunderbird</zh_CN>
-   <zh_TW>Portugese(PT) localisation of Thunderbird</zh_TW>
+   <am>Pre-School. Includes: gamine, gcompris and tuxpaint</am>
+   <ar>Pre-School. Includes: gamine, gcompris and tuxpaint</ar>
+   <bg>Pre-School. Includes: gamine, gcompris and tuxpaint</bg>
+   <ca>Pre-escolar: inclou gamine, gcompris i tuxpaint</ca>
+   <cs>Pre-School. Includes: gamine, gcompris and tuxpaint</cs>
+   <da>Førskole. Inkluderer: gamine, gcompris og tuxpaint</da>
+   <de>Vorschule: Inklusive Gamine, Gcompris und Tuxpaint</de>
+   <el>Προσχολικός. Περιλαμβάνει: gamine, gcompris και tuxpaint</el>
+   <en>Pre-School. Includes: gamine, gcompris and tuxpaint</en>
+   <es>Preescolar. Incluye: gamine, gcompris y tuxpaint.</es>
+   <et>Pre-School. Includes: gamine, gcompris and tuxpaint</et>
+   <eu>Pre-School. Includes: gamine, gcompris and tuxpaint</eu>
+   <fa>Pre-School. Includes: gamine, gcompris and tuxpaint</fa>
+   <fil_PH>Pre-School. Includes: gamine, gcompris and tuxpaint</fil_PH>
+   <fi>Pre-School. Includes: gamine, gcompris and tuxpaint</fi>
+   <fr>Maternelle. Inclus: gamine, gcompris et tuxpaint</fr>
+   <he_IL>Pre-School. Includes: gamine, gcompris and tuxpaint</he_IL>
+   <hi>Pre-School. Includes: gamine, gcompris and tuxpaint</hi>
+   <hr>Pre-School. Includes: gamine, gcompris and tuxpaint</hr>
+   <hu>Pre-School. Includes: gamine, gcompris and tuxpaint</hu>
+   <id>Pre-School. Includes: gamine, gcompris and tuxpaint</id>
+   <is>Pre-School. Includes: gamine, gcompris and tuxpaint</is>
+   <it>Elementari. Include: gamine, gcompris e tuxpaint</it>
+   <ja_JP>Pre-School. Includes: gamine, gcompris and tuxpaint</ja_JP>
+   <ja>Pre-School. Includes: gamine, gcompris and tuxpaint</ja>
+   <kk>Pre-School. Includes: gamine, gcompris and tuxpaint</kk>
+   <ko>Pre-School. Includes: gamine, gcompris and tuxpaint</ko>
+   <lt>Pre-School. Includes: gamine, gcompris and tuxpaint</lt>
+   <mk>Pre-School. Includes: gamine, gcompris and tuxpaint</mk>
+   <mr>Pre-School. Includes: gamine, gcompris and tuxpaint</mr>
+   <nb>Pre-School. Includes: gamine, gcompris and tuxpaint</nb>
+   <nl>Pre-School. Inclusief: gamine, gcompris en tuxpaint</nl>
+   <pl>Przedszkole. Zawiera: gamine, gcompris i tuxpaint</pl>
+   <pt_BR>Pré-escola/infantil. Inclui: gamine, gcompris e tuxpaint</pt_BR>
+   <pt>Pré-escola/infantil. Inclui: gamine, gcompris e tuxpaint</pt>
+   <ro>Pre-School. Includes: gamine, gcompris and tuxpaint</ro>
+   <ru>Приложения для дошкольников: gamine, gcompris и tuxpaint</ru>
+   <sk>Pre-School. Includes: gamine, gcompris and tuxpaint</sk>
+   <sl>Predšola. Vsebuje: gamine, gcompris in tuxpaint</sl>
+   <sq>Pre-School. Includes: gamine, gcompris and tuxpaint</sq>
+   <sr>Pre-School. Includes: gamine, gcompris and tuxpaint</sr>
+   <sv>Pre-School. Inkluderar: gamine, gcompris och tuxpaint</sv>
+   <tr>Pre-School. Includes: gamine, gcompris and tuxpaint</tr>
+   <uk>Pre-School. Includes: gamine, gcompris and tuxpaint</uk>
+   <zh_CN>Pre-School. Includes: gamine, gcompris and tuxpaint</zh_CN>
+   <zh_TW>Pre-School. Includes: gamine, gcompris and tuxpaint</zh_TW>
 </description>
 
 <installable>

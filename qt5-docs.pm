@@ -10,51 +10,52 @@ QT5 Documention
 </name>
 
 <description>
-   <am>Documentation files for Qt-5 and QtCreator IDE</am>
-   <ar>Documentation files for Qt-5 and QtCreator IDE</ar>
-   <bg>Documentation files for Qt-5 and QtCreator IDE</bg>
-   <ca>Fitxers de documentació per a l'IDE QT5 i QTCreator</ca>
-   <cs>Documentation files for Qt-5 and QtCreator IDE</cs>
-   <da>Dokumentationsfiler til Qt-5 og QtCreator IDE</da>
-   <de>Dokumentationsdateien für Qt-5 und QtCreator IDE</de>
-   <el>Αρχεία τεκμηρίωσης για IDE Qt-5 και QtCreator</el>
-   <en>Documentation files for Qt-5 and QtCreator IDE</en>
-   <es>Documentación de Qt-5 y del IDE QtCreator</es>
-   <et>Documentation files for Qt-5 and QtCreator IDE</et>
-   <eu>Documentation files for Qt-5 and QtCreator IDE</eu>
-   <fa>Documentation files for Qt-5 and QtCreator IDE</fa>
-   <fi>Documentation files for Qt-5 and QtCreator IDE</fi>
-   <fr>Fichiers de documentation pour Qt-5 et QtCreator IDE</fr>
-   <he_IL>Documentation files for Qt-5 and QtCreator IDE</he_IL>
-   <hi>Documentation files for Qt-5 and QtCreator IDE</hi>
-   <hr>Documentation files for Qt-5 and QtCreator IDE</hr>
-   <hu>Documentation files for Qt-5 and QtCreator IDE</hu>
-   <id>Documentation files for Qt-5 and QtCreator IDE</id>
-   <is>Documentation files for Qt-5 and QtCreator IDE</is>
-   <it>File di documentazione per Qt-5 e QtCreator IDE</it>
-   <ja_JP>Documentation files for Qt-5 and QtCreator IDE</ja_JP>
-   <ja>Documentation files for Qt-5 and QtCreator IDE</ja>
-   <kk>Documentation files for Qt-5 and QtCreator IDE</kk>
-   <ko>Documentation files for Qt-5 and QtCreator IDE</ko>
-   <lt>Documentation files for Qt-5 and QtCreator IDE</lt>
-   <mk>Documentation files for Qt-5 and QtCreator IDE</mk>
-   <mr>Documentation files for Qt-5 and QtCreator IDE</mr>
-   <nb>Documentation files for Qt-5 and QtCreator IDE</nb>
-   <nl>Documentatiebestanden voor Qt-5 en QtCreator IDE</nl>
-   <pl>pliki dokumentacji dla QT-5 i QtCreator IDE</pl>
-   <pt_BR>Documentation files for Qt-5 and QtCreator IDE</pt_BR>
-   <pt>Documentation files for Qt-5 and QtCreator IDE</pt>
-   <ro>Documentation files for Qt-5 and QtCreator IDE</ro>
-   <ru>Документация по QT-5 и QtCreator IDE</ru>
-   <sk>Documentation files for Qt-5 and QtCreator IDE</sk>
-   <sl>Dokumentacija za Qt-5 in QtCreator IDE</sl>
-   <sq>Documentation files for Qt-5 and QtCreator IDE</sq>
-   <sr>Documentation files for Qt-5 and QtCreator IDE</sr>
-   <sv>Dokumentationsfiler för Qt-5 och QtCreator IDE</sv>
-   <tr>Documentation files for Qt-5 and QtCreator IDE</tr>
-   <uk>Documentation files for Qt-5 and QtCreator IDE</uk>
-   <zh_CN>Documentation files for Qt-5 and QtCreator IDE</zh_CN>
-   <zh_TW>Documentation files for Qt-5 and QtCreator IDE</zh_TW>
+   <am>a desktop session recorder</am>
+   <ar>a desktop session recorder</ar>
+   <bg>a desktop session recorder</bg>
+   <ca>Enregistrador de sessions d'escriptori</ca>
+   <cs>a desktop session recorder</cs>
+   <da>en skrivebordssessionsoptager</da>
+   <de>Ein Desktop-Session-Rekorder</de>
+   <el>έναν καταγραφέα περιόδων σύνδεσης στην επιφάνεια εργασίας</el>
+   <en>a desktop session recorder</en>
+   <es>Realiza capturas de video de tu escritorio</es>
+   <et>a desktop session recorder</et>
+   <eu>a desktop session recorder</eu>
+   <fa>a desktop session recorder</fa>
+   <fil_PH>a desktop session recorder</fil_PH>
+   <fi>a desktop session recorder</fi>
+   <fr>Un enregistreur de session de bureau</fr>
+   <he_IL>a desktop session recorder</he_IL>
+   <hi>a desktop session recorder</hi>
+   <hr>a desktop session recorder</hr>
+   <hu>a desktop session recorder</hu>
+   <id>a desktop session recorder</id>
+   <is>a desktop session recorder</is>
+   <it>registra una sessione del desktop</it>
+   <ja_JP>a desktop session recorder</ja_JP>
+   <ja>a desktop session recorder</ja>
+   <kk>a desktop session recorder</kk>
+   <ko>a desktop session recorder</ko>
+   <lt>a desktop session recorder</lt>
+   <mk>a desktop session recorder</mk>
+   <mr>a desktop session recorder</mr>
+   <nb>a desktop session recorder</nb>
+   <nl>een desktop sessie recorder</nl>
+   <pl>program do nagrywania obrazu z pulpitu i ekranu komputera</pl>
+   <pt_BR>Registra em vídeo a sessão de trabalho conforme evolui na tela</pt_BR>
+   <pt>Regista em vídeo a sessão de trabalho conforme evolui no ecrã</pt>
+   <ro>a desktop session recorder</ro>
+   <ru>Запись сеанса рабочего стола</ru>
+   <sk>a desktop session recorder</sk>
+   <sl>Snemalnik namizja</sl>
+   <sq>a desktop session recorder</sq>
+   <sr>a desktop session recorder</sr>
+   <sv>en skrivbordssessions-inspelare</sv>
+   <tr>a desktop session recorder</tr>
+   <uk>a desktop session recorder</uk>
+   <zh_CN>a desktop session recorder</zh_CN>
+   <zh_TW>a desktop session recorder</zh_TW>
 </description>
 
 <installable>

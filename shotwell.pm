@@ -10,51 +10,52 @@ Shotwell
 </name>
 
 <description>
-   <am>digital photo organizer</am>
-   <ar>digital photo organizer</ar>
-   <bg>digital photo organizer</bg>
-   <ca>Organitzador de fotos digitals</ca>
-   <cs>digital photo organizer</cs>
-   <da>organisering af digitale billeder</da>
-   <de>Digitalfoto-Organizer</de>
-   <el>ψηφιακό διοργανωτή φωτογραφιών</el>
-   <en>digital photo organizer</en>
-   <es>Organizador de fotografías digitales</es>
-   <et>digital photo organizer</et>
-   <eu>digital photo organizer</eu>
-   <fa>digital photo organizer</fa>
-   <fi>digital photo organizer</fi>
-   <fr>Agenda photo numérique</fr>
-   <he_IL>digital photo organizer</he_IL>
-   <hi>digital photo organizer</hi>
-   <hr>digital photo organizer</hr>
-   <hu>digital photo organizer</hu>
-   <id>digital photo organizer</id>
-   <is>digital photo organizer</is>
-   <it>organizzatore di foto digitali</it>
-   <ja_JP>digital photo organizer</ja_JP>
-   <ja>digital photo organizer</ja>
-   <kk>digital photo organizer</kk>
-   <ko>digital photo organizer</ko>
-   <lt>digital photo organizer</lt>
-   <mk>digital photo organizer</mk>
-   <mr>digital photo organizer</mr>
-   <nb>digital photo organizer</nb>
-   <nl>digitale foto-organisator</nl>
-   <pl>przeglądarka i menedżer plików graficznych i fotografii cyfrowych</pl>
-   <pt_BR>Organizador de fotos digitais</pt_BR>
-   <pt>Organizador de fotos digitais</pt>
-   <ro>digital photo organizer</ro>
-   <ru>Каталогизатор фотографий и видеофайлов</ru>
-   <sk>digital photo organizer</sk>
-   <sl>Digitalni organizator fotografiji</sl>
-   <sq>digital photo organizer</sq>
-   <sr>digital photo organizer</sr>
-   <sv>digital foto-organiserare</sv>
-   <tr>digital photo organizer</tr>
-   <uk>digital photo organizer</uk>
-   <zh_CN>digital photo organizer</zh_CN>
-   <zh_TW>digital photo organizer</zh_TW>
+   <am>a Qt-based screencast recorder</am>
+   <ar>a Qt-based screencast recorder</ar>
+   <bg>a Qt-based screencast recorder</bg>
+   <ca>Enregistrador de pantalla basat en QT</ca>
+   <cs>a Qt-based screencast recorder</cs>
+   <da>en Qt-baseret screencast-optager</da>
+   <de>Ein Qt-basierter Bildschirm-Rekorder</de>
+   <el>μια καταγραφική εκπομπής με βάση το Qt</el>
+   <en>a Qt-based screencast recorder</en>
+   <es>Grabador de pantalla basado en Qt</es>
+   <et>a Qt-based screencast recorder</et>
+   <eu>a Qt-based screencast recorder</eu>
+   <fa>a Qt-based screencast recorder</fa>
+   <fil_PH>a Qt-based screencast recorder</fil_PH>
+   <fi>a Qt-based screencast recorder</fi>
+   <fr>Outil de capture vidéo basé sur Qt</fr>
+   <he_IL>a Qt-based screencast recorder</he_IL>
+   <hi>a Qt-based screencast recorder</hi>
+   <hr>a Qt-based screencast recorder</hr>
+   <hu>a Qt-based screencast recorder</hu>
+   <id>a Qt-based screencast recorder</id>
+   <is>a Qt-based screencast recorder</is>
+   <it>registratore dello schermo basato su librerie Qt</it>
+   <ja_JP>a Qt-based screencast recorder</ja_JP>
+   <ja>a Qt-based screencast recorder</ja>
+   <kk>a Qt-based screencast recorder</kk>
+   <ko>a Qt-based screencast recorder</ko>
+   <lt>a Qt-based screencast recorder</lt>
+   <mk>a Qt-based screencast recorder</mk>
+   <mr>a Qt-based screencast recorder</mr>
+   <nb>a Qt-based screencast recorder</nb>
+   <nl>a Qt-gebaseerde screencast recorder</nl>
+   <pl>rejestrator ekranu oparty na QT</pl>
+   <pt_BR>Gravador de vídeo na tela baseado em Qt</pt_BR>
+   <pt>Gravador de vídeo no ecrã baseado em Qt</pt>
+   <ro>a Qt-based screencast recorder</ro>
+   <ru>Запись скринкастов</ru>
+   <sk>a Qt-based screencast recorder</sk>
+   <sl>Qt snemalnik zaslona</sl>
+   <sq>a Qt-based screencast recorder</sq>
+   <sr>a Qt-based screencast recorder</sr>
+   <sv>en Qt-baserad skärmbildsinspelare</sv>
+   <tr>a Qt-based screencast recorder</tr>
+   <uk>a Qt-based screencast recorder</uk>
+   <zh_CN>a Qt-based screencast recorder</zh_CN>
+   <zh_TW>a Qt-based screencast recorder</zh_TW>
 </description>
 
 <installable>

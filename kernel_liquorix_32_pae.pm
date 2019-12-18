@@ -10,51 +10,52 @@ Liquorix 32 bit pae
 </name>
 
 <description>
-   <am>Liquorix Kernel (PAE, latest from MX TEST repo)</am>
-   <ar>Liquorix Kernel (PAE, latest from MX TEST repo)</ar>
-   <bg>Liquorix Kernel (PAE, latest from MX TEST repo)</bg>
-   <ca>Kernel Liquorix (PAE, darrer del dipòsit MX TEST)</ca>
-   <cs>Liquorix Kernel (PAE, latest from MX TEST repo)</cs>
-   <da>Liquorix-kerne (PAE, seneste fra MX TEST-softwarekilde)</da>
-   <de>Liquorix Kernel (PAE, neueste Version von MX TEST repo)</de>
-   <el>Liquorix Kernel (PAE, τελευταία από το MX TEST repo)</el>
-   <en>Liquorix Kernel (PAE, latest from MX TEST repo)</en>
-   <es>Kernel Liquorix (PAE, último del repositorio MX TEST)</es>
-   <et>Liquorix Kernel (PAE, latest from MX TEST repo)</et>
-   <eu>Liquorix Kernel (PAE, latest from MX TEST repo)</eu>
-   <fa>Liquorix Kernel (PAE, latest from MX TEST repo)</fa>
-   <fi>Liquorix Kernel (PAE, latest from MX TEST repo)</fi>
-   <fr>Noyau Liquorix (PAE, dernier du dépôt de test MX)</fr>
-   <he_IL>Liquorix Kernel (PAE, latest from MX TEST repo)</he_IL>
-   <hi>Liquorix Kernel (PAE, latest from MX TEST repo)</hi>
-   <hr>Liquorix Kernel (PAE, latest from MX TEST repo)</hr>
-   <hu>Liquorix Kernel (PAE, latest from MX TEST repo)</hu>
-   <id>Liquorix Kernel (PAE, latest from MX TEST repo)</id>
-   <is>Liquorix Kernel (PAE, latest from MX TEST repo)</is>
-   <it>Liquorix Kernel (PAE, ultimo da MX TEST repo)</it>
-   <ja_JP>Liquorix Kernel (PAE, latest from MX TEST repo)</ja_JP>
-   <ja>Liquorix Kernel (PAE, latest from MX TEST repo)</ja>
-   <kk>Liquorix Kernel (PAE, latest from MX TEST repo)</kk>
-   <ko>Liquorix Kernel (PAE, latest from MX TEST repo)</ko>
-   <lt>Liquorix Kernel (PAE, latest from MX TEST repo)</lt>
-   <mk>Liquorix Kernel (PAE, latest from MX TEST repo)</mk>
-   <mr>Liquorix Kernel (PAE, latest from MX TEST repo)</mr>
-   <nb>Liquorix Kernel (PAE, latest from MX TEST repo)</nb>
-   <nl>Liquorix Kernel (PAE, laatste vanuit MX TEST pakketbron)</nl>
-   <pl>Liquorix Kernel (PAE, latest from MX TEST repo)</pl>
-   <pt_BR>Liquorix Kernel (PAE, latest from MX TEST repo)</pt_BR>
-   <pt>Núcleo Liquorix (PAE, mais recente no MX TEST repo)</pt>
-   <ro>Liquorix Kernel (PAE, latest from MX TEST repo)</ro>
-   <ru>Liquorix ядро (PAE, последнее из репозитория MX TEST)</ru>
-   <sk>Liquorix Kernel (PAE, latest from MX TEST repo)</sk>
-   <sl>Liquorix Kernel (PAE, latest from MX TEST repo)</sl>
-   <sq>Liquorix Kernel (PAE, latest from MX TEST repo)</sq>
-   <sr>Liquorix Kernel (PAE, latest from MX TEST repo)</sr>
-   <sv>Liquorix Kärna (PAE, senaste från MX TEST repo)</sv>
-   <tr>Liquorix Kernel (PAE, latest from MX TEST repo)</tr>
-   <uk>Liquorix Kernel (PAE, latest from MX TEST repo)</uk>
-   <zh_CN>Liquorix Kernel (PAE, latest from MX TEST repo)</zh_CN>
-   <zh_TW>Liquorix Kernel (PAE, latest from MX TEST repo)</zh_TW>
+   <am>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</am>
+   <ar>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</ar>
+   <bg>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</bg>
+   <ca>Kernel Liquorix esmenat per Meltdown, 64 bit, més recent del dipòsit MX TEST</ca>
+   <cs>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</cs>
+   <da>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</da>
+   <de>Liquorix Kernel Meltdown gepatcht, 64 bit, der neueste im MX TEST Repo</de>
+   <el>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</el>
+   <en>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</en>
+   <es>Liquorix kernel Meltdown parcheado, 64 bit último desde MX TEST repo</es>
+   <et>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</et>
+   <eu>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</eu>
+   <fa>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</fa>
+   <fil_PH>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</fil_PH>
+   <fi>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</fi>
+   <fr>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</fr>
+   <he_IL>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</he_IL>
+   <hi>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</hi>
+   <hr>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</hr>
+   <hu>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</hu>
+   <id>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</id>
+   <is>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</is>
+   <it>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</it>
+   <ja_JP>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</ja_JP>
+   <ja>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</ja>
+   <kk>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</kk>
+   <ko>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</ko>
+   <lt>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</lt>
+   <mk>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</mk>
+   <mr>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</mr>
+   <nb>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</nb>
+   <nl>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</nl>
+   <pl>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</pl>
+   <pt_BR>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</pt_BR>
+   <pt>Núcleo (kernel) Liquorix com correcção para a falha Meltdown, 64 bit versão mais recente do MX TEST repo</pt>
+   <ro>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</ro>
+   <ru>Liquorix ядро с патчем от Meltdown 64 bit (актуальное из репозитория MX TEST)</ru>
+   <sk>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</sk>
+   <sl>Liquorix Meltdown jedro - zakrpano, 64 bitno, zadnje iz MX TEST repozitorija</sl>
+   <sq>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</sq>
+   <sr>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</sr>
+   <sv>Liquorix kärna Meltdown fixad, 64 bit senaste från MX TEST repo</sv>
+   <tr>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</tr>
+   <uk>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</uk>
+   <zh_CN>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</zh_CN>
+   <zh_TW>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</zh_TW>
 </description>
 
 <installable>

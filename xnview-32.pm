@@ -23,6 +23,7 @@ XnView
    <et>picture viewer, browser and converter</et>
    <eu>picture viewer, browser and converter</eu>
    <fa>picture viewer, browser and converter</fa>
+   <fil_PH>picture viewer, browser and converter</fil_PH>
    <fi>picture viewer, browser and converter</fi>
    <fr>Visionner, feuilleter et convertir des images</fr>
    <he_IL>picture viewer, browser and converter</he_IL>

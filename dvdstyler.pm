@@ -10,51 +10,52 @@ DVDStyler
 </name>
 
 <description>
-   <am>DVD authoring application for the creation of professional-looking DVDs</am>
-   <ar>DVD authoring application for the creation of professional-looking DVDs</ar>
-   <bg>DVD authoring application for the creation of professional-looking DVDs</bg>
-   <ca>Aplicació de creació de DVD per gravar DVDs d'aspecte professional</ca>
-   <cs>DVD authoring application for the creation of professional-looking DVDs</cs>
-   <da>DVD-forfatterprogram til oprettelse af DVD'er med professionelt udseende</da>
-   <de>DVD-Authoring-Anwendung zur Erstellung professionell aussehender DVDs</de>
-   <el>Εφαρμογή δημιουργίας DVD για τη δημιουργία επαγγελματικών DVD</el>
-   <en>DVD authoring application for the creation of professional-looking DVDs</en>
-   <es>Aplicación de autoría de DVD para la creación de DVD de aspecto profesional.</es>
-   <et>DVD authoring application for the creation of professional-looking DVDs</et>
-   <eu>DVD authoring application for the creation of professional-looking DVDs</eu>
-   <fa>DVD authoring application for the creation of professional-looking DVDs</fa>
-   <fi>DVD authoring application for the creation of professional-looking DVDs</fi>
-   <fr>Application d'auteuring DVD pour la création de DVDs de type professionnel</fr>
-   <he_IL>DVD authoring application for the creation of professional-looking DVDs</he_IL>
-   <hi>DVD authoring application for the creation of professional-looking DVDs</hi>
-   <hr>DVD authoring application for the creation of professional-looking DVDs</hr>
-   <hu>DVD authoring application for the creation of professional-looking DVDs</hu>
-   <id>DVD authoring application for the creation of professional-looking DVDs</id>
-   <is>DVD authoring application for the creation of professional-looking DVDs</is>
-   <it>Applicazione di authoring DVD per la creazione di DVD dall'aspetto professionale</it>
-   <ja_JP>DVD authoring application for the creation of professional-looking DVDs</ja_JP>
-   <ja>DVD authoring application for the creation of professional-looking DVDs</ja>
-   <kk>DVD authoring application for the creation of professional-looking DVDs</kk>
-   <ko>DVD authoring application for the creation of professional-looking DVDs</ko>
-   <lt>DVD authoring application for the creation of professional-looking DVDs</lt>
-   <mk>DVD authoring application for the creation of professional-looking DVDs</mk>
-   <mr>DVD authoring application for the creation of professional-looking DVDs</mr>
-   <nb>DVD authoring application for the creation of professional-looking DVDs</nb>
-   <nl>DVD auteurstoepassing voor het maken van professioneel ogende DVD's</nl>
-   <pl>aplikacja do authoringu DVD czyli tworzenia profesjonalnie wyglądających płyt DVD</pl>
-   <pt_BR>Aplicativo de composição de DVDs para criar DVDs de aspecto  profissional</pt_BR>
-   <pt>Aplicação de composição de DVDs para criar DVDs de aspecto  profissional</pt>
-   <ro>DVD authoring application for the creation of professional-looking DVDs</ro>
-   <ru>Приложение авторинга DVD для создания профессионально оформленных DVD</ru>
-   <sk>DVD authoring application for the creation of professional-looking DVDs</sk>
-   <sl>Program za avtoriziranje DVD nosilcev, ki omogoča ustvarjanje DVD plošč profesionalnega videza</sl>
-   <sq>DVD authoring application for the creation of professional-looking DVDs</sq>
-   <sr>DVD authoring application for the creation of professional-looking DVDs</sr>
-   <sv>DVD-skapande applikation för att göra proffsiga DVD</sv>
-   <tr>DVD authoring application for the creation of professional-looking DVDs</tr>
-   <uk>програма для створення DVD-дисків, що виглядають як професіональні</uk>
-   <zh_CN>DVD authoring application for the creation of professional-looking DVDs</zh_CN>
-   <zh_TW>DVD authoring application for the creation of professional-looking DVDs</zh_TW>
+   <am>Dzongkha Language Meta-Package for LibreOffice</am>
+   <ar>Dzongkha Language Meta-Package for LibreOffice</ar>
+   <bg>Dzongkha Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Dzongkha per LibreOffice</ca>
+   <cs>Dzongkha Language Meta-Package for LibreOffice</cs>
+   <da>Dzongkha Language Meta-Package for LibreOffice</da>
+   <de>Dzongkha Meta-Paket für LibreOffice</de>
+   <el>Dzongkha Language Meta-Package for LibreOffice</el>
+   <en>Dzongkha Language Meta-Package for LibreOffice</en>
+   <es>Metapaquete de Dzongkha Language para LibreOffice</es>
+   <et>Dzongkha Language Meta-Package for LibreOffice</et>
+   <eu>Dzongkha Language Meta-Package for LibreOffice</eu>
+   <fa>Dzongkha Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Dzongkha Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Dzongkha Language Meta-Package for LibreOffice</fi>
+   <fr>Dzongkha Language Meta-Package for LibreOffice</fr>
+   <he_IL>Dzongkha Language Meta-Package for LibreOffice</he_IL>
+   <hi>Dzongkha Language Meta-Package for LibreOffice</hi>
+   <hr>Dzongkha Language Meta-Package for LibreOffice</hr>
+   <hu>Dzongkha Language Meta-Package for LibreOffice</hu>
+   <id>Dzongkha Language Meta-Package for LibreOffice</id>
+   <is>Dzongkha Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua dzongkha per LibreOffice</it>
+   <ja_JP>Dzongkha Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Dzongkha Language Meta-Package for LibreOffice</ja>
+   <kk>Dzongkha Language Meta-Package for LibreOffice</kk>
+   <ko>Dzongkha Language Meta-Package for LibreOffice</ko>
+   <lt>Dzongkha Language Meta-Package for LibreOffice</lt>
+   <mk>Dzongkha Language Meta-Package for LibreOffice</mk>
+   <mr>Dzongkha Language Meta-Package for LibreOffice</mr>
+   <nb>Dzongkha Language Meta-Package for LibreOffice</nb>
+   <nl>Dzongkha Language Meta-Package for LibreOffice</nl>
+   <pl>Dzongkha Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Dzongkha Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Dzonga Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Dzongkha Language Meta-Package for LibreOffice</ro>
+   <ru>Dzongkha Language Meta-Package for LibreOffice</ru>
+   <sk>Dzongkha Language Meta-Package for LibreOffice</sk>
+   <sl>Dzongha jezikovni meta-paket za LibreOffice</sl>
+   <sq>Dzongkha Language Meta-Package for LibreOffice</sq>
+   <sr>Dzongkha Language Meta-Package for LibreOffice</sr>
+   <sv>Dzongkha Språk Meta-Paket för LibreOffice</sv>
+   <tr>Dzongkha Language Meta-Package for LibreOffice</tr>
+   <uk>Dzongkha Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Dzongkha Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Dzongkha Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

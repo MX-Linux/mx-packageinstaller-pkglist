@@ -23,6 +23,7 @@ Adobe Reader
    <et>Adobe Reader PDF viewer</et>
    <eu>Adobe Reader PDF viewer</eu>
    <fa>Adobe Reader PDF viewer</fa>
+   <fil_PH>Adobe Reader PDF viewer</fil_PH>
    <fi>Adobe Reader PDF viewer</fi>
    <fr>Visionneuse de documents Adobe Reader PDF</fr>
    <he_IL>Adobe Reader PDF viewer</he_IL>
@@ -51,7 +52,7 @@ Adobe Reader
    <sq>Adobe Reader PDF viewer</sq>
    <sr>Adobe Reader PDF viewer</sr>
    <sv>Adobe Reader PDF visningsprogram</sv>
-   <tr>Adobe Reader PDF viewer</tr>
+   <tr>Adobe Reader PDF görüntüleyici</tr>
    <uk>Adobe Reader PDF переглядач</uk>
    <zh_CN>Adobe Reader PDF viewer</zh_CN>
    <zh_TW>Adobe Reader PDF viewer</zh_TW>

@@ -10,51 +10,52 @@ Slovenian_Libreoffice
 </name>
 
 <description>
-   <am>Slovenian Language Meta-Package for LibreOffice</am>
-   <ar>Slovenian Language Meta-Package for LibreOffice</ar>
-   <bg>Slovenian Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Slovenian per LibreOffice</ca>
-   <cs>Slovenian Language Meta-Package for LibreOffice</cs>
-   <da>Slovenian sprog-metapakke til LibreOffice</da>
-   <de>Slovenian Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Slovenian</el>
-   <en>Slovenian Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Slovenian para LibreOffice</es>
-   <et>Slovenian Language Meta-Package for LibreOffice</et>
-   <eu>Slovenian Language Meta-Package for LibreOffice</eu>
-   <fa>Slovenian Language Meta-Package for LibreOffice</fa>
-   <fi>Slovenian Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Slovenian pour LibreOffice</fr>
-   <he_IL>Slovenian Language Meta-Package for LibreOffice</he_IL>
-   <hi>Slovenian Language Meta-Package for LibreOffice</hi>
-   <hr>Slovenian Language Meta-Package for LibreOffice</hr>
-   <hu>Slovenian Language Meta-Package for LibreOffice</hu>
-   <id>Slovenian Language Meta-Package for LibreOffice</id>
-   <is>Slovenian Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Slovenian per LibreOffice</it>
-   <ja_JP>Slovenian Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Slovenian Language Meta-Package for LibreOffice</ja>
-   <kk>Slovenian Language Meta-Package for LibreOffice</kk>
-   <ko>Slovenian Language Meta-Package for LibreOffice</ko>
-   <lt>Slovenian Language Meta-Package for LibreOffice</lt>
-   <mk>Slovenian Language Meta-Package for LibreOffice</mk>
-   <mr>Slovenian Language Meta-Package for LibreOffice</mr>
-   <nb>Slovenian Language Meta-Package for LibreOffice</nb>
-   <nl>Slovenian Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Slovenian metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Slovenian Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Slovenian Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Slovenian Language Meta-Package for LibreOffice</ro>
-   <ru>Slovenian Language Meta-Package for LibreOffice</ru>
-   <sk>Slovenian Language Meta-Package for LibreOffice</sk>
-   <sl>Slovenian Language Meta-Package for LibreOffice</sl>
-   <sq>Slovenian Language Meta-Package for LibreOffice</sq>
-   <sr>Slovenian Language Meta-Package for LibreOffice</sr>
-   <sv>Slovenian Språk Meta-Paket för LibreOffice</sv>
-   <tr>Slovenian Language Meta-Package for LibreOffice</tr>
-   <uk>Slovenian Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Slovenian Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Slovenian Language Meta-Package for LibreOffice</zh_TW>
+   <am>Slovenian localisation of Thunderbird</am>
+   <ar>Slovenian localisation of Thunderbird</ar>
+   <bg>Slovenian localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Eslovè</ca>
+   <cs>Slovenian localisation of Thunderbird</cs>
+   <da>Slovensk oversættelse af Thunderbird</da>
+   <de>Slowenische Lokalisierung von Thunderbird</de>
+   <el>Σλοβένικος εντοπισμός του Thunderbird</el>
+   <en>Slovenian localisation of Thunderbird</en>
+   <es>Localización Eslovena de Thunderbird</es>
+   <et>Slovenian localisation of Thunderbird</et>
+   <eu>Slovenian localisation of Thunderbird</eu>
+   <fa>Slovenian localisation of Thunderbird</fa>
+   <fil_PH>Slovenian localisation of Thunderbird</fil_PH>
+   <fi>Slovenian localisation of Thunderbird</fi>
+   <fr>Localisation slovène pour Thunderbird</fr>
+   <he_IL>Slovenian localisation of Thunderbird</he_IL>
+   <hi>Slovenian localisation of Thunderbird</hi>
+   <hr>Slovenian localisation of Thunderbird</hr>
+   <hu>Slovenian localisation of Thunderbird</hu>
+   <id>Slovenian localisation of Thunderbird</id>
+   <is>Slovenian localisation of Thunderbird</is>
+   <it>Localizzazione slovena di Thunderbird</it>
+   <ja_JP>Slovenian localisation of Thunderbird</ja_JP>
+   <ja>Slovenian localisation of Thunderbird</ja>
+   <kk>Slovenian localisation of Thunderbird</kk>
+   <ko>Slovenian localisation of Thunderbird</ko>
+   <lt>Slovenian localisation of Thunderbird</lt>
+   <mk>Slovenian localisation of Thunderbird</mk>
+   <mr>Slovenian localisation of Thunderbird</mr>
+   <nb>Slovenian localisation of Thunderbird</nb>
+   <nl>Sloveense lokalisatie van Thunderbird</nl>
+   <pl>Słoweńska lokalizacja Thunderbirda</pl>
+   <pt_BR>Esloveno Localização para Thunderbird</pt_BR>
+   <pt>Esloveno Localização para Thunderbird</pt>
+   <ro>Slovenian localisation of Thunderbird</ro>
+   <ru>Slovenian localisation of Thunderbird</ru>
+   <sk>Slovenian localisation of Thunderbird</sk>
+   <sl>Slovenska lokalizacija za Thunderbird</sl>
+   <sq>Slovenian localisation of Thunderbird</sq>
+   <sr>Slovenian localisation of Thunderbird</sr>
+   <sv>Slovensk lokalisering av Thunderbird</sv>
+   <tr>Thunderbird'ün Slovence yerelleştirmesi</tr>
+   <uk>Slovenian localisation of Thunderbird</uk>
+   <zh_CN>Slovenian localisation of Thunderbird</zh_CN>
+   <zh_TW>Slovenian localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

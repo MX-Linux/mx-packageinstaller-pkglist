@@ -10,51 +10,52 @@ Google Chrome
 </name>
 
 <description>
-   <am>Latest Google Chrome browser (stable)</am>
-   <ar>Latest Google Chrome browser (stable)</ar>
-   <bg>Latest Google Chrome browser (stable)</bg>
-   <ca>Darrer navegador Chrome (estable)</ca>
-   <cs>Latest Google Chrome browser (stable)</cs>
-   <da>Seneste Google Chrome-browser (stabil)</da>
-   <de>Aktueller Google Chrome-Browser (stabil)</de>
-   <el>Τελευταίο πρόγραμμα περιήγησης Google Chrome (σταθερό)</el>
-   <en>Latest Google Chrome browser (stable)</en>
-   <es>El último Google Chrome (estable)</es>
-   <et>Latest Google Chrome browser (stable)</et>
-   <eu>Latest Google Chrome browser (stable)</eu>
-   <fa>Latest Google Chrome browser (stable)</fa>
-   <fi>Latest Google Chrome browser (stable)</fi>
-   <fr>La dernière version de Google Chrome (stable)</fr>
-   <he_IL>Latest Google Chrome browser (stable)</he_IL>
-   <hi>Latest Google Chrome browser (stable)</hi>
-   <hr>Latest Google Chrome browser (stable)</hr>
-   <hu>Latest Google Chrome browser (stable)</hu>
-   <id>Latest Google Chrome browser (stable)</id>
-   <is>Latest Google Chrome browser (stable)</is>
-   <it>Ultima versione (stabile) del browser Google Chrome</it>
-   <ja_JP>Latest Google Chrome browser (stable)</ja_JP>
-   <ja>Latest Google Chrome browser (stable)</ja>
-   <kk>Latest Google Chrome browser (stable)</kk>
-   <ko>Latest Google Chrome browser (stable)</ko>
-   <lt>Latest Google Chrome browser (stable)</lt>
-   <mk>Latest Google Chrome browser (stable)</mk>
-   <mr>Latest Google Chrome browser (stable)</mr>
-   <nb>Latest Google Chrome browser (stable)</nb>
-   <nl>Meest recente Chrome browser (stable)</nl>
-   <pl>najnowsza przeglądarka Google Chrome (stabilna)</pl>
-   <pt_BR>Versão mais recente (estável) do navegador web Google Chrome</pt_BR>
-   <pt>Versão mais recente (estável) do navegador web Google Chrome</pt>
-   <ro>Latest Google Chrome browser (stable)</ro>
-   <ru>Браузер Google Chrome (последняя стабильная версия)</ru>
-   <sk>Latest Google Chrome browser (stable)</sk>
-   <sl>Zadnja različica googlovega Chrome brskalnika</sl>
-   <sq>Latest Google Chrome browser (stable)</sq>
-   <sr>Latest Google Chrome browser (stable)</sr>
-   <sv>SenasteGoogle Chrome webbläsare (stable)</sv>
-   <tr>Latest Google Chrome browser (stable)</tr>
-   <uk>Крайня стабільна версія браузера Google Chrome</uk>
-   <zh_CN>Latest Google Chrome browser (stable)</zh_CN>
-   <zh_TW>Latest Google Chrome browser (stable)</zh_TW>
+   <am>Google Earth Globe</am>
+   <ar>Google Earth Globe</ar>
+   <bg>Google Earth Globe</bg>
+   <ca>Mapamundi de Google Earth</ca>
+   <cs>Google Earth Globe</cs>
+   <da>Google Earth-globus</da>
+   <de>Google Earth Globe</de>
+   <el>Google Earth Globe</el>
+   <en>Google Earth Globe</en>
+   <es>Globo Terráqueo de Google Earth</es>
+   <et>Google Earth Globe</et>
+   <eu>Google Earth Globe</eu>
+   <fa>Google Earth Globe</fa>
+   <fil_PH>Google Earth Globe</fil_PH>
+   <fi>Google Earth Globe</fi>
+   <fr>Google Earth Globe</fr>
+   <he_IL>Google Earth Globe</he_IL>
+   <hi>Google Earth Globe</hi>
+   <hr>Google Earth Globe</hr>
+   <hu>Google Earth Globe</hu>
+   <id>Google Earth Globe</id>
+   <is>Google Earth Globe</is>
+   <it>Google Earth Globe</it>
+   <ja_JP>Google Earth Globe</ja_JP>
+   <ja>Google Earth Globe</ja>
+   <kk>Google Earth Globe</kk>
+   <ko>Google Earth Globe</ko>
+   <lt>Google Earth Globe</lt>
+   <mk>Google Earth Globe</mk>
+   <mr>Google Earth Globe</mr>
+   <nb>Google Earth Globe</nb>
+   <nl>Google Earth Wereldbol</nl>
+   <pl>Globus Google Earth</pl>
+   <pt_BR>Ver a Terra a partir do espaço</pt_BR>
+   <pt>Ver a Terra a partir do espaço</pt>
+   <ro>Google Earth Globe</ro>
+   <ru>Google Планета Земля - спутниковые снимки земного шара</ru>
+   <sk>Google Earth Globe</sk>
+   <sl>Googlov globus Zemlje</sl>
+   <sq>Google Earth Globe</sq>
+   <sr>Google Earth Globe</sr>
+   <sv>Google Earth Glob</sv>
+   <tr>Google Earth Globe</tr>
+   <uk>Google Earth Globe</uk>
+   <zh_CN>Google Earth Globe</zh_CN>
+   <zh_TW>Google Earth Globe</zh_TW>
 </description>
 
 <installable>

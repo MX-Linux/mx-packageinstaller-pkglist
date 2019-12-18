@@ -10,51 +10,52 @@ Belarusian_Firefox
 </name>
 
 <description>
-   <am>Belarusian localisation of Firefox</am>
-   <ar>Belarusian localisation of Firefox</ar>
-   <bg>Belarusian localisation of Firefox</bg>
-   <ca>Localització de Firefox en Belarus</ca>
-   <cs>Belarusian localisation of Firefox</cs>
-   <da>Hviderussisk oversættelse af Firefox</da>
-   <de>Weißrussische Lokalisierung von Firefox</de>
-   <el>Λευκορωσικός εντοπισμός του Firefox</el>
-   <en>Belarusian localisation of Firefox</en>
-   <es>Localización Belorruso de Firefox</es>
-   <et>Belarusian localisation of Firefox</et>
-   <eu>Belarusian localisation of Firefox</eu>
-   <fa>Belarusian localisation of Firefox</fa>
-   <fi>Belarusian localisation of Firefox</fi>
-   <fr>Localisation biélorusse pour Firefox</fr>
-   <he_IL>Belarusian localisation of Firefox</he_IL>
-   <hi>Belarusian localisation of Firefox</hi>
-   <hr>Bjeloruska lokalizacija Firefoxa</hr>
-   <hu>Belarusian localisation of Firefox</hu>
-   <id>Belarusian localisation of Firefox</id>
-   <is>Belarusian localisation of Firefox</is>
-   <it>Localizzazione bielorussa di Firefox</it>
-   <ja_JP>Belarusian localisation of Firefox</ja_JP>
-   <ja>Belarusian localisation of Firefox</ja>
-   <kk>Belarusian localisation of Firefox</kk>
-   <ko>Belarusian localisation of Firefox</ko>
-   <lt>Belarusian localisation of Firefox</lt>
-   <mk>Belarusian localisation of Firefox</mk>
-   <mr>Belarusian localisation of Firefox</mr>
-   <nb>Belarusian localisation of Firefox</nb>
-   <nl>Wit-Russische lokalisatie van Firefox</nl>
-   <pl>Białoruska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Bielorrusso Localização para Firefox</pt_BR>
-   <pt>Bielorrusso Localização para Firefox</pt>
-   <ro>Belarusian localisation of Firefox</ro>
-   <ru>Белорусская локализация Firefox</ru>
-   <sk>Belarusian localisation of Firefox</sk>
-   <sl>Belarusian localisation of Firefox</sl>
-   <sq>Belarusian localisation of Firefox</sq>
-   <sr>Belarusian localisation of Firefox</sr>
-   <sv>Belarus lokalisering av Firefox</sv>
-   <tr>Belarusian localisation of Firefox</tr>
-   <uk>Belarusian локалізація Firefox</uk>
-   <zh_CN>Belarusian localisation of Firefox</zh_CN>
-   <zh_TW>Belarusian localisation of Firefox</zh_TW>
+   <am>Belarusian Language Meta-Package for LibreOffice</am>
+   <ar>Belarusian Language Meta-Package for LibreOffice</ar>
+   <bg>Belarusian Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Bielorús per LibreOffice</ca>
+   <cs>Belarusian Language Meta-Package for LibreOffice</cs>
+   <da>Belarusian Language Meta-Package for LibreOffice</da>
+   <de>Weißrussisches Meta-Paket für LibreOffice</de>
+   <el>Belarusian Language Meta-Package for LibreOffice</el>
+   <en>Belarusian Language Meta-Package for LibreOffice</en>
+   <es>Metapaquete de idioma bielorruso para LibreOffice</es>
+   <et>Belarusian Language Meta-Package for LibreOffice</et>
+   <eu>Belarusian Language Meta-Package for LibreOffice</eu>
+   <fa>Belarusian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Belarusian Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Belarusian Language Meta-Package for LibreOffice</fi>
+   <fr>Belarusian Language Meta-Package for LibreOffice</fr>
+   <he_IL>Belarusian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Belarusian Language Meta-Package for LibreOffice</hi>
+   <hr>Belarusian Language Meta-Package for LibreOffice</hr>
+   <hu>Belarusian Language Meta-Package for LibreOffice</hu>
+   <id>Belarusian Language Meta-Package for LibreOffice</id>
+   <is>Belarusian Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua bielorussa per LibreOffice</it>
+   <ja_JP>Belarusian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Belarusian Language Meta-Package for LibreOffice</ja>
+   <kk>Belarusian Language Meta-Package for LibreOffice</kk>
+   <ko>Belarusian Language Meta-Package for LibreOffice</ko>
+   <lt>Belarusian Language Meta-Package for LibreOffice</lt>
+   <mk>Belarusian Language Meta-Package for LibreOffice</mk>
+   <mr>Belarusian Language Meta-Package for LibreOffice</mr>
+   <nb>Belarusian Language Meta-Package for LibreOffice</nb>
+   <nl>Russisch Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Belarusian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Belarusian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Bielorrusso Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Belarusian Language Meta-Package for LibreOffice</ro>
+   <ru>Belarusian Language Meta-Package for LibreOffice</ru>
+   <sk>Belarusian Language Meta-Package for LibreOffice</sk>
+   <sl>Beloruski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Belarusian Language Meta-Package for LibreOffice</sq>
+   <sr>Belarusian Language Meta-Package for LibreOffice</sr>
+   <sv>Belarusiskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Belarusian Language Meta-Package for LibreOffice</tr>
+   <uk>Belarusian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Belarusian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Belarusian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

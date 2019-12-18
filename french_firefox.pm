@@ -10,51 +10,52 @@ French_Firefox
 </name>
 
 <description>
-   <am>French localisation of Firefox</am>
-   <ar>French localisation of Firefox</ar>
-   <bg>French localisation of Firefox</bg>
-   <ca>Localització de Firefox en Francès</ca>
-   <cs>French localisation of Firefox</cs>
-   <da>Fransk oversættelse af Firefox</da>
-   <de>Französische Lokalisierung von Firefox</de>
-   <el>Γαλλικός εντοπισμός του Firefox</el>
-   <en>French localisation of Firefox</en>
-   <es>Localización Francés de Firefox</es>
-   <et>French localisation of Firefox</et>
-   <eu>French localisation of Firefox</eu>
-   <fa>French localisation of Firefox</fa>
-   <fi>French localisation of Firefox</fi>
-   <fr>Localisation française pour Firefox</fr>
-   <he_IL>French localisation of Firefox</he_IL>
-   <hi>French localisation of Firefox</hi>
-   <hr>French localisation of Firefox</hr>
-   <hu>French localisation of Firefox</hu>
-   <id>French localisation of Firefox</id>
-   <is>French localisation of Firefox</is>
-   <it>Localizzazione francese di Firefox</it>
-   <ja_JP>French localisation of Firefox</ja_JP>
-   <ja>French localisation of Firefox</ja>
-   <kk>French localisation of Firefox</kk>
-   <ko>French localisation of Firefox</ko>
-   <lt>French localisation of Firefox</lt>
-   <mk>French localisation of Firefox</mk>
-   <mr>French localisation of Firefox</mr>
-   <nb>French localisation of Firefox</nb>
-   <nl>Franse lokalisatie van Firefox</nl>
-   <pl>Francuska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Francês Localização para Firefox</pt_BR>
-   <pt>Francês Localização para Firefox</pt>
-   <ro>French localisation of Firefox</ro>
-   <ru>Французская локализация Firefox</ru>
-   <sk>French localisation of Firefox</sk>
-   <sl>French localisation of Firefox</sl>
-   <sq>French localisation of Firefox</sq>
-   <sr>French localisation of Firefox</sr>
-   <sv>Fransk lokalisering av Firefox</sv>
-   <tr>French localisation of Firefox</tr>
-   <uk>French локалізація Firefox</uk>
-   <zh_CN>French localisation of Firefox</zh_CN>
-   <zh_TW>French localisation of Firefox</zh_TW>
+   <am>French Language Meta-Package for LibreOffice</am>
+   <ar>French Language Meta-Package for LibreOffice</ar>
+   <bg>French Language Meta-Package for LibreOffice</bg>
+   <ca>Meta paquet per LibreOffice en llengua francesa</ca>
+   <cs>French Language Meta-Package for LibreOffice</cs>
+   <da>Fransk sprog-metapakke til LibreOffice</da>
+   <de>Französisches Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στη γαλλική γλώσσα</el>
+   <en>French Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Francés para LibreOffice</es>
+   <et>French Language Meta-Package for LibreOffice</et>
+   <eu>French Language Meta-Package for LibreOffice</eu>
+   <fa>French Language Meta-Package for LibreOffice</fa>
+   <fil_PH>French Language Meta-Package for LibreOffice</fil_PH>
+   <fi>French Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue française pour LibreOffice</fr>
+   <he_IL>French Language Meta-Package for LibreOffice</he_IL>
+   <hi>French Language Meta-Package for LibreOffice</hi>
+   <hr>French Language Meta-Package for LibreOffice</hr>
+   <hu>French Language Meta-Package for LibreOffice</hu>
+   <id>French Language Meta-Package for LibreOffice</id>
+   <is>French Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua francese per LibreOffice</it>
+   <ja_JP>French Language Meta-Package for LibreOffice</ja_JP>
+   <ja>French Language Meta-Package for LibreOffice</ja>
+   <kk>French Language Meta-Package for LibreOffice</kk>
+   <ko>French Language Meta-Package for LibreOffice</ko>
+   <lt>French Language Meta-Package for LibreOffice</lt>
+   <mk>French Language Meta-Package for LibreOffice</mk>
+   <mr>French Language Meta-Package for LibreOffice</mr>
+   <nb>French Language Meta-Package for LibreOffice</nb>
+   <nl>Franse Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Francuski metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Francês Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Francês Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>French Language Meta-Package for LibreOffice</ro>
+   <ru>French Language Meta-Package for LibreOffice</ru>
+   <sk>French Language Meta-Package for LibreOffice</sk>
+   <sl>French Language Meta-Package for LibreOffice</sl>
+   <sq>French Language Meta-Package for LibreOffice</sq>
+   <sr>French Language Meta-Package for LibreOffice</sr>
+   <sv>Franskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>French Language Meta-Package for LibreOffice</tr>
+   <uk>French Language Meta-Package for LibreOffice</uk>
+   <zh_CN>French Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>French Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

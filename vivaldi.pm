@@ -10,51 +10,52 @@ Vivaldi
 </name>
 
 <description>
-   <am>Vivaldi web browser</am>
-   <ar>Vivaldi web browser</ar>
-   <bg>Vivaldi web browser</bg>
-   <ca>Navegador web Vivaldi</ca>
-   <cs>Vivaldi web browser</cs>
-   <da>Vivaldi-webbrowser</da>
-   <de>Der Vivaldi Web-Browser</de>
-   <el>Vivaldi web browser</el>
-   <en>Vivaldi web browser</en>
-   <es>Navegador de internet Vivaldi</es>
-   <et>Vivaldi web browser</et>
-   <eu>Vivaldi web browser</eu>
-   <fa>Vivaldi web browser</fa>
-   <fi>Vivaldi-verkkoselain</fi>
-   <fr>Navigateur Web Vivaldi</fr>
-   <he_IL>Vivaldi web browser</he_IL>
-   <hi>Vivaldi web browser</hi>
-   <hr>Vivaldi web browser</hr>
-   <hu>Vivaldi web browser</hu>
-   <id>Vivaldi web browser</id>
-   <is>Vivaldi web browser</is>
-   <it>Vivaldi web browser</it>
-   <ja_JP>Vivaldi web browser</ja_JP>
-   <ja>Vivaldi web browser</ja>
-   <kk>Vivaldi web browser</kk>
-   <ko>Vivaldi web browser</ko>
-   <lt>Vivaldi saityno naršyklė</lt>
-   <mk>Vivaldi web browser</mk>
-   <mr>Vivaldi web browser</mr>
-   <nb>Vivaldi web browser</nb>
-   <nl>Vivaldi web browser</nl>
-   <pl>przeglądarka Vivaldi</pl>
-   <pt_BR>Navegador web Vivaldi</pt_BR>
-   <pt>Navegador web Vivaldi</pt>
-   <ro>Vivaldi web browser</ro>
-   <ru>Браузер Vivaldi</ru>
-   <sk>Vivaldi web browser</sk>
-   <sl>Vivaldi spletni brskalnik</sl>
-   <sq>Vivaldi web browser</sq>
-   <sr>Vivaldi web browser</sr>
-   <sv>Vivaldi webbläsare</sv>
-   <tr>Vivaldi web browser</tr>
-   <uk>Vivaldi web browser</uk>
-   <zh_CN>Vivaldi web browser</zh_CN>
-   <zh_TW>Vivaldi web browser</zh_TW>
+   <am>alternative mozilla-based browser</am>
+   <ar>alternative mozilla-based browser</ar>
+   <bg>alternative mozilla-based browser</bg>
+   <ca>Navegador alternatiu basat en Mozilla</ca>
+   <cs>alternative mozilla-based browser</cs>
+   <da>Alternativ mozilla-baseret browser</da>
+   <de>Alternativer Mozilla-basierter Browser</de>
+   <el>εναλλακτικό πρόγραμμα περιήγησης που βασίζεται σε mozilla</el>
+   <en>alternative mozilla-based browser</en>
+   <es>Navegador alternativo basado en Mozilla</es>
+   <et>alternative mozilla-based browser</et>
+   <eu>alternative mozilla-based browser</eu>
+   <fa>alternative mozilla-based browser</fa>
+   <fil_PH>alternative mozilla-based browser</fil_PH>
+   <fi>alternative mozilla-based browser</fi>
+   <fr>Navigateur alternatif basé sur Mozilla</fr>
+   <he_IL>alternative mozilla-based browser</he_IL>
+   <hi>alternative mozilla-based browser</hi>
+   <hr>alternative mozilla-based browser</hr>
+   <hu>alternative mozilla-based browser</hu>
+   <id>alternative mozilla-based browser</id>
+   <is>alternative mozilla-based browser</is>
+   <it>browser alternativo basato su mozilla</it>
+   <ja_JP>alternative mozilla-based browser</ja_JP>
+   <ja>alternative mozilla-based browser</ja>
+   <kk>alternative mozilla-based browser</kk>
+   <ko>alternative mozilla-based browser</ko>
+   <lt>alternative mozilla-based browser</lt>
+   <mk>alternative mozilla-based browser</mk>
+   <mr>alternative mozilla-based browser</mr>
+   <nb>alternative mozilla-based browser</nb>
+   <nl>alternatieve op mozilla gebaseerde browser</nl>
+   <pl>alternatywna przeglądarka oparta na Mozilli</pl>
+   <pt_BR>Navegador web alternativo baseado em código da Mozilla</pt_BR>
+   <pt>Navegador web alternativo baseado no firefox da Mozilla</pt>
+   <ro>alternative mozilla-based browser</ro>
+   <ru>Браузер основанный на Firefox (сохранена поддержка дополнений на XUL/XPCOM)</ru>
+   <sk>alternative mozilla-based browser</sk>
+   <sl>Alternativni brskalnik, ki temelji na Mozilli</sl>
+   <sq>alternative mozilla-based browser</sq>
+   <sr>alternative mozilla-based browser</sr>
+   <sv>alternativ mozilla-baserad webbläsare</sv>
+   <tr>alternative mozilla-based browser</tr>
+   <uk>alternative mozilla-based browser</uk>
+   <zh_CN>alternative mozilla-based browser</zh_CN>
+   <zh_TW>alternative mozilla-based browser</zh_TW>
 </description>
 
 <installable>
@@ -65,8 +66,8 @@ all
 
 <preinstall>
 if ! sed  -re '/^[[:space:]]*#/d; /^[[:space:]]*deb[[:space:]]+/!d' /etc/apt/sources.list{,.d/*.list} \
-   | grep -sq repo.vivaldi.com/stable/deb ; then
-   echo "deb http://repo.vivaldi.com/stable/deb/ stable main">/etc/apt/sources.list.d/mxpitemp.list
+| grep -sq repo.vivaldi.com/stable/deb ; then
+echo "deb http://repo.vivaldi.com/stable/deb/ stable main">/etc/apt/sources.list.d/mxpitemp.list
 fi
 
 wget http://repo.vivaldi.com/stable/linux_signing_key.pub -O /tmp/vivaldi.key
@@ -131,8 +132,8 @@ zp5254Hj0gpA4vAxDaHv/dnBTxGWBL2LGytMGtsfR0HZc/bxQMyk8IWXeI9UDgb2
 FtbBrH8fIdPJjjRkBKfvD5+D+h0s72xOaMGKWsCdK04=
 =/TZJ
 -----END PGP PUBLIC KEY BLOCK-----
-"  
-echo "$KEY" | ( apt-key add - ) 2>/dev/null 
+"
+echo "$KEY" | ( apt-key add - ) 2>/dev/null
 apt-get update
 </preinstall>
 

@@ -10,51 +10,52 @@ Romanian_Firfox
 </name>
 
 <description>
-   <am>Romanian localisation of Firefox</am>
-   <ar>Romanian localisation of Firefox</ar>
-   <bg>Romanian localisation of Firefox</bg>
-   <ca>Localització de Firefox en Romanès</ca>
-   <cs>Romanian localisation of Firefox</cs>
-   <da>Rumænsk oversættelse af Firefox</da>
-   <de>Rumänische Lokalisierung von Firefox</de>
-   <el>Ρουμανικός εντοπισμός του Firefox</el>
-   <en>Romanian localisation of Firefox</en>
-   <es>Localización Rumana de Firefox</es>
-   <et>Romanian localisation of Firefox</et>
-   <eu>Romanian localisation of Firefox</eu>
-   <fa>Romanian localisation of Firefox</fa>
-   <fi>Romanian localisation of Firefox</fi>
-   <fr>Localisation roumaine pour Firefox</fr>
-   <he_IL>Romanian localisation of Firefox</he_IL>
-   <hi>Romanian localisation of Firefox</hi>
-   <hr>Romanian localisation of Firefox</hr>
-   <hu>Romanian localisation of Firefox</hu>
-   <id>Romanian localisation of Firefox</id>
-   <is>Romanian localisation of Firefox</is>
-   <it>Localizzazione rumena di Firefox</it>
-   <ja_JP>Romanian localisation of Firefox</ja_JP>
-   <ja>Romanian localisation of Firefox</ja>
-   <kk>Romanian localisation of Firefox</kk>
-   <ko>Romanian localisation of Firefox</ko>
-   <lt>Romanian localisation of Firefox</lt>
-   <mk>Romanian localisation of Firefox</mk>
-   <mr>Romanian localisation of Firefox</mr>
-   <nb>Romanian localisation of Firefox</nb>
-   <nl>Roemeense lokalisatie van Firefox</nl>
-   <pl>Rumuńska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Romeno Localização para Firefox</pt_BR>
-   <pt>Romeno Localização para Firefox</pt>
-   <ro>Romanian localisation of Firefox</ro>
-   <ru>Румынская локализация Firefox</ru>
-   <sk>Romanian localisation of Firefox</sk>
-   <sl>Romanian localisation of Firefox</sl>
-   <sq>Romanian localisation of Firefox</sq>
-   <sr>Romanian localisation of Firefox</sr>
-   <sv>Rumänsk lokalisering av Firefox</sv>
-   <tr>Romanian localisation of Firefox</tr>
-   <uk>Romanian локалізація Firefox</uk>
-   <zh_CN>Romanian localisation of Firefox</zh_CN>
-   <zh_TW>Romanian localisation of Firefox</zh_TW>
+   <am>Romanian Language Meta-Package for LibreOffice</am>
+   <ar>Romanian Language Meta-Package for LibreOffice</ar>
+   <bg>Romanian Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet de llengua per LibreOffice en Romanès</ca>
+   <cs>Romanian Language Meta-Package for LibreOffice</cs>
+   <da>Rumænsk sprog-metapakke til LibreOffice</da>
+   <de>Rumänisches Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Ρουμανικά</el>
+   <en>Romanian Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Rumano para LibreOffice</es>
+   <et>Romanian Language Meta-Package for LibreOffice</et>
+   <eu>Romanian Language Meta-Package for LibreOffice</eu>
+   <fa>Romanian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Romanian Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Romanian Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue roumaine pour LibreOffice</fr>
+   <he_IL>Romanian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Romanian Language Meta-Package for LibreOffice</hi>
+   <hr>Romanian Language Meta-Package for LibreOffice</hr>
+   <hu>Romanian Language Meta-Package for LibreOffice</hu>
+   <id>Romanian Language Meta-Package for LibreOffice</id>
+   <is>Romanian Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua rumena per LibreOffice</it>
+   <ja_JP>Romanian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Romanian Language Meta-Package for LibreOffice</ja>
+   <kk>Romanian Language Meta-Package for LibreOffice</kk>
+   <ko>Romanian Language Meta-Package for LibreOffice</ko>
+   <lt>Romanian Language Meta-Package for LibreOffice</lt>
+   <mk>Romanian Language Meta-Package for LibreOffice</mk>
+   <mr>Romanian Language Meta-Package for LibreOffice</mr>
+   <nb>Romanian Language Meta-Package for LibreOffice</nb>
+   <nl>Roemeense Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Rumuński metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Romeno Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Romeno Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Romanian Language Meta-Package for LibreOffice</ro>
+   <ru>Romanian Language Meta-Package for LibreOffice</ru>
+   <sk>Romanian Language Meta-Package for LibreOffice</sk>
+   <sl>Romanian Language Meta-Package for LibreOffice</sl>
+   <sq>Romanian Language Meta-Package for LibreOffice</sq>
+   <sr>Romanian Language Meta-Package for LibreOffice</sr>
+   <sv>Rumänskt Språk Meta-Paket för LibreOffice </sv>
+   <tr>Romanian Language Meta-Package for LibreOffice</tr>
+   <uk>Romanian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Romanian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Romanian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

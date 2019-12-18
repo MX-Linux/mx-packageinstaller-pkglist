@@ -10,51 +10,52 @@ Japanese_Firefox
 </name>
 
 <description>
-   <am>Japanese localisation of Firefox</am>
-   <ar>Japanese localisation of Firefox</ar>
-   <bg>Japanese localisation of Firefox</bg>
-   <ca>Localització de Firefox en Japonès</ca>
-   <cs>Japanese localisation of Firefox</cs>
-   <da>Japansk oversættelse af Firefox</da>
-   <de>Japanische Lokalisierung von Firefox</de>
-   <el>Ιαπωνικό εντοπισμό του Firefox</el>
-   <en>Japanese localisation of Firefox</en>
-   <es>Localización Japonesa de Firefox</es>
-   <et>Japanese localisation of Firefox</et>
-   <eu>Japanese localisation of Firefox</eu>
-   <fa>Japanese localisation of Firefox</fa>
-   <fi>Japanese localisation of Firefox</fi>
-   <fr>Localisation japonaise pour Firefox</fr>
-   <he_IL>Japanese localisation of Firefox</he_IL>
-   <hi>Japanese localisation of Firefox</hi>
-   <hr>Japanese localisation of Firefox</hr>
-   <hu>Japanese localisation of Firefox</hu>
-   <id>Japanese localisation of Firefox</id>
-   <is>Japanese localisation of Firefox</is>
-   <it>Localizzazione giapponese di Firefox</it>
-   <ja_JP>Japanese localisation of Firefox</ja_JP>
-   <ja>Japanese localisation of Firefox</ja>
-   <kk>Japanese localisation of Firefox</kk>
-   <ko>Japanese localisation of Firefox</ko>
-   <lt>Japanese localisation of Firefox</lt>
-   <mk>Japanese localisation of Firefox</mk>
-   <mr>Japanese localisation of Firefox</mr>
-   <nb>Japanese localisation of Firefox</nb>
-   <nl>Japanse lokalisatie van Firefox</nl>
-   <pl>Japońska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Japonês Localização para Firefox</pt_BR>
-   <pt>Japonês Localização para Firefox</pt>
-   <ro>Japanese localisation of Firefox</ro>
-   <ru>Японская локализация Firefox</ru>
-   <sk>Japanese localisation of Firefox</sk>
-   <sl>Japanese localisation of Firefox</sl>
-   <sq>Japanese localisation of Firefox</sq>
-   <sr>Japanese localisation of Firefox</sr>
-   <sv>Japansk lokalisering av Firefox</sv>
-   <tr>Japanese localisation of Firefox</tr>
-   <uk>Japanese локалізація Firefox</uk>
-   <zh_CN>Japanese localisation of Firefox</zh_CN>
-   <zh_TW>Japanese localisation of Firefox</zh_TW>
+   <am>Japanese fonts packages</am>
+   <ar>Japanese fonts packages</ar>
+   <bg>Japanese fonts packages</bg>
+   <ca>Paquets de tipus de lletra japoneses</ca>
+   <cs>Japanese fonts packages</cs>
+   <da>Japansk skrifttyper-pakke</da>
+   <de>Japanische Schriftenpakete</de>
+   <el>Ιαπωνικά πακέτα γραμματοσειρών</el>
+   <en>Japanese fonts packages</en>
+   <es>Paquetes de fuentes japonesas</es>
+   <et>Japanese fonts packages</et>
+   <eu>Japanese fonts packages</eu>
+   <fa>Japanese fonts packages</fa>
+   <fil_PH>Japanese fonts packages</fil_PH>
+   <fi>Japanese fonts packages</fi>
+   <fr>Paquets pour polices japonaises</fr>
+   <he_IL>Japanese fonts packages</he_IL>
+   <hi>Japanese fonts packages</hi>
+   <hr>Japanese fonts packages</hr>
+   <hu>Japanese fonts packages</hu>
+   <id>Japanese fonts packages</id>
+   <is>Japanese fonts packages</is>
+   <it>Pacchetti di fonts per il Giapponese</it>
+   <ja_JP>Japanese fonts packages</ja_JP>
+   <ja>Japanese fonts packages</ja>
+   <kk>Japanese fonts packages</kk>
+   <ko>Japanese fonts packages</ko>
+   <lt>Japonų šriftų paketai</lt>
+   <mk>Japanese fonts packages</mk>
+   <mr>Japanese fonts packages</mr>
+   <nb>Japanese fonts packages</nb>
+   <nl>Japanse font pakketten</nl>
+   <pl>pakiety z japońskimi fontami (czcionkami)</pl>
+   <pt_BR>Japonês fonts Pacotes</pt_BR>
+   <pt>Japonês Pacotes de fontes</pt>
+   <ro>Japanese fonts packages</ro>
+   <ru>Japanese fonts packages</ru>
+   <sk>Japanese fonts packages</sk>
+   <sl>Japanese fonts packages</sl>
+   <sq>Japanese fonts packages</sq>
+   <sr>Japanese fonts packages</sr>
+   <sv>Japanska typsnitts-paket</sv>
+   <tr>Japanese fonts packages</tr>
+   <uk>пакунки японських шрифтів</uk>
+   <zh_CN>Japanese fonts packages</zh_CN>
+   <zh_TW>Japanese fonts packages</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ Mullvad VPN
 </name>
 
 <description>
-   <am>Mullvad VPN and sysVinit scripts</am>
-   <ar>Mullvad VPN and sysVinit scripts</ar>
-   <bg>Mullvad VPN and sysVinit scripts</bg>
-   <ca>Scripts Mullvad VPN i sysVinit</ca>
-   <cs>Mullvad VPN and sysVinit scripts</cs>
-   <da>Mullvad VPN and sysVinit scripts</da>
-   <de>Mullvad VPN und sysVinit Scripte</de>
-   <el>σενάρια του Mullvad VPN και sysVinit</el>
-   <en>Mullvad VPN and sysVinit scripts</en>
-   <es>Mullvad VPN y scripts sysVinit</es>
-   <et>Mullvad VPN and sysVinit scripts</et>
-   <eu>Mullvad VPN and sysVinit scripts</eu>
-   <fa>Mullvad VPN and sysVinit scripts</fa>
-   <fi>Mullvad VPN and sysVinit scripts</fi>
-   <fr>Scripts pour Mullvad VPN et sysVinit</fr>
-   <he_IL>Mullvad VPN and sysVinit scripts</he_IL>
-   <hi>Mullvad VPN and sysVinit scripts</hi>
-   <hr>Mullvad VPN and sysVinit scripts</hr>
-   <hu>Mullvad VPN and sysVinit scripts</hu>
-   <id>Mullvad VPN and sysVinit scripts</id>
-   <is>Mullvad VPN and sysVinit scripts</is>
-   <it>Mullvad VPN e script sysVinit</it>
-   <ja_JP>Mullvad VPN and sysVinit scripts</ja_JP>
-   <ja>Mullvad VPN and sysVinit scripts</ja>
-   <kk>Mullvad VPN and sysVinit scripts</kk>
-   <ko>Mullvad VPN and sysVinit scripts</ko>
-   <lt>Mullvad VPN and sysVinit scripts</lt>
-   <mk>Mullvad VPN and sysVinit scripts</mk>
-   <mr>Mullvad VPN and sysVinit scripts</mr>
-   <nb>Mullvad VPN and sysVinit scripts</nb>
-   <nl>Mullvad VPN en sysVinit scripts</nl>
-   <pl>Mullvad VPN and sysVinit scripts</pl>
-   <pt_BR>Scripts para sysVinit e Mullvad VPN</pt_BR>
-   <pt>Scripts para sysVinit e VPN Mullvad</pt>
-   <ro>Mullvad VPN and sysVinit scripts</ro>
-   <ru>VPN и SysVinit - скрипты от Mullvad</ru>
-   <sk>Mullvad VPN and sysVinit scripts</sk>
-   <sl>Mullvad VPN in syVinit skripte</sl>
-   <sq>Mullvad VPN and sysVinit scripts</sq>
-   <sr>Mullvad VPN and sysVinit scripts</sr>
-   <sv>Mullvad VPN och sysVinit skript</sv>
-   <tr>Mullvad VPN and sysVinit scripts</tr>
-   <uk>Mullvad VPN and sysVinit scripts</uk>
-   <zh_CN>Mullvad VPN and sysVinit scripts</zh_CN>
-   <zh_TW>Mullvad VPN and sysVinit scripts</zh_TW>
+   <am>backgrounds originally supplied with MX 15</am>
+   <ar>backgrounds originally supplied with MX 15</ar>
+   <bg>backgrounds originally supplied with MX 15</bg>
+   <ca>fons de pantalla subministrats amb MX 15</ca>
+   <cs>backgrounds originally supplied with MX 15</cs>
+   <da>baggrunde fra MX 15</da>
+   <de>Bildschirmhintergründe, die ursprünglich mit MX 15 geliefert wurden</de>
+   <el>επιφάνεια εργασίας που παρέχεται αρχικά με MX 15</el>
+   <en>backgrounds originally supplied with MX 15</en>
+   <es>Fondos de escritorio originalmente suministrados con MX 15</es>
+   <et>backgrounds originally supplied with MX 15</et>
+   <eu>backgrounds originally supplied with MX 15</eu>
+   <fa>backgrounds originally supplied with MX 15</fa>
+   <fil_PH>backgrounds originally supplied with MX 15</fil_PH>
+   <fi>backgrounds originally supplied with MX 15</fi>
+   <fr>Fonds d'écran MX 15</fr>
+   <he_IL>backgrounds originally supplied with MX 15</he_IL>
+   <hi>backgrounds originally supplied with MX 15</hi>
+   <hr>backgrounds originally supplied with MX 15</hr>
+   <hu>backgrounds originally supplied with MX 15</hu>
+   <id>backgrounds originally supplied with MX 15</id>
+   <is>backgrounds originally supplied with MX 15</is>
+   <it>sfondi originariamente forniti con MX 15</it>
+   <ja_JP>backgrounds originally supplied with MX 15</ja_JP>
+   <ja>backgrounds originally supplied with MX 15</ja>
+   <kk>backgrounds originally supplied with MX 15</kk>
+   <ko>backgrounds originally supplied with MX 15</ko>
+   <lt>backgrounds originally supplied with MX 15</lt>
+   <mk>backgrounds originally supplied with MX 15</mk>
+   <mr>backgrounds originally supplied with MX 15</mr>
+   <nb>backgrounds originally supplied with MX 15</nb>
+   <nl>achtergronden oorspronkelijk geleverd met MX 15</nl>
+   <pl>tła oryginalnie dostarczone z MX 15</pl>
+   <pt_BR>Imagens de fundo originalmente incluídas no MX 15</pt_BR>
+   <pt>Imagens de fundo originalmente incluídas no MX 15</pt>
+   <ro>backgrounds originally supplied with MX 15</ro>
+   <ru>Обои использованные для дистрибутива MX 15</ru>
+   <sk>backgrounds originally supplied with MX 15</sk>
+   <sl>Izvirna ozadja za MX 15</sl>
+   <sq>backgrounds originally supplied with MX 15</sq>
+   <sr>backgrounds originally supplied with MX 15</sr>
+   <sv>wallpapers ursprungligen medföljande MX 15</sv>
+   <tr>backgrounds originally supplied with MX 15</tr>
+   <uk>оригінальні шпалери для MX 15</uk>
+   <zh_CN>backgrounds originally supplied with MX 15</zh_CN>
+   <zh_TW>backgrounds originally supplied with MX 15</zh_TW>
 </description>
 
 <installable>

@@ -23,6 +23,7 @@ Advert-Block-antiX
    <et>Block adservers with a modified Hosts file</et>
    <eu>Block adservers with a modified Hosts file</eu>
    <fa>Block adservers with a modified Hosts file</fa>
+   <fil_PH>Block adservers with a modified Hosts file</fil_PH>
    <fi>Block adservers with a modified Hosts file</fi>
    <fr>Bloquage des serveurs de publicité au moyen d'un fichier Hosts modifié</fr>
    <he_IL>Block adservers with a modified Hosts file</he_IL>

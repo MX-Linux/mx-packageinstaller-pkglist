@@ -10,51 +10,52 @@ Gujarati_Libreoffice
 </name>
 
 <description>
-   <am>Gujarati Language Meta-Package for LibreOffice</am>
-   <ar>Gujarati Language Meta-Package for LibreOffice</ar>
-   <bg>Gujarati Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Gujarati per LibreOffice</ca>
-   <cs>Gujarati Language Meta-Package for LibreOffice</cs>
-   <da>Gujarati sprog-metapakke til LibreOffice</da>
-   <de>Gujarati Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Gujarati</el>
-   <en>Gujarati Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Gujarati para LibreOffice</es>
-   <et>Gujarati Language Meta-Package for LibreOffice</et>
-   <eu>Gujarati Language Meta-Package for LibreOffice</eu>
-   <fa>Gujarati Language Meta-Package for LibreOffice</fa>
-   <fi>Gujarati Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Gujarati pour LibreOffice</fr>
-   <he_IL>Gujarati Language Meta-Package for LibreOffice</he_IL>
-   <hi>Gujarati Language Meta-Package for LibreOffice</hi>
-   <hr>Gujarati Language Meta-Package for LibreOffice</hr>
-   <hu>Gujarati Language Meta-Package for LibreOffice</hu>
-   <id>Gujarati Language Meta-Package for LibreOffice</id>
-   <is>Gujarati Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Gujarati per LibreOffice</it>
-   <ja_JP>Gujarati Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Gujarati Language Meta-Package for LibreOffice</ja>
-   <kk>Gujarati Language Meta-Package for LibreOffice</kk>
-   <ko>Gujarati Language Meta-Package for LibreOffice</ko>
-   <lt>Gujarati Language Meta-Package for LibreOffice</lt>
-   <mk>Gujarati Language Meta-Package for LibreOffice</mk>
-   <mr>Gujarati Language Meta-Package for LibreOffice</mr>
-   <nb>Gujarati Language Meta-Package for LibreOffice</nb>
-   <nl>Gujarati Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Gujarati metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Gujarati Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Gujarati Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Gujarati Language Meta-Package for LibreOffice</ro>
-   <ru>Gujarati Language Meta-Package for LibreOffice</ru>
-   <sk>Gujarati Language Meta-Package for LibreOffice</sk>
-   <sl>Gujarati Language Meta-Package for LibreOffice</sl>
-   <sq>Gujarati Language Meta-Package for LibreOffice</sq>
-   <sr>Gujarati Language Meta-Package for LibreOffice</sr>
-   <sv>Gujarati Språk Meta-Paket för LibreOffice</sv>
-   <tr>Gujarati Language Meta-Package for LibreOffice</tr>
-   <uk>Gujarati Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Gujarati Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Gujarati Language Meta-Package for LibreOffice</zh_TW>
+   <am>versatile DVD ripper and video transcoder (cli and GUI)</am>
+   <ar>versatile DVD ripper and video transcoder (cli and GUI)</ar>
+   <bg>versatile DVD ripper and video transcoder (cli and GUI)</bg>
+   <ca>gravador de DVDs i transcodificador de vídeo versàtil (IGU i consola)</ca>
+   <cs>versatile DVD ripper and video transcoder (cli and GUI)</cs>
+   <da>alsidig DVD-ripper og -videotranskoder (kommandolinje og grafisk brugerflade)</da>
+   <de>Vielseitiger DVD-Ripper und Video-Transcoder (Cli und GUI)</de>
+   <el>ευέλικτο DVD ripper και video transcoder (cli και GUI)</el>
+   <en>versatile DVD ripper and video transcoder (cli and GUI)</en>
+   <es>Versátil DVD ripper y transcodificador de vídeo (CLI y GUI)</es>
+   <et>versatile DVD ripper and video transcoder (cli and GUI)</et>
+   <eu>versatile DVD ripper and video transcoder (cli and GUI)</eu>
+   <fa>versatile DVD ripper and video transcoder (cli and GUI)</fa>
+   <fil_PH>versatile DVD ripper and video transcoder (cli and GUI)</fil_PH>
+   <fi>versatile DVD ripper and video transcoder (cli and GUI)</fi>
+   <fr>Extracteur de DVD et transcodeur vidéo (cli and GUI)</fr>
+   <he_IL>versatile DVD ripper and video transcoder (cli and GUI)</he_IL>
+   <hi>versatile DVD ripper and video transcoder (cli and GUI)</hi>
+   <hr>versatile DVD ripper and video transcoder (cli and GUI)</hr>
+   <hu>versatile DVD ripper and video transcoder (cli and GUI)</hu>
+   <id>versatile DVD ripper and video transcoder (cli and GUI)</id>
+   <is>versatile DVD ripper and video transcoder (cli and GUI)</is>
+   <it>versatile etrattore audio da DVD e transcoder video (CLI e GUI)</it>
+   <ja_JP>versatile DVD ripper and video transcoder (cli and GUI)</ja_JP>
+   <ja>versatile DVD ripper and video transcoder (cli and GUI)</ja>
+   <kk>versatile DVD ripper and video transcoder (cli and GUI)</kk>
+   <ko>versatile DVD ripper and video transcoder (cli and GUI)</ko>
+   <lt>versatile DVD ripper and video transcoder (cli and GUI)</lt>
+   <mk>versatile DVD ripper and video transcoder (cli and GUI)</mk>
+   <mr>versatile DVD ripper and video transcoder (cli and GUI)</mr>
+   <nb>versatile DVD ripper and video transcoder (cli and GUI)</nb>
+   <nl>veelzijdige DVD ripper en video transcoder (cli en GUI)</nl>
+   <pl>wszechstronny ripper DVD i transkoder wideo (CLI i GUI)</pl>
+   <pt_BR>Versátil extractor de dados de DVDs (DVD ripper) e transcodificador de vídeo (por consola e interface gáfica)</pt_BR>
+   <pt>Versátil extractor de dados de DVDs (DVD ripper) e transcodificador de vídeo (por consola e interface gáfica)</pt>
+   <ro>versatile DVD ripper and video transcoder (cli and GUI)</ro>
+   <ru>Многофункциональный DVD риппер и перекодировщик видео</ru>
+   <sk>versatile DVD ripper and video transcoder (cli and GUI)</sk>
+   <sl>Vsestranski zajemalnik DVDjev in video transkoder (ukazna vrstica in grafični vmesnik)</sl>
+   <sq>versatile DVD ripper and video transcoder (cli and GUI)</sq>
+   <sr>versatile DVD ripper and video transcoder (cli and GUI)</sr>
+   <sv>mångsidig DVD ripper och video transcoder (cli och GUI)</sv>
+   <tr>versatile DVD ripper and video transcoder (cli and GUI)</tr>
+   <uk>універсальний DVD витягувач та відео перетворювач (графічний та консольний)</uk>
+   <zh_CN>versatile DVD ripper and video transcoder (cli and GUI)</zh_CN>
+   <zh_TW>versatile DVD ripper and video transcoder (cli and GUI)</zh_TW>
 </description>
 
 <installable>

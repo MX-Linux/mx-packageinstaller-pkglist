@@ -10,51 +10,52 @@ Kurmanji_Libreoffice
 </name>
 
 <description>
-   <am>Kurmanji Language Meta-Package for LibreOffice</am>
-   <ar>Kurmanji Language Meta-Package for LibreOffice</ar>
-   <bg>Kurmanji Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Kurmanji per LibreOffice</ca>
-   <cs>Kurmanji Language Meta-Package for LibreOffice</cs>
-   <da>Kurmanji sprog-metapakke til LibreOffice</da>
-   <de>Kurmanji Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Kurmanji</el>
-   <en>Kurmanji Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Kurmanji para LibreOffice</es>
-   <et>Kurmanji Language Meta-Package for LibreOffice</et>
-   <eu>Kurmanji Language Meta-Package for LibreOffice</eu>
-   <fa>Kurmanji Language Meta-Package for LibreOffice</fa>
-   <fi>Kurmanji Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Kurmanji pour LibreOffice</fr>
-   <he_IL>Kurmanji Language Meta-Package for LibreOffice</he_IL>
-   <hi>Kurmanji Language Meta-Package for LibreOffice</hi>
-   <hr>Kurmanji Language Meta-Package for LibreOffice</hr>
-   <hu>Kurmanji Language Meta-Package for LibreOffice</hu>
-   <id>Kurmanji Language Meta-Package for LibreOffice</id>
-   <is>Kurmanji Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Kurmanji per LibreOffice</it>
-   <ja_JP>Kurmanji Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Kurmanji Language Meta-Package for LibreOffice</ja>
-   <kk>Kurmanji Language Meta-Package for LibreOffice</kk>
-   <ko>Kurmanji Language Meta-Package for LibreOffice</ko>
-   <lt>Kurmanji Language Meta-Package for LibreOffice</lt>
-   <mk>Kurmanji Language Meta-Package for LibreOffice</mk>
-   <mr>Kurmanji Language Meta-Package for LibreOffice</mr>
-   <nb>Kurmanji Language Meta-Package for LibreOffice</nb>
-   <nl>Kurmanji Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Kurmanji metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Kurmanji Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Kurmanji Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Kurmanji Language Meta-Package for LibreOffice</ro>
-   <ru>Kurmanji Language Meta-Package for LibreOffice</ru>
-   <sk>Kurmanji Language Meta-Package for LibreOffice</sk>
-   <sl>Kurmanji Language Meta-Package for LibreOffice</sl>
-   <sq>Kurmanji Language Meta-Package for LibreOffice</sq>
-   <sr>Kurmanji Language Meta-Package for LibreOffice</sr>
-   <sv>Kurmanji Språk Meta-Paket för LibreOffice</sv>
-   <tr>Kurmanji Language Meta-Package for LibreOffice</tr>
-   <uk>Kurmanji Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Kurmanji Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Kurmanji Language Meta-Package for LibreOffice</zh_TW>
+   <am>Latvian localisation of Firefox</am>
+   <ar>Latvian localisation of Firefox</ar>
+   <bg>Latvian localisation of Firefox</bg>
+   <ca>Localització de Firefox en Latvi</ca>
+   <cs>Latvian localisation of Firefox</cs>
+   <da>Lettisk oversættelse af Firefox</da>
+   <de>Lettische Lokalisierung von Firefox</de>
+   <el>Λετονική εντοπισμός του Firefox</el>
+   <en>Latvian localisation of Firefox</en>
+   <es>Localización Letona de Firefox</es>
+   <et>Latvian localisation of Firefox</et>
+   <eu>Latvian localisation of Firefox</eu>
+   <fa>Latvian localisation of Firefox</fa>
+   <fil_PH>Latvian localisation of Firefox</fil_PH>
+   <fi>Latvian localisation of Firefox</fi>
+   <fr>Localisation lettone pour Firefox</fr>
+   <he_IL>Latvian localisation of Firefox</he_IL>
+   <hi>Latvian localisation of Firefox</hi>
+   <hr>Latvian localisation of Firefox</hr>
+   <hu>Latvian localisation of Firefox</hu>
+   <id>Latvian localisation of Firefox</id>
+   <is>Latvian localisation of Firefox</is>
+   <it>Localizzazione lettone di Firefox</it>
+   <ja_JP>Latvian localisation of Firefox</ja_JP>
+   <ja>Latvian localisation of Firefox</ja>
+   <kk>Latvian localisation of Firefox</kk>
+   <ko>Latvian localisation of Firefox</ko>
+   <lt>Latvian localisation of Firefox</lt>
+   <mk>Latvian localisation of Firefox</mk>
+   <mr>Latvian localisation of Firefox</mr>
+   <nb>Latvian localisation of Firefox</nb>
+   <nl>Letse lokalisatie van Firefox</nl>
+   <pl>Łotewska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Letão Localização para Firefox</pt_BR>
+   <pt>Letão Localização para Firefox</pt>
+   <ro>Latvian localisation of Firefox</ro>
+   <ru>Латвийская локализация Firefox</ru>
+   <sk>Latvian localisation of Firefox</sk>
+   <sl>Latvian localisation of Firefox</sl>
+   <sq>Latvian localisation of Firefox</sq>
+   <sr>Latvian localisation of Firefox</sr>
+   <sv>Lettländsk lokalisering av Firefox</sv>
+   <tr>Firefox'un Leton yerelleştirmesi</tr>
+   <uk>Latvian локалізація of Firefox</uk>
+   <zh_CN>Latvian localisation of Firefox</zh_CN>
+   <zh_TW>Latvian localisation of Firefox</zh_TW>
 </description>
 
 <installable>

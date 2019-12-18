@@ -10,51 +10,52 @@ Pithos
 </name>
 
 <description>
-   <am>a native Pandora Radio client</am>
-   <ar>a native Pandora Radio client</ar>
-   <bg>a native Pandora Radio client</bg>
-   <ca>client nadiu de Pandora Radio</ca>
-   <cs>a native Pandora Radio client</cs>
-   <da>en native Pandora radio-klient</da>
-   <de>Ein einheimischer Pandora-Radio-Client</de>
-   <el>Pandora Radio</el>
-   <en>a native Pandora Radio client</en>
-   <es>Cliente de radio de Pandora nativo</es>
-   <et>a native Pandora Radio client</et>
-   <eu>a native Pandora Radio client</eu>
-   <fa>a native Pandora Radio client</fa>
-   <fi>a native Pandora Radio client</fi>
-   <fr>Client Radio natif Pandora</fr>
-   <he_IL>a native Pandora Radio client</he_IL>
-   <hi>a native Pandora Radio client</hi>
-   <hr>a native Pandora Radio client</hr>
-   <hu>a native Pandora Radio client</hu>
-   <id>a native Pandora Radio client</id>
-   <is>a native Pandora Radio client</is>
-   <it>client per la radio web Pandora</it>
-   <ja_JP>a native Pandora Radio client</ja_JP>
-   <ja>a native Pandora Radio client</ja>
-   <kk>a native Pandora Radio client</kk>
-   <ko>a native Pandora Radio client</ko>
-   <lt>a native Pandora Radio client</lt>
-   <mk>a native Pandora Radio client</mk>
-   <mr>a native Pandora Radio client</mr>
-   <nb>a native Pandora Radio client</nb>
-   <nl>een origineel Pandora Radio programma</nl>
-   <pl>natywny klient Radio Pandora</pl>
-   <pt_BR>Cliente para Pandora Radio (uma emissora americana)</pt_BR>
-   <pt>Cliente para Pandora Radio (uma emissora americana)</pt>
-   <ro>a native Pandora Radio client</ro>
-   <ru>Нативный клиент сервиса потокового аудио Pandora (радио)</ru>
-   <sk>a native Pandora Radio client</sk>
-   <sl>Odjemalec za Pandora radio</sl>
-   <sq>a native Pandora Radio client</sq>
-   <sr>a native Pandora Radio client</sr>
-   <sv>en naturlig Pandora Radio klient</sv>
-   <tr>a native Pandora Radio client</tr>
-   <uk>a native Pandora Radio client</uk>
-   <zh_CN>a native Pandora Radio client</zh_CN>
-   <zh_TW>a native Pandora Radio client</zh_TW>
+   <am>Simple but good looking dock</am>
+   <ar>Simple but good looking dock</ar>
+   <bg>Simple but good looking dock</bg>
+   <ca>Dock senzill però amb bon aspecte</ca>
+   <cs>Simple but good looking dock</cs>
+   <da>Simpel med flot dok</da>
+   <de>Einfaches, aber gut aussehendes Dock</de>
+   <el>Απλό αλλά όμορφο dock</el>
+   <en>Simple but good looking dock</en>
+   <es>dock simple y atractivo</es>
+   <et>Simple but good looking dock</et>
+   <eu>Simple but good looking dock</eu>
+   <fa>Simple but good looking dock</fa>
+   <fil_PH>Simple but good looking dock</fil_PH>
+   <fi>Simple but good looking dock</fi>
+   <fr>Un dock sobre et agréable</fr>
+   <he_IL>Simple but good looking dock</he_IL>
+   <hi>Simple but good looking dock</hi>
+   <hr>Simple but good looking dock</hr>
+   <hu>Simple but good looking dock</hu>
+   <id>Simple but good looking dock</id>
+   <is>Simple but good looking dock</is>
+   <it>barra dock semplice ma bella</it>
+   <ja_JP>Simple but good looking dock</ja_JP>
+   <ja>Simple but good looking dock</ja>
+   <kk>Simple but good looking dock</kk>
+   <ko>Simple but good looking dock</ko>
+   <lt>Simple but good looking dock</lt>
+   <mk>Simple but good looking dock</mk>
+   <mr>Simple but good looking dock</mr>
+   <nb>Simple but good looking dock</nb>
+   <nl>Eenvoudig maar goed uitziende dock</nl>
+   <pl>prosty, ale dobrze wyglądający panel dokujący</pl>
+   <pt_BR>Doca simples mas elegante</pt_BR>
+   <pt>Doca simples mas elegante</pt>
+   <ro>Simple but good looking dock</ro>
+   <ru>Простой но стильно выглядящий док</ru>
+   <sk>Simple but good looking dock</sk>
+   <sl>Enostaven a lep dock</sl>
+   <sq>Simple but good looking dock</sq>
+   <sr>Simple but good looking dock</sr>
+   <sv>Enkel men snygg docka</sv>
+   <tr>Simple but good looking dock</tr>
+   <uk>простий, але гарний док</uk>
+   <zh_CN>Simple but good looking dock</zh_CN>
+   <zh_TW>Simple but good looking dock</zh_TW>
 </description>
 
 <installable>

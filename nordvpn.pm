@@ -10,51 +10,52 @@ NordVPN - VPN
 </name>
 
 <description>
-   <am>NordVPN - NordVPN client and sysVinit scripts</am>
-   <ar>NordVPN - NordVPN client and sysVinit scripts</ar>
-   <bg>NordVPN - NordVPN client and sysVinit scripts</bg>
-   <ca>NordVPN - scripts client NordVPN i sysVinit</ca>
-   <cs>NordVPN - NordVPN client and sysVinit scripts</cs>
-   <da>NordVPN - NordVPN client and sysVinit scripts</da>
-   <de>NordVPN - NordVPN Client und sysVinit Scripte</de>
-   <el>σενάρια του NordVPN client και sysVinit</el>
-   <en>NordVPN - NordVPN client and sysVinit scripts</en>
-   <es>NordVPN - Cliente NordVPN y scripts sysVinit</es>
-   <et>NordVPN - NordVPN client and sysVinit scripts</et>
-   <eu>NordVPN - NordVPN client and sysVinit scripts</eu>
-   <fa>NordVPN - NordVPN client and sysVinit scripts</fa>
-   <fi>NordVPN - NordVPN client and sysVinit scripts</fi>
-   <fr>Scripts pour NordVPN - NordVPN client et sysVinit</fr>
-   <he_IL>NordVPN - NordVPN client and sysVinit scripts</he_IL>
-   <hi>NordVPN - NordVPN client and sysVinit scripts</hi>
-   <hr>NordVPN - NordVPN client and sysVinit scripts</hr>
-   <hu>NordVPN - NordVPN client and sysVinit scripts</hu>
-   <id>NordVPN - NordVPN client and sysVinit scripts</id>
-   <is>NordVPN - NordVPN client and sysVinit scripts</is>
-   <it>NordVPN - NordVPN client e script sysVinit</it>
-   <ja_JP>NordVPN - NordVPN client and sysVinit scripts</ja_JP>
-   <ja>NordVPN - NordVPN client and sysVinit scripts</ja>
-   <kk>NordVPN - NordVPN client and sysVinit scripts</kk>
-   <ko>NordVPN - NordVPN client and sysVinit scripts</ko>
-   <lt>NordVPN - NordVPN client and sysVinit scripts</lt>
-   <mk>NordVPN - NordVPN client and sysVinit scripts</mk>
-   <mr>NordVPN - NordVPN client and sysVinit scripts</mr>
-   <nb>NordVPN - NordVPN client and sysVinit scripts</nb>
-   <nl>NordVPN - NordVPN cliënt en sysVinit scripts</nl>
-   <pl>NordVPN - NordVPN client and sysVinit scripts</pl>
-   <pt_BR>Scripts para sysVinit e cliente NordVPN</pt_BR>
-   <pt>Scripts para sysVinit e cliente NordVPN</pt>
-   <ro>NordVPN - NordVPN client and sysVinit scripts</ro>
-   <ru>Клиент NordVPN и скрипты SysVinit</ru>
-   <sk>NordVPN - NordVPN client and sysVinit scripts</sk>
-   <sl>NordVPN - NordVPN odjemalec in sysVinit skripte</sl>
-   <sq>NordVPN - NordVPN client and sysVinit scripts</sq>
-   <sr>NordVPN - NordVPN client and sysVinit scripts</sr>
-   <sv>NordVPN - NordVPN klient och sysVinit skript</sv>
-   <tr>NordVPN - NordVPN client and sysVinit scripts</tr>
-   <uk>NordVPN - NordVPN client and sysVinit scripts</uk>
-   <zh_CN>NordVPN - NordVPN client and sysVinit scripts</zh_CN>
-   <zh_TW>NordVPN - NordVPN client and sysVinit scripts</zh_TW>
+   <am>Northern_sotho Language Meta-Package for LibreOffice</am>
+   <ar>Northern_sotho Language Meta-Package for LibreOffice</ar>
+   <bg>Northern_sotho Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet de Northern_sotho per LibreOffice</ca>
+   <cs>Northern_sotho Language Meta-Package for LibreOffice</cs>
+   <da>Northern_sotho Language Meta-Package for LibreOffice</da>
+   <de>Nord-Sotho Meta-Paket für LibreOffice</de>
+   <el>Northern_sotho Language Meta-Package for LibreOffice</el>
+   <en>Northern_sotho Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Lenguaje Northern_sotho para LibreOffice</es>
+   <et>Northern_sotho Language Meta-Package for LibreOffice</et>
+   <eu>Northern_sotho Language Meta-Package for LibreOffice</eu>
+   <fa>Northern_sotho Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Northern_sotho Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Northern_sotho Language Meta-Package for LibreOffice</fi>
+   <fr>Northern_sotho Language Meta-Package for LibreOffice</fr>
+   <he_IL>Northern_sotho Language Meta-Package for LibreOffice</he_IL>
+   <hi>Northern_sotho Language Meta-Package for LibreOffice</hi>
+   <hr>Northern_sotho Language Meta-Package for LibreOffice</hr>
+   <hu>Northern_sotho Language Meta-Package for LibreOffice</hu>
+   <id>Northern_sotho Language Meta-Package for LibreOffice</id>
+   <is>Northern_sotho Language Meta-Package for LibreOffice</is>
+   <it>Northern_sotho Language Meta-Package for LibreOffice</it>
+   <ja_JP>Northern_sotho Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Northern_sotho Language Meta-Package for LibreOffice</ja>
+   <kk>Northern_sotho Language Meta-Package for LibreOffice</kk>
+   <ko>Northern_sotho Language Meta-Package for LibreOffice</ko>
+   <lt>Northern_sotho Language Meta-Package for LibreOffice</lt>
+   <mk>Northern_sotho Language Meta-Package for LibreOffice</mk>
+   <mr>Northern_sotho Language Meta-Package for LibreOffice</mr>
+   <nb>Northern_sotho Language Meta-Package for LibreOffice</nb>
+   <nl>Noord_sotho Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Northern_sotho Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Northern_sotho Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Sotho setentrional Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Northern_sotho Language Meta-Package for LibreOffice</ro>
+   <ru>Northern_sotho Language Meta-Package for LibreOffice</ru>
+   <sk>Northern_sotho Language Meta-Package for LibreOffice</sk>
+   <sl>Severni sotovski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Northern_sotho Language Meta-Package for LibreOffice</sq>
+   <sr>Northern_sotho Language Meta-Package for LibreOffice</sr>
+   <sv>Nordlig_sotho Språk Meta-Paket för LibreOffice</sv>
+   <tr>Northern_sotho Language Meta-Package for LibreOffice</tr>
+   <uk>Northern_sotho Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Northern_sotho Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Northern_sotho Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>
@@ -64,7 +65,7 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-# purge obsolete nordvpn-sysvinit-compat 
+# purge obsolete nordvpn-sysvinit-compat
 if dpkg-query -f '${db:Status-Abbrev}' -W nordvpn-sysvinit-compat  2>/dev/null 1>/dev/null; then
 apt-get -y remove --purge nordvpn-sysvinit-compat
 fi
@@ -88,7 +89,7 @@ nordvpn
 </uninstall_package_names>
 
 <postuninstall>
-# purge obsolete nordvpn-sysvinit-compat 
+# purge obsolete nordvpn-sysvinit-compat
 if dpkg-query -f '${db:Status-Abbrev}' -W nordvpn-sysvinit-compat  2>/dev/null 1>/dev/null; then
 apt-get -y remove --purge nordvpn-sysvinit-compat
 fi

@@ -10,51 +10,52 @@ Arabic_Thunderbird
 </name>
 
 <description>
-   <am>Arabic localisation of Thunderbird</am>
-   <ar>Arabic localisation of Thunderbird</ar>
-   <bg>Arabic localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Àrab</ca>
-   <cs>Arabic localisation of Thunderbird</cs>
-   <da>Arabisk oversættelse af Thunderbird</da>
-   <de>Arabische Lokalisierung von Thunderbird</de>
-   <el>Αραβικός εντοπισμός του Thunderbird</el>
-   <en>Arabic localisation of Thunderbird</en>
-   <es>Localización Árabe de Thunderbird</es>
-   <et>Arabic localisation of Thunderbird</et>
-   <eu>Arabic localisation of Thunderbird</eu>
-   <fa>Arabic localisation of Thunderbird</fa>
-   <fi>Arabic localisation of Thunderbird</fi>
-   <fr>Localisation arabe pour Thunderbird</fr>
-   <he_IL>Arabic localisation of Thunderbird</he_IL>
-   <hi>Arabic localisation of Thunderbird</hi>
-   <hr>Arapska lokalizacija Thunderbirda</hr>
-   <hu>Arabic localisation of Thunderbird</hu>
-   <id>Arabic localisation of Thunderbird</id>
-   <is>Arabic localisation of Thunderbird</is>
-   <it>Localizzazione araba di Thunderbird</it>
-   <ja_JP>Arabic localisation of Thunderbird</ja_JP>
-   <ja>Arabic localisation of Thunderbird</ja>
-   <kk>Arabic localisation of Thunderbird</kk>
-   <ko>Arabic localisation of Thunderbird</ko>
-   <lt>Arabic localisation of Thunderbird</lt>
-   <mk>Arabic localisation of Thunderbird</mk>
-   <mr>Arabic localisation of Thunderbird</mr>
-   <nb>Arabic localisation of Thunderbird</nb>
-   <nl>Arabische lokalisatie van Thunderbird</nl>
-   <pl>Arabska lokalizacja Thunderbirda</pl>
-   <pt_BR>Árabe Localização para Thunderbird</pt_BR>
-   <pt>Árabe Localização para Thunderbird</pt>
-   <ro>Arabic localisation of Thunderbird</ro>
-   <ru>Arabic localisation of Thunderbird</ru>
-   <sk>Arabic lokalizácia pre Thunderbird</sk>
-   <sl>Arabic localisation of Thunderbird</sl>
-   <sq>Arabic localisation of Thunderbird</sq>
-   <sr>Arabic localisation of Thunderbird</sr>
-   <sv>Arabisk lokalisering av Thunderbird</sv>
-   <tr>Arabic localisation of Thunderbird</tr>
-   <uk>Arabic localisation of Thunderbird</uk>
-   <zh_CN>Arabic localisation of Thunderbird</zh_CN>
-   <zh_TW>Arabic localisation of Thunderbird</zh_TW>
+   <am>Assamese Language Meta-Package for LibreOffice</am>
+   <ar>Assamese Language Meta-Package for LibreOffice</ar>
+   <bg>Assamese Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Assamesa per LibreOffice</ca>
+   <cs>Assamese Language Meta-Package for LibreOffice</cs>
+   <da>Assamese Language Meta-Package for LibreOffice</da>
+   <de>Assamisches Meta-Paket für LibreOffice</de>
+   <el>Assamese Language Meta-Package for LibreOffice</el>
+   <en>Assamese Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Lenguaje Assamese para LibreOffice</es>
+   <et>Assamese Language Meta-Package for LibreOffice</et>
+   <eu>Assamese Language Meta-Package for LibreOffice</eu>
+   <fa>Assamese Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Assamese Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Assamese Language Meta-Package for LibreOffice</fi>
+   <fr>Assamese Language Meta-Package for LibreOffice</fr>
+   <he_IL>Assamese Language Meta-Package for LibreOffice</he_IL>
+   <hi>Assamese Language Meta-Package for LibreOffice</hi>
+   <hr>Assamese Language Meta-Package for LibreOffice</hr>
+   <hu>Assamese Language Meta-Package for LibreOffice</hu>
+   <id>Assamese Language Meta-Package for LibreOffice</id>
+   <is>Assamese Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua assamese per LibreOffice</it>
+   <ja_JP>Assamese Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Assamese Language Meta-Package for LibreOffice</ja>
+   <kk>Assamese Language Meta-Package for LibreOffice</kk>
+   <ko>Assamese Language Meta-Package for LibreOffice</ko>
+   <lt>Assamese Language Meta-Package for LibreOffice</lt>
+   <mk>Assamese Language Meta-Package for LibreOffice</mk>
+   <mr>Assamese Language Meta-Package for LibreOffice</mr>
+   <nb>Assamese Language Meta-Package for LibreOffice</nb>
+   <nl>Assamese Taal Meta-Pakket voor LibreOffice​</nl>
+   <pl>Assamese Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Assamese Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Assamês Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Assamese Language Meta-Package for LibreOffice</ro>
+   <ru>Assamese Language Meta-Package for LibreOffice</ru>
+   <sk>Assamese Language Meta-Package for LibreOffice</sk>
+   <sl>Asameški jezikovni meta-paket za LibreOffice</sl>
+   <sq>Assamese Language Meta-Package for LibreOffice</sq>
+   <sr>Assamese Language Meta-Package for LibreOffice</sr>
+   <sv>Assamesiskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Assamese Language Meta-Package for LibreOffice</tr>
+   <uk>Assamese Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Assamese Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Assamese Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

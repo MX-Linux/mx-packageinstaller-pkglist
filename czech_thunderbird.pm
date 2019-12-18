@@ -10,51 +10,52 @@ Czech_Thunderbird
 </name>
 
 <description>
-   <am>Czech localisation of Thunderbird</am>
-   <ar>Czech localisation of Thunderbird</ar>
-   <bg>Czech localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Txec</ca>
-   <cs>Czech localisation of Thunderbird</cs>
-   <da>Tjekkisk oversættelse af Thunderbird</da>
-   <de>Tschechische Lokalisierung von Thunderbird</de>
-   <el>Τσεχική εντοπισμός του Thunderbird</el>
-   <en>Czech localisation of Thunderbird</en>
-   <es>Localización Checa de Thunderbird</es>
-   <et>Czech localisation of Thunderbird</et>
-   <eu>Czech localisation of Thunderbird</eu>
-   <fa>Czech localisation of Thunderbird</fa>
-   <fi>Czech localisation of Thunderbird</fi>
-   <fr>Localisation tchèque pour Thunderbird</fr>
-   <he_IL>Czech localisation of Thunderbird</he_IL>
-   <hi>Czech localisation of Thunderbird</hi>
-   <hr>Czech localisation of Thunderbird</hr>
-   <hu>Czech localisation of Thunderbird</hu>
-   <id>Czech localisation of Thunderbird</id>
-   <is>Czech localisation of Thunderbird</is>
-   <it>Localizzazione in Ceco di Thunderbird</it>
-   <ja_JP>Czech localisation of Thunderbird</ja_JP>
-   <ja>Czech localisation of Thunderbird</ja>
-   <kk>Czech localisation of Thunderbird</kk>
-   <ko>Czech localisation of Thunderbird</ko>
-   <lt>Czech localisation of Thunderbird</lt>
-   <mk>Czech localisation of Thunderbird</mk>
-   <mr>Czech localisation of Thunderbird</mr>
-   <nb>Czech localisation of Thunderbird</nb>
-   <nl>Tjechische lokalisatie van Thunderbird</nl>
-   <pl>Czeska lokalizacja Thunderbirda</pl>
-   <pt_BR>Checo Localização para Thunderbird</pt_BR>
-   <pt>Checo Localização para Thunderbird</pt>
-   <ro>Czech localisation of Thunderbird</ro>
-   <ru>Czech localisation of Thunderbird</ru>
-   <sk>Czech localisation of Thunderbird</sk>
-   <sl>Czech localisation of Thunderbird</sl>
-   <sq>Czech localisation of Thunderbird</sq>
-   <sr>Czech localisation of Thunderbird</sr>
-   <sv>Tjeckisk lokalisering av Thunderbird</sv>
-   <tr>Czech localisation of Thunderbird</tr>
-   <uk>Czech локалізація Thunderbird</uk>
-   <zh_CN>Czech localisation of Thunderbird</zh_CN>
-   <zh_TW>Czech localisation of Thunderbird</zh_TW>
+   <am>Danish localisation of Firefox</am>
+   <ar>Danish localisation of Firefox</ar>
+   <bg>Danish localisation of Firefox</bg>
+   <ca>Localització de Firefox en Danès</ca>
+   <cs>Danish localisation of Firefox</cs>
+   <da>Dansk oversættelse af Firefox</da>
+   <de>Dänische Lokalisierung von Firefox</de>
+   <el>Δανικός εντοπισμός του Firefox</el>
+   <en>Danish localisation of Firefox</en>
+   <es>Localización Danesa de Firefox</es>
+   <et>Danish localisation of Firefox</et>
+   <eu>Danish localisation of Firefox</eu>
+   <fa>Danish localisation of Firefox</fa>
+   <fil_PH>Danish localisation of Firefox</fil_PH>
+   <fi>Danish localisation of Firefox</fi>
+   <fr>Localisation danoise pour Firefox</fr>
+   <he_IL>Danish localisation of Firefox</he_IL>
+   <hi>Danish localisation of Firefox</hi>
+   <hr>Danish localisation of Firefox</hr>
+   <hu>Danish localisation of Firefox</hu>
+   <id>Danish localisation of Firefox</id>
+   <is>Danish localisation of Firefox</is>
+   <it>Localizzazione danese di Firefox</it>
+   <ja_JP>Danish localisation of Firefox</ja_JP>
+   <ja>Danish localisation of Firefox</ja>
+   <kk>Danish localisation of Firefox</kk>
+   <ko>Danish localisation of Firefox</ko>
+   <lt>Danish localisation of Firefox</lt>
+   <mk>Danish localisation of Firefox</mk>
+   <mr>Danish localisation of Firefox</mr>
+   <nb>Danish localisation of Firefox</nb>
+   <nl>Deense lokalisatie van Firefox</nl>
+   <pl>Duńska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Dinamarquês Localização para Firefox</pt_BR>
+   <pt>Dinamarquês Localização para Firefox</pt>
+   <ro>Danish localisation of Firefox</ro>
+   <ru>Датская локализация Firefox</ru>
+   <sk>Danish localisation of Firefox</sk>
+   <sl>Danish localisation of Firefox</sl>
+   <sq>Danish localisation of Firefox</sq>
+   <sr>Danish localisation of Firefox</sr>
+   <sv>Dansk lokalisering av Firefox</sv>
+   <tr>Firefox'un Danimarkaca yerelleştirmesi</tr>
+   <uk>Danish локалізація Firefox</uk>
+   <zh_CN>Danish localisation of Firefox</zh_CN>
+   <zh_TW>Danish localisation of Firefox</zh_TW>
 </description>
 
 <installable>
