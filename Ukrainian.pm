@@ -10,52 +10,51 @@ Ukrainian
 </name>
 
 <description>
-   <am>Ukrainian localisation of Thunderbird</am>
-   <ar>Ukrainian localisation of Thunderbird</ar>
-   <bg>Ukrainian localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Ucrainès</ca>
-   <cs>Ukrainian localisation of Thunderbird</cs>
-   <da>Ukrainsk oversættelse af Thunderbird</da>
-   <de>Ukrainische Lokalisierung von Thunderbird</de>
-   <el>Ουκρανικός εντοπισμός του Thunderbird</el>
-   <en>Ukrainian localisation of Thunderbird</en>
-   <es>Localización Ucraniana de Thunderbird</es>
-   <et>Ukrainian localisation of Thunderbird</et>
-   <eu>Ukrainian localisation of Thunderbird</eu>
-   <fa>Ukrainian localisation of Thunderbird</fa>
-   <fil_PH>Ukrainian localisation of Thunderbird</fil_PH>
-   <fi>Ukrainian localisation of Thunderbird</fi>
-   <fr>Localisation ukrainienne pour Thunderbird</fr>
-   <he_IL>Ukrainian localisation of Thunderbird</he_IL>
-   <hi>Ukrainian localisation of Thunderbird</hi>
-   <hr>Ukrainian localisation of Thunderbird</hr>
-   <hu>Ukrainian localisation of Thunderbird</hu>
-   <id>Ukrainian localisation of Thunderbird</id>
-   <is>Ukrainian localisation of Thunderbird</is>
-   <it>Localizzazione ucraina di Thunderbird</it>
-   <ja_JP>Ukrainian localisation of Thunderbird</ja_JP>
-   <ja>Ukrainian localisation of Thunderbird</ja>
-   <kk>Ukrainian localisation of Thunderbird</kk>
-   <ko>Ukrainian localisation of Thunderbird</ko>
-   <lt>Ukrainian localisation of Thunderbird</lt>
-   <mk>Ukrainian localisation of Thunderbird</mk>
-   <mr>Ukrainian localisation of Thunderbird</mr>
-   <nb>Ukrainian localisation of Thunderbird</nb>
-   <nl>Oekraïense lokalisatie van Thunderbird</nl>
-   <pl>Ukraińska lokalizacja Thunderbirda</pl>
-   <pt_BR>Ucraniano Localização para Thunderbird</pt_BR>
-   <pt>Ucraniano Localização para Thunderbird</pt>
-   <ro>Ukrainian localisation of Thunderbird</ro>
-   <ru>Ukrainian localisation of Thunderbird</ru>
-   <sk>Ukrainian localisation of Thunderbird</sk>
-   <sl>Ukrainian localisation of Thunderbird</sl>
-   <sq>Ukrainian localisation of Thunderbird</sq>
-   <sr>Ukrainian localisation of Thunderbird</sr>
-   <sv>Ukrainsk lokalisering av Thunderbird</sv>
-   <tr>Thunderbird'ün Ukraynaca yerelleştirmesi</tr>
-   <uk>Ukrainian localisation of Thunderbird</uk>
-   <zh_CN>Ukrainian localisation of Thunderbird</zh_CN>
-   <zh_TW>Ukrainian localisation of Thunderbird</zh_TW>
+   <am>Ukrainian Language Meta-Package</am>
+   <ar>Ukrainian Language Meta-Package</ar>
+   <bg>Ukrainian Language Meta-Package</bg>
+   <ca>Meta-paquet de llengua en Ucrainès</ca>
+   <cs>Ukrainian Language Meta-Package</cs>
+   <da>Ukrainsk sprog-metapakke</da>
+   <de>Ukrainisches Sprach-Meta-Paket</de>
+   <el>Ουκρανική γλώσσα</el>
+   <en>Ukrainian Language Meta-Package</en>
+   <es>Meta-Paquete de Idioma Ucranio</es>
+   <et>Ukrainian Language Meta-Package</et>
+   <eu>Ukrainian Language Meta-Package</eu>
+   <fa>Ukrainian Language Meta-Package</fa>
+   <fi>Ukrainian Language Meta-Package</fi>
+   <fr>Méta-paquet pour langue ukrainienne</fr>
+   <he_IL>Ukrainian Language Meta-Package</he_IL>
+   <hi>Ukrainian Language Meta-Package</hi>
+   <hr>Ukrainian Language Meta-Package</hr>
+   <hu>Ukrainian Language Meta-Package</hu>
+   <id>Ukrainian Language Meta-Package</id>
+   <is>Ukrainian Language Meta-Package</is>
+   <it>Meta-pacchetto della lingua ucraina</it>
+   <ja_JP>Ukrainian Language Meta-Package</ja_JP>
+   <ja>Ukrainian Language Meta-Package</ja>
+   <kk>Ukrainian Language Meta-Package</kk>
+   <ko>Ukrainian Language Meta-Package</ko>
+   <lt>Ukrainian Language Meta-Package</lt>
+   <mk>Ukrainian Language Meta-Package</mk>
+   <mr>Ukrainian Language Meta-Package</mr>
+   <nb>Ukrainian Language Meta-Package</nb>
+   <nl>Oekraïense Taal Meta-Pakket</nl>
+   <pl>Ukraiński metapakiet językowy</pl>
+   <pt_BR>Ucraniano Meta-Pacote de Idioma</pt_BR>
+   <pt>Ucraniano Meta-Pacote de Idioma</pt>
+   <ro>Ukrainian Language Meta-Package</ro>
+   <ru>Ukrainian Language Meta-Package</ru>
+   <sk>Ukrainian Language Meta-Package</sk>
+   <sl>Ukrainian Language Meta-Package</sl>
+   <sq>Ukrainian Language Meta-Package</sq>
+   <sr>Ukrainian Language Meta-Package</sr>
+   <sv>Ukrainskt Språk Meta-Paket </sv>
+   <tr>Ukrainian Language Meta-Package</tr>
+   <uk>Ukrainian Language Meta-Package</uk>
+   <zh_CN>Ukrainian Language Meta-Package</zh_CN>
+   <zh_TW>Ukrainian Language Meta-Package</zh_TW>
 </description>
 
 <installable>

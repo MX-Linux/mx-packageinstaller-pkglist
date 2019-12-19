@@ -10,52 +10,51 @@ German_Thunderbird
 </name>
 
 <description>
-   <am>a multithreaded FTP client</am>
-   <ar>a multithreaded FTP client</ar>
-   <bg>a multithreaded FTP client</bg>
-   <ca>un client de FTP multifilar</ca>
-   <cs>a multithreaded FTP client</cs>
-   <da>en multitrådet FTP-klient</da>
-   <de>Ein Multithreading-FTP-Client</de>
-   <el>ένα πολυνηματικό πρόγραμμα-πελάτη FTP</el>
-   <en>a multithreaded FTP client</en>
-   <es>Cliente FTP multiproceso</es>
-   <et>a multithreaded FTP client</et>
-   <eu>a multithreaded FTP client</eu>
-   <fa>a multithreaded FTP client</fa>
-   <fil_PH>a multithreaded FTP client</fil_PH>
-   <fi>a multithreaded FTP client</fi>
-   <fr>Client FTP multiprocessus</fr>
-   <he_IL>a multithreaded FTP client</he_IL>
-   <hi>a multithreaded FTP client</hi>
-   <hr>a multithreaded FTP client</hr>
-   <hu>a multithreaded FTP client</hu>
-   <id>a multithreaded FTP client</id>
-   <is>a multithreaded FTP client</is>
-   <it>Client FTP multithread</it>
-   <ja_JP>a multithreaded FTP client</ja_JP>
-   <ja>a multithreaded FTP client</ja>
-   <kk>a multithreaded FTP client</kk>
-   <ko>a multithreaded FTP client</ko>
-   <lt>a multithreaded FTP client</lt>
-   <mk>a multithreaded FTP client</mk>
-   <mr>a multithreaded FTP client</mr>
-   <nb>a multithreaded FTP client</nb>
-   <nl>een multithreaded FTP programma</nl>
-   <pl>wielowątkowy klient FTP</pl>
-   <pt_BR>Cliente de FTP multilinha de execução (multithreaded)</pt_BR>
-   <pt>Cliente de FTP multilinha de execução (multithreaded)</pt>
-   <ro>a multithreaded FTP client</ro>
-   <ru>Многопоточный FTP клиент</ru>
-   <sk>a multithreaded FTP client</sk>
-   <sl>večnitni FTP odjemalec</sl>
-   <sq>a multithreaded FTP client</sq>
-   <sr>a multithreaded FTP client</sr>
-   <sv>en multitråds FTP-klient</sv>
-   <tr>a multithreaded FTP client</tr>
-   <uk>багатопотоковий FTP-клієнт</uk>
-   <zh_CN>a multithreaded FTP client</zh_CN>
-   <zh_TW>a multithreaded FTP client</zh_TW>
+   <am>German localisation of Thunderbird</am>
+   <ar>German localisation of Thunderbird</ar>
+   <bg>German localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Alemany</ca>
+   <cs>German localisation of Thunderbird</cs>
+   <da>Tysk oversættelse af Thunderbird</da>
+   <de>Deutsche Lokalisierung von Thunderbird</de>
+   <el>Γερμανικός εντοπισμός του Thunderbird</el>
+   <en>German localisation of Thunderbird</en>
+   <es>Localización Alemana de Thunderbird</es>
+   <et>German localisation of Thunderbird</et>
+   <eu>German localisation of Thunderbird</eu>
+   <fa>German localisation of Thunderbird</fa>
+   <fi>German localisation of Thunderbird</fi>
+   <fr>Localisation allemande pour Thunderbird</fr>
+   <he_IL>German localisation of Thunderbird</he_IL>
+   <hi>German localisation of Thunderbird</hi>
+   <hr>German localisation of Thunderbird</hr>
+   <hu>German localisation of Thunderbird</hu>
+   <id>German localisation of Thunderbird</id>
+   <is>German localisation of Thunderbird</is>
+   <it>Localizzazione tedesca di Thunderbird</it>
+   <ja_JP>German localisation of Thunderbird</ja_JP>
+   <ja>German localisation of Thunderbird</ja>
+   <kk>German localisation of Thunderbird</kk>
+   <ko>German localisation of Thunderbird</ko>
+   <lt>German localisation of Thunderbird</lt>
+   <mk>German localisation of Thunderbird</mk>
+   <mr>German localisation of Thunderbird</mr>
+   <nb>German localisation of Thunderbird</nb>
+   <nl>Duitse lokalisatie van Thunderbird</nl>
+   <pl>Niemiecka lokalizacja Thunderbirda</pl>
+   <pt_BR>Alemão Localização para Thunderbird</pt_BR>
+   <pt>Alemão Localização para Thunderbird</pt>
+   <ro>German localisation of Thunderbird</ro>
+   <ru>German localisation of Thunderbird</ru>
+   <sk>German localisation of Thunderbird</sk>
+   <sl>German localisation of Thunderbird</sl>
+   <sq>German localisation of Thunderbird</sq>
+   <sr>German localisation of Thunderbird</sr>
+   <sv>Tysk lokalisering av Thunderbird</sv>
+   <tr>German localisation of Thunderbird</tr>
+   <uk>German локалізація Thunderbird</uk>
+   <zh_CN>German localisation of Thunderbird</zh_CN>
+   <zh_TW>German localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

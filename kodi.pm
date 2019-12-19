@@ -10,52 +10,51 @@ Kodi
 </name>
 
 <description>
-   <am>Korean localisation of Firefox</am>
-   <ar>Korean localisation of Firefox</ar>
-   <bg>Korean localisation of Firefox</bg>
-   <ca>Localització de Firefox en Coreà</ca>
-   <cs>Korean localisation of Firefox</cs>
-   <da>Koreansk oversættelse af Firefox</da>
-   <de>Koreanische Lokalisierung von Firefox</de>
-   <el>Κορεατικός εντοπισμός του Firefox</el>
-   <en>Korean localisation of Firefox</en>
-   <es>Localización Coreana de Firefox</es>
-   <et>Korean localisation of Firefox</et>
-   <eu>Korean localisation of Firefox</eu>
-   <fa>Korean localisation of Firefox</fa>
-   <fil_PH>Korean localisation of Firefox</fil_PH>
-   <fi>Korean localisation of Firefox</fi>
-   <fr>Localisation coréenne pour Firefox</fr>
-   <he_IL>Korean localisation of Firefox</he_IL>
-   <hi>Korean localisation of Firefox</hi>
-   <hr>Korean localisation of Firefox</hr>
-   <hu>Korean localisation of Firefox</hu>
-   <id>Korean localisation of Firefox</id>
-   <is>Korean localisation of Firefox</is>
-   <it>Localizzazione coreana di Firefox</it>
-   <ja_JP>Korean localisation of Firefox</ja_JP>
-   <ja>Korean localisation of Firefox</ja>
-   <kk>Korean localisation of Firefox</kk>
-   <ko>Korean localisation of Firefox</ko>
-   <lt>Korean localisation of Firefox</lt>
-   <mk>Korean localisation of Firefox</mk>
-   <mr>Korean localisation of Firefox</mr>
-   <nb>Korean localisation of Firefox</nb>
-   <nl>Koreaanse lokalisatie van Firefox</nl>
-   <pl>Koreańska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Coreano Localização para Firefox</pt_BR>
-   <pt>Coreano Localização para Firefox</pt>
-   <ro>Korean localisation of Firefox</ro>
-   <ru>Корейская локализация Firefox</ru>
-   <sk>Korean localisation of Firefox</sk>
-   <sl>Korean localisation of Firefox</sl>
-   <sq>Korean localisation of Firefox</sq>
-   <sr>Korean localisation of Firefox</sr>
-   <sv>Koreansk lokalisering av Firefox</sv>
-   <tr>Firefox'un Korece yerelleştirmesi</tr>
-   <uk>Korean локалізація Firefox</uk>
-   <zh_CN>Korean localisation of Firefox</zh_CN>
-   <zh_TW>Korean localisation of Firefox</zh_TW>
+   <am>Kodi Media Center (formerly XBMC)</am>
+   <ar>Kodi Media Center (formerly XBMC)</ar>
+   <bg>Kodi Media Center (formerly XBMC)</bg>
+   <ca>Centre de Mèdia Kodi (anteriorment XBMC)</ca>
+   <cs>Kodi Media Center (formerly XBMC)</cs>
+   <da>Kodi Media Center (tidligere XBMC)</da>
+   <de>Kodi Media Center (ehemals XBMC)</de>
+   <el>Κέντρο πολυμέσων Kodi (πρώην XBMC)</el>
+   <en>Kodi Media Center (formerly XBMC)</en>
+   <es>Kodi Media Center (anteriormente conocido como XBMC)</es>
+   <et>Kodi Media Center (formerly XBMC)</et>
+   <eu>Kodi Media Center (formerly XBMC)</eu>
+   <fa>Kodi Media Center (formerly XBMC)</fa>
+   <fi>Kodi Media Center (formerly XBMC)</fi>
+   <fr>Kodi Media Center (anciennement XBMC)</fr>
+   <he_IL>Kodi Media Center (formerly XBMC)</he_IL>
+   <hi>Kodi Media Center (formerly XBMC)</hi>
+   <hr>Kodi Media Center (formerly XBMC)</hr>
+   <hu>Kodi Media Center (formerly XBMC)</hu>
+   <id>Kodi Media Center (formerly XBMC)</id>
+   <is>Kodi Media Center (formerly XBMC)</is>
+   <it>Kodi Media Center (in precedenza XBMC)</it>
+   <ja_JP>Kodi Media Center (formerly XBMC)</ja_JP>
+   <ja>Kodi Media Center (formerly XBMC)</ja>
+   <kk>Kodi Media Center (formerly XBMC)</kk>
+   <ko>Kodi Media Center (formerly XBMC)</ko>
+   <lt>Kodi medijos centras (buvęs XBMC)</lt>
+   <mk>Kodi Media Center (formerly XBMC)</mk>
+   <mr>Kodi Media Center (formerly XBMC)</mr>
+   <nb>Kodi Media Center (formerly XBMC)</nb>
+   <nl>Kodi Media Centrum (voorheen XBMC)</nl>
+   <pl>Kodi Media Center (poprzednio XBMC)</pl>
+   <pt_BR>Centro Multimídia Kodi (anteriormente XBMC)</pt_BR>
+   <pt>Centro Multimédia Kodi (anteriormente chamava-se XBMC)</pt>
+   <ro>Kodi Media Center (formerly XBMC)</ro>
+   <ru>Медиацентр Kodi (бывший XBMC)</ru>
+   <sk>Kodi Media Center (formerly XBMC)</sk>
+   <sl>Kodi medijsko središče (bivši XBMC)</sl>
+   <sq>Kodi Media Center (formerly XBMC)</sq>
+   <sr>Kodi Media Center (formerly XBMC)</sr>
+   <sv>Kodi Media Center (tidigare XBMC)</sv>
+   <tr>Kodi Media Center (formerly XBMC)</tr>
+   <uk>Kodi Media Center (колишній XBMC)</uk>
+   <zh_CN>Kodi Media Center (formerly XBMC)</zh_CN>
+   <zh_TW>Kodi Media Center (formerly XBMC)</zh_TW>
 </description>
 
 <installable>

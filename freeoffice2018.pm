@@ -10,52 +10,51 @@ SoftMaker FreeOffice 2018
 </name>
 
 <description>
-   <am>French localisation of Firefox</am>
-   <ar>French localisation of Firefox</ar>
-   <bg>French localisation of Firefox</bg>
-   <ca>Localització de Firefox en Francès</ca>
-   <cs>French localisation of Firefox</cs>
-   <da>Fransk oversættelse af Firefox</da>
-   <de>Französische Lokalisierung von Firefox</de>
-   <el>Γαλλικός εντοπισμός του Firefox</el>
-   <en>French localisation of Firefox</en>
-   <es>Localización Francés de Firefox</es>
-   <et>French localisation of Firefox</et>
-   <eu>French localisation of Firefox</eu>
-   <fa>French localisation of Firefox</fa>
-   <fil_PH>French localisation of Firefox</fil_PH>
-   <fi>French localisation of Firefox</fi>
-   <fr>Localisation française pour Firefox</fr>
-   <he_IL>French localisation of Firefox</he_IL>
-   <hi>French localisation of Firefox</hi>
-   <hr>French localisation of Firefox</hr>
-   <hu>French localisation of Firefox</hu>
-   <id>French localisation of Firefox</id>
-   <is>French localisation of Firefox</is>
-   <it>Localizzazione francese di Firefox</it>
-   <ja_JP>French localisation of Firefox</ja_JP>
-   <ja>French localisation of Firefox</ja>
-   <kk>French localisation of Firefox</kk>
-   <ko>French localisation of Firefox</ko>
-   <lt>French localisation of Firefox</lt>
-   <mk>French localisation of Firefox</mk>
-   <mr>French localisation of Firefox</mr>
-   <nb>French localisation of Firefox</nb>
-   <nl>Franse lokalisatie van Firefox</nl>
-   <pl>Francuska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Francês Localização para Firefox</pt_BR>
-   <pt>Francês Localização para Firefox</pt>
-   <ro>French localisation of Firefox</ro>
-   <ru>Французская локализация Firefox</ru>
-   <sk>French localisation of Firefox</sk>
-   <sl>French localisation of Firefox</sl>
-   <sq>French localisation of Firefox</sq>
-   <sr>French localisation of Firefox</sr>
-   <sv>Fransk lokalisering av Firefox</sv>
-   <tr>Firefox'un Fransızca yerelleştirmesi</tr>
-   <uk>French локалізація Firefox</uk>
-   <zh_CN>French localisation of Firefox</zh_CN>
-   <zh_TW>French localisation of Firefox</zh_TW>
+   <am>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</am>
+   <ar>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ar>
+   <bg>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</bg>
+   <ca>SoftMaker FreeOffice 2018 és una suite ofimàtica ràpida, compatible i fiable.</ca>
+   <cs>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</cs>
+   <da>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</da>
+   <de>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</de>
+   <el>Το SoftMaker FreeOffice 2018 είναι μια γρήγορη, συμβατή και αξιόπιστη σουίτα γραφείου</el>
+   <en>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</en>
+   <es>SoftMaker FreeOffice 2018 es una suite ofimática rápida, compatible y confiable</es>
+   <et>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</et>
+   <eu>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</eu>
+   <fa>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</fa>
+   <fi>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</fi>
+   <fr>SoftMaker FreeOffice 2018 est une suite bureautique fiable, rapide et compatible</fr>
+   <he_IL>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</he_IL>
+   <hi>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</hi>
+   <hr>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</hr>
+   <hu>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</hu>
+   <id>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</id>
+   <is>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</is>
+   <it>SoftMaker FreeOffice 2018 è una suite per ufficio veloce, affidabile e compatibile</it>
+   <ja_JP>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ja_JP>
+   <ja>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ja>
+   <kk>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</kk>
+   <ko>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ko>
+   <lt>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</lt>
+   <mk>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</mk>
+   <mr>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</mr>
+   <nb>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</nb>
+   <nl>SoftMaker FreeOffice 2018 is een snel, geschikt en betrouwbaar officeprogramma</nl>
+   <pl>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</pl>
+   <pt_BR>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</pt_BR>
+   <pt>O SoftMaker FreeOffice 2018 é uma suite de escritório rápida, compatível e confiável</pt>
+   <ro>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ro>
+   <ru>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</ru>
+   <sk>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</sk>
+   <sl>SoftMaker FreeOffice 2018 je hiter in združljiv paket za pisarniško rabo</sl>
+   <sq>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</sq>
+   <sr>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</sr>
+   <sv>SoftMaker FreeOffice 2018 är snabb, kompatibel och pålitlig kontors-uppsättning</sv>
+   <tr>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</tr>
+   <uk>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</uk>
+   <zh_CN>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</zh_CN>
+   <zh_TW>SoftMaker FreeOffice 2018 is a fast, compatible and reliable office suite</zh_TW>
 </description>
 
 <installable>

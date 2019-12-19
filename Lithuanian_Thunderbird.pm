@@ -10,52 +10,51 @@ Lithuanian_Thunderbird
 </name>
 
 <description>
-   <am>apache2, php7, mariaDB</am>
-   <ar>apache2, php7, mariaDB</ar>
-   <bg>apache2, php7, mariaDB</bg>
-   <ca>apache2, php7, mariaDB</ca>
-   <cs>apache2, php7, mariaDB</cs>
-   <da>apache2, php7, mariaDB</da>
-   <de>Apache2, PHP7, MariaDB</de>
-   <el>apache2, php7, mariaDB</el>
-   <en>apache2, php7, mariaDB</en>
-   <es>apache2, php7, mariaDB</es>
-   <et>apache2, php7, mariaDB</et>
-   <eu>apache2, php7, mariaDB</eu>
-   <fa>apache2, php7, mariaDB</fa>
-   <fil_PH>apache2, php7, mariaDB</fil_PH>
-   <fi>apache2, php7, mariaDB</fi>
-   <fr>apache2, php7, mariaDB</fr>
-   <he_IL>apache2, php7, mariaDB</he_IL>
-   <hi>apache2, php7, mariaDB</hi>
-   <hr>apache2, php7, mariaDB</hr>
-   <hu>apache2, php7, mariaDB</hu>
-   <id>apache2, php7, mariaDB</id>
-   <is>apache2, php7, mariaDB</is>
-   <it>apache2, php7, mariaDB</it>
-   <ja_JP>apache2, php7, mariaDB</ja_JP>
-   <ja>apache2, php7, mariaDB</ja>
-   <kk>apache2, php7, mariaDB</kk>
-   <ko>apache2, php7, mariaDB</ko>
-   <lt>apache2, php7, mariaDB</lt>
-   <mk>apache2, php7, mariaDB</mk>
-   <mr>apache2, php7, mariaDB</mr>
-   <nb>apache2, php7, mariaDB</nb>
-   <nl>apache2, php7, mariaDB</nl>
-   <pl>Apache2, PHP7, MariaDB</pl>
-   <pt_BR>apache2, php7, mariaDB</pt_BR>
-   <pt>apache2, php7, mariaDB</pt>
-   <ro>apache2, php7, mariaDB</ro>
-   <ru>ПО веб-сервера: apache2, php7, mariaDB</ru>
-   <sk>apache2, php7, mariaDB</sk>
-   <sl>apache2, php7, mariaDB</sl>
-   <sq>apache2, php7, mariaDB</sq>
-   <sr>apache2, php7, mariaDB</sr>
-   <sv>apache2, php7, mariaDB</sv>
-   <tr>apache2, php7, mariaDB</tr>
-   <uk>apache2, php7, mariaDB</uk>
-   <zh_CN>apache2, php7, mariaDB</zh_CN>
-   <zh_TW>apache2, php7, mariaDB</zh_TW>
+   <am>Lithuanian localisation of Thunderbird</am>
+   <ar>Lithuanian localisation of Thunderbird</ar>
+   <bg>Lithuanian localisation of Thunderbird</bg>
+   <ca>Localització en lituà de Thunderbird</ca>
+   <cs>Lithuanian localisation of Thunderbird</cs>
+   <da>Litauisk oversættelse af Thunderbird</da>
+   <de>Litauische Lokalisierung von Thunderbird</de>
+   <el>Λιθουανικός εντοπισμός του Thunderbird</el>
+   <en>Lithuanian localisation of Thunderbird</en>
+   <es>Localización Lituana de Thunderbird</es>
+   <et>Lithuanian localisation of Thunderbird</et>
+   <eu>Lithuanian localisation of Thunderbird</eu>
+   <fa>Lithuanian localisation of Thunderbird</fa>
+   <fi>Lithuanian localisation of Thunderbird</fi>
+   <fr>Localisation lithuanienne pour Thunderbird</fr>
+   <he_IL>Lithuanian localisation of Thunderbird</he_IL>
+   <hi>Lithuanian localisation of Thunderbird</hi>
+   <hr>Lithuanian localisation of Thunderbird</hr>
+   <hu>Lithuanian localisation of Thunderbird</hu>
+   <id>Lithuanian localisation of Thunderbird</id>
+   <is>Lithuanian localisation of Thunderbird</is>
+   <it>Localizzazione lituana di Thunderbird</it>
+   <ja_JP>Lithuanian localisation of Thunderbird</ja_JP>
+   <ja>Lithuanian localisation of Thunderbird</ja>
+   <kk>Lithuanian localisation of Thunderbird</kk>
+   <ko>Lithuanian localisation of Thunderbird</ko>
+   <lt>Lithuanian localisation of Thunderbird</lt>
+   <mk>Lithuanian localisation of Thunderbird</mk>
+   <mr>Lithuanian localisation of Thunderbird</mr>
+   <nb>Lithuanian localisation of Thunderbird</nb>
+   <nl>Litouwse lokalisatie van Thunderbird</nl>
+   <pl>Litewska lokalizacja Thunderbirda</pl>
+   <pt_BR>Lituano Localização para Thunderbird</pt_BR>
+   <pt>Lituano Localização para Thunderbird</pt>
+   <ro>Lithuanian localisation of Thunderbird</ro>
+   <ru>Lithuanian localisation of Thunderbird</ru>
+   <sk>Lithuanian localisation of Thunderbird</sk>
+   <sl>Lithuanian localisation of Thunderbird</sl>
+   <sq>Lithuanian localisation of Thunderbird</sq>
+   <sr>Lithuanian localisation of Thunderbird</sr>
+   <sv>Litauisk lokalisering av Thunderbird </sv>
+   <tr>Lithuanian localisation of Thunderbird</tr>
+   <uk>Lithuanian локалізація Thunderbird</uk>
+   <zh_CN>Lithuanian localisation of Thunderbird</zh_CN>
+   <zh_TW>Lithuanian localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

@@ -10,52 +10,51 @@ Russian_Thunderbird
 </name>
 
 <description>
-   <am>Scottish_gaelic Language Meta-Package for LibreOffice</am>
-   <ar>Scottish_gaelic Language Meta-Package for LibreOffice</ar>
-   <bg>Scottish_gaelic Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Gaèlic Escocès per LibreOffice</ca>
-   <cs>Scottish_gaelic Language Meta-Package for LibreOffice</cs>
-   <da>Scottish_gaelic Language Meta-Package for LibreOffice</da>
-   <de>Schottisch-gälisches Meta-Paket für LibreOffice</de>
-   <el>Scottish_gaelic Language Meta-Package for LibreOffice</el>
-   <en>Scottish_gaelic Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de idioma gallego escocés para LibreOffice</es>
-   <et>Scottish_gaelic Language Meta-Package for LibreOffice</et>
-   <eu>Scottish_gaelic Language Meta-Package for LibreOffice</eu>
-   <fa>Scottish_gaelic Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Scottish_gaelic Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Scottish_gaelic Language Meta-Package for LibreOffice</fi>
-   <fr>Scottish_gaelic Language Meta-Package for LibreOffice</fr>
-   <he_IL>Scottish_gaelic Language Meta-Package for LibreOffice</he_IL>
-   <hi>Scottish_gaelic Language Meta-Package for LibreOffice</hi>
-   <hr>Scottish_gaelic Language Meta-Package for LibreOffice</hr>
-   <hu>Scottish_gaelic Language Meta-Package for LibreOffice</hu>
-   <id>Scottish_gaelic Language Meta-Package for LibreOffice</id>
-   <is>Scottish_gaelic Language Meta-Package for LibreOffice</is>
-   <it>Scottish_gaelic Language Meta-Package for LibreOffice</it>
-   <ja_JP>Scottish_gaelic Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Scottish_gaelic Language Meta-Package for LibreOffice</ja>
-   <kk>Scottish_gaelic Language Meta-Package for LibreOffice</kk>
-   <ko>Scottish_gaelic Language Meta-Package for LibreOffice</ko>
-   <lt>Scottish_gaelic Language Meta-Package for LibreOffice</lt>
-   <mk>Scottish_gaelic Language Meta-Package for LibreOffice</mk>
-   <mr>Scottish_gaelic Language Meta-Package for LibreOffice</mr>
-   <nb>Scottish_gaelic Language Meta-Package for LibreOffice</nb>
-   <nl>Scottish_gaelic Language Meta-Package for LibreOffice</nl>
-   <pl>Scottish_gaelic Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Scottish_gaelic Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Gaélico_escocês Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Scottish_gaelic Language Meta-Package for LibreOffice</ro>
-   <ru>Scottish_gaelic Language Meta-Package for LibreOffice</ru>
-   <sk>Scottish_gaelic Language Meta-Package for LibreOffice</sk>
-   <sl>Škotski gelik jezikovni meta-paket za LibreOffice</sl>
-   <sq>Scottish_gaelic Language Meta-Package for LibreOffice</sq>
-   <sr>Scottish_gaelic Language Meta-Package for LibreOffice</sr>
-   <sv>Skottsk_gaelic Språk Meta-Paket för LibreOffice</sv>
-   <tr>Scottish_gaelic Language Meta-Package for LibreOffice</tr>
-   <uk>Scottish_gaelic Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Scottish_gaelic Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Scottish_gaelic Language Meta-Package for LibreOffice</zh_TW>
+   <am>Russian localisation of Thunderbird</am>
+   <ar>Russian localisation of Thunderbird</ar>
+   <bg>Russian localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Rus</ca>
+   <cs>Russian localisation of Thunderbird</cs>
+   <da>Russisk oversættelse af Thunderbird</da>
+   <de>Russische Lokalisierung von Thunderbird</de>
+   <el>Ρωσικός εντοπισμός του Thunderbird</el>
+   <en>Russian localisation of Thunderbird</en>
+   <es>Localización Rusa de Thunderbird</es>
+   <et>Russian localisation of Thunderbird</et>
+   <eu>Russian localisation of Thunderbird</eu>
+   <fa>Russian localisation of Thunderbird</fa>
+   <fi>Russian localisation of Thunderbird</fi>
+   <fr>Localisation russe pour Thunderbird</fr>
+   <he_IL>Russian localisation of Thunderbird</he_IL>
+   <hi>Russian localisation of Thunderbird</hi>
+   <hr>Russian localisation of Thunderbird</hr>
+   <hu>Russian localisation of Thunderbird</hu>
+   <id>Russian localisation of Thunderbird</id>
+   <is>Russian localisation of Thunderbird</is>
+   <it>Localizzazione russa di Thunderbird</it>
+   <ja_JP>Russian localisation of Thunderbird</ja_JP>
+   <ja>Russian localisation of Thunderbird</ja>
+   <kk>Russian localisation of Thunderbird</kk>
+   <ko>Russian localisation of Thunderbird</ko>
+   <lt>Russian localisation of Thunderbird</lt>
+   <mk>Russian localisation of Thunderbird</mk>
+   <mr>Russian localisation of Thunderbird</mr>
+   <nb>Russian localisation of Thunderbird</nb>
+   <nl>Russische lokalisatie van Thunderbird</nl>
+   <pl>Rosyjska lokalizacja Thunderbirda</pl>
+   <pt_BR>Russo Localização para Thunderbird</pt_BR>
+   <pt>Russo Localização para Thunderbird</pt>
+   <ro>Russian localisation of Thunderbird</ro>
+   <ru>Русский перевод для Thunderbird</ru>
+   <sk>Russian localisation of Thunderbird</sk>
+   <sl>Russian localisation of Thunderbird</sl>
+   <sq>Russian localisation of Thunderbird</sq>
+   <sr>Russian localisation of Thunderbird</sr>
+   <sv>Rysk  lokalisering av Thunderbird</sv>
+   <tr>Russian localisation of Thunderbird</tr>
+   <uk>Russian локалізація Thunderbird</uk>
+   <zh_CN>Russian localisation of Thunderbird</zh_CN>
+   <zh_TW>Russian localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

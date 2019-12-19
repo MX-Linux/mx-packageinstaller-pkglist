@@ -10,52 +10,51 @@ Gnumeric
 </name>
 
 <description>
-   <am>Latest Google Chrome browser (stable)</am>
-   <ar>Latest Google Chrome browser (stable)</ar>
-   <bg>Latest Google Chrome browser (stable)</bg>
-   <ca>Darrer navegador Chrome (estable)</ca>
-   <cs>Latest Google Chrome browser (stable)</cs>
-   <da>Seneste Google Chrome-browser (stabil)</da>
-   <de>Aktueller Google Chrome-Browser (stabil)</de>
-   <el>Τελευταίο πρόγραμμα περιήγησης Google Chrome (σταθερό)</el>
-   <en>Latest Google Chrome browser (stable)</en>
-   <es>El último Google Chrome (estable)</es>
-   <et>Latest Google Chrome browser (stable)</et>
-   <eu>Latest Google Chrome browser (stable)</eu>
-   <fa>Latest Google Chrome browser (stable)</fa>
-   <fil_PH>Latest Google Chrome browser (stable)</fil_PH>
-   <fi>Latest Google Chrome browser (stable)</fi>
-   <fr>La dernière version de Google Chrome (stable)</fr>
-   <he_IL>Latest Google Chrome browser (stable)</he_IL>
-   <hi>Latest Google Chrome browser (stable)</hi>
-   <hr>Latest Google Chrome browser (stable)</hr>
-   <hu>Latest Google Chrome browser (stable)</hu>
-   <id>Latest Google Chrome browser (stable)</id>
-   <is>Latest Google Chrome browser (stable)</is>
-   <it>Ultima versione (stabile) del browser Google Chrome</it>
-   <ja_JP>Latest Google Chrome browser (stable)</ja_JP>
-   <ja>Latest Google Chrome browser (stable)</ja>
-   <kk>Latest Google Chrome browser (stable)</kk>
-   <ko>Latest Google Chrome browser (stable)</ko>
-   <lt>Latest Google Chrome browser (stable)</lt>
-   <mk>Latest Google Chrome browser (stable)</mk>
-   <mr>Latest Google Chrome browser (stable)</mr>
-   <nb>Latest Google Chrome browser (stable)</nb>
-   <nl>Meest recente Chrome browser (stable)</nl>
-   <pl>najnowsza przeglądarka Google Chrome (stabilna)</pl>
-   <pt_BR>Versão mais recente (estável) do navegador web Google Chrome</pt_BR>
-   <pt>Versão mais recente (estável) do navegador web Google Chrome</pt>
-   <ro>Latest Google Chrome browser (stable)</ro>
-   <ru>Браузер Google Chrome (последняя стабильная версия)</ru>
-   <sk>Posledný Google Chrome prehliadač (stabilný)</sk>
-   <sl>Zadnja različica googlovega Chrome brskalnika</sl>
-   <sq>Latest Google Chrome browser (stable)</sq>
-   <sr>Latest Google Chrome browser (stable)</sr>
-   <sv>SenasteGoogle Chrome webbläsare (stable)</sv>
-   <tr>Latest Google Chrome browser (stable)</tr>
-   <uk>Крайня стабільна версія браузера Google Chrome</uk>
-   <zh_CN>Latest Google Chrome browser (stable)</zh_CN>
-   <zh_TW>Latest Google Chrome browser (stable)</zh_TW>
+   <am>lightweight spreadsheet</am>
+   <ar>lightweight spreadsheet</ar>
+   <bg>lightweight spreadsheet</bg>
+   <ca>Full de càlcul lleuger</ca>
+   <cs>lightweight spreadsheet</cs>
+   <da>letvægts regneark</da>
+   <de>Leichtgewichtige Tabellenkalkulation</de>
+   <el>ελαφρύ υπολογιστικό φύλλο</el>
+   <en>lightweight spreadsheet</en>
+   <es>Hoja de cálculo ligera</es>
+   <et>lightweight spreadsheet</et>
+   <eu>lightweight spreadsheet</eu>
+   <fa>lightweight spreadsheet</fa>
+   <fi>lightweight spreadsheet</fi>
+   <fr>Tableur léger</fr>
+   <he_IL>lightweight spreadsheet</he_IL>
+   <hi>lightweight spreadsheet</hi>
+   <hr>lightweight spreadsheet</hr>
+   <hu>lightweight spreadsheet</hu>
+   <id>lightweight spreadsheet</id>
+   <is>lightweight spreadsheet</is>
+   <it>foglio di calcolo leggero</it>
+   <ja_JP>lightweight spreadsheet</ja_JP>
+   <ja>lightweight spreadsheet</ja>
+   <kk>lightweight spreadsheet</kk>
+   <ko>lightweight spreadsheet</ko>
+   <lt>lightweight spreadsheet</lt>
+   <mk>lightweight spreadsheet</mk>
+   <mr>lightweight spreadsheet</mr>
+   <nb>lightweight spreadsheet</nb>
+   <nl>lichtgewicht speadsheet</nl>
+   <pl>lekki arkusz kalkulacyjny</pl>
+   <pt_BR>Planilha simples e ligeira</pt_BR>
+   <pt>Folha de cálculo simples e ligeira</pt>
+   <ro>lightweight spreadsheet</ro>
+   <ru>Легковесный редактор электронных таблиц (включает основные функции Excel)</ru>
+   <sk>lightweight spreadsheet</sk>
+   <sl>lahka preglednica</sl>
+   <sq>lightweight spreadsheet</sq>
+   <sr>lightweight spreadsheet</sr>
+   <sv>lättvikts spreadsheet</sv>
+   <tr>lightweight spreadsheet</tr>
+   <uk>легкий табличний процесор</uk>
+   <zh_CN>lightweight spreadsheet</zh_CN>
+   <zh_TW>lightweight spreadsheet</zh_TW>
 </description>
 
 <installable>

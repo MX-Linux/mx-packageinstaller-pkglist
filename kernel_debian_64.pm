@@ -10,52 +10,51 @@ Debian 64 bit
 </name>
 
 <description>
-   <am>Debian Backports Kernel (32 bit No PAE)</am>
-   <ar>Debian Backports Kernel (32 bit No PAE)</ar>
-   <bg>Debian Backports Kernel (32 bit No PAE)</bg>
-   <ca>Kernel de Debian Backports (32 bit sense PAE)</ca>
-   <cs>Debian Backports Kernel (32 bit No PAE)</cs>
-   <da>Debian backports kerne (32 bit uden PAE)</da>
-   <de>Debian Backports Kernel (32 Bit ohne PAE)</de>
-   <el>Debian Backports Kernel (32 bit χωρίς PAE)</el>
-   <en>Debian Backports Kernel (32 bit No PAE)</en>
-   <es>Debian Backports Kernel (32 bit No PAE)</es>
-   <et>Debian Backports Kernel (32 bit No PAE)</et>
-   <eu>Debian Backports Kernel (32 bit No PAE)</eu>
-   <fa>Debian Backports Kernel (32 bit No PAE)</fa>
-   <fil_PH>Debian Backports Kernel (32 bit No PAE)</fil_PH>
-   <fi>Debian Backports Kernel (32 bit No PAE)</fi>
-   <fr>Noyau Debian Backports (32 bit No PAE)</fr>
-   <he_IL>Debian Backports Kernel (32 bit No PAE)</he_IL>
-   <hi>Debian Backports Kernel (32 bit No PAE)</hi>
-   <hr>Debian Backports Kernel (32 bit No PAE)</hr>
-   <hu>Debian Backports Kernel (32 bit No PAE)</hu>
-   <id>Debian Backports Kernel (32 bit No PAE)</id>
-   <is>Debian Backports Kernel (32 bit No PAE)</is>
-   <it>Debian Backports Kernel (32 bit No PAE)</it>
-   <ja_JP>Debian Backports Kernel (32 bit No PAE)</ja_JP>
-   <ja>Debian Backports Kernel (32 bit No PAE)</ja>
-   <kk>Debian Backports Kernel (32 bit No PAE)</kk>
-   <ko>Debian Backports Kernel (32 bit No PAE)</ko>
-   <lt>Debian Backports Kernel (32 bit No PAE)</lt>
-   <mk>Debian Backports Kernel (32 bit No PAE)</mk>
-   <mr>Debian Backports Kernel (32 bit No PAE)</mr>
-   <nb>Debian Backports Kernel (32 bit No PAE)</nb>
-   <nl>Debian Backports Kernel (32 bit Geen PAE)</nl>
-   <pl>Debian Backports Kernel (32 bit No PAE)</pl>
-   <pt_BR>Debian Backports Kernel (32 bit No PAE)</pt_BR>
-   <pt>Núcleo (kernel) do Debian Backports (32 bit No PAE)</pt>
-   <ro>Debian Backports Kernel (32 bit No PAE)</ro>
-   <ru>Debian ядро Backports, 32 bit no-PAE</ru>
-   <sk>Debian Backports Kernel (32 bit No PAE)</sk>
-   <sl>Privzeti Backports Kernel (32 bit No PAE)</sl>
-   <sq>Debian Backports Kernel (32 bit No PAE)</sq>
-   <sr>Debian Backports Kernel (32 bit No PAE)</sr>
-   <sv>Debian Backports Kärna (32 bit No PAE)</sv>
-   <tr>Debian Backports Kernel (32 bit No PAE)</tr>
-   <uk>Debian Backports Kernel (32 bit No PAE)</uk>
-   <zh_CN>Debian Backports Kernel (32 bit No PAE)</zh_CN>
-   <zh_TW>Debian Backports Kernel (32 bit No PAE)</zh_TW>
+   <am>Default Debian kernel Meltdown patched, 64bit</am>
+   <ar>Default Debian kernel Meltdown patched, 64bit</ar>
+   <bg>Default Debian kernel Meltdown patched, 64bit</bg>
+   <ca>Nucli de Debian 64 bit, amb pedaç per Meltdown</ca>
+   <cs>Default Debian kernel Meltdown patched, 64bit</cs>
+   <da>Standard Debian kerne meltdown-rettelse, 64bit</da>
+   <de>Standard Debian Kernel Meltdown gepatcht, 64bit</de>
+   <el>Προκαθορισμένο Debian πυρήνα Meltdown patched, 64bit</el>
+   <en>Default Debian kernel Meltdown patched, 64bit</en>
+   <es>kernel antiX con parche Meltdown y Spectre, 64 bit</es>
+   <et>Default Debian kernel Meltdown patched, 64bit</et>
+   <eu>Default Debian kernel Meltdown patched, 64bit</eu>
+   <fa>Default Debian kernel Meltdown patched, 64bit</fa>
+   <fi>Default Debian kernel Meltdown patched, 64bit</fi>
+   <fr>Noyau Debian correctifs Meltdown, 64bit</fr>
+   <he_IL>Default Debian kernel Meltdown patched, 64bit</he_IL>
+   <hi>Default Debian kernel Meltdown patched, 64bit</hi>
+   <hr>Default Debian kernel Meltdown patched, 64bit</hr>
+   <hu>Default Debian kernel Meltdown patched, 64bit</hu>
+   <id>Default Debian kernel Meltdown patched, 64bit</id>
+   <is>Default Debian kernel Meltdown patched, 64bit</is>
+   <it>Default Debian kernel con la patch per Meltdown, 64bit</it>
+   <ja_JP>Default Debian kernel Meltdown patched, 64bit</ja_JP>
+   <ja>Default Debian kernel Meltdown patched, 64bit</ja>
+   <kk>Default Debian kernel Meltdown patched, 64bit</kk>
+   <ko>Default Debian kernel Meltdown patched, 64bit</ko>
+   <lt>Default Debian kernel Meltdown patched, 64bit</lt>
+   <mk>Default Debian kernel Meltdown patched, 64bit</mk>
+   <mr>Default Debian kernel Meltdown patched, 64bit</mr>
+   <nb>Default Debian kernel Meltdown patched, 64bit</nb>
+   <nl>Standaard Debian kernel Meltdown patched, 64bit</nl>
+   <pl>domyślny Debian kernel Meltdown patched, 64bit</pl>
+   <pt_BR>Default Debian kernel Meltdown patched, 64bit</pt_BR>
+   <pt>Núcleo padrão Debian com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
+   <ro>Default Debian kernel Meltdown patched, 64bit</ro>
+   <ru>Debian ядро по умолчанию с патчем от Meltdown, 64bit</ru>
+   <sk>Default Debian kernel Meltdown patched, 64bit</sk>
+   <sl>Privzeti Debian kernel Meltdown patched, 64bit</sl>
+   <sq>Default Debian kernel Meltdown patched, 64bit</sq>
+   <sr>Default Debian kernel Meltdown patched, 64bit</sr>
+   <sv>Standard Debian kärna Meltdown patched, 64bit</sv>
+   <tr>Default Debian kernel Meltdown patched, 64bit</tr>
+   <uk>Default Debian kernel Meltdown patched, 64bit</uk>
+   <zh_CN>Default Debian kernel Meltdown patched, 64bit</zh_CN>
+   <zh_TW>Default Debian kernel Meltdown patched, 64bit</zh_TW>
 </description>
 
 <installable>

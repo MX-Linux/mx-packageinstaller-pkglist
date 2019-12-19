@@ -10,52 +10,51 @@ Romanian_Libreoffice
 </name>
 
 <description>
-   <am>Romanian Language Meta-Package</am>
-   <ar>Romanian Language Meta-Package</ar>
-   <bg>Romanian Language Meta-Package</bg>
-   <ca>Meta-paquet de llengua en Romanès</ca>
-   <cs>Romanian Language Meta-Package</cs>
-   <da>Rumænsk sprog-metapakke</da>
-   <de>Rumänisches Sprach-Meta-Paket</de>
-   <el>Ρουμανική γλώσσα</el>
-   <en>Romanian Language Meta-Package</en>
-   <es>Meta-Paquete de Idioma Rumano</es>
-   <et>Romanian Language Meta-Package</et>
-   <eu>Romanian Language Meta-Package</eu>
-   <fa>Romanian Language Meta-Package</fa>
-   <fil_PH>Romanian Language Meta-Package</fil_PH>
-   <fi>Romanian Language Meta-Package</fi>
-   <fr>Méta-paquet pour langue roumaine</fr>
-   <he_IL>Romanian Language Meta-Package</he_IL>
-   <hi>Romanian Language Meta-Package</hi>
-   <hr>Romanian Language Meta-Package</hr>
-   <hu>Romanian Language Meta-Package</hu>
-   <id>Romanian Language Meta-Package</id>
-   <is>Romanian Language Meta-Package</is>
-   <it>Meta-pacchetto della lingua rumena</it>
-   <ja_JP>Romanian Language Meta-Package</ja_JP>
-   <ja>Romanian Language Meta-Package</ja>
-   <kk>Romanian Language Meta-Package</kk>
-   <ko>Romanian Language Meta-Package</ko>
-   <lt>Romanian Language Meta-Package</lt>
-   <mk>Romanian Language Meta-Package</mk>
-   <mr>Romanian Language Meta-Package</mr>
-   <nb>Romanian Language Meta-Package</nb>
-   <nl>Roemeense Taal Meta-Pakket</nl>
-   <pl>Rumuński metapakiet językowy</pl>
-   <pt_BR>Romeno Meta-Pacote de Idioma</pt_BR>
-   <pt>Romeno Meta-Pacote de Idioma</pt>
-   <ro>Romanian Language Meta-Package</ro>
-   <ru>Romanian Language Meta-Package</ru>
-   <sk>Romanian Language Meta-Package</sk>
-   <sl>Romanian Language Meta-Package</sl>
-   <sq>Romanian Language Meta-Package</sq>
-   <sr>Romanian Language Meta-Package</sr>
-   <sv>Rumänskt Språk-Meta-Paket</sv>
-   <tr>Romanian Language Meta-Package</tr>
-   <uk>Romanian Language Meta-Package</uk>
-   <zh_CN>Romanian Language Meta-Package</zh_CN>
-   <zh_TW>Romanian Language Meta-Package</zh_TW>
+   <am>Romanian Language Meta-Package for LibreOffice</am>
+   <ar>Romanian Language Meta-Package for LibreOffice</ar>
+   <bg>Romanian Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet de llengua per LibreOffice en Romanès</ca>
+   <cs>Romanian Language Meta-Package for LibreOffice</cs>
+   <da>Rumænsk sprog-metapakke til LibreOffice</da>
+   <de>Rumänisches Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Ρουμανικά</el>
+   <en>Romanian Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Rumano para LibreOffice</es>
+   <et>Romanian Language Meta-Package for LibreOffice</et>
+   <eu>Romanian Language Meta-Package for LibreOffice</eu>
+   <fa>Romanian Language Meta-Package for LibreOffice</fa>
+   <fi>Romanian Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue roumaine pour LibreOffice</fr>
+   <he_IL>Romanian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Romanian Language Meta-Package for LibreOffice</hi>
+   <hr>Romanian Language Meta-Package for LibreOffice</hr>
+   <hu>Romanian Language Meta-Package for LibreOffice</hu>
+   <id>Romanian Language Meta-Package for LibreOffice</id>
+   <is>Romanian Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua rumena per LibreOffice</it>
+   <ja_JP>Romanian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Romanian Language Meta-Package for LibreOffice</ja>
+   <kk>Romanian Language Meta-Package for LibreOffice</kk>
+   <ko>Romanian Language Meta-Package for LibreOffice</ko>
+   <lt>Romanian Language Meta-Package for LibreOffice</lt>
+   <mk>Romanian Language Meta-Package for LibreOffice</mk>
+   <mr>Romanian Language Meta-Package for LibreOffice</mr>
+   <nb>Romanian Language Meta-Package for LibreOffice</nb>
+   <nl>Roemeense Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Rumuński metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Romeno Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Romeno Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Romanian Language Meta-Package for LibreOffice</ro>
+   <ru>Romanian Language Meta-Package for LibreOffice</ru>
+   <sk>Romanian Language Meta-Package for LibreOffice</sk>
+   <sl>Romanian Language Meta-Package for LibreOffice</sl>
+   <sq>Romanian Language Meta-Package for LibreOffice</sq>
+   <sr>Romanian Language Meta-Package for LibreOffice</sr>
+   <sv>Rumänskt Språk Meta-Paket för LibreOffice </sv>
+   <tr>Romanian Language Meta-Package for LibreOffice</tr>
+   <uk>Romanian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Romanian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Romanian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

@@ -10,52 +10,51 @@ Finnish_Firefox
 </name>
 
 <description>
-   <am>Finnish Language Meta-Package for LibreOffice</am>
-   <ar>Finnish Language Meta-Package for LibreOffice</ar>
-   <bg>Finnish Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Finès per LibreOffice</ca>
-   <cs>Finnish Language Meta-Package for LibreOffice</cs>
-   <da>Finnish Language Meta-Package for LibreOffice</da>
-   <de>Finnisches Meta-Paket für LibreOffice</de>
-   <el>Finnish Language Meta-Package for LibreOffice</el>
-   <en>Finnish Language Meta-Package for LibreOffice</en>
-   <es>Meta Paquete de idioma finlandés para LibreOffice</es>
-   <et>Finnish Language Meta-Package for LibreOffice</et>
-   <eu>Finnish Language Meta-Package for LibreOffice</eu>
-   <fa>Finnish Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Finnish Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Finnish Language Meta-Package for LibreOffice</fi>
-   <fr>Finnish Language Meta-Package for LibreOffice</fr>
-   <he_IL>Finnish Language Meta-Package for LibreOffice</he_IL>
-   <hi>Finnish Language Meta-Package for LibreOffice</hi>
-   <hr>Finnish Language Meta-Package for LibreOffice</hr>
-   <hu>Finnish Language Meta-Package for LibreOffice</hu>
-   <id>Finnish Language Meta-Package for LibreOffice</id>
-   <is>Finnish Language Meta-Package for LibreOffice</is>
-   <it>Finnish Language Meta-Package for LibreOffice</it>
-   <ja_JP>Finnish Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Finnish Language Meta-Package for LibreOffice</ja>
-   <kk>Finnish Language Meta-Package for LibreOffice</kk>
-   <ko>Finnish Language Meta-Package for LibreOffice</ko>
-   <lt>Finnish Language Meta-Package for LibreOffice</lt>
-   <mk>Finnish Language Meta-Package for LibreOffice</mk>
-   <mr>Finnish Language Meta-Package for LibreOffice</mr>
-   <nb>Finnish Language Meta-Package for LibreOffice</nb>
-   <nl>Finnish Language Meta-Package for LibreOffice</nl>
-   <pl>Finnish Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Finnish Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Finlandês Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Finnish Language Meta-Package for LibreOffice</ro>
-   <ru>Finnish Language Meta-Package for LibreOffice</ru>
-   <sk>Finnish Language Meta-Package for LibreOffice</sk>
-   <sl>Finska jezikovni meta-paket za LibreOffice</sl>
-   <sq>Finnish Language Meta-Package for LibreOffice</sq>
-   <sr>Finnish Language Meta-Package for LibreOffice</sr>
-   <sv>Finskt Språk Meta-Paket för LibreOffice</sv>
-   <tr>Finnish Language Meta-Package for LibreOffice</tr>
-   <uk>Finnish Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Finnish Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Finnish Language Meta-Package for LibreOffice</zh_TW>
+   <am>Finnish localisation of Firefox</am>
+   <ar>Finnish localisation of Firefox</ar>
+   <bg>Finnish localisation of Firefox</bg>
+   <ca>Localització de Firefox en Finès</ca>
+   <cs>Finnish localisation of Firefox</cs>
+   <da>Finsk oversættelse af Firefox</da>
+   <de>Finnische Lokalisierung von Firefox</de>
+   <el>Φινλανδικός εντοπισμός του Firefox</el>
+   <en>Finnish localisation of Firefox</en>
+   <es>Localización Finlandesa de Firefox</es>
+   <et>Finnish localisation of Firefox</et>
+   <eu>Finnish localisation of Firefox</eu>
+   <fa>Finnish localisation of Firefox</fa>
+   <fi>Finnish localisation of Firefox</fi>
+   <fr>Localisation finlandaise pour Firefox</fr>
+   <he_IL>Finnish localisation of Firefox</he_IL>
+   <hi>Finnish localisation of Firefox</hi>
+   <hr>Finnish localisation of Firefox</hr>
+   <hu>Finnish localisation of Firefox</hu>
+   <id>Finnish localisation of Firefox</id>
+   <is>Finnish localisation of Firefox</is>
+   <it>Localizzazione finlandese di Firefox</it>
+   <ja_JP>Finnish localisation of Firefox</ja_JP>
+   <ja>Finnish localisation of Firefox</ja>
+   <kk>Finnish localisation of Firefox</kk>
+   <ko>Finnish localisation of Firefox</ko>
+   <lt>Finnish localisation of Firefox</lt>
+   <mk>Finnish localisation of Firefox</mk>
+   <mr>Finnish localisation of Firefox</mr>
+   <nb>Finnish localisation of Firefox</nb>
+   <nl>Finse lokalisatie van Firefox</nl>
+   <pl>Fińska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Finlandês Localização para Firefox</pt_BR>
+   <pt>Finlandês Localização para Firefox</pt>
+   <ro>Finnish localisation of Firefox</ro>
+   <ru>Финская локализация Firefox</ru>
+   <sk>Finnish localisation of Firefox</sk>
+   <sl>Finnish localisation of Firefox</sl>
+   <sq>Finnish localisation of Firefox</sq>
+   <sr>Finnish localisation of Firefox</sr>
+   <sv>Finsk lokalisering av Firefox</sv>
+   <tr>Finnish localisation of Firefox</tr>
+   <uk>Finnish локалізація Firefox</uk>
+   <zh_CN>Finnish localisation of Firefox</zh_CN>
+   <zh_TW>Finnish localisation of Firefox</zh_TW>
 </description>
 
 <installable>

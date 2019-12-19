@@ -10,52 +10,51 @@ Evince
 </name>
 
 <description>
-   <am>evolvere icons (vibrant)</am>
-   <ar>evolvere icons (vibrant)</ar>
-   <bg>evolvere icons (vibrant)</bg>
-   <ca>icones evolvere (vibrants)</ca>
-   <cs>evolvere icons (vibrant)</cs>
-   <da>evolvere-ikoner (farverige)</da>
-   <de>Symbolthema Evolvere</de>
-   <el>εικονίδια evolvere (ζωντανή)</el>
-   <en>evolvere icons (vibrant)</en>
-   <es>iconos evolvere (vibrante)</es>
-   <et>evolvere icons (vibrant)</et>
-   <eu>evolvere icons (vibrant)</eu>
-   <fa>evolvere icons (vibrant)</fa>
-   <fil_PH>evolvere icons (vibrant)</fil_PH>
-   <fi>evolvere icons (vibrant)</fi>
-   <fr>icônes evolvere (dynamiques)</fr>
-   <he_IL>evolvere icons (vibrant)</he_IL>
-   <hi>evolvere icons (vibrant)</hi>
-   <hr>evolvere icons (vibrant)</hr>
-   <hu>evolvere icons (vibrant)</hu>
-   <id>evolvere icons (vibrant)</id>
-   <is>evolvere icons (vibrant)</is>
-   <it>icone evolvere (vibrant)</it>
-   <ja_JP>evolvere icons (vibrant)</ja_JP>
-   <ja>evolvere icons (vibrant)</ja>
-   <kk>evolvere icons (vibrant)</kk>
-   <ko>evolvere icons (vibrant)</ko>
-   <lt>evolvere icons (vibrant)</lt>
-   <mk>evolvere icons (vibrant)</mk>
-   <mr>evolvere icons (vibrant)</mr>
-   <nb>evolvere icons (vibrant)</nb>
-   <nl>evolvere iconen (levendig)</nl>
-   <pl>ikony evolvere (vibrant)</pl>
-   <pt_BR>Ícones evolvere (vibrant)</pt_BR>
-   <pt>Ícones evolvere (vibrant)</pt>
-   <ro>evolvere icons (vibrant)</ro>
-   <ru>Значки evolvere (яркие)</ru>
-   <sk>evolvere icons (vibrant)</sk>
-   <sl>evlovere ikone (žive)</sl>
-   <sq>evolvere icons (vibrant)</sq>
-   <sr>evolvere icons (vibrant)</sr>
-   <sv>evolvere ikoner (lysande)</sv>
-   <tr>evolvere icons (vibrant)</tr>
-   <uk>evolvere icons (vibrant)</uk>
-   <zh_CN>evolvere icons (vibrant)</zh_CN>
-   <zh_TW>evolvere icons (vibrant)</zh_TW>
+   <am>a simple document (PostScript, PDF) viewer</am>
+   <ar>a simple document (PostScript, PDF) viewer</ar>
+   <bg>a simple document (PostScript, PDF) viewer</bg>
+   <ca>senzill visor de documents (PDF, Postscript)</ca>
+   <cs>a simple document (PostScript, PDF) viewer</cs>
+   <da>en simpel dokumentfremviser (PostScript, PDF)</da>
+   <de>Ein einfacher Dokumentenbetrachter (PostScript, PDF)</de>
+   <el>ένα απλό πρόγραμμα προβολής (PostScript, PDF)</el>
+   <en>a simple document (PostScript, PDF) viewer</en>
+   <es>Visor de documentos (PostScript, PDF) sencillo</es>
+   <et>a simple document (PostScript, PDF) viewer</et>
+   <eu>a simple document (PostScript, PDF) viewer</eu>
+   <fa>a simple document (PostScript, PDF) viewer</fa>
+   <fi>a simple document (PostScript, PDF) viewer</fi>
+   <fr>Visionneuse simple de documents (PostScript, PDF)</fr>
+   <he_IL>a simple document (PostScript, PDF) viewer</he_IL>
+   <hi>a simple document (PostScript, PDF) viewer</hi>
+   <hr>a simple document (PostScript, PDF) viewer</hr>
+   <hu>a simple document (PostScript, PDF) viewer</hu>
+   <id>a simple document (PostScript, PDF) viewer</id>
+   <is>a simple document (PostScript, PDF) viewer</is>
+   <it>Un semplice visualizzatore di documenti (PostScript, PDF)</it>
+   <ja_JP>a simple document (PostScript, PDF) viewer</ja_JP>
+   <ja>a simple document (PostScript, PDF) viewer</ja>
+   <kk>a simple document (PostScript, PDF) viewer</kk>
+   <ko>a simple document (PostScript, PDF) viewer</ko>
+   <lt>paprasta dokumentų (PostScript, PDF) žiūryklė</lt>
+   <mk>a simple document (PostScript, PDF) viewer</mk>
+   <mr>a simple document (PostScript, PDF) viewer</mr>
+   <nb>a simple document (PostScript, PDF) viewer</nb>
+   <nl>een eenvoudige document (PostScript, PDF) lezer</nl>
+   <pl>prosta przeglądarka dokumentów (PostScript, PDF)</pl>
+   <pt_BR>Visualizador de documentos (PostScript, PDF) simples e de fácil utilização</pt_BR>
+   <pt>Visualizador de documentos (PostScript, PDF) simples e de fácil utilização</pt>
+   <ro>a simple document (PostScript, PDF) viewer</ro>
+   <ru>Просмотрщик документов PostScript, PDF</ru>
+   <sk>a simple document (PostScript, PDF) viewer</sk>
+   <sl>preprost pregledovalnik dokumentov (PostScript, PDF)</sl>
+   <sq>a simple document (PostScript, PDF) viewer</sq>
+   <sr>a simple document (PostScript, PDF) viewer</sr>
+   <sv>en enkel dokument (PostScript, PDF) läsare</sv>
+   <tr>a simple document (PostScript, PDF) viewer</tr>
+   <uk>простий переглядач документів (PostScript, PDF)</uk>
+   <zh_CN>a simple document (PostScript, PDF) viewer</zh_CN>
+   <zh_TW>a simple document (PostScript, PDF) viewer</zh_TW>
 </description>
 
 <installable>

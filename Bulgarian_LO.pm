@@ -10,52 +10,51 @@ Bulgarian_Libreoffice
 </name>
 
 <description>
-   <am>Bulgarian localisation of Thunderbird</am>
-   <ar>Bulgarian localisation of Thunderbird</ar>
-   <bg>Bulgarian localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Búlgar</ca>
-   <cs>Bulgarian localisation of Thunderbird</cs>
-   <da>Bulgarsk oversættelse af Thunderbird</da>
-   <de>Bulgarische Lokalisierung von Thunderbird</de>
-   <el>Βουλγαρικό εντοπισμό του Thunderbird</el>
-   <en>Bulgarian localisation of Thunderbird</en>
-   <es>Localización Búlgaro de Thunderbird</es>
-   <et>Bulgarian localisation of Thunderbird</et>
-   <eu>Bulgarian localisation of Thunderbird</eu>
-   <fa>Bulgarian localisation of Thunderbird</fa>
-   <fil_PH>Bulgarian localisation of Thunderbird</fil_PH>
-   <fi>Bulgarian localisation of Thunderbird</fi>
-   <fr>Localisation bulgare pour Thunderbird</fr>
-   <he_IL>Bulgarian localisation of Thunderbird</he_IL>
-   <hi>Bulgarian localisation of Thunderbird</hi>
-   <hr>Bulgarian localisation of Thunderbird</hr>
-   <hu>Bulgarian localisation of Thunderbird</hu>
-   <id>Bulgarian localisation of Thunderbird</id>
-   <is>Bulgarian localisation of Thunderbird</is>
-   <it>Localizzazione bulgara di Thunderbird</it>
-   <ja_JP>Bulgarian localisation of Thunderbird</ja_JP>
-   <ja>Bulgarian localisation of Thunderbird</ja>
-   <kk>Bulgarian localisation of Thunderbird</kk>
-   <ko>Bulgarian localisation of Thunderbird</ko>
-   <lt>Bulgarian localisation of Thunderbird</lt>
-   <mk>Bulgarian localisation of Thunderbird</mk>
-   <mr>Bulgarian localisation of Thunderbird</mr>
-   <nb>Bulgarian localisation of Thunderbird</nb>
-   <nl>Bulgaarse lokalisatie van Thunderbird</nl>
-   <pl>Bułgarska lokalizacja Thunderbirda</pl>
-   <pt_BR>Búlgaro Localização para Thunderbird</pt_BR>
-   <pt>Búlgaro Localização para Thunderbird</pt>
-   <ro>Bulgarian localisation of Thunderbird</ro>
-   <ru>Bulgarian localisation of Thunderbird</ru>
-   <sk>Bulgarian localisation of Thunderbird</sk>
-   <sl>Bulgarian localisation of Thunderbird</sl>
-   <sq>Bulgarian localisation of Thunderbird</sq>
-   <sr>Bulgarian localisation of Thunderbird</sr>
-   <sv>Bulgarisk lokalisering av  Thunderbird</sv>
-   <tr>Thunderbird'ün Bulgarca yerelleştirmesi</tr>
-   <uk>Bulgarian локалізація Thunderbird</uk>
-   <zh_CN>Bulgarian localisation of Thunderbird</zh_CN>
-   <zh_TW>Bulgarian localisation of Thunderbird</zh_TW>
+   <am>Bulgarian Language Meta-Package for LibreOffice</am>
+   <ar>Bulgarian Language Meta-Package for LibreOffice</ar>
+   <bg>Bulgarian Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Bulgarian per LibreOffice</ca>
+   <cs>Bulgarian Language Meta-Package for LibreOffice</cs>
+   <da>Bulgarian sprog-metapakke til LibreOffice</da>
+   <de>Bulgarian Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Bulgarian</el>
+   <en>Bulgarian Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Bulgarian para LibreOffice</es>
+   <et>Bulgarian Language Meta-Package for LibreOffice</et>
+   <eu>Bulgarian Language Meta-Package for LibreOffice</eu>
+   <fa>Bulgarian Language Meta-Package for LibreOffice</fa>
+   <fi>Bulgarian Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Bulgarian pour LibreOffice</fr>
+   <he_IL>Bulgarian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Bulgarian Language Meta-Package for LibreOffice</hi>
+   <hr>Bulgarian Language Meta-Package for LibreOffice</hr>
+   <hu>Bulgarian Language Meta-Package for LibreOffice</hu>
+   <id>Bulgarian Language Meta-Package for LibreOffice</id>
+   <is>Bulgarian Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Bulgarian per LibreOffice</it>
+   <ja_JP>Bulgarian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Bulgarian Language Meta-Package for LibreOffice</ja>
+   <kk>Bulgarian Language Meta-Package for LibreOffice</kk>
+   <ko>Bulgarian Language Meta-Package for LibreOffice</ko>
+   <lt>Bulgarian Language Meta-Package for LibreOffice</lt>
+   <mk>Bulgarian Language Meta-Package for LibreOffice</mk>
+   <mr>Bulgarian Language Meta-Package for LibreOffice</mr>
+   <nb>Bulgarian Language Meta-Package for LibreOffice</nb>
+   <nl>Bulgarian Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Bulgarian metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Bulgarian Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Bulgarian Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Bulgarian Language Meta-Package for LibreOffice</ro>
+   <ru>Bulgarian Language Meta-Package for LibreOffice</ru>
+   <sk>Bulgarian Language Meta-Package for LibreOffice</sk>
+   <sl>Bulgarian Language Meta-Package for LibreOffice</sl>
+   <sq>Bulgarian Language Meta-Package for LibreOffice</sq>
+   <sr>Bulgarian Language Meta-Package for LibreOffice</sr>
+   <sv>Bulgarian Språk Meta-Paket för LibreOffice</sv>
+   <tr>Bulgarian Language Meta-Package for LibreOffice</tr>
+   <uk>Bulgarian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Bulgarian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Bulgarian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

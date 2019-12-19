@@ -10,52 +10,51 @@ Ukrainian_Fonts
 </name>
 
 <description>
-   <am>Ukrainian localisation of LibreOffice</am>
-   <ar>Ukrainian localisation of LibreOffice</ar>
-   <bg>Ukrainian localisation of LibreOffice</bg>
-   <ca>Localització de LibreOffice en Ucrainès</ca>
-   <cs>Ukrainian localisation of LibreOffice</cs>
-   <da>Ukrainsk oversættelse af LibreOffice</da>
-   <de>Ukrainische Lokalisierung von LibreOffice</de>
-   <el>LibreOffice στην ουκρανική γλώσσα</el>
-   <en>Ukrainian localisation of LibreOffice</en>
-   <es>Localización Ucraniana de LibreOffice</es>
-   <et>Ukrainian localisation of LibreOffice</et>
-   <eu>Ukrainian localisation of LibreOffice</eu>
-   <fa>Ukrainian localisation of LibreOffice</fa>
-   <fil_PH>Ukrainian localisation of LibreOffice</fil_PH>
-   <fi>Ukrainian localisation of LibreOffice</fi>
-   <fr>Localisation ukrainienne pour LibreOffice</fr>
-   <he_IL>Ukrainian localisation of LibreOffice</he_IL>
-   <hi>Ukrainian localisation of LibreOffice</hi>
-   <hr>Ukrainian localisation of LibreOffice</hr>
-   <hu>Ukrainian localisation of LibreOffice</hu>
-   <id>Ukrainian localisation of LibreOffice</id>
-   <is>Ukrainian localisation of LibreOffice</is>
-   <it>Localizzazione ucraina di LibreOffice</it>
-   <ja_JP>Ukrainian localisation of LibreOffice</ja_JP>
-   <ja>Ukrainian localisation of LibreOffice</ja>
-   <kk>Ukrainian localisation of LibreOffice</kk>
-   <ko>Ukrainian localisation of LibreOffice</ko>
-   <lt>Ukrainian localisation of LibreOffice</lt>
-   <mk>Ukrainian localisation of LibreOffice</mk>
-   <mr>Ukrainian localisation of LibreOffice</mr>
-   <nb>Ukrainian localisation of LibreOffice</nb>
-   <nl>Oekraïense lokalisatie van LibreOffice</nl>
-   <pl>Ukraińska lokalizacja LibreOffice</pl>
-   <pt_BR>Ucraniano Localização para LibreOffice</pt_BR>
-   <pt>Ucraniano Localização para LibreOffice</pt>
-   <ro>Ukrainian localisation of LibreOffice</ro>
-   <ru>Ukrainian localisation of LibreOffice</ru>
-   <sk>Ukrainian localisation of LibreOffice</sk>
-   <sl>Ukrainian localisation of LibreOffice</sl>
-   <sq>Ukrainian localisation of LibreOffice</sq>
-   <sr>Ukrainian localisation of LibreOffice</sr>
-   <sv>Ukrainsk lokalisering av LibreOffice</sv>
-   <tr>LibreOffice Ukraynaca yerelleştirmesi</tr>
-   <uk>Ukrainian localisation of LibreOffice</uk>
-   <zh_CN>Ukrainian localisation of LibreOffice</zh_CN>
-   <zh_TW>Ukrainian localisation of LibreOffice</zh_TW>
+   <am>Ukrainian fonts packages</am>
+   <ar>Ukrainian fonts packages</ar>
+   <bg>Ukrainian fonts packages</bg>
+   <ca>Paquets de tipus de lletra Ciríl·lics (Ucrainès)</ca>
+   <cs>Ukrainian fonts packages</cs>
+   <da>Ukrainsk skrifttyper-pakke</da>
+   <de>Ukrainische Schriftenpakete</de>
+   <el>Ουκρανικά πακέτα γραμματοσειρών</el>
+   <en>Ukrainian fonts packages</en>
+   <es>Paquetes de fuentes ucranianas</es>
+   <et>Ukrainian fonts packages</et>
+   <eu>Ukrainian fonts packages</eu>
+   <fa>Ukrainian fonts packages</fa>
+   <fi>Ukrainian fonts packages</fi>
+   <fr>Paquets pour polices ukrainiennes</fr>
+   <he_IL>Ukrainian fonts packages</he_IL>
+   <hi>Ukrainian fonts packages</hi>
+   <hr>Ukrainian fonts packages</hr>
+   <hu>Ukrainian fonts packages</hu>
+   <id>Ukrainian fonts packages</id>
+   <is>Ukrainian fonts packages</is>
+   <it>Pacchetti di fonts per l'Ucraino</it>
+   <ja_JP>Ukrainian fonts packages</ja_JP>
+   <ja>Ukrainian fonts packages</ja>
+   <kk>Ukrainian fonts packages</kk>
+   <ko>Ukrainian fonts packages</ko>
+   <lt>Ukrainian fonts packages</lt>
+   <mk>Ukrainian fonts packages</mk>
+   <mr>Ukrainian fonts packages</mr>
+   <nb>Ukrainian fonts packages</nb>
+   <nl>Oekraïense font pakketten</nl>
+   <pl>pakiety z ukraińskimi fontami (czcionkami)</pl>
+   <pt_BR>Ucraniano Pacotes de fontes</pt_BR>
+   <pt>Ucraniano Pacotes de fontes</pt>
+   <ro>Ukrainian fonts packages</ro>
+   <ru>Ukrainian fonts packages</ru>
+   <sk>Ukrainian fonts packages</sk>
+   <sl>Ukrainian fonts packages</sl>
+   <sq>Ukrainian fonts packages</sq>
+   <sr>Ukrainian fonts packages</sr>
+   <sv>Ukrainska typsnitts-paket</sv>
+   <tr>Ukrainian fonts packages</tr>
+   <uk>Ukrainian fonts packages</uk>
+   <zh_CN>Ukrainian fonts packages</zh_CN>
+   <zh_TW>Ukrainian fonts packages</zh_TW>
 </description>
 
 <installable>

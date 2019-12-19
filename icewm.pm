@@ -10,52 +10,51 @@ IceWM
 </name>
 
 <description>
-   <am>a software suite to create, edit, and compose bitmap images</am>
-   <ar>a software suite to create, edit, and compose bitmap images</ar>
-   <bg>a software suite to create, edit, and compose bitmap images</bg>
-   <ca>Programari per crear, editar i compondre imatges de mapa de bits</ca>
-   <cs>a software suite to create, edit, and compose bitmap images</cs>
-   <da>en softwarepake til at oprette, redigere og komponere bitmap-billeder</da>
-   <de>Eine Software-Suite zum Erstellen, Bearbeiten und Komponieren von Bitmap-Bildern</de>
-   <el>μια σουίτα λογισμικού για τη δημιουργία, επεξεργασία και σύνθεση εικόνων bitmap</el>
-   <en>a software suite to create, edit, and compose bitmap images</en>
-   <es>Un paquete de software para crear, editar y componer imágenes de mapa de bits.</es>
-   <et>a software suite to create, edit, and compose bitmap images</et>
-   <eu>a software suite to create, edit, and compose bitmap images</eu>
-   <fa>a software suite to create, edit, and compose bitmap images</fa>
-   <fil_PH>a software suite to create, edit, and compose bitmap images</fil_PH>
-   <fi>a software suite to create, edit, and compose bitmap images</fi>
-   <fr>Une suite logicielle pour créer et modifier des images bitmap</fr>
-   <he_IL>a software suite to create, edit, and compose bitmap images</he_IL>
-   <hi>a software suite to create, edit, and compose bitmap images</hi>
-   <hr>a software suite to create, edit, and compose bitmap images</hr>
-   <hu>a software suite to create, edit, and compose bitmap images</hu>
-   <id>a software suite to create, edit, and compose bitmap images</id>
-   <is>a software suite to create, edit, and compose bitmap images</is>
-   <it>una suite di programmi per creare, modificare e comporre immagini bitmap</it>
-   <ja_JP>a software suite to create, edit, and compose bitmap images</ja_JP>
-   <ja>a software suite to create, edit, and compose bitmap images</ja>
-   <kk>a software suite to create, edit, and compose bitmap images</kk>
-   <ko>a software suite to create, edit, and compose bitmap images</ko>
-   <lt>a software suite to create, edit, and compose bitmap images</lt>
-   <mk>a software suite to create, edit, and compose bitmap images</mk>
-   <mr>a software suite to create, edit, and compose bitmap images</mr>
-   <nb>a software suite to create, edit, and compose bitmap images</nb>
-   <nl>een softwaresuite voor het maken, bewerken en samenstellen van bitmapafbeeldingen</nl>
-   <pl>pakiet oprogramowania do tworzenia, edycji i komponowania grafiki bitmapowej (rastrowej)</pl>
-   <pt_BR>Conjunto de programas para criar, editar, e compôr imagens bitmap</pt_BR>
-   <pt>Conjunto de programas para criar, editar, e compôr imagens bitmap</pt>
-   <ro>a software suite to create, edit, and compose bitmap images</ro>
-   <ru>Набор утилит для чтения и редактирования множества графических форматов</ru>
-   <sk>a software suite to create, edit, and compose bitmap images</sk>
-   <sl>Programski paket za ustvarjanje, urejanje in snovanje bitnih slik</sl>
-   <sq>a software suite to create, edit, and compose bitmap images</sq>
-   <sr>a software suite to create, edit, and compose bitmap images</sr>
-   <sv>en mjukvarusvit för att skapa, redigera, och komponera bitmapbilder</sv>
-   <tr>a software suite to create, edit, and compose bitmap images</tr>
-   <uk>набір програм для створення, редагування та перетворення растрових зображень</uk>
-   <zh_CN>a software suite to create, edit, and compose bitmap images</zh_CN>
-   <zh_TW>a software suite to create, edit, and compose bitmap images</zh_TW>
+   <am>lightweight environment</am>
+   <ar>lightweight environment</ar>
+   <bg>lightweight environment</bg>
+   <ca>entorn lleuger</ca>
+   <cs>lightweight environment</cs>
+   <da>letvægts miljø</da>
+   <de>Leichtgewichtige Umgebung</de>
+   <el>ελαφρύ περιβάλλον</el>
+   <en>lightweight environment</en>
+   <es>Entorno de escritorio ligero</es>
+   <et>lightweight environment</et>
+   <eu>lightweight environment</eu>
+   <fa>lightweight environment</fa>
+   <fi>lightweight environment</fi>
+   <fr>Environnement léger</fr>
+   <he_IL>lightweight environment</he_IL>
+   <hi>lightweight environment</hi>
+   <hr>lightweight environment</hr>
+   <hu>lightweight environment</hu>
+   <id>lightweight environment</id>
+   <is>lightweight environment</is>
+   <it>Gestore di finestre che crea un ambiente leggero in stile Win95-OS/2-Motif</it>
+   <ja_JP>lightweight environment</ja_JP>
+   <ja>lightweight environment</ja>
+   <kk>lightweight environment</kk>
+   <ko>lightweight environment</ko>
+   <lt>supaprastinta aplinka</lt>
+   <mk>lightweight environment</mk>
+   <mr>lightweight environment</mr>
+   <nb>lightweight environment</nb>
+   <nl>lichtgewicht omgeving</nl>
+   <pl>lekkie środowisko</pl>
+   <pt_BR>Ambiente de Trabalho simples e ligeiro</pt_BR>
+   <pt>Ambiente de Trabalho simples e ligeiro</pt>
+   <ro>lightweight environment</ro>
+   <ru>Легковесный оконный менеджер</ru>
+   <sk>lightweight environment</sk>
+   <sl>Lahko okolje</sl>
+   <sq>lightweight environment</sq>
+   <sr>lightweight environment</sr>
+   <sv>lättviktsmiljö</sv>
+   <tr>lightweight environment</tr>
+   <uk>легке віконне середовище</uk>
+   <zh_CN>lightweight environment</zh_CN>
+   <zh_TW>lightweight environment</zh_TW>
 </description>
 
 <installable>

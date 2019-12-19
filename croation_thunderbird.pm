@@ -10,52 +10,51 @@ Croatian_thunderbird
 </name>
 
 <description>
-   <am>Czech localisation of Firefox</am>
-   <ar>Czech localisation of Firefox</ar>
-   <bg>Czech localisation of Firefox</bg>
-   <ca>Localització de Firefox en Txec</ca>
-   <cs>Czech localisation of Firefox</cs>
-   <da>Tjekkisk oversættelse af Firefox</da>
-   <de>Tschechische Lokalisierung von Firefox</de>
-   <el>Τσεχική εντοπισμός του Firefox</el>
-   <en>Czech localisation of Firefox</en>
-   <es>Localización Checa de Firefox</es>
-   <et>Czech localisation of Firefox</et>
-   <eu>Czech localisation of Firefox</eu>
-   <fa>Czech localisation of Firefox</fa>
-   <fil_PH>Czech localisation of Firefox</fil_PH>
-   <fi>Czech localisation of Firefox</fi>
-   <fr>Localisation tchèque pour Firefox</fr>
-   <he_IL>Czech localisation of Firefox</he_IL>
-   <hi>Czech localisation of Firefox</hi>
-   <hr>Czech localisation of Firefox</hr>
-   <hu>Czech localisation of Firefox</hu>
-   <id>Czech localisation of Firefox</id>
-   <is>Czech localisation of Firefox</is>
-   <it>Localizzazione in Ceco di Firefox</it>
-   <ja_JP>Czech localisation of Firefox</ja_JP>
-   <ja>Czech localisation of Firefox</ja>
-   <kk>Czech localisation of Firefox</kk>
-   <ko>Czech localisation of Firefox</ko>
-   <lt>Czech localisation of Firefox</lt>
-   <mk>Czech localisation of Firefox</mk>
-   <mr>Czech localisation of Firefox</mr>
-   <nb>Czech localisation of Firefox</nb>
-   <nl>Tjechische lokalisatie van Firefox</nl>
-   <pl>Czeska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Checo Localização para Firefox</pt_BR>
-   <pt>Checo Localização para Firefox</pt>
-   <ro>Czech localisation of Firefox</ro>
-   <ru>Чешская локализация Firefox</ru>
-   <sk>Česká lokalizácia Firefoxu</sk>
-   <sl>Czech localisation of Firefox</sl>
-   <sq>Czech localisation of Firefox</sq>
-   <sr>Czech localisation of Firefox</sr>
-   <sv>Tjeckisk lokalisering av Firefox</sv>
-   <tr>Firefox'un Çekce yerelleştirmesi</tr>
-   <uk>Czech локалізація Firefox</uk>
-   <zh_CN>Czech localisation of Firefox</zh_CN>
-   <zh_TW>Czech localisation of Firefox</zh_TW>
+   <am>Croatian localisation of thunderbird</am>
+   <ar>Croatian localisation of thunderbird</ar>
+   <bg>Croatian localisation of thunderbird</bg>
+   <ca>Localització de Thunderbird en Croata</ca>
+   <cs>Croatian localisation of thunderbird</cs>
+   <da>Kroatisk oversættelse af Thunderbird</da>
+   <de>Kroatische Lokalisierung von Thunderbird</de>
+   <el>Κροατικός εντοπισμός του thunderbird</el>
+   <en>Croatian localisation of thunderbird</en>
+   <es>Localización Croata de Thunderbird</es>
+   <et>Croatian localisation of thunderbird</et>
+   <eu>Croatian localisation of thunderbird</eu>
+   <fa>Croatian localisation of thunderbird</fa>
+   <fi>Croatian localisation of thunderbird</fi>
+   <fr>Localisation croate pour Thunderbird</fr>
+   <he_IL>Croatian localisation of thunderbird</he_IL>
+   <hi>Croatian localisation of thunderbird</hi>
+   <hr>Croatian localisation of thunderbird</hr>
+   <hu>Croatian localisation of thunderbird</hu>
+   <id>Croatian localisation of thunderbird</id>
+   <is>Croatian localisation of thunderbird</is>
+   <it>Localizzazione croata di Thunderbird</it>
+   <ja_JP>Croatian localisation of thunderbird</ja_JP>
+   <ja>Croatian localisation of thunderbird</ja>
+   <kk>Croatian localisation of thunderbird</kk>
+   <ko>Croatian localisation of thunderbird</ko>
+   <lt>Croatian localisation of thunderbird</lt>
+   <mk>Croatian localisation of thunderbird</mk>
+   <mr>Croatian localisation of thunderbird</mr>
+   <nb>Croatian localisation of thunderbird</nb>
+   <nl>Kroatische lokalisatie van Thunderbird</nl>
+   <pl>Chorwacka lokalizacja Thunderbirda</pl>
+   <pt_BR>Croata Localização para Thunderbird</pt_BR>
+   <pt>Croata Localização para Thunderbird</pt>
+   <ro>Croatian localisation of thunderbird</ro>
+   <ru>Croatian localisation of thunderbird</ru>
+   <sk>Croatian localisation of thunderbird</sk>
+   <sl>Croatian localisation of thunderbird</sl>
+   <sq>Croatian localisation of thunderbird</sq>
+   <sr>Croatian localisation of thunderbird</sr>
+   <sv>Kroatisk lokalisering av thunderbird</sv>
+   <tr>Croatian localisation of thunderbird</tr>
+   <uk>Croatian локалізація thunderbird</uk>
+   <zh_CN>Croatian localisation of thunderbird</zh_CN>
+   <zh_TW>Croatian localisation of thunderbird</zh_TW>
 </description>
 
 <installable>

@@ -10,52 +10,51 @@ gftp
 </name>
 
 <description>
-   <am>advanced picture editor - installs GIMP only</am>
-   <ar>advanced picture editor - installs GIMP only</ar>
-   <bg>advanced picture editor - installs GIMP only</bg>
-   <ca>editor gràfic avançat; instal·la només GIMP</ca>
-   <cs>advanced picture editor - installs GIMP only</cs>
-   <da>avanceret billedredigering - installerer kun GIMP</da>
-   <de>Erweiterter Bildeditor - installiert nur GIMP</de>
-   <el>επεξεργαστή εικόνων - εγκαθιστά μόνο το GIMP</el>
-   <en>advanced picture editor - installs GIMP only</en>
-   <es>Editor de imágenes avanzado. Instala GIMP solamente.</es>
-   <et>advanced picture editor - installs GIMP only</et>
-   <eu>advanced picture editor - installs GIMP only</eu>
-   <fa>advanced picture editor - installs GIMP only</fa>
-   <fil_PH>advanced picture editor - installs GIMP only</fil_PH>
-   <fi>advanced picture editor - installs GIMP only</fi>
-   <fr>Éditeur d'image avancé - installe Gimp uniquement</fr>
-   <he_IL>advanced picture editor - installs GIMP only</he_IL>
-   <hi>advanced picture editor - installs GIMP only</hi>
-   <hr>advanced picture editor - installs GIMP only</hr>
-   <hu>advanced picture editor - installs GIMP only</hu>
-   <id>advanced picture editor - installs GIMP only</id>
-   <is>advanced picture editor - installs GIMP only</is>
-   <it>Editor di immagini avanzato - installa solo GIMP</it>
-   <ja_JP>advanced picture editor - installs GIMP only</ja_JP>
-   <ja>advanced picture editor - installs GIMP only</ja>
-   <kk>advanced picture editor - installs GIMP only</kk>
-   <ko>advanced picture editor - installs GIMP only</ko>
-   <lt>išplėstinis paveikslų redaktorius - įdiegia tik GIMP</lt>
-   <mk>advanced picture editor - installs GIMP only</mk>
-   <mr>advanced picture editor - installs GIMP only</mr>
-   <nb>advanced picture editor - installs GIMP only</nb>
-   <nl>geavanceerde foto-editor - installeert alleen GIMP</nl>
-   <pl>zaawansowany edytor grafiki i zdjęć - instaluje tylko program GIMP</pl>
-   <pt_BR>Editor de imagem avançado - instala apenas o GIMP</pt_BR>
-   <pt>Editor de imagem avançado - instala apenas o GIMP</pt>
-   <ro>advanced picture editor - installs GIMP only</ro>
-   <ru>Продвинутый графический редактор - установка только GIMP</ru>
-   <sk>advanced picture editor - installs GIMP only</sk>
-   <sl>napredni urejevalnik slik - namesti le GIMP</sl>
-   <sq>advanced picture editor - installs GIMP only</sq>
-   <sr>advanced picture editor - installs GIMP only</sr>
-   <sv>avancerad bildredigerare - installerar enbart GIMP</sv>
-   <tr>advanced picture editor - installs GIMP only</tr>
-   <uk>розширений редактор зображень - встановлює лише GIMP</uk>
-   <zh_CN>advanced picture editor - installs GIMP only</zh_CN>
-   <zh_TW>advanced picture editor - installs GIMP only</zh_TW>
+   <am>a multithreaded FTP client</am>
+   <ar>a multithreaded FTP client</ar>
+   <bg>a multithreaded FTP client</bg>
+   <ca>un client de FTP multifilar</ca>
+   <cs>a multithreaded FTP client</cs>
+   <da>en multitrådet FTP-klient</da>
+   <de>Ein Multithreading-FTP-Client</de>
+   <el>ένα πολυνηματικό πρόγραμμα-πελάτη FTP</el>
+   <en>a multithreaded FTP client</en>
+   <es>Cliente FTP multiproceso</es>
+   <et>a multithreaded FTP client</et>
+   <eu>a multithreaded FTP client</eu>
+   <fa>a multithreaded FTP client</fa>
+   <fi>a multithreaded FTP client</fi>
+   <fr>Client FTP multiprocessus</fr>
+   <he_IL>a multithreaded FTP client</he_IL>
+   <hi>a multithreaded FTP client</hi>
+   <hr>a multithreaded FTP client</hr>
+   <hu>a multithreaded FTP client</hu>
+   <id>a multithreaded FTP client</id>
+   <is>a multithreaded FTP client</is>
+   <it>Client FTP multithread</it>
+   <ja_JP>a multithreaded FTP client</ja_JP>
+   <ja>a multithreaded FTP client</ja>
+   <kk>a multithreaded FTP client</kk>
+   <ko>a multithreaded FTP client</ko>
+   <lt>a multithreaded FTP client</lt>
+   <mk>a multithreaded FTP client</mk>
+   <mr>a multithreaded FTP client</mr>
+   <nb>a multithreaded FTP client</nb>
+   <nl>een multithreaded FTP programma</nl>
+   <pl>wielowątkowy klient FTP</pl>
+   <pt_BR>Cliente de FTP multilinha de execução (multithreaded)</pt_BR>
+   <pt>Cliente de FTP multilinha de execução (multithreaded)</pt>
+   <ro>a multithreaded FTP client</ro>
+   <ru>Многопоточный FTP клиент</ru>
+   <sk>a multithreaded FTP client</sk>
+   <sl>večnitni FTP odjemalec</sl>
+   <sq>a multithreaded FTP client</sq>
+   <sr>a multithreaded FTP client</sr>
+   <sv>en multitråds FTP-klient</sv>
+   <tr>a multithreaded FTP client</tr>
+   <uk>багатопотоковий FTP-клієнт</uk>
+   <zh_CN>a multithreaded FTP client</zh_CN>
+   <zh_TW>a multithreaded FTP client</zh_TW>
 </description>
 
 <installable>

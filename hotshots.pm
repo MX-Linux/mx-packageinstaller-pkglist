@@ -11,52 +11,51 @@ Hotshots
 </name>
 
 <description>
-   <am>HPLIP and printing extras</am>
-   <ar>HPLIP and printing extras</ar>
-   <bg>HPLIP and printing extras</bg>
-   <ca>HPLIP i extres d'impressió</ca>
-   <cs>HPLIP and printing extras</cs>
-   <da>Ekstra til HPLIP og udskrivning</da>
-   <de>HPLIP (HP's Linux Imaging and Printing) und Druck-Extras</de>
-   <el>HPLIP και εκτύπωση</el>
-   <en>HPLIP and printing extras</en>
-   <es>HPLIP y complementos de impresión</es>
-   <et>HPLIP and printing extras</et>
-   <eu>HPLIP and printing extras</eu>
-   <fa>HPLIP and printing extras</fa>
-   <fil_PH>HPLIP and printing extras</fil_PH>
-   <fi>HPLIP and printing extras</fi>
-   <fr>HPLIP et utilitaires d'impression</fr>
-   <he_IL>HPLIP and printing extras</he_IL>
-   <hi>HPLIP and printing extras</hi>
-   <hr>HPLIP and printing extras</hr>
-   <hu>HPLIP and printing extras</hu>
-   <id>HPLIP and printing extras</id>
-   <is>HPLIP and printing extras</is>
-   <it>HPLIP ed ulteriori pacchetti per la stampa</it>
-   <ja_JP>HPLIP and printing extras</ja_JP>
-   <ja>HPLIP and printing extras</ja>
-   <kk>HPLIP and printing extras</kk>
-   <ko>HPLIP and printing extras</ko>
-   <lt>HPLIP ir spausdinimo papildiniai</lt>
-   <mk>HPLIP and printing extras</mk>
-   <mr>HPLIP and printing extras</mr>
-   <nb>HPLIP and printing extras</nb>
-   <nl>HPLIP en printing extras</nl>
-   <pl>HPLIP i dodatki do drukowania</pl>
-   <pt_BR>Criação de imagens e impressão para computadores HP com Linux [HP Linux Imaging and Printing] e extras de impressão</pt_BR>
-   <pt>Criação de imagens e impressão para computadores HP com Linux [HP Linux Imaging and Printing] e extras de impressão</pt>
-   <ro>HPLIP and printing extras</ro>
-   <ru>HPLIP и вспомогательные компоненты печати</ru>
-   <sk>HPLIP and printing extras</sk>
-   <sl>Dodatki za HPLIP in tiskanje</sl>
-   <sq>HPLIP and printing extras</sq>
-   <sr>HPLIP and printing extras</sr>
-   <sv>HPLIP och utskrifts-extras</sv>
-   <tr>HPLIP and printing extras</tr>
-   <uk>HPLIP and printing extras</uk>
-   <zh_CN>HPLIP and printing extras</zh_CN>
-   <zh_TW>HPLIP and printing extras</zh_TW>
+   <am>a Qt-4 based advanced screencapture app</am>
+   <ar>a Qt-4 based advanced screencapture app</ar>
+   <bg>a Qt-4 based advanced screencapture app</bg>
+   <ca>aplicació avançada de captura de pantalla basad en Qt-4</ca>
+   <cs>a Qt-4 based advanced screencapture app</cs>
+   <da>et avanceret Qt-4-baseret skærmoptagerprogram</da>
+   <de>Eine Qt-4-basierte erweiterte Screencapture-Anwendung</de>
+   <el>εφαρμογή λήψης οθόνης με βάση Qt-4</el>
+   <en>a Qt-4 based advanced screencapture app</en>
+   <es>Aplicación de captura de pantalla avanzada basada en QT-4</es>
+   <et>a Qt-4 based advanced screencapture app</et>
+   <eu>a Qt-4 based advanced screencapture app</eu>
+   <fa>a Qt-4 based advanced screencapture app</fa>
+   <fi>a Qt-4 based advanced screencapture app</fi>
+   <fr>Application de capture d'écran Qt-4</fr>
+   <he_IL>a Qt-4 based advanced screencapture app</he_IL>
+   <hi>a Qt-4 based advanced screencapture app</hi>
+   <hr>a Qt-4 based advanced screencapture app</hr>
+   <hu>a Qt-4 based advanced screencapture app</hu>
+   <id>a Qt-4 based advanced screencapture app</id>
+   <is>a Qt-4 based advanced screencapture app</is>
+   <it>applicazione avanzata, basata sulle librerie Qt-4, per la cattura dello schermo</it>
+   <ja_JP>a Qt-4 based advanced screencapture app</ja_JP>
+   <ja>a Qt-4 based advanced screencapture app</ja>
+   <kk>a Qt-4 based advanced screencapture app</kk>
+   <ko>a Qt-4 based advanced screencapture app</ko>
+   <lt>a Qt-4 based advanced screencapture app</lt>
+   <mk>a Qt-4 based advanced screencapture app</mk>
+   <mr>a Qt-4 based advanced screencapture app</mr>
+   <nb>a Qt-4 based advanced screencapture app</nb>
+   <nl>een geavanceerde screencapture-app op basis van Qt-4</nl>
+   <pl>zaawansowana aplikacja do wykonywania zrzutów ekranu oparta na Qt-4</pl>
+   <pt_BR>Aplicativo avançado de captura de tela baseado em Qt-4</pt_BR>
+   <pt>Aplicação avançada de captura de ecrã baseada em Qt-4</pt>
+   <ro>a Qt-4 based advanced screencapture app</ro>
+   <ru>Основанное на Qt-4 приложение создания снимков экрана</ru>
+   <sk>a Qt-4 based advanced screencapture app</sk>
+   <sl>Napredni zajemalnik zaslona, ki temelji na Qt-4</sl>
+   <sq>a Qt-4 based advanced screencapture app</sq>
+   <sr>a Qt-4 based advanced screencapture app</sr>
+   <sv>en Qt-4 baserad avancerad skärmfilmningsapp</sv>
+   <tr>a Qt-4 based advanced screencapture app</tr>
+   <uk>розширена QT-4 програма для знімків екрану</uk>
+   <zh_CN>a Qt-4 based advanced screencapture app</zh_CN>
+   <zh_TW>a Qt-4 based advanced screencapture app</zh_TW>
 </description>
 
 <installable>

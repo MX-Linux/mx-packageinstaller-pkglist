@@ -10,52 +10,51 @@ KDE5 Standard
 </name>
 
 <description>
-   <am>the KDE video editor</am>
-   <ar>the KDE video editor</ar>
-   <bg>the KDE video editor</bg>
-   <ca>Editor de vídeo de KDE</ca>
-   <cs>the KDE video editor</cs>
-   <da>KDE-videoredigeringen</da>
-   <de>Der KDE-Video-Editor</de>
-   <el>τον επεξεργαστή βίντεο του KDE</el>
-   <en>the KDE video editor</en>
-   <es>Editor de video de KDE</es>
-   <et>the KDE video editor</et>
-   <eu>the KDE video editor</eu>
-   <fa>the KDE video editor</fa>
-   <fil_PH>the KDE video editor</fil_PH>
-   <fi>the KDE video editor</fi>
-   <fr>L'éditeur vidéo de KDE</fr>
-   <he_IL>the KDE video editor</he_IL>
-   <hi>the KDE video editor</hi>
-   <hr>the KDE video editor</hr>
-   <hu>the KDE video editor</hu>
-   <id>the KDE video editor</id>
-   <is>the KDE video editor</is>
-   <it>editor video dell'ambiente KDE</it>
-   <ja_JP>the KDE video editor</ja_JP>
-   <ja>the KDE video editor</ja>
-   <kk>the KDE video editor</kk>
-   <ko>the KDE video editor</ko>
-   <lt>the KDE video editor</lt>
-   <mk>the KDE video editor</mk>
-   <mr>the KDE video editor</mr>
-   <nb>the KDE video editor</nb>
-   <nl>de KDE video editor</nl>
-   <pl>edytor wideo KDE</pl>
-   <pt_BR>O editor de vídeo do Ambiente de Trabalho KDE</pt_BR>
-   <pt>O editor de vídeo do Ambiente de Trabalho KDE</pt>
-   <ro>the KDE video editor</ro>
-   <ru>Полупрофессиональный нелинейный видео редактор</ru>
-   <sk>the KDE video editor</sk>
-   <sl>KDE video urejevalnik</sl>
-   <sq>the KDE video editor</sq>
-   <sr>the KDE video editor</sr>
-   <sv>KDE video redigerare</sv>
-   <tr>the KDE video editor</tr>
-   <uk>КДЕ редактор відео</uk>
-   <zh_CN>the KDE video editor</zh_CN>
-   <zh_TW>the KDE video editor</zh_TW>
+   <am>Installs kde-standard, kde-plasma-desktop</am>
+   <ar>Installs kde-standard, kde-plasma-desktop</ar>
+   <bg>Installs kde-standard, kde-plasma-desktop</bg>
+   <ca>Instal·la kde-standard i kde-plasma-desktop</ca>
+   <cs>Installs kde-standard, kde-plasma-desktop</cs>
+   <da>Installerer kde-standard, kde-plasma-desktop</da>
+   <de>Installiert KDE-standard, KDE-plasma-desktop</de>
+   <el>Εγκατάσταση του kde-standard, kde-plasma-desktop</el>
+   <en>Installs kde-standard, kde-plasma-desktop</en>
+   <es>Instala kde-standard, kde-escritorio-plasma</es>
+   <et>Installs kde-standard, kde-plasma-desktop</et>
+   <eu>Installs kde-standard, kde-plasma-desktop</eu>
+   <fa>Installs kde-standard, kde-plasma-desktop</fa>
+   <fi>Installs kde-standard, kde-plasma-desktop</fi>
+   <fr>Installation de kde-standard, kde-plasma-desktop</fr>
+   <he_IL>Installs kde-standard, kde-plasma-desktop</he_IL>
+   <hi>Installs kde-standard, kde-plasma-desktop</hi>
+   <hr>Installs kde-standard, kde-plasma-desktop</hr>
+   <hu>Installs kde-standard, kde-plasma-desktop</hu>
+   <id>Installs kde-standard, kde-plasma-desktop</id>
+   <is>Installs kde-standard, kde-plasma-desktop</is>
+   <it>Installa kde-standard, kde-plasma-desktop</it>
+   <ja_JP>Installs kde-standard, kde-plasma-desktop</ja_JP>
+   <ja>Installs kde-standard, kde-plasma-desktop</ja>
+   <kk>Installs kde-standard, kde-plasma-desktop</kk>
+   <ko>Installs kde-standard, kde-plasma-desktop</ko>
+   <lt>Installs kde-standard, kde-plasma-desktop</lt>
+   <mk>Installs kde-standard, kde-plasma-desktop</mk>
+   <mr>Installs kde-standard, kde-plasma-desktop</mr>
+   <nb>Installs kde-standard, kde-plasma-desktop</nb>
+   <nl>Installeert kde-standard, kde-plasma-desktop</nl>
+   <pl>instaluje kde-standard, kde-plasma-desktop</pl>
+   <pt_BR>Instala os pacotes kde-standard e kde-plasma-desktop</pt_BR>
+   <pt>Instala os pacotes kde-standard e kde-plasma-desktop</pt>
+   <ro>Installs kde-standard, kde-plasma-desktop</ro>
+   <ru>Устанавливает kde-standart, kde-plasma-desktop</ru>
+   <sk>Installs kde-standard, kde-plasma-desktop</sk>
+   <sl>Namesti kde-standard in kde-plasma-desktop</sl>
+   <sq>Installs kde-standard, kde-plasma-desktop</sq>
+   <sr>Installs kde-standard, kde-plasma-desktop</sr>
+   <sv>Installerar kde-standard, kde-plasma-desktop</sv>
+   <tr>Installs kde-standard, kde-plasma-desktop</tr>
+   <uk>встановлює набори kde-standard, kde-plasma-desktop</uk>
+   <zh_CN>Installs kde-standard, kde-plasma-desktop</zh_CN>
+   <zh_TW>Installs kde-standard, kde-plasma-desktop</zh_TW>
 </description>
 
 <installable>

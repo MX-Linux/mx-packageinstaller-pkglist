@@ -10,52 +10,51 @@ Calibre
 </name>
 
 <description>
-   <am>Catalan localisation of Firefox</am>
-   <ar>Catalan localisation of Firefox</ar>
-   <bg>Catalan localisation of Firefox</bg>
-   <ca>Localització de Firefox en Català</ca>
-   <cs>Catalan localisation of Firefox</cs>
-   <da>Catalansk oversættelse af Firefox</da>
-   <de>Katalanische Lokalisierung von Firefox</de>
-   <el>Καταλανική εντοπισμός του Firefox</el>
-   <en>Catalan localisation of Firefox</en>
-   <es>Localización Catalana para Firefox</es>
-   <et>Catalan localisation of Firefox</et>
-   <eu>Catalan localisation of Firefox</eu>
-   <fa>Catalan localisation of Firefox</fa>
-   <fil_PH>Catalan localisation of Firefox</fil_PH>
-   <fi>Catalan localisation of Firefox</fi>
-   <fr>Localisation catalane pour Firefox</fr>
-   <he_IL>Catalan localisation of Firefox</he_IL>
-   <hi>Catalan localisation of Firefox</hi>
-   <hr>Catalan localisation of Firefox</hr>
-   <hu>Catalan localisation of Firefox</hu>
-   <id>Catalan localisation of Firefox</id>
-   <is>Catalan localisation of Firefox</is>
-   <it>Localizzazione catalana di Firefox</it>
-   <ja_JP>Catalan localisation of Firefox</ja_JP>
-   <ja>Catalan localisation of Firefox</ja>
-   <kk>Catalan localisation of Firefox</kk>
-   <ko>Catalan localisation of Firefox</ko>
-   <lt>Catalan localisation of Firefox</lt>
-   <mk>Catalan localisation of Firefox</mk>
-   <mr>Catalan localisation of Firefox</mr>
-   <nb>Catalan localisation of Firefox</nb>
-   <nl>Catalaanse lokalisatie van Firefox</nl>
-   <pl>Katalońska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Catalão Localização para Firefox</pt_BR>
-   <pt>Catalão Localização para Firefox</pt>
-   <ro>Catalan localisation of Firefox</ro>
-   <ru>Каталонская локализация Firefox</ru>
-   <sk>Catalan localisation of Firefox</sk>
-   <sl>Catalan localisation of Firefox</sl>
-   <sq>Catalan localisation of Firefox</sq>
-   <sr>Catalan localisation of Firefox</sr>
-   <sv>Katalansk lokalisering av Firefox</sv>
-   <tr>Firefox'un Katalanca yerelleştirmesi</tr>
-   <uk>Catalan локалізація Firefox</uk>
-   <zh_CN>Catalan localisation of Firefox</zh_CN>
-   <zh_TW>Catalan localisation of Firefox</zh_TW>
+   <am>an e-book library management application</am>
+   <ar>an e-book library management application</ar>
+   <bg>an e-book library management application</bg>
+   <ca>una aplicació de gestió de biblioteca de llibres electrònics</ca>
+   <cs>an e-book library management application</cs>
+   <da>et program til at håndtere e-bogsbibliotek</da>
+   <de>Eine E-Book-Bibliotheksverwaltung</de>
+   <el>μια εφαρμογή διαχείρισης βιβλιοθήκης ηλεκτρονικών βιβλίων</el>
+   <en>an e-book library management application</en>
+   <es>Organizador de biblioteca de e-book</es>
+   <et>an e-book library management application</et>
+   <eu>an e-book library management application</eu>
+   <fa>an e-book library management application</fa>
+   <fi>an e-book library management application</fi>
+   <fr>Une application pour organiser sa bibliothèque e-book</fr>
+   <he_IL>an e-book library management application</he_IL>
+   <hi>an e-book library management application</hi>
+   <hr>an e-book library management application</hr>
+   <hu>an e-book library management application</hu>
+   <id>an e-book library management application</id>
+   <is>an e-book library management application</is>
+   <it>Applicazione per la gestione di librerie e-book</it>
+   <ja_JP>an e-book library management application</ja_JP>
+   <ja>an e-book library management application</ja>
+   <kk>an e-book library management application</kk>
+   <ko>an e-book library management application</ko>
+   <lt>an e-book library management application</lt>
+   <mk>an e-book library management application</mk>
+   <mr>an e-book library management application</mr>
+   <nb>an e-book library management application</nb>
+   <nl>een e-boek bibliotheek beheer applicatie</nl>
+   <pl>aplikacja do zarządzania bibliotekami e-booków w systemie,  ich wyświetlania, edycji, tworzenia i konwersji</pl>
+   <pt_BR>Aplicativo de gestão de bibliotecas para livros electrónicos e-book</pt_BR>
+   <pt>Aplicação de gestão de bibliotecas para livros electrónicos e-book</pt>
+   <ro>an e-book library management application</ro>
+   <ru>Менеджер библиотеки электронных книг</ru>
+   <sk>an e-book library management application</sk>
+   <sl>aplikacija za upravljanje knjižnic z elektronskimi knjigami</sl>
+   <sq>an e-book library management application</sq>
+   <sr>an e-book library management application</sr>
+   <sv>en hanteringsapp för e-boksbibliotek</sv>
+   <tr>an e-book library management application</tr>
+   <uk>програма керування бібліотекою електронних книжок</uk>
+   <zh_CN>an e-book library management application</zh_CN>
+   <zh_TW>an e-book library management application</zh_TW>
 </description>
 
 <installable>

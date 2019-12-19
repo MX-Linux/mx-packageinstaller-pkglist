@@ -10,52 +10,51 @@ Russian_Fonts
 </name>
 
 <description>
-   <am>Russian localisation of LibreOffice</am>
-   <ar>Russian localisation of LibreOffice</ar>
-   <bg>Russian localisation of LibreOffice</bg>
-   <ca>Localització de LibreOffice en Rus</ca>
-   <cs>Russian localisation of LibreOffice</cs>
-   <da>Russisk oversættelse af LibreOffice</da>
-   <de>Russische Lokalisierung von LibreOffice</de>
-   <el>LibreOffice στα ρωσικά</el>
-   <en>Russian localisation of LibreOffice</en>
-   <es>Localización Rusa de LibreOffice</es>
-   <et>Russian localisation of LibreOffice</et>
-   <eu>Russian localisation of LibreOffice</eu>
-   <fa>Russian localisation of LibreOffice</fa>
-   <fil_PH>Russian localisation of LibreOffice</fil_PH>
-   <fi>Russian localisation of LibreOffice</fi>
-   <fr>Localisation russe pour LibreOffice</fr>
-   <he_IL>Russian localisation of LibreOffice</he_IL>
-   <hi>Russian localisation of LibreOffice</hi>
-   <hr>Russian localisation of LibreOffice</hr>
-   <hu>Russian localisation of LibreOffice</hu>
-   <id>Russian localisation of LibreOffice</id>
-   <is>Russian localisation of LibreOffice</is>
-   <it>Localizzazione russa di LibreOffice</it>
-   <ja_JP>Russian localisation of LibreOffice</ja_JP>
-   <ja>Russian localisation of LibreOffice</ja>
-   <kk>Russian localisation of LibreOffice</kk>
-   <ko>Russian localisation of LibreOffice</ko>
-   <lt>Russian localisation of LibreOffice</lt>
-   <mk>Russian localisation of LibreOffice</mk>
-   <mr>Russian localisation of LibreOffice</mr>
-   <nb>Russian localisation of LibreOffice</nb>
-   <nl>Russische lokalisatie van LibreOffice</nl>
-   <pl>Rosyjska lokalizacja LibreOffice</pl>
-   <pt_BR>Russo Localização para LibreOffice</pt_BR>
-   <pt>Russo Localização para LibreOffice</pt>
-   <ro>Russian localisation of LibreOffice</ro>
-   <ru>Русский перевод для LibreOffice</ru>
-   <sk>Russian localisation of LibreOffice</sk>
-   <sl>Russian localisation of LibreOffice</sl>
-   <sq>Russian localisation of LibreOffice</sq>
-   <sr>Russian localisation of LibreOffice</sr>
-   <sv>Rysk  lokalisering av LibreOffice</sv>
-   <tr>Russian localisation of LibreOffice</tr>
-   <uk>Russian локалізація LibreOffice</uk>
-   <zh_CN>Russian localisation of LibreOffice</zh_CN>
-   <zh_TW>Russian localisation of LibreOffice</zh_TW>
+   <am>Russian fonts packages</am>
+   <ar>Russian fonts packages</ar>
+   <bg>Russian fonts packages</bg>
+   <ca>Paquets de tipus de lletra Ciríl·lics (rus)</ca>
+   <cs>Russian fonts packages</cs>
+   <da>Russisk skrifttyper-pakke</da>
+   <de>Russische Schriftenpakete</de>
+   <el>Ρωσικά πακέτα γραμματοσειρών</el>
+   <en>Russian fonts packages</en>
+   <es>Paquetes de fuentes rusas</es>
+   <et>Russian fonts packages</et>
+   <eu>Russian fonts packages</eu>
+   <fa>Russian fonts packages</fa>
+   <fi>Russian fonts packages</fi>
+   <fr>Paquets pour polices russes</fr>
+   <he_IL>Russian fonts packages</he_IL>
+   <hi>Russian fonts packages</hi>
+   <hr>Russian fonts packages</hr>
+   <hu>Russian fonts packages</hu>
+   <id>Russian fonts packages</id>
+   <is>Russian fonts packages</is>
+   <it>Pacchetti di fonts per il Russo</it>
+   <ja_JP>Russian fonts packages</ja_JP>
+   <ja>Russian fonts packages</ja>
+   <kk>Russian fonts packages</kk>
+   <ko>Russian fonts packages</ko>
+   <lt>Rusų šriftų paketai</lt>
+   <mk>Russian fonts packages</mk>
+   <mr>Russian fonts packages</mr>
+   <nb>Russian fonts packages</nb>
+   <nl>Russische font pakketten</nl>
+   <pl>pakiety z rosyjskimi fontami (czcionkami)</pl>
+   <pt_BR>Russo Pacotes de fontes</pt_BR>
+   <pt>Russo Pacotes de fontes</pt>
+   <ro>Russian fonts packages</ro>
+   <ru>Пакеты русских шрифтов</ru>
+   <sk>Russian fonts packages</sk>
+   <sl>Russian fonts packages</sl>
+   <sq>Russian fonts packages</sq>
+   <sr>Russian fonts packages</sr>
+   <sv>Ryska typsnitts-paket</sv>
+   <tr>Russian fonts packages</tr>
+   <uk>Russian fonts packages</uk>
+   <zh_CN>Russian fonts packages</zh_CN>
+   <zh_TW>Russian fonts packages</zh_TW>
 </description>
 
 <installable>

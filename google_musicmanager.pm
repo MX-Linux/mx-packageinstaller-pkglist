@@ -10,52 +10,51 @@ Google Music Manager
 </name>
 
 <description>
-   <am>Greek localisation of Firefox</am>
-   <ar>Greek localisation of Firefox</ar>
-   <bg>Greek localisation of Firefox</bg>
-   <ca>Localització de Firefox en Grec</ca>
-   <cs>Greek localisation of Firefox</cs>
-   <da>Græsk oversættelse af Firefox</da>
-   <de>Griechische Lokalisierung von Firefox</de>
-   <el>Ελληνικός εντοπισμός του Firefox</el>
-   <en>Greek localisation of Firefox</en>
-   <es>Localización Griega de Firefox</es>
-   <et>Greek localisation of Firefox</et>
-   <eu>Greek localisation of Firefox</eu>
-   <fa>Greek localisation of Firefox</fa>
-   <fil_PH>Greek localisation of Firefox</fil_PH>
-   <fi>Greek localisation of Firefox</fi>
-   <fr>Localisation grecque pour Firefox</fr>
-   <he_IL>Greek localisation of Firefox</he_IL>
-   <hi>Greek localisation of Firefox</hi>
-   <hr>Greek localisation of Firefox</hr>
-   <hu>Greek localisation of Firefox</hu>
-   <id>Greek localisation of Firefox</id>
-   <is>Greek localisation of Firefox</is>
-   <it>Localizzazione greca di Firefox</it>
-   <ja_JP>Greek localisation of Firefox</ja_JP>
-   <ja>Greek localisation of Firefox</ja>
-   <kk>Greek localisation of Firefox</kk>
-   <ko>Greek localisation of Firefox</ko>
-   <lt>Greek localisation of Firefox</lt>
-   <mk>Greek localisation of Firefox</mk>
-   <mr>Greek localisation of Firefox</mr>
-   <nb>Greek localisation of Firefox</nb>
-   <nl>Griekse lokalisatie van Firefox</nl>
-   <pl>Grecka lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Grego Localização para Firefox</pt_BR>
-   <pt>Grego Localização para Firefox</pt>
-   <ro>Greek localisation of Firefox</ro>
-   <ru>Греческая локализация Firefox</ru>
-   <sk>Greek localisation of Firefox</sk>
-   <sl>Grška lokalizacija za Firefox</sl>
-   <sq>Greek localisation of Firefox</sq>
-   <sr>Greek localisation of Firefox</sr>
-   <sv>Grekisk lokalisering för Firefox</sv>
-   <tr>Firefox'un Yunanca yerelleştirmesi</tr>
-   <uk>Greek локалізація Firefox</uk>
-   <zh_CN>Greek localisation of Firefox</zh_CN>
-   <zh_TW>Greek localisation of Firefox</zh_TW>
+   <am>Google Music Manager Beta, 64 bit</am>
+   <ar>Google Music Manager Beta, 64 bit</ar>
+   <bg>Google Music Manager Beta, 64 bit</bg>
+   <ca>Gestor de Google Music Beta, 64 bit</ca>
+   <cs>Google Music Manager Beta, 64 bit</cs>
+   <da>Google Music Manager Beta, 64 bit</da>
+   <de>Google Music Manager Beta, 64 bit</de>
+   <el>Google Music Manager Beta, 64 bit</el>
+   <en>Google Music Manager Beta, 64 bit</en>
+   <es>Beta del Administrador de Google Music, 64 bit</es>
+   <et>Google Music Manager Beta, 64 bit</et>
+   <eu>Google Music Manager Beta, 64 bit</eu>
+   <fa>Google Music Manager Beta, 64 bit</fa>
+   <fi>Google Music Manager Beta, 64 bit</fi>
+   <fr>Google Music Manager Beta, 64 bit</fr>
+   <he_IL>Google Music Manager Beta, 64 bit</he_IL>
+   <hi>Google Music Manager Beta, 64 bit</hi>
+   <hr>Google Music Manager Beta, 64 bit</hr>
+   <hu>Google Music Manager Beta, 64 bit</hu>
+   <id>Google Music Manager Beta, 64 bit</id>
+   <is>Google Music Manager Beta, 64 bit</is>
+   <it>Google Music Manager Beta, 64 bit</it>
+   <ja_JP>Google Music Manager Beta, 64 bit</ja_JP>
+   <ja>Google Music Manager Beta, 64 bit</ja>
+   <kk>Google Music Manager Beta, 64 bit</kk>
+   <ko>Google Music Manager Beta, 64 bit</ko>
+   <lt>Google Music Manager Beta, 64 bit</lt>
+   <mk>Google Music Manager Beta, 64 bit</mk>
+   <mr>Google Music Manager Beta, 64 bit</mr>
+   <nb>Google Music Manager Beta, 64 bit</nb>
+   <nl>Google Muziek Beheer Beta, 64 bit</nl>
+   <pl>Google Music Manager Beta, 64 bit</pl>
+   <pt_BR>Google Music Manager Beta, 64 bit</pt_BR>
+   <pt>Google Music Manager Beta, 64 bit</pt>
+   <ro>Google Music Manager Beta, 64 bit</ro>
+   <ru>Google управление музыкой, beta 64 bit</ru>
+   <sk>Google Music Manager Beta, 64 bit</sk>
+   <sl>Googlov upravljalnik glabse, beta 64-bitni</sl>
+   <sq>Google Music Manager Beta, 64 bit</sq>
+   <sr>Google Music Manager Beta, 64 bit</sr>
+   <sv>Google Music Manager Beta, 64 bit</sv>
+   <tr>Google Music Manager Beta, 64 bit</tr>
+   <uk>Google Music Manager Beta, 64 bit</uk>
+   <zh_CN>Google Music Manager Beta, 64 bit</zh_CN>
+   <zh_TW>Google Music Manager Beta, 64 bit</zh_TW>
 </description>
 
 <installable>

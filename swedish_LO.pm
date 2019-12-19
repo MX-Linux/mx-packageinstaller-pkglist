@@ -10,52 +10,51 @@ Swedish_Libreoffice
 </name>
 
 <description>
-   <am>Swedish Language Meta-Package</am>
-   <ar>Swedish Language Meta-Package</ar>
-   <bg>Swedish Language Meta-Package</bg>
-   <ca>Meta-paquet de llengua Sueca</ca>
-   <cs>Swedish Language Meta-Package</cs>
-   <da>Svensk sprog-metapakke</da>
-   <de>Schwedisches Sprach-Meta-Paket</de>
-   <el>Σουηδική γλώσσα</el>
-   <en>Swedish Language Meta-Package</en>
-   <es>Meta-Paquete de Idioma Sueco</es>
-   <et>Swedish Language Meta-Package</et>
-   <eu>Swedish Language Meta-Package</eu>
-   <fa>Swedish Language Meta-Package</fa>
-   <fil_PH>Swedish Language Meta-Package</fil_PH>
-   <fi>Swedish Language Meta-Package</fi>
-   <fr>Méta-paquet langue pour suédoise</fr>
-   <he_IL>Swedish Language Meta-Package</he_IL>
-   <hi>Swedish Language Meta-Package</hi>
-   <hr>Swedish Language Meta-Package</hr>
-   <hu>Swedish Language Meta-Package</hu>
-   <id>Swedish Language Meta-Package</id>
-   <is>Swedish Language Meta-Package</is>
-   <it>Meta-pacchetto della lingua svedese</it>
-   <ja_JP>Swedish Language Meta-Package</ja_JP>
-   <ja>Swedish Language Meta-Package</ja>
-   <kk>Swedish Language Meta-Package</kk>
-   <ko>Swedish Language Meta-Package</ko>
-   <lt>Swedish Language Meta-Package</lt>
-   <mk>Swedish Language Meta-Package</mk>
-   <mr>Swedish Language Meta-Package</mr>
-   <nb>Swedish Language Meta-Package</nb>
-   <nl>Zweedse Taal Meta-Pakket</nl>
-   <pl>Szwedzki metapakiet językowy</pl>
-   <pt_BR>Sueco Meta-Pacote de Idioma</pt_BR>
-   <pt>Sueco Meta-Pacote de Idioma</pt>
-   <ro>Swedish Language Meta-Package</ro>
-   <ru>Swedish Language Meta-Package</ru>
-   <sk>Swedish Language Meta-Package</sk>
-   <sl>Swedish Language Meta-Package</sl>
-   <sq>Swedish Language Meta-Package</sq>
-   <sr>Swedish Language Meta-Package</sr>
-   <sv>Svenskt Språk-Meta-Paket</sv>
-   <tr>Swedish Language Meta-Package</tr>
-   <uk>Swedish Language Meta-Package</uk>
-   <zh_CN>Swedish Language Meta-Package</zh_CN>
-   <zh_TW>Swedish Language Meta-Package</zh_TW>
+   <am>Swedish Language Meta-Package for LibreOffice</am>
+   <ar>Swedish Language Meta-Package for LibreOffice</ar>
+   <bg>Swedish Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet de llengua en Suec per a LibreOffice</ca>
+   <cs>Swedish Language Meta-Package for LibreOffice</cs>
+   <da>Svensk sprog-metapakke til LibreOffice</da>
+   <de>Schwedisches Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα σουηδικά</el>
+   <en>Swedish Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Sueco para LibreOffice</es>
+   <et>Swedish Language Meta-Package for LibreOffice</et>
+   <eu>Swedish Language Meta-Package for LibreOffice</eu>
+   <fa>Swedish Language Meta-Package for LibreOffice</fa>
+   <fi>Swedish Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue suédoise pour LibreOffice</fr>
+   <he_IL>Swedish Language Meta-Package for LibreOffice</he_IL>
+   <hi>Swedish Language Meta-Package for LibreOffice</hi>
+   <hr>Swedish Language Meta-Package for LibreOffice</hr>
+   <hu>Swedish Language Meta-Package for LibreOffice</hu>
+   <id>Swedish Language Meta-Package for LibreOffice</id>
+   <is>Swedish Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua svedese per LibreOffice</it>
+   <ja_JP>Swedish Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Swedish Language Meta-Package for LibreOffice</ja>
+   <kk>Swedish Language Meta-Package for LibreOffice</kk>
+   <ko>Swedish Language Meta-Package for LibreOffice</ko>
+   <lt>Swedish Language Meta-Package for LibreOffice</lt>
+   <mk>Swedish Language Meta-Package for LibreOffice</mk>
+   <mr>Swedish Language Meta-Package for LibreOffice</mr>
+   <nb>Swedish Language Meta-Package for LibreOffice</nb>
+   <nl>Zweedse Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Szwedzki metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Sueco Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Sueco Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Swedish Language Meta-Package for LibreOffice</ro>
+   <ru>Swedish Language Meta-Package for LibreOffice</ru>
+   <sk>Swedish Language Meta-Package for LibreOffice</sk>
+   <sl>Swedish Language Meta-Package for LibreOffice</sl>
+   <sq>Swedish Language Meta-Package for LibreOffice</sq>
+   <sr>Swedish Language Meta-Package for LibreOffice</sr>
+   <sv>Svenskt Språk-Meta-Paket för LibreOffice</sv>
+   <tr>Swedish Language Meta-Package for LibreOffice</tr>
+   <uk>Swedish Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Swedish Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Swedish Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

@@ -10,52 +10,51 @@ Greek_Firefox
 </name>
 
 <description>
-   <am>Greek Language Meta-Package for LibreOffice</am>
-   <ar>Greek Language Meta-Package for LibreOffice</ar>
-   <bg>Greek Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet de llengua grega per LibreOffice</ca>
-   <cs>Greek Language Meta-Package for LibreOffice</cs>
-   <da>Græsk sprog-metapakke til LibreOffice</da>
-   <de>Griechisches Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα ελληνικά</el>
-   <en>Greek Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Griego para LibreOffice</es>
-   <et>Greek Language Meta-Package for LibreOffice</et>
-   <eu>Greek Language Meta-Package for LibreOffice</eu>
-   <fa>Greek Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Greek Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Greek Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue grecque pour LibreOffice</fr>
-   <he_IL>Greek Language Meta-Package for LibreOffice</he_IL>
-   <hi>Greek Language Meta-Package for LibreOffice</hi>
-   <hr>Greek Language Meta-Package for LibreOffice</hr>
-   <hu>Greek Language Meta-Package for LibreOffice</hu>
-   <id>Greek Language Meta-Package for LibreOffice</id>
-   <is>Greek Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua greca per LibreOffice</it>
-   <ja_JP>Greek Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Greek Language Meta-Package for LibreOffice</ja>
-   <kk>Greek Language Meta-Package for LibreOffice</kk>
-   <ko>Greek Language Meta-Package for LibreOffice</ko>
-   <lt>Greek Language Meta-Package for LibreOffice</lt>
-   <mk>Greek Language Meta-Package for LibreOffice</mk>
-   <mr>Greek Language Meta-Package for LibreOffice</mr>
-   <nb>Greek Language Meta-Package for LibreOffice</nb>
-   <nl>Griekse Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Grecki metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Grego Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Grego Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Greek Language Meta-Package for LibreOffice</ro>
-   <ru>Greek Language Meta-Package for LibreOffice</ru>
-   <sk>Greek Language Meta-Package for LibreOffice</sk>
-   <sl>Grški jezikovni meta-paket za LibreOffice</sl>
-   <sq>Greek Language Meta-Package for LibreOffice</sq>
-   <sr>Greek Language Meta-Package for LibreOffice</sr>
-   <sv>Grekiskt Språk Meta-Paket för LibreOffice</sv>
-   <tr>Greek Language Meta-Package for LibreOffice</tr>
-   <uk>Greek Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Greek Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Greek Language Meta-Package for LibreOffice</zh_TW>
+   <am>Greek localisation of Firefox</am>
+   <ar>Greek localisation of Firefox</ar>
+   <bg>Greek localisation of Firefox</bg>
+   <ca>Localització de Firefox en Grec</ca>
+   <cs>Greek localisation of Firefox</cs>
+   <da>Græsk oversættelse af Firefox</da>
+   <de>Griechische Lokalisierung von Firefox</de>
+   <el>Ελληνικός εντοπισμός του Firefox</el>
+   <en>Greek localisation of Firefox</en>
+   <es>Localización Griega de Firefox</es>
+   <et>Greek localisation of Firefox</et>
+   <eu>Greek localisation of Firefox</eu>
+   <fa>Greek localisation of Firefox</fa>
+   <fi>Greek localisation of Firefox</fi>
+   <fr>Localisation grecque pour Firefox</fr>
+   <he_IL>Greek localisation of Firefox</he_IL>
+   <hi>Greek localisation of Firefox</hi>
+   <hr>Greek localisation of Firefox</hr>
+   <hu>Greek localisation of Firefox</hu>
+   <id>Greek localisation of Firefox</id>
+   <is>Greek localisation of Firefox</is>
+   <it>Localizzazione greca di Firefox</it>
+   <ja_JP>Greek localisation of Firefox</ja_JP>
+   <ja>Greek localisation of Firefox</ja>
+   <kk>Greek localisation of Firefox</kk>
+   <ko>Greek localisation of Firefox</ko>
+   <lt>Greek localisation of Firefox</lt>
+   <mk>Greek localisation of Firefox</mk>
+   <mr>Greek localisation of Firefox</mr>
+   <nb>Greek localisation of Firefox</nb>
+   <nl>Griekse lokalisatie van Firefox</nl>
+   <pl>Grecka lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Grego Localização para Firefox</pt_BR>
+   <pt>Grego Localização para Firefox</pt>
+   <ro>Greek localisation of Firefox</ro>
+   <ru>Греческая локализация Firefox</ru>
+   <sk>Greek localisation of Firefox</sk>
+   <sl>Grška lokalizacija za Firefox</sl>
+   <sq>Greek localisation of Firefox</sq>
+   <sr>Greek localisation of Firefox</sr>
+   <sv>Grekisk lokalisering för Firefox</sv>
+   <tr>Greek localisation of Firefox</tr>
+   <uk>Greek локалізація Firefox</uk>
+   <zh_CN>Greek localisation of Firefox</zh_CN>
+   <zh_TW>Greek localisation of Firefox</zh_TW>
 </description>
 
 <installable>

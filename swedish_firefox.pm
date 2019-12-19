@@ -10,52 +10,51 @@ Swedish_Firefox
 </name>
 
 <description>
-   <am>Swedish Language Meta-Package for LibreOffice</am>
-   <ar>Swedish Language Meta-Package for LibreOffice</ar>
-   <bg>Swedish Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet de llengua en Suec per a LibreOffice</ca>
-   <cs>Swedish Language Meta-Package for LibreOffice</cs>
-   <da>Svensk sprog-metapakke til LibreOffice</da>
-   <de>Schwedisches Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα σουηδικά</el>
-   <en>Swedish Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Sueco para LibreOffice</es>
-   <et>Swedish Language Meta-Package for LibreOffice</et>
-   <eu>Swedish Language Meta-Package for LibreOffice</eu>
-   <fa>Swedish Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Swedish Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Swedish Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue suédoise pour LibreOffice</fr>
-   <he_IL>Swedish Language Meta-Package for LibreOffice</he_IL>
-   <hi>Swedish Language Meta-Package for LibreOffice</hi>
-   <hr>Swedish Language Meta-Package for LibreOffice</hr>
-   <hu>Swedish Language Meta-Package for LibreOffice</hu>
-   <id>Swedish Language Meta-Package for LibreOffice</id>
-   <is>Swedish Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua svedese per LibreOffice</it>
-   <ja_JP>Swedish Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Swedish Language Meta-Package for LibreOffice</ja>
-   <kk>Swedish Language Meta-Package for LibreOffice</kk>
-   <ko>Swedish Language Meta-Package for LibreOffice</ko>
-   <lt>Swedish Language Meta-Package for LibreOffice</lt>
-   <mk>Swedish Language Meta-Package for LibreOffice</mk>
-   <mr>Swedish Language Meta-Package for LibreOffice</mr>
-   <nb>Swedish Language Meta-Package for LibreOffice</nb>
-   <nl>Zweedse Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Szwedzki metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Sueco Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Sueco Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Swedish Language Meta-Package for LibreOffice</ro>
-   <ru>Swedish Language Meta-Package for LibreOffice</ru>
-   <sk>Swedish Language Meta-Package for LibreOffice</sk>
-   <sl>Swedish Language Meta-Package for LibreOffice</sl>
-   <sq>Swedish Language Meta-Package for LibreOffice</sq>
-   <sr>Swedish Language Meta-Package for LibreOffice</sr>
-   <sv>Svenskt Språk-Meta-Paket för LibreOffice</sv>
-   <tr>Swedish Language Meta-Package for LibreOffice</tr>
-   <uk>Swedish Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Swedish Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Swedish Language Meta-Package for LibreOffice</zh_TW>
+   <am>Swedish localisation of Firefox</am>
+   <ar>Swedish localisation of Firefox</ar>
+   <bg>Swedish localisation of Firefox</bg>
+   <ca>Localització de Firefox en Suec</ca>
+   <cs>Swedish localisation of Firefox</cs>
+   <da>Svensk oversættelse af Firefox</da>
+   <de>Schwedische Lokalisierung von Firefox</de>
+   <el>Σουηδικός εντοπισμός του Firefox</el>
+   <en>Swedish localisation of Firefox</en>
+   <es>Localización Sueca de Firefox</es>
+   <et>Swedish localisation of Firefox</et>
+   <eu>Swedish localisation of Firefox</eu>
+   <fa>Swedish localisation of Firefox</fa>
+   <fi>Swedish localisation of Firefox</fi>
+   <fr>Localisation suédoise pour Firefox</fr>
+   <he_IL>Swedish localisation of Firefox</he_IL>
+   <hi>Swedish localisation of Firefox</hi>
+   <hr>Swedish localisation of Firefox</hr>
+   <hu>Swedish localisation of Firefox</hu>
+   <id>Swedish localisation of Firefox</id>
+   <is>Swedish localisation of Firefox</is>
+   <it>Localizzazione svedese di Firefox</it>
+   <ja_JP>Swedish localisation of Firefox</ja_JP>
+   <ja>Swedish localisation of Firefox</ja>
+   <kk>Swedish localisation of Firefox</kk>
+   <ko>Swedish localisation of Firefox</ko>
+   <lt>Swedish localisation of Firefox</lt>
+   <mk>Swedish localisation of Firefox</mk>
+   <mr>Swedish localisation of Firefox</mr>
+   <nb>Swedish localisation of Firefox</nb>
+   <nl>Zweedse lokalisatie van Firefox</nl>
+   <pl>Szwedzka lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Sueco Localização para Firefox</pt_BR>
+   <pt>Sueco Localização para Firefox</pt>
+   <ro>Swedish localisation of Firefox</ro>
+   <ru>Шведская локализация Firefox</ru>
+   <sk>Swedish localisation of Firefox</sk>
+   <sl>Swedish localisation of Firefox</sl>
+   <sq>Swedish localisation of Firefox</sq>
+   <sr>Swedish localisation of Firefox</sr>
+   <sv>Svensk lokalisering av Firefox</sv>
+   <tr>Swedish localisation of Firefox</tr>
+   <uk>Swedish localisation of Firefox</uk>
+   <zh_CN>Swedish localisation of Firefox</zh_CN>
+   <zh_TW>Swedish localisation of Firefox</zh_TW>
 </description>
 
 <installable>

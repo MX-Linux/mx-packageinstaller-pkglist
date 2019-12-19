@@ -10,52 +10,51 @@ Estonian_Thunderbird
 </name>
 
 <description>
-   <am>a simple document (PostScript, PDF) viewer</am>
-   <ar>a simple document (PostScript, PDF) viewer</ar>
-   <bg>a simple document (PostScript, PDF) viewer</bg>
-   <ca>senzill visor de documents (PDF, Postscript)</ca>
-   <cs>a simple document (PostScript, PDF) viewer</cs>
-   <da>en simpel dokumentfremviser (PostScript, PDF)</da>
-   <de>Ein einfacher Dokumentenbetrachter (PostScript, PDF)</de>
-   <el>ένα απλό πρόγραμμα προβολής (PostScript, PDF)</el>
-   <en>a simple document (PostScript, PDF) viewer</en>
-   <es>Visor de documentos (PostScript, PDF) sencillo</es>
-   <et>a simple document (PostScript, PDF) viewer</et>
-   <eu>a simple document (PostScript, PDF) viewer</eu>
-   <fa>a simple document (PostScript, PDF) viewer</fa>
-   <fil_PH>a simple document (PostScript, PDF) viewer</fil_PH>
-   <fi>a simple document (PostScript, PDF) viewer</fi>
-   <fr>Visionneuse simple de documents (PostScript, PDF)</fr>
-   <he_IL>a simple document (PostScript, PDF) viewer</he_IL>
-   <hi>a simple document (PostScript, PDF) viewer</hi>
-   <hr>a simple document (PostScript, PDF) viewer</hr>
-   <hu>a simple document (PostScript, PDF) viewer</hu>
-   <id>a simple document (PostScript, PDF) viewer</id>
-   <is>a simple document (PostScript, PDF) viewer</is>
-   <it>Un semplice visualizzatore di documenti (PostScript, PDF)</it>
-   <ja_JP>a simple document (PostScript, PDF) viewer</ja_JP>
-   <ja>a simple document (PostScript, PDF) viewer</ja>
-   <kk>a simple document (PostScript, PDF) viewer</kk>
-   <ko>a simple document (PostScript, PDF) viewer</ko>
-   <lt>paprasta dokumentų (PostScript, PDF) žiūryklė</lt>
-   <mk>a simple document (PostScript, PDF) viewer</mk>
-   <mr>a simple document (PostScript, PDF) viewer</mr>
-   <nb>a simple document (PostScript, PDF) viewer</nb>
-   <nl>een eenvoudige document (PostScript, PDF) lezer</nl>
-   <pl>prosta przeglądarka dokumentów (PostScript, PDF)</pl>
-   <pt_BR>Visualizador de documentos (PostScript, PDF) simples e de fácil utilização</pt_BR>
-   <pt>Visualizador de documentos (PostScript, PDF) simples e de fácil utilização</pt>
-   <ro>a simple document (PostScript, PDF) viewer</ro>
-   <ru>Просмотрщик документов PostScript, PDF</ru>
-   <sk>Zobrazovač jednoduchých dokumentov (PostScript, PDF)</sk>
-   <sl>preprost pregledovalnik dokumentov (PostScript, PDF)</sl>
-   <sq>a simple document (PostScript, PDF) viewer</sq>
-   <sr>a simple document (PostScript, PDF) viewer</sr>
-   <sv>en enkel dokument (PostScript, PDF) läsare</sv>
-   <tr>a simple document (PostScript, PDF) viewer</tr>
-   <uk>простий переглядач документів (PostScript, PDF)</uk>
-   <zh_CN>a simple document (PostScript, PDF) viewer</zh_CN>
-   <zh_TW>a simple document (PostScript, PDF) viewer</zh_TW>
+   <am>Estonian localisation of Thunderbird</am>
+   <ar>Estonian localisation of Thunderbird</ar>
+   <bg>Estonian localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Estonià</ca>
+   <cs>Estonian localisation of Thunderbird</cs>
+   <da>Estisk oversættelse af Thunderbird</da>
+   <de>Estnische Lokalisierung von Thunderbird</de>
+   <el>Εστονικός εντοπισμός του Thunderbird</el>
+   <en>Estonian localisation of Thunderbird</en>
+   <es>Localización Estonia de Thunderbird</es>
+   <et>Estonian localisation of Thunderbird</et>
+   <eu>Estonian localisation of Thunderbird</eu>
+   <fa>Estonian localisation of Thunderbird</fa>
+   <fi>Estonian localisation of Thunderbird</fi>
+   <fr>Localisation estonienne pour Thunderbird</fr>
+   <he_IL>Estonian localisation of Thunderbird</he_IL>
+   <hi>Estonian localisation of Thunderbird</hi>
+   <hr>Estonian localisation of Thunderbird</hr>
+   <hu>Estonian localisation of Thunderbird</hu>
+   <id>Estonian localisation of Thunderbird</id>
+   <is>Estonian localisation of Thunderbird</is>
+   <it>Localizzazione estone di Thunderbird</it>
+   <ja_JP>Estonian localisation of Thunderbird</ja_JP>
+   <ja>Estonian localisation of Thunderbird</ja>
+   <kk>Estonian localisation of Thunderbird</kk>
+   <ko>Estonian localisation of Thunderbird</ko>
+   <lt>Estonian localisation of Thunderbird</lt>
+   <mk>Estonian localisation of Thunderbird</mk>
+   <mr>Estonian localisation of Thunderbird</mr>
+   <nb>Estonian localisation of Thunderbird</nb>
+   <nl>Estische lokalisatie van Thunderbird</nl>
+   <pl>Estońska lokalizacja Thunderbirda</pl>
+   <pt_BR>Estónio Localização para Thunderbird</pt_BR>
+   <pt>Estónio Localização para Thunderbird</pt>
+   <ro>Estonian localisation of Thunderbird</ro>
+   <ru>Estonian localisation of Thunderbird</ru>
+   <sk>Estonian localisation of Thunderbird</sk>
+   <sl>Estonska lokalizacjja za Thunderbird</sl>
+   <sq>Estonian localisation of Thunderbird</sq>
+   <sr>Estonian localisation of Thunderbird</sr>
+   <sv>Estnisk lokalisering av Thunderbird</sv>
+   <tr>Estonian localisation of Thunderbird</tr>
+   <uk>Estonian локалізація Thunderbird</uk>
+   <zh_CN>Estonian localisation of Thunderbird</zh_CN>
+   <zh_TW>Estonian localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

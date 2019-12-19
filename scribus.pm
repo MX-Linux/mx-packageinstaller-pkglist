@@ -10,52 +10,51 @@ Scribus
 </name>
 
 <description>
-   <am>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</am>
-   <ar>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</ar>
-   <bg>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</bg>
-   <ca>Secundària: inclou calibre, celestia, dia, laby, lightspeed, melting, ri-li i stellarium</ca>
-   <cs>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</cs>
-   <da>Videregående skole. Inkluderer: calibre, celestia, dia, laby, lightspeed,  melting, ri-li og stellarium</da>
-   <de>Oberschule: Beinhaltet: Kaliber, Celestia, Dia, Laby, Lightspeed, Schmelzen, Ri-li und Stellarium.</de>
-   <el>Δευτεροβάθμιο σχολείο. Περιλαμβάνει: calibre, celestia, dia, laby, lightpeed, melting, ri-li και stellarium</el>
-   <en>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</en>
-   <es>Secondary incluye: alibre, celestia, dia, laby, lightspeed, melting, ri-li y stellarium</es>
-   <et>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</et>
-   <eu>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</eu>
-   <fa>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</fa>
-   <fil_PH>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</fil_PH>
-   <fi>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</fi>
-   <fr>Secondaire. Inclus: calibre, celestia, dia, laby, lightspeed, melting, ri-li et stellarium</fr>
-   <he_IL>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</he_IL>
-   <hi>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</hi>
-   <hr>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</hr>
-   <hu>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</hu>
-   <id>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</id>
-   <is>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</is>
-   <it>Superiori. Include: calibre, celestia, dia, laby, lightspeed, melting, ri-li e stellarium</it>
-   <ja_JP>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</ja_JP>
-   <ja>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</ja>
-   <kk>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</kk>
-   <ko>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</ko>
-   <lt>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</lt>
-   <mk>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</mk>
-   <mr>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</mr>
-   <nb>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</nb>
-   <nl>Gevorderd. Inclusief: calibre, celestia, dia, laby, lightspeed, melting, ri-li  en stellarium</nl>
-   <pl>Szkoła średnia: Zawiera: calibre, celestia, dia, laby, lightspeed, melting, ri-li i stellarium</pl>
-   <pt_BR>Ensino fundamental (7º ao 9º ano). Inclui: calibre, celestia, dia, laby, lightspeed, melting, ri-li e stellarium</pt_BR>
-   <pt>Ensino básico 3º ciclo. Inclui: calibre, celestia, dia, laby, lightspeed, melting, ri-li e stellarium</pt>
-   <ro>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</ro>
-   <ru>Средняя школа, включает: calibre, celestia, dia, laby, lightspeed, melting, ri-li и stellarium</ru>
-   <sk>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</sk>
-   <sl>Srednja šola. Vsebuje: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</sl>
-   <sq>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</sq>
-   <sr>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</sr>
-   <sv>Secondary. Inkluderar: calibre, celestia, dia, laby, lightspeed, melting, ri-li och stellarium</sv>
-   <tr>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</tr>
-   <uk>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</uk>
-   <zh_CN>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</zh_CN>
-   <zh_TW>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</zh_TW>
+   <am>a desktop page layout program</am>
+   <ar>a desktop page layout program</ar>
+   <bg>a desktop page layout program</bg>
+   <ca>Programa de disseny de pàgines d'escriptori</ca>
+   <cs>a desktop page layout program</cs>
+   <da>et program til skrivebordssidelayout</da>
+   <de>Ein Desktop-Seitenlayout-Programm</de>
+   <el>ένα πρόγραμμα διάταξης σελίδας επιφάνειας εργασίας</el>
+   <en>a desktop page layout program</en>
+   <es>Programa de maquetación de páginas para escritorio</es>
+   <et>a desktop page layout program</et>
+   <eu>a desktop page layout program</eu>
+   <fa>a desktop page layout program</fa>
+   <fi>a desktop page layout program</fi>
+   <fr>Programme de mise en page</fr>
+   <he_IL>a desktop page layout program</he_IL>
+   <hi>a desktop page layout program</hi>
+   <hr>a desktop page layout program</hr>
+   <hu>a desktop page layout program</hu>
+   <id>a desktop page layout program</id>
+   <is>a desktop page layout program</is>
+   <it>programma di impaginazione per il desktop</it>
+   <ja_JP>a desktop page layout program</ja_JP>
+   <ja>a desktop page layout program</ja>
+   <kk>a desktop page layout program</kk>
+   <ko>a desktop page layout program</ko>
+   <lt>a desktop page layout program</lt>
+   <mk>a desktop page layout program</mk>
+   <mr>a desktop page layout program</mr>
+   <nb>a desktop page layout program</nb>
+   <nl>a desktop pagina layout programma</nl>
+   <pl>program do składu tekstu (DTP), projektowania publikacji i tworzenia plików PDF</pl>
+   <pt_BR>Programa de paginação electrônica (composição de publicações)</pt_BR>
+   <pt>Programa de paginação electrónica (composição de publicações)</pt>
+   <ro>a desktop page layout program</ro>
+   <ru>Приложение для визуальной вёрстки документов</ru>
+   <sk>a desktop page layout program</sk>
+   <sl>Namizno urejanje preloma strani</sl>
+   <sq>a desktop page layout program</sq>
+   <sr>a desktop page layout program</sr>
+   <sv>ett skrivbords sidlayout-program</sv>
+   <tr>a desktop page layout program</tr>
+   <uk>a desktop page layout program</uk>
+   <zh_CN>a desktop page layout program</zh_CN>
+   <zh_TW>a desktop page layout program</zh_TW>
 </description>
 
 <installable>

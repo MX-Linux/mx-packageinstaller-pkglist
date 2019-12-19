@@ -10,52 +10,51 @@ Syncthing
 </name>
 
 <description>
-   <am>Tajik Language Meta-Package for LibreOffice</am>
-   <ar>Tajik Language Meta-Package for LibreOffice</ar>
-   <bg>Tajik Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Tadjik per LibreOffice</ca>
-   <cs>Tajik Language Meta-Package for LibreOffice</cs>
-   <da>Tajik Language Meta-Package for LibreOffice</da>
-   <de>Tadschikisches Meta-Paket für LibreOffice</de>
-   <el>Tajik Language Meta-Package for LibreOffice</el>
-   <en>Tajik Language Meta-Package for LibreOffice</en>
-   <es>Metapaquete de idioma tayiko para LibreOffice</es>
-   <et>Tajik Language Meta-Package for LibreOffice</et>
-   <eu>Tajik Language Meta-Package for LibreOffice</eu>
-   <fa>Tajik Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Tajik Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Tajik Language Meta-Package for LibreOffice</fi>
-   <fr>Tajik Language Meta-Package for LibreOffice</fr>
-   <he_IL>Tajik Language Meta-Package for LibreOffice</he_IL>
-   <hi>Tajik Language Meta-Package for LibreOffice</hi>
-   <hr>Tajik Language Meta-Package for LibreOffice</hr>
-   <hu>Tajik Language Meta-Package for LibreOffice</hu>
-   <id>Tajik Language Meta-Package for LibreOffice</id>
-   <is>Tajik Language Meta-Package for LibreOffice</is>
-   <it>Tajik Language Meta-Package for LibreOffice</it>
-   <ja_JP>Tajik Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Tajik Language Meta-Package for LibreOffice</ja>
-   <kk>Tajik Language Meta-Package for LibreOffice</kk>
-   <ko>Tajik Language Meta-Package for LibreOffice</ko>
-   <lt>Tajik Language Meta-Package for LibreOffice</lt>
-   <mk>Tajik Language Meta-Package for LibreOffice</mk>
-   <mr>Tajik Language Meta-Package for LibreOffice</mr>
-   <nb>Tajik Language Meta-Package for LibreOffice</nb>
-   <nl>Tajik Language Meta-Package for LibreOffice</nl>
-   <pl>Tajik Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Tajik Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Tajique Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Tajik Language Meta-Package for LibreOffice</ro>
-   <ru>Tajik Language Meta-Package for LibreOffice</ru>
-   <sk>Tajik Language Meta-Package for LibreOffice</sk>
-   <sl>Tadžiški jezikovni meta-paket za LibreOffice</sl>
-   <sq>Tajik Language Meta-Package for LibreOffice</sq>
-   <sr>Tajik Language Meta-Package for LibreOffice</sr>
-   <sv>Tajik Språk Meta-Paket för LibreOffice</sv>
-   <tr>Tajik Language Meta-Package for LibreOffice</tr>
-   <uk>Tajik Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Tajik Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Tajik Language Meta-Package for LibreOffice</zh_TW>
+   <am>Syncthing file sync utility</am>
+   <ar>Syncthing file sync utility</ar>
+   <bg>Syncthing file sync utility</bg>
+   <ca>Utilitat de sincronització de fitxers Syncthing</ca>
+   <cs>Syncthing file sync utility</cs>
+   <da>Syncthing file sync utility</da>
+   <de>Syncthing Dateisynchronisationsprogramm</de>
+   <el>Συγχρονισμός χρησιμότητας συγχρονισμού αρχείων</el>
+   <en>Syncthing file sync utility</en>
+   <es>Utilidad de sincronización de archivos de sincronización</es>
+   <et>Syncthing file sync utility</et>
+   <eu>Syncthing file sync utility</eu>
+   <fa>Syncthing file sync utility</fa>
+   <fi>Syncthing file sync utility</fi>
+   <fr>Utilitaire de synchronisation de fichier Syncthing</fr>
+   <he_IL>Syncthing file sync utility</he_IL>
+   <hi>Syncthing file sync utility</hi>
+   <hr>Syncthing file sync utility</hr>
+   <hu>Syncthing file sync utility</hu>
+   <id>Syncthing file sync utility</id>
+   <is>Syncthing file sync utility</is>
+   <it>Syncthing applicazione di sincronizzazione di file</it>
+   <ja_JP>Syncthing file sync utility</ja_JP>
+   <ja>Syncthing file sync utility</ja>
+   <kk>Syncthing file sync utility</kk>
+   <ko>Syncthing file sync utility</ko>
+   <lt>Syncthing file sync utility</lt>
+   <mk>Syncthing file sync utility</mk>
+   <mr>Syncthing file sync utility</mr>
+   <nb>Syncthing file sync utility</nb>
+   <nl>Syncthing file synchronisatie hulpprogramma</nl>
+   <pl>Syncthing file sync utility</pl>
+   <pt_BR>Utilitário de sincronização de arquivos</pt_BR>
+   <pt>Utilitário de sincronização de ficheiros</pt>
+   <ro>Syncthing file sync utility</ro>
+   <ru>Syncthing - приложение распределенной синхронизации файлов</ru>
+   <sk>Syncthing file sync utility</sk>
+   <sl>Syncthing orodje za sinhronizacijo datotek</sl>
+   <sq>Syncthing file sync utility</sq>
+   <sr>Syncthing file sync utility</sr>
+   <sv>Syncthing filsynkroniserings-redskap</sv>
+   <tr>Syncthing file sync utility</tr>
+   <uk>Syncthing file sync utility</uk>
+   <zh_CN>Syncthing file sync utility</zh_CN>
+   <zh_TW>Syncthing file sync utility</zh_TW>
 </description>
 
 <installable>

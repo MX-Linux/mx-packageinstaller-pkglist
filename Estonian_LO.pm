@@ -10,52 +10,51 @@ Estonian_Libreoffice
 </name>
 
 <description>
-   <am>Estonian localisation of Thunderbird</am>
-   <ar>Estonian localisation of Thunderbird</ar>
-   <bg>Estonian localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Estonià</ca>
-   <cs>Estonian localisation of Thunderbird</cs>
-   <da>Estisk oversættelse af Thunderbird</da>
-   <de>Estnische Lokalisierung von Thunderbird</de>
-   <el>Εστονικός εντοπισμός του Thunderbird</el>
-   <en>Estonian localisation of Thunderbird</en>
-   <es>Localización Estonia de Thunderbird</es>
-   <et>Estonian localisation of Thunderbird</et>
-   <eu>Estonian localisation of Thunderbird</eu>
-   <fa>Estonian localisation of Thunderbird</fa>
-   <fil_PH>Estonian localisation of Thunderbird</fil_PH>
-   <fi>Estonian localisation of Thunderbird</fi>
-   <fr>Localisation estonienne pour Thunderbird</fr>
-   <he_IL>Estonian localisation of Thunderbird</he_IL>
-   <hi>Estonian localisation of Thunderbird</hi>
-   <hr>Estonian localisation of Thunderbird</hr>
-   <hu>Estonian localisation of Thunderbird</hu>
-   <id>Estonian localisation of Thunderbird</id>
-   <is>Estonian localisation of Thunderbird</is>
-   <it>Localizzazione estone di Thunderbird</it>
-   <ja_JP>Estonian localisation of Thunderbird</ja_JP>
-   <ja>Estonian localisation of Thunderbird</ja>
-   <kk>Estonian localisation of Thunderbird</kk>
-   <ko>Estonian localisation of Thunderbird</ko>
-   <lt>Estonian localisation of Thunderbird</lt>
-   <mk>Estonian localisation of Thunderbird</mk>
-   <mr>Estonian localisation of Thunderbird</mr>
-   <nb>Estonian localisation of Thunderbird</nb>
-   <nl>Estische lokalisatie van Thunderbird</nl>
-   <pl>Estońska lokalizacja Thunderbirda</pl>
-   <pt_BR>Estónio Localização para Thunderbird</pt_BR>
-   <pt>Estónio Localização para Thunderbird</pt>
-   <ro>Estonian localisation of Thunderbird</ro>
-   <ru>Estonian localisation of Thunderbird</ru>
-   <sk>Estonian localisation of Thunderbird</sk>
-   <sl>Estonska lokalizacjja za Thunderbird</sl>
-   <sq>Estonian localisation of Thunderbird</sq>
-   <sr>Estonian localisation of Thunderbird</sr>
-   <sv>Estnisk lokalisering av Thunderbird</sv>
-   <tr>Thunderbird'ün Estonya dili yerelleştirmesi</tr>
-   <uk>Estonian локалізація Thunderbird</uk>
-   <zh_CN>Estonian localisation of Thunderbird</zh_CN>
-   <zh_TW>Estonian localisation of Thunderbird</zh_TW>
+   <am>Estonian Language Meta-Package for LibreOffice</am>
+   <ar>Estonian Language Meta-Package for LibreOffice</ar>
+   <bg>Estonian Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Estonian per LibreOffice</ca>
+   <cs>Estonian Language Meta-Package for LibreOffice</cs>
+   <da>Estonian sprog-metapakke til LibreOffice</da>
+   <de>Estonian Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Estonian</el>
+   <en>Estonian Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Estonian para LibreOffice</es>
+   <et>Estonian Language Meta-Package for LibreOffice</et>
+   <eu>Estonian Language Meta-Package for LibreOffice</eu>
+   <fa>Estonian Language Meta-Package for LibreOffice</fa>
+   <fi>Estonian Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Estonian pour LibreOffice</fr>
+   <he_IL>Estonian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Estonian Language Meta-Package for LibreOffice</hi>
+   <hr>Estonian Language Meta-Package for LibreOffice</hr>
+   <hu>Estonian Language Meta-Package for LibreOffice</hu>
+   <id>Estonian Language Meta-Package for LibreOffice</id>
+   <is>Estonian Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Estonian per LibreOffice</it>
+   <ja_JP>Estonian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Estonian Language Meta-Package for LibreOffice</ja>
+   <kk>Estonian Language Meta-Package for LibreOffice</kk>
+   <ko>Estonian Language Meta-Package for LibreOffice</ko>
+   <lt>Estonian Language Meta-Package for LibreOffice</lt>
+   <mk>Estonian Language Meta-Package for LibreOffice</mk>
+   <mr>Estonian Language Meta-Package for LibreOffice</mr>
+   <nb>Estonian Language Meta-Package for LibreOffice</nb>
+   <nl>Estonian Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Estonian metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Estonian Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Estonian Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Estonian Language Meta-Package for LibreOffice</ro>
+   <ru>Estonian Language Meta-Package for LibreOffice</ru>
+   <sk>Estonian Language Meta-Package for LibreOffice</sk>
+   <sl>Estonian Language Meta-Package for LibreOffice</sl>
+   <sq>Estonian Language Meta-Package for LibreOffice</sq>
+   <sr>Estonian Language Meta-Package for LibreOffice</sr>
+   <sv>Estonian Språk Meta-Paket för LibreOffice</sv>
+   <tr>Estonian Language Meta-Package for LibreOffice</tr>
+   <uk>Estonian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Estonian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Estonian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

@@ -10,52 +10,51 @@ MX 18 Wallpapers
 </name>
 
 <description>
-   <am>fluxbox - after installation use mx-flux in menu to finish</am>
-   <ar>fluxbox - after installation use mx-flux in menu to finish</ar>
-   <bg>fluxbox - after installation use mx-flux in menu to finish</bg>
-   <ca>Fluxbox - després de la instal·lació useu mx-flux al menú per acabar</ca>
-   <cs>fluxbox - after installation use mx-flux in menu to finish</cs>
-   <da>fluxbox - after installation use mx-flux in menu to finish</da>
-   <de>fluxbox - nach Installation mx-flux im Menü zum Fertigstellen benutzen</de>
-   <el>fluxbox - after installation use mx-flux in menu to finish</el>
-   <en>fluxbox - after installation use mx-flux in menu to finish</en>
-   <es>fluxbox - después de la instalación use mx-flux en el menú para terminar</es>
-   <et>fluxbox - after installation use mx-flux in menu to finish</et>
-   <eu>fluxbox - after installation use mx-flux in menu to finish</eu>
-   <fa>fluxbox - after installation use mx-flux in menu to finish</fa>
-   <fil_PH>fluxbox - after installation use mx-flux in menu to finish</fil_PH>
-   <fi>fluxbox - after installation use mx-flux in menu to finish</fi>
-   <fr>fluxbox - after installation use mx-flux in menu to finish</fr>
-   <he_IL>fluxbox - after installation use mx-flux in menu to finish</he_IL>
-   <hi>fluxbox - after installation use mx-flux in menu to finish</hi>
-   <hr>fluxbox - after installation use mx-flux in menu to finish</hr>
-   <hu>fluxbox - after installation use mx-flux in menu to finish</hu>
-   <id>fluxbox - after installation use mx-flux in menu to finish</id>
-   <is>fluxbox - after installation use mx-flux in menu to finish</is>
-   <it>fluxbox - after installation use mx-flux in menu to finish</it>
-   <ja_JP>fluxbox - after installation use mx-flux in menu to finish</ja_JP>
-   <ja>fluxbox - after installation use mx-flux in menu to finish</ja>
-   <kk>fluxbox - after installation use mx-flux in menu to finish</kk>
-   <ko>fluxbox - after installation use mx-flux in menu to finish</ko>
-   <lt>fluxbox - after installation use mx-flux in menu to finish</lt>
-   <mk>fluxbox - after installation use mx-flux in menu to finish</mk>
-   <mr>fluxbox - after installation use mx-flux in menu to finish</mr>
-   <nb>fluxbox - after installation use mx-flux in menu to finish</nb>
-   <nl>fluxbox - after installation use mx-flux in menu to finish</nl>
-   <pl>fluxbox - after installation use mx-flux in menu to finish</pl>
-   <pt_BR>fluxbox - after installation use mx-flux in menu to finish</pt_BR>
-   <pt>fluxbox - after installation use mx-flux in menu to finish</pt>
-   <ro>fluxbox - after installation use mx-flux in menu to finish</ro>
-   <ru>fluxbox - после установки используйте для завершения mx-flux в меню</ru>
-   <sk>fluxbox - after installation use mx-flux in menu to finish</sk>
-   <sl>fluxbox - po namestitvi za dokončanje uporabite mx-flux v meniju</sl>
-   <sq>fluxbox - after installation use mx-flux in menu to finish</sq>
-   <sr>fluxbox - after installation use mx-flux in menu to finish</sr>
-   <sv>fluxbox - efter installation använd mx-flux i menyn för att avsluta</sv>
-   <tr>fluxbox - after installation use mx-flux in menu to finish</tr>
-   <uk>fluxbox - after installation use mx-flux in menu to finish</uk>
-   <zh_CN>fluxbox - after installation use mx-flux in menu to finish</zh_CN>
-   <zh_TW>fluxbox - after installation use mx-flux in menu to finish</zh_TW>
+   <am>backgrounds originally supplied with MX 18</am>
+   <ar>backgrounds originally supplied with MX 18</ar>
+   <bg>backgrounds originally supplied with MX 18</bg>
+   <ca>Fons de pantalla subministrats amb MX 18</ca>
+   <cs>backgrounds originally supplied with MX 18</cs>
+   <da>baggrunde fra MX 18</da>
+   <de>Bildschirmhintergründe, die ursprünglich mit MX 18 geliefert wurden</de>
+   <el>επιφάνεια εργασίας που παρέχεται αρχικά με MX 18</el>
+   <en>backgrounds originally supplied with MX 18</en>
+   <es>Fondos de escritorio suministrados originalmente con MX 18</es>
+   <et>backgrounds originally supplied with MX 18</et>
+   <eu>backgrounds originally supplied with MX 18</eu>
+   <fa>backgrounds originally supplied with MX 18</fa>
+   <fi>backgrounds originally supplied with MX 18</fi>
+   <fr>Fonds d'écran initialement fournis avec MX 18</fr>
+   <he_IL>backgrounds originally supplied with MX 18</he_IL>
+   <hi>backgrounds originally supplied with MX 18</hi>
+   <hr>backgrounds originally supplied with MX 18</hr>
+   <hu>backgrounds originally supplied with MX 18</hu>
+   <id>backgrounds originally supplied with MX 18</id>
+   <is>backgrounds originally supplied with MX 18</is>
+   <it>sfondi originariamente forniti con MX 18</it>
+   <ja_JP>backgrounds originally supplied with MX 18</ja_JP>
+   <ja>backgrounds originally supplied with MX 18</ja>
+   <kk>backgrounds originally supplied with MX 18</kk>
+   <ko>backgrounds originally supplied with MX 18</ko>
+   <lt>backgrounds originally supplied with MX 18</lt>
+   <mk>backgrounds originally supplied with MX 18</mk>
+   <mr>backgrounds originally supplied with MX 18</mr>
+   <nb>backgrounds originally supplied with MX 18</nb>
+   <nl>achtergronden oorspronkelijk geleverd met MX 18</nl>
+   <pl>tła oryginalnie dostarczone z MX 18</pl>
+   <pt_BR>Imagens de fundo originalmente incluídas no MX 18</pt_BR>
+   <pt>Imagens de fundo originalmente incluídas no MX 18</pt>
+   <ro>backgrounds originally supplied with MX 18</ro>
+   <ru>Обои первоначально входившие в MX 18</ru>
+   <sk>backgrounds originally supplied with MX 18</sk>
+   <sl>Izvirna ozadja za MX 18</sl>
+   <sq>backgrounds originally supplied with MX 18</sq>
+   <sr>backgrounds originally supplied with MX 18</sr>
+   <sv>wallpapers ursprungligen medföljande MX 18</sv>
+   <tr>backgrounds originally supplied with MX 18</tr>
+   <uk>backgrounds originally supplied with MX 18</uk>
+   <zh_CN>backgrounds originally supplied with MX 18</zh_CN>
+   <zh_TW>backgrounds originally supplied with MX 18</zh_TW>
 </description>
 
 <installable>

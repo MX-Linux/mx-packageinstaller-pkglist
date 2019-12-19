@@ -10,52 +10,51 @@ Audacity
 </name>
 
 <description>
-   <am>Basque localisation of Firefox</am>
-   <ar>Basque localisation of Firefox</ar>
-   <bg>Basque localisation of Firefox</bg>
-   <ca>Localització de Firefox en Euskara</ca>
-   <cs>Basque localisation of Firefox</cs>
-   <da>Baskisk oversættelse af Firefox</da>
-   <de>Baskische Lokalisierung von Firefox</de>
-   <el>Basque εντοπισμός του Firefox</el>
-   <en>Basque localisation of Firefox</en>
-   <es>Localización Vasco de Firefox</es>
-   <et>Basque localisation of Firefox</et>
-   <eu>Basque localisation of Firefox</eu>
-   <fa>Basque localisation of Firefox</fa>
-   <fil_PH>Basque localisation of Firefox</fil_PH>
-   <fi>Basque localisation of Firefox</fi>
-   <fr>Localisation basque pour Firefox</fr>
-   <he_IL>Basque localisation of Firefox</he_IL>
-   <hi>Basque localisation of Firefox</hi>
-   <hr>Baskijska lokalizacija Firefoxa</hr>
-   <hu>Basque localisation of Firefox</hu>
-   <id>Basque localisation of Firefox</id>
-   <is>Basque localisation of Firefox</is>
-   <it>Localizzazione basca di Firefox</it>
-   <ja_JP>Basque localisation of Firefox</ja_JP>
-   <ja>Basque localisation of Firefox</ja>
-   <kk>Basque localisation of Firefox</kk>
-   <ko>Basque localisation of Firefox</ko>
-   <lt>Basque localisation of Firefox</lt>
-   <mk>Basque localisation of Firefox</mk>
-   <mr>Basque localisation of Firefox</mr>
-   <nb>Basque localisation of Firefox</nb>
-   <nl>Baskische lokalisatie van Firefox</nl>
-   <pl>Baskijska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Basco Localização para Firefox</pt_BR>
-   <pt>Basco Localização para Firefox</pt>
-   <ro>Basque localisation of Firefox</ro>
-   <ru>Баскская локализация Firefox</ru>
-   <sk>Basque lokalizácia pre Firefox</sk>
-   <sl>Basque localisation of Firefox</sl>
-   <sq>Basque localisation of Firefox</sq>
-   <sr>Basque localisation of Firefox</sr>
-   <sv>Baskisk lokalisering av Firefox</sv>
-   <tr>Firefox'un Bask dili yerelleştirmesi</tr>
-   <uk>Basque локалізація Firefox</uk>
-   <zh_CN>Basque localisation of Firefox</zh_CN>
-   <zh_TW>Basque localisation of Firefox</zh_TW>
+   <am>a multi-track audio editor</am>
+   <ar>a multi-track audio editor</ar>
+   <bg>a multi-track audio editor</bg>
+   <ca>Editor d'àudio multipista</ca>
+   <cs>a multi-track audio editor</cs>
+   <da>en multispor lydredigering</da>
+   <de>Ein Mehrspur-Audio-Editor</de>
+   <el>ένα πρόγραμμα επεξεργασίας ήχου πολλαπλών κομματιών</el>
+   <en>a multi-track audio editor</en>
+   <es>Editor de audio multi-pistas</es>
+   <et>a multi-track audio editor</et>
+   <eu>a multi-track audio editor</eu>
+   <fa>a multi-track audio editor</fa>
+   <fi>a multi-track audio editor</fi>
+   <fr>Un éditeur audio multi-pistes</fr>
+   <he_IL>a multi-track audio editor</he_IL>
+   <hi>a multi-track audio editor</hi>
+   <hr>a multi-track audio editor</hr>
+   <hu>a multi-track audio editor</hu>
+   <id>a multi-track audio editor</id>
+   <is>a multi-track audio editor</is>
+   <it>Audio editor multi-traccia</it>
+   <ja_JP>a multi-track audio editor</ja_JP>
+   <ja>a multi-track audio editor</ja>
+   <kk>a multi-track audio editor</kk>
+   <ko>a multi-track audio editor</ko>
+   <lt>a multi-track audio editor</lt>
+   <mk>a multi-track audio editor</mk>
+   <mr>a multi-track audio editor</mr>
+   <nb>a multi-track audio editor</nb>
+   <nl>een multi-track audio editor</nl>
+   <pl>wielościeżkowy edytor audio</pl>
+   <pt_BR>Editor de áudio multi-faixa</pt_BR>
+   <pt>Editor de áudio multi-faixa</pt>
+   <ro>a multi-track audio editor</ro>
+   <ru>Многодорожечный аудио редактор</ru>
+   <sk>viackanálový audio editor</sk>
+   <sl>večstezni urejevalnik zvoka</sl>
+   <sq>a multi-track audio editor</sq>
+   <sr>a multi-track audio editor</sr>
+   <sv>en flerspårs ljudredigerare</sv>
+   <tr>a multi-track audio editor</tr>
+   <uk>мульти-трековий редактор аудіо</uk>
+   <zh_CN>a multi-track audio editor</zh_CN>
+   <zh_TW>a multi-track audio editor</zh_TW>
 </description>
 
 <installable>

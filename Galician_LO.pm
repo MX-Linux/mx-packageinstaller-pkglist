@@ -10,52 +10,51 @@ Galician_Libreoffice
 </name>
 
 <description>
-   <am>fast and lightweight IDE and text editor</am>
-   <ar>fast and lightweight IDE and text editor</ar>
-   <bg>fast and lightweight IDE and text editor</bg>
-   <ca>IDE i editor de text ràpid i lleuger</ca>
-   <cs>fast and lightweight IDE and text editor</cs>
-   <da>hurtig og letvægts IDE og tekstredigering</da>
-   <de>Schneller und schlanker Texteditor und IDE</de>
-   <el>γρήγορο και ελαφρύ IDE και πρόγραμμα επεξεργασίας κειμένου</el>
-   <en>fast and lightweight IDE and text editor</en>
-   <es>Editor de textos rápido y liviano (IDE)</es>
-   <et>fast and lightweight IDE and text editor</et>
-   <eu>fast and lightweight IDE and text editor</eu>
-   <fa>fast and lightweight IDE and text editor</fa>
-   <fil_PH>fast and lightweight IDE and text editor</fil_PH>
-   <fi>fast and lightweight IDE and text editor</fi>
-   <fr>Éditeur de texte IDE rapide et léger</fr>
-   <he_IL>fast and lightweight IDE and text editor</he_IL>
-   <hi>fast and lightweight IDE and text editor</hi>
-   <hr>fast and lightweight IDE and text editor</hr>
-   <hu>fast and lightweight IDE and text editor</hu>
-   <id>fast and lightweight IDE and text editor</id>
-   <is>fast and lightweight IDE and text editor</is>
-   <it>Editor di testo, ed Ambiente di Sviluppo Integrato, veloce e leggero</it>
-   <ja_JP>fast and lightweight IDE and text editor</ja_JP>
-   <ja>fast and lightweight IDE and text editor</ja>
-   <kk>fast and lightweight IDE and text editor</kk>
-   <ko>fast and lightweight IDE and text editor</ko>
-   <lt>fast and lightweight IDE and text editor</lt>
-   <mk>fast and lightweight IDE and text editor</mk>
-   <mr>fast and lightweight IDE and text editor</mr>
-   <nb>fast and lightweight IDE and text editor</nb>
-   <nl>snelle en lichtgewicht IDE en tekstverwerker</nl>
-   <pl>szybkie i lekkie środowisko programistyczne oraz edytor tekstu</pl>
-   <pt_BR>IDE (Integrated Development Environment) e editor de texto, ligeiro e rápido</pt_BR>
-   <pt>IDE (Integrated Development Environment) e editor de texto, ligeiro e rápido</pt>
-   <ro>fast and lightweight IDE and text editor</ro>
-   <ru>Быстрая и легковесная IDE и текстовый редактор</ru>
-   <sk>fast and lightweight IDE and text editor</sk>
-   <sl>lahek in hiter IDE urejevalnik teksta</sl>
-   <sq>fast and lightweight IDE and text editor</sq>
-   <sr>fast and lightweight IDE and text editor</sr>
-   <sv>snabb lättvikts IDE och textredigerare</sv>
-   <tr>fast and lightweight IDE and text editor</tr>
-   <uk>швидкий і легкий текстовий редактор та IDE</uk>
-   <zh_CN>fast and lightweight IDE and text editor</zh_CN>
-   <zh_TW>fast and lightweight IDE and text editor</zh_TW>
+   <am>Galician Language Meta-Package for LibreOffice</am>
+   <ar>Galician Language Meta-Package for LibreOffice</ar>
+   <bg>Galician Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Galician per LibreOffice</ca>
+   <cs>Galician Language Meta-Package for LibreOffice</cs>
+   <da>Galician sprog-metapakke til LibreOffice</da>
+   <de>Galician Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Galician</el>
+   <en>Galician Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Galician para LibreOffice</es>
+   <et>Galician Language Meta-Package for LibreOffice</et>
+   <eu>Galician Language Meta-Package for LibreOffice</eu>
+   <fa>Galician Language Meta-Package for LibreOffice</fa>
+   <fi>Galician Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Galician pour LibreOffice</fr>
+   <he_IL>Galician Language Meta-Package for LibreOffice</he_IL>
+   <hi>Galician Language Meta-Package for LibreOffice</hi>
+   <hr>Galician Language Meta-Package for LibreOffice</hr>
+   <hu>Galician Language Meta-Package for LibreOffice</hu>
+   <id>Galician Language Meta-Package for LibreOffice</id>
+   <is>Galician Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Galician per LibreOffice</it>
+   <ja_JP>Galician Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Galician Language Meta-Package for LibreOffice</ja>
+   <kk>Galician Language Meta-Package for LibreOffice</kk>
+   <ko>Galician Language Meta-Package for LibreOffice</ko>
+   <lt>Galician Language Meta-Package for LibreOffice</lt>
+   <mk>Galician Language Meta-Package for LibreOffice</mk>
+   <mr>Galician Language Meta-Package for LibreOffice</mr>
+   <nb>Galician Language Meta-Package for LibreOffice</nb>
+   <nl>Galician Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Galician metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Galician Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Galician Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Galician Language Meta-Package for LibreOffice</ro>
+   <ru>Galician Language Meta-Package for LibreOffice</ru>
+   <sk>Galician Language Meta-Package for LibreOffice</sk>
+   <sl>Galician Language Meta-Package for LibreOffice</sl>
+   <sq>Galician Language Meta-Package for LibreOffice</sq>
+   <sr>Galician Language Meta-Package for LibreOffice</sr>
+   <sv>Galician Språk Meta-Paket för LibreOffice</sv>
+   <tr>Galician Language Meta-Package for LibreOffice</tr>
+   <uk>Galician Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Galician Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Galician Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

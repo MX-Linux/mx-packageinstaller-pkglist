@@ -10,52 +10,51 @@ Khmer_Libreoffice
 </name>
 
 <description>
-   <am>Kinarwanda Language Meta-Package for LibreOffice</am>
-   <ar>Kinarwanda Language Meta-Package for LibreOffice</ar>
-   <bg>Kinarwanda Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Kinarwanda per LibreOffice</ca>
-   <cs>Kinarwanda Language Meta-Package for LibreOffice</cs>
-   <da>Kinarwanda Language Meta-Package for LibreOffice</da>
-   <de>Kinarwanda Meta-Paket für LibreOffice</de>
-   <el>Kinarwanda Language Meta-Package for LibreOffice</el>
-   <en>Kinarwanda Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de idioma kinarwanda para LibreOffice</es>
-   <et>Kinarwanda Language Meta-Package for LibreOffice</et>
-   <eu>Kinarwanda Language Meta-Package for LibreOffice</eu>
-   <fa>Kinarwanda Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Kinarwanda Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Kinarwanda Language Meta-Package for LibreOffice</fi>
-   <fr>Kinarwanda Language Meta-Package for LibreOffice</fr>
-   <he_IL>Kinarwanda Language Meta-Package for LibreOffice</he_IL>
-   <hi>Kinarwanda Language Meta-Package for LibreOffice</hi>
-   <hr>Kinarwanda Language Meta-Package for LibreOffice</hr>
-   <hu>Kinarwanda Language Meta-Package for LibreOffice</hu>
-   <id>Kinarwanda Language Meta-Package for LibreOffice</id>
-   <is>Kinarwanda Language Meta-Package for LibreOffice</is>
-   <it>Kinarwanda Language Meta-Package for LibreOffice</it>
-   <ja_JP>Kinarwanda Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Kinarwanda Language Meta-Package for LibreOffice</ja>
-   <kk>Kinarwanda Language Meta-Package for LibreOffice</kk>
-   <ko>Kinarwanda Language Meta-Package for LibreOffice</ko>
-   <lt>Kinarwanda Language Meta-Package for LibreOffice</lt>
-   <mk>Kinarwanda Language Meta-Package for LibreOffice</mk>
-   <mr>Kinarwanda Language Meta-Package for LibreOffice</mr>
-   <nb>Kinarwanda Language Meta-Package for LibreOffice</nb>
-   <nl>Kinarwanda Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Kinarwanda Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Kinarwanda Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Kinarwanda Language Meta-Package for LibreOffice</pt>
-   <ro>Kinarwanda Language Meta-Package for LibreOffice</ro>
-   <ru>Kinarwanda Language Meta-Package for LibreOffice</ru>
-   <sk>Kinarwanda Language Meta-Package for LibreOffice</sk>
-   <sl>Kinarvandski jezikovni meta-paket za LibreOffice</sl>
-   <sq>Kinarwanda Language Meta-Package for LibreOffice</sq>
-   <sr>Kinarwanda Language Meta-Package for LibreOffice</sr>
-   <sv>Kinarwanda Språk Meta-Paket för LibreOffice</sv>
-   <tr>Kinarwanda Language Meta-Package for LibreOffice</tr>
-   <uk>Kinarwanda Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Kinarwanda Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Kinarwanda Language Meta-Package for LibreOffice</zh_TW>
+   <am>Khmer Language Meta-Package for LibreOffice</am>
+   <ar>Khmer Language Meta-Package for LibreOffice</ar>
+   <bg>Khmer Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Khmer per LibreOffice</ca>
+   <cs>Khmer Language Meta-Package for LibreOffice</cs>
+   <da>Khmer sprog-metapakke til LibreOffice</da>
+   <de>Khmer Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Khmer</el>
+   <en>Khmer Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Khmer para LibreOffice</es>
+   <et>Khmer Language Meta-Package for LibreOffice</et>
+   <eu>Khmer Language Meta-Package for LibreOffice</eu>
+   <fa>Khmer Language Meta-Package for LibreOffice</fa>
+   <fi>Khmer Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Khmer pour LibreOffice</fr>
+   <he_IL>Khmer Language Meta-Package for LibreOffice</he_IL>
+   <hi>Khmer Language Meta-Package for LibreOffice</hi>
+   <hr>Khmer Language Meta-Package for LibreOffice</hr>
+   <hu>Khmer Language Meta-Package for LibreOffice</hu>
+   <id>Khmer Language Meta-Package for LibreOffice</id>
+   <is>Khmer Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Khmer per LibreOffice</it>
+   <ja_JP>Khmer Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Khmer Language Meta-Package for LibreOffice</ja>
+   <kk>Khmer Language Meta-Package for LibreOffice</kk>
+   <ko>Khmer Language Meta-Package for LibreOffice</ko>
+   <lt>Khmer Language Meta-Package for LibreOffice</lt>
+   <mk>Khmer Language Meta-Package for LibreOffice</mk>
+   <mr>Khmer Language Meta-Package for LibreOffice</mr>
+   <nb>Khmer Language Meta-Package for LibreOffice</nb>
+   <nl>Khmer Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Khmer metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Khmer Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Khmer Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Khmer Language Meta-Package for LibreOffice</ro>
+   <ru>Khmer Language Meta-Package for LibreOffice</ru>
+   <sk>Khmer Language Meta-Package for LibreOffice</sk>
+   <sl>Khmer Language Meta-Package for LibreOffice</sl>
+   <sq>Khmer Language Meta-Package for LibreOffice</sq>
+   <sr>Khmer Language Meta-Package for LibreOffice</sr>
+   <sv>Khmer Språk Meta-Paket för LibreOffice</sv>
+   <tr>Khmer Language Meta-Package for LibreOffice</tr>
+   <uk>Khmer Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Khmer Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Khmer Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

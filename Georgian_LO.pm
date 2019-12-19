@@ -10,52 +10,51 @@ Georgian_Libreoffice
 </name>
 
 <description>
-   <am>German localisation of Firefox</am>
-   <ar>German localisation of Firefox</ar>
-   <bg>German localisation of Firefox</bg>
-   <ca>Localització de Firefox en Alemany</ca>
-   <cs>German localisation of Firefox</cs>
-   <da>Tysk oversættelse af Firefox</da>
-   <de>Deutsche Lokalisierung von Firefox</de>
-   <el>Γερμανικός εντοπισμός του Firefox</el>
-   <en>German localisation of Firefox</en>
-   <es>Localización Alemana de Firefox</es>
-   <et>German localisation of Firefox</et>
-   <eu>German localisation of Firefox</eu>
-   <fa>German localisation of Firefox</fa>
-   <fil_PH>German localisation of Firefox</fil_PH>
-   <fi>German localisation of Firefox</fi>
-   <fr>Localisation allemande pour Firefox</fr>
-   <he_IL>German localisation of Firefox</he_IL>
-   <hi>German localisation of Firefox</hi>
-   <hr>German localisation of Firefox</hr>
-   <hu>German localisation of Firefox</hu>
-   <id>German localisation of Firefox</id>
-   <is>German localisation of Firefox</is>
-   <it>Localizzazione tedesca di Firefox</it>
-   <ja_JP>German localisation of Firefox</ja_JP>
-   <ja>German localisation of Firefox</ja>
-   <kk>German localisation of Firefox</kk>
-   <ko>German localisation of Firefox</ko>
-   <lt>German localisation of Firefox</lt>
-   <mk>German localisation of Firefox</mk>
-   <mr>German localisation of Firefox</mr>
-   <nb>German localisation of Firefox</nb>
-   <nl>Duitse lokalisatie van Firefox</nl>
-   <pl>Niemiecka lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Alemão Localização para Firefox</pt_BR>
-   <pt>Alemão Localização para Firefox</pt>
-   <ro>German localisation of Firefox</ro>
-   <ru>Немецкая локализация Firefox</ru>
-   <sk>German localisation of Firefox</sk>
-   <sl>German localisation of Firefox</sl>
-   <sq>German localisation of Firefox</sq>
-   <sr>German localisation of Firefox</sr>
-   <sv>Tysk lokalisering av Firefox</sv>
-   <tr>Firefox'un Almanca yerelleştirmesi</tr>
-   <uk>German локалізація of Firefox</uk>
-   <zh_CN>German localisation of Firefox</zh_CN>
-   <zh_TW>German localisation of Firefox</zh_TW>
+   <am>Georgian Language Meta-Package for LibreOffice</am>
+   <ar>Georgian Language Meta-Package for LibreOffice</ar>
+   <bg>Georgian Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Georgian per LibreOffice</ca>
+   <cs>Georgian Language Meta-Package for LibreOffice</cs>
+   <da>Georgian sprog-metapakke til LibreOffice</da>
+   <de>Georgian Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Georgian</el>
+   <en>Georgian Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Georgian para LibreOffice</es>
+   <et>Georgian Language Meta-Package for LibreOffice</et>
+   <eu>Georgian Language Meta-Package for LibreOffice</eu>
+   <fa>Georgian Language Meta-Package for LibreOffice</fa>
+   <fi>Georgian Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Georgian pour LibreOffice</fr>
+   <he_IL>Georgian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Georgian Language Meta-Package for LibreOffice</hi>
+   <hr>Georgian Language Meta-Package for LibreOffice</hr>
+   <hu>Georgian Language Meta-Package for LibreOffice</hu>
+   <id>Georgian Language Meta-Package for LibreOffice</id>
+   <is>Georgian Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Georgian per LibreOffice</it>
+   <ja_JP>Georgian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Georgian Language Meta-Package for LibreOffice</ja>
+   <kk>Georgian Language Meta-Package for LibreOffice</kk>
+   <ko>Georgian Language Meta-Package for LibreOffice</ko>
+   <lt>Georgian Language Meta-Package for LibreOffice</lt>
+   <mk>Georgian Language Meta-Package for LibreOffice</mk>
+   <mr>Georgian Language Meta-Package for LibreOffice</mr>
+   <nb>Georgian Language Meta-Package for LibreOffice</nb>
+   <nl>Georgian Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Georgian metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Georgian Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Georgian Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Georgian Language Meta-Package for LibreOffice</ro>
+   <ru>Georgian Language Meta-Package for LibreOffice</ru>
+   <sk>Georgian Language Meta-Package for LibreOffice</sk>
+   <sl>Georgian Language Meta-Package for LibreOffice</sl>
+   <sq>Georgian Language Meta-Package for LibreOffice</sq>
+   <sr>Georgian Language Meta-Package for LibreOffice</sr>
+   <sv>Georgian Språk Meta-Paket för LibreOffice</sv>
+   <tr>Georgian Language Meta-Package for LibreOffice</tr>
+   <uk>Georgian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Georgian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Georgian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

@@ -10,52 +10,51 @@ Polish_Thunderbird
 </name>
 
 <description>
-   <am>Portuguese(BR) localisation of Firefox</am>
-   <ar>Portuguese(BR) localisation of Firefox</ar>
-   <bg>Portuguese(BR) localisation of Firefox</bg>
-   <ca>Localització de Firefox en Portuguès</ca>
-   <cs>Portuguese(BR) localisation of Firefox</cs>
-   <da>Portugisisk (brasilien) oversættelse af Firefox</da>
-   <de>Portugiesische (BR) Lokalisierung von Firefox</de>
-   <el>Πορτογαλική (Βραζιλίας) εντοπισμός του Firefox</el>
-   <en>Portuguese(BR) localisation of Firefox</en>
-   <es>Localización Portuguesa (BR) de Firefox</es>
-   <et>Portuguese(BR) localisation of Firefox</et>
-   <eu>Portuguese(BR) localisation of Firefox</eu>
-   <fa>Portuguese(BR) localisation of Firefox</fa>
-   <fil_PH>Portuguese(BR) localisation of Firefox</fil_PH>
-   <fi>Portuguese(BR) localisation of Firefox</fi>
-   <fr>Localisation portugaise (BR) pour Firefox</fr>
-   <he_IL>Portuguese(BR) localisation of Firefox</he_IL>
-   <hi>Portuguese(BR) localisation of Firefox</hi>
-   <hr>Portuguese(BR) localisation of Firefox</hr>
-   <hu>Portuguese(BR) localisation of Firefox</hu>
-   <id>Portuguese(BR) localisation of Firefox</id>
-   <is>Portuguese(BR) localisation of Firefox</is>
-   <it>Localizzazione portoghese(BR) di Firefox</it>
-   <ja_JP>Portuguese(BR) localisation of Firefox</ja_JP>
-   <ja>Portuguese(BR) localisation of Firefox</ja>
-   <kk>Portuguese(BR) localisation of Firefox</kk>
-   <ko>Portuguese(BR) localisation of Firefox</ko>
-   <lt>Portuguese(BR) localisation of Firefox</lt>
-   <mk>Portuguese(BR) localisation of Firefox</mk>
-   <mr>Portuguese(BR) localisation of Firefox</mr>
-   <nb>Portuguese(BR) localisation of Firefox</nb>
-   <nl>Portugese(BR) lokalisatie van Firefox</nl>
-   <pl>Portugalska (BR) lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Português(BR) Localização para Firefox</pt_BR>
-   <pt>Português(BR) Localização para Firefox</pt>
-   <ro>Portuguese(BR) localisation of Firefox</ro>
-   <ru>Portuguese(BR) localisation of Firefox</ru>
-   <sk>Portuguese(BR) localisation of Firefox</sk>
-   <sl>Portuguese(BR) localisation of Firefox</sl>
-   <sq>Portuguese(BR) localisation of Firefox</sq>
-   <sr>Portuguese(BR) localisation of Firefox</sr>
-   <sv>Portugisisk (BR) lokalisering av Firefox </sv>
-   <tr>Firefox'un Brezilya Portekizcesi yerelleştirmesi</tr>
-   <uk>Portuguese(BR) локалізація Firefox</uk>
-   <zh_CN>Portuguese(BR) localisation of Firefox</zh_CN>
-   <zh_TW>Portuguese(BR) localisation of Firefox</zh_TW>
+   <am>Polish localisation of Thunderbird</am>
+   <ar>Polish localisation of Thunderbird</ar>
+   <bg>Polish localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Polonès</ca>
+   <cs>Polish localisation of Thunderbird</cs>
+   <da>Polsk oversættelse af Thunderbird</da>
+   <de>Polnische Lokalisierung von Thunderbird</de>
+   <el>Πολωνικός εντοπισμός του Thunderbird</el>
+   <en>Polish localisation of Thunderbird</en>
+   <es>Localización Polaca de Thunderbird</es>
+   <et>Polish localisation of Thunderbird</et>
+   <eu>Polish localisation of Thunderbird</eu>
+   <fa>Polish localisation of Thunderbird</fa>
+   <fi>Polish localisation of Thunderbird</fi>
+   <fr>Localisation polonaise pour Thunderbird</fr>
+   <he_IL>Polish localisation of Thunderbird</he_IL>
+   <hi>Polish localisation of Thunderbird</hi>
+   <hr>Polish localisation of Thunderbird</hr>
+   <hu>Polish localisation of Thunderbird</hu>
+   <id>Polish localisation of Thunderbird</id>
+   <is>Polish localisation of Thunderbird</is>
+   <it>Localizzazione polacca di Thunderbird</it>
+   <ja_JP>Polish localisation of Thunderbird</ja_JP>
+   <ja>Polish localisation of Thunderbird</ja>
+   <kk>Polish localisation of Thunderbird</kk>
+   <ko>Polish localisation of Thunderbird</ko>
+   <lt>Polish localisation of Thunderbird</lt>
+   <mk>Polish localisation of Thunderbird</mk>
+   <mr>Polish localisation of Thunderbird</mr>
+   <nb>Polish localisation of Thunderbird</nb>
+   <nl>Poolse lokalisatie van Thunderbird</nl>
+   <pl>Polska lokalizacja Thunderbirda</pl>
+   <pt_BR>Polonês Localização para Thunderbird</pt_BR>
+   <pt>Polaco Localização para Thunderbird</pt>
+   <ro>Polish localisation of Thunderbird</ro>
+   <ru>Polish localisation of Thunderbird</ru>
+   <sk>Polish localisation of Thunderbird</sk>
+   <sl>Polish localisation of Thunderbird</sl>
+   <sq>Polish localisation of Thunderbird</sq>
+   <sr>Polish localisation of Thunderbird</sr>
+   <sv>Polsk lokalisering av Thunderbird</sv>
+   <tr>Polish localisation of Thunderbird</tr>
+   <uk>Polish локалізація Thunderbird</uk>
+   <zh_CN>Polish localisation of Thunderbird</zh_CN>
+   <zh_TW>Polish localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

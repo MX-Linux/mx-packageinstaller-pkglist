@@ -10,52 +10,51 @@ German_Firefox
 </name>
 
 <description>
-   <am>German Language Meta-Package for LibreOffice</am>
-   <ar>German Language Meta-Package for LibreOffice</ar>
-   <bg>German Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'alemany per LibreOffice</ca>
-   <cs>German Language Meta-Package for LibreOffice</cs>
-   <da>Tysk sprog-metapakke til LibreOffice</da>
-   <de>Deutsches Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα γερμανικά</el>
-   <en>German Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Alemán para LibreOffice</es>
-   <et>German Language Meta-Package for LibreOffice</et>
-   <eu>German Language Meta-Package for LibreOffice</eu>
-   <fa>German Language Meta-Package for LibreOffice</fa>
-   <fil_PH>German Language Meta-Package for LibreOffice</fil_PH>
-   <fi>German Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue allemande pour LibreOffice</fr>
-   <he_IL>German Language Meta-Package for LibreOffice</he_IL>
-   <hi>German Language Meta-Package for LibreOffice</hi>
-   <hr>German Language Meta-Package for LibreOffice</hr>
-   <hu>German Language Meta-Package for LibreOffice</hu>
-   <id>German Language Meta-Package for LibreOffice</id>
-   <is>German Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua tedesca per LibreOffice</it>
-   <ja_JP>German Language Meta-Package for LibreOffice</ja_JP>
-   <ja>German Language Meta-Package for LibreOffice</ja>
-   <kk>German Language Meta-Package for LibreOffice</kk>
-   <ko>German Language Meta-Package for LibreOffice</ko>
-   <lt>German Language Meta-Package for LibreOffice</lt>
-   <mk>German Language Meta-Package for LibreOffice</mk>
-   <mr>German Language Meta-Package for LibreOffice</mr>
-   <nb>German Language Meta-Package for LibreOffice</nb>
-   <nl>Duitse Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Niemiecki metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Alemão Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Alemão Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>German Language Meta-Package for LibreOffice</ro>
-   <ru>German Language Meta-Package for LibreOffice</ru>
-   <sk>German Language Meta-Package for LibreOffice</sk>
-   <sl>German Language Meta-Package for LibreOffice</sl>
-   <sq>German Language Meta-Package for LibreOffice</sq>
-   <sr>German Language Meta-Package for LibreOffice</sr>
-   <sv>Tyskt Språk Meta-Paket för LibreOffice</sv>
-   <tr>German Language Meta-Package for LibreOffice</tr>
-   <uk>German Language Meta-Package for LibreOffice</uk>
-   <zh_CN>German Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>German Language Meta-Package for LibreOffice</zh_TW>
+   <am>German localisation of Firefox</am>
+   <ar>German localisation of Firefox</ar>
+   <bg>German localisation of Firefox</bg>
+   <ca>Localització de Firefox en Alemany</ca>
+   <cs>German localisation of Firefox</cs>
+   <da>Tysk oversættelse af Firefox</da>
+   <de>Deutsche Lokalisierung von Firefox</de>
+   <el>Γερμανικός εντοπισμός του Firefox</el>
+   <en>German localisation of Firefox</en>
+   <es>Localización Alemana de Firefox</es>
+   <et>German localisation of Firefox</et>
+   <eu>German localisation of Firefox</eu>
+   <fa>German localisation of Firefox</fa>
+   <fi>German localisation of Firefox</fi>
+   <fr>Localisation allemande pour Firefox</fr>
+   <he_IL>German localisation of Firefox</he_IL>
+   <hi>German localisation of Firefox</hi>
+   <hr>German localisation of Firefox</hr>
+   <hu>German localisation of Firefox</hu>
+   <id>German localisation of Firefox</id>
+   <is>German localisation of Firefox</is>
+   <it>Localizzazione tedesca di Firefox</it>
+   <ja_JP>German localisation of Firefox</ja_JP>
+   <ja>German localisation of Firefox</ja>
+   <kk>German localisation of Firefox</kk>
+   <ko>German localisation of Firefox</ko>
+   <lt>German localisation of Firefox</lt>
+   <mk>German localisation of Firefox</mk>
+   <mr>German localisation of Firefox</mr>
+   <nb>German localisation of Firefox</nb>
+   <nl>Duitse lokalisatie van Firefox</nl>
+   <pl>Niemiecka lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Alemão Localização para Firefox</pt_BR>
+   <pt>Alemão Localização para Firefox</pt>
+   <ro>German localisation of Firefox</ro>
+   <ru>Немецкая локализация Firefox</ru>
+   <sk>German localisation of Firefox</sk>
+   <sl>German localisation of Firefox</sl>
+   <sq>German localisation of Firefox</sq>
+   <sr>German localisation of Firefox</sr>
+   <sv>Tysk lokalisering av Firefox</sv>
+   <tr>German localisation of Firefox</tr>
+   <uk>German локалізація of Firefox</uk>
+   <zh_CN>German localisation of Firefox</zh_CN>
+   <zh_TW>German localisation of Firefox</zh_TW>
 </description>
 
 <installable>

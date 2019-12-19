@@ -10,52 +10,51 @@ Portugese(PT) Firefox
 </name>
 
 <description>
-   <am>Portugese(PT) Language Meta-Package for LibreOffice</am>
-   <ar>Portugese(PT) Language Meta-Package for LibreOffice</ar>
-   <bg>Portugese(PT) Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet de llengua Portuguesa(PT) per LibreOffice</ca>
-   <cs>Portugese(PT) Language Meta-Package for LibreOffice</cs>
-   <da>Portugisisk (portugal) sprog-metapakke til LibreOffice</da>
-   <de>Portugiesisches (PT) Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα πορτογαλικά</el>
-   <en>Portugese(PT) Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Portugués (PT) para LibreOffice</es>
-   <et>Portugese(PT) Language Meta-Package for LibreOffice</et>
-   <eu>Portugese(PT) Language Meta-Package for LibreOffice</eu>
-   <fa>Portugese(PT) Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Portugese(PT) Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Portugese(PT) Language Meta-Package for LibreOffice</fi>
-   <fr>Meta-Paquet de langue Portuguais(PT) pour LibreOffice</fr>
-   <he_IL>Portugese(PT) Language Meta-Package for LibreOffice</he_IL>
-   <hi>Portugese(PT) Language Meta-Package for LibreOffice</hi>
-   <hr>Portugese(PT) Language Meta-Package for LibreOffice</hr>
-   <hu>Portugese(PT) Language Meta-Package for LibreOffice</hu>
-   <id>Portugese(PT) Language Meta-Package for LibreOffice</id>
-   <is>Portugese(PT) Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua portoghese(PT) per LibreOffice</it>
-   <ja_JP>Portugese(PT) Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Portugese(PT) Language Meta-Package for LibreOffice</ja>
-   <kk>Portugese(PT) Language Meta-Package for LibreOffice</kk>
-   <ko>Portugese(PT) Language Meta-Package for LibreOffice</ko>
-   <lt>Portugese(PT) Language Meta-Package for LibreOffice</lt>
-   <mk>Portugese(PT) Language Meta-Package for LibreOffice</mk>
-   <mr>Portugese(PT) Language Meta-Package for LibreOffice</mr>
-   <nb>Portugese(PT) Language Meta-Package for LibreOffice</nb>
-   <nl>Portugese(PT) Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Portugalski (PT) metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Português(PT) Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Português(PT) Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Portugese(PT) Language Meta-Package for LibreOffice</ro>
-   <ru>Portugese(PT) Language Meta-Package for LibreOffice</ru>
-   <sk>Portugese(PT) Language Meta-Package for LibreOffice</sk>
-   <sl>Portugese(PT) Language Meta-Package for LibreOffice</sl>
-   <sq>Portugese(PT) Language Meta-Package for LibreOffice</sq>
-   <sr>Portugese(PT) Language Meta-Package for LibreOffice</sr>
-   <sv>Portugisiskt(PT) Språk Meta-Paket för LibreOffice</sv>
-   <tr>Portugese(PT) Language Meta-Package for LibreOffice</tr>
-   <uk>Portugese(PT) Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Portugese(PT) Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Portugese(PT) Language Meta-Package for LibreOffice</zh_TW>
+   <am>Portugese(PT) localisation of Firefox</am>
+   <ar>Portugese(PT) localisation of Firefox</ar>
+   <bg>Portugese(PT) localisation of Firefox</bg>
+   <ca>Localització de Firefox en Portuguès (PT)</ca>
+   <cs>Portugese(PT) localisation of Firefox</cs>
+   <da>Portugisisk (portugal) oversættelse af Firefox</da>
+   <de>Portugiesische (PT) Lokalisierung von Firefox</de>
+   <el>Πορτογαλικός εντοπισμός του Firefox</el>
+   <en>Portugese(PT) localisation of Firefox</en>
+   <es>Localización Portuguesa (PT) de Firefox</es>
+   <et>Portugese(PT) localisation of Firefox</et>
+   <eu>Portugese(PT) localisation of Firefox</eu>
+   <fa>Portugese(PT) localisation of Firefox</fa>
+   <fi>Portugese(PT) localisation of Firefox</fi>
+   <fr>Localisation portugaise (PT) pour Firefox</fr>
+   <he_IL>Portugese(PT) localisation of Firefox</he_IL>
+   <hi>Portugese(PT) localisation of Firefox</hi>
+   <hr>Portugese(PT) localisation of Firefox</hr>
+   <hu>Portugese(PT) localisation of Firefox</hu>
+   <id>Portugese(PT) localisation of Firefox</id>
+   <is>Portugese(PT) localisation of Firefox</is>
+   <it>Localizzazione portoghese(PT) di Firefox</it>
+   <ja_JP>Portugese(PT) localisation of Firefox</ja_JP>
+   <ja>Portugese(PT) localisation of Firefox</ja>
+   <kk>Portugese(PT) localisation of Firefox</kk>
+   <ko>Portugese(PT) localisation of Firefox</ko>
+   <lt>Portugese(PT) localisation of Firefox</lt>
+   <mk>Portugese(PT) localisation of Firefox</mk>
+   <mr>Portugese(PT) localisation of Firefox</mr>
+   <nb>Portugese(PT) localisation of Firefox</nb>
+   <nl>Portugese(PT) lokalisatie van Firefox</nl>
+   <pl>Portugalska (PT) lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Português(PT) Localização para Firefox</pt_BR>
+   <pt>Português(PT) Localização para Firefox</pt>
+   <ro>Portugese(PT) localisation of Firefox</ro>
+   <ru>Portugese(PT) localisation of Firefox</ru>
+   <sk>Portugese(PT) localisation of Firefox</sk>
+   <sl>Portugese(PT) localisation of Firefox</sl>
+   <sq>Portugese(PT) localisation of Firefox</sq>
+   <sr>Portugese(PT) localisation of Firefox</sr>
+   <sv>Portugisisk(PT) lokalisering för Firefox</sv>
+   <tr>Portugese(PT) localisation of Firefox</tr>
+   <uk>Portugese(PT) локалізація Firefox</uk>
+   <zh_CN>Portugese(PT) localisation of Firefox</zh_CN>
+   <zh_TW>Portugese(PT) localisation of Firefox</zh_TW>
 </description>
 
 <installable>

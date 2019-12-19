@@ -10,52 +10,51 @@ Korean_Thunderbird
 </name>
 
 <description>
-   <am>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</am>
-   <ar>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</ar>
-   <bg>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</bg>
-   <ca>Eina de captures de pantalla basada en Qt (no KDE) inspirada per Windows Snipping Tools</ca>
-   <cs>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</cs>
-   <da>Qt-baseret (ikke kde) skærmbilledværktøj som er inspireret af Windows Snipping-værktøjer</da>
-   <de>Qt (nicht KDE)-basiertes Screenshot-Tool inspiriert von den Windows Snipping Tools</de>
-   <el>Εργαλείο στιγμιότυπου Qt (όχι kde) εμπνευσμένο από τα Windows Snipping Tools</el>
-   <en>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</en>
-   <es>Herramienta de captura de pantalla inspirada en Windows Snipping Tools. Basado en Qt (no kde)</es>
-   <et>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</et>
-   <eu>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</eu>
-   <fa>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</fa>
-   <fil_PH>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</fil_PH>
-   <fi>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</fi>
-   <fr>Outil de capture d'écran Qt (non kde) inspiré des utilitaires de découpage Windows</fr>
-   <he_IL>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</he_IL>
-   <hi>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</hi>
-   <hr>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</hr>
-   <hu>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</hu>
-   <id>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</id>
-   <is>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</is>
-   <it>Strumento di cattura dello schermo basato sulle librerie Qt (non kde) simile a Snipping Tools</it>
-   <ja_JP>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</ja_JP>
-   <ja>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</ja>
-   <kk>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</kk>
-   <ko>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</ko>
-   <lt>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</lt>
-   <mk>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</mk>
-   <mr>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</mr>
-   <nb>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</nb>
-   <nl>Qt (niet kde) -gebaseerd gereedschap voor screenshots geïnspireerd op de Windows Snipping Tools</nl>
-   <pl>Oparte na Qt (nie KDE) narzędzie do zrzutu ekranu zainspirowane Windows Snipping Tools</pl>
-   <pt_BR>Ferramenta de captação de ecrã baseada em Qt (não kde) inspirada no Windows Snipping Tools</pt_BR>
-   <pt>Ferramenta de captação de ecrã baseada em Qt (não kde) inspirada no Windows Snipping Tools</pt>
-   <ro>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</ro>
-   <ru>Утилита захвата снимков экрана наподобие Windows Snipping Tools</ru>
-   <sk>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</sk>
-   <sl>Qt (ne KDE) orodje za zajemanje zaslona, ki išče navdih v Windows Snipping Tools</sl>
-   <sq>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</sq>
-   <sr>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</sr>
-   <sv>Qt (inte kde) -baserat skärmdumpsverktyg inspirerat av Windows Skärmklippsverktyg</sv>
-   <tr>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</tr>
-   <uk>базова Qt(але не kde)-програма для створення знімків екрану натхненна Windows Snipping Tools</uk>
-   <zh_CN>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</zh_CN>
-   <zh_TW>Qt (not kde) -based screenshot tool inspired by the Windows Snipping Tools</zh_TW>
+   <am>Korean localisation of Thunderbird</am>
+   <ar>Korean localisation of Thunderbird</ar>
+   <bg>Korean localisation of Thunderbird</bg>
+   <ca>Localització en Coreà per Thunderbird</ca>
+   <cs>Korean localisation of Thunderbird</cs>
+   <da>Koreansk oversættelse af Thunderbird</da>
+   <de>Koreanische Lokalisierung von Thunderbird</de>
+   <el>Κορεατικός εντοπισμός του Thunderbird</el>
+   <en>Korean localisation of Thunderbird</en>
+   <es>Localización Coreana de Thunderbird</es>
+   <et>Korean localisation of Thunderbird</et>
+   <eu>Korean localisation of Thunderbird</eu>
+   <fa>Korean localisation of Thunderbird</fa>
+   <fi>Korean localisation of Thunderbird</fi>
+   <fr>Localisation coréenne pour Thunderbird</fr>
+   <he_IL>Korean localisation of Thunderbird</he_IL>
+   <hi>Korean localisation of Thunderbird</hi>
+   <hr>Korean localisation of Thunderbird</hr>
+   <hu>Korean localisation of Thunderbird</hu>
+   <id>Korean localisation of Thunderbird</id>
+   <is>Korean localisation of Thunderbird</is>
+   <it>Localizzazione coreana di Thunderbird</it>
+   <ja_JP>Korean localisation of Thunderbird</ja_JP>
+   <ja>Korean localisation of Thunderbird</ja>
+   <kk>Korean localisation of Thunderbird</kk>
+   <ko>Korean localisation of Thunderbird</ko>
+   <lt>Korean localisation of Thunderbird</lt>
+   <mk>Korean localisation of Thunderbird</mk>
+   <mr>Korean localisation of Thunderbird</mr>
+   <nb>Korean localisation of Thunderbird</nb>
+   <nl>Koreaanse lokalisatie van Thunderbird</nl>
+   <pl>Koreańska lokalizacja Thunderbirda</pl>
+   <pt_BR>Coreano Localização para Thunderbird</pt_BR>
+   <pt>Coreano Localização para Thunderbird</pt>
+   <ro>Korean localisation of Thunderbird</ro>
+   <ru>Korean localisation of Thunderbird</ru>
+   <sk>Korean localisation of Thunderbird</sk>
+   <sl>Korean localisation of Thunderbird</sl>
+   <sq>Korean localisation of Thunderbird</sq>
+   <sr>Korean localisation of Thunderbird</sr>
+   <sv>Koreansk lokalisering av Thunderbird</sv>
+   <tr>Korean localisation of Thunderbird</tr>
+   <uk>Korean локалізація Thunderbird</uk>
+   <zh_CN>Korean localisation of Thunderbird</zh_CN>
+   <zh_TW>Korean localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

@@ -11,52 +11,51 @@ recordmydesktop
 </name>
 
 <description>
-   <am>Transition monitor color temperature by time of day</am>
-   <ar>Transition monitor color temperature by time of day</ar>
-   <bg>Transition monitor color temperature by time of day</bg>
-   <ca>Modifica la temperatura de color de la pantalla segons l'hora del dia</ca>
-   <cs>Transition monitor color temperature by time of day</cs>
-   <da>Transition monitor color temperature by time of day</da>
-   <de>Wechsel der Bildschirmfarbeneinstellung in Abhängig von der Tageszeit</de>
-   <el>Θερμοκρασία χρώματος οθόνης μετάβασης κατά ώρα της ημέρας</el>
-   <en>Transition monitor color temperature by time of day</en>
-   <es>Monitor de transición de temperatura de color por hora del día</es>
-   <et>Transition monitor color temperature by time of day</et>
-   <eu>Transition monitor color temperature by time of day</eu>
-   <fa>Transition monitor color temperature by time of day</fa>
-   <fil_PH>Transition monitor color temperature by time of day</fil_PH>
-   <fi>Transition monitor color temperature by time of day</fi>
-   <fr>Adaptation de la température des couleurs de votre écran selon le moment de la journée</fr>
-   <he_IL>Transition monitor color temperature by time of day</he_IL>
-   <hi>Transition monitor color temperature by time of day</hi>
-   <hr>Transition monitor color temperature by time of day</hr>
-   <hu>Transition monitor color temperature by time of day</hu>
-   <id>Transition monitor color temperature by time of day</id>
-   <is>Transition monitor color temperature by time of day</is>
-   <it>Transizione della temperatura del colore del monitor per ora del giorno</it>
-   <ja_JP>Transition monitor color temperature by time of day</ja_JP>
-   <ja>Transition monitor color temperature by time of day</ja>
-   <kk>Transition monitor color temperature by time of day</kk>
-   <ko>Transition monitor color temperature by time of day</ko>
-   <lt>Transition monitor color temperature by time of day</lt>
-   <mk>Transition monitor color temperature by time of day</mk>
-   <mr>Transition monitor color temperature by time of day</mr>
-   <nb>Transition monitor color temperature by time of day</nb>
-   <nl>Pas monitor kleurtemperatuur aan aan tijdstip van de dag</nl>
-   <pl>Transition monitor color temperature by time of day</pl>
-   <pt_BR>Adaptar a cor da temperatura do monitor à hora do dia</pt_BR>
-   <pt>Cor de visualização da temperatura no monitor, com transição pela hora do dia</pt>
-   <ro>Transition monitor color temperature by time of day</ro>
-   <ru>Смена цветовой температуры экрана в зависимости от времени суток</ru>
-   <sk>Transition monitor color temperature by time of day</sk>
-   <sl>Spreminjanje temperature zaslona glede na obdobje dneva</sl>
-   <sq>Transition monitor color temperature by time of day</sq>
-   <sr>Transition monitor color temperature by time of day</sr>
-   <sv>Ändrar skärmens färgtemperatur efter tiden på dagen</sv>
-   <tr>Günün saatine göre geçiş monitörü renk sıcaklığı</tr>
-   <uk>Transition monitor color temperature by time of day</uk>
-   <zh_CN>Transition monitor color temperature by time of day</zh_CN>
-   <zh_TW>Transition monitor color temperature by time of day</zh_TW>
+   <am>a desktop session recorder</am>
+   <ar>a desktop session recorder</ar>
+   <bg>a desktop session recorder</bg>
+   <ca>Enregistrador de sessions d'escriptori</ca>
+   <cs>a desktop session recorder</cs>
+   <da>en skrivebordssessionsoptager</da>
+   <de>Ein Desktop-Session-Rekorder</de>
+   <el>έναν καταγραφέα περιόδων σύνδεσης στην επιφάνεια εργασίας</el>
+   <en>a desktop session recorder</en>
+   <es>Realiza capturas de video de tu escritorio</es>
+   <et>a desktop session recorder</et>
+   <eu>a desktop session recorder</eu>
+   <fa>a desktop session recorder</fa>
+   <fi>a desktop session recorder</fi>
+   <fr>Un enregistreur de session de bureau</fr>
+   <he_IL>a desktop session recorder</he_IL>
+   <hi>a desktop session recorder</hi>
+   <hr>a desktop session recorder</hr>
+   <hu>a desktop session recorder</hu>
+   <id>a desktop session recorder</id>
+   <is>a desktop session recorder</is>
+   <it>registra una sessione del desktop</it>
+   <ja_JP>a desktop session recorder</ja_JP>
+   <ja>a desktop session recorder</ja>
+   <kk>a desktop session recorder</kk>
+   <ko>a desktop session recorder</ko>
+   <lt>a desktop session recorder</lt>
+   <mk>a desktop session recorder</mk>
+   <mr>a desktop session recorder</mr>
+   <nb>a desktop session recorder</nb>
+   <nl>een desktop sessie recorder</nl>
+   <pl>program do nagrywania obrazu z pulpitu i ekranu komputera</pl>
+   <pt_BR>Registra em vídeo a sessão de trabalho conforme evolui na tela</pt_BR>
+   <pt>Regista em vídeo a sessão de trabalho conforme evolui no ecrã</pt>
+   <ro>a desktop session recorder</ro>
+   <ru>Запись сеанса рабочего стола</ru>
+   <sk>a desktop session recorder</sk>
+   <sl>Snemalnik namizja</sl>
+   <sq>a desktop session recorder</sq>
+   <sr>a desktop session recorder</sr>
+   <sv>en skrivbordssessions-inspelare</sv>
+   <tr>a desktop session recorder</tr>
+   <uk>a desktop session recorder</uk>
+   <zh_CN>a desktop session recorder</zh_CN>
+   <zh_TW>a desktop session recorder</zh_TW>
 </description>
 
 <installable>

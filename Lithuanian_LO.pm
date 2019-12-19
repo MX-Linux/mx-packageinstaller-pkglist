@@ -10,52 +10,51 @@ Lithuanian_Libreoffice
 </name>
 
 <description>
-   <am>Lithuanian localisation of Thunderbird</am>
-   <ar>Lithuanian localisation of Thunderbird</ar>
-   <bg>Lithuanian localisation of Thunderbird</bg>
-   <ca>Localització en lituà de Thunderbird</ca>
-   <cs>Lithuanian localisation of Thunderbird</cs>
-   <da>Litauisk oversættelse af Thunderbird</da>
-   <de>Litauische Lokalisierung von Thunderbird</de>
-   <el>Λιθουανικός εντοπισμός του Thunderbird</el>
-   <en>Lithuanian localisation of Thunderbird</en>
-   <es>Localización Lituana de Thunderbird</es>
-   <et>Lithuanian localisation of Thunderbird</et>
-   <eu>Lithuanian localisation of Thunderbird</eu>
-   <fa>Lithuanian localisation of Thunderbird</fa>
-   <fil_PH>Lithuanian localisation of Thunderbird</fil_PH>
-   <fi>Lithuanian localisation of Thunderbird</fi>
-   <fr>Localisation lithuanienne pour Thunderbird</fr>
-   <he_IL>Lithuanian localisation of Thunderbird</he_IL>
-   <hi>Lithuanian localisation of Thunderbird</hi>
-   <hr>Lithuanian localisation of Thunderbird</hr>
-   <hu>Lithuanian localisation of Thunderbird</hu>
-   <id>Lithuanian localisation of Thunderbird</id>
-   <is>Lithuanian localisation of Thunderbird</is>
-   <it>Localizzazione lituana di Thunderbird</it>
-   <ja_JP>Lithuanian localisation of Thunderbird</ja_JP>
-   <ja>Lithuanian localisation of Thunderbird</ja>
-   <kk>Lithuanian localisation of Thunderbird</kk>
-   <ko>Lithuanian localisation of Thunderbird</ko>
-   <lt>Lithuanian localisation of Thunderbird</lt>
-   <mk>Lithuanian localisation of Thunderbird</mk>
-   <mr>Lithuanian localisation of Thunderbird</mr>
-   <nb>Lithuanian localisation of Thunderbird</nb>
-   <nl>Litouwse lokalisatie van Thunderbird</nl>
-   <pl>Litewska lokalizacja Thunderbirda</pl>
-   <pt_BR>Lituano Localização para Thunderbird</pt_BR>
-   <pt>Lituano Localização para Thunderbird</pt>
-   <ro>Lithuanian localisation of Thunderbird</ro>
-   <ru>Lithuanian localisation of Thunderbird</ru>
-   <sk>Lithuanian localisation of Thunderbird</sk>
-   <sl>Lithuanian localisation of Thunderbird</sl>
-   <sq>Lithuanian localisation of Thunderbird</sq>
-   <sr>Lithuanian localisation of Thunderbird</sr>
-   <sv>Litauisk lokalisering av Thunderbird </sv>
-   <tr>Thunderbird'ün Litvanyaca yerelleştirmesi</tr>
-   <uk>Lithuanian локалізація Thunderbird</uk>
-   <zh_CN>Lithuanian localisation of Thunderbird</zh_CN>
-   <zh_TW>Lithuanian localisation of Thunderbird</zh_TW>
+   <am>Lithuanian Language Meta-Package for LibreOffice</am>
+   <ar>Lithuanian Language Meta-Package for LibreOffice</ar>
+   <bg>Lithuanian Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Lithuanian per LibreOffice</ca>
+   <cs>Lithuanian Language Meta-Package for LibreOffice</cs>
+   <da>Lithuanian sprog-metapakke til LibreOffice</da>
+   <de>Lithuanian Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Lithuanian</el>
+   <en>Lithuanian Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Lithuanian para LibreOffice</es>
+   <et>Lithuanian Language Meta-Package for LibreOffice</et>
+   <eu>Lithuanian Language Meta-Package for LibreOffice</eu>
+   <fa>Lithuanian Language Meta-Package for LibreOffice</fa>
+   <fi>Lithuanian Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Lithuanian pour LibreOffice</fr>
+   <he_IL>Lithuanian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Lithuanian Language Meta-Package for LibreOffice</hi>
+   <hr>Lithuanian Language Meta-Package for LibreOffice</hr>
+   <hu>Lithuanian Language Meta-Package for LibreOffice</hu>
+   <id>Lithuanian Language Meta-Package for LibreOffice</id>
+   <is>Lithuanian Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Lithuanian per LibreOffice</it>
+   <ja_JP>Lithuanian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Lithuanian Language Meta-Package for LibreOffice</ja>
+   <kk>Lithuanian Language Meta-Package for LibreOffice</kk>
+   <ko>Lithuanian Language Meta-Package for LibreOffice</ko>
+   <lt>Lithuanian Language Meta-Package for LibreOffice</lt>
+   <mk>Lithuanian Language Meta-Package for LibreOffice</mk>
+   <mr>Lithuanian Language Meta-Package for LibreOffice</mr>
+   <nb>Lithuanian Language Meta-Package for LibreOffice</nb>
+   <nl>Lithuanian Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Lithuanian metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Lithuanian Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Lithuanian Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Lithuanian Language Meta-Package for LibreOffice</ro>
+   <ru>Lithuanian Language Meta-Package for LibreOffice</ru>
+   <sk>Lithuanian Language Meta-Package for LibreOffice</sk>
+   <sl>Lithuanian Language Meta-Package for LibreOffice</sl>
+   <sq>Lithuanian Language Meta-Package for LibreOffice</sq>
+   <sr>Lithuanian Language Meta-Package for LibreOffice</sr>
+   <sv>Lithuanian Språk Meta-Paket för LibreOffice</sv>
+   <tr>Lithuanian Language Meta-Package for LibreOffice</tr>
+   <uk>Lithuanian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Lithuanian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Lithuanian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

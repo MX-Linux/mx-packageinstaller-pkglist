@@ -10,52 +10,51 @@ Skype (64bit only)
 </name>
 
 <description>
-   <am>Latest Slimjet Browser (run again for updates)</am>
-   <ar>Latest Slimjet Browser (run again for updates)</ar>
-   <bg>Latest Slimjet Browser (run again for updates)</bg>
-   <ca>Darrer navegador Slimjet (torneu a executar-lo per actualitzacions)</ca>
-   <cs>Latest Slimjet Browser (run again for updates)</cs>
-   <da>Seneste Slimjet-browser (kør igen for opdateringer)</da>
-   <de>Neuester Slimjet Browser (zur Aktualisierung erneut ausführen)</de>
-   <el>Τελευταίο πρόγραμμα περιήγησης Slimjet (εκτελείται ξανά για ενημερώσεις)</el>
-   <en>Latest Slimjet Browser (run again for updates)</en>
-   <es>El Último Navegador Slimjet (ejecutar de nuevo para las actualizaciones)</es>
-   <et>Latest Slimjet Browser (run again for updates)</et>
-   <eu>Latest Slimjet Browser (run again for updates)</eu>
-   <fa>Latest Slimjet Browser (run again for updates)</fa>
-   <fil_PH>Latest Slimjet Browser (run again for updates)</fil_PH>
-   <fi>Latest Slimjet Browser (run again for updates)</fi>
-   <fr>La dernière version du navigateur Slimjet (relancer pour mise à jour)</fr>
-   <he_IL>Latest Slimjet Browser (run again for updates)</he_IL>
-   <hi>Latest Slimjet Browser (run again for updates)</hi>
-   <hr>Latest Slimjet Browser (run again for updates)</hr>
-   <hu>Latest Slimjet Browser (run again for updates)</hu>
-   <id>Latest Slimjet Browser (run again for updates)</id>
-   <is>Latest Slimjet Browser (run again for updates)</is>
-   <it>Ultima versione del browser Slimjet (avvia nuovamente per gli aggiornamenti)</it>
-   <ja_JP>Latest Slimjet Browser (run again for updates)</ja_JP>
-   <ja>Latest Slimjet Browser (run again for updates)</ja>
-   <kk>Latest Slimjet Browser (run again for updates)</kk>
-   <ko>Latest Slimjet Browser (run again for updates)</ko>
-   <lt>Latest Slimjet Browser (run again for updates)</lt>
-   <mk>Latest Slimjet Browser (run again for updates)</mk>
-   <mr>Latest Slimjet Browser (run again for updates)</mr>
-   <nb>Latest Slimjet Browser (run again for updates)</nb>
-   <nl>Meest recente Slimjet Browser (nogmaals uitvoeren voor updates)</nl>
-   <pl>najnowsza przeglądarka Slimjet (uruchom ponownie w celu aktualizacji)</pl>
-   <pt_BR>Navegador web Slimjet, versão mais recente (para obter atualizações, se disponíveis, voltar a executar)</pt_BR>
-   <pt>Navegador web Slimjet, versão mais recente (para obter actualizações, se disponíveis, voltar a executar)</pt>
-   <ro>Latest Slimjet Browser (run again for updates)</ro>
-   <ru>Браузер Slimjet последней версии (перезапустите для установки обновлений)</ru>
-   <sk>Latest Slimjet Browser (run again for updates)</sk>
-   <sl>Zadnja različica Slimjet brskalnika</sl>
-   <sq>Latest Slimjet Browser (run again for updates)</sq>
-   <sr>Latest Slimjet Browser (run again for updates)</sr>
-   <sv>Senaste Slimjet Webbläsare (kör igen för uppdateringar)</sv>
-   <tr>Latest Slimjet Browser (run again for updates)</tr>
-   <uk>Latest Slimjet Browser (run again for updates)</uk>
-   <zh_CN>Latest Slimjet Browser (run again for updates)</zh_CN>
-   <zh_TW>Latest Slimjet Browser (run again for updates)</zh_TW>
+   <am>Peer-to-peer video, voice, messaging</am>
+   <ar>Peer-to-peer video, voice, messaging</ar>
+   <bg>Peer-to-peer video, voice, messaging</bg>
+   <ca>Missatgeria peer-to-peer de vídeo i veu</ca>
+   <cs>Peer-to-peer video, voice, messaging</cs>
+   <da>Modpart-til-modpart video, stemme, samtale</da>
+   <de>Peer-to-Peer-Video, Sprache, Messaging</de>
+   <el>Peer-to-peer βίντεο, φωνή, μηνύματα</el>
+   <en>Peer-to-peer video, voice, messaging</en>
+   <es>Vídeo entre pares, voz, mensajería</es>
+   <et>Peer-to-peer video, voice, messaging</et>
+   <eu>Peer-to-peer video, voice, messaging</eu>
+   <fa>Peer-to-peer video, voice, messaging</fa>
+   <fi>Peer-to-peer video, voice, messaging</fi>
+   <fr>Messagerie vocale, vidéo, peer-to-peer</fr>
+   <he_IL>Peer-to-peer video, voice, messaging</he_IL>
+   <hi>Peer-to-peer video, voice, messaging</hi>
+   <hr>Peer-to-peer video, voice, messaging</hr>
+   <hu>Peer-to-peer video, voice, messaging</hu>
+   <id>Peer-to-peer video, voice, messaging</id>
+   <is>Peer-to-peer video, voice, messaging</is>
+   <it>Peer-to-peer video, voce e messaggi</it>
+   <ja_JP>Peer-to-peer video, voice, messaging</ja_JP>
+   <ja>Peer-to-peer video, voice, messaging</ja>
+   <kk>Peer-to-peer video, voice, messaging</kk>
+   <ko>Peer-to-peer video, voice, messaging</ko>
+   <lt>Peer-to-peer video, voice, messaging</lt>
+   <mk>Peer-to-peer video, voice, messaging</mk>
+   <mr>Peer-to-peer video, voice, messaging</mr>
+   <nb>Peer-to-peer video, voice, messaging</nb>
+   <nl>Peer-to-peer video, voice, berichten</nl>
+   <pl>wideo, głos, przesyłanie wiadomości typu peer-to-peer</pl>
+   <pt_BR>Peer-to-peer video, voice, messaging</pt_BR>
+   <pt>Peer-to-peer video, voice, messaging</pt>
+   <ro>Peer-to-peer video, voice, messaging</ro>
+   <ru>Голосовая и видеосвязь (IP-телефония)</ru>
+   <sk>Peer-to-peer video, voice, messaging</sk>
+   <sl>Peer-to-peer video, zvok, sporočila</sl>
+   <sq>Peer-to-peer video, voice, messaging</sq>
+   <sr>Peer-to-peer video, voice, messaging</sr>
+   <sv>Peer-to-peer video, röst, meddelandetjänst</sv>
+   <tr>Peer-to-peer video, voice, messaging</tr>
+   <uk>Peer-to-peer video, voice, messaging</uk>
+   <zh_CN>Peer-to-peer video, voice, messaging</zh_CN>
+   <zh_TW>Peer-to-peer video, voice, messaging</zh_TW>
 </description>
 
 <installable>

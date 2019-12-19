@@ -10,52 +10,51 @@ SuperTux
 </name>
 
 <description>
-   <am>Swazi Language Meta-Package for LibreOffice</am>
-   <ar>Swazi Language Meta-Package for LibreOffice</ar>
-   <bg>Swazi Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Swazi per LibreOffice</ca>
-   <cs>Swazi Language Meta-Package for LibreOffice</cs>
-   <da>Swazi Language Meta-Package for LibreOffice</da>
-   <de>Swazi Meta-Paket für LibreOffice</de>
-   <el>Swazi Language Meta-Package for LibreOffice</el>
-   <en>Swazi Language Meta-Package for LibreOffice</en>
-   <es>Metapaquete de idioma swazi para LibreOffice</es>
-   <et>Swazi Language Meta-Package for LibreOffice</et>
-   <eu>Swazi Language Meta-Package for LibreOffice</eu>
-   <fa>Swazi Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Swazi Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Swazi Language Meta-Package for LibreOffice</fi>
-   <fr>Swazi Language Meta-Package for LibreOffice</fr>
-   <he_IL>Swazi Language Meta-Package for LibreOffice</he_IL>
-   <hi>Swazi Language Meta-Package for LibreOffice</hi>
-   <hr>Swazi Language Meta-Package for LibreOffice</hr>
-   <hu>Swazi Language Meta-Package for LibreOffice</hu>
-   <id>Swazi Language Meta-Package for LibreOffice</id>
-   <is>Swazi Language Meta-Package for LibreOffice</is>
-   <it>Swazi Language Meta-Package for LibreOffice</it>
-   <ja_JP>Swazi Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Swazi Language Meta-Package for LibreOffice</ja>
-   <kk>Swazi Language Meta-Package for LibreOffice</kk>
-   <ko>Swazi Language Meta-Package for LibreOffice</ko>
-   <lt>Swazi Language Meta-Package for LibreOffice</lt>
-   <mk>Swazi Language Meta-Package for LibreOffice</mk>
-   <mr>Swazi Language Meta-Package for LibreOffice</mr>
-   <nb>Swazi Language Meta-Package for LibreOffice</nb>
-   <nl>Swazi Language Meta-Package for LibreOffice</nl>
-   <pl>Swazi Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Swazi Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Swazi Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Swazi Language Meta-Package for LibreOffice</ro>
-   <ru>Swazi Language Meta-Package for LibreOffice</ru>
-   <sk>Swazi Language Meta-Package for LibreOffice</sk>
-   <sl>Svazijski jezikovni meta-paket za LibreOffice</sl>
-   <sq>Swazi Language Meta-Package for LibreOffice</sq>
-   <sr>Swazi Language Meta-Package for LibreOffice</sr>
-   <sv>Swazi Språk Meta-Paket för LibreOffice</sv>
-   <tr>Swazi Language Meta-Package for LibreOffice</tr>
-   <uk>Swazi Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Swazi Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Swazi Language Meta-Package for LibreOffice</zh_TW>
+   <am>Mario style platform game w/ Tux</am>
+   <ar>Mario style platform game w/ Tux</ar>
+   <bg>Mario style platform game w/ Tux</bg>
+   <ca>Plataforma de jocs de l'estil Mario amb Tux</ca>
+   <cs>Mario style platform game w/ Tux</cs>
+   <da>Platformspil med Tux i stil med Mario</da>
+   <de>Mario Style Plattformspiel mit Tux</de>
+   <el>Mario style platform game w/ Tux</el>
+   <en>Mario style platform game w/ Tux</en>
+   <es>Juego de plataformas con Tux estilo Mario</es>
+   <et>Mario style platform game w/ Tux</et>
+   <eu>Mario style platform game w/ Tux</eu>
+   <fa>Mario style platform game w/ Tux</fa>
+   <fi>Mario style platform game w/ Tux</fi>
+   <fr>Jeu de plate-formes de style Mario, mais avec Tux comme héros</fr>
+   <he_IL>Mario style platform game w/ Tux</he_IL>
+   <hi>Mario style platform game w/ Tux</hi>
+   <hr>Mario style platform game w/ Tux</hr>
+   <hu>Mario style platform game w/ Tux</hu>
+   <id>Mario style platform game w/ Tux</id>
+   <is>Mario style platform game w/ Tux</is>
+   <it>Piattaforma di gioco in stile SuperMario con la presenza del pinguino Tux</it>
+   <ja_JP>Mario style platform game w/ Tux</ja_JP>
+   <ja>Mario style platform game w/ Tux</ja>
+   <kk>Mario style platform game w/ Tux</kk>
+   <ko>Mario style platform game w/ Tux</ko>
+   <lt>Mario style platform game w/ Tux</lt>
+   <mk>Mario style platform game w/ Tux</mk>
+   <mr>Mario style platform game w/ Tux</mr>
+   <nb>Mario style platform game w/ Tux</nb>
+   <nl>Mario stijl platform spel met Tux</nl>
+   <pl>Gra platformowa w/ Tux w stylu Mario</pl>
+   <pt_BR>Mario style platform game w/ Tux</pt_BR>
+   <pt>Mario style platform game w/ Tux</pt>
+   <ro>Mario style platform game w/ Tux</ro>
+   <ru>Игра-платформер в духе Mario</ru>
+   <sk>Mario style platform game w/ Tux</sk>
+   <sl>Platformska igra tipa Mario z Tux</sl>
+   <sq>Mario style platform game w/ Tux</sq>
+   <sr>Mario style platform game w/ Tux</sr>
+   <sv>Plattformsspel i Mariostil med Tux</sv>
+   <tr>Mario style platform game w/ Tux</tr>
+   <uk>Mario style platform game w/ Tux</uk>
+   <zh_CN>Mario style platform game w/ Tux</zh_CN>
+   <zh_TW>Mario style platform game w/ Tux</zh_TW>
 </description>
 
 <installable>

@@ -10,52 +10,51 @@ Serbian_Thunderbird
 </name>
 
 <description>
-   <am>digital photo organizer</am>
-   <ar>digital photo organizer</ar>
-   <bg>digital photo organizer</bg>
-   <ca>Organitzador de fotos digitals</ca>
-   <cs>digital photo organizer</cs>
-   <da>organisering af digitale billeder</da>
-   <de>Digitalfoto-Organizer</de>
-   <el>ψηφιακό διοργανωτή φωτογραφιών</el>
-   <en>digital photo organizer</en>
-   <es>Organizador de fotografías digitales</es>
-   <et>digital photo organizer</et>
-   <eu>digital photo organizer</eu>
-   <fa>digital photo organizer</fa>
-   <fil_PH>digital photo organizer</fil_PH>
-   <fi>digital photo organizer</fi>
-   <fr>Agenda photo numérique</fr>
-   <he_IL>digital photo organizer</he_IL>
-   <hi>digital photo organizer</hi>
-   <hr>digital photo organizer</hr>
-   <hu>digital photo organizer</hu>
-   <id>digital photo organizer</id>
-   <is>digital photo organizer</is>
-   <it>organizzatore di foto digitali</it>
-   <ja_JP>digital photo organizer</ja_JP>
-   <ja>digital photo organizer</ja>
-   <kk>digital photo organizer</kk>
-   <ko>digital photo organizer</ko>
-   <lt>digital photo organizer</lt>
-   <mk>digital photo organizer</mk>
-   <mr>digital photo organizer</mr>
-   <nb>digital photo organizer</nb>
-   <nl>digitale foto-organisator</nl>
-   <pl>przeglądarka i menedżer plików graficznych i fotografii cyfrowych</pl>
-   <pt_BR>Organizador de fotos digitais</pt_BR>
-   <pt>Organizador de fotos digitais</pt>
-   <ro>digital photo organizer</ro>
-   <ru>Каталогизатор фотографий и видеофайлов</ru>
-   <sk>digital photo organizer</sk>
-   <sl>Digitalni organizator fotografiji</sl>
-   <sq>digital photo organizer</sq>
-   <sr>digital photo organizer</sr>
-   <sv>digital foto-organiserare</sv>
-   <tr>digital photo organizer</tr>
-   <uk>digital photo organizer</uk>
-   <zh_CN>digital photo organizer</zh_CN>
-   <zh_TW>digital photo organizer</zh_TW>
+   <am>Serbian localisation of Thunderbird</am>
+   <ar>Serbian localisation of Thunderbird</ar>
+   <bg>Serbian localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Serbi</ca>
+   <cs>Serbian localisation of Thunderbird</cs>
+   <da>Serbisk oversættelse af Thunderbird</da>
+   <de>Serbische Lokalisierung von Thunderbird</de>
+   <el>Σερβικός εντοπισμός του Thunderbird</el>
+   <en>Serbian localisation of Thunderbird</en>
+   <es>Localización Serbia de Thunderbird</es>
+   <et>Serbian localisation of Thunderbird</et>
+   <eu>Serbian localisation of Thunderbird</eu>
+   <fa>Serbian localisation of Thunderbird</fa>
+   <fi>Serbian localisation of Thunderbird</fi>
+   <fr>Localisation serbe pour Thunderbird</fr>
+   <he_IL>Serbian localisation of Thunderbird</he_IL>
+   <hi>Serbian localisation of Thunderbird</hi>
+   <hr>Serbian localisation of Thunderbird</hr>
+   <hu>Serbian localisation of Thunderbird</hu>
+   <id>Serbian localisation of Thunderbird</id>
+   <is>Serbian localisation of Thunderbird</is>
+   <it>Localizzazione serba di Thunderbird</it>
+   <ja_JP>Serbian localisation of Thunderbird</ja_JP>
+   <ja>Serbian localisation of Thunderbird</ja>
+   <kk>Serbian localisation of Thunderbird</kk>
+   <ko>Serbian localisation of Thunderbird</ko>
+   <lt>Serbian localisation of Thunderbird</lt>
+   <mk>Serbian localisation of Thunderbird</mk>
+   <mr>Serbian localisation of Thunderbird</mr>
+   <nb>Serbian localisation of Thunderbird</nb>
+   <nl>Servische lokalisatie van Thunderbird</nl>
+   <pl>Serbska lokalizacja Thunderbirda</pl>
+   <pt_BR>Sérvio Localização para Thunderbird</pt_BR>
+   <pt>Sérvio Localização para Thunderbird</pt>
+   <ro>Serbian localisation of Thunderbird</ro>
+   <ru>Serbian localisation of Thunderbird</ru>
+   <sk>Serbian localisation of Thunderbird</sk>
+   <sl>Serbian localisation of Thunderbird</sl>
+   <sq>Serbian localisation of Thunderbird</sq>
+   <sr>Serbian localisation of Thunderbird</sr>
+   <sv>Serbisk lokalisering av Thunderbird </sv>
+   <tr>Serbian localisation of Thunderbird</tr>
+   <uk>Serbian localisation of Thunderbird</uk>
+   <zh_CN>Serbian localisation of Thunderbird</zh_CN>
+   <zh_TW>Serbian localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

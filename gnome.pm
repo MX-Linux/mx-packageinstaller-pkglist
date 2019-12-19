@@ -10,52 +10,51 @@ Gnome Base
 </name>
 
 <description>
-   <am>personal and small-business financial-accounting software</am>
-   <ar>personal and small-business financial-accounting software</ar>
-   <bg>personal and small-business financial-accounting software</bg>
-   <ca>programari de comptabilitat personal o per petites empreses</ca>
-   <cs>personal and small-business financial-accounting software</cs>
-   <da>finansstyringssoftware til personer og mindre virksomheder</da>
-   <de>Personal- und Kleinunternehmer-Finanzbuchhaltungssoftware</de>
-   <el>λογισμικό χρηματοοικονομικής λογιστικής προσωπικού και μικρού επιχειρείς</el>
-   <en>personal and small-business financial-accounting software</en>
-   <es>Software de contabilidad financiera personal y de pequeñas empresas</es>
-   <et>personal and small-business financial-accounting software</et>
-   <eu>personal and small-business financial-accounting software</eu>
-   <fa>personal and small-business financial-accounting software</fa>
-   <fil_PH>personal and small-business financial-accounting software</fil_PH>
-   <fi>personal and small-business financial-accounting software</fi>
-   <fr>Logiciel de comptabilité personnelle et pour petites entreprises</fr>
-   <he_IL>personal and small-business financial-accounting software</he_IL>
-   <hi>personal and small-business financial-accounting software</hi>
-   <hr>personal and small-business financial-accounting software</hr>
-   <hu>personal and small-business financial-accounting software</hu>
-   <id>personal and small-business financial-accounting software</id>
-   <is>personal and small-business financial-accounting software</is>
-   <it>Contabilità personale e per piccola impresa</it>
-   <ja_JP>personal and small-business financial-accounting software</ja_JP>
-   <ja>personal and small-business financial-accounting software</ja>
-   <kk>personal and small-business financial-accounting software</kk>
-   <ko>personal and small-business financial-accounting software</ko>
-   <lt>personal and small-business financial-accounting software</lt>
-   <mk>personal and small-business financial-accounting software</mk>
-   <mr>personal and small-business financial-accounting software</mr>
-   <nb>personal and small-business financial-accounting software</nb>
-   <nl>software voor de financiële boekhouding van particulieren en kleine bedrijven</nl>
-   <pl>oprogramowanie finansowo-księgowe dla osób prywatnych i małych firm</pl>
-   <pt_BR>Software de contabilidade-finanças para pequenas empresas e uso pessoal</pt_BR>
-   <pt>Software de contabilidade-finanças para pequenas empresas e uso pessoal</pt>
-   <ro>personal and small-business financial-accounting software</ro>
-   <ru>Приложение финансового учета для персонального и малого бизнеса</ru>
-   <sk>personal and small-business financial-accounting software</sk>
-   <sl>finančno-računovodska programska oprema za osebno rabo in mala podjetja</sl>
-   <sq>personal and small-business financial-accounting software</sq>
-   <sr>personal and small-business financial-accounting software</sr>
-   <sv>personlig och småföretags finansiell räkenskaps-mjukvara</sv>
-   <tr>personal and small-business financial-accounting software</tr>
-   <uk>програма обліку фінансів для малого бізнесу та домашнього господарства</uk>
-   <zh_CN>personal and small-business financial-accounting software</zh_CN>
-   <zh_TW>personal and small-business financial-accounting software</zh_TW>
+   <am>Minimal install of gnome shell</am>
+   <ar>Minimal install of gnome shell</ar>
+   <bg>Minimal install of gnome shell</bg>
+   <ca>Instal·lació mínima de Gnome Shell</ca>
+   <cs>Minimal install of gnome shell</cs>
+   <da>Minimal installation af gnome shell</da>
+   <de>Minimale Installation der Gnome-Shell</de>
+   <el>Ελάχιστη εγκατάσταση του gnome shell</el>
+   <en>Minimal install of gnome shell</en>
+   <es>Instalación mínima de gnome shell</es>
+   <et>Minimal install of gnome shell</et>
+   <eu>Minimal install of gnome shell</eu>
+   <fa>Minimal install of gnome shell</fa>
+   <fi>Minimal install of gnome shell</fi>
+   <fr>Installation minimale de Gnome Shell</fr>
+   <he_IL>Minimal install of gnome shell</he_IL>
+   <hi>Minimal install of gnome shell</hi>
+   <hr>Minimal install of gnome shell</hr>
+   <hu>Minimal install of gnome shell</hu>
+   <id>Minimal install of gnome shell</id>
+   <is>Minimal install of gnome shell</is>
+   <it>Installazione minimale di Gnome Shell</it>
+   <ja_JP>Minimal install of gnome shell</ja_JP>
+   <ja>Minimal install of gnome shell</ja>
+   <kk>Minimal install of gnome shell</kk>
+   <ko>Minimal install of gnome shell</ko>
+   <lt>Minimal install of gnome shell</lt>
+   <mk>Minimal install of gnome shell</mk>
+   <mr>Minimal install of gnome shell</mr>
+   <nb>Minimal install of gnome shell</nb>
+   <nl>Minimale installatie van de gnome shell</nl>
+   <pl>minimalna instalalacja powłoki gnome</pl>
+   <pt_BR>Instalação mínima do interpretador de comandos (shell) gnome</pt_BR>
+   <pt>Instalação mínima do interpretador de comandos (shell) gnome</pt>
+   <ro>Minimal install of gnome shell</ro>
+   <ru>Минимальная установка Gnome Shell</ru>
+   <sk>Minimal install of gnome shell</sk>
+   <sl>Minimalna namestitev gnome ogrodja</sl>
+   <sq>Minimal install of gnome shell</sq>
+   <sr>Minimal install of gnome shell</sr>
+   <sv>Minimal installation av gnome shell</sv>
+   <tr>Minimal install of gnome shell</tr>
+   <uk>мінімальний набір середовища gnome</uk>
+   <zh_CN>Minimal install of gnome shell</zh_CN>
+   <zh_TW>Minimal install of gnome shell</zh_TW>
 </description>
 
 <installable>

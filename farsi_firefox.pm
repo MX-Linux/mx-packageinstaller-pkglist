@@ -10,52 +10,51 @@ Farsi_Firefox
 </name>
 
 <description>
-   <am>Farsi Language Meta-Package for LibreOffice</am>
-   <ar>Farsi Language Meta-Package for LibreOffice</ar>
-   <bg>Farsi Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Farsi per LibreOffice</ca>
-   <cs>Farsi Language Meta-Package for LibreOffice</cs>
-   <da>Farsi Language Meta-Package for LibreOffice</da>
-   <de>Farsi Meta-Paket für LibreOffice</de>
-   <el>Farsi Language Meta-Package for LibreOffice</el>
-   <en>Farsi Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de idioma farsi para LibreOffice</es>
-   <et>Farsi Language Meta-Package for LibreOffice</et>
-   <eu>Farsi Language Meta-Package for LibreOffice</eu>
-   <fa>Farsi Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Farsi Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Farsi Language Meta-Package for LibreOffice</fi>
-   <fr>Farsi Language Meta-Package for LibreOffice</fr>
-   <he_IL>Farsi Language Meta-Package for LibreOffice</he_IL>
-   <hi>Farsi Language Meta-Package for LibreOffice</hi>
-   <hr>Farsi Language Meta-Package for LibreOffice</hr>
-   <hu>Farsi Language Meta-Package for LibreOffice</hu>
-   <id>Farsi Language Meta-Package for LibreOffice</id>
-   <is>Farsi Language Meta-Package for LibreOffice</is>
-   <it>Farsi Language Meta-Package for LibreOffice</it>
-   <ja_JP>Farsi Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Farsi Language Meta-Package for LibreOffice</ja>
-   <kk>Farsi Language Meta-Package for LibreOffice</kk>
-   <ko>Farsi Language Meta-Package for LibreOffice</ko>
-   <lt>Farsi Language Meta-Package for LibreOffice</lt>
-   <mk>Farsi Language Meta-Package for LibreOffice</mk>
-   <mr>Farsi Language Meta-Package for LibreOffice</mr>
-   <nb>Farsi Language Meta-Package for LibreOffice</nb>
-   <nl>Farsi Language Meta-Package for LibreOffice</nl>
-   <pl>Farsi Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Farsi Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Persa Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Farsi Language Meta-Package for LibreOffice</ro>
-   <ru>Farsi Language Meta-Package for LibreOffice</ru>
-   <sk>Farsi Language Meta-Package for LibreOffice</sk>
-   <sl>Farsi jezikovni meta-paket za LibreOffice</sl>
-   <sq>Farsi Language Meta-Package for LibreOffice</sq>
-   <sr>Farsi Language Meta-Package for LibreOffice</sr>
-   <sv>Farsi Språk Meta-Paket för LibreOffice</sv>
-   <tr>Farsi Language Meta-Package for LibreOffice</tr>
-   <uk>Farsi Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Farsi Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Farsi Language Meta-Package for LibreOffice</zh_TW>
+   <am>Farsi localisation of Firefox</am>
+   <ar>Farsi localisation of Firefox</ar>
+   <bg>Farsi localisation of Firefox</bg>
+   <ca>Localització de Firefox en Farsi</ca>
+   <cs>Farsi localisation of Firefox</cs>
+   <da>Farsi oversættelse af Firefox</da>
+   <de>Farsi-Lokalisierung von Firefox</de>
+   <el>Φαρσί εντοπισμού του Firefox</el>
+   <en>Farsi localisation of Firefox</en>
+   <es>Localización Farsi de Firefox</es>
+   <et>Farsi localisation of Firefox</et>
+   <eu>Farsi localisation of Firefox</eu>
+   <fa>Farsi localisation of Firefox</fa>
+   <fi>Farsi localisation of Firefox</fi>
+   <fr>Localisation farsi pour Firefox</fr>
+   <he_IL>Farsi localisation of Firefox</he_IL>
+   <hi>Farsi localisation of Firefox</hi>
+   <hr>Farsi localisation of Firefox</hr>
+   <hu>Farsi localisation of Firefox</hu>
+   <id>Farsi localisation of Firefox</id>
+   <is>Farsi localisation of Firefox</is>
+   <it>Localizzazione persiana di Firefox</it>
+   <ja_JP>Farsi localisation of Firefox</ja_JP>
+   <ja>Farsi localisation of Firefox</ja>
+   <kk>Farsi localisation of Firefox</kk>
+   <ko>Farsi localisation of Firefox</ko>
+   <lt>Farsi localisation of Firefox</lt>
+   <mk>Farsi localisation of Firefox</mk>
+   <mr>Farsi localisation of Firefox</mr>
+   <nb>Farsi localisation of Firefox</nb>
+   <nl>Perzische lokalisatie van Firefox</nl>
+   <pl>Farsi lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Persa Localização para Firefox</pt_BR>
+   <pt>Persa Localização para Firefox</pt>
+   <ro>Farsi localisation of Firefox</ro>
+   <ru>Локализация Firefox на фарси</ru>
+   <sk>Farsi localisation of Firefox</sk>
+   <sl>Farsi localisation of Firefox</sl>
+   <sq>Farsi localisation of Firefox</sq>
+   <sr>Farsi localisation of Firefox</sr>
+   <sv>Farsi lokalisering av Firefox</sv>
+   <tr>Farsi localisation of Firefox</tr>
+   <uk>Farsi локалізація Firefox</uk>
+   <zh_CN>Farsi localisation of Firefox</zh_CN>
+   <zh_TW>Farsi localisation of Firefox</zh_TW>
 </description>
 
 <installable>

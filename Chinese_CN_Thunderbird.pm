@@ -10,52 +10,51 @@ Chinese_CN_Thunderbird
 </name>
 
 <description>
-   <am>Chinese fonts packages</am>
-   <ar>Chinese fonts packages</ar>
-   <bg>Chinese fonts packages</bg>
-   <ca>Paquets de tipus de lletra en Xinès</ca>
-   <cs>Chinese fonts packages</cs>
-   <da>Kinesisk skrifttyper-pakke</da>
-   <de>Chinesische Schriftenpakete</de>
-   <el>Πακέτα κινεζικών γραμματοσειρών</el>
-   <en>Chinese fonts packages</en>
-   <es>Paquetes de fuentes chinas</es>
-   <et>Chinese fonts packages</et>
-   <eu>Chinese fonts packages</eu>
-   <fa>Chinese fonts packages</fa>
-   <fil_PH>Chinese fonts packages</fil_PH>
-   <fi>Chinese fonts packages</fi>
-   <fr>Paquets pour polices chinoises</fr>
-   <he_IL>Chinese fonts packages</he_IL>
-   <hi>Chinese fonts packages</hi>
-   <hr>Chinese fonts packages</hr>
-   <hu>Chinese fonts packages</hu>
-   <id>Chinese fonts packages</id>
-   <is>Chinese fonts packages</is>
-   <it>Pacchetti di fonts per il Cinese</it>
-   <ja_JP>Chinese fonts packages</ja_JP>
-   <ja>Chinese fonts packages</ja>
-   <kk>Chinese fonts packages</kk>
-   <ko>Chinese fonts packages</ko>
-   <lt>Kinų šriftų paketai</lt>
-   <mk>Chinese fonts packages</mk>
-   <mr>Chinese fonts packages</mr>
-   <nb>Chinese fonts packages</nb>
-   <nl>Chinese font pakketten</nl>
-   <pl>pakiety z chińskimi fontami (czcionkami)</pl>
-   <pt_BR>Chinês Pacotes de fontes</pt_BR>
-   <pt>Chinês Pacotes de fontes</pt>
-   <ro>Chinese fonts packages</ro>
-   <ru>Пакеты китайских шрифтов</ru>
-   <sk>Chinese fonts packages</sk>
-   <sl>Chinese fonts packages</sl>
-   <sq>Chinese fonts packages</sq>
-   <sr>Chinese fonts packages</sr>
-   <sv>Kinesiska typsnitts-paket</sv>
-   <tr>Chinese fonts packages</tr>
-   <uk>Пакунок з Китайськими шрифтами</uk>
-   <zh_CN>Chinese fonts packages</zh_CN>
-   <zh_TW>Chinese fonts packages</zh_TW>
+   <am>Chinese_simplified localisation of Thunderbird</am>
+   <ar>Chinese_simplified localisation of Thunderbird</ar>
+   <bg>Chinese_simplified localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Xinès simplificat</ca>
+   <cs>Chinese_simplified localisation of Thunderbird</cs>
+   <da>Kinesisk (forenklet) oversættelse af Thunderbird</da>
+   <de>Chinesische (vereinfacht) Lokalisierung von Thunderbird</de>
+   <el>Κινεζικός εντοπισμός του Thunderbird</el>
+   <en>Chinese_simplified localisation of Thunderbird</en>
+   <es>Localización Chino simplificado de Thunderbird</es>
+   <et>Chinese_simplified localisation of Thunderbird</et>
+   <eu>Chinese_simplified localisation of Thunderbird</eu>
+   <fa>Chinese_simplified localisation of Thunderbird</fa>
+   <fi>Chinese_simplified localisation of Thunderbird</fi>
+   <fr>Localisation chinois-simplifié pour Thunderbird</fr>
+   <he_IL>Chinese_simplified localisation of Thunderbird</he_IL>
+   <hi>Chinese_simplified localisation of Thunderbird</hi>
+   <hr>Chinese_simplified localisation of Thunderbird</hr>
+   <hu>Chinese_simplified localisation of Thunderbird</hu>
+   <id>Chinese_simplified localisation of Thunderbird</id>
+   <is>Chinese_simplified localisation of Thunderbird</is>
+   <it>Localizzazione in Cinese_semplificato di Thunderbird</it>
+   <ja_JP>Chinese_simplified localisation of Thunderbird</ja_JP>
+   <ja>Chinese_simplified localisation of Thunderbird</ja>
+   <kk>Chinese_simplified localisation of Thunderbird</kk>
+   <ko>Chinese_simplified localisation of Thunderbird</ko>
+   <lt>Chinese_simplified localisation of Thunderbird</lt>
+   <mk>Chinese_simplified localisation of Thunderbird</mk>
+   <mr>Chinese_simplified localisation of Thunderbird</mr>
+   <nb>Chinese_simplified localisation of Thunderbird</nb>
+   <nl>Vereenvoudigd Chinese lokalisatie van Thunderbird</nl>
+   <pl>Chiński uproszczony lokalizacja Thunderbirda</pl>
+   <pt_BR>Chinês_simplificado Localização para Thunderbird</pt_BR>
+   <pt>Chinês_simplificado Localização para Thunderbird</pt>
+   <ro>Chinese_simplified localisation of Thunderbird</ro>
+   <ru>Chinese_simplified localisation of Thunderbird</ru>
+   <sk>Chinese_simplified localisation of Thunderbird</sk>
+   <sl>Chinese_simplified localisation of Thunderbird</sl>
+   <sq>Chinese_simplified localisation of Thunderbird</sq>
+   <sr>Chinese_simplified localisation of Thunderbird</sr>
+   <sv>Kinesisk_förenklad lokalisering av Thunderbird</sv>
+   <tr>Chinese_simplified localisation of Thunderbird</tr>
+   <uk>Chinese_simplified локалізація Thunderbird</uk>
+   <zh_CN>Chinese_simplified localisation of Thunderbird</zh_CN>
+   <zh_TW>Chinese_simplified localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

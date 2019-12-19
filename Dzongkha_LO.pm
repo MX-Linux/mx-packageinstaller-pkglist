@@ -10,52 +10,51 @@ Dzongkha_Libreoffice
 </name>
 
 <description>
-   <am>GB English localisation of Firefox</am>
-   <ar>GB English localisation of Firefox</ar>
-   <bg>GB English localisation of Firefox</bg>
-   <ca>Localització de Firefox en anglès (UK)</ca>
-   <cs>GB English localisation of Firefox</cs>
-   <da>Engelsk (storbritannien) oversættelse af Firefox</da>
-   <de>Englische (GB) Lokalisierung von Firefox</de>
-   <el>Αγγλικός (ΜΒ) εντοπισμός του Firefox</el>
-   <en>GB English localisation of Firefox</en>
-   <es>Localización Inglesa (GB) de Firefox</es>
-   <et>GB English localisation of Firefox</et>
-   <eu>GB English localisation of Firefox</eu>
-   <fa>GB English localisation of Firefox</fa>
-   <fil_PH>GB English localisation of Firefox</fil_PH>
-   <fi>GB English localisation of Firefox</fi>
-   <fr>Localisation anglaise_GB pour Firefox</fr>
-   <he_IL>GB English localisation of Firefox</he_IL>
-   <hi>GB English localisation of Firefox</hi>
-   <hr>GB English localisation of Firefox</hr>
-   <hu>GB English localisation of Firefox</hu>
-   <id>GB English localisation of Firefox</id>
-   <is>GB English localisation of Firefox</is>
-   <it>Localizzazione in Inglese GB di Firefox</it>
-   <ja_JP>GB English localisation of Firefox</ja_JP>
-   <ja>GB English localisation of Firefox</ja>
-   <kk>GB English localisation of Firefox</kk>
-   <ko>GB English localisation of Firefox</ko>
-   <lt>GB English localisation of Firefox</lt>
-   <mk>GB English localisation of Firefox</mk>
-   <mr>GB English localisation of Firefox</mr>
-   <nb>GB English localisation of Firefox</nb>
-   <nl>GB Engelse lokalisatie van Firefox</nl>
-   <pl>Angielski Brytyjski lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>GB Inglês Localização para Firefox</pt_BR>
-   <pt>Inglês GB Localização para Firefox</pt>
-   <ro>GB English localisation of Firefox</ro>
-   <ru>GB English localisation of Firefox</ru>
-   <sk>GB English localisation of Firefox</sk>
-   <sl>GB English localisation of Firefox</sl>
-   <sq>GB English localisation of Firefox</sq>
-   <sr>GB English localisation of Firefox</sr>
-   <sv>GB Engelsk lokalisering av Firefox</sv>
-   <tr>Firefox'un Britanya İngilizcesi yerelleştirmesi</tr>
-   <uk>GB English локалізація Firefox</uk>
-   <zh_CN>GB English localisation of Firefox</zh_CN>
-   <zh_TW>GB English localisation of Firefox</zh_TW>
+   <am>Dzongkha Language Meta-Package for LibreOffice</am>
+   <ar>Dzongkha Language Meta-Package for LibreOffice</ar>
+   <bg>Dzongkha Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Dzongkha per LibreOffice</ca>
+   <cs>Dzongkha Language Meta-Package for LibreOffice</cs>
+   <da>Dzongkha sprog-metapakke til LibreOffice</da>
+   <de>Dzongkha Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Dzongkha</el>
+   <en>Dzongkha Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Dzongkha para LibreOffice</es>
+   <et>Dzongkha Language Meta-Package for LibreOffice</et>
+   <eu>Dzongkha Language Meta-Package for LibreOffice</eu>
+   <fa>Dzongkha Language Meta-Package for LibreOffice</fa>
+   <fi>Dzongkha Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Dzongkha pour LibreOffice</fr>
+   <he_IL>Dzongkha Language Meta-Package for LibreOffice</he_IL>
+   <hi>Dzongkha Language Meta-Package for LibreOffice</hi>
+   <hr>Dzongkha Language Meta-Package for LibreOffice</hr>
+   <hu>Dzongkha Language Meta-Package for LibreOffice</hu>
+   <id>Dzongkha Language Meta-Package for LibreOffice</id>
+   <is>Dzongkha Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Dzongkha per LibreOffice</it>
+   <ja_JP>Dzongkha Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Dzongkha Language Meta-Package for LibreOffice</ja>
+   <kk>Dzongkha Language Meta-Package for LibreOffice</kk>
+   <ko>Dzongkha Language Meta-Package for LibreOffice</ko>
+   <lt>Dzongkha Language Meta-Package for LibreOffice</lt>
+   <mk>Dzongkha Language Meta-Package for LibreOffice</mk>
+   <mr>Dzongkha Language Meta-Package for LibreOffice</mr>
+   <nb>Dzongkha Language Meta-Package for LibreOffice</nb>
+   <nl>Dzongkha Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Dzongkha metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Dzongkha Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Dzongkha Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Dzongkha Language Meta-Package for LibreOffice</ro>
+   <ru>Dzongkha Language Meta-Package for LibreOffice</ru>
+   <sk>Dzongkha Language Meta-Package for LibreOffice</sk>
+   <sl>Dzongkha Language Meta-Package for LibreOffice</sl>
+   <sq>Dzongkha Language Meta-Package for LibreOffice</sq>
+   <sr>Dzongkha Language Meta-Package for LibreOffice</sr>
+   <sv>Dzongkha Språk Meta-Paket för LibreOffice</sv>
+   <tr>Dzongkha Language Meta-Package for LibreOffice</tr>
+   <uk>Dzongkha Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Dzongkha Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Dzongkha Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

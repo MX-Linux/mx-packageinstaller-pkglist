@@ -10,52 +10,51 @@ Esperanto_Libreoffice
 </name>
 
 <description>
-   <am>Estonian localisation of Firefox</am>
-   <ar>Estonian localisation of Firefox</ar>
-   <bg>Estonian localisation of Firefox</bg>
-   <ca>Localització de Firefox en Estonià</ca>
-   <cs>Estonian localisation of Firefox</cs>
-   <da>Estisk oversættelse af Firefox</da>
-   <de>Estnische Lokalisierung von Firefox</de>
-   <el>Εστονικός εντοπισμός του Firefox</el>
-   <en>Estonian localisation of Firefox</en>
-   <es>Localización Estonia de Firefox</es>
-   <et>Estonian localisation of Firefox</et>
-   <eu>Estonian localisation of Firefox</eu>
-   <fa>Estonian localisation of Firefox</fa>
-   <fil_PH>Estonian localisation of Firefox</fil_PH>
-   <fi>Estonian localisation of Firefox</fi>
-   <fr>Localisation estonienne pour Firefox</fr>
-   <he_IL>Estonian localisation of Firefox</he_IL>
-   <hi>Estonian localisation of Firefox</hi>
-   <hr>Estonian localisation of Firefox</hr>
-   <hu>Estonian localisation of Firefox</hu>
-   <id>Estonian localisation of Firefox</id>
-   <is>Estonian localisation of Firefox</is>
-   <it>Localizzazione estone di Firefox</it>
-   <ja_JP>Estonian localisation of Firefox</ja_JP>
-   <ja>Estonian localisation of Firefox</ja>
-   <kk>Estonian localisation of Firefox</kk>
-   <ko>Estonian localisation of Firefox</ko>
-   <lt>Estonian localisation of Firefox</lt>
-   <mk>Estonian localisation of Firefox</mk>
-   <mr>Estonian localisation of Firefox</mr>
-   <nb>Estonian localisation of Firefox</nb>
-   <nl>Estische lokalisatie van Firefox</nl>
-   <pl>Estońska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Estónio Localização para Firefox</pt_BR>
-   <pt>Estónio Localização para Firefox</pt>
-   <ro>Estonian localisation of Firefox</ro>
-   <ru>Estonian localisation of Firefox</ru>
-   <sk>Estonian localisation of Firefox</sk>
-   <sl>Estonska lokalizacija za Firefox</sl>
-   <sq>Estonian localisation of Firefox</sq>
-   <sr>Estonian localisation of Firefox</sr>
-   <sv>Estnisk lokalisering av Firefox</sv>
-   <tr>Firefox'un Estonya dili yerelleştirmesi</tr>
-   <uk>Estonian локалізація Firefox</uk>
-   <zh_CN>Estonian localisation of Firefox</zh_CN>
-   <zh_TW>Estonian localisation of Firefox</zh_TW>
+   <am>Esperanto Language Meta-Package for LibreOffice</am>
+   <ar>Esperanto Language Meta-Package for LibreOffice</ar>
+   <bg>Esperanto Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Esperanto per LibreOffice</ca>
+   <cs>Esperanto Language Meta-Package for LibreOffice</cs>
+   <da>Esperanto sprog-metapakke til LibreOffice</da>
+   <de>Esperanto Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Esperanto</el>
+   <en>Esperanto Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Esperanto para LibreOffice</es>
+   <et>Esperanto Language Meta-Package for LibreOffice</et>
+   <eu>Esperanto Language Meta-Package for LibreOffice</eu>
+   <fa>Esperanto Language Meta-Package for LibreOffice</fa>
+   <fi>Esperanto Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Esperanto pour LibreOffice</fr>
+   <he_IL>Esperanto Language Meta-Package for LibreOffice</he_IL>
+   <hi>Esperanto Language Meta-Package for LibreOffice</hi>
+   <hr>Esperanto Language Meta-Package for LibreOffice</hr>
+   <hu>Esperanto Language Meta-Package for LibreOffice</hu>
+   <id>Esperanto Language Meta-Package for LibreOffice</id>
+   <is>Esperanto Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Esperanto per LibreOffice</it>
+   <ja_JP>Esperanto Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Esperanto Language Meta-Package for LibreOffice</ja>
+   <kk>Esperanto Language Meta-Package for LibreOffice</kk>
+   <ko>Esperanto Language Meta-Package for LibreOffice</ko>
+   <lt>Esperanto Language Meta-Package for LibreOffice</lt>
+   <mk>Esperanto Language Meta-Package for LibreOffice</mk>
+   <mr>Esperanto Language Meta-Package for LibreOffice</mr>
+   <nb>Esperanto Language Meta-Package for LibreOffice</nb>
+   <nl>Esperanto Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Esperanto metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Esperanto Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Esperanto Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Esperanto Language Meta-Package for LibreOffice</ro>
+   <ru>Esperanto Language Meta-Package for LibreOffice</ru>
+   <sk>Esperanto Language Meta-Package for LibreOffice</sk>
+   <sl>Esperanto Language Meta-Package for LibreOffice</sl>
+   <sq>Esperanto Language Meta-Package for LibreOffice</sq>
+   <sr>Esperanto Language Meta-Package for LibreOffice</sr>
+   <sv>Esperanto Språk Meta-Paket för LibreOffice</sv>
+   <tr>Esperanto Language Meta-Package for LibreOffice</tr>
+   <uk>Esperanto Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Esperanto Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Esperanto Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

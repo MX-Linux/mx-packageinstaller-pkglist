@@ -10,52 +10,51 @@ Russian_Libreoffice
 </name>
 
 <description>
-   <am>Russian Language Meta-Package</am>
-   <ar>Russian Language Meta-Package</ar>
-   <bg>Russian Language Meta-Package</bg>
-   <ca>Meta-paquet de llengua per a Rus</ca>
-   <cs>Russian Language Meta-Package</cs>
-   <da>Russisk sprog-metapakke</da>
-   <de>Russisches Sprach-Meta-Paket</de>
-   <el>Ρωσική γλώσσα</el>
-   <en>Russian Language Meta-Package</en>
-   <es>Meta-Paquete de Idioma Ruso</es>
-   <et>Russian Language Meta-Package</et>
-   <eu>Russian Language Meta-Package</eu>
-   <fa>Russian Language Meta-Package</fa>
-   <fil_PH>Russian Language Meta-Package</fil_PH>
-   <fi>Russian Language Meta-Package</fi>
-   <fr>Méta-paquet pour langue russe</fr>
-   <he_IL>Russian Language Meta-Package</he_IL>
-   <hi>Russian Language Meta-Package</hi>
-   <hr>Russian Language Meta-Package</hr>
-   <hu>Russian Language Meta-Package</hu>
-   <id>Russian Language Meta-Package</id>
-   <is>Russian Language Meta-Package</is>
-   <it>Meta-pacchetto della lingua russa</it>
-   <ja_JP>Russian Language Meta-Package</ja_JP>
-   <ja>Russian Language Meta-Package</ja>
-   <kk>Russian Language Meta-Package</kk>
-   <ko>Russian Language Meta-Package</ko>
-   <lt>Russian Language Meta-Package</lt>
-   <mk>Russian Language Meta-Package</mk>
-   <mr>Russian Language Meta-Package</mr>
-   <nb>Russian Language Meta-Package</nb>
-   <nl>Russische Taal Meta-Pakket</nl>
-   <pl>Rosyjski metapakiet językowy</pl>
-   <pt_BR>Russo Meta-Pacote de Idioma</pt_BR>
-   <pt>Russo Meta-Pacote de Idioma</pt>
-   <ro>Russian Language Meta-Package</ro>
-   <ru>Мета-пакет русского языка</ru>
-   <sk>Russian Language Meta-Package</sk>
-   <sl>Russian Language Meta-Package</sl>
-   <sq>Russian Language Meta-Package</sq>
-   <sr>Russian Language Meta-Package</sr>
-   <sv>Ryskt Språk-Meta-Paket </sv>
-   <tr>Russian Language Meta-Package</tr>
-   <uk>Russian Language Meta-Package</uk>
-   <zh_CN>Russian Language Meta-Package</zh_CN>
-   <zh_TW>Russian Language Meta-Package</zh_TW>
+   <am>Russian localisation of LibreOffice</am>
+   <ar>Russian localisation of LibreOffice</ar>
+   <bg>Russian localisation of LibreOffice</bg>
+   <ca>Localització de LibreOffice en Rus</ca>
+   <cs>Russian localisation of LibreOffice</cs>
+   <da>Russisk oversættelse af LibreOffice</da>
+   <de>Russische Lokalisierung von LibreOffice</de>
+   <el>LibreOffice στα ρωσικά</el>
+   <en>Russian localisation of LibreOffice</en>
+   <es>Localización Rusa de LibreOffice</es>
+   <et>Russian localisation of LibreOffice</et>
+   <eu>Russian localisation of LibreOffice</eu>
+   <fa>Russian localisation of LibreOffice</fa>
+   <fi>Russian localisation of LibreOffice</fi>
+   <fr>Localisation russe pour LibreOffice</fr>
+   <he_IL>Russian localisation of LibreOffice</he_IL>
+   <hi>Russian localisation of LibreOffice</hi>
+   <hr>Russian localisation of LibreOffice</hr>
+   <hu>Russian localisation of LibreOffice</hu>
+   <id>Russian localisation of LibreOffice</id>
+   <is>Russian localisation of LibreOffice</is>
+   <it>Localizzazione russa di LibreOffice</it>
+   <ja_JP>Russian localisation of LibreOffice</ja_JP>
+   <ja>Russian localisation of LibreOffice</ja>
+   <kk>Russian localisation of LibreOffice</kk>
+   <ko>Russian localisation of LibreOffice</ko>
+   <lt>Russian localisation of LibreOffice</lt>
+   <mk>Russian localisation of LibreOffice</mk>
+   <mr>Russian localisation of LibreOffice</mr>
+   <nb>Russian localisation of LibreOffice</nb>
+   <nl>Russische lokalisatie van LibreOffice</nl>
+   <pl>Rosyjska lokalizacja LibreOffice</pl>
+   <pt_BR>Russo Localização para LibreOffice</pt_BR>
+   <pt>Russo Localização para LibreOffice</pt>
+   <ro>Russian localisation of LibreOffice</ro>
+   <ru>Русский перевод для LibreOffice</ru>
+   <sk>Russian localisation of LibreOffice</sk>
+   <sl>Russian localisation of LibreOffice</sl>
+   <sq>Russian localisation of LibreOffice</sq>
+   <sr>Russian localisation of LibreOffice</sr>
+   <sv>Rysk  lokalisering av LibreOffice</sv>
+   <tr>Russian localisation of LibreOffice</tr>
+   <uk>Russian локалізація LibreOffice</uk>
+   <zh_CN>Russian localisation of LibreOffice</zh_CN>
+   <zh_TW>Russian localisation of LibreOffice</zh_TW>
 </description>
 
 <installable>

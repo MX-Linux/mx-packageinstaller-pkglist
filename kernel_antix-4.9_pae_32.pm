@@ -10,52 +10,51 @@ antix 4.9 32 bit pae
 </name>
 
 <description>
-   <am>Default Debian 32bit linux kernel w/PAE</am>
-   <ar>Default Debian 32bit linux kernel w/PAE</ar>
-   <bg>Default Debian 32bit linux kernel w/PAE</bg>
-   <ca>Kernel Linux Debian 32bit per omissió amb PAE</ca>
-   <cs>Default Debian 32bit linux kernel w/PAE</cs>
-   <da>Default Debian 32bit linux kernel w/PAE</da>
-   <de>Default Debian 32bit Linux Kernel w/PAE</de>
-   <el>Default Debian 32bit linux kernel w/PAE</el>
-   <en>Default Debian 32bit linux kernel w/PAE</en>
-   <es>Kernel Debian predeterminado 32bit linux  w/PAE</es>
-   <et>Default Debian 32bit linux kernel w/PAE</et>
-   <eu>Default Debian 32bit linux kernel w/PAE</eu>
-   <fa>Default Debian 32bit linux kernel w/PAE</fa>
-   <fil_PH>Default Debian 32bit linux kernel w/PAE</fil_PH>
-   <fi>Default Debian 32bit linux kernel w/PAE</fi>
-   <fr>Default Debian 32bit linux kernel w/PAE</fr>
-   <he_IL>Default Debian 32bit linux kernel w/PAE</he_IL>
-   <hi>Default Debian 32bit linux kernel w/PAE</hi>
-   <hr>Default Debian 32bit linux kernel w/PAE</hr>
-   <hu>Default Debian 32bit linux kernel w/PAE</hu>
-   <id>Default Debian 32bit linux kernel w/PAE</id>
-   <is>Default Debian 32bit linux kernel w/PAE</is>
-   <it>Default Debian 32bit linux kernel w/PAE</it>
-   <ja_JP>Default Debian 32bit linux kernel w/PAE</ja_JP>
-   <ja>Default Debian 32bit linux kernel w/PAE</ja>
-   <kk>Default Debian 32bit linux kernel w/PAE</kk>
-   <ko>Default Debian 32bit linux kernel w/PAE</ko>
-   <lt>Default Debian 32bit linux kernel w/PAE</lt>
-   <mk>Default Debian 32bit linux kernel w/PAE</mk>
-   <mr>Default Debian 32bit linux kernel w/PAE</mr>
-   <nb>Default Debian 32bit linux kernel w/PAE</nb>
-   <nl>Default Debian 32bit linux kernel w/PAE</nl>
-   <pl>Default Debian 32bit linux kernel w/PAE</pl>
-   <pt_BR>Default Debian 32bit linux kernel w/PAE</pt_BR>
-   <pt>Núcleo (kernel) linux Debian predefinido 32bit c/PAE</pt>
-   <ro>Default Debian 32bit linux kernel w/PAE</ro>
-   <ru>Стандартное Debian ядро, 32 bit PAE</ru>
-   <sk>Default Debian 32bit linux kernel w/PAE</sk>
-   <sl>Privzeto Debian 32 bitno linux jedro s PAE</sl>
-   <sq>Default Debian 32bit linux kernel w/PAE</sq>
-   <sr>Default Debian 32bit linux kernel w/PAE</sr>
-   <sv>Standard Debian 32bit linux kärna med PAE</sv>
-   <tr>Default Debian 32bit linux kernel w/PAE</tr>
-   <uk>Default Debian 32bit linux kernel w/PAE</uk>
-   <zh_CN>Default Debian 32bit linux kernel w/PAE</zh_CN>
-   <zh_TW>Default Debian 32bit linux kernel w/PAE</zh_TW>
+   <am>antiX 4.9.193 kernel, 32 bit pae</am>
+   <ar>antiX 4.9.193 kernel, 32 bit pae</ar>
+   <bg>antiX 4.9.193 kernel, 32 bit pae</bg>
+   <ca>Kernel d'antix 4.9.193, 32 bit pae</ca>
+   <cs>antiX 4.9.193 kernel, 32 bit pae</cs>
+   <da>antiX 4.9.193 kerne, 32 bit pae</da>
+   <de>antiX 4.9.193 kernel, 32 bit pae</de>
+   <el>πυρήνας antiX 4.9.193, 32 bit pae</el>
+   <en>antiX 4.9.193 kernel, 32 bit pae</en>
+   <es>kernel antiX pae 4.9.193, 32 bit</es>
+   <et>antiX 4.9.193 kernel, 32 bit pae</et>
+   <eu>antiX 4.9.193 kernel, 32 bit pae</eu>
+   <fa>antiX 4.9.193 kernel, 32 bit pae</fa>
+   <fi>antiX 4.9.193 kernel, 32 bit pae</fi>
+   <fr>Noyau antiX 4.9.193 pae, 32 bit</fr>
+   <he_IL>antiX 4.9.193 kernel, 32 bit pae</he_IL>
+   <hi>antiX 4.9.193 kernel, 32 bit pae</hi>
+   <hr>antiX 4.9.193 kernel, 32 bit pae</hr>
+   <hu>antiX 4.9.193 kernel, 32 bit pae</hu>
+   <id>antiX 4.9.193 kernel, 32 bit pae</id>
+   <is>antiX 4.9.193 kernel, 32 bit pae</is>
+   <it>antiX 4.9.193 kernel, 32 bit pae</it>
+   <ja_JP>antiX 4.9.193 kernel, 32 bit pae</ja_JP>
+   <ja>antiX 4.9.193 kernel, 32 bit pae</ja>
+   <kk>antiX 4.9.193 kernel, 32 bit pae</kk>
+   <ko>antiX 4.9.193 kernel, 32 bit pae</ko>
+   <lt>antiX 4.9.193 kernel, 32 bit pae</lt>
+   <mk>antiX 4.9.193 kernel, 32 bit pae</mk>
+   <mr>antiX 4.9.193 kernel, 32 bit pae</mr>
+   <nb>antiX 4.9.193 kernel, 32 bit pae</nb>
+   <nl>antiX 4.9.193 kernel, 32 bit pae</nl>
+   <pl>antiX 4.9.193 kernel, 32 bit pae</pl>
+   <pt_BR>antiX 4.9.193 kernel, 32 bit pae</pt_BR>
+   <pt>Núcleo antiX 4.9.193, 32 bit pae</pt>
+   <ro>antiX 4.9.193 kernel, 32 bit pae</ro>
+   <ru>antiX 4.9.193 kernel, 32 bit pae</ru>
+   <sk>antiX 4.9.193 kernel, 32 bit pae</sk>
+   <sl>antiX 4.9.193 kernel, 32 bit pae</sl>
+   <sq>antiX 4.9.193 kernel, 32 bit pae</sq>
+   <sr>antiX 4.9.193 kernel, 32 bit pae</sr>
+   <sv>antiX 4.9.193 kärna, 32 bit pae</sv>
+   <tr>antiX 4.9.193 kernel, 32 bit pae</tr>
+   <uk>antiX 4.9.193 kernel, 32 bit pae</uk>
+   <zh_CN>antiX 4.9.193 kernel, 32 bit pae</zh_CN>
+   <zh_TW>antiX 4.9.193 kernel, 32 bit pae</zh_TW>
 </description>
 
 <installable>

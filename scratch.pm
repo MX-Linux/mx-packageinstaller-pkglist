@@ -10,52 +10,51 @@ Scratch
 </name>
 
 <description>
-   <am>a desktop page layout program</am>
-   <ar>a desktop page layout program</ar>
-   <bg>a desktop page layout program</bg>
-   <ca>Programa de disseny de pàgines d'escriptori</ca>
-   <cs>a desktop page layout program</cs>
-   <da>et program til skrivebordssidelayout</da>
-   <de>Ein Desktop-Seitenlayout-Programm</de>
-   <el>ένα πρόγραμμα διάταξης σελίδας επιφάνειας εργασίας</el>
-   <en>a desktop page layout program</en>
-   <es>Programa de maquetación de páginas para escritorio</es>
-   <et>a desktop page layout program</et>
-   <eu>a desktop page layout program</eu>
-   <fa>a desktop page layout program</fa>
-   <fil_PH>a desktop page layout program</fil_PH>
-   <fi>a desktop page layout program</fi>
-   <fr>Programme de mise en page</fr>
-   <he_IL>a desktop page layout program</he_IL>
-   <hi>a desktop page layout program</hi>
-   <hr>a desktop page layout program</hr>
-   <hu>a desktop page layout program</hu>
-   <id>a desktop page layout program</id>
-   <is>a desktop page layout program</is>
-   <it>programma di impaginazione per il desktop</it>
-   <ja_JP>a desktop page layout program</ja_JP>
-   <ja>a desktop page layout program</ja>
-   <kk>a desktop page layout program</kk>
-   <ko>a desktop page layout program</ko>
-   <lt>a desktop page layout program</lt>
-   <mk>a desktop page layout program</mk>
-   <mr>a desktop page layout program</mr>
-   <nb>a desktop page layout program</nb>
-   <nl>a desktop pagina layout programma</nl>
-   <pl>program do składu tekstu (DTP), projektowania publikacji i tworzenia plików PDF</pl>
-   <pt_BR>Programa de paginação electrônica (composição de publicações)</pt_BR>
-   <pt>Programa de paginação electrónica (composição de publicações)</pt>
-   <ro>a desktop page layout program</ro>
-   <ru>Приложение для визуальной вёрстки документов</ru>
-   <sk>a desktop page layout program</sk>
-   <sl>Namizno urejanje preloma strani</sl>
-   <sq>a desktop page layout program</sq>
-   <sr>a desktop page layout program</sr>
-   <sv>ett skrivbords sidlayout-program</sv>
-   <tr>a desktop page layout program</tr>
-   <uk>a desktop page layout program</uk>
-   <zh_CN>a desktop page layout program</zh_CN>
-   <zh_TW>a desktop page layout program</zh_TW>
+   <am>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</am>
+   <ar>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</ar>
+   <bg>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</bg>
+   <ca>Entorn de programació gràfic Scratch del M.I.T (https://scratch.mit.edu/)</ca>
+   <cs>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</cs>
+   <da>Scratch grafisk programmeringsmiljø fra M.I.T. https://scratch.mit.edu/</da>
+   <de>Scratch Graphical Programming Umgebung von M.I.T. https://scratch.mit.edu/</de>
+   <el>Περιβάλλον γραφικού προγραμματισμού Scratch από το M.I.T. https://scratch.mit.edu/</el>
+   <en>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</en>
+   <es>Entorno de Programación de Scratch Gráfico del M.I.T. https://scratch.mit.edu/</es>
+   <et>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</et>
+   <eu>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</eu>
+   <fa>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</fa>
+   <fi>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</fi>
+   <fr>Environnement graphique de programmation Scratch de M.I.T. https://scratch.mit.edu/</fr>
+   <he_IL>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</he_IL>
+   <hi>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</hi>
+   <hr>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</hr>
+   <hu>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</hu>
+   <id>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</id>
+   <is>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</is>
+   <it>Ambiente di programmazione grafica Scratch dal M.I.T. https://scratch.mit.edu/</it>
+   <ja_JP>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</ja_JP>
+   <ja>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</ja>
+   <kk>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</kk>
+   <ko>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</ko>
+   <lt>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</lt>
+   <mk>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</mk>
+   <mr>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</mr>
+   <nb>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</nb>
+   <nl>Scratch Grafische Progammeer Omgeving van M.I.T. https://scratch.mit.edu/</nl>
+   <pl>programistyczne środowisko graficzne Scratch od M.I.T. https://scratch.mit.edu/</pl>
+   <pt_BR>Ambiente de programação gráfica Scratch do M.I.T. https://scratch.mit.edu/</pt_BR>
+   <pt>Ambiente de programação gráfica Scratch do M.I.T. https://scratch.mit.edu/</pt>
+   <ro>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</ro>
+   <ru>Окружение визуального программирования Scratch https://scratch.mit.edu/</ru>
+   <sk>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</sk>
+   <sl>Scratch grafično okolje za učenje programiranja (M.I.T. https://scratch.mit.edu/)</sl>
+   <sq>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</sq>
+   <sr>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</sr>
+   <sv>Scratch Grafisk Programmeringsmiljö från M.I.T. https://scratch.mit.edu/</sv>
+   <tr>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</tr>
+   <uk>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</uk>
+   <zh_CN>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</zh_CN>
+   <zh_TW>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</zh_TW>
 </description>
 
 <installable>

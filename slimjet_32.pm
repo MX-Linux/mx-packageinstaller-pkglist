@@ -23,7 +23,6 @@ Slimjet
    <et>Latest Slimjet Browser (run again for updates)</et>
    <eu>Latest Slimjet Browser (run again for updates)</eu>
    <fa>Latest Slimjet Browser (run again for updates)</fa>
-   <fil_PH>Latest Slimjet Browser (run again for updates)</fil_PH>
    <fi>Latest Slimjet Browser (run again for updates)</fi>
    <fr>La dernière version du navigateur Slimjet (relancer pour mise à jour)</fr>
    <he_IL>Latest Slimjet Browser (run again for updates)</he_IL>
