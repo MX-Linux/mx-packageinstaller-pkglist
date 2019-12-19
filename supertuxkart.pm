@@ -10,52 +10,51 @@ SuperTuxKart
 </name>
 
 <description>
-   <am>Mario style platform game w/ Tux</am>
-   <ar>Mario style platform game w/ Tux</ar>
-   <bg>Mario style platform game w/ Tux</bg>
-   <ca>Plataforma de jocs de l'estil Mario amb Tux</ca>
-   <cs>Mario style platform game w/ Tux</cs>
-   <da>Platformspil med Tux i stil med Mario</da>
-   <de>Mario Style Plattformspiel mit Tux</de>
-   <el>Mario style platform game w/ Tux</el>
-   <en>Mario style platform game w/ Tux</en>
-   <es>Juego de plataformas con Tux estilo Mario</es>
-   <et>Mario style platform game w/ Tux</et>
-   <eu>Mario style platform game w/ Tux</eu>
-   <fa>Mario style platform game w/ Tux</fa>
-   <fil_PH>Mario style platform game w/ Tux</fil_PH>
-   <fi>Mario style platform game w/ Tux</fi>
-   <fr>Jeu de plate-formes de style Mario, mais avec Tux comme héros</fr>
-   <he_IL>Mario style platform game w/ Tux</he_IL>
-   <hi>Mario style platform game w/ Tux</hi>
-   <hr>Mario style platform game w/ Tux</hr>
-   <hu>Mario style platform game w/ Tux</hu>
-   <id>Mario style platform game w/ Tux</id>
-   <is>Mario style platform game w/ Tux</is>
-   <it>Piattaforma di gioco in stile SuperMario con la presenza del pinguino Tux</it>
-   <ja_JP>Mario style platform game w/ Tux</ja_JP>
-   <ja>Mario style platform game w/ Tux</ja>
-   <kk>Mario style platform game w/ Tux</kk>
-   <ko>Mario style platform game w/ Tux</ko>
-   <lt>Mario style platform game w/ Tux</lt>
-   <mk>Mario style platform game w/ Tux</mk>
-   <mr>Mario style platform game w/ Tux</mr>
-   <nb>Mario style platform game w/ Tux</nb>
-   <nl>Mario stijl platform spel met Tux</nl>
-   <pl>Gra platformowa w/ Tux w stylu Mario</pl>
-   <pt_BR>Mario style platform game w/ Tux</pt_BR>
-   <pt>Mario style platform game w/ Tux</pt>
-   <ro>Mario style platform game w/ Tux</ro>
-   <ru>Игра-платформер в духе Mario</ru>
-   <sk>Mario style platform game w/ Tux</sk>
-   <sl>Platformska igra tipa Mario z Tux</sl>
-   <sq>Mario style platform game w/ Tux</sq>
-   <sr>Mario style platform game w/ Tux</sr>
-   <sv>Plattformsspel i Mariostil med Tux</sv>
-   <tr>Mario style platform game w/ Tux</tr>
-   <uk>Mario style platform game w/ Tux</uk>
-   <zh_CN>Mario style platform game w/ Tux</zh_CN>
-   <zh_TW>Mario style platform game w/ Tux</zh_TW>
+   <am>Mario kart style racing</am>
+   <ar>Mario kart style racing</ar>
+   <bg>Mario kart style racing</bg>
+   <ca>Curses del tipus Mario Kart</ca>
+   <cs>Mario kart style racing</cs>
+   <da>Racerspil i stil med Mario kart</da>
+   <de>Mario-Kart-Rennen</de>
+   <el>Mario kart style racing</el>
+   <en>Mario kart style racing</en>
+   <es>Juego de carreras estilo Mario kart</es>
+   <et>Mario kart style racing</et>
+   <eu>Mario kart style racing</eu>
+   <fa>Mario kart style racing</fa>
+   <fi>Mario Kartin tyylinen kilpa-ajopeli</fi>
+   <fr>Jeu de courses de type Mario-kart</fr>
+   <he_IL>Mario kart style racing</he_IL>
+   <hi>Mario kart style racing</hi>
+   <hr>Mario kart style racing</hr>
+   <hu>Mario kart style racing</hu>
+   <id>Mario kart style racing</id>
+   <is>Mario kart style racing</is>
+   <it>gioco di corse con i kart stile SuperMario</it>
+   <ja_JP>Mario kart style racing</ja_JP>
+   <ja>Mario kart style racing</ja>
+   <kk>Mario kart style racing</kk>
+   <ko>Mario kart style racing</ko>
+   <lt>Mario kart style racing</lt>
+   <mk>Mario kart style racing</mk>
+   <mr>Mario kart style racing</mr>
+   <nb>Mario kart style racing</nb>
+   <nl>Mario kart stijl racen</nl>
+   <pl>wyścigi w stylu Mario Kart</pl>
+   <pt_BR>Mario kart style racing</pt_BR>
+   <pt>Mario kart style racing</pt>
+   <ro>Mario kart style racing</ro>
+   <ru>Гонки на картах в стиле Mario</ru>
+   <sk>Mario kart style racing</sk>
+   <sl>Mario kartingu podobna  igra</sl>
+   <sq>Mario kart style racing</sq>
+   <sr>Mario kart style racing</sr>
+   <sv>Mario kart stil racing</sv>
+   <tr>Mario kart style racing</tr>
+   <uk>Mario kart style racing</uk>
+   <zh_CN>Mario kart style racing</zh_CN>
+   <zh_TW>Mario kart style racing</zh_TW>
 </description>
 
 <installable>

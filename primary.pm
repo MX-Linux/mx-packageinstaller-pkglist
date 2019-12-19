@@ -10,52 +10,51 @@ Primary
 </name>
 
 <description>
-   <am>Punjabi Language Meta-Package for LibreOffice</am>
-   <ar>Punjabi Language Meta-Package for LibreOffice</ar>
-   <bg>Punjabi Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Punjabi per LibreOffice</ca>
-   <cs>Punjabi Language Meta-Package for LibreOffice</cs>
-   <da>Punjabi Language Meta-Package for LibreOffice</da>
-   <de>Punjabi Meta-Paket für LibreOffice</de>
-   <el>Punjabi Language Meta-Package for LibreOffice</el>
-   <en>Punjabi Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de idioma Punjabi para LibreOffice</es>
-   <et>Punjabi Language Meta-Package for LibreOffice</et>
-   <eu>Punjabi Language Meta-Package for LibreOffice</eu>
-   <fa>Punjabi Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Punjabi Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Punjabi Language Meta-Package for LibreOffice</fi>
-   <fr>Punjabi Language Meta-Package for LibreOffice</fr>
-   <he_IL>Punjabi Language Meta-Package for LibreOffice</he_IL>
-   <hi>Punjabi Language Meta-Package for LibreOffice</hi>
-   <hr>Punjabi Language Meta-Package for LibreOffice</hr>
-   <hu>Punjabi Language Meta-Package for LibreOffice</hu>
-   <id>Punjabi Language Meta-Package for LibreOffice</id>
-   <is>Punjabi Language Meta-Package for LibreOffice</is>
-   <it>Punjabi Language Meta-Package for LibreOffice</it>
-   <ja_JP>Punjabi Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Punjabi Language Meta-Package for LibreOffice</ja>
-   <kk>Punjabi Language Meta-Package for LibreOffice</kk>
-   <ko>Punjabi Language Meta-Package for LibreOffice</ko>
-   <lt>Punjabi Language Meta-Package for LibreOffice</lt>
-   <mk>Punjabi Language Meta-Package for LibreOffice</mk>
-   <mr>Punjabi Language Meta-Package for LibreOffice</mr>
-   <nb>Punjabi Language Meta-Package for LibreOffice</nb>
-   <nl>Punjabi Language Meta-Package for LibreOffice</nl>
-   <pl>Punjabi Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Punjabi Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Panjabi Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Punjabi Language Meta-Package for LibreOffice</ro>
-   <ru>Punjabi Language Meta-Package for LibreOffice</ru>
-   <sk>Punjabi Language Meta-Package for LibreOffice</sk>
-   <sl>Pundžabski jezikovni meta-paket za LibreOffice</sl>
-   <sq>Punjabi Language Meta-Package for LibreOffice</sq>
-   <sr>Punjabi Language Meta-Package for LibreOffice</sr>
-   <sv>Punjabi Språk Meta-Paket för LibreOffice</sv>
-   <tr>Punjabi Language Meta-Package for LibreOffice</tr>
-   <uk>Punjabi Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Punjabi Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Punjabi Language Meta-Package for LibreOffice</zh_TW>
+   <am>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</am>
+   <ar>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ar>
+   <bg>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</bg>
+   <ca>Primària: inclou celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, i marble</ca>
+   <cs>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</cs>
+   <da>Grundskole. Inkluderer: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype og marble</da>
+   <de>Grundschule: Enthält Celestia-Gnome, Gcompris, Laby, Ri-Li, Stellarium, Tuxmath, Tuxpaint, Tuxtype und Marmor.</de>
+   <el>Πρωταρχικός. Περιλαμβάνει: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype και marble</el>
+   <en>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</en>
+   <es>Primario. Incluye: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, y marble</es>
+   <et>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</et>
+   <eu>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</eu>
+   <fa>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</fa>
+   <fi>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</fi>
+   <fr>Primaire. Inclus: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, et marble</fr>
+   <he_IL>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</he_IL>
+   <hi>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</hi>
+   <hr>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</hr>
+   <hu>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</hu>
+   <id>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</id>
+   <is>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</is>
+   <it>Medie. Include: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, e marble</it>
+   <ja_JP>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ja_JP>
+   <ja>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ja>
+   <kk>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</kk>
+   <ko>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ko>
+   <lt>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</lt>
+   <mk>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</mk>
+   <mr>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</mr>
+   <nb>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</nb>
+   <nl>Basis. Inclusief: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, en marble</nl>
+   <pl>Szkoła podstawowa. Zawiera: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype i marble</pl>
+   <pt_BR>Ensino fundamental (1º ao 6º ano). Inclui: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, e marble</pt_BR>
+   <pt>Ensino básico, 1º e 2º ciclos. Inclui: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, e marble</pt>
+   <ro>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ro>
+   <ru>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</ru>
+   <sk>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</sk>
+   <sl>Osnovna šola. Vsebuje: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype in marble</sl>
+   <sq>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</sq>
+   <sr>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</sr>
+   <sv>Primary. Inkluderar: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, och marble</sv>
+   <tr>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</tr>
+   <uk>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</uk>
+   <zh_CN>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</zh_CN>
+   <zh_TW>Primary. Includes: celestia-gnome, gcompris, laby, ri-li, stellarium, tuxmath, tuxpaint, tuxtype, and marble</zh_TW>
 </description>
 
 <installable>

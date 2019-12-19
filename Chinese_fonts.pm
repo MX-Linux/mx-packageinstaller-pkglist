@@ -10,52 +10,51 @@ Chinese_fonts
 </name>
 
 <description>
-   <am>Chinese fcitx</am>
-   <ar>Chinese fcitx</ar>
-   <bg>Chinese fcitx</bg>
-   <ca>FCTIX en Xinès</ca>
-   <cs>Chinese fcitx</cs>
-   <da>Kinesisk fcitx</da>
-   <de>Chinesisch Fcitx</de>
-   <el>Κινέζικα fcitx</el>
-   <en>Chinese fcitx</en>
-   <es>Cliente de correo liviano Claws Mail</es>
-   <et>Chinese fcitx</et>
-   <eu>Chinese fcitx</eu>
-   <fa>Chinese fcitx</fa>
-   <fil_PH>Chinese fcitx</fil_PH>
-   <fi>Chinese fcitx</fi>
-   <fr>Chinois fcitx</fr>
-   <he_IL>Chinese fcitx</he_IL>
-   <hi>Chinese fcitx</hi>
-   <hr>Chinese fcitx</hr>
-   <hu>Chinese fcitx</hu>
-   <id>Chinese fcitx</id>
-   <is>Chinese fcitx</is>
-   <it>Chinese fcitx</it>
-   <ja_JP>Chinese fcitx</ja_JP>
-   <ja>Chinese fcitx</ja>
-   <kk>Chinese fcitx</kk>
-   <ko>Chinese fcitx</ko>
-   <lt>Kinų fcitx</lt>
-   <mk>Chinese fcitx</mk>
-   <mr>Chinese fcitx</mr>
-   <nb>Chinese fcitx</nb>
-   <nl>Chinese fcitx</nl>
-   <pl>Chiński fcitx</pl>
-   <pt_BR>Chinês fcitx</pt_BR>
-   <pt>Chinês fcitx</pt>
-   <ro>Chinese fcitx</ro>
-   <ru>Chinese fcitx</ru>
-   <sk>Chinese fcitx</sk>
-   <sl>Chinese fcitx</sl>
-   <sq>Chinese fcitx</sq>
-   <sr>Chinese fcitx</sr>
-   <sv>Kinesisk fcitx</sv>
-   <tr>Chinese fcitx</tr>
-   <uk>Chinese fcitx</uk>
-   <zh_CN>Chinese fcitx</zh_CN>
-   <zh_TW>Chinese fcitx</zh_TW>
+   <am>Chinese fonts packages</am>
+   <ar>Chinese fonts packages</ar>
+   <bg>Chinese fonts packages</bg>
+   <ca>Paquets de tipus de lletra en Xinès</ca>
+   <cs>Chinese fonts packages</cs>
+   <da>Kinesisk skrifttyper-pakke</da>
+   <de>Chinesische Schriftenpakete</de>
+   <el>Πακέτα κινεζικών γραμματοσειρών</el>
+   <en>Chinese fonts packages</en>
+   <es>Paquetes de fuentes chinas</es>
+   <et>Chinese fonts packages</et>
+   <eu>Chinese fonts packages</eu>
+   <fa>Chinese fonts packages</fa>
+   <fi>Chinese fonts packages</fi>
+   <fr>Paquets pour polices chinoises</fr>
+   <he_IL>Chinese fonts packages</he_IL>
+   <hi>Chinese fonts packages</hi>
+   <hr>Chinese fonts packages</hr>
+   <hu>Chinese fonts packages</hu>
+   <id>Chinese fonts packages</id>
+   <is>Chinese fonts packages</is>
+   <it>Pacchetti di fonts per il Cinese</it>
+   <ja_JP>Chinese fonts packages</ja_JP>
+   <ja>Chinese fonts packages</ja>
+   <kk>Chinese fonts packages</kk>
+   <ko>Chinese fonts packages</ko>
+   <lt>Kinų šriftų paketai</lt>
+   <mk>Chinese fonts packages</mk>
+   <mr>Chinese fonts packages</mr>
+   <nb>Chinese fonts packages</nb>
+   <nl>Chinese font pakketten</nl>
+   <pl>pakiety z chińskimi fontami (czcionkami)</pl>
+   <pt_BR>Chinês Pacotes de fontes</pt_BR>
+   <pt>Chinês Pacotes de fontes</pt>
+   <ro>Chinese fonts packages</ro>
+   <ru>Пакеты китайских шрифтов</ru>
+   <sk>Chinese fonts packages</sk>
+   <sl>Chinese fonts packages</sl>
+   <sq>Chinese fonts packages</sq>
+   <sr>Chinese fonts packages</sr>
+   <sv>Kinesiska typsnitts-paket</sv>
+   <tr>Chinese fonts packages</tr>
+   <uk>Пакунок з Китайськими шрифтами</uk>
+   <zh_CN>Chinese fonts packages</zh_CN>
+   <zh_TW>Chinese fonts packages</zh_TW>
 </description>
 
 <installable>

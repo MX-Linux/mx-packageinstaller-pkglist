@@ -10,52 +10,51 @@ deb packaging tools
 </name>
 
 <description>
-   <am>All-in-one voice and text chat for gamers</am>
-   <ar>All-in-one voice and text chat for gamers</ar>
-   <bg>All-in-one voice and text chat for gamers</bg>
-   <ca>Xat integral (tot en un) per a veu i text per jugadors</ca>
-   <cs>All-in-one voice and text chat for gamers</cs>
-   <da>Alt-i-ét stemme- og tekstchat til spillere</da>
-   <de>Komplettes Chatprogramm (Text + Ton) für Gamer</de>
-   <el>φωνή και συνομιλία κειμένου για παίκτες</el>
-   <en>All-in-one voice and text chat for gamers</en>
-   <es>Chat de voz y texto todo-en-uno para jugadores</es>
-   <et>All-in-one voice and text chat for gamers</et>
-   <eu>All-in-one voice and text chat for gamers</eu>
-   <fa>All-in-one voice and text chat for gamers</fa>
-   <fil_PH>All-in-one voice and text chat for gamers</fil_PH>
-   <fi>All-in-one voice and text chat for gamers</fi>
-   <fr>Chat texte et voix tout-en-un pour les joueurs</fr>
-   <he_IL>All-in-one voice and text chat for gamers</he_IL>
-   <hi>All-in-one voice and text chat for gamers</hi>
-   <hr>All-in-one voice and text chat for gamers</hr>
-   <hu>All-in-one voice and text chat for gamers</hu>
-   <id>All-in-one voice and text chat for gamers</id>
-   <is>All-in-one voice and text chat for gamers</is>
-   <it>Chat per giocatori tutto in uno, voce e testo.</it>
-   <ja_JP>All-in-one voice and text chat for gamers</ja_JP>
-   <ja>All-in-one voice and text chat for gamers</ja>
-   <kk>All-in-one voice and text chat for gamers</kk>
-   <ko>All-in-one voice and text chat for gamers</ko>
-   <lt>All-in-one voice and text chat for gamers</lt>
-   <mk>All-in-one voice and text chat for gamers</mk>
-   <mr>All-in-one voice and text chat for gamers</mr>
-   <nb>All-in-one voice and text chat for gamers</nb>
-   <nl>Alles-in-een stem en tekst chat voor gamers</nl>
-   <pl>kompleksowy czat głosowy i tekstowy dla graczy</pl>
-   <pt_BR>Chat de voz e texto tudo-em-um para gamers</pt_BR>
-   <pt>Aplicação de mensagens (chat), de voz e de texto, para jogadores</pt>
-   <ro>All-in-one voice and text chat for gamers</ro>
-   <ru>Все-в-одном голосовой и текстовый чат для геймеров</ru>
-   <sk>All-in-one voice and text chat for gamers</sk>
-   <sl>Vse v enem rešitev za glasovno in tekstno sporazumevanje igričarjev</sl>
-   <sq>All-in-one voice and text chat for gamers</sq>
-   <sr>All-in-one voice and text chat for gamers</sr>
-   <sv>Allt-i-ett röst och textchatt för gamers</sv>
-   <tr>All-in-one voice and text chat for gamers</tr>
-   <uk>Повноцінний голосовий та текстовий чат для гравців</uk>
-   <zh_CN>All-in-one voice and text chat for gamers</zh_CN>
-   <zh_TW>All-in-one voice and text chat for gamers</zh_TW>
+   <am>tools for creation of deb packages</am>
+   <ar>tools for creation of deb packages</ar>
+   <bg>tools for creation of deb packages</bg>
+   <ca>eines per a la creació de paquets deb</ca>
+   <cs>tools for creation of deb packages</cs>
+   <da>værktøjer til at oprette deb-pakker</da>
+   <de>Werkzeuge zur Erstellung von Deb-Paketen</de>
+   <el>εργαλεία για τη δημιουργία πακέτων deb</el>
+   <en>tools for creation of deb packages</en>
+   <es>Herramientas para la creación de paquetes deb</es>
+   <et>tools for creation of deb packages</et>
+   <eu>tools for creation of deb packages</eu>
+   <fa>tools for creation of deb packages</fa>
+   <fi>*deb pakettien luontityökalu</fi>
+   <fr>Outils pour la création de paquets .deb</fr>
+   <he_IL>tools for creation of deb packages</he_IL>
+   <hi>tools for creation of deb packages</hi>
+   <hr>tools for creation of deb packages</hr>
+   <hu>tools for creation of deb packages</hu>
+   <id>tools for creation of deb packages</id>
+   <is>tools for creation of deb packages</is>
+   <it>Strumenti per la creazione di pacchetti deb</it>
+   <ja_JP>tools for creation of deb packages</ja_JP>
+   <ja>tools for creation of deb packages</ja>
+   <kk>tools for creation of deb packages</kk>
+   <ko>tools for creation of deb packages</ko>
+   <lt>įrankiai, skirti deb paketų kūrimui</lt>
+   <mk>tools for creation of deb packages</mk>
+   <mr>tools for creation of deb packages</mr>
+   <nb>tools for creation of deb packages</nb>
+   <nl>gereedschappen voor het maken van deb pakketten</nl>
+   <pl>narzędzia do tworzenia pakietów deb</pl>
+   <pt_BR>Ferramentas para criação de Pacotes deb</pt_BR>
+   <pt>Ferramentas para criar pacotes deb</pt>
+   <ro>tools for creation of deb packages</ro>
+   <ru>Инструменты для создания deb пакетов</ru>
+   <sk>tools for creation of deb packages</sk>
+   <sl>orodja za izdelavo deb paketov</sl>
+   <sq>tools for creation of deb packages</sq>
+   <sr>tools for creation of deb packages</sr>
+   <sv>verktyg för att skapa deb paket</sv>
+   <tr>tools for creation of deb packages</tr>
+   <uk>утиліти для створення  deb пакунків</uk>
+   <zh_CN>tools for creation of deb packages</zh_CN>
+   <zh_TW>tools for creation of deb packages</zh_TW>
 </description>
 
 <installable>

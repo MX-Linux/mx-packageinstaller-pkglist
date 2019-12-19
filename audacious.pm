@@ -10,52 +10,51 @@ Audacious
 </name>
 
 <description>
-   <am>a multi-track audio editor</am>
-   <ar>a multi-track audio editor</ar>
-   <bg>a multi-track audio editor</bg>
-   <ca>Editor d'àudio multipista</ca>
-   <cs>a multi-track audio editor</cs>
-   <da>en multispor lydredigering</da>
-   <de>Ein Mehrspur-Audio-Editor</de>
-   <el>ένα πρόγραμμα επεξεργασίας ήχου πολλαπλών κομματιών</el>
-   <en>a multi-track audio editor</en>
-   <es>Editor de audio multi-pistas</es>
-   <et>a multi-track audio editor</et>
-   <eu>a multi-track audio editor</eu>
-   <fa>a multi-track audio editor</fa>
-   <fil_PH>a multi-track audio editor</fil_PH>
-   <fi>a multi-track audio editor</fi>
-   <fr>Un éditeur audio multi-pistes</fr>
-   <he_IL>a multi-track audio editor</he_IL>
-   <hi>a multi-track audio editor</hi>
-   <hr>a multi-track audio editor</hr>
-   <hu>a multi-track audio editor</hu>
-   <id>a multi-track audio editor</id>
-   <is>a multi-track audio editor</is>
-   <it>Audio editor multi-traccia</it>
-   <ja_JP>a multi-track audio editor</ja_JP>
-   <ja>a multi-track audio editor</ja>
-   <kk>a multi-track audio editor</kk>
-   <ko>a multi-track audio editor</ko>
-   <lt>a multi-track audio editor</lt>
-   <mk>a multi-track audio editor</mk>
-   <mr>a multi-track audio editor</mr>
-   <nb>a multi-track audio editor</nb>
-   <nl>een multi-track audio editor</nl>
-   <pl>wielościeżkowy edytor audio</pl>
-   <pt_BR>Editor de áudio multi-faixa</pt_BR>
-   <pt>Editor de áudio multi-faixa</pt>
-   <ro>a multi-track audio editor</ro>
-   <ru>Многодорожечный аудио редактор</ru>
-   <sk>viackanálový audio editor</sk>
-   <sl>večstezni urejevalnik zvoka</sl>
-   <sq>a multi-track audio editor</sq>
-   <sr>a multi-track audio editor</sr>
-   <sv>en flerspårs ljudredigerare</sv>
-   <tr>a multi-track audio editor</tr>
-   <uk>мульти-трековий редактор аудіо</uk>
-   <zh_CN>a multi-track audio editor</zh_CN>
-   <zh_TW>a multi-track audio editor</zh_TW>
+   <am>lightweight winamp/xmms like audio player</am>
+   <ar>lightweight winamp/xmms like audio player</ar>
+   <bg>lightweight winamp/xmms like audio player</bg>
+   <ca>Reproductor lleuger d'àudio estil winamp/xmms</ca>
+   <cs>lightweight winamp/xmms like audio player</cs>
+   <da>letvægts winamp/xmms ligesom lydafspiller</da>
+   <de>Leichtgewichtiger Audioplayer ähnlich zu Winamp/Xmms</de>
+   <el>ελαφρύ αναπαραγωγής ήχου όπως winamp/xmms</el>
+   <en>lightweight winamp/xmms like audio player</en>
+   <es>Reproductor de audio liviano, estilo winamp/xmms</es>
+   <et>lightweight winamp/xmms like audio player</et>
+   <eu>lightweight winamp/xmms like audio player</eu>
+   <fa>lightweight winamp/xmms like audio player</fa>
+   <fi>lightweight winamp/xmms like audio player</fi>
+   <fr>Lecteur audio léger de type winamp/xmms</fr>
+   <he_IL>lightweight winamp/xmms like audio player</he_IL>
+   <hi>lightweight winamp/xmms like audio player</hi>
+   <hr>lightweight winamp/xmms like audio player</hr>
+   <hu>lightweight winamp/xmms like audio player</hu>
+   <id>lightweight winamp/xmms like audio player</id>
+   <is>lightweight winamp/xmms like audio player</is>
+   <it>Riproduttore di tracce audio, leggero come winamp/xmms</it>
+   <ja_JP>lightweight winamp/xmms like audio player</ja_JP>
+   <ja>lightweight winamp/xmms like audio player</ja>
+   <kk>lightweight winamp/xmms like audio player</kk>
+   <ko>lightweight winamp/xmms like audio player</ko>
+   <lt>lightweight winamp/xmms like audio player</lt>
+   <mk>lightweight winamp/xmms like audio player</mk>
+   <mr>lightweight winamp/xmms like audio player</mr>
+   <nb>lightweight winamp/xmms like audio player</nb>
+   <nl>lichtgewicht audio speler als winamp/xmms</nl>
+   <pl>lekki odtwarzacz audio podobny do winamp/xmms</pl>
+   <pt_BR>Reprodutor de áudio simples semelhante aos reprodutores winamp e xmms</pt_BR>
+   <pt>Reprodutor de áudio simples semelhante aos reprodutores winamp e xmms</pt>
+   <ro>lightweight winamp/xmms like audio player</ro>
+   <ru>Легковесный аудиоплеер в духе winamp/xmms</ru>
+   <sk>ľahký prehrávač hudby ako winamp/xmms</sk>
+   <sl>lahek predvajalnik, ki je podoben predvalniku winamp/xmms</sl>
+   <sq>lightweight winamp/xmms like audio player</sq>
+   <sr>lightweight winamp/xmms like audio player</sr>
+   <sv>lättvikts winamp/xmms-liknande ljudspelare</sv>
+   <tr>lightweight winamp/xmms like audio player</tr>
+   <uk>легкий аудіо програвач схожий на winamp/xmms</uk>
+   <zh_CN>lightweight winamp/xmms like audio player</zh_CN>
+   <zh_TW>lightweight winamp/xmms like audio player</zh_TW>
 </description>
 
 <installable>

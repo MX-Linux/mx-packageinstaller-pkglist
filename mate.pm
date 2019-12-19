@@ -10,52 +10,51 @@ MATE
 </name>
 
 <description>
-   <am>Client for MEGA file syncing service</am>
-   <ar>Client for MEGA file syncing service</ar>
-   <bg>Client for MEGA file syncing service</bg>
-   <ca>Client per al servei de sincronització de MEGA</ca>
-   <cs>Client for MEGA file syncing service</cs>
-   <da>Klient til MEGA-filsynkroniseringstjeneste</da>
-   <de>Client für MEGA-Dateisynchronisationsdienst</de>
-   <el>Πελάτης για υπηρεσία συγχρονισμού αρχείων MEGA</el>
-   <en>Client for MEGA file syncing service</en>
-   <es>Cliente para el servicio de sincronización de archivos de MEGA</es>
-   <et>Client for MEGA file syncing service</et>
-   <eu>Client for MEGA file syncing service</eu>
-   <fa>Client for MEGA file syncing service</fa>
-   <fil_PH>Client for MEGA file syncing service</fil_PH>
-   <fi>Client for MEGA file syncing service</fi>
-   <fr>Client pour le service de synchronisation de dossiers MEGA</fr>
-   <he_IL>Client for MEGA file syncing service</he_IL>
-   <hi>Client for MEGA file syncing service</hi>
-   <hr>Client for MEGA file syncing service</hr>
-   <hu>Client for MEGA file syncing service</hu>
-   <id>Client for MEGA file syncing service</id>
-   <is>Client for MEGA file syncing service</is>
-   <it>Client per il servizio di sincronizzazione file di MEGA</it>
-   <ja_JP>Client for MEGA file syncing service</ja_JP>
-   <ja>Client for MEGA file syncing service</ja>
-   <kk>Client for MEGA file syncing service</kk>
-   <ko>Client for MEGA file syncing service</ko>
-   <lt>Client for MEGA file syncing service</lt>
-   <mk>Client for MEGA file syncing service</mk>
-   <mr>Client for MEGA file syncing service</mr>
-   <nb>Client for MEGA file syncing service</nb>
-   <nl>Programma voor MEGA bestandssynchronisatieservice</nl>
-   <pl>klient dla usługi synchronizacji plików MEGA</pl>
-   <pt_BR>Aplicativo cliente para o serviço de sincronização de arquivos da MEGA</pt_BR>
-   <pt>Aplicação cliente para o serviço de sincronização de ficheiros da MEGA</pt>
-   <ro>Client for MEGA file syncing service</ro>
-   <ru>Клиент синхронизации файлов для MEGA</ru>
-   <sk>Client for MEGA file syncing service</sk>
-   <sl>Odjemalec za sinhronizacijo datotek iz MEGA oblaka</sl>
-   <sq>Client for MEGA file syncing service</sq>
-   <sr>Client for MEGA file syncing service</sr>
-   <sv>Klient för MEGA filsynkroniserings-service</sv>
-   <tr>Client for MEGA file syncing service</tr>
-   <uk>клієнт для сервісу синхронізації файлів MEGA</uk>
-   <zh_CN>Client for MEGA file syncing service</zh_CN>
-   <zh_TW>Client for MEGA file syncing service</zh_TW>
+   <am>basic install of MATE desktop</am>
+   <ar>basic install of MATE desktop</ar>
+   <bg>basic install of MATE desktop</bg>
+   <ca>Instal·lació bàsica de l'escriptori MATE</ca>
+   <cs>basic install of MATE desktop</cs>
+   <da>grundlæggende installation af MATE-skrivebordet</da>
+   <de>Basisinstallation von MATE Desktop</de>
+   <el>βασική εγκατάσταση της επιφάνειας εργασίας MATE</el>
+   <en>basic install of MATE desktop</en>
+   <es>Instalación mínima del escritorio MATE</es>
+   <et>basic install of MATE desktop</et>
+   <eu>basic install of MATE desktop</eu>
+   <fa>basic install of MATE desktop</fa>
+   <fi>basic install of MATE desktop</fi>
+   <fr>Installation de base du bureau MATE</fr>
+   <he_IL>basic install of MATE desktop</he_IL>
+   <hi>basic install of MATE desktop</hi>
+   <hr>basic install of MATE desktop</hr>
+   <hu>basic install of MATE desktop</hu>
+   <id>basic install of MATE desktop</id>
+   <is>basic install of MATE desktop</is>
+   <it>installazione base del desktop MATE</it>
+   <ja_JP>basic install of MATE desktop</ja_JP>
+   <ja>basic install of MATE desktop</ja>
+   <kk>basic install of MATE desktop</kk>
+   <ko>basic install of MATE desktop</ko>
+   <lt>basic install of MATE desktop</lt>
+   <mk>basic install of MATE desktop</mk>
+   <mr>basic install of MATE desktop</mr>
+   <nb>basic install of MATE desktop</nb>
+   <nl>basisinstallatie van de MATE desktop</nl>
+   <pl>podstawowa instalacja środowiska MATE</pl>
+   <pt_BR>Instalação básica do Ambiente de Trabalho MATE</pt_BR>
+   <pt>Instalação básica do Ambiente de Trabalho MATE</pt>
+   <ro>basic install of MATE desktop</ro>
+   <ru>Базовая установка окружения MATE</ru>
+   <sk>basic install of MATE desktop</sk>
+   <sl>Osnovna namestitev MATE namizja</sl>
+   <sq>basic install of MATE desktop</sq>
+   <sr>basic install of MATE desktop</sr>
+   <sv>enkel installation av MATE skrivbord</sv>
+   <tr>basic install of MATE desktop</tr>
+   <uk>базовий набір стільниці MATE</uk>
+   <zh_CN>basic install of MATE desktop</zh_CN>
+   <zh_TW>basic install of MATE desktop</zh_TW>
 </description>
 
 <installable>

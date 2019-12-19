@@ -23,7 +23,6 @@ Abiword
    <et>lightweight word processor</et>
    <eu>lightweight word processor</eu>
    <fa>lightweight word processor</fa>
-   <fil_PH>lightweight word processor</fil_PH>
    <fi>kevyt tekstinkäsittelyohjelma</fi>
    <fr>Traitement de texte léger</fr>
    <he_IL>lightweight word processor</he_IL>
@@ -52,7 +51,7 @@ Abiword
    <sq>lightweight word processor</sq>
    <sr>lightweight word processor</sr>
    <sv>lättvikts ordbehandlare</sv>
-   <tr>hafif kelime işlemci</tr>
+   <tr>lightweight word processor</tr>
    <uk>легкий текстовий процесор</uk>
    <zh_CN>lightweight word processor</zh_CN>
    <zh_TW>lightweight word processor</zh_TW>

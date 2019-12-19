@@ -10,52 +10,51 @@ Japanses_Libreoffice
 </name>
 
 <description>
-   <am>Japanese localisation of Thunderbird</am>
-   <ar>Japanese localisation of Thunderbird</ar>
-   <bg>Japanese localisation of Thunderbird</bg>
-   <ca>Localització en japonès de Thunderbird</ca>
-   <cs>Japanese localisation of Thunderbird</cs>
-   <da>Japansk oversættelse af Thunderbird</da>
-   <de>Japanische Lokalisierung von Thunderbird</de>
-   <el>Ιαπωνικός εντοπισμός του Thunderbird</el>
-   <en>Japanese localisation of Thunderbird</en>
-   <es>Localización Japonesa de Thunderbird</es>
-   <et>Japanese localisation of Thunderbird</et>
-   <eu>Japanese localisation of Thunderbird</eu>
-   <fa>Japanese localisation of Thunderbird</fa>
-   <fil_PH>Japanese localisation of Thunderbird</fil_PH>
-   <fi>Japanese localisation of Thunderbird</fi>
-   <fr>Localisation japonaise pour Thunderbird</fr>
-   <he_IL>Japanese localisation of Thunderbird</he_IL>
-   <hi>Japanese localisation of Thunderbird</hi>
-   <hr>Japanese localisation of Thunderbird</hr>
-   <hu>Japanese localisation of Thunderbird</hu>
-   <id>Japanese localisation of Thunderbird</id>
-   <is>Japanese localisation of Thunderbird</is>
-   <it>Localizzazione giapponese di Thunderbird</it>
-   <ja_JP>Japanese localisation of Thunderbird</ja_JP>
-   <ja>Japanese localisation of Thunderbird</ja>
-   <kk>Japanese localisation of Thunderbird</kk>
-   <ko>Japanese localisation of Thunderbird</ko>
-   <lt>Japanese localisation of Thunderbird</lt>
-   <mk>Japanese localisation of Thunderbird</mk>
-   <mr>Japanese localisation of Thunderbird</mr>
-   <nb>Japanese localisation of Thunderbird</nb>
-   <nl>Japanse lokalisatie van Thunderbird</nl>
-   <pl>Japońska lokalizacja Thunderbirda</pl>
-   <pt_BR>Japonês Localização para Thunderbird</pt_BR>
-   <pt>Japonês Localização para Thunderbird</pt>
-   <ro>Japanese localisation of Thunderbird</ro>
-   <ru>Japanese localisation of Thunderbird</ru>
-   <sk>Japanese localisation of Thunderbird</sk>
-   <sl>Japanese localisation of Thunderbird</sl>
-   <sq>Japanese localisation of Thunderbird</sq>
-   <sr>Japanese localisation of Thunderbird</sr>
-   <sv>Japansk lokalisering av Thunderbird</sv>
-   <tr>Thunderbird'ün Japonca yerelleştirmesi</tr>
-   <uk>Japanese локалізація Thunderbird</uk>
-   <zh_CN>Japanese localisation of Thunderbird</zh_CN>
-   <zh_TW>Japanese localisation of Thunderbird</zh_TW>
+   <am>Japanese localisation of LibreOffice</am>
+   <ar>Japanese localisation of LibreOffice</ar>
+   <bg>Japanese localisation of LibreOffice</bg>
+   <ca>Localització en japonès de LibreOffice</ca>
+   <cs>Japanese localisation of LibreOffice</cs>
+   <da>Japansk oversættelse af LibreOffice</da>
+   <de>Japanische Lokalisierung von LibreOffice</de>
+   <el>LibreOffice στα Ιαπωνικά</el>
+   <en>Japanese localisation of LibreOffice</en>
+   <es>Localización Japonesa de LibreOffice</es>
+   <et>Japanese localisation of LibreOffice</et>
+   <eu>Japanese localisation of LibreOffice</eu>
+   <fa>Japanese localisation of LibreOffice</fa>
+   <fi>Japanese localisation of LibreOffice</fi>
+   <fr>Localisation japonaise pour LibreOffice</fr>
+   <he_IL>Japanese localisation of LibreOffice</he_IL>
+   <hi>Japanese localisation of LibreOffice</hi>
+   <hr>Japanese localisation of LibreOffice</hr>
+   <hu>Japanese localisation of LibreOffice</hu>
+   <id>Japanese localisation of LibreOffice</id>
+   <is>Japanese localisation of LibreOffice</is>
+   <it>Localizzazione giapponese di LibreOffice</it>
+   <ja_JP>Japanese localisation of LibreOffice</ja_JP>
+   <ja>Japanese localisation of LibreOffice</ja>
+   <kk>Japanese localisation of LibreOffice</kk>
+   <ko>Japanese localisation of LibreOffice</ko>
+   <lt>Japanese localisation of LibreOffice</lt>
+   <mk>Japanese localisation of LibreOffice</mk>
+   <mr>Japanese localisation of LibreOffice</mr>
+   <nb>Japanese localisation of LibreOffice</nb>
+   <nl>Japanse lokalisatie van LibreOffice</nl>
+   <pl>Japońska lokalizacja LibreOffice</pl>
+   <pt_BR>Japonês Localização para LibreOffice</pt_BR>
+   <pt>Japonês Localização para LibreOffice</pt>
+   <ro>Japanese localisation of LibreOffice</ro>
+   <ru>Japanese localisation of LibreOffice</ru>
+   <sk>Japanese localisation of LibreOffice</sk>
+   <sl>Japanese localisation of LibreOffice</sl>
+   <sq>Japanese localisation of LibreOffice</sq>
+   <sr>Japanese localisation of LibreOffice</sr>
+   <sv>Japansk lokalisering av LibreOffice</sv>
+   <tr>Japanese localisation of LibreOffice</tr>
+   <uk>Japanese локалізація LibreOffice</uk>
+   <zh_CN>Japanese localisation of LibreOffice</zh_CN>
+   <zh_TW>Japanese localisation of LibreOffice</zh_TW>
 </description>
 
 <installable>

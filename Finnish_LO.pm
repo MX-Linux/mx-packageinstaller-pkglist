@@ -10,52 +10,51 @@ Finnish_Libreoffice
 </name>
 
 <description>
-   <am>Finnish localisation of Thunderbird</am>
-   <ar>Finnish localisation of Thunderbird</ar>
-   <bg>Finnish localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Finès</ca>
-   <cs>Finnish localisation of Thunderbird</cs>
-   <da>Finsk oversættelse af Thunderbird</da>
-   <de>Finnische Lokalisierung von Thunderbird</de>
-   <el>Φινλανδικός εντοπισμός του Thunderbird</el>
-   <en>Finnish localisation of Thunderbird</en>
-   <es>Localización Finlandesa de Thunderbird</es>
-   <et>Finnish localisation of Thunderbird</et>
-   <eu>Finnish localisation of Thunderbird</eu>
-   <fa>Finnish localisation of Thunderbird</fa>
-   <fil_PH>Finnish localisation of Thunderbird</fil_PH>
-   <fi>Thunderbirdin suomenkielinen käyttöliittymä</fi>
-   <fr>Localisation finlandaise pour Thunderbird</fr>
-   <he_IL>Finnish localisation of Thunderbird</he_IL>
-   <hi>Finnish localisation of Thunderbird</hi>
-   <hr>Finnish localisation of Thunderbird</hr>
-   <hu>Finnish localisation of Thunderbird</hu>
-   <id>Finnish localisation of Thunderbird</id>
-   <is>Finnish localisation of Thunderbird</is>
-   <it>Localizzazione finlandese di Thunderbird</it>
-   <ja_JP>Finnish localisation of Thunderbird</ja_JP>
-   <ja>Finnish localisation of Thunderbird</ja>
-   <kk>Finnish localisation of Thunderbird</kk>
-   <ko>Finnish localisation of Thunderbird</ko>
-   <lt>Finnish localisation of Thunderbird</lt>
-   <mk>Finnish localisation of Thunderbird</mk>
-   <mr>Finnish localisation of Thunderbird</mr>
-   <nb>Finnish localisation of Thunderbird</nb>
-   <nl>Finse lokalisatie van Thunderbird</nl>
-   <pl>Fińska lokalizacja Thunderbirda</pl>
-   <pt_BR>Finlandês Localização para Thunderbird</pt_BR>
-   <pt>Finlandês Localização para Thunderbird</pt>
-   <ro>Finnish localisation of Thunderbird</ro>
-   <ru>Finnish localisation of Thunderbird</ru>
-   <sk>Finnish localisation of Thunderbird</sk>
-   <sl>Finnish localisation of Thunderbird</sl>
-   <sq>Finnish localisation of Thunderbird</sq>
-   <sr>Finnish localisation of Thunderbird</sr>
-   <sv>Finsk lokalisering av Thunderbird</sv>
-   <tr>Finnish localisation of Thunderbird</tr>
-   <uk>Finnish локалізація Thunderbird</uk>
-   <zh_CN>Finnish localisation of Thunderbird</zh_CN>
-   <zh_TW>Finnish localisation of Thunderbird</zh_TW>
+   <am>Finnish Language Meta-Package for LibreOffice</am>
+   <ar>Finnish Language Meta-Package for LibreOffice</ar>
+   <bg>Finnish Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Finnish per LibreOffice</ca>
+   <cs>Finnish Language Meta-Package for LibreOffice</cs>
+   <da>Finnish sprog-metapakke til LibreOffice</da>
+   <de>Finnish Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Finnish</el>
+   <en>Finnish Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Finnish para LibreOffice</es>
+   <et>Finnish Language Meta-Package for LibreOffice</et>
+   <eu>Finnish Language Meta-Package for LibreOffice</eu>
+   <fa>Finnish Language Meta-Package for LibreOffice</fa>
+   <fi>Finnish Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Finnish pour LibreOffice</fr>
+   <he_IL>Finnish Language Meta-Package for LibreOffice</he_IL>
+   <hi>Finnish Language Meta-Package for LibreOffice</hi>
+   <hr>Finnish Language Meta-Package for LibreOffice</hr>
+   <hu>Finnish Language Meta-Package for LibreOffice</hu>
+   <id>Finnish Language Meta-Package for LibreOffice</id>
+   <is>Finnish Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Finnish per LibreOffice</it>
+   <ja_JP>Finnish Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Finnish Language Meta-Package for LibreOffice</ja>
+   <kk>Finnish Language Meta-Package for LibreOffice</kk>
+   <ko>Finnish Language Meta-Package for LibreOffice</ko>
+   <lt>Finnish Language Meta-Package for LibreOffice</lt>
+   <mk>Finnish Language Meta-Package for LibreOffice</mk>
+   <mr>Finnish Language Meta-Package for LibreOffice</mr>
+   <nb>Finnish Language Meta-Package for LibreOffice</nb>
+   <nl>Finnish Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Finnish metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Finnish Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Finnish Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Finnish Language Meta-Package for LibreOffice</ro>
+   <ru>Finnish Language Meta-Package for LibreOffice</ru>
+   <sk>Finnish Language Meta-Package for LibreOffice</sk>
+   <sl>Finnish Language Meta-Package for LibreOffice</sl>
+   <sq>Finnish Language Meta-Package for LibreOffice</sq>
+   <sr>Finnish Language Meta-Package for LibreOffice</sr>
+   <sv>Finnish Språk Meta-Paket för LibreOffice</sv>
+   <tr>Finnish Language Meta-Package for LibreOffice</tr>
+   <uk>Finnish Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Finnish Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Finnish Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

@@ -10,52 +10,51 @@ Filezilla
 </name>
 
 <description>
-   <am>a text-console-based, modular instant messaging client</am>
-   <ar>a text-console-based, modular instant messaging client</ar>
-   <bg>a text-console-based, modular instant messaging client</bg>
-   <ca>un client de missatgeria instantània basat en terminal</ca>
-   <cs>a text-console-based, modular instant messaging client</cs>
-   <da>En tekstkonsol-baseret, modulær strakssamtale-klient</da>
-   <de>Ein modularer Instant Messaging-Client in der Textconsole</de>
-   <el>πελάτη άμεσων μηνυμάτων σε κονσόλα κειμένου</el>
-   <en>a text-console-based, modular instant messaging client</en>
-   <es>Cliente de mensajería instantánea modular para línea de comandos</es>
-   <et>a text-console-based, modular instant messaging client</et>
-   <eu>a text-console-based, modular instant messaging client</eu>
-   <fa>a text-console-based, modular instant messaging client</fa>
-   <fil_PH>a text-console-based, modular instant messaging client</fil_PH>
-   <fi>a text-console-based, modular instant messaging client</fi>
-   <fr>Un client console-texte modulaire de messagerie instantanée</fr>
-   <he_IL>a text-console-based, modular instant messaging client</he_IL>
-   <hi>a text-console-based, modular instant messaging client</hi>
-   <hr>a text-console-based, modular instant messaging client</hr>
-   <hu>a text-console-based, modular instant messaging client</hu>
-   <id>a text-console-based, modular instant messaging client</id>
-   <is>a text-console-based, modular instant messaging client</is>
-   <it>Client di messaggistica istantanea modulare con interfaccia basata sul terminale</it>
-   <ja_JP>a text-console-based, modular instant messaging client</ja_JP>
-   <ja>a text-console-based, modular instant messaging client</ja>
-   <kk>a text-console-based, modular instant messaging client</kk>
-   <ko>a text-console-based, modular instant messaging client</ko>
-   <lt>a text-console-based, modular instant messaging client</lt>
-   <mk>a text-console-based, modular instant messaging client</mk>
-   <mr>a text-console-based, modular instant messaging client</mr>
-   <nb>a text-console-based, modular instant messaging client</nb>
-   <nl>een modulaire client voor instant messaging op basis van tekstconsoles</nl>
-   <pl>oparty na konsoli tekstowej, modułowy klient wiadomości błyskawicznych (komunikator)</pl>
-   <pt_BR>Cliente de mensagens instantâneas modular, por consola/terminal</pt_BR>
-   <pt>Cliente de mensagens instantâneas modular, por consola/terminal</pt>
-   <ro>a text-console-based, modular instant messaging client</ro>
-   <ru>Консольный модульный клиент мгновенных сообщений</ru>
-   <sk>a text-console-based, modular instant messaging client</sk>
-   <sl>Na tekstovni konzoli temelječ, modularni odjemalec za instantno sporočanje</sl>
-   <sq>a text-console-based, modular instant messaging client</sq>
-   <sr>a text-console-based, modular instant messaging client</sr>
-   <sv>en textkonsol-baserad modulär snabbmeddelande-klient</sv>
-   <tr>a text-console-based, modular instant messaging client</tr>
-   <uk>консольний модульний клієнт миттєвих повідомлень</uk>
-   <zh_CN>a text-console-based, modular instant messaging client</zh_CN>
-   <zh_TW>a text-console-based, modular instant messaging client</zh_TW>
+   <am>a full-featured FTP client with an easy-to-use GUI</am>
+   <ar>a full-featured FTP client with an easy-to-use GUI</ar>
+   <bg>a full-featured FTP client with an easy-to-use GUI</bg>
+   <ca>un client de FTP complet amb IGU fàcil d'usar</ca>
+   <cs>a full-featured FTP client with an easy-to-use GUI</cs>
+   <da>en FTP-klient med det hele med en brugerflade som er let at bruge</da>
+   <de>Ein voll ausgestatter FTP-Client mit benutzerfreundliche Oberfläche</de>
+   <el>ένα πλήρως εξοπλισμένο πρόγραμμα-πελάτη FTP με ένα εύχρηστο GUI</el>
+   <en>a full-featured FTP client with an easy-to-use GUI</en>
+   <es>Un cliente FTP con una interfaz completa y fácil de usar</es>
+   <et>a full-featured FTP client with an easy-to-use GUI</et>
+   <eu>a full-featured FTP client with an easy-to-use GUI</eu>
+   <fa>a full-featured FTP client with an easy-to-use GUI</fa>
+   <fi>a full-featured FTP client with an easy-to-use GUI</fi>
+   <fr>Un client FTP très complet avec une interface graphique intuitive</fr>
+   <he_IL>a full-featured FTP client with an easy-to-use GUI</he_IL>
+   <hi>a full-featured FTP client with an easy-to-use GUI</hi>
+   <hr>a full-featured FTP client with an easy-to-use GUI</hr>
+   <hu>a full-featured FTP client with an easy-to-use GUI</hu>
+   <id>a full-featured FTP client with an easy-to-use GUI</id>
+   <is>a full-featured FTP client with an easy-to-use GUI</is>
+   <it>Client Ftp ad interfaccia grafica, completo e di facile uso</it>
+   <ja_JP>a full-featured FTP client with an easy-to-use GUI</ja_JP>
+   <ja>a full-featured FTP client with an easy-to-use GUI</ja>
+   <kk>a full-featured FTP client with an easy-to-use GUI</kk>
+   <ko>a full-featured FTP client with an easy-to-use GUI</ko>
+   <lt>a full-featured FTP client with an easy-to-use GUI</lt>
+   <mk>a full-featured FTP client with an easy-to-use GUI</mk>
+   <mr>a full-featured FTP client with an easy-to-use GUI</mr>
+   <nb>a full-featured FTP client with an easy-to-use GUI</nb>
+   <nl>een volledig voorzien FTP programma met een makkelijk te gebruiken grafische werkomgeving</nl>
+   <pl>w pełni funkcjonalny klient FTP z łatwym w użyciu interfejsem graficznym</pl>
+   <pt_BR>Cliente FTP completo com interface gráfica intuitiva</pt_BR>
+   <pt>Cliente FTP completo com interface gráfica intuitiva</pt>
+   <ro>a full-featured FTP client with an easy-to-use GUI</ro>
+   <ru>Полнофункциональный FTP клиент с удобным GUI</ru>
+   <sk>a full-featured FTP client with an easy-to-use GUI</sk>
+   <sl>Polnozmogljiv FTP odjemalec z enostavnim uporabniškim vmesnikom</sl>
+   <sq>a full-featured FTP client with an easy-to-use GUI</sq>
+   <sr>a full-featured FTP client with an easy-to-use GUI</sr>
+   <sv>en fullutrustad FTP klient med lättanvänt grafiskt gränssnitt</sv>
+   <tr>a full-featured FTP client with an easy-to-use GUI</tr>
+   <uk>повнофункціональний FTP-клієнт з простим у використанні графічним інтерфейсом</uk>
+   <zh_CN>a full-featured FTP client with an easy-to-use GUI</zh_CN>
+   <zh_TW>a full-featured FTP client with an easy-to-use GUI</zh_TW>
 </description>
 
 <installable>

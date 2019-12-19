@@ -10,52 +10,51 @@ Liquorix 64 bit
 </name>
 
 <description>
-   <am>Khmer Language Meta-Package for LibreOffice</am>
-   <ar>Khmer Language Meta-Package for LibreOffice</ar>
-   <bg>Khmer Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Khmer per LibreOffice</ca>
-   <cs>Khmer Language Meta-Package for LibreOffice</cs>
-   <da>Khmer Language Meta-Package for LibreOffice</da>
-   <de>Khmer Meta-Paket für LibreOffice</de>
-   <el>Khmer Language Meta-Package for LibreOffice</el>
-   <en>Khmer Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de idioma khmer para LibreOffice</es>
-   <et>Khmer Language Meta-Package for LibreOffice</et>
-   <eu>Khmer Language Meta-Package for LibreOffice</eu>
-   <fa>Khmer Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Khmer Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Khmer Language Meta-Package for LibreOffice</fi>
-   <fr>Khmer Language Meta-Package for LibreOffice</fr>
-   <he_IL>Khmer Language Meta-Package for LibreOffice</he_IL>
-   <hi>Khmer Language Meta-Package for LibreOffice</hi>
-   <hr>Khmer Language Meta-Package for LibreOffice</hr>
-   <hu>Khmer Language Meta-Package for LibreOffice</hu>
-   <id>Khmer Language Meta-Package for LibreOffice</id>
-   <is>Khmer Language Meta-Package for LibreOffice</is>
-   <it>Khmer Language Meta-Package for LibreOffice</it>
-   <ja_JP>Khmer Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Khmer Language Meta-Package for LibreOffice</ja>
-   <kk>Khmer Language Meta-Package for LibreOffice</kk>
-   <ko>Khmer Language Meta-Package for LibreOffice</ko>
-   <lt>Khmer Language Meta-Package for LibreOffice</lt>
-   <mk>Khmer Language Meta-Package for LibreOffice</mk>
-   <mr>Khmer Language Meta-Package for LibreOffice</mr>
-   <nb>Khmer Language Meta-Package for LibreOffice</nb>
-   <nl>Khmer Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Khmer Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Khmer Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Khmer Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Khmer Language Meta-Package for LibreOffice</ro>
-   <ru>Khmer Language Meta-Package for LibreOffice</ru>
-   <sk>Khmer Language Meta-Package for LibreOffice</sk>
-   <sl>Kmerski jezikovni meta-paket za LibreOffice</sl>
-   <sq>Khmer Language Meta-Package for LibreOffice</sq>
-   <sr>Khmer Language Meta-Package for LibreOffice</sr>
-   <sv>Khmer Språk Meta-Paket för LibreOffice</sv>
-   <tr>Khmer Language Meta-Package for LibreOffice</tr>
-   <uk>Khmer Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Khmer Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Khmer Language Meta-Package for LibreOffice</zh_TW>
+   <am>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</am>
+   <ar>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</ar>
+   <bg>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</bg>
+   <ca>Kernel Liquorix amb pegats per Meltdown, 64 bit darrer del dipòsit MX TEST</ca>
+   <cs>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</cs>
+   <da>Liquorix-kerne meltdown-rettelse, 64 bit seneste fra MX TEST-softwarekilde</da>
+   <de>Liquorix Kernel Meltdown gepatcht, 64 bit latest von MX TEST repo</de>
+   <el>Liquorix πυρήνα Meltdown patched, 64 bit πιο πρόσφατο από το MX TEST repo</el>
+   <en>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</en>
+   <es>Kernel Liquorix con parche Meltdown, 64 bit último del repositorio MX TEST</es>
+   <et>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</et>
+   <eu>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</eu>
+   <fa>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</fa>
+   <fi>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</fi>
+   <fr>Noyau Liquorix correctifs Meltdown, 64 bit dernier ( du dépôt de test MX)</fr>
+   <he_IL>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</he_IL>
+   <hi>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</hi>
+   <hr>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</hr>
+   <hu>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</hu>
+   <id>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</id>
+   <is>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</is>
+   <it>Liquorix kernel con la patch per Meltdown, 64 bit ultimo dal repo di  MX TEST</it>
+   <ja_JP>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</ja_JP>
+   <ja>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</ja>
+   <kk>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</kk>
+   <ko>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</ko>
+   <lt>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</lt>
+   <mk>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</mk>
+   <mr>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</mr>
+   <nb>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</nb>
+   <nl>Liquorix kernel Meltdown patched, 64 bit laatste vanuit MX TEST pakketbron</nl>
+   <pl>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</pl>
+   <pt_BR>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</pt_BR>
+   <pt>Núcleo Liquorix com correcção para a falha Meltdown, 64 bit; versão  mais recente no repositório MX TEST</pt>
+   <ro>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</ro>
+   <ru>Liquorix ядро с патчем от Meltdown, 64 bit последнее из репозитория MX TEST</ru>
+   <sk>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</sk>
+   <sl>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</sl>
+   <sq>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</sq>
+   <sr>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</sr>
+   <sv>Liquorix kärna Meltdown patched, 64 bit senaste från MX TEST repo</sv>
+   <tr>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</tr>
+   <uk>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</uk>
+   <zh_CN>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</zh_CN>
+   <zh_TW>Liquorix kernel Meltdown patched, 64 bit latest from MX TEST repo</zh_TW>
 </description>
 
 <installable>

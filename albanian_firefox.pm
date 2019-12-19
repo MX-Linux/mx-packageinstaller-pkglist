@@ -10,52 +10,51 @@ Albanian_Firefox
 </name>
 
 <description>
-   <am>Albanian localisation of Thunderbird</am>
-   <ar>Albanian localisation of Thunderbird</ar>
-   <bg>Albanian localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Albanès</ca>
-   <cs>Albanian localisation of Thunderbird</cs>
-   <da>Albansk oversættelse af Thunderbird</da>
-   <de>Albanische Lokalisierung von Thunderbird</de>
-   <el>Αλβανικός εντοπισμός του Thunderbird</el>
-   <en>Albanian localisation of Thunderbird</en>
-   <es>Localización Albania de Thunderbird</es>
-   <et>Albanian localisation of Thunderbird</et>
-   <eu>Albanian localisation of Thunderbird</eu>
-   <fa>Albanian localisation of Thunderbird</fa>
-   <fil_PH>Albanian localisation of Thunderbird</fil_PH>
-   <fi>Albanian localisation of Thunderbird</fi>
-   <fr>Localisation albanaise pour Thunderbird</fr>
-   <he_IL>Albanian localisation of Thunderbird</he_IL>
-   <hi>Albanian localisation of Thunderbird</hi>
-   <hr>Albanska lokalizacija Thunderbirda</hr>
-   <hu>Albanian localisation of Thunderbird</hu>
-   <id>Albanian localisation of Thunderbird</id>
-   <is>Albanian localisation of Thunderbird</is>
-   <it>Localizzazione albanese di Thunderbird</it>
-   <ja_JP>Albanian localisation of Thunderbird</ja_JP>
-   <ja>Albanian localisation of Thunderbird</ja>
-   <kk>Albanian localisation of Thunderbird</kk>
-   <ko>Albanian localisation of Thunderbird</ko>
-   <lt>Albanian localisation of Thunderbird</lt>
-   <mk>Albanian localisation of Thunderbird</mk>
-   <mr>Albanian localisation of Thunderbird</mr>
-   <nb>Albanian localisation of Thunderbird</nb>
-   <nl>Albanese lokalisatie van Thunderbird</nl>
-   <pl>Albańska lokalizacja Thunderbirda</pl>
-   <pt_BR>Albanês Localização para Thunderbird</pt_BR>
-   <pt>Albanês Localização para Thunderbird</pt>
-   <ro>Albanian localisation of Thunderbird</ro>
-   <ru>Albanian localisation of Thunderbird</ru>
-   <sk>Albanian lokalizácia pre Thunderbird</sk>
-   <sl>Albanian localisation of Thunderbird</sl>
-   <sq>Albanian localisation of Thunderbird</sq>
-   <sr>Albanian localisation of Thunderbird</sr>
-   <sv>Albansk lokalisering av Thunderbird</sv>
-   <tr>Thunderbird'ün Arnavutça yerelleştirmesi</tr>
-   <uk>Albanian локалізація Thunderbird</uk>
-   <zh_CN>Albanian localisation of Thunderbird</zh_CN>
-   <zh_TW>Albanian localisation of Thunderbird</zh_TW>
+   <am>Albanian localisation of Firefox</am>
+   <ar>Albanian localisation of Firefox</ar>
+   <bg>Albanian localisation of Firefox</bg>
+   <ca>Localització de Firefox en Albanès</ca>
+   <cs>Albanian localisation of Firefox</cs>
+   <da>Albansk oversættelse af Firefox</da>
+   <de>Albanische Lokalisierung von Firefox</de>
+   <el>Αλβανικός εντοπισμός του Firefox</el>
+   <en>Albanian localisation of Firefox</en>
+   <es>Localización Albania de Firefox</es>
+   <et>Albanian localisation of Firefox</et>
+   <eu>Albanian localisation of Firefox</eu>
+   <fa>Albanian localisation of Firefox</fa>
+   <fi>Albanian localisation of Firefox</fi>
+   <fr>Localisation albanaise pour Firefox</fr>
+   <he_IL>Albanian localisation of Firefox</he_IL>
+   <hi>Albanian localisation of Firefox</hi>
+   <hr>Albanska lokalizacija Firefoxa</hr>
+   <hu>Albanian localisation of Firefox</hu>
+   <id>Albanian localisation of Firefox</id>
+   <is>Albanian localisation of Firefox</is>
+   <it>Localizzazione albanese di Firefox</it>
+   <ja_JP>Albanian localisation of Firefox</ja_JP>
+   <ja>Albanian localisation of Firefox</ja>
+   <kk>Albanian localisation of Firefox</kk>
+   <ko>Albanian localisation of Firefox</ko>
+   <lt>Albanian localisation of Firefox</lt>
+   <mk>Albanian localisation of Firefox</mk>
+   <mr>Albanian localisation of Firefox</mr>
+   <nb>Albanian localisation of Firefox</nb>
+   <nl>Albanese lokalisatie van Firefox</nl>
+   <pl>Albańska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Albanês Localização para Firefox</pt_BR>
+   <pt>Albanês Localização para Firefox</pt>
+   <ro>Albanian localisation of Firefox</ro>
+   <ru>Албанская локализация Firefox</ru>
+   <sk>Albanian lokalizácia pre Firefox</sk>
+   <sl>Albanian localisation of Firefox</sl>
+   <sq>Albanian localisation of Firefox</sq>
+   <sr>Albanian localisation of Firefox</sr>
+   <sv>Albansk lokalisering av Firefox</sv>
+   <tr>Albanian localisation of Firefox</tr>
+   <uk>Albanian локалізація Firefox</uk>
+   <zh_CN>Albanian localisation of Firefox</zh_CN>
+   <zh_TW>Albanian localisation of Firefox</zh_TW>
 </description>
 
 <installable>

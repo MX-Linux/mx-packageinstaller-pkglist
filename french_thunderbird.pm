@@ -10,52 +10,51 @@ French_Thunderbird
 </name>
 
 <description>
-   <am>Gaelic Language Meta-Package for LibreOffice</am>
-   <ar>Gaelic Language Meta-Package for LibreOffice</ar>
-   <bg>Gaelic Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Gaèlic per LibreOffice</ca>
-   <cs>Gaelic Language Meta-Package for LibreOffice</cs>
-   <da>Gaelic Language Meta-Package for LibreOffice</da>
-   <de>Gälisches Meta-Paket für LibreOffice</de>
-   <el>Gaelic Language Meta-Package for LibreOffice</el>
-   <en>Gaelic Language Meta-Package for LibreOffice</en>
-   <es>Metapaquete de idioma gaélico para LibreOffice</es>
-   <et>Gaelic Language Meta-Package for LibreOffice</et>
-   <eu>Gaelic Language Meta-Package for LibreOffice</eu>
-   <fa>Gaelic Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Gaelic Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Gaelic Language Meta-Package for LibreOffice</fi>
-   <fr>Gaelic Language Meta-Package for LibreOffice</fr>
-   <he_IL>Gaelic Language Meta-Package for LibreOffice</he_IL>
-   <hi>Gaelic Language Meta-Package for LibreOffice</hi>
-   <hr>Gaelic Language Meta-Package for LibreOffice</hr>
-   <hu>Gaelic Language Meta-Package for LibreOffice</hu>
-   <id>Gaelic Language Meta-Package for LibreOffice</id>
-   <is>Gaelic Language Meta-Package for LibreOffice</is>
-   <it>Gaelic Language Meta-Package for LibreOffice</it>
-   <ja_JP>Gaelic Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Gaelic Language Meta-Package for LibreOffice</ja>
-   <kk>Gaelic Language Meta-Package for LibreOffice</kk>
-   <ko>Gaelic Language Meta-Package for LibreOffice</ko>
-   <lt>Gaelic Language Meta-Package for LibreOffice</lt>
-   <mk>Gaelic Language Meta-Package for LibreOffice</mk>
-   <mr>Gaelic Language Meta-Package for LibreOffice</mr>
-   <nb>Gaelic Language Meta-Package for LibreOffice</nb>
-   <nl>Gaelic Language Meta-Package for LibreOffice</nl>
-   <pl>Gaelic Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Gaelic Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Gaélico Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Gaelic Language Meta-Package for LibreOffice</ro>
-   <ru>Gaelic Language Meta-Package for LibreOffice</ru>
-   <sk>Gaelic Language Meta-Package for LibreOffice</sk>
-   <sl>Galski jezikovni meta-paket za LibreOffice</sl>
-   <sq>Gaelic Language Meta-Package for LibreOffice</sq>
-   <sr>Gaelic Language Meta-Package for LibreOffice</sr>
-   <sv>Gaeliskt Språk Meta-Paket för LibreOffice</sv>
-   <tr>Gaelic Language Meta-Package for LibreOffice</tr>
-   <uk>Gaelic Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Gaelic Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Gaelic Language Meta-Package for LibreOffice</zh_TW>
+   <am>French localisation of Thunderbird</am>
+   <ar>French localisation of Thunderbird</ar>
+   <bg>French localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Francès</ca>
+   <cs>French localisation of Thunderbird</cs>
+   <da>Fransk oversættelse af Thunderbird</da>
+   <de>Französische Lokalisierung von Thunderbird</de>
+   <el>Γαλλικός εντοπισμός του Thunderbird</el>
+   <en>French localisation of Thunderbird</en>
+   <es>Localización Francés de Thunderbird</es>
+   <et>French localisation of Thunderbird</et>
+   <eu>French localisation of Thunderbird</eu>
+   <fa>French localisation of Thunderbird</fa>
+   <fi>French localisation of Thunderbird</fi>
+   <fr>Localisation française pour Thunderbird</fr>
+   <he_IL>French localisation of Thunderbird</he_IL>
+   <hi>French localisation of Thunderbird</hi>
+   <hr>French localisation of Thunderbird</hr>
+   <hu>French localisation of Thunderbird</hu>
+   <id>French localisation of Thunderbird</id>
+   <is>French localisation of Thunderbird</is>
+   <it>Localizzazione francese di Thunderbird</it>
+   <ja_JP>French localisation of Thunderbird</ja_JP>
+   <ja>French localisation of Thunderbird</ja>
+   <kk>French localisation of Thunderbird</kk>
+   <ko>French localisation of Thunderbird</ko>
+   <lt>French localisation of Thunderbird</lt>
+   <mk>French localisation of Thunderbird</mk>
+   <mr>French localisation of Thunderbird</mr>
+   <nb>French localisation of Thunderbird</nb>
+   <nl>Franse lokalisatie van Thunderbird</nl>
+   <pl>Francuska lokalizacja Thunderbirda</pl>
+   <pt_BR>Francês Localização para Thunderbird</pt_BR>
+   <pt>Francês Localização para Thunderbird</pt>
+   <ro>French localisation of Thunderbird</ro>
+   <ru>French localisation of Thunderbird</ru>
+   <sk>French localisation of Thunderbird</sk>
+   <sl>French localisation of Thunderbird</sl>
+   <sq>French localisation of Thunderbird</sq>
+   <sr>French localisation of Thunderbird</sr>
+   <sv>Fransk lokalisering av Thunderbird</sv>
+   <tr>French localisation of Thunderbird</tr>
+   <uk>French локалізація Thunderbird</uk>
+   <zh_CN>French localisation of Thunderbird</zh_CN>
+   <zh_TW>French localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

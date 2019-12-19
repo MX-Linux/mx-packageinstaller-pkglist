@@ -10,52 +10,51 @@ Xhosa_Libreoffice
 </name>
 
 <description>
-   <am>multimedia player modelled on winamp</am>
-   <ar>multimedia player modelled on winamp</ar>
-   <bg>multimedia player modelled on winamp</bg>
-   <ca>Reproductor multimèdia modelat en winamp</ca>
-   <cs>multimedia player modelled on winamp</cs>
-   <da>multimedieafspiller som er udformet efter winamp</da>
-   <de>Multimedia-Player nach dem Vorbild von Winamp</de>
-   <el>αναπαραγωγή πολυμέσων με βάση το winamp</el>
-   <en>multimedia player modelled on winamp</en>
-   <es>Reproductor multimedia estilo Winamp</es>
-   <et>multimedia player modelled on winamp</et>
-   <eu>multimedia player modelled on winamp</eu>
-   <fa>multimedia player modelled on winamp</fa>
-   <fil_PH>multimedia player modelled on winamp</fil_PH>
-   <fi>multimedia player modelled on winamp</fi>
-   <fr>Lecteur multimédia inspiré de winamp</fr>
-   <he_IL>multimedia player modelled on winamp</he_IL>
-   <hi>multimedia player modelled on winamp</hi>
-   <hr>multimedia player modelled on winamp</hr>
-   <hu>multimedia player modelled on winamp</hu>
-   <id>multimedia player modelled on winamp</id>
-   <is>multimedia player modelled on winamp</is>
-   <it>riproduttore multimediale simile a winamp</it>
-   <ja_JP>multimedia player modelled on winamp</ja_JP>
-   <ja>multimedia player modelled on winamp</ja>
-   <kk>multimedia player modelled on winamp</kk>
-   <ko>multimedia player modelled on winamp</ko>
-   <lt>multimedia player modelled on winamp</lt>
-   <mk>multimedia player modelled on winamp</mk>
-   <mr>multimedia player modelled on winamp</mr>
-   <nb>multimedia player modelled on winamp</nb>
-   <nl>multimediaspeler gemodelleerd naar winamp</nl>
-   <pl>odtwarzacz multimedialny wzorowany na Winampie</pl>
-   <pt_BR>Reprodutor de multimídia semelhante ao winamp</pt_BR>
-   <pt>Reprodutor de multimédia semelhante ao winamp</pt>
-   <ro>multimedia player modelled on winamp</ro>
-   <ru>Универсальный аудиоплеер наподобие WinAmp</ru>
-   <sk>multimedia player modelled on winamp</sk>
-   <sl>Večpredstavnostni predvajalnik, ki temelji na Winampu</sl>
-   <sq>multimedia player modelled on winamp</sq>
-   <sr>multimedia player modelled on winamp</sr>
-   <sv>multimediaspelare formad efter winamp</sv>
-   <tr>multimedia player modelled on winamp</tr>
-   <uk>мультимедія програвач схожий на winamp</uk>
-   <zh_CN>multimedia player modelled on winamp</zh_CN>
-   <zh_TW>multimedia player modelled on winamp</zh_TW>
+   <am>Xhosa Language Meta-Package for LibreOffice</am>
+   <ar>Xhosa Language Meta-Package for LibreOffice</ar>
+   <bg>Xhosa Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Xhosa per LibreOffice</ca>
+   <cs>Xhosa Language Meta-Package for LibreOffice</cs>
+   <da>Xhosa sprog-metapakke til LibreOffice</da>
+   <de>Xhosa Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Xhosa</el>
+   <en>Xhosa Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Xhosa para LibreOffice</es>
+   <et>Xhosa Language Meta-Package for LibreOffice</et>
+   <eu>Xhosa Language Meta-Package for LibreOffice</eu>
+   <fa>Xhosa Language Meta-Package for LibreOffice</fa>
+   <fi>Xhosa Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Xhosa pour LibreOffice</fr>
+   <he_IL>Xhosa Language Meta-Package for LibreOffice</he_IL>
+   <hi>Xhosa Language Meta-Package for LibreOffice</hi>
+   <hr>Xhosa Language Meta-Package for LibreOffice</hr>
+   <hu>Xhosa Language Meta-Package for LibreOffice</hu>
+   <id>Xhosa Language Meta-Package for LibreOffice</id>
+   <is>Xhosa Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Xhosa per LibreOffice</it>
+   <ja_JP>Xhosa Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Xhosa Language Meta-Package for LibreOffice</ja>
+   <kk>Xhosa Language Meta-Package for LibreOffice</kk>
+   <ko>Xhosa Language Meta-Package for LibreOffice</ko>
+   <lt>Xhosa Language Meta-Package for LibreOffice</lt>
+   <mk>Xhosa Language Meta-Package for LibreOffice</mk>
+   <mr>Xhosa Language Meta-Package for LibreOffice</mr>
+   <nb>Xhosa Language Meta-Package for LibreOffice</nb>
+   <nl>Xhosa Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Xhosa metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Xhosa Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Xhosa Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Xhosa Language Meta-Package for LibreOffice</ro>
+   <ru>Xhosa Language Meta-Package for LibreOffice</ru>
+   <sk>Xhosa Language Meta-Package for LibreOffice</sk>
+   <sl>Xhosa Language Meta-Package for LibreOffice</sl>
+   <sq>Xhosa Language Meta-Package for LibreOffice</sq>
+   <sr>Xhosa Language Meta-Package for LibreOffice</sr>
+   <sv>Xhosa Språk Meta-Paket för LibreOffice</sv>
+   <tr>Xhosa Language Meta-Package for LibreOffice</tr>
+   <uk>Xhosa Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Xhosa Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Xhosa Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

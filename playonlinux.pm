@@ -10,52 +10,51 @@ Play on Linux
 </name>
 
 <description>
-   <am>Plex Mediaserver (includes web client)(requires reboot after install)</am>
-   <ar>Plex Mediaserver (includes web client)(requires reboot after install)</ar>
-   <bg>Plex Mediaserver (includes web client)(requires reboot after install)</bg>
-   <ca>Mediaserver Plex (inclou client web; cal rearrencar després d'instal·lar)</ca>
-   <cs>Plex Mediaserver (includes web client)(requires reboot after install)</cs>
-   <da>Plex-medieserver (inkluderer webklient)(kræver genstart efter installation)</da>
-   <de>Plex Mediaserver (inkl. Web-Client)(erfordert Neustart nach der Installation)</de>
-   <el>Plex Media Server (περιλαμβάνει web client) (απαιτεί επανεκκίνηση μετά την εγκατάσταση)</el>
-   <en>Plex Mediaserver (includes web client)(requires reboot after install)</en>
-   <es>Plex Mediaserver (incluye cliente web)(requiere reiniciar después de instalar)</es>
-   <et>Plex Mediaserver (includes web client)(requires reboot after install)</et>
-   <eu>Plex Mediaserver (includes web client)(requires reboot after install)</eu>
-   <fa>Plex Mediaserver (includes web client)(requires reboot after install)</fa>
-   <fil_PH>Plex Mediaserver (includes web client)(requires reboot after install)</fil_PH>
-   <fi>Plex Mediaserver (includes web client)(requires reboot after install)</fi>
-   <fr>Plex Mediaserver (client web inclus)(nécessite un re-démarrage après installation)</fr>
-   <he_IL>Plex Mediaserver (includes web client)(requires reboot after install)</he_IL>
-   <hi>Plex Mediaserver (includes web client)(requires reboot after install)</hi>
-   <hr>Plex Mediaserver (includes web client)(requires reboot after install)</hr>
-   <hu>Plex Mediaserver (includes web client)(requires reboot after install)</hu>
-   <id>Plex Mediaserver (includes web client)(requires reboot after install)</id>
-   <is>Plex Mediaserver (includes web client)(requires reboot after install)</is>
-   <it>Plex Mediaserver (include un client web)(richiede un reboot dopo l'installazione)</it>
-   <ja_JP>Plex Mediaserver (includes web client)(requires reboot after install)</ja_JP>
-   <ja>Plex Mediaserver (includes web client)(requires reboot after install)</ja>
-   <kk>Plex Mediaserver (includes web client)(requires reboot after install)</kk>
-   <ko>Plex Mediaserver (includes web client)(requires reboot after install)</ko>
-   <lt>Plex Mediaserver (includes web client)(requires reboot after install)</lt>
-   <mk>Plex Mediaserver (includes web client)(requires reboot after install)</mk>
-   <mr>Plex Mediaserver (includes web client)(requires reboot after install)</mr>
-   <nb>Plex Mediaserver (includes web client)(requires reboot after install)</nb>
-   <nl>Plex Mediaserver (inclusief webcliënt) (moet na installatie opnieuw worden opgestart)</nl>
-   <pl>Plex Media Server (zawiera klienta WWW) (wymaga ponownego uruchomienia po instalacji)</pl>
-   <pt_BR>Servidor multimédia Plex - inclui cliente de web (requere reinício do computador após a instalação)</pt_BR>
-   <pt>Servidor multimédia Plex - inclui cliente de web (requere reinício do computador após a instalação)</pt>
-   <ro>Plex Mediaserver (includes web client)(requires reboot after install)</ro>
-   <ru>Медиасервер Plex (включает веб клиент) (после установки требуется перезагрузка)</ru>
-   <sk>Plex Mediaserver (includes web client)(requires reboot after install)</sk>
-   <sl>Plex medijski strežnik (vključuje web odjemalec) (zahteva ponovni zagon po namestitvi)</sl>
-   <sq>Plex Mediaserver (includes web client)(requires reboot after install)</sq>
-   <sr>Plex Mediaserver (includes web client)(requires reboot after install)</sr>
-   <sv>Plex Mediaserver (inkluderar webbklient)(kräver omstart efter installation)</sv>
-   <tr>Plex Mediaserver (includes web client)(requires reboot after install)</tr>
-   <uk>Plex Mediaserver (includes web client)(requires reboot after install)</uk>
-   <zh_CN>Plex Mediaserver (includes web client)(requires reboot after install)</zh_CN>
-   <zh_TW>Plex Mediaserver (includes web client)(requires reboot after install)</zh_TW>
+   <am>Play on Linux</am>
+   <ar>Play on Linux</ar>
+   <bg>Play on Linux</bg>
+   <ca>Play on Linux</ca>
+   <cs>Play on Linux</cs>
+   <da>Play on Linux</da>
+   <de>Ein grafisches Frontend für Wine</de>
+   <el>Play on Linux</el>
+   <en>Play on Linux</en>
+   <es>Play on Linux</es>
+   <et>Play on Linux</et>
+   <eu>Play on Linux</eu>
+   <fa>Play on Linux</fa>
+   <fi>Play on Linux</fi>
+   <fr>Play on Linux</fr>
+   <he_IL>Play on Linux</he_IL>
+   <hi>Play on Linux</hi>
+   <hr>Play on Linux</hr>
+   <hu>Play on Linux</hu>
+   <id>Play on Linux</id>
+   <is>Play on Linux</is>
+   <it>Play on Linux</it>
+   <ja_JP>Play on Linux</ja_JP>
+   <ja>Play on Linux</ja>
+   <kk>Play on Linux</kk>
+   <ko>Play on Linux</ko>
+   <lt>Play on Linux</lt>
+   <mk>Play on Linux</mk>
+   <mr>Play on Linux</mr>
+   <nb>Play on Linux</nb>
+   <nl>Speel op Linux</nl>
+   <pl>umożliwia łatwą instalację i używanie wielu gier i oprogramowania</pl>
+   <pt_BR>Instalar programas do Windows em sistemas Linux</pt_BR>
+   <pt>Instalar programas do Windows em sistemas Linux</pt>
+   <ro>Play on Linux</ro>
+   <ru>Надстройка для запуска игр в окружении Wine</ru>
+   <sk>Play on Linux</sk>
+   <sl>Igraj v Linuxu</sl>
+   <sq>Play on Linux</sq>
+   <sr>Play on Linux</sr>
+   <sv>Play on Linux</sv>
+   <tr>Play on Linux</tr>
+   <uk>Play on Linux</uk>
+   <zh_CN>Play on Linux</zh_CN>
+   <zh_TW>Play on Linux</zh_TW>
 </description>
 
 <installable>

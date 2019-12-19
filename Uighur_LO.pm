@@ -10,52 +10,51 @@ Uighur_Libreoffice
 </name>
 
 <description>
-   <am>Ukrainian localisation of Firefox</am>
-   <ar>Ukrainian localisation of Firefox</ar>
-   <bg>Ukrainian localisation of Firefox</bg>
-   <ca>Localització de Firefox en Ucrainès</ca>
-   <cs>Ukrainian localisation of Firefox</cs>
-   <da>Ukrainsk oversættelse af Firefox</da>
-   <de>Ukrainische Lokalisierung von Firefox</de>
-   <el>Ουκρανικός εντοπισμός του Firefox</el>
-   <en>Ukrainian localisation of Firefox</en>
-   <es>Localización Ucraniana de Firefox</es>
-   <et>Ukrainian localisation of Firefox</et>
-   <eu>Ukrainian localisation of Firefox</eu>
-   <fa>Ukrainian localisation of Firefox</fa>
-   <fil_PH>Ukrainian localisation of Firefox</fil_PH>
-   <fi>Ukrainian localisation of Firefox</fi>
-   <fr>Localisation ukrainienne pour Firefox</fr>
-   <he_IL>Ukrainian localisation of Firefox</he_IL>
-   <hi>Ukrainian localisation of Firefox</hi>
-   <hr>Ukrainian localisation of Firefox</hr>
-   <hu>Ukrainian localisation of Firefox</hu>
-   <id>Ukrainian localisation of Firefox</id>
-   <is>Ukrainian localisation of Firefox</is>
-   <it>Localizzazione ucraina di Firefox</it>
-   <ja_JP>Ukrainian localisation of Firefox</ja_JP>
-   <ja>Ukrainian localisation of Firefox</ja>
-   <kk>Ukrainian localisation of Firefox</kk>
-   <ko>Ukrainian localisation of Firefox</ko>
-   <lt>Ukrainian localisation of Firefox</lt>
-   <mk>Ukrainian localisation of Firefox</mk>
-   <mr>Ukrainian localisation of Firefox</mr>
-   <nb>Ukrainian localisation of Firefox</nb>
-   <nl>Oekraïense lokalisatie van Firefox</nl>
-   <pl>Ukraińska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Ucraniano Localização para Firefox</pt_BR>
-   <pt>Ucraniano Localização para Firefox</pt>
-   <ro>Ukrainian localisation of Firefox</ro>
-   <ru>Украинская локализация Firefox</ru>
-   <sk>Ukrainian localisation of Firefox</sk>
-   <sl>Ukrainian localisation of Firefox</sl>
-   <sq>Ukrainian localisation of Firefox</sq>
-   <sr>Ukrainian localisation of Firefox</sr>
-   <sv>Ukrainsk lokalisering av Firefox</sv>
-   <tr>Firefox'un Ukraynaca yerelleştirmesi</tr>
-   <uk>Ukrainian localisation of Firefox</uk>
-   <zh_CN>Ukrainian localisation of Firefox</zh_CN>
-   <zh_TW>Ukrainian localisation of Firefox</zh_TW>
+   <am>Uighur Language Meta-Package for LibreOffice</am>
+   <ar>Uighur Language Meta-Package for LibreOffice</ar>
+   <bg>Uighur Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Uighur per LibreOffice</ca>
+   <cs>Uighur Language Meta-Package for LibreOffice</cs>
+   <da>Uighur sprog-metapakke til LibreOffice</da>
+   <de>Uighur Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Uighur</el>
+   <en>Uighur Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Uighur para LibreOffice</es>
+   <et>Uighur Language Meta-Package for LibreOffice</et>
+   <eu>Uighur Language Meta-Package for LibreOffice</eu>
+   <fa>Uighur Language Meta-Package for LibreOffice</fa>
+   <fi>Uighur Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Uighur pour LibreOffice</fr>
+   <he_IL>Uighur Language Meta-Package for LibreOffice</he_IL>
+   <hi>Uighur Language Meta-Package for LibreOffice</hi>
+   <hr>Uighur Language Meta-Package for LibreOffice</hr>
+   <hu>Uighur Language Meta-Package for LibreOffice</hu>
+   <id>Uighur Language Meta-Package for LibreOffice</id>
+   <is>Uighur Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Uighur per LibreOffice</it>
+   <ja_JP>Uighur Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Uighur Language Meta-Package for LibreOffice</ja>
+   <kk>Uighur Language Meta-Package for LibreOffice</kk>
+   <ko>Uighur Language Meta-Package for LibreOffice</ko>
+   <lt>Uighur Language Meta-Package for LibreOffice</lt>
+   <mk>Uighur Language Meta-Package for LibreOffice</mk>
+   <mr>Uighur Language Meta-Package for LibreOffice</mr>
+   <nb>Uighur Language Meta-Package for LibreOffice</nb>
+   <nl>Uighur Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Uighur metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Uighur Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Uighur Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Uighur Language Meta-Package for LibreOffice</ro>
+   <ru>Uighur Language Meta-Package for LibreOffice</ru>
+   <sk>Uighur Language Meta-Package for LibreOffice</sk>
+   <sl>Uighur Language Meta-Package for LibreOffice</sl>
+   <sq>Uighur Language Meta-Package for LibreOffice</sq>
+   <sr>Uighur Language Meta-Package for LibreOffice</sr>
+   <sv>Uighur Språk Meta-Paket för LibreOffice</sv>
+   <tr>Uighur Language Meta-Package for LibreOffice</tr>
+   <uk>Uighur Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Uighur Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Uighur Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

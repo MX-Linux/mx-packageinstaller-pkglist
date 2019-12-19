@@ -11,52 +11,51 @@ OBS-Studio
 </name>
 
 <description>
-   <am>Occitan Language Meta-Package for LibreOffice</am>
-   <ar>Occitan Language Meta-Package for LibreOffice</ar>
-   <bg>Occitan Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Occità per LibreOffice</ca>
-   <cs>Occitan Language Meta-Package for LibreOffice</cs>
-   <da>Occitan Language Meta-Package for LibreOffice</da>
-   <de>Occitanisches Meta-Paket für LibreOffice</de>
-   <el>Occitan Language Meta-Package for LibreOffice</el>
-   <en>Occitan Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de idioma occitano para LibreOffice</es>
-   <et>Occitan Language Meta-Package for LibreOffice</et>
-   <eu>Occitan Language Meta-Package for LibreOffice</eu>
-   <fa>Occitan Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Occitan Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Occitan Language Meta-Package for LibreOffice</fi>
-   <fr>Occitan Language Meta-Package for LibreOffice</fr>
-   <he_IL>Occitan Language Meta-Package for LibreOffice</he_IL>
-   <hi>Occitan Language Meta-Package for LibreOffice</hi>
-   <hr>Occitan Language Meta-Package for LibreOffice</hr>
-   <hu>Occitan Language Meta-Package for LibreOffice</hu>
-   <id>Occitan Language Meta-Package for LibreOffice</id>
-   <is>Occitan Language Meta-Package for LibreOffice</is>
-   <it>Occitan Language Meta-Package for LibreOffice</it>
-   <ja_JP>Occitan Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Occitan Language Meta-Package for LibreOffice</ja>
-   <kk>Occitan Language Meta-Package for LibreOffice</kk>
-   <ko>Occitan Language Meta-Package for LibreOffice</ko>
-   <lt>Occitan Language Meta-Package for LibreOffice</lt>
-   <mk>Occitan Language Meta-Package for LibreOffice</mk>
-   <mr>Occitan Language Meta-Package for LibreOffice</mr>
-   <nb>Occitan Language Meta-Package for LibreOffice</nb>
-   <nl>Occitan Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Occitan Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Occitan Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Occitano Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Occitan Language Meta-Package for LibreOffice</ro>
-   <ru>Occitan Language Meta-Package for LibreOffice</ru>
-   <sk>Occitan Language Meta-Package for LibreOffice</sk>
-   <sl>Okitanski jezikovni meta-paket za LibreOffice</sl>
-   <sq>Occitan Language Meta-Package for LibreOffice</sq>
-   <sr>Occitan Language Meta-Package for LibreOffice</sr>
-   <sv>Occitan Språk Meta-Paket för LibreOffice</sv>
-   <tr>Occitan Language Meta-Package for LibreOffice</tr>
-   <uk>Occitan Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Occitan Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Occitan Language Meta-Package for LibreOffice</zh_TW>
+   <am>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</am>
+   <ar>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ar>
+   <bg>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</bg>
+   <ca>OBS-Studio - Streaming Video i Screencaster (cal maquinari OpenGL 3)</ca>
+   <cs>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</cs>
+   <da>OBS-Studio - Streaming af video og skærmudsendelse (kræver OpenGL 3-hardware)</da>
+   <de>OBS-Studio - Streaming Video und Screencaster (OpenGL 3 Hardware erforderlich)</de>
+   <el>OBS-Studio - Video Streaming και Screencaster (Απαιτείται hardware με OpenGL 3)</el>
+   <en>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</en>
+   <es>OBS-Studio - Transmisión de Video y Screencaster (requiere hardware OpenGL 3)</es>
+   <et>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</et>
+   <eu>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</eu>
+   <fa>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</fa>
+   <fi>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</fi>
+   <fr>OBS-Studio - Diffusion vidéo et capture vidéo d'écran (support OpenGL 3 nécessaire)</fr>
+   <he_IL>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</he_IL>
+   <hi>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</hi>
+   <hr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</hr>
+   <hu>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</hu>
+   <id>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</id>
+   <is>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</is>
+   <it>OBS-Studio - Strumento di registrazione e streaming di contenuti video (è richiesto hardware OpenGL 3)</it>
+   <ja_JP>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ja_JP>
+   <ja>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ja>
+   <kk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</kk>
+   <ko>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ko>
+   <lt>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</lt>
+   <mk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</mk>
+   <mr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</mr>
+   <nb>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</nb>
+   <nl>OBS-Studio - Video en Screencaster Streamen (OpenGL 3 hardware vereist)</nl>
+   <pl>strumieniowanie wideo i nagrywanie ekranu komputera (wymagany sprzęt OpenGL 3)</pl>
+   <pt_BR>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</pt_BR>
+   <pt>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</pt>
+   <ro>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ro>
+   <ru>Потоковое видео и видеотрансляции экрана (требуется OpenGL 3 оборудование)</ru>
+   <sk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</sk>
+   <sl>OBS-Studio - program za pretakanje videa in vsebine zaslona (potrebna je OpenGL 3 strojna oprema)</sl>
+   <sq>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</sq>
+   <sr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</sr>
+   <sv>OBS-Studio - Strömmande Video och Skärminspelare (OpenGL 3 hårdvara krävs)</sv>
+   <tr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</tr>
+   <uk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</uk>
+   <zh_CN>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</zh_CN>
+   <zh_TW>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</zh_TW>
 </description>
 
 <installable>

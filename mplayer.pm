@@ -10,52 +10,51 @@ mplayer
 </name>
 
 <description>
-   <am>Mullvad VPN and sysVinit scripts</am>
-   <ar>Mullvad VPN and sysVinit scripts</ar>
-   <bg>Mullvad VPN and sysVinit scripts</bg>
-   <ca>Scripts Mullvad VPN i sysVinit</ca>
-   <cs>Mullvad VPN and sysVinit scripts</cs>
-   <da>Mullvad VPN and sysVinit scripts</da>
-   <de>Mullvad VPN und sysVinit Scripte</de>
-   <el>σενάρια του Mullvad VPN και sysVinit</el>
-   <en>Mullvad VPN and sysVinit scripts</en>
-   <es>Mullvad VPN y scripts sysVinit</es>
-   <et>Mullvad VPN and sysVinit scripts</et>
-   <eu>Mullvad VPN and sysVinit scripts</eu>
-   <fa>Mullvad VPN and sysVinit scripts</fa>
-   <fil_PH>Mullvad VPN and sysVinit scripts</fil_PH>
-   <fi>Mullvad VPN and sysVinit scripts</fi>
-   <fr>Scripts pour Mullvad VPN et sysVinit</fr>
-   <he_IL>Mullvad VPN and sysVinit scripts</he_IL>
-   <hi>Mullvad VPN and sysVinit scripts</hi>
-   <hr>Mullvad VPN and sysVinit scripts</hr>
-   <hu>Mullvad VPN and sysVinit scripts</hu>
-   <id>Mullvad VPN and sysVinit scripts</id>
-   <is>Mullvad VPN and sysVinit scripts</is>
-   <it>Mullvad VPN e script sysVinit</it>
-   <ja_JP>Mullvad VPN and sysVinit scripts</ja_JP>
-   <ja>Mullvad VPN and sysVinit scripts</ja>
-   <kk>Mullvad VPN and sysVinit scripts</kk>
-   <ko>Mullvad VPN and sysVinit scripts</ko>
-   <lt>Mullvad VPN and sysVinit scripts</lt>
-   <mk>Mullvad VPN and sysVinit scripts</mk>
-   <mr>Mullvad VPN and sysVinit scripts</mr>
-   <nb>Mullvad VPN and sysVinit scripts</nb>
-   <nl>Mullvad VPN en sysVinit scripts</nl>
-   <pl>Mullvad VPN and sysVinit scripts</pl>
-   <pt_BR>Scripts para sysVinit e Mullvad VPN</pt_BR>
-   <pt>Scripts para sysVinit e VPN Mullvad</pt>
-   <ro>Mullvad VPN and sysVinit scripts</ro>
-   <ru>VPN и SysVinit - скрипты от Mullvad</ru>
-   <sk>Mullvad VPN and sysVinit scripts</sk>
-   <sl>Mullvad VPN in syVinit skripte</sl>
-   <sq>Mullvad VPN and sysVinit scripts</sq>
-   <sr>Mullvad VPN and sysVinit scripts</sr>
-   <sv>Mullvad VPN och sysVinit skript</sv>
-   <tr>Mullvad VPN and sysVinit scripts</tr>
-   <uk>Mullvad VPN and sysVinit scripts</uk>
-   <zh_CN>Mullvad VPN and sysVinit scripts</zh_CN>
-   <zh_TW>Mullvad VPN and sysVinit scripts</zh_TW>
+   <am>a powerful multimedia player and much more</am>
+   <ar>a powerful multimedia player and much more</ar>
+   <bg>a powerful multimedia player and much more</bg>
+   <ca>potent reproductor multimèdia i molt més</ca>
+   <cs>a powerful multimedia player and much more</cs>
+   <da>en kraftfuld medieafspiller og meget mere</da>
+   <de>Ein leistungsstarker Multimedia-Player und vieles mehr</de>
+   <el>ένα ισχυρό πρόγραμμα αναπαραγωγής πολυμέσων και πολλά άλλα</el>
+   <en>a powerful multimedia player and much more</en>
+   <es>Potente reproductor multimedia y mucho más</es>
+   <et>a powerful multimedia player and much more</et>
+   <eu>a powerful multimedia player and much more</eu>
+   <fa>a powerful multimedia player and much more</fa>
+   <fi>tehokas multimediasoitin ja paljon muuta</fi>
+   <fr>Un puissant lecteur multimédia et bien plus</fr>
+   <he_IL>a powerful multimedia player and much more</he_IL>
+   <hi>a powerful multimedia player and much more</hi>
+   <hr>a powerful multimedia player and much more</hr>
+   <hu>a powerful multimedia player and much more</hu>
+   <id>a powerful multimedia player and much more</id>
+   <is>a powerful multimedia player and much more</is>
+   <it>potente lettore multimediale e molto altro</it>
+   <ja_JP>a powerful multimedia player and much more</ja_JP>
+   <ja>a powerful multimedia player and much more</ja>
+   <kk>a powerful multimedia player and much more</kk>
+   <ko>a powerful multimedia player and much more</ko>
+   <lt>a powerful multimedia player and much more</lt>
+   <mk>a powerful multimedia player and much more</mk>
+   <mr>a powerful multimedia player and much more</mr>
+   <nb>a powerful multimedia player and much more</nb>
+   <nl>een krachtige multimediaspeler en nog veel meer</nl>
+   <pl>potężny odtwarzacz multimedialny i wiele więcej</pl>
+   <pt_BR>Poderoso reprodutor de multimídia e muito mais</pt_BR>
+   <pt>Poderoso reprodutor de multimédia e muito mais</pt>
+   <ro>a powerful multimedia player and much more</ro>
+   <ru>Продвинутый медиаплеер и даже больше</ru>
+   <sk>a powerful multimedia player and much more</sk>
+   <sl>Zmogljiv večpredstavnostni predvajalnik in mnogo več</sl>
+   <sq>a powerful multimedia player and much more</sq>
+   <sr>a powerful multimedia player and much more</sr>
+   <sv>en kraftfull multimediaspelare och mycket mer</sv>
+   <tr>a powerful multimedia player and much more</tr>
+   <uk>потужний мультимедія програвач і не тільки</uk>
+   <zh_CN>a powerful multimedia player and much more</zh_CN>
+   <zh_TW>a powerful multimedia player and much more</zh_TW>
 </description>
 
 <installable>

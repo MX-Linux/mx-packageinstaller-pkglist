@@ -10,52 +10,51 @@ Obsidian Icon Theme
 </name>
 
 <description>
-   <am>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</am>
-   <ar>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ar>
-   <bg>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</bg>
-   <ca>OBS-Studio - Streaming Video i Screencaster (cal maquinari OpenGL 3)</ca>
-   <cs>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</cs>
-   <da>OBS-Studio - Streaming af video og skærmudsendelse (kræver OpenGL 3-hardware)</da>
-   <de>OBS-Studio - Streaming Video und Screencaster (OpenGL 3 Hardware erforderlich)</de>
-   <el>OBS-Studio - Video Streaming και Screencaster (Απαιτείται hardware με OpenGL 3)</el>
-   <en>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</en>
-   <es>OBS-Studio - Transmisión de Video y Screencaster (requiere hardware OpenGL 3)</es>
-   <et>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</et>
-   <eu>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</eu>
-   <fa>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</fa>
-   <fil_PH>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</fil_PH>
-   <fi>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</fi>
-   <fr>OBS-Studio - Diffusion vidéo et capture vidéo d'écran (support OpenGL 3 nécessaire)</fr>
-   <he_IL>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</he_IL>
-   <hi>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</hi>
-   <hr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</hr>
-   <hu>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</hu>
-   <id>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</id>
-   <is>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</is>
-   <it>OBS-Studio - Strumento di registrazione e streaming di contenuti video (è richiesto hardware OpenGL 3)</it>
-   <ja_JP>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ja_JP>
-   <ja>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ja>
-   <kk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</kk>
-   <ko>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ko>
-   <lt>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</lt>
-   <mk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</mk>
-   <mr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</mr>
-   <nb>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</nb>
-   <nl>OBS-Studio - Video en Screencaster Streamen (OpenGL 3 hardware vereist)</nl>
-   <pl>strumieniowanie wideo i nagrywanie ekranu komputera (wymagany sprzęt OpenGL 3)</pl>
-   <pt_BR>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</pt_BR>
-   <pt>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</pt>
-   <ro>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ro>
-   <ru>Потоковое видео и видеотрансляции экрана (требуется OpenGL 3 оборудование)</ru>
-   <sk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</sk>
-   <sl>OBS-Studio - program za pretakanje videa in vsebine zaslona (potrebna je OpenGL 3 strojna oprema)</sl>
-   <sq>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</sq>
-   <sr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</sr>
-   <sv>OBS-Studio - Strömmande Video och Skärminspelare (OpenGL 3 hårdvara krävs)</sv>
-   <tr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</tr>
-   <uk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</uk>
-   <zh_CN>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</zh_CN>
-   <zh_TW>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</zh_TW>
+   <am>an updated/refreshed Faenza-ish icon theme with many colour choices</am>
+   <ar>an updated/refreshed Faenza-ish icon theme with many colour choices</ar>
+   <bg>an updated/refreshed Faenza-ish icon theme with many colour choices</bg>
+   <ca>tema de icones actualitzat tipus Faenza amb moltes opcions de color</ca>
+   <cs>an updated/refreshed Faenza-ish icon theme with many colour choices</cs>
+   <da>et opdateret/genopfrisket Faenza-ish-ikontema med mange valg af farver</da>
+   <de>Ein aktualisiertes/erfrischtes Faenza-ähnliches Icon-Thema mit vielen Farbvarianten</de>
+   <el>ένα ενημερωμένο/ανανεωμένο θέμα του Faenza με πολλές επιλογές χρωμάτων</el>
+   <en>an updated/refreshed Faenza-ish icon theme with many colour choices</en>
+   <es>Tema de íconos estilo Faenza reelaborados y con múltiples colores a elección.</es>
+   <et>an updated/refreshed Faenza-ish icon theme with many colour choices</et>
+   <eu>an updated/refreshed Faenza-ish icon theme with many colour choices</eu>
+   <fa>an updated/refreshed Faenza-ish icon theme with many colour choices</fa>
+   <fi>an updated/refreshed Faenza-ish icon theme with many colour choices</fi>
+   <fr>Un thème d'icônes de type Faenza remis au goût du jour, avec plusieurs choix de couleurs</fr>
+   <he_IL>an updated/refreshed Faenza-ish icon theme with many colour choices</he_IL>
+   <hi>an updated/refreshed Faenza-ish icon theme with many colour choices</hi>
+   <hr>an updated/refreshed Faenza-ish icon theme with many colour choices</hr>
+   <hu>an updated/refreshed Faenza-ish icon theme with many colour choices</hu>
+   <id>an updated/refreshed Faenza-ish icon theme with many colour choices</id>
+   <is>an updated/refreshed Faenza-ish icon theme with many colour choices</is>
+   <it>un tema di icone basato sul tema Faenza rivisto/aggiornato con molte scelte di colore</it>
+   <ja_JP>an updated/refreshed Faenza-ish icon theme with many colour choices</ja_JP>
+   <ja>an updated/refreshed Faenza-ish icon theme with many colour choices</ja>
+   <kk>an updated/refreshed Faenza-ish icon theme with many colour choices</kk>
+   <ko>an updated/refreshed Faenza-ish icon theme with many colour choices</ko>
+   <lt>an updated/refreshed Faenza-ish icon theme with many colour choices</lt>
+   <mk>an updated/refreshed Faenza-ish icon theme with many colour choices</mk>
+   <mr>an updated/refreshed Faenza-ish icon theme with many colour choices</mr>
+   <nb>an updated/refreshed Faenza-ish icon theme with many colour choices</nb>
+   <nl>een geüpdatet/verfrist icoonthema van Faenza-ish met vele kleurkeuzes</nl>
+   <pl>zaktualizowany/odświeżony motyw ikon Faenza z wieloma opcjami kolorów</pl>
+   <pt_BR>Tema de ícones ao estilo Faenza com muitas opções de cores, actualizado/refrescado</pt_BR>
+   <pt>Tema de ícones ao estilo Faenza com muitas opções de cores, actualizado/refrescado</pt>
+   <ro>an updated/refreshed Faenza-ish icon theme with many colour choices</ro>
+   <ru>Обновленная тема в стиле Faenza с большим выбором цветов</ru>
+   <sk>an updated/refreshed Faenza-ish icon theme with many colour choices</sk>
+   <sl>Posodboljena in osvežena Faenzajevska predloga ikon z mnogobarvnim izborom</sl>
+   <sq>an updated/refreshed Faenza-ish icon theme with many colour choices</sq>
+   <sr>an updated/refreshed Faenza-ish icon theme with many colour choices</sr>
+   <sv>ett uppdaterat/förbättrat Faenza-aktigt ikontema med många färgval</sv>
+   <tr>an updated/refreshed Faenza-ish icon theme with many colour choices</tr>
+   <uk>оновлена тема піктограм Faenza з великим вибором кольорів</uk>
+   <zh_CN>an updated/refreshed Faenza-ish icon theme with many colour choices</zh_CN>
+   <zh_TW>an updated/refreshed Faenza-ish icon theme with many colour choices</zh_TW>
 </description>
 
 <installable>

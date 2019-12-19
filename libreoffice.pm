@@ -10,52 +10,40 @@ LibreOffice
 </name>
 
 <description>
-   <am>Lithuanian localisation of Firefox</am>
-   <ar>Lithuanian localisation of Firefox</ar>
-   <bg>Lithuanian localisation of Firefox</bg>
-   <ca>Localització de Firefox en Lituà</ca>
-   <cs>Lithuanian localisation of Firefox</cs>
-   <da>Litauisk oversættelse af Firefox</da>
-   <de>Litauische Lokalisierung von Firefox</de>
-   <el>Λιθουανικός εντοπισμός του Firefox</el>
-   <en>Lithuanian localisation of Firefox</en>
-   <es>Localización Lituana de Firefox</es>
-   <et>Lithuanian localisation of Firefox</et>
-   <eu>Lithuanian localisation of Firefox</eu>
-   <fa>Lithuanian localisation of Firefox</fa>
-   <fil_PH>Lithuanian localisation of Firefox</fil_PH>
-   <fi>Lithuanian localisation of Firefox</fi>
-   <fr>Localisation lithuanienne pour Firefox</fr>
-   <he_IL>Lithuanian localisation of Firefox</he_IL>
-   <hi>Lithuanian localisation of Firefox</hi>
-   <hr>Lithuanian localisation of Firefox</hr>
-   <hu>Lithuanian localisation of Firefox</hu>
-   <id>Lithuanian localisation of Firefox</id>
-   <is>Lithuanian localisation of Firefox</is>
-   <it>Localizzazione lituana di Firefox</it>
-   <ja_JP>Lithuanian localisation of Firefox</ja_JP>
-   <ja>Lithuanian localisation of Firefox</ja>
-   <kk>Lithuanian localisation of Firefox</kk>
-   <ko>Lithuanian localisation of Firefox</ko>
-   <lt>Lithuanian localisation of Firefox</lt>
-   <mk>Lithuanian localisation of Firefox</mk>
-   <mr>Lithuanian localisation of Firefox</mr>
-   <nb>Lithuanian localisation of Firefox</nb>
-   <nl>Litouwse lokalisatie van Firefox</nl>
-   <pl>Litewska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Lituano Localização para Firefox</pt_BR>
-   <pt>Lituano Localização para Firefox</pt>
-   <ro>Lithuanian localisation of Firefox</ro>
-   <ru>Литовская локализация Firefox</ru>
-   <sk>Lithuanian localisation of Firefox</sk>
-   <sl>Lithuanian localisation of Firefox</sl>
-   <sq>Lithuanian localisation of Firefox</sq>
-   <sr>Lithuanian localisation of Firefox</sr>
-   <sv>Litauisk lokalisering av Firefox</sv>
-   <tr>Firefox'un Litvanyaca yerelleştirmesi</tr>
-   <uk>Lithuanian локалізація Firefox</uk>
-   <zh_CN>Lithuanian localisation of Firefox</zh_CN>
-   <zh_TW>Lithuanian localisation of Firefox</zh_TW>
+   <am>Meta-Package for LibreOffice</am>
+   <ar>Meta-Package for LibreOffice</ar>
+   <bg>Meta-Package for LibreOffice</bg>
+   <cs>Meta-Package for LibreOffice</cs>
+   <de>Englische (US) Meta-paket für LibreOffice</de>
+   <en>Meta-Package for LibreOffice</en>
+   <es>Ayuda Inglesa (EE.UU.) para LiberOffice</es>
+   <et>Meta-Package for LibreOffice</et>
+   <eu>Meta-Package for LibreOffice</eu>
+   <fa>Meta-Package for LibreOffice</fa>
+   <fi>Meta-Package for LibreOffice</fi>
+   <he_IL>Meta-Package for LibreOffice</he_IL>
+   <hi>Meta-Package for LibreOffice</hi>
+   <hr>Meta-Package for LibreOffice</hr>
+   <hu>Meta-Package for LibreOffice</hu>
+   <id>Meta-Package for LibreOffice</id>
+   <is>Meta-Package for LibreOffice</is>
+   <ja_JP>Meta-Package for LibreOffice</ja_JP>
+   <ja>Meta-Package for LibreOffice</ja>
+   <kk>Meta-Package for LibreOffice</kk>
+   <ko>Meta-Package for LibreOffice</ko>
+   <lt>Meta-Package for LibreOffice</lt>
+   <mk>Meta-Package for LibreOffice</mk>
+   <mr>Meta-Package for LibreOffice</mr>
+   <nb>Meta-Package for LibreOffice</nb>
+   <ro>Meta-Package for LibreOffice</ro>
+   <ru>Meta-Package for LibreOffice</ru>
+   <sk>Meta-Package for LibreOffice</sk>
+   <sl>Meta-Package for LibreOffice</sl>
+   <sq>Meta-Package for LibreOffice</sq>
+   <sr>Meta-Package for LibreOffice</sr>
+   <tr>Meta-Package for LibreOffice</tr>
+   <zh_CN>Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Meta-Package for LibreOffice</zh_TW>
 </description>
 
 
@@ -83,7 +71,7 @@ lo-main-helper
 
 <uninstall_package_names>
 libreoffice-base
-libreoffice-calc
+libreoffice-calc 
 libreoffice-draw
 libreoffice-impress
 libreoffice-math

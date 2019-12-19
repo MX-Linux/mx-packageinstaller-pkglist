@@ -10,52 +10,51 @@ Chinese_TW_Thunderbird
 </name>
 
 <description>
-   <am>Latest Chromium browser and language pack</am>
-   <ar>Latest Chromium browser and language pack</ar>
-   <bg>Latest Chromium browser and language pack</bg>
-   <ca>Darrer navegador Chromium i paquets de llengua</ca>
-   <cs>Latest Chromium browser and language pack</cs>
-   <da>Seneste Chromium-browser og -sprogpakke</da>
-   <de>Aktueller Chrombrowser und Sprachpaket</de>
-   <el>Τελευταίο πρόγραμμα περιήγησης Chromium και το πακέτο γλωσσών</el>
-   <en>Latest Chromium browser and language pack</en>
-   <es>El último navegador Chromium con paquete de idioma</es>
-   <et>Latest Chromium browser and language pack</et>
-   <eu>Latest Chromium browser and language pack</eu>
-   <fa>Latest Chromium browser and language pack</fa>
-   <fil_PH>Latest Chromium browser and language pack</fil_PH>
-   <fi>Latest Chromium browser and language pack</fi>
-   <fr>La dernière version de Chromium et son pack de langues</fr>
-   <he_IL>Latest Chromium browser and language pack</he_IL>
-   <hi>Latest Chromium browser and language pack</hi>
-   <hr>Latest Chromium browser and language pack</hr>
-   <hu>Latest Chromium browser and language pack</hu>
-   <id>Latest Chromium browser and language pack</id>
-   <is>Latest Chromium browser and language pack</is>
-   <it>Ultimo browser Chromium con pacchetto della lingua</it>
-   <ja_JP>Latest Chromium browser and language pack</ja_JP>
-   <ja>Latest Chromium browser and language pack</ja>
-   <kk>Latest Chromium browser and language pack</kk>
-   <ko>Latest Chromium browser and language pack</ko>
-   <lt>Latest Chromium browser and language pack</lt>
-   <mk>Latest Chromium browser and language pack</mk>
-   <mr>Latest Chromium browser and language pack</mr>
-   <nb>Latest Chromium browser and language pack</nb>
-   <nl>Meest recente Chromium browser en talen pakket</nl>
-   <pl>najnowsza przeglądarka Chromium i pakiet językowy</pl>
-   <pt_BR>Navegador Chromium mais recente e respectivo pacote de idiomas</pt_BR>
-   <pt>Versão mais recente do navegador Chromium e respectivo pacote de idiomas</pt>
-   <ro>Latest Chromium browser and language pack</ro>
-   <ru>Браузер Chromium последней версии и языковые пакеты</ru>
-   <sk>Posledný Chromium prehliadač a jazykový balík</sk>
-   <sl>Zadnja različica jezikovnega paketa za brskalnik Chromium</sl>
-   <sq>Latest Chromium browser and language pack</sq>
-   <sr>Latest Chromium browser and language pack</sr>
-   <sv>Senaste Chromium webbläsare med språkpaket</sv>
-   <tr>Latest Chromium browser and language pack</tr>
-   <uk>Крайня версія браузера Chromium з пакетом мов</uk>
-   <zh_CN>Latest Chromium browser and language pack</zh_CN>
-   <zh_TW>Latest Chromium browser and language pack</zh_TW>
+   <am>Chinese (Taiwan) localisation of Thunderbird</am>
+   <ar>Chinese (Taiwan) localisation of Thunderbird</ar>
+   <bg>Chinese (Taiwan) localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Xinès de Taiwan</ca>
+   <cs>Chinese (Taiwan) localisation of Thunderbird</cs>
+   <da>Kinesisk (taiwan) oversættelse af Thunderbird</da>
+   <de>Chinesische (traditionell) Lokalisierung von Thunderbird</de>
+   <el>Κινεζικός(Ταϊβάν) εντοπισμός του Thunderbird</el>
+   <en>Chinese (Taiwan) localisation of Thunderbird</en>
+   <es>Localización Chino (Taiwán) de Thunderbird</es>
+   <et>Chinese (Taiwan) localisation of Thunderbird</et>
+   <eu>Chinese (Taiwan) localisation of Thunderbird</eu>
+   <fa>Chinese (Taiwan) localisation of Thunderbird</fa>
+   <fi>Chinese (Taiwan) localisation of Thunderbird</fi>
+   <fr>Localisation chinois (Taiwan) pour Thunderbird</fr>
+   <he_IL>Chinese (Taiwan) localisation of Thunderbird</he_IL>
+   <hi>Chinese (Taiwan) localisation of Thunderbird</hi>
+   <hr>Chinese (Taiwan) localisation of Thunderbird</hr>
+   <hu>Chinese (Taiwan) localisation of Thunderbird</hu>
+   <id>Chinese (Taiwan) localisation of Thunderbird</id>
+   <is>Chinese (Taiwan) localisation of Thunderbird</is>
+   <it>Localizzazione cinese (Taiwan) di Thunderbird</it>
+   <ja_JP>Chinese (Taiwan) localisation of Thunderbird</ja_JP>
+   <ja>Chinese (Taiwan) localisation of Thunderbird</ja>
+   <kk>Chinese (Taiwan) localisation of Thunderbird</kk>
+   <ko>Chinese (Taiwan) localisation of Thunderbird</ko>
+   <lt>Chinese (Taiwan) localisation of Thunderbird</lt>
+   <mk>Chinese (Taiwan) localisation of Thunderbird</mk>
+   <mr>Chinese (Taiwan) localisation of Thunderbird</mr>
+   <nb>Chinese (Taiwan) localisation of Thunderbird</nb>
+   <nl>Chinese (Taiwan) lokalisatie van Thunderbird</nl>
+   <pl>Chiński (Tajwan) lokalizacja Thunderbirda</pl>
+   <pt_BR>Chinês (Taiwan) Localização para Thunderbird</pt_BR>
+   <pt>Chinês (Taiwan) Localização para Thunderbird</pt>
+   <ro>Chinese (Taiwan) localisation of Thunderbird</ro>
+   <ru>Chinese (Taiwan) localisation of Thunderbird</ru>
+   <sk>Chinese (Taiwan) localisation of Thunderbird</sk>
+   <sl>Chinese (Taiwan) localisation of Thunderbird</sl>
+   <sq>Chinese (Taiwan) localisation of Thunderbird</sq>
+   <sr>Chinese (Taiwan) localisation of Thunderbird</sr>
+   <sv>Kinesisk (Taiwan) lokalisering av Thunderbird</sv>
+   <tr>Chinese (Taiwan) localisation of Thunderbird</tr>
+   <uk>Chinese (Taiwan) локалізація Thunderbird</uk>
+   <zh_CN>Chinese (Taiwan) localisation of Thunderbird</zh_CN>
+   <zh_TW>Chinese (Taiwan) localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

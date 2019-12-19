@@ -10,52 +10,51 @@ Budgie Desktop
 </name>
 
 <description>
-   <am>Bulgarian localisation of Firefox</am>
-   <ar>Bulgarian localisation of Firefox</ar>
-   <bg>Bulgarian localisation of Firefox</bg>
-   <ca>Localització de Firefox en Búlgar</ca>
-   <cs>Bulgarian localisation of Firefox</cs>
-   <da>Bulgarsk oversættelse af Firefox</da>
-   <de>Bulgarische Lokalisierung von Firefox</de>
-   <el>Βουλγαρικό εντοπισμό του Firefox</el>
-   <en>Bulgarian localisation of Firefox</en>
-   <es>Localización Búlgaro de Firefox</es>
-   <et>Bulgarian localisation of Firefox</et>
-   <eu>Bulgarian localisation of Firefox</eu>
-   <fa>Bulgarian localisation of Firefox</fa>
-   <fil_PH>Bulgarian localisation of Firefox</fil_PH>
-   <fi>Bulgarian localisation of Firefox</fi>
-   <fr>Localisation bulgare pour Firefox</fr>
-   <he_IL>Bulgarian localisation of Firefox</he_IL>
-   <hi>Bulgarian localisation of Firefox</hi>
-   <hr>Bulgarian localisation of Firefox</hr>
-   <hu>Bulgarian localisation of Firefox</hu>
-   <id>Bulgarian localisation of Firefox</id>
-   <is>Bulgarian localisation of Firefox</is>
-   <it>Localizzazione bulgara di Firefox</it>
-   <ja_JP>Bulgarian localisation of Firefox</ja_JP>
-   <ja>Bulgarian localisation of Firefox</ja>
-   <kk>Bulgarian localisation of Firefox</kk>
-   <ko>Bulgarian localisation of Firefox</ko>
-   <lt>Bulgarian localisation of Firefox</lt>
-   <mk>Bulgarian localisation of Firefox</mk>
-   <mr>Bulgarian localisation of Firefox</mr>
-   <nb>Bulgarian localisation of Firefox</nb>
-   <nl>Bulgaarse lokalisatie van Firefox</nl>
-   <pl>Bułgarska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Búlgaro Localização para Firefox</pt_BR>
-   <pt>Búlgaro Localização para Firefox</pt>
-   <ro>Bulgarian localisation of Firefox</ro>
-   <ru>Болгарская локализация Firefox</ru>
-   <sk>Bulgarian localisation of Firefox</sk>
-   <sl>Bulgarian localisation of Firefox</sl>
-   <sq>Bulgarian localisation of Firefox</sq>
-   <sr>Bulgarian localisation of Firefox</sr>
-   <sv>Bulgarisk lokalisering av  Firefox</sv>
-   <tr>Firefox'un Bulgarca yerelleştirmesi</tr>
-   <uk>Bulgarian локалізація Firefox</uk>
-   <zh_CN>Bulgarian localisation of Firefox</zh_CN>
-   <zh_TW>Bulgarian localisation of Firefox</zh_TW>
+   <am>a lightweight desktop environment</am>
+   <ar>a lightweight desktop environment</ar>
+   <bg>a lightweight desktop environment</bg>
+   <ca>Entorn d'escriptori lleuger</ca>
+   <cs>a lightweight desktop environment</cs>
+   <da>et letvægts skrivebordsmiljø</da>
+   <de>Eine leichtgewichtige Desktop-Umgebung</de>
+   <el>ένα ελαφρύ περιβάλλον επιφάνειας εργασίας</el>
+   <en>a lightweight desktop environment</en>
+   <es>Entorno de escritorio liviano</es>
+   <et>a lightweight desktop environment</et>
+   <eu>a lightweight desktop environment</eu>
+   <fa>a lightweight desktop environment</fa>
+   <fi>kevyt työpöytäympäristö</fi>
+   <fr>Un environnement léger de bureau</fr>
+   <he_IL>a lightweight desktop environment</he_IL>
+   <hi>a lightweight desktop environment</hi>
+   <hr>lagano radno okruženje</hr>
+   <hu>a lightweight desktop environment</hu>
+   <id>a lightweight desktop environment</id>
+   <is>a lightweight desktop environment</is>
+   <it>Un ambiente desktop leggero</it>
+   <ja_JP>a lightweight desktop environment</ja_JP>
+   <ja>a lightweight desktop environment</ja>
+   <kk>a lightweight desktop environment</kk>
+   <ko>a lightweight desktop environment</ko>
+   <lt>supaprastinta darbalaukio aplinka</lt>
+   <mk>a lightweight desktop environment</mk>
+   <mr>a lightweight desktop environment</mr>
+   <nb>a lightweight desktop environment</nb>
+   <nl>een lichtgewicht desktop omgeving</nl>
+   <pl>lekkie środowisko graficzne</pl>
+   <pt_BR>Ambiente de Trabalho simples e ligeiro</pt_BR>
+   <pt>Ambiente de Trabalho simples e ligeiro</pt>
+   <ro>a lightweight desktop environment</ro>
+   <ru>Легковесное окружение рабочего стола</ru>
+   <sk>a lightweight desktop environment</sk>
+   <sl>lahko namizno okolje</sl>
+   <sq>a lightweight desktop environment</sq>
+   <sr>a lightweight desktop environment</sr>
+   <sv>en lättvikts skrivbordsmiljö</sv>
+   <tr>a lightweight desktop environment</tr>
+   <uk>легке оточення стільниці</uk>
+   <zh_CN>a lightweight desktop environment</zh_CN>
+   <zh_TW>a lightweight desktop environment</zh_TW>
 </description>
 
 <installable>

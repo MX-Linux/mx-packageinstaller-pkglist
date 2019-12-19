@@ -10,52 +10,51 @@ Korean_Firefox
 </name>
 
 <description>
-   <am>Korean Fonts and fcitx</am>
-   <ar>Korean Fonts and fcitx</ar>
-   <bg>Korean Fonts and fcitx</bg>
-   <ca>Tipus de lletra i fcitx per Coreà</ca>
-   <cs>Korean Fonts and fcitx</cs>
-   <da>Koreansk skrifttyper og fcitx</da>
-   <de>Koreanische Schriftzeichen und Fcitx</de>
-   <el>Κορεατικές γραμματοσειρές και fcitx</el>
-   <en>Korean Fonts and fcitx</en>
-   <es>Fuentes Coreanas y fcitx</es>
-   <et>Korean Fonts and fcitx</et>
-   <eu>Korean Fonts and fcitx</eu>
-   <fa>Korean Fonts and fcitx</fa>
-   <fil_PH>Korean Fonts and fcitx</fil_PH>
-   <fi>Korean Fonts and fcitx</fi>
-   <fr>Polices coréennes et fcitx</fr>
-   <he_IL>Korean Fonts and fcitx</he_IL>
-   <hi>Korean Fonts and fcitx</hi>
-   <hr>Korean Fonts and fcitx</hr>
-   <hu>Korean Fonts and fcitx</hu>
-   <id>Korean Fonts and fcitx</id>
-   <is>Korean Fonts and fcitx</is>
-   <it>Font coreani e fcitx</it>
-   <ja_JP>Korean Fonts and fcitx</ja_JP>
-   <ja>Korean Fonts and fcitx</ja>
-   <kk>Korean Fonts and fcitx</kk>
-   <ko>Korean Fonts and fcitx</ko>
-   <lt>Korėjietiški šriftai ir fcitx</lt>
-   <mk>Korean Fonts and fcitx</mk>
-   <mr>Korean Fonts and fcitx</mr>
-   <nb>Korean Fonts and fcitx</nb>
-   <nl>Koreaanse Fonts en fcitx</nl>
-   <pl>Koreańskie fonty i fcitx</pl>
-   <pt_BR>Coreano Fontes e fcitx</pt_BR>
-   <pt>Coreano Fontes e fcitx</pt>
-   <ro>Korean Fonts and fcitx</ro>
-   <ru>Korean Fonts and fcitx</ru>
-   <sk>Korean Fonts and fcitx</sk>
-   <sl>Korean Fonts and fcitx</sl>
-   <sq>Korean Fonts and fcitx</sq>
-   <sr>Korean Fonts and fcitx</sr>
-   <sv>Koreanska Typsnitt och fcitx</sv>
-   <tr>Korean Fonts and fcitx</tr>
-   <uk>Korean Fonts and fcitx</uk>
-   <zh_CN>Korean Fonts and fcitx</zh_CN>
-   <zh_TW>Korean Fonts and fcitx</zh_TW>
+   <am>Korean localisation of Firefox</am>
+   <ar>Korean localisation of Firefox</ar>
+   <bg>Korean localisation of Firefox</bg>
+   <ca>Localització de Firefox en Coreà</ca>
+   <cs>Korean localisation of Firefox</cs>
+   <da>Koreansk oversættelse af Firefox</da>
+   <de>Koreanische Lokalisierung von Firefox</de>
+   <el>Κορεατικός εντοπισμός του Firefox</el>
+   <en>Korean localisation of Firefox</en>
+   <es>Localización Coreana de Firefox</es>
+   <et>Korean localisation of Firefox</et>
+   <eu>Korean localisation of Firefox</eu>
+   <fa>Korean localisation of Firefox</fa>
+   <fi>Korean localisation of Firefox</fi>
+   <fr>Localisation coréenne pour Firefox</fr>
+   <he_IL>Korean localisation of Firefox</he_IL>
+   <hi>Korean localisation of Firefox</hi>
+   <hr>Korean localisation of Firefox</hr>
+   <hu>Korean localisation of Firefox</hu>
+   <id>Korean localisation of Firefox</id>
+   <is>Korean localisation of Firefox</is>
+   <it>Localizzazione coreana di Firefox</it>
+   <ja_JP>Korean localisation of Firefox</ja_JP>
+   <ja>Korean localisation of Firefox</ja>
+   <kk>Korean localisation of Firefox</kk>
+   <ko>Korean localisation of Firefox</ko>
+   <lt>Korean localisation of Firefox</lt>
+   <mk>Korean localisation of Firefox</mk>
+   <mr>Korean localisation of Firefox</mr>
+   <nb>Korean localisation of Firefox</nb>
+   <nl>Koreaanse lokalisatie van Firefox</nl>
+   <pl>Koreańska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Coreano Localização para Firefox</pt_BR>
+   <pt>Coreano Localização para Firefox</pt>
+   <ro>Korean localisation of Firefox</ro>
+   <ru>Корейская локализация Firefox</ru>
+   <sk>Korean localisation of Firefox</sk>
+   <sl>Korean localisation of Firefox</sl>
+   <sq>Korean localisation of Firefox</sq>
+   <sr>Korean localisation of Firefox</sr>
+   <sv>Koreansk lokalisering av Firefox</sv>
+   <tr>Korean localisation of Firefox</tr>
+   <uk>Korean локалізація Firefox</uk>
+   <zh_CN>Korean localisation of Firefox</zh_CN>
+   <zh_TW>Korean localisation of Firefox</zh_TW>
 </description>
 
 <installable>

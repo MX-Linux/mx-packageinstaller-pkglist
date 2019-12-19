@@ -10,52 +10,51 @@ Asturian_Libreoffice
 </name>
 
 <description>
-   <am>atom text editor IDE</am>
-   <ar>atom text editor IDE</ar>
-   <bg>atom text editor IDE</bg>
-   <ca>atom editor de text IDE</ca>
-   <cs>atom text editor IDE</cs>
-   <da>atom-tekstredigerings-IDE</da>
-   <de>IDE des Atom Textprogramms</de>
-   <el>πρόγραμμα επεξεργασίας κειμένου IDE</el>
-   <en>atom text editor IDE</en>
-   <es>Editor de texto atom IDE</es>
-   <et>atom text editor IDE</et>
-   <eu>atom text editor IDE</eu>
-   <fa>atom text editor IDE</fa>
-   <fil_PH>atom text editor IDE</fil_PH>
-   <fi>atom text editor IDE</fi>
-   <fr>IDE pour l'éditeur de texte Atom</fr>
-   <he_IL>atom text editor IDE</he_IL>
-   <hi>atom text editor IDE</hi>
-   <hr>atom text editor IDE</hr>
-   <hu>atom text editor IDE</hu>
-   <id>atom text editor IDE</id>
-   <is>atom text editor IDE</is>
-   <it>atom editor di testo IDE</it>
-   <ja_JP>atom text editor IDE</ja_JP>
-   <ja>atom text editor IDE</ja>
-   <kk>atom text editor IDE</kk>
-   <ko>atom text editor IDE</ko>
-   <lt>atom text editor IDE</lt>
-   <mk>atom text editor IDE</mk>
-   <mr>atom text editor IDE</mr>
-   <nb>atom text editor IDE</nb>
-   <nl>atom text editor IDE</nl>
-   <pl>edytor tekstu atom IDE</pl>
-   <pt_BR>Editor de texto / IDE (Integrated Development Environment)</pt_BR>
-   <pt>Editor de texto / IDE (Integrated Development Environment)</pt>
-   <ro>atom text editor IDE</ro>
-   <ru>Текстовый редактор и среда разработки Atom</ru>
-   <sk>atom textový editor a IDE</sk>
-   <sl>atom IDE urejevalnik teksta</sl>
-   <sq>atom text editor IDE</sq>
-   <sr>atom text editor IDE</sr>
-   <sv>atom textredigerare IDE</sv>
-   <tr>atom text editor IDE</tr>
-   <uk>atom text editor IDE</uk>
-   <zh_CN>atom text editor IDE</zh_CN>
-   <zh_TW>atom text editor IDE</zh_TW>
+   <am>Asturian Language Meta-Package for LibreOffice</am>
+   <ar>Asturian Language Meta-Package for LibreOffice</ar>
+   <bg>Asturian Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Asturian per LibreOffice</ca>
+   <cs>Asturian Language Meta-Package for LibreOffice</cs>
+   <da>Asturian sprog-metapakke til LibreOffice</da>
+   <de>Asturian Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Asturian</el>
+   <en>Asturian Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Asturian para LibreOffice</es>
+   <et>Asturian Language Meta-Package for LibreOffice</et>
+   <eu>Asturian Language Meta-Package for LibreOffice</eu>
+   <fa>Asturian Language Meta-Package for LibreOffice</fa>
+   <fi>Asturian Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Asturian pour LibreOffice</fr>
+   <he_IL>Asturian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Asturian Language Meta-Package for LibreOffice</hi>
+   <hr>Asturian Language Meta-Package for LibreOffice</hr>
+   <hu>Asturian Language Meta-Package for LibreOffice</hu>
+   <id>Asturian Language Meta-Package for LibreOffice</id>
+   <is>Asturian Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Asturian per LibreOffice</it>
+   <ja_JP>Asturian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Asturian Language Meta-Package for LibreOffice</ja>
+   <kk>Asturian Language Meta-Package for LibreOffice</kk>
+   <ko>Asturian Language Meta-Package for LibreOffice</ko>
+   <lt>Asturian Language Meta-Package for LibreOffice</lt>
+   <mk>Asturian Language Meta-Package for LibreOffice</mk>
+   <mr>Asturian Language Meta-Package for LibreOffice</mr>
+   <nb>Asturian Language Meta-Package for LibreOffice</nb>
+   <nl>Asturian Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Asturian metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Asturian Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Asturian Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Asturian Language Meta-Package for LibreOffice</ro>
+   <ru>Asturian Language Meta-Package for LibreOffice</ru>
+   <sk>Asturian Language Meta-Package for LibreOffice</sk>
+   <sl>Asturian Language Meta-Package for LibreOffice</sl>
+   <sq>Asturian Language Meta-Package for LibreOffice</sq>
+   <sr>Asturian Language Meta-Package for LibreOffice</sr>
+   <sv>Asturian Språk Meta-Paket för LibreOffice</sv>
+   <tr>Asturian Language Meta-Package for LibreOffice</tr>
+   <uk>Asturian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Asturian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Asturian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

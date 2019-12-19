@@ -10,52 +10,51 @@ Open Drive
 </name>
 
 <description>
-   <am>a universal document viewer -WARNING- pulls in elements of KDE</am>
-   <ar>a universal document viewer -WARNING- pulls in elements of KDE</ar>
-   <bg>a universal document viewer -WARNING- pulls in elements of KDE</bg>
-   <ca>visor de documents universal: COMPTE! descarrega elements de KDE</ca>
-   <cs>a universal document viewer -WARNING- pulls in elements of KDE</cs>
-   <da>en universel dokumentfremviser -ADVARSEL- trækker elementer fra KDE</da>
-   <de>Ein universeller Dokumentbetrachter -WARNUNG- zieht Elemente von KDE ein</de>
-   <el>ένα γενικό πρόγραμμα προβολής εγγράφων-ΠΡΟΕΙΔΟΠΟΙΗΣΗ- τραβάει στοιχεία του KDE</el>
-   <en>a universal document viewer -WARNING- pulls in elements of KDE</en>
-   <es>Visualizador universal de documentos -ADVERTENCIA- instala elementos de KDE</es>
-   <et>a universal document viewer -WARNING- pulls in elements of KDE</et>
-   <eu>a universal document viewer -WARNING- pulls in elements of KDE</eu>
-   <fa>a universal document viewer -WARNING- pulls in elements of KDE</fa>
-   <fil_PH>a universal document viewer -WARNING- pulls in elements of KDE</fil_PH>
-   <fi>a universal document viewer -WARNING- pulls in elements of KDE</fi>
-   <fr>Visionneuse universelle de documments -ATTENTION- nécessite et installe des dépendances KDE</fr>
-   <he_IL>a universal document viewer -WARNING- pulls in elements of KDE</he_IL>
-   <hi>a universal document viewer -WARNING- pulls in elements of KDE</hi>
-   <hr>a universal document viewer -WARNING- pulls in elements of KDE</hr>
-   <hu>a universal document viewer -WARNING- pulls in elements of KDE</hu>
-   <id>a universal document viewer -WARNING- pulls in elements of KDE</id>
-   <is>a universal document viewer -WARNING- pulls in elements of KDE</is>
-   <it>un visualizzatore universale di documenti -ATTENZIONE- richiama elementi di KDE</it>
-   <ja_JP>a universal document viewer -WARNING- pulls in elements of KDE</ja_JP>
-   <ja>a universal document viewer -WARNING- pulls in elements of KDE</ja>
-   <kk>a universal document viewer -WARNING- pulls in elements of KDE</kk>
-   <ko>a universal document viewer -WARNING- pulls in elements of KDE</ko>
-   <lt>a universal document viewer -WARNING- pulls in elements of KDE</lt>
-   <mk>a universal document viewer -WARNING- pulls in elements of KDE</mk>
-   <mr>a universal document viewer -WARNING- pulls in elements of KDE</mr>
-   <nb>a universal document viewer -WARNING- pulls in elements of KDE</nb>
-   <nl>een universele document lezer -WAARSCHUWING- installeert elementen van KDE</nl>
-   <pl>uniwersalna przeglądarka dokumentów - OSTRZEŻENIE - zawiera elementy KDE</pl>
-   <pt_BR>Visualizador de documentos universal -AVISO- instala elementos do Ambiente de Trabalho KDE</pt_BR>
-   <pt>Visualizador de documentos universal -AVISO- instala elementos do Ambiente de Trabalho KDE</pt>
-   <ro>a universal document viewer -WARNING- pulls in elements of KDE</ro>
-   <ru>Универсальный просмотрщик документов -ВНИМАНИЕ- тянет с собой элементы KDE</ru>
-   <sk>a universal document viewer -WARNING- pulls in elements of KDE</sk>
-   <sl>Univerzalni pregledovalnik dokumentov - POZOR - uporablja dele KDE okolja</sl>
-   <sq>a universal document viewer -WARNING- pulls in elements of KDE</sq>
-   <sr>a universal document viewer -WARNING- pulls in elements of KDE</sr>
-   <sv>en universiell dokumentläsare -Varning- drar in delar av KDE</sv>
-   <tr>a universal document viewer -WARNING- pulls in elements of KDE</tr>
-   <uk>універсальний переглядач документів -ПОПЕРЕДЖЕННЯ- потребує елементи KDE</uk>
-   <zh_CN>a universal document viewer -WARNING- pulls in elements of KDE</zh_CN>
-   <zh_TW>a universal document viewer -WARNING- pulls in elements of KDE</zh_TW>
+   <am>Multi-service cloud storage sync client</am>
+   <ar>Multi-service cloud storage sync client</ar>
+   <bg>Multi-service cloud storage sync client</bg>
+   <ca>Multi-service cloud storage sync client</ca>
+   <cs>Multi-service cloud storage sync client</cs>
+   <da>Multi-service cloud storage sync client</da>
+   <de>Multi-service cloud storage sync client</de>
+   <el>Προγραμματιστής συγχρονισμού αποθήκευσης cloud πολλαπλών υπηρεσιών</el>
+   <en>Multi-service cloud storage sync client</en>
+   <es>Multi-service cloud storage sync client</es>
+   <et>Multi-service cloud storage sync client</et>
+   <eu>Multi-service cloud storage sync client</eu>
+   <fa>Multi-service cloud storage sync client</fa>
+   <fi>Multi-service cloud storage sync client</fi>
+   <fr>Multi-service cloud storage sync client</fr>
+   <he_IL>Multi-service cloud storage sync client</he_IL>
+   <hi>Multi-service cloud storage sync client</hi>
+   <hr>Multi-service cloud storage sync client</hr>
+   <hu>Multi-service cloud storage sync client</hu>
+   <id>Multi-service cloud storage sync client</id>
+   <is>Multi-service cloud storage sync client</is>
+   <it>Client di sincronizzazione di archiviazione cloud multi-servizio</it>
+   <ja_JP>Multi-service cloud storage sync client</ja_JP>
+   <ja>Multi-service cloud storage sync client</ja>
+   <kk>Multi-service cloud storage sync client</kk>
+   <ko>Multi-service cloud storage sync client</ko>
+   <lt>Multi-service cloud storage sync client</lt>
+   <mk>Multi-service cloud storage sync client</mk>
+   <mr>Multi-service cloud storage sync client</mr>
+   <nb>Multi-service cloud storage sync client</nb>
+   <nl>Multi-service cloud-opslag synchronisatieclient</nl>
+   <pl>Multi-service cloud storage sync client</pl>
+   <pt_BR>Multi-service cloud storage sync client</pt_BR>
+   <pt>Cliente de sincronização de armazenamento em cloud multi-serviços</pt>
+   <ro>Multi-service cloud storage sync client</ro>
+   <ru>Multi-service cloud storage sync client</ru>
+   <sk>Multi-service cloud storage sync client</sk>
+   <sl>Multi-service cloud storage sync client</sl>
+   <sq>Multi-service cloud storage sync client</sq>
+   <sr>Multi-service cloud storage sync client</sr>
+   <sv>Multi-service cloud storage sync client</sv>
+   <tr>Multi-service cloud storage sync client</tr>
+   <uk>Multi-service cloud storage sync client</uk>
+   <zh_CN>Multi-service cloud storage sync client</zh_CN>
+   <zh_TW>Multi-service cloud storage sync client</zh_TW>
 </description>
 
 <installable>

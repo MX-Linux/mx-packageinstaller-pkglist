@@ -10,52 +10,51 @@ Tswana_Libreoffice
 </name>
 
 <description>
-   <am>Turkish localisation of Firefox</am>
-   <ar>Turkish localisation of Firefox</ar>
-   <bg>Turkish localisation of Firefox</bg>
-   <ca>Localització de Firefox en Turc</ca>
-   <cs>Turkish localisation of Firefox</cs>
-   <da>Tyrkisk oversættelse af Firefox</da>
-   <de>Türkische Lokalisierung von Firefox</de>
-   <el>Τουρκικός εντοπισμός του Firefox</el>
-   <en>Turkish localisation of Firefox</en>
-   <es>Localización Turca de Firefox</es>
-   <et>Turkish localisation of Firefox</et>
-   <eu>Turkish localisation of Firefox</eu>
-   <fa>Turkish localisation of Firefox</fa>
-   <fil_PH>Turkish localisation of Firefox</fil_PH>
-   <fi>Turkish localisation of Firefox</fi>
-   <fr>Localisation turque pour Firefox</fr>
-   <he_IL>Turkish localisation of Firefox</he_IL>
-   <hi>Turkish localisation of Firefox</hi>
-   <hr>Turkish localisation of Firefox</hr>
-   <hu>Turkish localisation of Firefox</hu>
-   <id>Turkish localisation of Firefox</id>
-   <is>Turkish localisation of Firefox</is>
-   <it>Localizzazione turca di Firefox</it>
-   <ja_JP>Turkish localisation of Firefox</ja_JP>
-   <ja>Turkish localisation of Firefox</ja>
-   <kk>Turkish localisation of Firefox</kk>
-   <ko>Turkish localisation of Firefox</ko>
-   <lt>Turkish localisation of Firefox</lt>
-   <mk>Turkish localisation of Firefox</mk>
-   <mr>Turkish localisation of Firefox</mr>
-   <nb>Turkish localisation of Firefox</nb>
-   <nl>Turkse lokalisatie van Firefox</nl>
-   <pl>Turecka lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Turco Localização para Firefox</pt_BR>
-   <pt>Turco Localização para Firefox</pt>
-   <ro>Turkish localisation of Firefox</ro>
-   <ru>Турецкая локализация Firefox</ru>
-   <sk>Turkish localisation of Firefox</sk>
-   <sl>Turkish localisation of Firefox</sl>
-   <sq>Turkish localisation of Firefox</sq>
-   <sr>Turkish localisation of Firefox</sr>
-   <sv>Turkisk lokalisering av Firefox</sv>
-   <tr>Firefox'un Türkçe yerelleştirmesi</tr>
-   <uk>Turkish localisation of Firefox</uk>
-   <zh_CN>Turkish localisation of Firefox</zh_CN>
-   <zh_TW>Turkish localisation of Firefox</zh_TW>
+   <am>Tswana Language Meta-Package for LibreOffice</am>
+   <ar>Tswana Language Meta-Package for LibreOffice</ar>
+   <bg>Tswana Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Tswana per LibreOffice</ca>
+   <cs>Tswana Language Meta-Package for LibreOffice</cs>
+   <da>Tswana sprog-metapakke til LibreOffice</da>
+   <de>Tswana Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Tswana</el>
+   <en>Tswana Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Tswana para LibreOffice</es>
+   <et>Tswana Language Meta-Package for LibreOffice</et>
+   <eu>Tswana Language Meta-Package for LibreOffice</eu>
+   <fa>Tswana Language Meta-Package for LibreOffice</fa>
+   <fi>Tswana Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Tswana pour LibreOffice</fr>
+   <he_IL>Tswana Language Meta-Package for LibreOffice</he_IL>
+   <hi>Tswana Language Meta-Package for LibreOffice</hi>
+   <hr>Tswana Language Meta-Package for LibreOffice</hr>
+   <hu>Tswana Language Meta-Package for LibreOffice</hu>
+   <id>Tswana Language Meta-Package for LibreOffice</id>
+   <is>Tswana Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Tswana per LibreOffice</it>
+   <ja_JP>Tswana Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Tswana Language Meta-Package for LibreOffice</ja>
+   <kk>Tswana Language Meta-Package for LibreOffice</kk>
+   <ko>Tswana Language Meta-Package for LibreOffice</ko>
+   <lt>Tswana Language Meta-Package for LibreOffice</lt>
+   <mk>Tswana Language Meta-Package for LibreOffice</mk>
+   <mr>Tswana Language Meta-Package for LibreOffice</mr>
+   <nb>Tswana Language Meta-Package for LibreOffice</nb>
+   <nl>Tswana Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Tswana metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Tswana Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Tswana Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Tswana Language Meta-Package for LibreOffice</ro>
+   <ru>Tswana Language Meta-Package for LibreOffice</ru>
+   <sk>Tswana Language Meta-Package for LibreOffice</sk>
+   <sl>Tswana Language Meta-Package for LibreOffice</sl>
+   <sq>Tswana Language Meta-Package for LibreOffice</sq>
+   <sr>Tswana Language Meta-Package for LibreOffice</sr>
+   <sv>Tswana Språk Meta-Paket för LibreOffice</sv>
+   <tr>Tswana Language Meta-Package for LibreOffice</tr>
+   <uk>Tswana Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Tswana Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Tswana Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

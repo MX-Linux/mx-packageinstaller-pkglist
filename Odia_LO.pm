@@ -10,52 +10,51 @@ Odia_Libreoffice
 </name>
 
 <description>
-   <am>Multi-service cloud storage sync client</am>
-   <ar>Multi-service cloud storage sync client</ar>
-   <bg>Multi-service cloud storage sync client</bg>
-   <ca>Client multi-servei d'emmagatzematge al núvol</ca>
-   <cs>Multi-service cloud storage sync client</cs>
-   <da>Multi-service cloud storage sync client</da>
-   <de>Synchronisationanwendung für Mehrfachdienste bei Cloudspeicherung</de>
-   <el>Προγραμματιστής συγχρονισμού αποθήκευσης cloud πολλαπλών υπηρεσιών</el>
-   <en>Multi-service cloud storage sync client</en>
-   <es>Cliente de almacenamiento en la nube sincronizado de varios servicios</es>
-   <et>Multi-service cloud storage sync client</et>
-   <eu>Multi-service cloud storage sync client</eu>
-   <fa>Multi-service cloud storage sync client</fa>
-   <fil_PH>Multi-service cloud storage sync client</fil_PH>
-   <fi>Multi-service cloud storage sync client</fi>
-   <fr>Client multi-service de synchronisation de stockage dans le cloud</fr>
-   <he_IL>Multi-service cloud storage sync client</he_IL>
-   <hi>Multi-service cloud storage sync client</hi>
-   <hr>Multi-service cloud storage sync client</hr>
-   <hu>Multi-service cloud storage sync client</hu>
-   <id>Multi-service cloud storage sync client</id>
-   <is>Multi-service cloud storage sync client</is>
-   <it>Client di sincronizzazione di archiviazione cloud multi-servizio</it>
-   <ja_JP>Multi-service cloud storage sync client</ja_JP>
-   <ja>Multi-service cloud storage sync client</ja>
-   <kk>Multi-service cloud storage sync client</kk>
-   <ko>Multi-service cloud storage sync client</ko>
-   <lt>Multi-service cloud storage sync client</lt>
-   <mk>Multi-service cloud storage sync client</mk>
-   <mr>Multi-service cloud storage sync client</mr>
-   <nb>Multi-service cloud storage sync client</nb>
-   <nl>Multi-service cloud-opslag synchronisatieclient</nl>
-   <pl>Multi-service cloud storage sync client</pl>
-   <pt_BR>Cliente multi-serviços de sincronização de armazenamento em cloud</pt_BR>
-   <pt>Cliente de sincronização de armazenamento em cloud multi-serviços</pt>
-   <ro>Multi-service cloud storage sync client</ro>
-   <ru>Клиент синхронизации разнообразных облачных хранилищ</ru>
-   <sk>Multi-service cloud storage sync client</sk>
-   <sl>Odjemalec za sinhroniziacijo več oblačnih storitev</sl>
-   <sq>Multi-service cloud storage sync client</sq>
-   <sr>Multi-service cloud storage sync client</sr>
-   <sv>Multi-service molnlagrings synk-klient</sv>
-   <tr>Multi-service cloud storage sync client</tr>
-   <uk>Multi-service cloud storage sync client</uk>
-   <zh_CN>Multi-service cloud storage sync client</zh_CN>
-   <zh_TW>Multi-service cloud storage sync client</zh_TW>
+   <am>Odia Language Meta-Package for LibreOffice</am>
+   <ar>Odia Language Meta-Package for LibreOffice</ar>
+   <bg>Odia Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Odia per LibreOffice</ca>
+   <cs>Odia Language Meta-Package for LibreOffice</cs>
+   <da>Odia sprog-metapakke til LibreOffice</da>
+   <de>Odia Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Odia</el>
+   <en>Odia Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Odia para LibreOffice</es>
+   <et>Odia Language Meta-Package for LibreOffice</et>
+   <eu>Odia Language Meta-Package for LibreOffice</eu>
+   <fa>Odia Language Meta-Package for LibreOffice</fa>
+   <fi>Odia Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Odia pour LibreOffice</fr>
+   <he_IL>Odia Language Meta-Package for LibreOffice</he_IL>
+   <hi>Odia Language Meta-Package for LibreOffice</hi>
+   <hr>Odia Language Meta-Package for LibreOffice</hr>
+   <hu>Odia Language Meta-Package for LibreOffice</hu>
+   <id>Odia Language Meta-Package for LibreOffice</id>
+   <is>Odia Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Odia per LibreOffice</it>
+   <ja_JP>Odia Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Odia Language Meta-Package for LibreOffice</ja>
+   <kk>Odia Language Meta-Package for LibreOffice</kk>
+   <ko>Odia Language Meta-Package for LibreOffice</ko>
+   <lt>Odia Language Meta-Package for LibreOffice</lt>
+   <mk>Odia Language Meta-Package for LibreOffice</mk>
+   <mr>Odia Language Meta-Package for LibreOffice</mr>
+   <nb>Odia Language Meta-Package for LibreOffice</nb>
+   <nl>Odia Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Odia metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Odia Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Odia Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Odia Language Meta-Package for LibreOffice</ro>
+   <ru>Odia Language Meta-Package for LibreOffice</ru>
+   <sk>Odia Language Meta-Package for LibreOffice</sk>
+   <sl>Odia Language Meta-Package for LibreOffice</sl>
+   <sq>Odia Language Meta-Package for LibreOffice</sq>
+   <sr>Odia Language Meta-Package for LibreOffice</sr>
+   <sv>Odia Språk Meta-Paket för LibreOffice</sv>
+   <tr>Odia Language Meta-Package for LibreOffice</tr>
+   <uk>Odia Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Odia Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Odia Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

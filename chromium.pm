@@ -10,52 +10,51 @@ Chromium
 </name>
 
 <description>
-   <am>Claws Mail lightweight email client</am>
-   <ar>Claws Mail lightweight email client</ar>
-   <bg>Claws Mail lightweight email client</bg>
-   <ca>Client de correu lleuger Claws Mail</ca>
-   <cs>Claws Mail lightweight email client</cs>
-   <da>Claws Mail letsvægts e-mailklient</da>
-   <de>Claws Mail leichtgewichtiger E-Mail-Client</de>
-   <el>ελαφρύ πελάτη ηλεκτρονικού ταχυδρομείου</el>
-   <en>Claws Mail lightweight email client</en>
-   <es>Cliente de correo electrónico liviano Claws Mail</es>
-   <et>Claws Mail lightweight email client</et>
-   <eu>Claws Mail lightweight email client</eu>
-   <fa>Claws Mail lightweight email client</fa>
-   <fil_PH>Claws Mail lightweight email client</fil_PH>
-   <fi>Claws Mail lightweight email client</fi>
-   <fr>Client mail léger Claws Mail</fr>
-   <he_IL>Claws Mail lightweight email client</he_IL>
-   <hi>Claws Mail lightweight email client</hi>
-   <hr>Claws Mail lightweight email client</hr>
-   <hu>Claws Mail lightweight email client</hu>
-   <id>Claws Mail lightweight email client</id>
-   <is>Claws Mail lightweight email client</is>
-   <it>Claws Mail, client email leggero</it>
-   <ja_JP>Claws Mail lightweight email client</ja_JP>
-   <ja>Claws Mail lightweight email client</ja>
-   <kk>Claws Mail lightweight email client</kk>
-   <ko>Claws Mail lightweight email client</ko>
-   <lt>Claws Mail supaprastintas el. pašto klientas</lt>
-   <mk>Claws Mail lightweight email client</mk>
-   <mr>Claws Mail lightweight email client</mr>
-   <nb>Claws Mail lightweight email client</nb>
-   <nl>Claws Mail lichtgewicht email programma</nl>
-   <pl>Claws Mail lekki klient poczty e-mail</pl>
-   <pt_BR>Cliente de e-mail simples e ligeiro</pt_BR>
-   <pt>Cliente de correio-electrónico simples e ligeiro</pt>
-   <ro>Claws Mail lightweight email client</ro>
-   <ru>Легковесный e-mail клиент</ru>
-   <sk>Claws Mail lightweight email client</sk>
-   <sl>Lahek poštni odjemalec Clwas Mail</sl>
-   <sq>Claws Mail lightweight email client</sq>
-   <sr>Claws Mail lightweight email client</sr>
-   <sv>Claws Mail lättvikts E-mejl klient</sv>
-   <tr>Claws Mail lightweight email client</tr>
-   <uk>Claws Mail легка програма для роботи з електронною поштою</uk>
-   <zh_CN>Claws Mail lightweight email client</zh_CN>
-   <zh_TW>Claws Mail lightweight email client</zh_TW>
+   <am>Latest Chromium browser and language pack</am>
+   <ar>Latest Chromium browser and language pack</ar>
+   <bg>Latest Chromium browser and language pack</bg>
+   <ca>Darrer navegador Chromium i paquets de llengua</ca>
+   <cs>Latest Chromium browser and language pack</cs>
+   <da>Seneste Chromium-browser og -sprogpakke</da>
+   <de>Aktueller Chrombrowser und Sprachpaket</de>
+   <el>Τελευταίο πρόγραμμα περιήγησης Chromium και το πακέτο γλωσσών</el>
+   <en>Latest Chromium browser and language pack</en>
+   <es>El último navegador Chromium con paquete de idioma</es>
+   <et>Latest Chromium browser and language pack</et>
+   <eu>Latest Chromium browser and language pack</eu>
+   <fa>Latest Chromium browser and language pack</fa>
+   <fi>Latest Chromium browser and language pack</fi>
+   <fr>La dernière version de Chromium et son pack de langues</fr>
+   <he_IL>Latest Chromium browser and language pack</he_IL>
+   <hi>Latest Chromium browser and language pack</hi>
+   <hr>Latest Chromium browser and language pack</hr>
+   <hu>Latest Chromium browser and language pack</hu>
+   <id>Latest Chromium browser and language pack</id>
+   <is>Latest Chromium browser and language pack</is>
+   <it>Ultimo browser Chromium con pacchetto della lingua</it>
+   <ja_JP>Latest Chromium browser and language pack</ja_JP>
+   <ja>Latest Chromium browser and language pack</ja>
+   <kk>Latest Chromium browser and language pack</kk>
+   <ko>Latest Chromium browser and language pack</ko>
+   <lt>Latest Chromium browser and language pack</lt>
+   <mk>Latest Chromium browser and language pack</mk>
+   <mr>Latest Chromium browser and language pack</mr>
+   <nb>Latest Chromium browser and language pack</nb>
+   <nl>Meest recente Chromium browser en talen pakket</nl>
+   <pl>najnowsza przeglądarka Chromium i pakiet językowy</pl>
+   <pt_BR>Navegador Chromium mais recente e respectivo pacote de idiomas</pt_BR>
+   <pt>Navegador Chromium mais recente e respectivo pacote de idiomas</pt>
+   <ro>Latest Chromium browser and language pack</ro>
+   <ru>Браузер Chromium последней версии и языковые пакеты</ru>
+   <sk>Latest Chromium browser and language pack</sk>
+   <sl>Zadnja različica jezikovnega paketa za brskalnik Chromium</sl>
+   <sq>Latest Chromium browser and language pack</sq>
+   <sr>Latest Chromium browser and language pack</sr>
+   <sv>Senaste Chromium webbläsare med språkpaket</sv>
+   <tr>Latest Chromium browser and language pack</tr>
+   <uk>Крайня версія браузера Chromium з пакетом мов</uk>
+   <zh_CN>Latest Chromium browser and language pack</zh_CN>
+   <zh_TW>Latest Chromium browser and language pack</zh_TW>
 </description>
 
 <installable>

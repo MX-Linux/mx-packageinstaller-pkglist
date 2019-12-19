@@ -10,52 +10,51 @@ Falkon
 </name>
 
 <description>
-   <am>Farsi localisation of Firefox</am>
-   <ar>Farsi localisation of Firefox</ar>
-   <bg>Farsi localisation of Firefox</bg>
-   <ca>Localització de Firefox en Farsi</ca>
-   <cs>Farsi localisation of Firefox</cs>
-   <da>Farsi oversættelse af Firefox</da>
-   <de>Farsi-Lokalisierung von Firefox</de>
-   <el>Φαρσί εντοπισμού του Firefox</el>
-   <en>Farsi localisation of Firefox</en>
-   <es>Localización Farsi de Firefox</es>
-   <et>Farsi localisation of Firefox</et>
-   <eu>Farsi localisation of Firefox</eu>
-   <fa>Farsi localisation of Firefox</fa>
-   <fil_PH>Farsi localisation of Firefox</fil_PH>
-   <fi>Farsi localisation of Firefox</fi>
-   <fr>Localisation farsi pour Firefox</fr>
-   <he_IL>Farsi localisation of Firefox</he_IL>
-   <hi>Farsi localisation of Firefox</hi>
-   <hr>Farsi localisation of Firefox</hr>
-   <hu>Farsi localisation of Firefox</hu>
-   <id>Farsi localisation of Firefox</id>
-   <is>Farsi localisation of Firefox</is>
-   <it>Localizzazione persiana di Firefox</it>
-   <ja_JP>Farsi localisation of Firefox</ja_JP>
-   <ja>Farsi localisation of Firefox</ja>
-   <kk>Farsi localisation of Firefox</kk>
-   <ko>Farsi localisation of Firefox</ko>
-   <lt>Farsi localisation of Firefox</lt>
-   <mk>Farsi localisation of Firefox</mk>
-   <mr>Farsi localisation of Firefox</mr>
-   <nb>Farsi localisation of Firefox</nb>
-   <nl>Perzische lokalisatie van Firefox</nl>
-   <pl>Farsi lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Persa Localização para Firefox</pt_BR>
-   <pt>Persa Localização para Firefox</pt>
-   <ro>Farsi localisation of Firefox</ro>
-   <ru>Локализация Firefox на фарси</ru>
-   <sk>Farsi localisation of Firefox</sk>
-   <sl>Farsi localisation of Firefox</sl>
-   <sq>Farsi localisation of Firefox</sq>
-   <sr>Farsi localisation of Firefox</sr>
-   <sv>Farsi lokalisering av Firefox</sv>
-   <tr>Firefox'un Farsça yerelleştirmesi</tr>
-   <uk>Farsi локалізація Firefox</uk>
-   <zh_CN>Farsi localisation of Firefox</zh_CN>
-   <zh_TW>Farsi localisation of Firefox</zh_TW>
+   <am>Latest Falkon lightweight browser</am>
+   <ar>Latest Falkon lightweight browser</ar>
+   <bg>Latest Falkon lightweight browser</bg>
+   <ca>El darrer navegador lleuger Falkon</ca>
+   <cs>Latest Falkon lightweight browser</cs>
+   <da>Seneste Falkon letvægtsbrowser</da>
+   <de>Neuester Falkon leichtgewichtiger Browser</de>
+   <el>Τελευταίο ελαφρύ πρόγραμμα περιήγησης Falkon</el>
+   <en>Latest Falkon lightweight browser</en>
+   <es>Último navegador ligero Falkon</es>
+   <et>Latest Falkon lightweight browser</et>
+   <eu>Latest Falkon lightweight browser</eu>
+   <fa>Latest Falkon lightweight browser</fa>
+   <fi>Latest Falkon lightweight browser</fi>
+   <fr>Dernière version du navigateur léger Falkon</fr>
+   <he_IL>Latest Falkon lightweight browser</he_IL>
+   <hi>Latest Falkon lightweight browser</hi>
+   <hr>Latest Falkon lightweight browser</hr>
+   <hu>Latest Falkon lightweight browser</hu>
+   <id>Latest Falkon lightweight browser</id>
+   <is>Latest Falkon lightweight browser</is>
+   <it>Ultimo browser leggero Falkon</it>
+   <ja_JP>Latest Falkon lightweight browser</ja_JP>
+   <ja>Latest Falkon lightweight browser</ja>
+   <kk>Latest Falkon lightweight browser</kk>
+   <ko>Latest Falkon lightweight browser</ko>
+   <lt>Latest Falkon lightweight browser</lt>
+   <mk>Latest Falkon lightweight browser</mk>
+   <mr>Latest Falkon lightweight browser</mr>
+   <nb>Latest Falkon lightweight browser</nb>
+   <nl>Nieuwste Falkon lichtgewicht browser</nl>
+   <pl>najnowsza lekka przeglądarka Falkon</pl>
+   <pt_BR>Navegador web ligeiro Falkon, versão mais recente</pt_BR>
+   <pt>O mais recente navegador leve Falkon</pt>
+   <ro>Latest Falkon lightweight browser</ro>
+   <ru>Latest Falkon lightweight browser</ru>
+   <sk>Latest Falkon lightweight browser</sk>
+   <sl>Zadnja različica lahkega brskalnika Falkon</sl>
+   <sq>Latest Falkon lightweight browser</sq>
+   <sr>Latest Falkon lightweight browser</sr>
+   <sv>Senaste Falkon lättviktswebbläsare</sv>
+   <tr>Latest Falkon lightweight browser</tr>
+   <uk>Latest Falkon lightweight browser</uk>
+   <zh_CN>Latest Falkon lightweight browser</zh_CN>
+   <zh_TW>Latest Falkon lightweight browser</zh_TW>
 </description>
 
 <installable>

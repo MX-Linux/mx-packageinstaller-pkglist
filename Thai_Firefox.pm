@@ -10,52 +10,51 @@ Thai_Firefox
 </name>
 
 <description>
-   <am>Thai Language Meta-Package for LibreOffice</am>
-   <ar>Thai Language Meta-Package for LibreOffice</ar>
-   <bg>Thai Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Thai per LibreOffice</ca>
-   <cs>Thai Language Meta-Package for LibreOffice</cs>
-   <da>Thai Language Meta-Package for LibreOffice</da>
-   <de>Thai Meta-Paket für LibreOffice</de>
-   <el>Thai Language Meta-Package for LibreOffice</el>
-   <en>Thai Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de idioma tailandés para LibreOffice</es>
-   <et>Thai Language Meta-Package for LibreOffice</et>
-   <eu>Thai Language Meta-Package for LibreOffice</eu>
-   <fa>Thai Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Thai Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Thai Language Meta-Package for LibreOffice</fi>
-   <fr>Thai Language Meta-Package for LibreOffice</fr>
-   <he_IL>Thai Language Meta-Package for LibreOffice</he_IL>
-   <hi>Thai Language Meta-Package for LibreOffice</hi>
-   <hr>Thai Language Meta-Package for LibreOffice</hr>
-   <hu>Thai Language Meta-Package for LibreOffice</hu>
-   <id>Thai Language Meta-Package for LibreOffice</id>
-   <is>Thai Language Meta-Package for LibreOffice</is>
-   <it>Thai Language Meta-Package for LibreOffice</it>
-   <ja_JP>Thai Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Thai Language Meta-Package for LibreOffice</ja>
-   <kk>Thai Language Meta-Package for LibreOffice</kk>
-   <ko>Thai Language Meta-Package for LibreOffice</ko>
-   <lt>Thai Language Meta-Package for LibreOffice</lt>
-   <mk>Thai Language Meta-Package for LibreOffice</mk>
-   <mr>Thai Language Meta-Package for LibreOffice</mr>
-   <nb>Thai Language Meta-Package for LibreOffice</nb>
-   <nl>Thai Language Meta-Package for LibreOffice</nl>
-   <pl>Thai Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Thai Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Tailandês Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Thai Language Meta-Package for LibreOffice</ro>
-   <ru>Thai Language Meta-Package for LibreOffice</ru>
-   <sk>Thai Language Meta-Package for LibreOffice</sk>
-   <sl>Tajski jezikovni meta-paket za LibreOffice</sl>
-   <sq>Thai Language Meta-Package for LibreOffice</sq>
-   <sr>Thai Language Meta-Package for LibreOffice</sr>
-   <sv>Thai Språk Meta-Paket för LibreOffice</sv>
-   <tr>Thai Language Meta-Package for LibreOffice</tr>
-   <uk>Thai Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Thai Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Thai Language Meta-Package for LibreOffice</zh_TW>
+   <am>Thai localisation of Firefox</am>
+   <ar>Thai localisation of Firefox</ar>
+   <bg>Thai localisation of Firefox</bg>
+   <ca>Localització de Firefox en Tailandès</ca>
+   <cs>Thai localisation of Firefox</cs>
+   <da>Thai oversættelse af Firefox</da>
+   <de>Thailändische Lokalisierung von Firefox</de>
+   <el>Ταϊλάνδης εντοπισμός του Firefox</el>
+   <en>Thai localisation of Firefox</en>
+   <es>Localización Tailandesa de Firefox</es>
+   <et>Thai localisation of Firefox</et>
+   <eu>Thai localisation of Firefox</eu>
+   <fa>Thai localisation of Firefox</fa>
+   <fi>Thai localisation of Firefox</fi>
+   <fr>Localisation thai pour Firefox</fr>
+   <he_IL>Thai localisation of Firefox</he_IL>
+   <hi>Thai localisation of Firefox</hi>
+   <hr>Thai localisation of Firefox</hr>
+   <hu>Thai localisation of Firefox</hu>
+   <id>Thai localisation of Firefox</id>
+   <is>Thai localisation of Firefox</is>
+   <it>Localizzazione tailandese di Firefox</it>
+   <ja_JP>Thai localisation of Firefox</ja_JP>
+   <ja>Thai localisation of Firefox</ja>
+   <kk>Thai localisation of Firefox</kk>
+   <ko>Thai localisation of Firefox</ko>
+   <lt>Thai localisation of Firefox</lt>
+   <mk>Thai localisation of Firefox</mk>
+   <mr>Thai localisation of Firefox</mr>
+   <nb>Thai localisation of Firefox</nb>
+   <nl>Thaise lokalisatie van Firefox</nl>
+   <pl>Tajska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Tailandês Localização para Firefox</pt_BR>
+   <pt>Tailandês Localização para Firefox</pt>
+   <ro>Thai localisation of Firefox</ro>
+   <ru>Тайская локализация Firefox</ru>
+   <sk>Thai localisation of Firefox</sk>
+   <sl>Thai localisation of Firefox</sl>
+   <sq>Thai localisation of Firefox</sq>
+   <sr>Thai localisation of Firefox</sr>
+   <sv>Thailändsk lokalisering av Firefox</sv>
+   <tr>Thai localisation of Firefox</tr>
+   <uk>Thai localisation of Firefox</uk>
+   <zh_CN>Thai localisation of Firefox</zh_CN>
+   <zh_TW>Thai localisation of Firefox</zh_TW>
 </description>
 
 <installable>

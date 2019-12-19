@@ -10,52 +10,51 @@ Ukrainian_Firefox
 </name>
 
 <description>
-   <am>Ukrainian fonts packages</am>
-   <ar>Ukrainian fonts packages</ar>
-   <bg>Ukrainian fonts packages</bg>
-   <ca>Paquets de tipus de lletra Ciríl·lics (Ucrainès)</ca>
-   <cs>Ukrainian fonts packages</cs>
-   <da>Ukrainsk skrifttyper-pakke</da>
-   <de>Ukrainische Schriftenpakete</de>
-   <el>Ουκρανικά πακέτα γραμματοσειρών</el>
-   <en>Ukrainian fonts packages</en>
-   <es>Paquetes de fuentes ucranianas</es>
-   <et>Ukrainian fonts packages</et>
-   <eu>Ukrainian fonts packages</eu>
-   <fa>Ukrainian fonts packages</fa>
-   <fil_PH>Ukrainian fonts packages</fil_PH>
-   <fi>Ukrainian fonts packages</fi>
-   <fr>Paquets pour polices ukrainiennes</fr>
-   <he_IL>Ukrainian fonts packages</he_IL>
-   <hi>Ukrainian fonts packages</hi>
-   <hr>Ukrainian fonts packages</hr>
-   <hu>Ukrainian fonts packages</hu>
-   <id>Ukrainian fonts packages</id>
-   <is>Ukrainian fonts packages</is>
-   <it>Pacchetti di fonts per l'Ucraino</it>
-   <ja_JP>Ukrainian fonts packages</ja_JP>
-   <ja>Ukrainian fonts packages</ja>
-   <kk>Ukrainian fonts packages</kk>
-   <ko>Ukrainian fonts packages</ko>
-   <lt>Ukrainian fonts packages</lt>
-   <mk>Ukrainian fonts packages</mk>
-   <mr>Ukrainian fonts packages</mr>
-   <nb>Ukrainian fonts packages</nb>
-   <nl>Oekraïense font pakketten</nl>
-   <pl>pakiety z ukraińskimi fontami (czcionkami)</pl>
-   <pt_BR>Ucraniano Pacotes de fontes</pt_BR>
-   <pt>Ucraniano Pacotes de fontes</pt>
-   <ro>Ukrainian fonts packages</ro>
-   <ru>Ukrainian fonts packages</ru>
-   <sk>Ukrainian fonts packages</sk>
-   <sl>Ukrainian fonts packages</sl>
-   <sq>Ukrainian fonts packages</sq>
-   <sr>Ukrainian fonts packages</sr>
-   <sv>Ukrainska typsnitts-paket</sv>
-   <tr>Ukraynaca yazı tipi paketleri</tr>
-   <uk>Ukrainian fonts packages</uk>
-   <zh_CN>Ukrainian fonts packages</zh_CN>
-   <zh_TW>Ukrainian fonts packages</zh_TW>
+   <am>Ukrainian localisation of Firefox</am>
+   <ar>Ukrainian localisation of Firefox</ar>
+   <bg>Ukrainian localisation of Firefox</bg>
+   <ca>Localització de Firefox en Ucrainès</ca>
+   <cs>Ukrainian localisation of Firefox</cs>
+   <da>Ukrainsk oversættelse af Firefox</da>
+   <de>Ukrainische Lokalisierung von Firefox</de>
+   <el>Ουκρανικός εντοπισμός του Firefox</el>
+   <en>Ukrainian localisation of Firefox</en>
+   <es>Localización Ucraniana de Firefox</es>
+   <et>Ukrainian localisation of Firefox</et>
+   <eu>Ukrainian localisation of Firefox</eu>
+   <fa>Ukrainian localisation of Firefox</fa>
+   <fi>Ukrainian localisation of Firefox</fi>
+   <fr>Localisation ukrainienne pour Firefox</fr>
+   <he_IL>Ukrainian localisation of Firefox</he_IL>
+   <hi>Ukrainian localisation of Firefox</hi>
+   <hr>Ukrainian localisation of Firefox</hr>
+   <hu>Ukrainian localisation of Firefox</hu>
+   <id>Ukrainian localisation of Firefox</id>
+   <is>Ukrainian localisation of Firefox</is>
+   <it>Localizzazione ucraina di Firefox</it>
+   <ja_JP>Ukrainian localisation of Firefox</ja_JP>
+   <ja>Ukrainian localisation of Firefox</ja>
+   <kk>Ukrainian localisation of Firefox</kk>
+   <ko>Ukrainian localisation of Firefox</ko>
+   <lt>Ukrainian localisation of Firefox</lt>
+   <mk>Ukrainian localisation of Firefox</mk>
+   <mr>Ukrainian localisation of Firefox</mr>
+   <nb>Ukrainian localisation of Firefox</nb>
+   <nl>Oekraïense lokalisatie van Firefox</nl>
+   <pl>Ukraińska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Ucraniano Localização para Firefox</pt_BR>
+   <pt>Ucraniano Localização para Firefox</pt>
+   <ro>Ukrainian localisation of Firefox</ro>
+   <ru>Украинская локализация Firefox</ru>
+   <sk>Ukrainian localisation of Firefox</sk>
+   <sl>Ukrainian localisation of Firefox</sl>
+   <sq>Ukrainian localisation of Firefox</sq>
+   <sr>Ukrainian localisation of Firefox</sr>
+   <sv>Ukrainsk lokalisering av Firefox</sv>
+   <tr>Ukrainian localisation of Firefox</tr>
+   <uk>Ukrainian localisation of Firefox</uk>
+   <zh_CN>Ukrainian localisation of Firefox</zh_CN>
+   <zh_TW>Ukrainian localisation of Firefox</zh_TW>
 </description>
 
 <installable>

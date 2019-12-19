@@ -10,52 +10,51 @@ Basque_Libreoffice
 </name>
 
 <description>
-   <am>Basque localisation of Thunderbird</am>
-   <ar>Basque localisation of Thunderbird</ar>
-   <bg>Basque localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Euskara</ca>
-   <cs>Basque localisation of Thunderbird</cs>
-   <da>Baskisk oversættelse af Thunderbird</da>
-   <de>Baskische Lokalisierung von Thunderbird</de>
-   <el>Basque εντοπισμός του Thunderbird</el>
-   <en>Basque localisation of Thunderbird</en>
-   <es>Localización Vasco de Thunderbird</es>
-   <et>Basque localisation of Thunderbird</et>
-   <eu>Basque localisation of Thunderbird</eu>
-   <fa>Basque localisation of Thunderbird</fa>
-   <fil_PH>Basque localisation of Thunderbird</fil_PH>
-   <fi>Basque localisation of Thunderbird</fi>
-   <fr>Localisation basque pour Thunderbird</fr>
-   <he_IL>Basque localisation of Thunderbird</he_IL>
-   <hi>Basque localisation of Thunderbird</hi>
-   <hr>Baskijska lokalizacija Thunderbirda</hr>
-   <hu>Basque localisation of Thunderbird</hu>
-   <id>Basque localisation of Thunderbird</id>
-   <is>Basque localisation of Thunderbird</is>
-   <it>Localizzazione basca di Thunderbird</it>
-   <ja_JP>Basque localisation of Thunderbird</ja_JP>
-   <ja>Basque localisation of Thunderbird</ja>
-   <kk>Basque localisation of Thunderbird</kk>
-   <ko>Basque localisation of Thunderbird</ko>
-   <lt>Basque localisation of Thunderbird</lt>
-   <mk>Basque localisation of Thunderbird</mk>
-   <mr>Basque localisation of Thunderbird</mr>
-   <nb>Basque localisation of Thunderbird</nb>
-   <nl>Baskische lokalisatie van Thunderbird</nl>
-   <pl>Baskijska lokalizacja Thunderbirda</pl>
-   <pt_BR>Basco Localização para Thunderbird</pt_BR>
-   <pt>Basco Localização para Thunderbird</pt>
-   <ro>Basque localisation of Thunderbird</ro>
-   <ru>Basque localisation of Thunderbird</ru>
-   <sk>Basque lokalizácia pre Thunderbird</sk>
-   <sl>Basque localisation of Thunderbird</sl>
-   <sq>Basque localisation of Thunderbird</sq>
-   <sr>Basque localisation of Thunderbird</sr>
-   <sv>Baskisk lokalisering av Thunderbird</sv>
-   <tr>Thunderbird'ün Bask dili yerelleştirmesi</tr>
-   <uk>Basque локалізація Thunderbird</uk>
-   <zh_CN>Basque localisation of Thunderbird</zh_CN>
-   <zh_TW>Basque localisation of Thunderbird</zh_TW>
+   <am>Basque Language Meta-Package for LibreOffice</am>
+   <ar>Basque Language Meta-Package for LibreOffice</ar>
+   <bg>Basque Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Basque per LibreOffice</ca>
+   <cs>Basque Language Meta-Package for LibreOffice</cs>
+   <da>Basque sprog-metapakke til LibreOffice</da>
+   <de>Basque Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Basque</el>
+   <en>Basque Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Basque para LibreOffice</es>
+   <et>Basque Language Meta-Package for LibreOffice</et>
+   <eu>Basque Language Meta-Package for LibreOffice</eu>
+   <fa>Basque Language Meta-Package for LibreOffice</fa>
+   <fi>Basque Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Basque pour LibreOffice</fr>
+   <he_IL>Basque Language Meta-Package for LibreOffice</he_IL>
+   <hi>Basque Language Meta-Package for LibreOffice</hi>
+   <hr>Basque Language Meta-Package for LibreOffice</hr>
+   <hu>Basque Language Meta-Package for LibreOffice</hu>
+   <id>Basque Language Meta-Package for LibreOffice</id>
+   <is>Basque Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Basque per LibreOffice</it>
+   <ja_JP>Basque Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Basque Language Meta-Package for LibreOffice</ja>
+   <kk>Basque Language Meta-Package for LibreOffice</kk>
+   <ko>Basque Language Meta-Package for LibreOffice</ko>
+   <lt>Basque Language Meta-Package for LibreOffice</lt>
+   <mk>Basque Language Meta-Package for LibreOffice</mk>
+   <mr>Basque Language Meta-Package for LibreOffice</mr>
+   <nb>Basque Language Meta-Package for LibreOffice</nb>
+   <nl>Basque Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Basque metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Basque Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Basque Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Basque Language Meta-Package for LibreOffice</ro>
+   <ru>Basque Language Meta-Package for LibreOffice</ru>
+   <sk>Basque Language Meta-Package for LibreOffice</sk>
+   <sl>Basque Language Meta-Package for LibreOffice</sl>
+   <sq>Basque Language Meta-Package for LibreOffice</sq>
+   <sr>Basque Language Meta-Package for LibreOffice</sr>
+   <sv>Basque Språk Meta-Paket för LibreOffice</sv>
+   <tr>Basque Language Meta-Package for LibreOffice</tr>
+   <uk>Basque Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Basque Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Basque Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

@@ -23,7 +23,6 @@ Afrikaan_Firefox
    <et>Afrikaan localisation of Firefox</et>
    <eu>Afrikaan localisation of Firefox</eu>
    <fa>Afrikaan localisation of Firefox</fa>
-   <fil_PH>Afrikaan localisation of Firefox</fil_PH>
    <fi>Afrikaan localisation of Firefox</fi>
    <fr>Localisation afrikaans pour Firefox</fr>
    <he_IL>Afrikaan localisation of Firefox</he_IL>
@@ -44,7 +43,7 @@ Afrikaan_Firefox
    <nl>Afrikaanse lokalisatie van Firefox</nl>
    <pl>Afrykanerska lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Africâner Localização para Firefox</pt_BR>
-   <pt>Africander Localização para Firefox</pt>
+   <pt>Africâner Localização para Firefox</pt>
    <ro>Afrikaan localisation of Firefox</ro>
    <ru>Африканская локализация Firefox</ru>
    <sk>Afrikaan lokalizácia pre Firefox</sk>
@@ -52,7 +51,7 @@ Afrikaan_Firefox
    <sq>Afrikaan localisation of Firefox</sq>
    <sr>Afrikaan localisation of Firefox</sr>
    <sv>Afrikaan lokalisering av Firefox</sv>
-   <tr>Firefox Afrika yerelleştirmesi</tr>
+   <tr>Afrikaan localisation of Firefox</tr>
    <uk>Afrikaan локалізація Firefox</uk>
    <zh_CN>Afrikaan localisation of Firefox</zh_CN>
    <zh_TW>Afrikaan localisation of Firefox</zh_TW>

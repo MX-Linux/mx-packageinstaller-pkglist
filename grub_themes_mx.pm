@@ -10,52 +10,51 @@ grub-themes-mx
 </name>
 
 <description>
-   <am>A GUI to produce PDFs or DjVus from scanned documents</am>
-   <ar>A GUI to produce PDFs or DjVus from scanned documents</ar>
-   <bg>A GUI to produce PDFs or DjVus from scanned documents</bg>
-   <ca>Una IGU per crear PDFs o DJVus des de documents escanejats</ca>
-   <cs>A GUI to produce PDFs or DjVus from scanned documents</cs>
-   <da>En grafisk brugerflade til at skabe PDF'er eller DjVus fra skannede dokumenter</da>
-   <de>Eine GUI zum Erzeugen von PDFs oder DjVus aus gescannten Dokumenten</de>
-   <el>Ένα GUI για την παραγωγή αρχείων PDF ή DjVus από σαρωμένα έγγραφα</el>
-   <en>A GUI to produce PDFs or DjVus from scanned documents</en>
-   <es>Una GUI para producir archivos PDF o DjVus a partir de documentos escaneados</es>
-   <et>A GUI to produce PDFs or DjVus from scanned documents</et>
-   <eu>A GUI to produce PDFs or DjVus from scanned documents</eu>
-   <fa>A GUI to produce PDFs or DjVus from scanned documents</fa>
-   <fil_PH>A GUI to produce PDFs or DjVus from scanned documents</fil_PH>
-   <fi>A GUI to produce PDFs or DjVus from scanned documents</fi>
-   <fr>Une interface graphique permettant de créer des PDFs et DjVus à partir de documents scannés</fr>
-   <he_IL>A GUI to produce PDFs or DjVus from scanned documents</he_IL>
-   <hi>A GUI to produce PDFs or DjVus from scanned documents</hi>
-   <hr>A GUI to produce PDFs or DjVus from scanned documents</hr>
-   <hu>A GUI to produce PDFs or DjVus from scanned documents</hu>
-   <id>A GUI to produce PDFs or DjVus from scanned documents</id>
-   <is>A GUI to produce PDFs or DjVus from scanned documents</is>
-   <it>Un'interfaccia grafica per ottenere PDF o DjVus da documenti scansionati</it>
-   <ja_JP>A GUI to produce PDFs or DjVus from scanned documents</ja_JP>
-   <ja>A GUI to produce PDFs or DjVus from scanned documents</ja>
-   <kk>A GUI to produce PDFs or DjVus from scanned documents</kk>
-   <ko>A GUI to produce PDFs or DjVus from scanned documents</ko>
-   <lt>A GUI to produce PDFs or DjVus from scanned documents</lt>
-   <mk>A GUI to produce PDFs or DjVus from scanned documents</mk>
-   <mr>A GUI to produce PDFs or DjVus from scanned documents</mr>
-   <nb>A GUI to produce PDFs or DjVus from scanned documents</nb>
-   <nl>Een GUI voor het produceren van PDF's of DjVus uit gescande documenten</nl>
-   <pl>narzędzie do tworzenia plików PDF lub DjVu z zeskanowanych dokumentów</pl>
-   <pt_BR>Interface gŕafica para produzir ficheiros PDF e DjVu por digitalização em scanner</pt_BR>
-   <pt>Interface gŕafica para produzir ficheiros PDF e DjVu por digitalização em scanner</pt>
-   <ro>A GUI to produce PDFs or DjVus from scanned documents</ro>
-   <ru>GUI для создания PDF или DjVu из сканированных документов</ru>
-   <sk>A GUI to produce PDFs or DjVus from scanned documents</sk>
-   <sl>Grafični vmesnik za ustvarjanje PFDjev ali Djev iz skeniranih dokumentov</sl>
-   <sq>A GUI to produce PDFs or DjVus from scanned documents</sq>
-   <sr>A GUI to produce PDFs or DjVus from scanned documents</sr>
-   <sv>Ett grafiskt gränssnitt för att  producera PDFs eller DjVus av skannade dokument</sv>
-   <tr>A GUI to produce PDFs or DjVus from scanned documents</tr>
-   <uk>Графічний інтерфейс для створення PDF та DjVU файлів з відсканованих документів</uk>
-   <zh_CN>A GUI to produce PDFs or DjVus from scanned documents</zh_CN>
-   <zh_TW>A GUI to produce PDFs or DjVus from scanned documents</zh_TW>
+   <am>themes for grub boot menu</am>
+   <ar>themes for grub boot menu</ar>
+   <bg>themes for grub boot menu</bg>
+   <ca>Temes per al menú d'arrencada GRUB</ca>
+   <cs>themes for grub boot menu</cs>
+   <da>temaer til grub-opstartsmenu</da>
+   <de>Oberflächen für das GRUB Bootmenü</de>
+   <el>θέματα για το μενού εκκίνησης grub</el>
+   <en>themes for grub boot menu</en>
+   <es>Temas para el menú de arranque grub</es>
+   <et>themes for grub boot menu</et>
+   <eu>themes for grub boot menu</eu>
+   <fa>themes for grub boot menu</fa>
+   <fi>themes for grub boot menu</fi>
+   <fr>thèmes pour le menu de démarrage du grub</fr>
+   <he_IL>themes for grub boot menu</he_IL>
+   <hi>themes for grub boot menu</hi>
+   <hr>themes for grub boot menu</hr>
+   <hu>themes for grub boot menu</hu>
+   <id>themes for grub boot menu</id>
+   <is>themes for grub boot menu</is>
+   <it>temi per il menu di boot grub</it>
+   <ja_JP>themes for grub boot menu</ja_JP>
+   <ja>themes for grub boot menu</ja>
+   <kk>themes for grub boot menu</kk>
+   <ko>themes for grub boot menu</ko>
+   <lt>themes for grub boot menu</lt>
+   <mk>themes for grub boot menu</mk>
+   <mr>themes for grub boot menu</mr>
+   <nb>themes for grub boot menu</nb>
+   <nl>thema's voor grub boot menu</nl>
+   <pl>motywy dla menu rozruchowego grub</pl>
+   <pt_BR>Temas para  o menu do grub</pt_BR>
+   <pt>Temas para  o menu do grub</pt>
+   <ro>themes for grub boot menu</ro>
+   <ru>темы для меню загрузки GRUB</ru>
+   <sk>themes for grub boot menu</sk>
+   <sl>teme za grub zagonski meni</sl>
+   <sq>themes for grub boot menu</sq>
+   <sr>themes for grub boot menu</sr>
+   <sv>theman för grub boot meny</sv>
+   <tr>themes for grub boot menu</tr>
+   <uk>themes for grub boot menu</uk>
+   <zh_CN>themes for grub boot menu</zh_CN>
+   <zh_TW>themes for grub boot menu</zh_TW>
 </description>
 
 <installable>

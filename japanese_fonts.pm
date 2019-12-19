@@ -10,52 +10,51 @@ Japanese_Fonts
 </name>
 
 <description>
-   <am>Japanese fcitx</am>
-   <ar>Japanese fcitx</ar>
-   <bg>Japanese fcitx</bg>
-   <ca>Fcitx en italià</ca>
-   <cs>Japanese fcitx</cs>
-   <da>Japansk fcitx</da>
-   <de>Japanisch Fcitx</de>
-   <el>Ιαπωνικά fcitx</el>
-   <en>Japanese fcitx</en>
-   <es>Fcitx Japonés</es>
-   <et>Japanese fcitx</et>
-   <eu>Japanese fcitx</eu>
-   <fa>Japanese fcitx</fa>
-   <fil_PH>Japanese fcitx</fil_PH>
-   <fi>Japanese fcitx</fi>
-   <fr>Japonais fcitx</fr>
-   <he_IL>Japanese fcitx</he_IL>
-   <hi>Japanese fcitx</hi>
-   <hr>Japanese fcitx</hr>
-   <hu>Japanese fcitx</hu>
-   <id>Japanese fcitx</id>
-   <is>Japanese fcitx</is>
-   <it>Fcitx per la lingua giapponese</it>
-   <ja_JP>Japanese fcitx</ja_JP>
-   <ja>Japanese fcitx</ja>
-   <kk>Japanese fcitx</kk>
-   <ko>Japanese fcitx</ko>
-   <lt>Japonų fcitx</lt>
-   <mk>Japanese fcitx</mk>
-   <mr>Japanese fcitx</mr>
-   <nb>Japanese fcitx</nb>
-   <nl>Japanse fcitx</nl>
-   <pl>Japoński fcitx</pl>
-   <pt_BR>Japonês fcitx</pt_BR>
-   <pt>Japonês fcitx</pt>
-   <ro>Japanese fcitx</ro>
-   <ru>Japanese fcitx</ru>
-   <sk>Japanese fcitx</sk>
-   <sl>Japanese fcitx</sl>
-   <sq>Japanese fcitx</sq>
-   <sr>Japanese fcitx</sr>
-   <sv>Japansk fcitx</sv>
-   <tr>Japanese fcitx</tr>
-   <uk>Japanese fcitx</uk>
-   <zh_CN>Japanese fcitx</zh_CN>
-   <zh_TW>Japanese fcitx</zh_TW>
+   <am>Japanese fonts packages</am>
+   <ar>Japanese fonts packages</ar>
+   <bg>Japanese fonts packages</bg>
+   <ca>Paquets de tipus de lletra japoneses</ca>
+   <cs>Japanese fonts packages</cs>
+   <da>Japansk skrifttyper-pakke</da>
+   <de>Japanische Schriftenpakete</de>
+   <el>Ιαπωνικά πακέτα γραμματοσειρών</el>
+   <en>Japanese fonts packages</en>
+   <es>Paquetes de fuentes japonesas</es>
+   <et>Japanese fonts packages</et>
+   <eu>Japanese fonts packages</eu>
+   <fa>Japanese fonts packages</fa>
+   <fi>Japanese fonts packages</fi>
+   <fr>Paquets pour polices japonaises</fr>
+   <he_IL>Japanese fonts packages</he_IL>
+   <hi>Japanese fonts packages</hi>
+   <hr>Japanese fonts packages</hr>
+   <hu>Japanese fonts packages</hu>
+   <id>Japanese fonts packages</id>
+   <is>Japanese fonts packages</is>
+   <it>Pacchetti di fonts per il Giapponese</it>
+   <ja_JP>Japanese fonts packages</ja_JP>
+   <ja>Japanese fonts packages</ja>
+   <kk>Japanese fonts packages</kk>
+   <ko>Japanese fonts packages</ko>
+   <lt>Japonų šriftų paketai</lt>
+   <mk>Japanese fonts packages</mk>
+   <mr>Japanese fonts packages</mr>
+   <nb>Japanese fonts packages</nb>
+   <nl>Japanse font pakketten</nl>
+   <pl>pakiety z japońskimi fontami (czcionkami)</pl>
+   <pt_BR>Japonês fonts Pacotes</pt_BR>
+   <pt>Japonês fonts Pacotes</pt>
+   <ro>Japanese fonts packages</ro>
+   <ru>Japanese fonts packages</ru>
+   <sk>Japanese fonts packages</sk>
+   <sl>Japanese fonts packages</sl>
+   <sq>Japanese fonts packages</sq>
+   <sr>Japanese fonts packages</sr>
+   <sv>Japanska typsnitts-paket</sv>
+   <tr>Japanese fonts packages</tr>
+   <uk>пакунки японських шрифтів</uk>
+   <zh_CN>Japanese fonts packages</zh_CN>
+   <zh_TW>Japanese fonts packages</zh_TW>
 </description>
 
 <installable>

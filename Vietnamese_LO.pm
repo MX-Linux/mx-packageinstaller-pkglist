@@ -10,52 +10,51 @@ Vietnamese_Libreoffice
 </name>
 
 <description>
-   <am>Virtualbox</am>
-   <ar>Virtualbox</ar>
-   <bg>Virtualbox</bg>
-   <ca>Virtualbox</ca>
-   <cs>Virtualbox</cs>
-   <da>Virtualbox</da>
-   <de>Die Virtualisierungssoftware VirtualBox</de>
-   <el>Virtualbox</el>
-   <en>Virtualbox</en>
-   <es>Máquina virtual</es>
-   <et>Virtualbox</et>
-   <eu>Virtualbox</eu>
-   <fa>Virtualbox</fa>
-   <fil_PH>Virtualbox</fil_PH>
-   <fi>Virtualbox</fi>
-   <fr>Virtualbox</fr>
-   <he_IL>Virtualbox</he_IL>
-   <hi>Virtualbox</hi>
-   <hr>Virtualbox</hr>
-   <hu>Virtualbox</hu>
-   <id>Virtualbox</id>
-   <is>Virtualbox</is>
-   <it>Virtualbox</it>
-   <ja_JP>Virtualbox</ja_JP>
-   <ja>Virtualbox</ja>
-   <kk>Virtualbox</kk>
-   <ko>Virtualbox</ko>
-   <lt>Virtualbox</lt>
-   <mk>Virtualbox</mk>
-   <mr>Virtualbox</mr>
-   <nb>Virtualbox</nb>
-   <nl>Virtualbox</nl>
-   <pl>menedżer maszyn wirtualnych</pl>
-   <pt_BR>Virtualbox</pt_BR>
-   <pt>Virtualbox</pt>
-   <ro>Virtualbox</ro>
-   <ru>Приложение виртуализации VirtualBox</ru>
-   <sk>Virtualbox</sk>
-   <sl>Virtualbox</sl>
-   <sq>Virtualbox</sq>
-   <sr>Virtualbox</sr>
-   <sv>Virtualbox</sv>
-   <tr>Virtualbox</tr>
-   <uk>Virtualbox</uk>
-   <zh_CN>Virtualbox</zh_CN>
-   <zh_TW>Virtualbox</zh_TW>
+   <am>Vietnamese Language Meta-Package for LibreOffice</am>
+   <ar>Vietnamese Language Meta-Package for LibreOffice</ar>
+   <bg>Vietnamese Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Vietnamese per LibreOffice</ca>
+   <cs>Vietnamese Language Meta-Package for LibreOffice</cs>
+   <da>Vietnamese sprog-metapakke til LibreOffice</da>
+   <de>Vietnamese Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Vietnamese</el>
+   <en>Vietnamese Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Vietnamese para LibreOffice</es>
+   <et>Vietnamese Language Meta-Package for LibreOffice</et>
+   <eu>Vietnamese Language Meta-Package for LibreOffice</eu>
+   <fa>Vietnamese Language Meta-Package for LibreOffice</fa>
+   <fi>Vietnamese Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Vietnamese pour LibreOffice</fr>
+   <he_IL>Vietnamese Language Meta-Package for LibreOffice</he_IL>
+   <hi>Vietnamese Language Meta-Package for LibreOffice</hi>
+   <hr>Vietnamese Language Meta-Package for LibreOffice</hr>
+   <hu>Vietnamese Language Meta-Package for LibreOffice</hu>
+   <id>Vietnamese Language Meta-Package for LibreOffice</id>
+   <is>Vietnamese Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Vietnamese per LibreOffice</it>
+   <ja_JP>Vietnamese Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Vietnamese Language Meta-Package for LibreOffice</ja>
+   <kk>Vietnamese Language Meta-Package for LibreOffice</kk>
+   <ko>Vietnamese Language Meta-Package for LibreOffice</ko>
+   <lt>Vietnamese Language Meta-Package for LibreOffice</lt>
+   <mk>Vietnamese Language Meta-Package for LibreOffice</mk>
+   <mr>Vietnamese Language Meta-Package for LibreOffice</mr>
+   <nb>Vietnamese Language Meta-Package for LibreOffice</nb>
+   <nl>Vietnamese Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Vietnamese metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Vietnamese Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Vietnamese Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Vietnamese Language Meta-Package for LibreOffice</ro>
+   <ru>Vietnamese Language Meta-Package for LibreOffice</ru>
+   <sk>Vietnamese Language Meta-Package for LibreOffice</sk>
+   <sl>Vietnamese Language Meta-Package for LibreOffice</sl>
+   <sq>Vietnamese Language Meta-Package for LibreOffice</sq>
+   <sr>Vietnamese Language Meta-Package for LibreOffice</sr>
+   <sv>Vietnamese Språk Meta-Paket för LibreOffice</sv>
+   <tr>Vietnamese Language Meta-Package for LibreOffice</tr>
+   <uk>Vietnamese Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Vietnamese Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Vietnamese Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

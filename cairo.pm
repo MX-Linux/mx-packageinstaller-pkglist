@@ -10,52 +10,51 @@ Cairo Dock
 </name>
 
 <description>
-   <am>an e-book library management application</am>
-   <ar>an e-book library management application</ar>
-   <bg>an e-book library management application</bg>
-   <ca>una aplicació de gestió de biblioteca de llibres electrònics</ca>
-   <cs>an e-book library management application</cs>
-   <da>et program til at håndtere e-bogsbibliotek</da>
-   <de>Eine E-Book-Bibliotheksverwaltung</de>
-   <el>μια εφαρμογή διαχείρισης βιβλιοθήκης ηλεκτρονικών βιβλίων</el>
-   <en>an e-book library management application</en>
-   <es>Organizador de biblioteca de e-book</es>
-   <et>an e-book library management application</et>
-   <eu>an e-book library management application</eu>
-   <fa>an e-book library management application</fa>
-   <fil_PH>an e-book library management application</fil_PH>
-   <fi>an e-book library management application</fi>
-   <fr>Une application pour organiser sa bibliothèque e-book</fr>
-   <he_IL>an e-book library management application</he_IL>
-   <hi>an e-book library management application</hi>
-   <hr>an e-book library management application</hr>
-   <hu>an e-book library management application</hu>
-   <id>an e-book library management application</id>
-   <is>an e-book library management application</is>
-   <it>Applicazione per la gestione di librerie e-book</it>
-   <ja_JP>an e-book library management application</ja_JP>
-   <ja>an e-book library management application</ja>
-   <kk>an e-book library management application</kk>
-   <ko>an e-book library management application</ko>
-   <lt>an e-book library management application</lt>
-   <mk>an e-book library management application</mk>
-   <mr>an e-book library management application</mr>
-   <nb>an e-book library management application</nb>
-   <nl>een e-boek bibliotheek beheer applicatie</nl>
-   <pl>aplikacja do zarządzania bibliotekami e-booków w systemie,  ich wyświetlania, edycji, tworzenia i konwersji</pl>
-   <pt_BR>Aplicativo de gestão de bibliotecas para livros electrónicos e-book</pt_BR>
-   <pt>Aplicação de gestão de bibliotecas para livros electrónicos e-book</pt>
-   <ro>an e-book library management application</ro>
-   <ru>Менеджер библиотеки электронных книг</ru>
-   <sk>an e-book library management application</sk>
-   <sl>aplikacija za upravljanje knjižnic z elektronskimi knjigami</sl>
-   <sq>an e-book library management application</sq>
-   <sr>an e-book library management application</sr>
-   <sv>en hanteringsapp för e-boksbibliotek</sv>
-   <tr>an e-book library management application</tr>
-   <uk>програма керування бібліотекою електронних книжок</uk>
-   <zh_CN>an e-book library management application</zh_CN>
-   <zh_TW>an e-book library management application</zh_TW>
+   <am>3d capable dock w/ plugins</am>
+   <ar>3d capable dock w/ plugins</ar>
+   <bg>3d capable dock w/ plugins</bg>
+   <ca>Prestatge amb capacitat 3D amb connectors</ca>
+   <cs>3d capable dock w/ plugins</cs>
+   <da>dok med plugins som formår 3d</da>
+   <de>3d-fähiges Dock mit Plugins</de>
+   <el>3d dock με plugins</el>
+   <en>3d capable dock w/ plugins</en>
+   <es>Muelle compatible con plugins 3D</es>
+   <et>3d capable dock w/ plugins</et>
+   <eu>3d capable dock w/ plugins</eu>
+   <fa>3d capable dock w/ plugins</fa>
+   <fi>3d capable dock w/ plugins</fi>
+   <fr>Un dock avec possibilités 3D et ses plugins</fr>
+   <he_IL>3d capable dock w/ plugins</he_IL>
+   <hi>3d capable dock w/ plugins</hi>
+   <hr>3d capable dock w/ plugins</hr>
+   <hu>3d capable dock w/ plugins</hu>
+   <id>3d capable dock w/ plugins</id>
+   <is>3d capable dock w/ plugins</is>
+   <it>Barra dock con capacità 3D e plugin</it>
+   <ja_JP>3d capable dock w/ plugins</ja_JP>
+   <ja>3d capable dock w/ plugins</ja>
+   <kk>3d capable dock w/ plugins</kk>
+   <ko>3d capable dock w/ plugins</ko>
+   <lt>3d capable dock w/ plugins</lt>
+   <mk>3d capable dock w/ plugins</mk>
+   <mr>3d capable dock w/ plugins</mr>
+   <nb>3d capable dock w/ plugins</nb>
+   <nl>3d geschikt dock met plugins</nl>
+   <pl>panel dokujący obsługujacy 3D</pl>
+   <pt_BR>Doca com capacidade 3D, com suplementos (plugins)</pt_BR>
+   <pt>Doca com capacidade 3D, com suplementos (plugins)</pt>
+   <ro>3d capable dock w/ plugins</ro>
+   <ru>Док-панель с поддержкой 3D и плагинами</ru>
+   <sk>3d capable dock w/ plugins</sk>
+   <sl>Sidrišče z vstavki, ki podpira tudi 3d</sl>
+   <sq>3d capable dock w/ plugins</sq>
+   <sr>3d capable dock w/ plugins</sr>
+   <sv>3D kapabel docka med plugins</sv>
+   <tr>3d capable dock w/ plugins</tr>
+   <uk>3D док з набором плагінів</uk>
+   <zh_CN>3d capable dock w/ plugins</zh_CN>
+   <zh_TW>3d capable dock w/ plugins</zh_TW>
 </description>
 
 <installable>

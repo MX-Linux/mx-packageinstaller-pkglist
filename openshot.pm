@@ -10,52 +10,51 @@ Openshot
 </name>
 
 <description>
-   <am>Opera browser (32 bit is beta-only)</am>
-   <ar>Opera browser (32 bit is beta-only)</ar>
-   <bg>Opera browser (32 bit is beta-only)</bg>
-   <ca>Navegador Opera (32 bit només beta)</ca>
-   <cs>Opera browser (32 bit is beta-only)</cs>
-   <da>Opera-browser (32 bit er kun beta)</da>
-   <de>Opera-Browser (32 Bit ist nur Beta-Version)</de>
-   <el>Πρόγραμμα περιήγησης Opera (32 bit είναι μόνο beta)</el>
-   <en>Opera browser (32 bit is beta-only)</en>
-   <es>Navegador Opera (32 bit - solo versión beta)</es>
-   <et>Opera browser (32 bit is beta-only)</et>
-   <eu>Opera browser (32 bit is beta-only)</eu>
-   <fa>Opera browser (32 bit is beta-only)</fa>
-   <fil_PH>Opera browser (32 bit is beta-only)</fil_PH>
-   <fi>Opera browser (32 bit is beta-only)</fi>
-   <fr>Navigateur Opera (32 bit en beta uniquement)</fr>
-   <he_IL>Opera browser (32 bit is beta-only)</he_IL>
-   <hi>Opera browser (32 bit is beta-only)</hi>
-   <hr>Opera browser (32 bit is beta-only)</hr>
-   <hu>Opera browser (32 bit is beta-only)</hu>
-   <id>Opera browser (32 bit is beta-only)</id>
-   <is>Opera browser (32 bit is beta-only)</is>
-   <it>Opera browser (a 32 bit è esclusivamente-beta)</it>
-   <ja_JP>Opera browser (32 bit is beta-only)</ja_JP>
-   <ja>Opera browser (32 bit is beta-only)</ja>
-   <kk>Opera browser (32 bit is beta-only)</kk>
-   <ko>Opera browser (32 bit is beta-only)</ko>
-   <lt>Opera naršyklė (32 bitų yra tik beta versija)</lt>
-   <mk>Opera browser (32 bit is beta-only)</mk>
-   <mr>Opera browser (32 bit is beta-only)</mr>
-   <nb>Opera browser (32 bit is beta-only)</nb>
-   <nl>Opera browser (32 bit is enkel-beta)</nl>
-   <pl>przeglądarka Opera (wersja 32-bitowa tylko w wersji beta)</pl>
-   <pt_BR>Navegador web Opera (32 bit is beta-only)</pt_BR>
-   <pt>Navegador web Opera (32 bit is beta-only)</pt>
-   <ro>Opera browser (32 bit is beta-only)</ro>
-   <ru>Браузер Opera (32 bit бета-версия)</ru>
-   <sk>Opera browser (32 bit is beta-only)</sk>
-   <sl>Opera brskalnik (32 bitni je zgolj beta)</sl>
-   <sq>Opera browser (32 bit is beta-only)</sq>
-   <sr>Opera browser (32 bit is beta-only)</sr>
-   <sv>Opera webbläsare (32 bit är enbart i beta)</sv>
-   <tr>Opera browser (32 bit is beta-only)</tr>
-   <uk>Браузер Opera (32 біт лише у бета-версії)</uk>
-   <zh_CN>Opera browser (32 bit is beta-only)</zh_CN>
-   <zh_TW>Opera browser (32 bit is beta-only)</zh_TW>
+   <am>non-linear video editor</am>
+   <ar>non-linear video editor</ar>
+   <bg>non-linear video editor</bg>
+   <ca>Editor de vídeo no lineal</ca>
+   <cs>non-linear video editor</cs>
+   <da>ikke-lineær videoredigering</da>
+   <de>Nichtlinearer Videoeditor</de>
+   <el>επεξεργαστής βίντεο - μη γραμμική</el>
+   <en>non-linear video editor</en>
+   <es>Editor de video no lineal</es>
+   <et>non-linear video editor</et>
+   <eu>non-linear video editor</eu>
+   <fa>non-linear video editor</fa>
+   <fi>non-linear video editor</fi>
+   <fr>Éditeur vidéo non-linéaire</fr>
+   <he_IL>non-linear video editor</he_IL>
+   <hi>non-linear video editor</hi>
+   <hr>non-linear video editor</hr>
+   <hu>non-linear video editor</hu>
+   <id>non-linear video editor</id>
+   <is>non-linear video editor</is>
+   <it>editor video non lineare</it>
+   <ja_JP>non-linear video editor</ja_JP>
+   <ja>non-linear video editor</ja>
+   <kk>non-linear video editor</kk>
+   <ko>non-linear video editor</ko>
+   <lt>non-linear video editor</lt>
+   <mk>non-linear video editor</mk>
+   <mr>non-linear video editor</mr>
+   <nb>non-linear video editor</nb>
+   <nl>niet-lineaire video-editor</nl>
+   <pl>nieliniowy edytor wideo</pl>
+   <pt_BR>Editor de vídeo não-linear</pt_BR>
+   <pt>Editor de vídeo não-linear</pt>
+   <ro>non-linear video editor</ro>
+   <ru>Нелинейный видеоредактор</ru>
+   <sk>non-linear video editor</sk>
+   <sl>Nelinearni video urejevalnik</sl>
+   <sq>non-linear video editor</sq>
+   <sr>non-linear video editor</sr>
+   <sv>icke-linjär videoredigerare</sv>
+   <tr>non-linear video editor</tr>
+   <uk>нелінійний відео редактор</uk>
+   <zh_CN>non-linear video editor</zh_CN>
+   <zh_TW>non-linear video editor</zh_TW>
 </description>
 
 <installable>

@@ -10,52 +10,51 @@ Norwegian
 </name>
 
 <description>
-   <am>Norwegian localisation of Thunderbird</am>
-   <ar>Norwegian localisation of Thunderbird</ar>
-   <bg>Norwegian localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Noruec</ca>
-   <cs>Norwegian localisation of Thunderbird</cs>
-   <da>Norsk oversættelse af Thunderbird</da>
-   <de>Norwegische Lokalisierung von Thunderbird</de>
-   <el>Νορβηγική εντοπισμός του Thunderbird</el>
-   <en>Norwegian localisation of Thunderbird</en>
-   <es>Localización Noruega de Thunderbird</es>
-   <et>Norwegian localisation of Thunderbird</et>
-   <eu>Norwegian localisation of Thunderbird</eu>
-   <fa>Norwegian localisation of Thunderbird</fa>
-   <fil_PH>Norwegian localisation of Thunderbird</fil_PH>
-   <fi>Norwegian localisation of Thunderbird</fi>
-   <fr>Localisation norvégienne pour Thunderbird</fr>
-   <he_IL>Norwegian localisation of Thunderbird</he_IL>
-   <hi>Norwegian localisation of Thunderbird</hi>
-   <hr>Norwegian localisation of Thunderbird</hr>
-   <hu>Norwegian localisation of Thunderbird</hu>
-   <id>Norwegian localisation of Thunderbird</id>
-   <is>Norwegian localisation of Thunderbird</is>
-   <it>Localizzazione norvegese di Thunderbird</it>
-   <ja_JP>Norwegian localisation of Thunderbird</ja_JP>
-   <ja>Norwegian localisation of Thunderbird</ja>
-   <kk>Norwegian localisation of Thunderbird</kk>
-   <ko>Norwegian localisation of Thunderbird</ko>
-   <lt>Norwegian localisation of Thunderbird</lt>
-   <mk>Norwegian localisation of Thunderbird</mk>
-   <mr>Norwegian localisation of Thunderbird</mr>
-   <nb>Norwegian localisation of Thunderbird</nb>
-   <nl>Noorse lokalisatie van Thunderbird</nl>
-   <pl>Norweska lokalizacja Thunderbirda</pl>
-   <pt_BR>Norueguês Localização para Thunderbird</pt_BR>
-   <pt>Norueguês Localização para Thunderbird</pt>
-   <ro>Norwegian localisation of Thunderbird</ro>
-   <ru>Norwegian localisation of Thunderbird</ru>
-   <sk>Norwegian localisation of Thunderbird</sk>
-   <sl>Norwegian localisation of Thunderbird</sl>
-   <sq>Norwegian localisation of Thunderbird</sq>
-   <sr>Norwegian localisation of Thunderbird</sr>
-   <sv>Norsk lokalisering av Thunderbird</sv>
-   <tr>Thunderbird'ün Norveççe yerelleştirmesi</tr>
-   <uk>Norwegian локалізація Thunderbird</uk>
-   <zh_CN>Norwegian localisation of Thunderbird</zh_CN>
-   <zh_TW>Norwegian localisation of Thunderbird</zh_TW>
+   <am>Norwegian Language Meta-Package</am>
+   <ar>Norwegian Language Meta-Package</ar>
+   <bg>Norwegian Language Meta-Package</bg>
+   <ca>Meta-paquet de llengua per a Noruec</ca>
+   <cs>Norwegian Language Meta-Package</cs>
+   <da>Norsk sprog-metapakke</da>
+   <de>Norwegisches Sprach-Meta-Paket</de>
+   <el>Νορβηγική γλώσσα</el>
+   <en>Norwegian Language Meta-Package</en>
+   <es>Meta-Paquete de Idioma Noruego</es>
+   <et>Norwegian Language Meta-Package</et>
+   <eu>Norwegian Language Meta-Package</eu>
+   <fa>Norwegian Language Meta-Package</fa>
+   <fi>Norwegian Language Meta-Package</fi>
+   <fr>Méta-paquet pour langue norvégienne</fr>
+   <he_IL>Norwegian Language Meta-Package</he_IL>
+   <hi>Norwegian Language Meta-Package</hi>
+   <hr>Norwegian Language Meta-Package</hr>
+   <hu>Norwegian Language Meta-Package</hu>
+   <id>Norwegian Language Meta-Package</id>
+   <is>Norwegian Language Meta-Package</is>
+   <it>Meta-pacchetto della lingua norvegese</it>
+   <ja_JP>Norwegian Language Meta-Package</ja_JP>
+   <ja>Norwegian Language Meta-Package</ja>
+   <kk>Norwegian Language Meta-Package</kk>
+   <ko>Norwegian Language Meta-Package</ko>
+   <lt>Norwegian Language Meta-Package</lt>
+   <mk>Norwegian Language Meta-Package</mk>
+   <mr>Norwegian Language Meta-Package</mr>
+   <nb>Norwegian Language Meta-Package</nb>
+   <nl>Noorse Taal Meta-Pakket</nl>
+   <pl>Norweski metapakiet językowy</pl>
+   <pt_BR>Norueguês Meta-Pacote de Idioma</pt_BR>
+   <pt>Norueguês Meta-Pacote de Idioma</pt>
+   <ro>Norwegian Language Meta-Package</ro>
+   <ru>Norwegian Language Meta-Package</ru>
+   <sk>Norwegian Language Meta-Package</sk>
+   <sl>Norwegian Language Meta-Package</sl>
+   <sq>Norwegian Language Meta-Package</sq>
+   <sr>Norwegian Language Meta-Package</sr>
+   <sv>Norskt Språk Meta-Paket </sv>
+   <tr>Norwegian Language Meta-Package</tr>
+   <uk>Norwegian Language Meta-Package</uk>
+   <zh_CN>Norwegian Language Meta-Package</zh_CN>
+   <zh_TW>Norwegian Language Meta-Package</zh_TW>
 </description>
 
 <installable>

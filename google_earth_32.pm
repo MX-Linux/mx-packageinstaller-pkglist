@@ -23,7 +23,6 @@ Google Earth
    <et>Google Earth Globe</et>
    <eu>Google Earth Globe</eu>
    <fa>Google Earth Globe</fa>
-   <fil_PH>Google Earth Globe</fil_PH>
    <fi>Google Earth Globe</fi>
    <fr>Google Earth Globe</fr>
    <he_IL>Google Earth Globe</he_IL>
@@ -48,7 +47,7 @@ Google Earth
    <ro>Google Earth Globe</ro>
    <ru>Google Планета Земля - спутниковые снимки земного шара</ru>
    <sk>Google Earth Globe</sk>
-   <sl>Googlov globus Zemlje</sl>
+   <sl>Googlovv globus Zemlje</sl>
    <sq>Google Earth Globe</sq>
    <sr>Google Earth Globe</sr>
    <sv>Google Earth Glob</sv>

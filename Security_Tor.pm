@@ -10,52 +10,51 @@ Tor and Privoxy
 </name>
 
 <description>
-   <am>Serbian localisation of Firefox</am>
-   <ar>Serbian localisation of Firefox</ar>
-   <bg>Serbian localisation of Firefox</bg>
-   <ca>Localització de Firefox en Serbi</ca>
-   <cs>Serbian localisation of Firefox</cs>
-   <da>Serbisk oversættelse af Firefox</da>
-   <de>Serbische Lokalisierung von Firefox</de>
-   <el>Σερβικός εντοπισμός του Firefox</el>
-   <en>Serbian localisation of Firefox</en>
-   <es>Localización Serbia de Firefox</es>
-   <et>Serbian localisation of Firefox</et>
-   <eu>Serbian localisation of Firefox</eu>
-   <fa>Serbian localisation of Firefox</fa>
-   <fil_PH>Serbian localisation of Firefox</fil_PH>
-   <fi>Serbian localisation of Firefox</fi>
-   <fr>Localisation serbe pour Firefox</fr>
-   <he_IL>Serbian localisation of Firefox</he_IL>
-   <hi>Serbian localisation of Firefox</hi>
-   <hr>Serbian localisation of Firefox</hr>
-   <hu>Serbian localisation of Firefox</hu>
-   <id>Serbian localisation of Firefox</id>
-   <is>Serbian localisation of Firefox</is>
-   <it>Localizzazione serba di Firefox</it>
-   <ja_JP>Serbian localisation of Firefox</ja_JP>
-   <ja>Serbian localisation of Firefox</ja>
-   <kk>Serbian localisation of Firefox</kk>
-   <ko>Serbian localisation of Firefox</ko>
-   <lt>Serbian localisation of Firefox</lt>
-   <mk>Serbian localisation of Firefox</mk>
-   <mr>Serbian localisation of Firefox</mr>
-   <nb>Serbian localisation of Firefox</nb>
-   <nl>Servische lokalisatie van Firefox</nl>
-   <pl>Serbska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Sérvio Localização para Firefox</pt_BR>
-   <pt>Sérvio Localização para Firefox</pt>
-   <ro>Serbian localisation of Firefox</ro>
-   <ru>Сербская локализация Firefox</ru>
-   <sk>Serbian localisation of Firefox</sk>
-   <sl>Serbian localisation of Firefox</sl>
-   <sq>Serbian localisation of Firefox</sq>
-   <sr>Serbian localisation of Firefox</sr>
-   <sv>Serbisk  lokalisering av Firefox</sv>
-   <tr>Firefox'un Sırpça yerelleştirmesi</tr>
-   <uk>Serbian localisation of Firefox</uk>
-   <zh_CN>Serbian localisation of Firefox</zh_CN>
-   <zh_TW>Serbian localisation of Firefox</zh_TW>
+   <am>Tor and Privoxy</am>
+   <ar>Tor and Privoxy</ar>
+   <bg>Tor and Privoxy</bg>
+   <ca>Tor i Privoxy</ca>
+   <cs>Tor and Privoxy</cs>
+   <da>Tor og Privoxy</da>
+   <de>Tor und Privoxy</de>
+   <el>Tor και Privoxy</el>
+   <en>Tor and Privoxy</en>
+   <es>Tor y Privoxy</es>
+   <et>Tor and Privoxy</et>
+   <eu>Tor and Privoxy</eu>
+   <fa>Tor and Privoxy</fa>
+   <fi>Tor and Privoxy</fi>
+   <fr>Tor et Privoxy</fr>
+   <he_IL>Tor and Privoxy</he_IL>
+   <hi>Tor and Privoxy</hi>
+   <hr>Tor and Privoxy</hr>
+   <hu>Tor and Privoxy</hu>
+   <id>Tor and Privoxy</id>
+   <is>Tor and Privoxy</is>
+   <it>Tor e Privoxy</it>
+   <ja_JP>Tor and Privoxy</ja_JP>
+   <ja>Tor and Privoxy</ja>
+   <kk>Tor and Privoxy</kk>
+   <ko>Tor and Privoxy</ko>
+   <lt>Tor ir Privoxy</lt>
+   <mk>Tor and Privoxy</mk>
+   <mr>Tor and Privoxy</mr>
+   <nb>Tor and Privoxy</nb>
+   <nl>Tor en Privoxy</nl>
+   <pl>przeglądarka Tor i serwer proxy Privoxy</pl>
+   <pt_BR>Tor and Privoxy</pt_BR>
+   <pt>Tor and Privoxy</pt>
+   <ro>Tor and Privoxy</ro>
+   <ru>Tor и Privoxy - обеспечение анонимности и фильтрации веб</ru>
+   <sk>Tor and Privoxy</sk>
+   <sl>Tor in Privoxy</sl>
+   <sq>Tor and Privoxy</sq>
+   <sr>Tor and Privoxy</sr>
+   <sv>Tor och Privoxy</sv>
+   <tr>Tor and Privoxy</tr>
+   <uk>Tor and Privoxy</uk>
+   <zh_CN>Tor and Privoxy</zh_CN>
+   <zh_TW>Tor and Privoxy</zh_TW>
 </description>
 
 <installable>

@@ -10,52 +10,51 @@ GnuCash
 </name>
 
 <description>
-   <am>lightweight spreadsheet</am>
-   <ar>lightweight spreadsheet</ar>
-   <bg>lightweight spreadsheet</bg>
-   <ca>Full de càlcul lleuger</ca>
-   <cs>lightweight spreadsheet</cs>
-   <da>letvægts regneark</da>
-   <de>Leichtgewichtige Tabellenkalkulation</de>
-   <el>ελαφρύ υπολογιστικό φύλλο</el>
-   <en>lightweight spreadsheet</en>
-   <es>Hoja de cálculo ligera</es>
-   <et>lightweight spreadsheet</et>
-   <eu>lightweight spreadsheet</eu>
-   <fa>lightweight spreadsheet</fa>
-   <fil_PH>lightweight spreadsheet</fil_PH>
-   <fi>lightweight spreadsheet</fi>
-   <fr>Tableur léger</fr>
-   <he_IL>lightweight spreadsheet</he_IL>
-   <hi>lightweight spreadsheet</hi>
-   <hr>lightweight spreadsheet</hr>
-   <hu>lightweight spreadsheet</hu>
-   <id>lightweight spreadsheet</id>
-   <is>lightweight spreadsheet</is>
-   <it>foglio di calcolo leggero</it>
-   <ja_JP>lightweight spreadsheet</ja_JP>
-   <ja>lightweight spreadsheet</ja>
-   <kk>lightweight spreadsheet</kk>
-   <ko>lightweight spreadsheet</ko>
-   <lt>lightweight spreadsheet</lt>
-   <mk>lightweight spreadsheet</mk>
-   <mr>lightweight spreadsheet</mr>
-   <nb>lightweight spreadsheet</nb>
-   <nl>lichtgewicht speadsheet</nl>
-   <pl>lekki arkusz kalkulacyjny</pl>
-   <pt_BR>Planilha simples e ligeira</pt_BR>
-   <pt>Folha de cálculo simples e ligeira</pt>
-   <ro>lightweight spreadsheet</ro>
-   <ru>Легковесный редактор электронных таблиц (включает основные функции Excel)</ru>
-   <sk>lightweight spreadsheet</sk>
-   <sl>lahka preglednica</sl>
-   <sq>lightweight spreadsheet</sq>
-   <sr>lightweight spreadsheet</sr>
-   <sv>lättvikts spreadsheet</sv>
-   <tr>lightweight spreadsheet</tr>
-   <uk>легкий табличний процесор</uk>
-   <zh_CN>lightweight spreadsheet</zh_CN>
-   <zh_TW>lightweight spreadsheet</zh_TW>
+   <am>personal and small-business financial-accounting software</am>
+   <ar>personal and small-business financial-accounting software</ar>
+   <bg>personal and small-business financial-accounting software</bg>
+   <ca>programari de comptabilitat personal o per petites empreses</ca>
+   <cs>personal and small-business financial-accounting software</cs>
+   <da>finansstyringssoftware til personer og mindre virksomheder</da>
+   <de>Personal- und Kleinunternehmer-Finanzbuchhaltungssoftware</de>
+   <el>λογισμικό χρηματοοικονομικής λογιστικής προσωπικού και μικρού επιχειρείς</el>
+   <en>personal and small-business financial-accounting software</en>
+   <es>Software de contabilidad financiera personal y de pequeñas empresas</es>
+   <et>personal and small-business financial-accounting software</et>
+   <eu>personal and small-business financial-accounting software</eu>
+   <fa>personal and small-business financial-accounting software</fa>
+   <fi>personal and small-business financial-accounting software</fi>
+   <fr>Logiciel de comptabilité personnelle et pour petites entreprises</fr>
+   <he_IL>personal and small-business financial-accounting software</he_IL>
+   <hi>personal and small-business financial-accounting software</hi>
+   <hr>personal and small-business financial-accounting software</hr>
+   <hu>personal and small-business financial-accounting software</hu>
+   <id>personal and small-business financial-accounting software</id>
+   <is>personal and small-business financial-accounting software</is>
+   <it>Contabilità personale e per piccola impresa</it>
+   <ja_JP>personal and small-business financial-accounting software</ja_JP>
+   <ja>personal and small-business financial-accounting software</ja>
+   <kk>personal and small-business financial-accounting software</kk>
+   <ko>personal and small-business financial-accounting software</ko>
+   <lt>personal and small-business financial-accounting software</lt>
+   <mk>personal and small-business financial-accounting software</mk>
+   <mr>personal and small-business financial-accounting software</mr>
+   <nb>personal and small-business financial-accounting software</nb>
+   <nl>software voor de financiële boekhouding van particulieren en kleine bedrijven</nl>
+   <pl>oprogramowanie finansowo-księgowe dla osób prywatnych i małych firm</pl>
+   <pt_BR>Software de contabilidade-finanças para pequenas empresas e uso pessoal</pt_BR>
+   <pt>Software de contabilidade-finanças para pequenas empresas e uso pessoal</pt>
+   <ro>personal and small-business financial-accounting software</ro>
+   <ru>Приложение финансового учета для персонального и малого бизнеса</ru>
+   <sk>personal and small-business financial-accounting software</sk>
+   <sl>finančno-računovodska programska oprema za osebno rabo in mala podjetja</sl>
+   <sq>personal and small-business financial-accounting software</sq>
+   <sr>personal and small-business financial-accounting software</sr>
+   <sv>personlig och småföretags finansiell räkenskaps-mjukvara</sv>
+   <tr>personal and small-business financial-accounting software</tr>
+   <uk>програма обліку фінансів для малого бізнесу та домашнього господарства</uk>
+   <zh_CN>personal and small-business financial-accounting software</zh_CN>
+   <zh_TW>personal and small-business financial-accounting software</zh_TW>
 </description>
 
 <installable>

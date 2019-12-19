@@ -10,52 +10,51 @@ Finch
 </name>
 
 <description>
-   <am>Finnish localisation of Firefox</am>
-   <ar>Finnish localisation of Firefox</ar>
-   <bg>Finnish localisation of Firefox</bg>
-   <ca>Localització de Firefox en Finès</ca>
-   <cs>Finnish localisation of Firefox</cs>
-   <da>Finsk oversættelse af Firefox</da>
-   <de>Finnische Lokalisierung von Firefox</de>
-   <el>Φινλανδικός εντοπισμός του Firefox</el>
-   <en>Finnish localisation of Firefox</en>
-   <es>Localización Finlandesa de Firefox</es>
-   <et>Finnish localisation of Firefox</et>
-   <eu>Finnish localisation of Firefox</eu>
-   <fa>Finnish localisation of Firefox</fa>
-   <fil_PH>Finnish localisation of Firefox</fil_PH>
-   <fi>Finnish localisation of Firefox</fi>
-   <fr>Localisation finlandaise pour Firefox</fr>
-   <he_IL>Finnish localisation of Firefox</he_IL>
-   <hi>Finnish localisation of Firefox</hi>
-   <hr>Finnish localisation of Firefox</hr>
-   <hu>Finnish localisation of Firefox</hu>
-   <id>Finnish localisation of Firefox</id>
-   <is>Finnish localisation of Firefox</is>
-   <it>Localizzazione finlandese di Firefox</it>
-   <ja_JP>Finnish localisation of Firefox</ja_JP>
-   <ja>Finnish localisation of Firefox</ja>
-   <kk>Finnish localisation of Firefox</kk>
-   <ko>Finnish localisation of Firefox</ko>
-   <lt>Finnish localisation of Firefox</lt>
-   <mk>Finnish localisation of Firefox</mk>
-   <mr>Finnish localisation of Firefox</mr>
-   <nb>Finnish localisation of Firefox</nb>
-   <nl>Finse lokalisatie van Firefox</nl>
-   <pl>Fińska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Finlandês Localização para Firefox</pt_BR>
-   <pt>Finlandês Localização para Firefox</pt>
-   <ro>Finnish localisation of Firefox</ro>
-   <ru>Финская локализация Firefox</ru>
-   <sk>Finnish localisation of Firefox</sk>
-   <sl>Finnish localisation of Firefox</sl>
-   <sq>Finnish localisation of Firefox</sq>
-   <sr>Finnish localisation of Firefox</sr>
-   <sv>Finsk lokalisering av Firefox</sv>
-   <tr>Firefox'un Fince yerelleştirmesi</tr>
-   <uk>Finnish локалізація Firefox</uk>
-   <zh_CN>Finnish localisation of Firefox</zh_CN>
-   <zh_TW>Finnish localisation of Firefox</zh_TW>
+   <am>a text-console-based, modular instant messaging client</am>
+   <ar>a text-console-based, modular instant messaging client</ar>
+   <bg>a text-console-based, modular instant messaging client</bg>
+   <ca>un client de missatgeria instantània basat en terminal</ca>
+   <cs>a text-console-based, modular instant messaging client</cs>
+   <da>En tekstkonsol-baseret, modulær strakssamtale-klient</da>
+   <de>Ein modularer Instant Messaging-Client in der Textconsole</de>
+   <el>πελάτη άμεσων μηνυμάτων σε κονσόλα κειμένου</el>
+   <en>a text-console-based, modular instant messaging client</en>
+   <es>Cliente de mensajería instantánea modular para línea de comandos</es>
+   <et>a text-console-based, modular instant messaging client</et>
+   <eu>a text-console-based, modular instant messaging client</eu>
+   <fa>a text-console-based, modular instant messaging client</fa>
+   <fi>a text-console-based, modular instant messaging client</fi>
+   <fr>Un client console-texte modulaire de messagerie instantanée</fr>
+   <he_IL>a text-console-based, modular instant messaging client</he_IL>
+   <hi>a text-console-based, modular instant messaging client</hi>
+   <hr>a text-console-based, modular instant messaging client</hr>
+   <hu>a text-console-based, modular instant messaging client</hu>
+   <id>a text-console-based, modular instant messaging client</id>
+   <is>a text-console-based, modular instant messaging client</is>
+   <it>Client di messaggistica istantanea modulare con interfaccia basata sul terminale</it>
+   <ja_JP>a text-console-based, modular instant messaging client</ja_JP>
+   <ja>a text-console-based, modular instant messaging client</ja>
+   <kk>a text-console-based, modular instant messaging client</kk>
+   <ko>a text-console-based, modular instant messaging client</ko>
+   <lt>a text-console-based, modular instant messaging client</lt>
+   <mk>a text-console-based, modular instant messaging client</mk>
+   <mr>a text-console-based, modular instant messaging client</mr>
+   <nb>a text-console-based, modular instant messaging client</nb>
+   <nl>een modulaire client voor instant messaging op basis van tekstconsoles</nl>
+   <pl>oparty na konsoli tekstowej, modułowy klient wiadomości błyskawicznych (komunikator)</pl>
+   <pt_BR>Cliente de mensagens instantâneas modular, por consola/terminal</pt_BR>
+   <pt>Cliente de mensagens instantâneas modular, por consola/terminal</pt>
+   <ro>a text-console-based, modular instant messaging client</ro>
+   <ru>Консольный модульный клиент мгновенных сообщений</ru>
+   <sk>a text-console-based, modular instant messaging client</sk>
+   <sl>na tekstovni konmzoli temelječ, modularni odjemalec za instantno sporočanje</sl>
+   <sq>a text-console-based, modular instant messaging client</sq>
+   <sr>a text-console-based, modular instant messaging client</sr>
+   <sv>en textkonsol-baserad modulär snabbmeddelande-klient</sv>
+   <tr>a text-console-based, modular instant messaging client</tr>
+   <uk>консольний модульний клієнт миттєвих повідомлень</uk>
+   <zh_CN>a text-console-based, modular instant messaging client</zh_CN>
+   <zh_TW>a text-console-based, modular instant messaging client</zh_TW>
 </description>
 
 <installable>

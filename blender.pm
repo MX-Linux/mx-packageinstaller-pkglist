@@ -10,52 +10,51 @@ Blender
 </name>
 
 <description>
-   <am>a GTK+ bluetooth management utility</am>
-   <ar>a GTK+ bluetooth management utility</ar>
-   <bg>a GTK+ bluetooth management utility</bg>
-   <ca>Eina de gestió Bluetooth GTK+</ca>
-   <cs>a GTK+ bluetooth management utility</cs>
-   <da>et GTK+ bluetooth-håndteringsredskab</da>
-   <de>Ein GTK+ Bluetooth-Management-Dienstprogramm</de>
-   <el>ένα βοηθητικό πρόγραμμα διαχείρισης bluetooth</el>
-   <en>a GTK+ bluetooth management utility</en>
-   <es>Utilidad GTK+ para administrar Bluetooth</es>
-   <et>a GTK+ bluetooth management utility</et>
-   <eu>a GTK+ bluetooth management utility</eu>
-   <fa>a GTK+ bluetooth management utility</fa>
-   <fil_PH>a GTK+ bluetooth management utility</fil_PH>
-   <fi>a GTK+ bluetooth management utility</fi>
-   <fr>Un utilitaire GTK+ de gestion bluetooth</fr>
-   <he_IL>a GTK+ bluetooth management utility</he_IL>
-   <hi>a GTK+ bluetooth management utility</hi>
-   <hr>a GTK+ bluetooth management utility</hr>
-   <hu>a GTK+ bluetooth management utility</hu>
-   <id>a GTK+ bluetooth management utility</id>
-   <is>a GTK+ bluetooth management utility</is>
-   <it>Utility GTK+ di gestione del bluethooth</it>
-   <ja_JP>a GTK+ bluetooth management utility</ja_JP>
-   <ja>a GTK+ bluetooth management utility</ja>
-   <kk>a GTK+ bluetooth management utility</kk>
-   <ko>a GTK+ bluetooth management utility</ko>
-   <lt>a GTK+ bluetooth management utility</lt>
-   <mk>a GTK+ bluetooth management utility</mk>
-   <mr>a GTK+ bluetooth management utility</mr>
-   <nb>a GTK+ bluetooth management utility</nb>
-   <nl>een GTK+ bluetooth beheer utility</nl>
-   <pl>narzędzie GTK+ do zarządzania bluetooth</pl>
-   <pt_BR>Utilitário de gestão de bluetooth para uso em GTK+</pt_BR>
-   <pt>Utilitário de gestão de bluetooth para uso em GTK+</pt>
-   <ro>a GTK+ bluetooth management utility</ro>
-   <ru>GTK+ утилита управления bluetooth</ru>
-   <sk>a GTK+ bluetooth management utility</sk>
-   <sl>GTK+ orodje za upravljanje bluetooth povezav</sl>
-   <sq>a GTK+ bluetooth management utility</sq>
-   <sr>a GTK+ bluetooth management utility</sr>
-   <sv>ett GTK+ bluetooth hanteringsverktyg</sv>
-   <tr>a GTK+ bluetooth management utility</tr>
-   <uk>GTK+ утиліта для bluetooth</uk>
-   <zh_CN>a GTK+ bluetooth management utility</zh_CN>
-   <zh_TW>a GTK+ bluetooth management utility</zh_TW>
+   <am>a free and open source 3D animation suite</am>
+   <ar>a free and open source 3D animation suite</ar>
+   <bg>a free and open source 3D animation suite</bg>
+   <ca>Suite d'animació 3D lliure i de codi obert</ca>
+   <cs>a free and open source 3D animation suite</cs>
+   <da>en fri og open source 3D-animationspakke</da>
+   <de>Eine kostenlose und quelloffene 3D-Animationssuite</de>
+   <el>μια ελεύθερη σουίτα 3D animation</el>
+   <en>a free and open source 3D animation suite</en>
+   <es>Una suite de animación en 3D libre y de código abierto</es>
+   <et>a free and open source 3D animation suite</et>
+   <eu>a free and open source 3D animation suite</eu>
+   <fa>a free and open source 3D animation suite</fa>
+   <fi>a free and open source 3D animation suite</fi>
+   <fr>Une suite logicielle libre et open source d'animation 3D</fr>
+   <he_IL>a free and open source 3D animation suite</he_IL>
+   <hi>a free and open source 3D animation suite</hi>
+   <hr>a free and open source 3D animation suite</hr>
+   <hu>a free and open source 3D animation suite</hu>
+   <id>a free and open source 3D animation suite</id>
+   <is>a free and open source 3D animation suite</is>
+   <it>Programma gratuito ed open source di animazione 3D</it>
+   <ja_JP>a free and open source 3D animation suite</ja_JP>
+   <ja>a free and open source 3D animation suite</ja>
+   <kk>a free and open source 3D animation suite</kk>
+   <ko>a free and open source 3D animation suite</ko>
+   <lt>a free and open source 3D animation suite</lt>
+   <mk>a free and open source 3D animation suite</mk>
+   <mr>a free and open source 3D animation suite</mr>
+   <nb>a free and open source 3D animation suite</nb>
+   <nl>een gratis en open source 3D animatie suite</nl>
+   <pl>wolne i otwarte oprogramowanie do modelowania i renderowania obrazów oraz animacji 3D</pl>
+   <pt_BR>Conjunto de animação 3D livre e de fonte aberta</pt_BR>
+   <pt>Conjunto de animação 3D livre e de fonte aberta</pt>
+   <ro>a free and open source 3D animation suite</ro>
+   <ru>Бесплатная среда 3D анимации с открытым кодом</ru>
+   <sk>a free and open source 3D animation suite</sk>
+   <sl>brezplačen odprtokodni paket za 3D animacijo</sl>
+   <sq>a free and open source 3D animation suite</sq>
+   <sr>a free and open source 3D animation suite</sr>
+   <sv>en fri och öppen källkods 3D animationssvit</sv>
+   <tr>a free and open source 3D animation suite</tr>
+   <uk>вільний та відкритий пакет для роботи з 3D графікою</uk>
+   <zh_CN>a free and open source 3D animation suite</zh_CN>
+   <zh_TW>a free and open source 3D animation suite</zh_TW>
 </description>
 
 <installable>

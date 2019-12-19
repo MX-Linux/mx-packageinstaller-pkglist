@@ -10,52 +10,51 @@ Hindi_Libreoffice
 </name>
 
 <description>
-   <am>a Qt-4 based advanced screencapture app</am>
-   <ar>a Qt-4 based advanced screencapture app</ar>
-   <bg>a Qt-4 based advanced screencapture app</bg>
-   <ca>aplicació avançada de captura de pantalla basad en Qt-4</ca>
-   <cs>a Qt-4 based advanced screencapture app</cs>
-   <da>et avanceret Qt-4-baseret skærmoptagerprogram</da>
-   <de>Eine Qt-4-basierte erweiterte Screencapture-Anwendung</de>
-   <el>εφαρμογή λήψης οθόνης με βάση Qt-4</el>
-   <en>a Qt-4 based advanced screencapture app</en>
-   <es>Aplicación de captura de pantalla avanzada basada en QT-4</es>
-   <et>a Qt-4 based advanced screencapture app</et>
-   <eu>a Qt-4 based advanced screencapture app</eu>
-   <fa>a Qt-4 based advanced screencapture app</fa>
-   <fil_PH>a Qt-4 based advanced screencapture app</fil_PH>
-   <fi>a Qt-4 based advanced screencapture app</fi>
-   <fr>Application de capture d'écran Qt-4</fr>
-   <he_IL>a Qt-4 based advanced screencapture app</he_IL>
-   <hi>a Qt-4 based advanced screencapture app</hi>
-   <hr>a Qt-4 based advanced screencapture app</hr>
-   <hu>a Qt-4 based advanced screencapture app</hu>
-   <id>a Qt-4 based advanced screencapture app</id>
-   <is>a Qt-4 based advanced screencapture app</is>
-   <it>applicazione avanzata, basata sulle librerie Qt-4, per la cattura dello schermo</it>
-   <ja_JP>a Qt-4 based advanced screencapture app</ja_JP>
-   <ja>a Qt-4 based advanced screencapture app</ja>
-   <kk>a Qt-4 based advanced screencapture app</kk>
-   <ko>a Qt-4 based advanced screencapture app</ko>
-   <lt>a Qt-4 based advanced screencapture app</lt>
-   <mk>a Qt-4 based advanced screencapture app</mk>
-   <mr>a Qt-4 based advanced screencapture app</mr>
-   <nb>a Qt-4 based advanced screencapture app</nb>
-   <nl>een geavanceerde screencapture-app op basis van Qt-4</nl>
-   <pl>zaawansowana aplikacja do wykonywania zrzutów ekranu oparta na Qt-4</pl>
-   <pt_BR>Aplicativo avançado de captura de tela baseado em Qt-4</pt_BR>
-   <pt>Aplicação avançada de captura de ecrã baseada em Qt-4</pt>
-   <ro>a Qt-4 based advanced screencapture app</ro>
-   <ru>Основанное на Qt-4 приложение создания снимков экрана</ru>
-   <sk>a Qt-4 based advanced screencapture app</sk>
-   <sl>Napredni zajemalnik zaslona, ki temelji na Qt-4</sl>
-   <sq>a Qt-4 based advanced screencapture app</sq>
-   <sr>a Qt-4 based advanced screencapture app</sr>
-   <sv>en Qt-4 baserad avancerad skärmfilmningsapp</sv>
-   <tr>a Qt-4 based advanced screencapture app</tr>
-   <uk>розширена QT-4 програма для знімків екрану</uk>
-   <zh_CN>a Qt-4 based advanced screencapture app</zh_CN>
-   <zh_TW>a Qt-4 based advanced screencapture app</zh_TW>
+   <am>Hindi Language Meta-Package for LibreOffice</am>
+   <ar>Hindi Language Meta-Package for LibreOffice</ar>
+   <bg>Hindi Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Hindi per LibreOffice</ca>
+   <cs>Hindi Language Meta-Package for LibreOffice</cs>
+   <da>Hindi sprog-metapakke til LibreOffice</da>
+   <de>Hindi Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Hindi</el>
+   <en>Hindi Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Hindi para LibreOffice</es>
+   <et>Hindi Language Meta-Package for LibreOffice</et>
+   <eu>Hindi Language Meta-Package for LibreOffice</eu>
+   <fa>Hindi Language Meta-Package for LibreOffice</fa>
+   <fi>Hindi Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Hindi pour LibreOffice</fr>
+   <he_IL>Hindi Language Meta-Package for LibreOffice</he_IL>
+   <hi>Hindi Language Meta-Package for LibreOffice</hi>
+   <hr>Hindi Language Meta-Package for LibreOffice</hr>
+   <hu>Hindi Language Meta-Package for LibreOffice</hu>
+   <id>Hindi Language Meta-Package for LibreOffice</id>
+   <is>Hindi Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Hindi per LibreOffice</it>
+   <ja_JP>Hindi Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Hindi Language Meta-Package for LibreOffice</ja>
+   <kk>Hindi Language Meta-Package for LibreOffice</kk>
+   <ko>Hindi Language Meta-Package for LibreOffice</ko>
+   <lt>Hindi Language Meta-Package for LibreOffice</lt>
+   <mk>Hindi Language Meta-Package for LibreOffice</mk>
+   <mr>Hindi Language Meta-Package for LibreOffice</mr>
+   <nb>Hindi Language Meta-Package for LibreOffice</nb>
+   <nl>Hindi Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Hindi metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Hindi Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Hindi Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Hindi Language Meta-Package for LibreOffice</ro>
+   <ru>Hindi Language Meta-Package for LibreOffice</ru>
+   <sk>Hindi Language Meta-Package for LibreOffice</sk>
+   <sl>Hindi Language Meta-Package for LibreOffice</sl>
+   <sq>Hindi Language Meta-Package for LibreOffice</sq>
+   <sr>Hindi Language Meta-Package for LibreOffice</sr>
+   <sv>Hindi Språk Meta-Paket för LibreOffice</sv>
+   <tr>Hindi Language Meta-Package for LibreOffice</tr>
+   <uk>Hindi Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Hindi Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Hindi Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

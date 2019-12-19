@@ -10,52 +10,51 @@ antiX 5.2 64 bit
 </name>
 
 <description>
-   <am>antiX 5.2.15 kernel pae 32 bit</am>
-   <ar>antiX 5.2.15 kernel pae 32 bit</ar>
-   <bg>antiX 5.2.15 kernel pae 32 bit</bg>
-   <ca>Kernel antiX 5.2.15 PAE 32 bit</ca>
-   <cs>antiX 5.2.15 kernel pae 32 bit</cs>
-   <da>antiX 5.2.15 kernel pae 32 bit</da>
-   <de>antiX 5.2.15 kernel pae 32 bit</de>
-   <el>antiX 5.2.15 kernel pae 32 bit</el>
-   <en>antiX 5.2.15 kernel pae 32 bit</en>
-   <es>antiX 5.2.15 kernel pae 32 bit</es>
-   <et>antiX 5.2.15 kernel pae 32 bit</et>
-   <eu>antiX 5.2.15 kernel pae 32 bit</eu>
-   <fa>antiX 5.2.15 kernel pae 32 bit</fa>
-   <fil_PH>antiX 5.2.15 kernel pae 32 bit</fil_PH>
-   <fi>antiX 5.2.15 kernel pae 32 bit</fi>
-   <fr>antiX 5.2.15 kernel pae 32 bit</fr>
-   <he_IL>antiX 5.2.15 kernel pae 32 bit</he_IL>
-   <hi>antiX 5.2.15 kernel pae 32 bit</hi>
-   <hr>antiX 5.2.15 kernel pae 32 bit</hr>
-   <hu>antiX 5.2.15 kernel pae 32 bit</hu>
-   <id>antiX 5.2.15 kernel pae 32 bit</id>
-   <is>antiX 5.2.15 kernel pae 32 bit</is>
-   <it>antiX 5.2.15 kernel pae 32 bit</it>
-   <ja_JP>antiX 5.2.15 kernel pae 32 bit</ja_JP>
-   <ja>antiX 5.2.15 kernel pae 32 bit</ja>
-   <kk>antiX 5.2.15 kernel pae 32 bit</kk>
-   <ko>antiX 5.2.15 kernel pae 32 bit</ko>
-   <lt>antiX 5.2.15 kernel pae 32 bit</lt>
-   <mk>antiX 5.2.15 kernel pae 32 bit</mk>
-   <mr>antiX 5.2.15 kernel pae 32 bit</mr>
-   <nb>antiX 5.2.15 kernel pae 32 bit</nb>
-   <nl>antiX 5.2.15 kernel pae 32 bit</nl>
-   <pl>antiX 5.2.15 kernel pae 32 bit</pl>
-   <pt_BR>antiX 5.2.15 kernel pae 32 bit</pt_BR>
-   <pt>Núcleo (kernel) antiX 5.2.15 pae 32 bit</pt>
-   <ro>antiX 5.2.15 kernel pae 32 bit</ro>
-   <ru>antiX 5.2.15 ядро, 32 bit PAE</ru>
-   <sk>antiX 5.2.15 kernel pae 32 bit</sk>
-   <sl>antiX 5.2.15 jedro pae 32 bitno</sl>
-   <sq>antiX 5.2.15 kernel pae 32 bit</sq>
-   <sr>antiX 5.2.15 kernel pae 32 bit</sr>
-   <sv>antiX 5.2.15 kärna pae 32 bit</sv>
-   <tr>antiX 5.2.15 kernel pae 32 bit</tr>
-   <uk>antiX 5.2.15 kernel pae 32 bit</uk>
-   <zh_CN>antiX 5.2.15 kernel pae 32 bit</zh_CN>
-   <zh_TW>antiX 5.2.15 kernel pae 32 bit</zh_TW>
+   <am>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</am>
+   <ar>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</ar>
+   <bg>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</bg>
+   <ca>Kernel d'antix 5.2.15 amb pegats per meltdown i Spectra, 64 bit</ca>
+   <cs>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</cs>
+   <da>antiX 5.2.15 kerne meltdown- og spectre-rettelse, 64 bit</da>
+   <de>antiX 5.2.15 Kernel - Meltdown und Spectre gepatcht, 64 Bit</de>
+   <el>antiX 5.2.15 πυρήνα Meltdown και Spectre patched, 64 bit</el>
+   <en>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</en>
+   <es>kernel antiX 5.2.15 con parche Meltdown y Spectre, 64 bit</es>
+   <et>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</et>
+   <eu>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</eu>
+   <fa>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</fa>
+   <fi>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</fi>
+   <fr>Noyau antiX 5.2.15 patché pour Meltdown et Spectre, 64 bit</fr>
+   <he_IL>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</he_IL>
+   <hi>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</hi>
+   <hr>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</hr>
+   <hu>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</hu>
+   <id>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</id>
+   <is>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</is>
+   <it>Kernel antiX 5.2.15, con patch per Meltdown e Spectre, 64 bit</it>
+   <ja_JP>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</ja_JP>
+   <ja>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</ja>
+   <kk>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</kk>
+   <ko>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</ko>
+   <lt>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</lt>
+   <mk>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</mk>
+   <mr>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</mr>
+   <nb>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</nb>
+   <nl>antiX 5.2.15 kernel Meltdown en Spectre patched, 64 bit</nl>
+   <pl>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</pl>
+   <pt_BR>antiX 5.2.15 kernel com correções para as falhas Meltdown e Spectre, 64 bit</pt_BR>
+   <pt>Núcleo antiX 5.2.15 com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
+   <ro>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</ro>
+   <ru>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</ru>
+   <sk>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</sk>
+   <sl>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</sl>
+   <sq>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</sq>
+   <sr>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</sr>
+   <sv>antiX 5.2.15 kärna Meltdown och Spectre fixad, 64 bit</sv>
+   <tr>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</tr>
+   <uk>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</uk>
+   <zh_CN>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</zh_CN>
+   <zh_TW>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</zh_TW>
 </description>
 
 <installable>

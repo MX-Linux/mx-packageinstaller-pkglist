@@ -10,52 +10,51 @@ Slovak_Libreoffice
 </name>
 
 <description>
-   <am>Slovak localisation of Thunderbird</am>
-   <ar>Slovak localisation of Thunderbird</ar>
-   <bg>Slovak localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Eslovac</ca>
-   <cs>Slovak localisation of Thunderbird</cs>
-   <da>Slovakisk oversættelse af Thunderbird</da>
-   <de>Slowakische Lokalisierung von Thunderbird</de>
-   <el>Σλοβακική εντοπισμός του Thunderbird</el>
-   <en>Slovak localisation of Thunderbird</en>
-   <es>Localización Eslovaca de Thunderbird</es>
-   <et>Slovak localisation of Thunderbird</et>
-   <eu>Slovak localisation of Thunderbird</eu>
-   <fa>Slovak localisation of Thunderbird</fa>
-   <fil_PH>Slovak localisation of Thunderbird</fil_PH>
-   <fi>Slovak localisation of Thunderbird</fi>
-   <fr>Localisation slovaque pour Thunderbird</fr>
-   <he_IL>Slovak localisation of Thunderbird</he_IL>
-   <hi>Slovak localisation of Thunderbird</hi>
-   <hr>Slovak localisation of Thunderbird</hr>
-   <hu>Slovak localisation of Thunderbird</hu>
-   <id>Slovak localisation of Thunderbird</id>
-   <is>Slovak localisation of Thunderbird</is>
-   <it>Localizzazione slovacca di Thunderbird</it>
-   <ja_JP>Slovak localisation of Thunderbird</ja_JP>
-   <ja>Slovak localisation of Thunderbird</ja>
-   <kk>Slovak localisation of Thunderbird</kk>
-   <ko>Slovak localisation of Thunderbird</ko>
-   <lt>Slovak localisation of Thunderbird</lt>
-   <mk>Slovak localisation of Thunderbird</mk>
-   <mr>Slovak localisation of Thunderbird</mr>
-   <nb>Slovak localisation of Thunderbird</nb>
-   <nl>Slovaakse lokalisatie van Thunderbird</nl>
-   <pl>Słowacka lokalizacja Thunderbirda</pl>
-   <pt_BR>Eslovaco Localização para Thunderbird</pt_BR>
-   <pt>Eslovaco Localização para Thunderbird</pt>
-   <ro>Slovak localisation of Thunderbird</ro>
-   <ru>Slovak localisation of Thunderbird</ru>
-   <sk>Slovak localisation of Thunderbird</sk>
-   <sl>Slovak localisation of Thunderbird</sl>
-   <sq>Slovak localisation of Thunderbird</sq>
-   <sr>Slovak localisation of Thunderbird</sr>
-   <sv>Slovakisk lokalisering av Thunderbird</sv>
-   <tr>Thunderbird'ün Slovakça yerelleştirmesi</tr>
-   <uk>Slovak localisation of Thunderbird</uk>
-   <zh_CN>Slovak localisation of Thunderbird</zh_CN>
-   <zh_TW>Slovak localisation of Thunderbird</zh_TW>
+   <am>Slovak Language Meta-Package for LibreOffice</am>
+   <ar>Slovak Language Meta-Package for LibreOffice</ar>
+   <bg>Slovak Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Slovak per LibreOffice</ca>
+   <cs>Slovak Language Meta-Package for LibreOffice</cs>
+   <da>Slovak sprog-metapakke til LibreOffice</da>
+   <de>Slovak Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Slovak</el>
+   <en>Slovak Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Slovak para LibreOffice</es>
+   <et>Slovak Language Meta-Package for LibreOffice</et>
+   <eu>Slovak Language Meta-Package for LibreOffice</eu>
+   <fa>Slovak Language Meta-Package for LibreOffice</fa>
+   <fi>Slovak Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Slovak pour LibreOffice</fr>
+   <he_IL>Slovak Language Meta-Package for LibreOffice</he_IL>
+   <hi>Slovak Language Meta-Package for LibreOffice</hi>
+   <hr>Slovak Language Meta-Package for LibreOffice</hr>
+   <hu>Slovak Language Meta-Package for LibreOffice</hu>
+   <id>Slovak Language Meta-Package for LibreOffice</id>
+   <is>Slovak Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Slovak per LibreOffice</it>
+   <ja_JP>Slovak Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Slovak Language Meta-Package for LibreOffice</ja>
+   <kk>Slovak Language Meta-Package for LibreOffice</kk>
+   <ko>Slovak Language Meta-Package for LibreOffice</ko>
+   <lt>Slovak Language Meta-Package for LibreOffice</lt>
+   <mk>Slovak Language Meta-Package for LibreOffice</mk>
+   <mr>Slovak Language Meta-Package for LibreOffice</mr>
+   <nb>Slovak Language Meta-Package for LibreOffice</nb>
+   <nl>Slovak Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Slovak metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Slovak Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Slovak Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Slovak Language Meta-Package for LibreOffice</ro>
+   <ru>Slovak Language Meta-Package for LibreOffice</ru>
+   <sk>Slovak Language Meta-Package for LibreOffice</sk>
+   <sl>Slovak Language Meta-Package for LibreOffice</sl>
+   <sq>Slovak Language Meta-Package for LibreOffice</sq>
+   <sr>Slovak Language Meta-Package for LibreOffice</sr>
+   <sv>Slovak Språk Meta-Paket för LibreOffice</sv>
+   <tr>Slovak Language Meta-Package for LibreOffice</tr>
+   <uk>Slovak Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Slovak Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Slovak Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

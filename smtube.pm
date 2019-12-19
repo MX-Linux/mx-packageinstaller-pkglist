@@ -10,52 +10,51 @@ SMtube
 </name>
 
 <description>
-   <am>South African Language Meta-Package for LibreOffice</am>
-   <ar>South African Language Meta-Package for LibreOffice</ar>
-   <bg>South African Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Sudafricà per LibreOffice</ca>
-   <cs>South African Language Meta-Package for LibreOffice</cs>
-   <da>South African Language Meta-Package for LibreOffice</da>
-   <de>Südafrikanisches Meta-Paket für LibreOffice</de>
-   <el>South African Language Meta-Package for LibreOffice</el>
-   <en>South African Language Meta-Package for LibreOffice</en>
-   <es>Metapaquete de idioma sudafricano para LibreOffice</es>
-   <et>South African Language Meta-Package for LibreOffice</et>
-   <eu>South African Language Meta-Package for LibreOffice</eu>
-   <fa>South African Language Meta-Package for LibreOffice</fa>
-   <fil_PH>South African Language Meta-Package for LibreOffice</fil_PH>
-   <fi>South African Language Meta-Package for LibreOffice</fi>
-   <fr>South African Language Meta-Package for LibreOffice</fr>
-   <he_IL>South African Language Meta-Package for LibreOffice</he_IL>
-   <hi>South African Language Meta-Package for LibreOffice</hi>
-   <hr>South African Language Meta-Package for LibreOffice</hr>
-   <hu>South African Language Meta-Package for LibreOffice</hu>
-   <id>South African Language Meta-Package for LibreOffice</id>
-   <is>South African Language Meta-Package for LibreOffice</is>
-   <it>South African Language Meta-Package for LibreOffice</it>
-   <ja_JP>South African Language Meta-Package for LibreOffice</ja_JP>
-   <ja>South African Language Meta-Package for LibreOffice</ja>
-   <kk>South African Language Meta-Package for LibreOffice</kk>
-   <ko>South African Language Meta-Package for LibreOffice</ko>
-   <lt>South African Language Meta-Package for LibreOffice</lt>
-   <mk>South African Language Meta-Package for LibreOffice</mk>
-   <mr>South African Language Meta-Package for LibreOffice</mr>
-   <nb>South African Language Meta-Package for LibreOffice</nb>
-   <nl>South African Language Meta-Package for LibreOffice</nl>
-   <pl>South African Language Meta-Package for LibreOffice</pl>
-   <pt_BR>South African Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Sul Africano Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>South African Language Meta-Package for LibreOffice</ro>
-   <ru>South African Language Meta-Package for LibreOffice</ru>
-   <sk>South African Language Meta-Package for LibreOffice</sk>
-   <sl>Južnoafriški jezikovni meta-paket za LibreOffice</sl>
-   <sq>South African Language Meta-Package for LibreOffice</sq>
-   <sr>South African Language Meta-Package for LibreOffice</sr>
-   <sv>Sydafrikanskt Språk Meta-Paket för LibreOffice</sv>
-   <tr>South African Language Meta-Package for LibreOffice</tr>
-   <uk>South African Language Meta-Package for LibreOffice</uk>
-   <zh_CN>South African Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>South African Language Meta-Package for LibreOffice</zh_TW>
+   <am>search and download Youtube videos</am>
+   <ar>search and download Youtube videos</ar>
+   <bg>search and download Youtube videos</bg>
+   <ca>Cerca i descarrega vídeos de Youtube</ca>
+   <cs>search and download Youtube videos</cs>
+   <da>søg efter og download Youtube-videoer</da>
+   <de>YouTube-Videos finden und herunterladen</de>
+   <el>αναζήτηση και λήψη βίντεο Youtube</el>
+   <en>search and download Youtube videos</en>
+   <es>Busque y descargue videos de Youtube</es>
+   <et>search and download Youtube videos</et>
+   <eu>search and download Youtube videos</eu>
+   <fa>search and download Youtube videos</fa>
+   <fi>search and download Youtube videos</fi>
+   <fr>Rechercher et télécharger des vidéos Youtube</fr>
+   <he_IL>search and download Youtube videos</he_IL>
+   <hi>search and download Youtube videos</hi>
+   <hr>search and download Youtube videos</hr>
+   <hu>search and download Youtube videos</hu>
+   <id>search and download Youtube videos</id>
+   <is>search and download Youtube videos</is>
+   <it>cerca e scarica video da Youtube</it>
+   <ja_JP>search and download Youtube videos</ja_JP>
+   <ja>search and download Youtube videos</ja>
+   <kk>search and download Youtube videos</kk>
+   <ko>search and download Youtube videos</ko>
+   <lt>search and download Youtube videos</lt>
+   <mk>search and download Youtube videos</mk>
+   <mr>search and download Youtube videos</mr>
+   <nb>search and download Youtube videos</nb>
+   <nl>zoek en download Youtube video's</nl>
+   <pl>wyszukuj i pobieraj filmy z YouTube</pl>
+   <pt_BR>Pesquisar e baixar vídeos do Youtube</pt_BR>
+   <pt>pesquisar e descarregar vídeos do Youtube</pt>
+   <ro>search and download Youtube videos</ro>
+   <ru>Поиск и скачивание видео в Youtube</ru>
+   <sk>search and download Youtube videos</sk>
+   <sl>Išči in prenesivideo posnetke iz Youtube</sl>
+   <sq>search and download Youtube videos</sq>
+   <sr>search and download Youtube videos</sr>
+   <sv>sök och ladda ner Youtube videos</sv>
+   <tr>search and download Youtube videos</tr>
+   <uk>пошук та завантаження відео з Youtube</uk>
+   <zh_CN>search and download Youtube videos</zh_CN>
+   <zh_TW>search and download Youtube videos</zh_TW>
 </description>
 
 <installable>

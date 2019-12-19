@@ -10,52 +10,51 @@ Occitan_Libreoffice
 </name>
 
 <description>
-   <am>Odia Language Meta-Package for LibreOffice</am>
-   <ar>Odia Language Meta-Package for LibreOffice</ar>
-   <bg>Odia Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Odia per LibreOffice</ca>
-   <cs>Odia Language Meta-Package for LibreOffice</cs>
-   <da>Odia Language Meta-Package for LibreOffice</da>
-   <de>Odia Meta-Paket für LibreOffice</de>
-   <el>Odia Language Meta-Package for LibreOffice</el>
-   <en>Odia Language Meta-Package for LibreOffice</en>
-   <es>Odia Language Meta-Package para LibreOffice</es>
-   <et>Odia Language Meta-Package for LibreOffice</et>
-   <eu>Odia Language Meta-Package for LibreOffice</eu>
-   <fa>Odia Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Odia Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Odia Language Meta-Package for LibreOffice</fi>
-   <fr>Odia Language Meta-Package for LibreOffice</fr>
-   <he_IL>Odia Language Meta-Package for LibreOffice</he_IL>
-   <hi>Odia Language Meta-Package for LibreOffice</hi>
-   <hr>Odia Language Meta-Package for LibreOffice</hr>
-   <hu>Odia Language Meta-Package for LibreOffice</hu>
-   <id>Odia Language Meta-Package for LibreOffice</id>
-   <is>Odia Language Meta-Package for LibreOffice</is>
-   <it>Odia Language Meta-Package for LibreOffice</it>
-   <ja_JP>Odia Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Odia Language Meta-Package for LibreOffice</ja>
-   <kk>Odia Language Meta-Package for LibreOffice</kk>
-   <ko>Odia Language Meta-Package for LibreOffice</ko>
-   <lt>Odia Language Meta-Package for LibreOffice</lt>
-   <mk>Odia Language Meta-Package for LibreOffice</mk>
-   <mr>Odia Language Meta-Package for LibreOffice</mr>
-   <nb>Odia Language Meta-Package for LibreOffice</nb>
-   <nl>Odia Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Odia Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Odia Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Oriá Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Odia Language Meta-Package for LibreOffice</ro>
-   <ru>Odia Language Meta-Package for LibreOffice</ru>
-   <sk>Odia Language Meta-Package for LibreOffice</sk>
-   <sl>Odijski jezikovni meta-paket za LibreOffice</sl>
-   <sq>Odia Language Meta-Package for LibreOffice</sq>
-   <sr>Odia Language Meta-Package for LibreOffice</sr>
-   <sv>Odia Språk Meta-Paket för LibreOffice</sv>
-   <tr>Odia Language Meta-Package for LibreOffice</tr>
-   <uk>Odia Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Odia Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Odia Language Meta-Package for LibreOffice</zh_TW>
+   <am>Occitan Language Meta-Package for LibreOffice</am>
+   <ar>Occitan Language Meta-Package for LibreOffice</ar>
+   <bg>Occitan Language Meta-Package for LibreOffice</bg>
+   <ca>Meta-paquet d'Occitan per LibreOffice</ca>
+   <cs>Occitan Language Meta-Package for LibreOffice</cs>
+   <da>Occitan sprog-metapakke til LibreOffice</da>
+   <de>Occitan Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα Occitan</el>
+   <en>Occitan Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Occitan para LibreOffice</es>
+   <et>Occitan Language Meta-Package for LibreOffice</et>
+   <eu>Occitan Language Meta-Package for LibreOffice</eu>
+   <fa>Occitan Language Meta-Package for LibreOffice</fa>
+   <fi>Occitan Language Meta-Package for LibreOffice</fi>
+   <fr>Méta-paquet langue Occitan pour LibreOffice</fr>
+   <he_IL>Occitan Language Meta-Package for LibreOffice</he_IL>
+   <hi>Occitan Language Meta-Package for LibreOffice</hi>
+   <hr>Occitan Language Meta-Package for LibreOffice</hr>
+   <hu>Occitan Language Meta-Package for LibreOffice</hu>
+   <id>Occitan Language Meta-Package for LibreOffice</id>
+   <is>Occitan Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua Occitan per LibreOffice</it>
+   <ja_JP>Occitan Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Occitan Language Meta-Package for LibreOffice</ja>
+   <kk>Occitan Language Meta-Package for LibreOffice</kk>
+   <ko>Occitan Language Meta-Package for LibreOffice</ko>
+   <lt>Occitan Language Meta-Package for LibreOffice</lt>
+   <mk>Occitan Language Meta-Package for LibreOffice</mk>
+   <mr>Occitan Language Meta-Package for LibreOffice</mr>
+   <nb>Occitan Language Meta-Package for LibreOffice</nb>
+   <nl>Occitan Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Occitan metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Occitan Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Occitan Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Occitan Language Meta-Package for LibreOffice</ro>
+   <ru>Occitan Language Meta-Package for LibreOffice</ru>
+   <sk>Occitan Language Meta-Package for LibreOffice</sk>
+   <sl>Occitan Language Meta-Package for LibreOffice</sl>
+   <sq>Occitan Language Meta-Package for LibreOffice</sq>
+   <sr>Occitan Language Meta-Package for LibreOffice</sr>
+   <sv>Occitan Språk Meta-Paket för LibreOffice</sv>
+   <tr>Occitan Language Meta-Package for LibreOffice</tr>
+   <uk>Occitan Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Occitan Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Occitan Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

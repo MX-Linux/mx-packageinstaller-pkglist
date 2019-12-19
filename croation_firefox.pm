@@ -10,52 +10,51 @@ Croatian_Firefox
 </name>
 
 <description>
-   <am>Croatian LibreOffice Language Meta-Package</am>
-   <ar>Croatian LibreOffice Language Meta-Package</ar>
-   <bg>Croatian LibreOffice Language Meta-Package</bg>
-   <ca>Localització de LibreOffice en Croata</ca>
-   <cs>Croatian LibreOffice Language Meta-Package</cs>
-   <da>Kroatisk LibreOffice sprog-metapakke</da>
-   <de>Kroatisches LibreOffice Meta-Paket</de>
-   <el>LibreOffice για Κροατική γλώσσα</el>
-   <en>Croatian LibreOffice Language Meta-Package</en>
-   <es>Meta paquete de lenguaje Croata para LibreOffice</es>
-   <et>Croatian LibreOffice Language Meta-Package</et>
-   <eu>Croatian LibreOffice Language Meta-Package</eu>
-   <fa>Croatian LibreOffice Language Meta-Package</fa>
-   <fil_PH>Croatian LibreOffice Language Meta-Package</fil_PH>
-   <fi>Croatian LibreOffice Language Meta-Package</fi>
-   <fr>Méta-Paquet langue croate pour LibreOffice</fr>
-   <he_IL>Croatian LibreOffice Language Meta-Package</he_IL>
-   <hi>Croatian LibreOffice Language Meta-Package</hi>
-   <hr>Croatian LibreOffice Language Meta-Package</hr>
-   <hu>Croatian LibreOffice Language Meta-Package</hu>
-   <id>Croatian LibreOffice Language Meta-Package</id>
-   <is>Croatian LibreOffice Language Meta-Package</is>
-   <it>Meta-pacchetto della lingua croata per LibreOffice</it>
-   <ja_JP>Croatian LibreOffice Language Meta-Package</ja_JP>
-   <ja>Croatian LibreOffice Language Meta-Package</ja>
-   <kk>Croatian LibreOffice Language Meta-Package</kk>
-   <ko>Croatian LibreOffice Language Meta-Package</ko>
-   <lt>Croatian LibreOffice Language Meta-Package</lt>
-   <mk>Croatian LibreOffice Language Meta-Package</mk>
-   <mr>Croatian LibreOffice Language Meta-Package</mr>
-   <nb>Croatian LibreOffice Language Meta-Package</nb>
-   <nl>Kroatische LibreOffice Taal Meta-Pakket</nl>
-   <pl>Chorwacki metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Croata Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Croata Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Croatian LibreOffice Language Meta-Package</ro>
-   <ru>Croatian LibreOffice Language Meta-Package</ru>
-   <sk>Croatian LibreOffice Language Meta-Package</sk>
-   <sl>Croatian LibreOffice Language Meta-Package</sl>
-   <sq>Croatian LibreOffice Language Meta-Package</sq>
-   <sr>Croatian LibreOffice Language Meta-Package</sr>
-   <sv>Kroatisk LibreOffice Språk Meta-Paket</sv>
-   <tr>Croatian LibreOffice Language Meta-Package</tr>
-   <uk>Croatian LibreOffice Language Meta-Package</uk>
-   <zh_CN>Croatian LibreOffice Language Meta-Package</zh_CN>
-   <zh_TW>Croatian LibreOffice Language Meta-Package</zh_TW>
+   <am>Croatian localisation of Firefox</am>
+   <ar>Croatian localisation of Firefox</ar>
+   <bg>Croatian localisation of Firefox</bg>
+   <ca>Localització de Firefox en Croata</ca>
+   <cs>Croatian localisation of Firefox</cs>
+   <da>Kroatisk oversættelse af Firefox</da>
+   <de>Kroatische Lokalisierung von Firefox</de>
+   <el>Κροατικός εντοπισμός του Firefox</el>
+   <en>Croatian localisation of Firefox</en>
+   <es>Localización Croata de Firefox</es>
+   <et>Croatian localisation of Firefox</et>
+   <eu>Croatian localisation of Firefox</eu>
+   <fa>Croatian localisation of Firefox</fa>
+   <fi>Croatian localisation of Firefox</fi>
+   <fr>Localisation croate pour Firefox</fr>
+   <he_IL>Croatian localisation of Firefox</he_IL>
+   <hi>Croatian localisation of Firefox</hi>
+   <hr>Croatian localisation of Firefox</hr>
+   <hu>Croatian localisation of Firefox</hu>
+   <id>Croatian localisation of Firefox</id>
+   <is>Croatian localisation of Firefox</is>
+   <it>Localizzazione croata di Firefox</it>
+   <ja_JP>Croatian localisation of Firefox</ja_JP>
+   <ja>Croatian localisation of Firefox</ja>
+   <kk>Croatian localisation of Firefox</kk>
+   <ko>Croatian localisation of Firefox</ko>
+   <lt>Croatian localisation of Firefox</lt>
+   <mk>Croatian localisation of Firefox</mk>
+   <mr>Croatian localisation of Firefox</mr>
+   <nb>Croatian localisation of Firefox</nb>
+   <nl>Kroatische lokalisatie van Firefox</nl>
+   <pl>Chorwacka lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Croata Localização para Firefox</pt_BR>
+   <pt>Croata Localização para Firefox</pt>
+   <ro>Croatian localisation of Firefox</ro>
+   <ru>Хорватская локализация Firefox</ru>
+   <sk>Croatian localisation of Firefox</sk>
+   <sl>Croatian localisation of Firefox</sl>
+   <sq>Croatian localisation of Firefox</sq>
+   <sr>Croatian localisation of Firefox</sr>
+   <sv>Kroatisk lokalisering av Firefox</sv>
+   <tr>Croatian localisation of Firefox</tr>
+   <uk>Croatian локалізація Firefox</uk>
+   <zh_CN>Croatian localisation of Firefox</zh_CN>
+   <zh_TW>Croatian localisation of Firefox</zh_TW>
 </description>
 
 <installable>

@@ -10,52 +10,51 @@ Swedish_Thunderbird
 </name>
 
 <description>
-   <am>alternate semantic file launcher</am>
-   <ar>alternate semantic file launcher</ar>
-   <bg>alternate semantic file launcher</bg>
-   <ca>Llançadora de fitxers amb semàntica alternativa</ca>
-   <cs>alternate semantic file launcher</cs>
-   <da>alternativ skematisk filstarter</da>
-   <de>Alternativer semantischer Datei-Starter</de>
-   <el>εναλλακτική σημασιολογική εκκίνηση αρχείων</el>
-   <en>alternate semantic file launcher</en>
-   <es>Lanzador de archivos semántico</es>
-   <et>alternate semantic file launcher</et>
-   <eu>alternate semantic file launcher</eu>
-   <fa>alternate semantic file launcher</fa>
-   <fil_PH>alternate semantic file launcher</fil_PH>
-   <fi>alternate semantic file launcher</fi>
-   <fr>Lanceur sémantique d'application</fr>
-   <he_IL>alternate semantic file launcher</he_IL>
-   <hi>alternate semantic file launcher</hi>
-   <hr>alternate semantic file launcher</hr>
-   <hu>alternate semantic file launcher</hu>
-   <id>alternate semantic file launcher</id>
-   <is>alternate semantic file launcher</is>
-   <it>avviatore semantico per avviare applicazioni e accedere a file rilevanti</it>
-   <ja_JP>alternate semantic file launcher</ja_JP>
-   <ja>alternate semantic file launcher</ja>
-   <kk>alternate semantic file launcher</kk>
-   <ko>alternate semantic file launcher</ko>
-   <lt>alternate semantic file launcher</lt>
-   <mk>alternate semantic file launcher</mk>
-   <mr>alternate semantic file launcher</mr>
-   <nb>alternate semantic file launcher</nb>
-   <nl>alternatieve semantische bestandsopstarter</nl>
-   <pl>alternatywny program uruchamiający pliki semantyczne</pl>
-   <pt_BR>Lançador de arquivos semântico</pt_BR>
-   <pt>Lançador de ficheiros semântico</pt>
-   <ro>alternate semantic file launcher</ro>
-   <ru>Приложение для продвинутого поиска и запуска файлов</ru>
-   <sk>alternate semantic file launcher</sk>
-   <sl>alternativni semantični zaganjalec datotek</sl>
-   <sq>alternate semantic file launcher</sq>
-   <sr>alternate semantic file launcher</sr>
-   <sv>alternativ semantisk filstartare</sv>
-   <tr>alternate semantic file launcher</tr>
-   <uk>alternate semantic file launcher</uk>
-   <zh_CN>alternate semantic file launcher</zh_CN>
-   <zh_TW>alternate semantic file launcher</zh_TW>
+   <am>Swedish localisation of Thunderbird</am>
+   <ar>Swedish localisation of Thunderbird</ar>
+   <bg>Swedish localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Suec</ca>
+   <cs>Swedish localisation of Thunderbird</cs>
+   <da>Svensk oversættelse af Thunderbird</da>
+   <de>Schwedische Lokalisierung von Thunderbird</de>
+   <el>Σουηδικός εντοπισμός του Thunderbird</el>
+   <en>Swedish localisation of Thunderbird</en>
+   <es>Localización Sueca de Thunderbird</es>
+   <et>Swedish localisation of Thunderbird</et>
+   <eu>Swedish localisation of Thunderbird</eu>
+   <fa>Swedish localisation of Thunderbird</fa>
+   <fi>Swedish localisation of Thunderbird</fi>
+   <fr>Localisation suédoise pour Thunderbird</fr>
+   <he_IL>Swedish localisation of Thunderbird</he_IL>
+   <hi>Swedish localisation of Thunderbird</hi>
+   <hr>Swedish localisation of Thunderbird</hr>
+   <hu>Swedish localisation of Thunderbird</hu>
+   <id>Swedish localisation of Thunderbird</id>
+   <is>Swedish localisation of Thunderbird</is>
+   <it>Localizzazione svedese di Thunderbird</it>
+   <ja_JP>Swedish localisation of Thunderbird</ja_JP>
+   <ja>Swedish localisation of Thunderbird</ja>
+   <kk>Swedish localisation of Thunderbird</kk>
+   <ko>Swedish localisation of Thunderbird</ko>
+   <lt>Swedish localisation of Thunderbird</lt>
+   <mk>Swedish localisation of Thunderbird</mk>
+   <mr>Swedish localisation of Thunderbird</mr>
+   <nb>Swedish localisation of Thunderbird</nb>
+   <nl>Zweedse lokalisatie van Thunderbird</nl>
+   <pl>Szwedzka lokalizacja Thunderbirda</pl>
+   <pt_BR>Sueco Localização para Thunderbird</pt_BR>
+   <pt>Sueco Localização para Thunderbird</pt>
+   <ro>Swedish localisation of Thunderbird</ro>
+   <ru>Swedish localisation of Thunderbird</ru>
+   <sk>Swedish localisation of Thunderbird</sk>
+   <sl>Swedish localisation of Thunderbird</sl>
+   <sq>Swedish localisation of Thunderbird</sq>
+   <sr>Swedish localisation of Thunderbird</sr>
+   <sv>Svensk lokalisering av Thunderbird</sv>
+   <tr>Swedish localisation of Thunderbird</tr>
+   <uk>Swedish localisation of Thunderbird</uk>
+   <zh_CN>Swedish localisation of Thunderbird</zh_CN>
+   <zh_TW>Swedish localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

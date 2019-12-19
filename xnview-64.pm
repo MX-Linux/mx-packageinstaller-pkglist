@@ -10,52 +10,51 @@ XnView
 </name>
 
 <description>
-   <am>extra screensavers</am>
-   <ar>extra screensavers</ar>
-   <bg>extra screensavers</bg>
-   <ca>Estalvis de pantalla addicionals</ca>
-   <cs>extra screensavers</cs>
-   <da>ekstra pauseskærme</da>
-   <de>zusätzliche Bildschirmschoner</de>
-   <el>επιπλέον προφύλαξη οθόνης</el>
-   <en>extra screensavers</en>
-   <es>Salvapantallas extra</es>
-   <et>extra screensavers</et>
-   <eu>extra screensavers</eu>
-   <fa>extra screensavers</fa>
-   <fil_PH>extra screensavers</fil_PH>
-   <fi>extra screensavers</fi>
-   <fr>écrans de veille supplémentaires</fr>
-   <he_IL>extra screensavers</he_IL>
-   <hi>extra screensavers</hi>
-   <hr>extra screensavers</hr>
-   <hu>extra screensavers</hu>
-   <id>extra screensavers</id>
-   <is>extra screensavers</is>
-   <it>screensaver extra</it>
-   <ja_JP>extra screensavers</ja_JP>
-   <ja>extra screensavers</ja>
-   <kk>extra screensavers</kk>
-   <ko>extra screensavers</ko>
-   <lt>extra screensavers</lt>
-   <mk>extra screensavers</mk>
-   <mr>extra screensavers</mr>
-   <nb>extra screensavers</nb>
-   <nl>extra screensavers</nl>
-   <pl>dodatkowe wygaszacze ekranu</pl>
-   <pt_BR>Proteções de tela adicionais</pt_BR>
-   <pt>protetores de ecrã extra</pt>
-   <ro>extra screensavers</ro>
-   <ru>дополнительные экранные заставки</ru>
-   <sk>extra screensavers</sk>
-   <sl>Dodatni ohranjevalniki zaslona</sl>
-   <sq>extra screensavers</sq>
-   <sr>extra screensavers</sr>
-   <sv>extra skärmsläckare</sv>
-   <tr>fazladan ekran koruyucular</tr>
-   <uk>extra screensavers</uk>
-   <zh_CN>extra screensavers</zh_CN>
-   <zh_TW>extra screensavers</zh_TW>
+   <am>picture viewer, browser and converter</am>
+   <ar>picture viewer, browser and converter</ar>
+   <bg>picture viewer, browser and converter</bg>
+   <ca>visor d'imatges, navegador i conversor</ca>
+   <cs>picture viewer, browser and converter</cs>
+   <da>billedfremviser, browser og konverter</da>
+   <de>Bildbetrachter, -browser und -konverter</de>
+   <el>πρόγραμμα προβολής εικόνων, πρόγραμμα περιήγησης και μετατροπέα</el>
+   <en>picture viewer, browser and converter</en>
+   <es>visor de imágenes, navegador y conversor</es>
+   <et>picture viewer, browser and converter</et>
+   <eu>picture viewer, browser and converter</eu>
+   <fa>picture viewer, browser and converter</fa>
+   <fi>picture viewer, browser and converter</fi>
+   <fr>Visionner, feuilleter et convertir des images</fr>
+   <he_IL>picture viewer, browser and converter</he_IL>
+   <hi>picture viewer, browser and converter</hi>
+   <hr>picture viewer, browser and converter</hr>
+   <hu>picture viewer, browser and converter</hu>
+   <id>picture viewer, browser and converter</id>
+   <is>picture viewer, browser and converter</is>
+   <it>visualizzatore e convertitore di immagini</it>
+   <ja_JP>picture viewer, browser and converter</ja_JP>
+   <ja>picture viewer, browser and converter</ja>
+   <kk>picture viewer, browser and converter</kk>
+   <ko>picture viewer, browser and converter</ko>
+   <lt>picture viewer, browser and converter</lt>
+   <mk>picture viewer, browser and converter</mk>
+   <mr>picture viewer, browser and converter</mr>
+   <nb>picture viewer, browser and converter</nb>
+   <nl>afbeelding bekijker, verkenner en omzetter</nl>
+   <pl>przeglądarka zdjęć i konwerter</pl>
+   <pt_BR>Visualizador, navegador e conversor de imagens</pt_BR>
+   <pt>Visualizador, navegador e conversor de imagens</pt>
+   <ro>picture viewer, browser and converter</ro>
+   <ru>Просмотрщик изображений, каталогизатор и конвертер</ru>
+   <sk>picture viewer, browser and converter</sk>
+   <sl>Pregledovalnik slik, brskalnik in pretvornik</sl>
+   <sq>picture viewer, browser and converter</sq>
+   <sr>picture viewer, browser and converter</sr>
+   <sv>bildvisare och konverterare</sv>
+   <tr>picture viewer, browser and converter</tr>
+   <uk>picture viewer, browser and converter</uk>
+   <zh_CN>picture viewer, browser and converter</zh_CN>
+   <zh_TW>picture viewer, browser and converter</zh_TW>
 </description>
 
 <installable>

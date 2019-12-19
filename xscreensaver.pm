@@ -10,52 +10,51 @@ xscreensaver
 </name>
 
 <description>
-   <am>Zulu Language Meta-Package for LibreOffice</am>
-   <ar>Zulu Language Meta-Package for LibreOffice</ar>
-   <bg>Zulu Language Meta-Package for LibreOffice</bg>
-   <ca>Metapaquet d'idioma Zulu per LibreOffice</ca>
-   <cs>Zulu Language Meta-Package for LibreOffice</cs>
-   <da>Zulu Language Meta-Package for LibreOffice</da>
-   <de>Zulu Meta-Paket für LibreOffice</de>
-   <el>Zulu Language Meta-Package for LibreOffice</el>
-   <en>Zulu Language Meta-Package for LibreOffice</en>
-   <es>Metapaquete de idioma zulú para LibreOffice</es>
-   <et>Zulu Language Meta-Package for LibreOffice</et>
-   <eu>Zulu Language Meta-Package for LibreOffice</eu>
-   <fa>Zulu Language Meta-Package for LibreOffice</fa>
-   <fil_PH>Zulu Language Meta-Package for LibreOffice</fil_PH>
-   <fi>Zulu Language Meta-Package for LibreOffice</fi>
-   <fr>Meta-Paquet de langue Zoulou pour LibreOffice</fr>
-   <he_IL>Zulu Language Meta-Package for LibreOffice</he_IL>
-   <hi>Zulu Language Meta-Package for LibreOffice</hi>
-   <hr>Zulu Language Meta-Package for LibreOffice</hr>
-   <hu>Zulu Language Meta-Package for LibreOffice</hu>
-   <id>Zulu Language Meta-Package for LibreOffice</id>
-   <is>Zulu Language Meta-Package for LibreOffice</is>
-   <it>Zulu Language Meta-Package for LibreOffice</it>
-   <ja_JP>Zulu Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Zulu Language Meta-Package for LibreOffice</ja>
-   <kk>Zulu Language Meta-Package for LibreOffice</kk>
-   <ko>Zulu Language Meta-Package for LibreOffice</ko>
-   <lt>Zulu Language Meta-Package for LibreOffice</lt>
-   <mk>Zulu Language Meta-Package for LibreOffice</mk>
-   <mr>Zulu Language Meta-Package for LibreOffice</mr>
-   <nb>Zulu Language Meta-Package for LibreOffice</nb>
-   <nl>Zulu Language Meta-Package for LibreOffice</nl>
-   <pl>Zulu Language Meta-Package for LibreOffice</pl>
-   <pt_BR>Zulu Language Meta-Package for LibreOffice</pt_BR>
-   <pt>Zulu Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Zulu Language Meta-Package for LibreOffice</ro>
-   <ru>Zulu Language Meta-Package for LibreOffice</ru>
-   <sk>Zulu Language Meta-Package for LibreOffice</sk>
-   <sl>Zulujski jezikovni meta-paket za LibreOffice</sl>
-   <sq>Zulu Language Meta-Package for LibreOffice</sq>
-   <sr>Zulu Language Meta-Package for LibreOffice</sr>
-   <sv>Zulu Språk Meta-Paket för LibreOffice</sv>
-   <tr>Zulu Language Meta-Package for LibreOffice</tr>
-   <uk>Zulu Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Zulu Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Zulu Language Meta-Package for LibreOffice</zh_TW>
+   <am>the classic screensaver for X servers</am>
+   <ar>the classic screensaver for X servers</ar>
+   <bg>the classic screensaver for X servers</bg>
+   <ca>l'estalvi de pantalla clàssic per a servidors de X</ca>
+   <cs>the classic screensaver for X servers</cs>
+   <da>den klassiske pauseskærm til X-servere</da>
+   <de>klassische Bildschirmschoner für X Server</de>
+   <el>κλασική προφύλαξη οθόνης</el>
+   <en>the classic screensaver for X servers</en>
+   <es>El protector de pantalla clásico para servidores X</es>
+   <et>the classic screensaver for X servers</et>
+   <eu>the classic screensaver for X servers</eu>
+   <fa>the classic screensaver for X servers</fa>
+   <fi>the classic screensaver for X servers</fi>
+   <fr>Écran de veille classique des serveurs X</fr>
+   <he_IL>the classic screensaver for X servers</he_IL>
+   <hi>the classic screensaver for X servers</hi>
+   <hr>the classic screensaver for X servers</hr>
+   <hu>the classic screensaver for X servers</hu>
+   <id>the classic screensaver for X servers</id>
+   <is>the classic screensaver for X servers</is>
+   <it>il classico salvaschermo per server X</it>
+   <ja_JP>the classic screensaver for X servers</ja_JP>
+   <ja>the classic screensaver for X servers</ja>
+   <kk>the classic screensaver for X servers</kk>
+   <ko>the classic screensaver for X servers</ko>
+   <lt>klasikinė ekrano užsklanda, skirta X serveriams</lt>
+   <mk>the classic screensaver for X servers</mk>
+   <mr>the classic screensaver for X servers</mr>
+   <nb>the classic screensaver for X servers</nb>
+   <nl>de klassieke screensaver voor X servers</nl>
+   <pl>klasyczny wygaszacz ekranu dla serwerów X</pl>
+   <pt_BR>A proteção de tela clássica para servidores X</pt_BR>
+   <pt>A protecção de ecrã clássica para servidores X</pt>
+   <ro>the classic screensaver for X servers</ro>
+   <ru>классические заставки экрана для X сервера</ru>
+   <sk>the classic screensaver for X servers</sk>
+   <sl>Klasični ohranjevalniki zaslona za X strežnike</sl>
+   <sq>the classic screensaver for X servers</sq>
+   <sr>the classic screensaver for X servers</sr>
+   <sv>klassisk skärmsläckare för X server</sv>
+   <tr>the classic screensaver for X servers</tr>
+   <uk>the classic screensaver for X servers</uk>
+   <zh_CN>the classic screensaver for X servers</zh_CN>
+   <zh_TW>the classic screensaver for X servers</zh_TW>
 </description>
 
 <installable>

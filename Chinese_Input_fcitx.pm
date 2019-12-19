@@ -10,52 +10,51 @@ Chinese_Input_fcitx
 </name>
 
 <description>
-   <am>Chinese ibus</am>
-   <ar>Chinese ibus</ar>
-   <bg>Chinese ibus</bg>
-   <ca>IBUS en Xinès</ca>
-   <cs>Chinese ibus</cs>
-   <da>Kinesisk ibus</da>
-   <de>Chinesischer IBus</de>
-   <el>Κινέζικα ibus</el>
-   <en>Chinese ibus</en>
-   <es>ibus Chino</es>
-   <et>Chinese ibus</et>
-   <eu>Chinese ibus</eu>
-   <fa>Chinese ibus</fa>
-   <fil_PH>Chinese ibus</fil_PH>
-   <fi>Chinese ibus</fi>
-   <fr>Chinois ibus</fr>
-   <he_IL>Chinese ibus</he_IL>
-   <hi>Chinese ibus</hi>
-   <hr>Chinese ibus</hr>
-   <hu>Chinese ibus</hu>
-   <id>Chinese ibus</id>
-   <is>Chinese ibus</is>
-   <it>Chinese ibus</it>
-   <ja_JP>Chinese ibus</ja_JP>
-   <ja>Chinese ibus</ja>
-   <kk>Chinese ibus</kk>
-   <ko>Chinese ibus</ko>
-   <lt>Kinų ibus</lt>
-   <mk>Chinese ibus</mk>
-   <mr>Chinese ibus</mr>
-   <nb>Chinese ibus</nb>
-   <nl>Chinese ibus</nl>
-   <pl>Chiński ibus</pl>
-   <pt_BR>Chinês ibus</pt_BR>
-   <pt>Chinês ibus</pt>
-   <ro>Chinese ibus</ro>
-   <ru>Chinese ibus</ru>
-   <sk>Chinese ibus</sk>
-   <sl>Chinese ibus</sl>
-   <sq>Chinese ibus</sq>
-   <sr>Chinese ibus</sr>
-   <sv>Kinesisk ibus</sv>
-   <tr>Chinese ibus</tr>
-   <uk>Chinese ibus</uk>
-   <zh_CN>Chinese ibus</zh_CN>
-   <zh_TW>Chinese ibus</zh_TW>
+   <am>Chinese fcitx</am>
+   <ar>Chinese fcitx</ar>
+   <bg>Chinese fcitx</bg>
+   <ca>FCTIX en Xinès</ca>
+   <cs>Chinese fcitx</cs>
+   <da>Kinesisk fcitx</da>
+   <de>Chinesisch Fcitx</de>
+   <el>Κινέζικα fcitx</el>
+   <en>Chinese fcitx</en>
+   <es>Cliente de correo liviano Claws Mail</es>
+   <et>Chinese fcitx</et>
+   <eu>Chinese fcitx</eu>
+   <fa>Chinese fcitx</fa>
+   <fi>Chinese fcitx</fi>
+   <fr>Chinois fcitx</fr>
+   <he_IL>Chinese fcitx</he_IL>
+   <hi>Chinese fcitx</hi>
+   <hr>Chinese fcitx</hr>
+   <hu>Chinese fcitx</hu>
+   <id>Chinese fcitx</id>
+   <is>Chinese fcitx</is>
+   <it>Chinese fcitx</it>
+   <ja_JP>Chinese fcitx</ja_JP>
+   <ja>Chinese fcitx</ja>
+   <kk>Chinese fcitx</kk>
+   <ko>Chinese fcitx</ko>
+   <lt>Kinų fcitx</lt>
+   <mk>Chinese fcitx</mk>
+   <mr>Chinese fcitx</mr>
+   <nb>Chinese fcitx</nb>
+   <nl>Chinese fcitx</nl>
+   <pl>Chiński fcitx</pl>
+   <pt_BR>Chinês fcitx</pt_BR>
+   <pt>Chinês fcitx</pt>
+   <ro>Chinese fcitx</ro>
+   <ru>Chinese fcitx</ru>
+   <sk>Chinese fcitx</sk>
+   <sl>Chinese fcitx</sl>
+   <sq>Chinese fcitx</sq>
+   <sr>Chinese fcitx</sr>
+   <sv>Kinesisk fcitx</sv>
+   <tr>Chinese fcitx</tr>
+   <uk>Chinese fcitx</uk>
+   <zh_CN>Chinese fcitx</zh_CN>
+   <zh_TW>Chinese fcitx</zh_TW>
 </description>
 
 <installable>
