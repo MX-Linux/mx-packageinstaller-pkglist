@@ -10,51 +10,52 @@ Slovak_Thunderbird
 </name>
 
 <description>
-   <am>Slovak localisation of Thunderbird</am>
-   <ar>Slovak localisation of Thunderbird</ar>
-   <bg>Slovak localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Eslovac</ca>
-   <cs>Slovak localisation of Thunderbird</cs>
-   <da>Slovakisk oversættelse af Thunderbird</da>
-   <de>Slowakische Lokalisierung von Thunderbird</de>
-   <el>Σλοβακική εντοπισμός του Thunderbird</el>
-   <en>Slovak localisation of Thunderbird</en>
-   <es>Localización Eslovaca de Thunderbird</es>
-   <et>Slovak localisation of Thunderbird</et>
-   <eu>Slovak localisation of Thunderbird</eu>
-   <fa>Slovak localisation of Thunderbird</fa>
-   <fi>Slovak localisation of Thunderbird</fi>
-   <fr>Localisation slovaque pour Thunderbird</fr>
-   <he_IL>Slovak localisation of Thunderbird</he_IL>
-   <hi>Slovak localisation of Thunderbird</hi>
-   <hr>Slovak localisation of Thunderbird</hr>
-   <hu>Slovak localisation of Thunderbird</hu>
-   <id>Slovak localisation of Thunderbird</id>
-   <is>Slovak localisation of Thunderbird</is>
-   <it>Localizzazione slovacca di Thunderbird</it>
-   <ja_JP>Slovak localisation of Thunderbird</ja_JP>
-   <ja>Slovak localisation of Thunderbird</ja>
-   <kk>Slovak localisation of Thunderbird</kk>
-   <ko>Slovak localisation of Thunderbird</ko>
-   <lt>Slovak localisation of Thunderbird</lt>
-   <mk>Slovak localisation of Thunderbird</mk>
-   <mr>Slovak localisation of Thunderbird</mr>
-   <nb>Slovak localisation of Thunderbird</nb>
-   <nl>Slovaakse lokalisatie van Thunderbird</nl>
-   <pl>Słowacka lokalizacja Thunderbirda</pl>
-   <pt_BR>Eslovaco Localização para Thunderbird</pt_BR>
-   <pt>Eslovaco Localização para Thunderbird</pt>
-   <ro>Slovak localisation of Thunderbird</ro>
-   <ru>Slovak localisation of Thunderbird</ru>
-   <sk>Slovak localisation of Thunderbird</sk>
-   <sl>Slovak localisation of Thunderbird</sl>
-   <sq>Slovak localisation of Thunderbird</sq>
-   <sr>Slovak localisation of Thunderbird</sr>
-   <sv>Slovakisk lokalisering av Thunderbird</sv>
-   <tr>Slovak localisation of Thunderbird</tr>
-   <uk>Slovak localisation of Thunderbird</uk>
-   <zh_CN>Slovak localisation of Thunderbird</zh_CN>
-   <zh_TW>Slovak localisation of Thunderbird</zh_TW>
+   <am>Slovenian localisation of Firefox</am>
+   <ar>Slovenian localisation of Firefox</ar>
+   <bg>Slovenian localisation of Firefox</bg>
+   <ca>Localització de Firefox en Eslovè</ca>
+   <cs>Slovenian localisation of Firefox</cs>
+   <da>Slovensk oversættelse af Firefox</da>
+   <de>Slowenische Lokalisierung von Firefox</de>
+   <el>Σλοβένικος εντοπισμός του Firefox</el>
+   <en>Slovenian localisation of Firefox</en>
+   <es>Localización Eslovena de Firefox</es>
+   <et>Slovenian localisation of Firefox</et>
+   <eu>Slovenian localisation of Firefox</eu>
+   <fa>Slovenian localisation of Firefox</fa>
+   <fil_PH>Slovenian localisation of Firefox</fil_PH>
+   <fi>Slovenian localisation of Firefox</fi>
+   <fr>Localisation slovène pour Firefox</fr>
+   <he_IL>Slovenian localisation of Firefox</he_IL>
+   <hi>Slovenian localisation of Firefox</hi>
+   <hr>Slovenian localisation of Firefox</hr>
+   <hu>Slovenian localisation of Firefox</hu>
+   <id>Slovenian localisation of Firefox</id>
+   <is>Slovenian localisation of Firefox</is>
+   <it>Localizzazione slovena di Firefox</it>
+   <ja_JP>Slovenian localisation of Firefox</ja_JP>
+   <ja>Slovenian localisation of Firefox</ja>
+   <kk>Slovenian localisation of Firefox</kk>
+   <ko>Slovenian localisation of Firefox</ko>
+   <lt>Slovenian localisation of Firefox</lt>
+   <mk>Slovenian localisation of Firefox</mk>
+   <mr>Slovenian localisation of Firefox</mr>
+   <nb>Slovenian localisation of Firefox</nb>
+   <nl>Sloveense lokalisatie van Firefox</nl>
+   <pl>Słoweńska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Esloveno Localização para Firefox</pt_BR>
+   <pt>Esloveno Localização para Firefox</pt>
+   <ro>Slovenian localisation of Firefox</ro>
+   <ru>Словенская локализация Firefox</ru>
+   <sk>Slovenian localisation of Firefox</sk>
+   <sl>Slovenska lokalizacija za Firefox</sl>
+   <sq>Slovenian localisation of Firefox</sq>
+   <sr>Slovenian localisation of Firefox</sr>
+   <sv>Slovensk lokalisering av Firefox</sv>
+   <tr>Firefox'un Slovence yerelleştirmesi</tr>
+   <uk>Slovenian localisation of Firefox</uk>
+   <zh_CN>Slovenian localisation of Firefox</zh_CN>
+   <zh_TW>Slovenian localisation of Firefox</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ US_English_Libreoffice
 </name>
 
 <description>
-   <am>US English Help for LibreOffice</am>
-   <ar>US English Help for LibreOffice</ar>
-   <bg>US English Help for LibreOffice</bg>
-   <ca>Ajuda en anglès (USA) per LibreOffice</ca>
-   <cs>US English Help for LibreOffice</cs>
-   <da>Engelsk (USA) hjælp til LibreOffice</da>
-   <de>Englische (US) Hilfe für LibreOffice</de>
-   <el>Βοήθεια για το LibreOffice στα Αγγλικά (ΗΠΑ)</el>
-   <en>US English Help for LibreOffice</en>
-   <es>Ayuda Inglesa (EE.UU.) para LiberOffice</es>
-   <et>US English Help for LibreOffice</et>
-   <eu>US English Help for LibreOffice</eu>
-   <fa>US English Help for LibreOffice</fa>
-   <fi>US English Help for LibreOffice</fi>
-   <fr>Aide anglais_US pour LibreOffice</fr>
-   <he_IL>US English Help for LibreOffice</he_IL>
-   <hi>US English Help for LibreOffice</hi>
-   <hr>US English Help for LibreOffice</hr>
-   <hu>US English Help for LibreOffice</hu>
-   <id>US English Help for LibreOffice</id>
-   <is>US English Help for LibreOffice</is>
-   <it>Guida in Inglese US per LibreOffice</it>
-   <ja_JP>US English Help for LibreOffice</ja_JP>
-   <ja>US English Help for LibreOffice</ja>
-   <kk>US English Help for LibreOffice</kk>
-   <ko>US English Help for LibreOffice</ko>
-   <lt>US English Help for LibreOffice</lt>
-   <mk>US English Help for LibreOffice</mk>
-   <mr>US English Help for LibreOffice</mr>
-   <nb>US English Help for LibreOffice</nb>
-   <nl>US Engelse Hulp voor LibreOffice</nl>
-   <pl>Angielski Amerykański pomoc dla LibreOffice</pl>
-   <pt_BR>US Inglês Help para LibreOffice</pt_BR>
-   <pt>Inglês US Help para LibreOffice</pt>
-   <ro>US English Help for LibreOffice</ro>
-   <ru>US English Help for LibreOffice</ru>
-   <sk>US English Help for LibreOffice</sk>
-   <sl>US English Help for LibreOffice</sl>
-   <sq>US English Help for LibreOffice</sq>
-   <sr>US English Help for LibreOffice</sr>
-   <sv>US Engelsk Hjälp för LibreOffice</sv>
-   <tr>US English Help for LibreOffice</tr>
-   <uk>US English довідка LibreOffice</uk>
-   <zh_CN>US English Help for LibreOffice</zh_CN>
-   <zh_TW>US English Help for LibreOffice</zh_TW>
+   <am>Esperanto Language Meta-Package for LibreOffice</am>
+   <ar>Esperanto Language Meta-Package for LibreOffice</ar>
+   <bg>Esperanto Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Esperanto per Libreoffice</ca>
+   <cs>Esperanto Language Meta-Package for LibreOffice</cs>
+   <da>Esperanto Language Meta-Package for LibreOffice</da>
+   <de>Esperanto Meta-Paket für LibreOffice</de>
+   <el>Esperanto Language Meta-Package for LibreOffice</el>
+   <en>Esperanto Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de idioma Esperanto para LibreOffice</es>
+   <et>Esperanto Language Meta-Package for LibreOffice</et>
+   <eu>Esperanto Language Meta-Package for LibreOffice</eu>
+   <fa>Esperanto Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Esperanto Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Esperanto Language Meta-Package for LibreOffice</fi>
+   <fr>Esperanto Language Meta-Package for LibreOffice</fr>
+   <he_IL>Esperanto Language Meta-Package for LibreOffice</he_IL>
+   <hi>Esperanto Language Meta-Package for LibreOffice</hi>
+   <hr>Esperanto Language Meta-Package for LibreOffice</hr>
+   <hu>Esperanto Language Meta-Package for LibreOffice</hu>
+   <id>Esperanto Language Meta-Package for LibreOffice</id>
+   <is>Esperanto Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua esperanto per LibreOffice</it>
+   <ja_JP>Esperanto Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Esperanto Language Meta-Package for LibreOffice</ja>
+   <kk>Esperanto Language Meta-Package for LibreOffice</kk>
+   <ko>Esperanto Language Meta-Package for LibreOffice</ko>
+   <lt>Esperanto Language Meta-Package for LibreOffice</lt>
+   <mk>Esperanto Language Meta-Package for LibreOffice</mk>
+   <mr>Esperanto Language Meta-Package for LibreOffice</mr>
+   <nb>Esperanto Language Meta-Package for LibreOffice</nb>
+   <nl>Esperanto Language Meta-Package for LibreOffice</nl>
+   <pl>Esperanto Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Esperanto Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Esperanto Language Meta-Package for LibreOffice</pt>
+   <ro>Esperanto Language Meta-Package for LibreOffice</ro>
+   <ru>Esperanto Language Meta-Package for LibreOffice</ru>
+   <sk>Esperanto Language Meta-Package for LibreOffice</sk>
+   <sl>Esperanto jezikovni meta-paket za LibreOffice</sl>
+   <sq>Esperanto Language Meta-Package for LibreOffice</sq>
+   <sr>Esperanto Language Meta-Package for LibreOffice</sr>
+   <sv>Esperanto Språk Meta-Paket för LibreOffice</sv>
+   <tr>Esperanto Language Meta-Package for LibreOffice</tr>
+   <uk>Esperanto Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Esperanto Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Esperanto Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

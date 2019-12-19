@@ -10,51 +10,52 @@ Arabic_Libreoffice
 </name>
 
 <description>
-   <am>Arabic Language Meta-Package for LibreOffice</am>
-   <ar>Arabic Language Meta-Package for LibreOffice</ar>
-   <bg>Arabic Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Arabic per LibreOffice</ca>
-   <cs>Arabic Language Meta-Package for LibreOffice</cs>
-   <da>Arabic sprog-metapakke til LibreOffice</da>
-   <de>Arabic Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Arabic</el>
-   <en>Arabic Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Arabic para LibreOffice</es>
-   <et>Arabic Language Meta-Package for LibreOffice</et>
-   <eu>Arabic Language Meta-Package for LibreOffice</eu>
-   <fa>Arabic Language Meta-Package for LibreOffice</fa>
-   <fi>Arabic Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Arabic pour LibreOffice</fr>
-   <he_IL>Arabic Language Meta-Package for LibreOffice</he_IL>
-   <hi>Arabic Language Meta-Package for LibreOffice</hi>
-   <hr>Arabic Language Meta-Package for LibreOffice</hr>
-   <hu>Arabic Language Meta-Package for LibreOffice</hu>
-   <id>Arabic Language Meta-Package for LibreOffice</id>
-   <is>Arabic Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Arabic per LibreOffice</it>
-   <ja_JP>Arabic Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Arabic Language Meta-Package for LibreOffice</ja>
-   <kk>Arabic Language Meta-Package for LibreOffice</kk>
-   <ko>Arabic Language Meta-Package for LibreOffice</ko>
-   <lt>Arabic Language Meta-Package for LibreOffice</lt>
-   <mk>Arabic Language Meta-Package for LibreOffice</mk>
-   <mr>Arabic Language Meta-Package for LibreOffice</mr>
-   <nb>Arabic Language Meta-Package for LibreOffice</nb>
-   <nl>Arabic Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Arabic metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Arabic Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Arabic Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Arabic Language Meta-Package for LibreOffice</ro>
-   <ru>Arabic Language Meta-Package for LibreOffice</ru>
-   <sk>Arabic Language Meta-Package for LibreOffice</sk>
-   <sl>Arabic Language Meta-Package for LibreOffice</sl>
-   <sq>Arabic Language Meta-Package for LibreOffice</sq>
-   <sr>Arabic Language Meta-Package for LibreOffice</sr>
-   <sv>Arabic Språk Meta-Paket för LibreOffice</sv>
-   <tr>Arabic Language Meta-Package for LibreOffice</tr>
-   <uk>Arabic Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Arabic Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Arabic Language Meta-Package for LibreOffice</zh_TW>
+   <am>Arabic localisation of Thunderbird</am>
+   <ar>Arabic localisation of Thunderbird</ar>
+   <bg>Arabic localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Àrab</ca>
+   <cs>Arabic localisation of Thunderbird</cs>
+   <da>Arabisk oversættelse af Thunderbird</da>
+   <de>Arabische Lokalisierung von Thunderbird</de>
+   <el>Αραβικός εντοπισμός του Thunderbird</el>
+   <en>Arabic localisation of Thunderbird</en>
+   <es>Localización Árabe de Thunderbird</es>
+   <et>Arabic localisation of Thunderbird</et>
+   <eu>Arabic localisation of Thunderbird</eu>
+   <fa>Arabic localisation of Thunderbird</fa>
+   <fil_PH>Arabic localisation of Thunderbird</fil_PH>
+   <fi>Arabic localisation of Thunderbird</fi>
+   <fr>Localisation arabe pour Thunderbird</fr>
+   <he_IL>Arabic localisation of Thunderbird</he_IL>
+   <hi>Arabic localisation of Thunderbird</hi>
+   <hr>Arapska lokalizacija Thunderbirda</hr>
+   <hu>Arabic localisation of Thunderbird</hu>
+   <id>Arabic localisation of Thunderbird</id>
+   <is>Arabic localisation of Thunderbird</is>
+   <it>Localizzazione araba di Thunderbird</it>
+   <ja_JP>Arabic localisation of Thunderbird</ja_JP>
+   <ja>Arabic localisation of Thunderbird</ja>
+   <kk>Arabic localisation of Thunderbird</kk>
+   <ko>Arabic localisation of Thunderbird</ko>
+   <lt>Arabic localisation of Thunderbird</lt>
+   <mk>Arabic localisation of Thunderbird</mk>
+   <mr>Arabic localisation of Thunderbird</mr>
+   <nb>Arabic localisation of Thunderbird</nb>
+   <nl>Arabische lokalisatie van Thunderbird</nl>
+   <pl>Arabska lokalizacja Thunderbirda</pl>
+   <pt_BR>Árabe Localização para Thunderbird</pt_BR>
+   <pt>Árabe Localização para Thunderbird</pt>
+   <ro>Arabic localisation of Thunderbird</ro>
+   <ru>Arabic localisation of Thunderbird</ru>
+   <sk>Arabic lokalizácia pre Thunderbird</sk>
+   <sl>Arabic localisation of Thunderbird</sl>
+   <sq>Arabic localisation of Thunderbird</sq>
+   <sr>Arabic localisation of Thunderbird</sr>
+   <sv>Arabisk lokalisering av Thunderbird</sv>
+   <tr>Thunderbird'in Arapça yerelleştirmesi</tr>
+   <uk>Arabic localisation of Thunderbird</uk>
+   <zh_CN>Arabic localisation of Thunderbird</zh_CN>
+   <zh_TW>Arabic localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

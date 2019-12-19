@@ -10,51 +10,52 @@ Italian_Libreoffice
 </name>
 
 <description>
-   <am>Italian LibreOffice Language Meta-Package</am>
-   <ar>Italian LibreOffice Language Meta-Package</ar>
-   <bg>Italian LibreOffice Language Meta-Package</bg>
-   <ca>Metapaquet de llenguatge italià per a LibreOffice</ca>
-   <cs>Italian LibreOffice Language Meta-Package</cs>
-   <da>Italiensk LibreOffice sprog-metapakke</da>
-   <de>Italienisches LibreOffice Meta-Paket</de>
-   <el>LibreOffice στα ιταλικά</el>
-   <en>Italian LibreOffice Language Meta-Package</en>
-   <es>Meta-Paquete de Idioma Italiano LibreOffice</es>
-   <et>Italian LibreOffice Language Meta-Package</et>
-   <eu>Italian LibreOffice Language Meta-Package</eu>
-   <fa>Italian LibreOffice Language Meta-Package</fa>
-   <fi>Italian LibreOffice Language Meta-Package</fi>
-   <fr>Méta-paquet langue italienne pour LibreOffice</fr>
-   <he_IL>Italian LibreOffice Language Meta-Package</he_IL>
-   <hi>Italian LibreOffice Language Meta-Package</hi>
-   <hr>Italian LibreOffice Language Meta-Package</hr>
-   <hu>Italian LibreOffice Language Meta-Package</hu>
-   <id>Italian LibreOffice Language Meta-Package</id>
-   <is>Italian LibreOffice Language Meta-Package</is>
-   <it>Meta-pacchetto della lingua italiana per LibreOffice</it>
-   <ja_JP>Italian LibreOffice Language Meta-Package</ja_JP>
-   <ja>Italian LibreOffice Language Meta-Package</ja>
-   <kk>Italian LibreOffice Language Meta-Package</kk>
-   <ko>Italian LibreOffice Language Meta-Package</ko>
-   <lt>Italian LibreOffice Language Meta-Package</lt>
-   <mk>Italian LibreOffice Language Meta-Package</mk>
-   <mr>Italian LibreOffice Language Meta-Package</mr>
-   <nb>Italian LibreOffice Language Meta-Package</nb>
-   <nl>Italiaanse LibreOffice Taal Meta-Pakket</nl>
-   <pl>Włoski metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Italiano Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Italiano Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Italian LibreOffice Language Meta-Package</ro>
-   <ru>Italian LibreOffice Language Meta-Package</ru>
-   <sk>Italian LibreOffice Language Meta-Package</sk>
-   <sl>Italian LibreOffice Language Meta-Package</sl>
-   <sq>Italian LibreOffice Language Meta-Package</sq>
-   <sr>Italian LibreOffice Language Meta-Package</sr>
-   <sv>Italienskt LibreOffice Språk-Meta-Paket</sv>
-   <tr>Italian LibreOffice Language Meta-Package</tr>
-   <uk>Italian LibreOffice Language Meta-Package</uk>
-   <zh_CN>Italian LibreOffice Language Meta-Package</zh_CN>
-   <zh_TW>Italian LibreOffice Language Meta-Package</zh_TW>
+   <am>Italian Language Meta-Package</am>
+   <ar>Italian Language Meta-Package</ar>
+   <bg>Italian Language Meta-Package</bg>
+   <ca>Metapaquet de llenguatge italià</ca>
+   <cs>Italian Language Meta-Package</cs>
+   <da>Italiensk sprog-metapakke</da>
+   <de>Italienisches Sprach-Meta-Paket</de>
+   <el>Ιταλική γλώσσα</el>
+   <en>Italian Language Meta-Package</en>
+   <es>Meta-Paquete de Idioma Italiano</es>
+   <et>Italian Language Meta-Package</et>
+   <eu>Italian Language Meta-Package</eu>
+   <fa>Italian Language Meta-Package</fa>
+   <fil_PH>Italian Language Meta-Package</fil_PH>
+   <fi>Italian Language Meta-Package</fi>
+   <fr>Méta-paquet pour langue italienne</fr>
+   <he_IL>Italian Language Meta-Package</he_IL>
+   <hi>Italian Language Meta-Package</hi>
+   <hr>Italian Language Meta-Package</hr>
+   <hu>Italian Language Meta-Package</hu>
+   <id>Italian Language Meta-Package</id>
+   <is>Italian Language Meta-Package</is>
+   <it>Meta-pacchetto della lingua italiana</it>
+   <ja_JP>Italian Language Meta-Package</ja_JP>
+   <ja>Italian Language Meta-Package</ja>
+   <kk>Italian Language Meta-Package</kk>
+   <ko>Italian Language Meta-Package</ko>
+   <lt>Italian Language Meta-Package</lt>
+   <mk>Italian Language Meta-Package</mk>
+   <mr>Italian Language Meta-Package</mr>
+   <nb>Italian Language Meta-Package</nb>
+   <nl>Italiaanse Taal Meta-Pakket</nl>
+   <pl>Włoski metapakiet językowy</pl>
+   <pt_BR>Italiano Meta-Pacote de Idioma</pt_BR>
+   <pt>Italiano Meta-Pacote de Idioma</pt>
+   <ro>Italian Language Meta-Package</ro>
+   <ru>Italian Language Meta-Package</ru>
+   <sk>Italian Language Meta-Package</sk>
+   <sl>Italian Language Meta-Package</sl>
+   <sq>Italian Language Meta-Package</sq>
+   <sr>Italian Language Meta-Package</sr>
+   <sv>Italienskt Språk-Meta-Paket </sv>
+   <tr>Italian Language Meta-Package</tr>
+   <uk>Italian Language Meta-Package</uk>
+   <zh_CN>Italian Language Meta-Package</zh_CN>
+   <zh_TW>Italian Language Meta-Package</zh_TW>
 </description>
 
 <installable>

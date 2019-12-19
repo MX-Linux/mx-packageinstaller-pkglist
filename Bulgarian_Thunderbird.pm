@@ -10,51 +10,52 @@ Bulgarian_Thunderbird
 </name>
 
 <description>
-   <am>Bulgarian localisation of Thunderbird</am>
-   <ar>Bulgarian localisation of Thunderbird</ar>
-   <bg>Bulgarian localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Búlgar</ca>
-   <cs>Bulgarian localisation of Thunderbird</cs>
-   <da>Bulgarsk oversættelse af Thunderbird</da>
-   <de>Bulgarische Lokalisierung von Thunderbird</de>
-   <el>Βουλγαρικό εντοπισμό του Thunderbird</el>
-   <en>Bulgarian localisation of Thunderbird</en>
-   <es>Localización Búlgaro de Thunderbird</es>
-   <et>Bulgarian localisation of Thunderbird</et>
-   <eu>Bulgarian localisation of Thunderbird</eu>
-   <fa>Bulgarian localisation of Thunderbird</fa>
-   <fi>Bulgarian localisation of Thunderbird</fi>
-   <fr>Localisation bulgare pour Thunderbird</fr>
-   <he_IL>Bulgarian localisation of Thunderbird</he_IL>
-   <hi>Bulgarian localisation of Thunderbird</hi>
-   <hr>Bulgarian localisation of Thunderbird</hr>
-   <hu>Bulgarian localisation of Thunderbird</hu>
-   <id>Bulgarian localisation of Thunderbird</id>
-   <is>Bulgarian localisation of Thunderbird</is>
-   <it>Localizzazione bulgara di Thunderbird</it>
-   <ja_JP>Bulgarian localisation of Thunderbird</ja_JP>
-   <ja>Bulgarian localisation of Thunderbird</ja>
-   <kk>Bulgarian localisation of Thunderbird</kk>
-   <ko>Bulgarian localisation of Thunderbird</ko>
-   <lt>Bulgarian localisation of Thunderbird</lt>
-   <mk>Bulgarian localisation of Thunderbird</mk>
-   <mr>Bulgarian localisation of Thunderbird</mr>
-   <nb>Bulgarian localisation of Thunderbird</nb>
-   <nl>Bulgaarse lokalisatie van Thunderbird</nl>
-   <pl>Bułgarska lokalizacja Thunderbirda</pl>
-   <pt_BR>Búlgaro Localização para Thunderbird</pt_BR>
-   <pt>Búlgaro Localização para Thunderbird</pt>
-   <ro>Bulgarian localisation of Thunderbird</ro>
-   <ru>Bulgarian localisation of Thunderbird</ru>
-   <sk>Bulgarian localisation of Thunderbird</sk>
-   <sl>Bulgarian localisation of Thunderbird</sl>
-   <sq>Bulgarian localisation of Thunderbird</sq>
-   <sr>Bulgarian localisation of Thunderbird</sr>
-   <sv>Bulgarisk lokalisering av  Thunderbird</sv>
-   <tr>Bulgarian localisation of Thunderbird</tr>
-   <uk>Bulgarian локалізація Thunderbird</uk>
-   <zh_CN>Bulgarian localisation of Thunderbird</zh_CN>
-   <zh_TW>Bulgarian localisation of Thunderbird</zh_TW>
+   <am>3d capable dock w/ plugins</am>
+   <ar>3d capable dock w/ plugins</ar>
+   <bg>3d capable dock w/ plugins</bg>
+   <ca>Prestatge amb capacitat 3D amb connectors</ca>
+   <cs>3d capable dock w/ plugins</cs>
+   <da>dok med plugins som formår 3d</da>
+   <de>3d-fähiges Dock mit Plugins</de>
+   <el>3d dock με plugins</el>
+   <en>3d capable dock w/ plugins</en>
+   <es>Muelle compatible con plugins 3D</es>
+   <et>3d capable dock w/ plugins</et>
+   <eu>3d capable dock w/ plugins</eu>
+   <fa>3d capable dock w/ plugins</fa>
+   <fil_PH>3d capable dock w/ plugins</fil_PH>
+   <fi>3d capable dock w/ plugins</fi>
+   <fr>Un dock avec possibilités 3D et ses plugins</fr>
+   <he_IL>3d capable dock w/ plugins</he_IL>
+   <hi>3d capable dock w/ plugins</hi>
+   <hr>3d capable dock w/ plugins</hr>
+   <hu>3d capable dock w/ plugins</hu>
+   <id>3d capable dock w/ plugins</id>
+   <is>3d capable dock w/ plugins</is>
+   <it>Barra dock con capacità 3D e plugin</it>
+   <ja_JP>3d capable dock w/ plugins</ja_JP>
+   <ja>3d capable dock w/ plugins</ja>
+   <kk>3d capable dock w/ plugins</kk>
+   <ko>3d capable dock w/ plugins</ko>
+   <lt>3d capable dock w/ plugins</lt>
+   <mk>3d capable dock w/ plugins</mk>
+   <mr>3d capable dock w/ plugins</mr>
+   <nb>3d capable dock w/ plugins</nb>
+   <nl>3d geschikt dock met plugins</nl>
+   <pl>panel dokujący obsługujacy 3D</pl>
+   <pt_BR>Doca com capacidade 3D, com suplementos (plugins)</pt_BR>
+   <pt>Doca com capacidade 3D, com suplementos (plugins)</pt>
+   <ro>3d capable dock w/ plugins</ro>
+   <ru>Док-панель с поддержкой 3D и плагинами</ru>
+   <sk>3d capable dock w/ plugins</sk>
+   <sl>Sidrišče z vstavki, ki podpira tudi 3d</sl>
+   <sq>3d capable dock w/ plugins</sq>
+   <sr>3d capable dock w/ plugins</sr>
+   <sv>3D kapabel docka med plugins</sv>
+   <tr>3d capable dock w/ plugins</tr>
+   <uk>3D док з набором плагінів</uk>
+   <zh_CN>3d capable dock w/ plugins</zh_CN>
+   <zh_TW>3d capable dock w/ plugins</zh_TW>
 </description>
 
 <installable>

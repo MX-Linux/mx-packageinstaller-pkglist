@@ -10,51 +10,52 @@ Faba Icon Colors
 </name>
 
 <description>
-   <am>a Faba icon theme with many colour choices</am>
-   <ar>a Faba icon theme with many colour choices</ar>
-   <bg>a Faba icon theme with many colour choices</bg>
-   <ca>un tema d'icones Faba amb moltes opcions de color</ca>
-   <cs>a Faba icon theme with many colour choices</cs>
-   <da>et Faba-ikontema med mange farvevalg</da>
-   <de>Ein Faba-Icon-Thema mit vielen Farbvarianten</de>
-   <el>ένα θέμα εικονίδιο Faba με πολλές επιλογές χρωμάτων</el>
-   <en>a Faba icon theme with many colour choices</en>
-   <es>Tema de íconos Faba con colores a elección</es>
-   <et>a Faba icon theme with many colour choices</et>
-   <eu>a Faba icon theme with many colour choices</eu>
-   <fa>a Faba icon theme with many colour choices</fa>
-   <fi>a Faba icon theme with many colour choices</fi>
-   <fr>Jeu d'icônes Faba aux multiples choix de couleurs</fr>
-   <he_IL>a Faba icon theme with many colour choices</he_IL>
-   <hi>a Faba icon theme with many colour choices</hi>
-   <hr>a Faba icon theme with many colour choices</hr>
-   <hu>a Faba icon theme with many colour choices</hu>
-   <id>a Faba icon theme with many colour choices</id>
-   <is>a Faba icon theme with many colour choices</is>
-   <it>Tema di icone Faba con molte scelte di colore</it>
-   <ja_JP>a Faba icon theme with many colour choices</ja_JP>
-   <ja>a Faba icon theme with many colour choices</ja>
-   <kk>a Faba icon theme with many colour choices</kk>
-   <ko>a Faba icon theme with many colour choices</ko>
-   <lt>a Faba icon theme with many colour choices</lt>
-   <mk>a Faba icon theme with many colour choices</mk>
-   <mr>a Faba icon theme with many colour choices</mr>
-   <nb>a Faba icon theme with many colour choices</nb>
-   <nl>een Faba icoon thema met veel kleurkeuzes</nl>
-   <pl>motyw ikon Faba z dużym wyborem kolorów</pl>
-   <pt_BR>Tema de ícones Faba com muitas opções de cores</pt_BR>
-   <pt>Tema de ícones Faba com muitas opções de cores</pt>
-   <ro>a Faba icon theme with many colour choices</ro>
-   <ru>Тема иконок Faba с множеством цветовых вариантов</ru>
-   <sk>a Faba icon theme with many colour choices</sk>
-   <sl>Faba tema za ikone, z mnogimi izbori barv</sl>
-   <sq>a Faba icon theme with many colour choices</sq>
-   <sr>a Faba icon theme with many colour choices</sr>
-   <sv>ett Faba ikontema med många färgval</sv>
-   <tr>a Faba icon theme with many colour choices</tr>
-   <uk>тема піктограм Faba з багатим набором кольорів</uk>
-   <zh_CN>a Faba icon theme with many colour choices</zh_CN>
-   <zh_TW>a Faba icon theme with many colour choices</zh_TW>
+   <am>Latest Falkon lightweight browser</am>
+   <ar>Latest Falkon lightweight browser</ar>
+   <bg>Latest Falkon lightweight browser</bg>
+   <ca>El darrer navegador lleuger Falkon</ca>
+   <cs>Latest Falkon lightweight browser</cs>
+   <da>Seneste Falkon letvægtsbrowser</da>
+   <de>Neuester Falkon leichtgewichtiger Browser</de>
+   <el>Τελευταίο ελαφρύ πρόγραμμα περιήγησης Falkon</el>
+   <en>Latest Falkon lightweight browser</en>
+   <es>Último navegador ligero Falkon</es>
+   <et>Latest Falkon lightweight browser</et>
+   <eu>Latest Falkon lightweight browser</eu>
+   <fa>Latest Falkon lightweight browser</fa>
+   <fil_PH>Latest Falkon lightweight browser</fil_PH>
+   <fi>Latest Falkon lightweight browser</fi>
+   <fr>Dernière version du navigateur léger Falkon</fr>
+   <he_IL>Latest Falkon lightweight browser</he_IL>
+   <hi>Latest Falkon lightweight browser</hi>
+   <hr>Latest Falkon lightweight browser</hr>
+   <hu>Latest Falkon lightweight browser</hu>
+   <id>Latest Falkon lightweight browser</id>
+   <is>Latest Falkon lightweight browser</is>
+   <it>Ultimo browser leggero Falkon</it>
+   <ja_JP>Latest Falkon lightweight browser</ja_JP>
+   <ja>Latest Falkon lightweight browser</ja>
+   <kk>Latest Falkon lightweight browser</kk>
+   <ko>Latest Falkon lightweight browser</ko>
+   <lt>Latest Falkon lightweight browser</lt>
+   <mk>Latest Falkon lightweight browser</mk>
+   <mr>Latest Falkon lightweight browser</mr>
+   <nb>Latest Falkon lightweight browser</nb>
+   <nl>Nieuwste Falkon lichtgewicht browser</nl>
+   <pl>najnowsza lekka przeglądarka Falkon</pl>
+   <pt_BR>Navegador web ligeiro Falkon, versão mais recente</pt_BR>
+   <pt>Versão mais recente do navegador ligeiro Falkon</pt>
+   <ro>Latest Falkon lightweight browser</ro>
+   <ru>Свежий релиз облегченного браузера Falkon</ru>
+   <sk>Latest Falkon lightweight browser</sk>
+   <sl>Zadnja različica lahkega brskalnika Falkon</sl>
+   <sq>Latest Falkon lightweight browser</sq>
+   <sr>Latest Falkon lightweight browser</sr>
+   <sv>Senaste Falkon lättviktswebbläsare</sv>
+   <tr>Latest Falkon lightweight browser</tr>
+   <uk>Latest Falkon lightweight browser</uk>
+   <zh_CN>Latest Falkon lightweight browser</zh_CN>
+   <zh_TW>Latest Falkon lightweight browser</zh_TW>
 </description>
 
 <installable>

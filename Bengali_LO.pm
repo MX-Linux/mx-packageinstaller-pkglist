@@ -10,51 +10,52 @@ Bengali_Libreoffice
 </name>
 
 <description>
-   <am>Bengali Language Meta-Package for LibreOffice</am>
-   <ar>Bengali Language Meta-Package for LibreOffice</ar>
-   <bg>Bengali Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Bengali per LibreOffice</ca>
-   <cs>Bengali Language Meta-Package for LibreOffice</cs>
-   <da>Bengali sprog-metapakke til LibreOffice</da>
-   <de>Bengali Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Bengali</el>
-   <en>Bengali Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Bengali para LibreOffice</es>
-   <et>Bengali Language Meta-Package for LibreOffice</et>
-   <eu>Bengali Language Meta-Package for LibreOffice</eu>
-   <fa>Bengali Language Meta-Package for LibreOffice</fa>
-   <fi>Bengali Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Bengali pour LibreOffice</fr>
-   <he_IL>Bengali Language Meta-Package for LibreOffice</he_IL>
-   <hi>Bengali Language Meta-Package for LibreOffice</hi>
-   <hr>Bengali Language Meta-Package for LibreOffice</hr>
-   <hu>Bengali Language Meta-Package for LibreOffice</hu>
-   <id>Bengali Language Meta-Package for LibreOffice</id>
-   <is>Bengali Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Bengali per LibreOffice</it>
-   <ja_JP>Bengali Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Bengali Language Meta-Package for LibreOffice</ja>
-   <kk>Bengali Language Meta-Package for LibreOffice</kk>
-   <ko>Bengali Language Meta-Package for LibreOffice</ko>
-   <lt>Bengali Language Meta-Package for LibreOffice</lt>
-   <mk>Bengali Language Meta-Package for LibreOffice</mk>
-   <mr>Bengali Language Meta-Package for LibreOffice</mr>
-   <nb>Bengali Language Meta-Package for LibreOffice</nb>
-   <nl>Bengali Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Bengali metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Bengali Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Bengali Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Bengali Language Meta-Package for LibreOffice</ro>
-   <ru>Bengali Language Meta-Package for LibreOffice</ru>
-   <sk>Bengali Language Meta-Package for LibreOffice</sk>
-   <sl>Bengali Language Meta-Package for LibreOffice</sl>
-   <sq>Bengali Language Meta-Package for LibreOffice</sq>
-   <sr>Bengali Language Meta-Package for LibreOffice</sr>
-   <sv>Bengali Språk Meta-Paket för LibreOffice</sv>
-   <tr>Bengali Language Meta-Package for LibreOffice</tr>
-   <uk>Bengali Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Bengali Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Bengali Language Meta-Package for LibreOffice</zh_TW>
+   <am>a free and open source 3D animation suite</am>
+   <ar>a free and open source 3D animation suite</ar>
+   <bg>a free and open source 3D animation suite</bg>
+   <ca>Suite d'animació 3D lliure i de codi obert</ca>
+   <cs>a free and open source 3D animation suite</cs>
+   <da>en fri og open source 3D-animationspakke</da>
+   <de>Eine kostenlose und quelloffene 3D-Animationssuite</de>
+   <el>μια ελεύθερη σουίτα 3D animation</el>
+   <en>a free and open source 3D animation suite</en>
+   <es>Una suite de animación en 3D libre y de código abierto</es>
+   <et>a free and open source 3D animation suite</et>
+   <eu>a free and open source 3D animation suite</eu>
+   <fa>a free and open source 3D animation suite</fa>
+   <fil_PH>a free and open source 3D animation suite</fil_PH>
+   <fi>a free and open source 3D animation suite</fi>
+   <fr>Une suite logicielle libre et open source d'animation 3D</fr>
+   <he_IL>a free and open source 3D animation suite</he_IL>
+   <hi>a free and open source 3D animation suite</hi>
+   <hr>a free and open source 3D animation suite</hr>
+   <hu>a free and open source 3D animation suite</hu>
+   <id>a free and open source 3D animation suite</id>
+   <is>a free and open source 3D animation suite</is>
+   <it>Programma gratuito ed open source di animazione 3D</it>
+   <ja_JP>a free and open source 3D animation suite</ja_JP>
+   <ja>a free and open source 3D animation suite</ja>
+   <kk>a free and open source 3D animation suite</kk>
+   <ko>a free and open source 3D animation suite</ko>
+   <lt>a free and open source 3D animation suite</lt>
+   <mk>a free and open source 3D animation suite</mk>
+   <mr>a free and open source 3D animation suite</mr>
+   <nb>a free and open source 3D animation suite</nb>
+   <nl>een gratis en open source 3D animatie suite</nl>
+   <pl>wolne i otwarte oprogramowanie do modelowania i renderowania obrazów oraz animacji 3D</pl>
+   <pt_BR>Conjunto de animação 3D livre e de fonte aberta</pt_BR>
+   <pt>Conjunto de animação 3D livre e de fonte aberta</pt>
+   <ro>a free and open source 3D animation suite</ro>
+   <ru>Бесплатная среда 3D анимации с открытым кодом</ru>
+   <sk>a free and open source 3D animation suite</sk>
+   <sl>brezplačen odprtokodni paket za 3D animacijo</sl>
+   <sq>a free and open source 3D animation suite</sq>
+   <sr>a free and open source 3D animation suite</sr>
+   <sv>en fri och öppen källkods 3D animationssvit</sv>
+   <tr>a free and open source 3D animation suite</tr>
+   <uk>вільний та відкритий пакет для роботи з 3D графікою</uk>
+   <zh_CN>a free and open source 3D animation suite</zh_CN>
+   <zh_TW>a free and open source 3D animation suite</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ x11vnc
 </name>
 
 <description>
-   <am>VNC server for X window environments</am>
-   <ar>VNC server for X window environments</ar>
-   <bg>VNC server for X window environments</bg>
-   <ca>Servidor VNC per entorns X-window</ca>
-   <cs>VNC server for X window environments</cs>
-   <da>VNC-server til X-vinduesmiljøer</da>
-   <de>VNC-Server für X Window-Umgebungen</de>
-   <el>VNC server για περιβάλλον παραθύρων X.</el>
-   <en>VNC server for X window environments</en>
-   <es>Servidor VNC para el entornos de ventanas X</es>
-   <et>VNC server for X window environments</et>
-   <eu>VNC server for X window environments</eu>
-   <fa>VNC server for X window environments</fa>
-   <fi>VNC server for X window environments</fi>
-   <fr>Serveur VNC pour environnements X window</fr>
-   <he_IL>VNC server for X window environments</he_IL>
-   <hi>VNC server for X window environments</hi>
-   <hr>VNC server for X window environments</hr>
-   <hu>VNC server for X window environments</hu>
-   <id>VNC server for X window environments</id>
-   <is>VNC server for X window environments</is>
-   <it>Server VNC per ambienti X Window</it>
-   <ja_JP>VNC server for X window environments</ja_JP>
-   <ja>VNC server for X window environments</ja>
-   <kk>VNC server for X window environments</kk>
-   <ko>VNC server for X window environments</ko>
-   <lt>VNC server for X window environments</lt>
-   <mk>VNC server for X window environments</mk>
-   <mr>VNC server for X window environments</mr>
-   <nb>VNC server for X window environments</nb>
-   <nl>VNC server voor X window omgevingen</nl>
-   <pl>Serwer VNC dla środowisk X Window</pl>
-   <pt_BR>Servidor VNC para ambientes de janelas "X"</pt_BR>
-   <pt>Servidor VNC para ambientes de janelas "X"</pt>
-   <ro>VNC server for X window environments</ro>
-   <ru>VNC сервер для оконной среды X Window</ru>
-   <sk>VNC server for X window environments</sk>
-   <sl>VNC strežnik za X window okolja</sl>
-   <sq>VNC server for X window environments</sq>
-   <sr>VNC server for X window environments</sr>
-   <sv>VNC server för X window miljöer</sv>
-   <tr>VNC server for X window environments</tr>
-   <uk>VNC server for X window environments</uk>
-   <zh_CN>VNC server for X window environments</zh_CN>
-   <zh_TW>VNC server for X window environments</zh_TW>
+   <am>Xhosa Language Meta-Package for LibreOffice</am>
+   <ar>Xhosa Language Meta-Package for LibreOffice</ar>
+   <bg>Xhosa Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Xhosa per LibreOffice</ca>
+   <cs>Xhosa Language Meta-Package for LibreOffice</cs>
+   <da>Xhosa Language Meta-Package for LibreOffice</da>
+   <de>Xhosa Meta-Paket für LibreOffice</de>
+   <el>Xhosa Language Meta-Package for LibreOffice</el>
+   <en>Xhosa Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete idioma xhosa para LibreOffice</es>
+   <et>Xhosa Language Meta-Package for LibreOffice</et>
+   <eu>Xhosa Language Meta-Package for LibreOffice</eu>
+   <fa>Xhosa Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Xhosa Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Xhosa Language Meta-Package for LibreOffice</fi>
+   <fr>Meta-Paquet de langue Xhosa pour LibreOffice</fr>
+   <he_IL>Xhosa Language Meta-Package for LibreOffice</he_IL>
+   <hi>Xhosa Language Meta-Package for LibreOffice</hi>
+   <hr>Xhosa Language Meta-Package for LibreOffice</hr>
+   <hu>Xhosa Language Meta-Package for LibreOffice</hu>
+   <id>Xhosa Language Meta-Package for LibreOffice</id>
+   <is>Xhosa Language Meta-Package for LibreOffice</is>
+   <it>Xhosa Language Meta-Package for LibreOffice</it>
+   <ja_JP>Xhosa Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Xhosa Language Meta-Package for LibreOffice</ja>
+   <kk>Xhosa Language Meta-Package for LibreOffice</kk>
+   <ko>Xhosa Language Meta-Package for LibreOffice</ko>
+   <lt>Xhosa Language Meta-Package for LibreOffice</lt>
+   <mk>Xhosa Language Meta-Package for LibreOffice</mk>
+   <mr>Xhosa Language Meta-Package for LibreOffice</mr>
+   <nb>Xhosa Language Meta-Package for LibreOffice</nb>
+   <nl>Xhosa Language Meta-Package for LibreOffice</nl>
+   <pl>Xhosa Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Xhosa Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Xosa Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Xhosa Language Meta-Package for LibreOffice</ro>
+   <ru>Xhosa Language Meta-Package for LibreOffice</ru>
+   <sk>Xhosa Language Meta-Package for LibreOffice</sk>
+   <sl>Khoški jezikovni meta-paket za LibreOffice</sl>
+   <sq>Xhosa Language Meta-Package for LibreOffice</sq>
+   <sr>Xhosa Language Meta-Package for LibreOffice</sr>
+   <sv>Xhosa Språk Meta-Paket för LibreOffice</sv>
+   <tr>Xhosa Language Meta-Package for LibreOffice</tr>
+   <uk>Xhosa Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Xhosa Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Xhosa Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

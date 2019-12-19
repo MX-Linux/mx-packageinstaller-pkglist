@@ -10,51 +10,52 @@ Japanese_Input
 </name>
 
 <description>
-   <am>Japanese ibus</am>
-   <ar>Japanese ibus</ar>
-   <bg>Japanese ibus</bg>
-   <ca>Ibus en japonès</ca>
-   <cs>Japanese ibus</cs>
-   <da>Japansk ibus</da>
-   <de>Japanischer IBus</de>
-   <el>Ιαπωνικά ibus</el>
-   <en>Japanese ibus</en>
-   <es>Ibus Japonés</es>
-   <et>Japanese ibus</et>
-   <eu>Japanese ibus</eu>
-   <fa>Japanese ibus</fa>
-   <fi>Japanese ibus</fi>
-   <fr>Japonais ibus</fr>
-   <he_IL>Japanese ibus</he_IL>
-   <hi>Japanese ibus</hi>
-   <hr>Japanese ibus</hr>
-   <hu>Japanese ibus</hu>
-   <id>Japanese ibus</id>
-   <is>Japanese ibus</is>
-   <it>Ibus per la lingua giapponese</it>
-   <ja_JP>Japanese ibus</ja_JP>
-   <ja>Japanese ibus</ja>
-   <kk>Japanese ibus</kk>
-   <ko>Japanese ibus</ko>
-   <lt>Japonų ibus</lt>
-   <mk>Japanese ibus</mk>
-   <mr>Japanese ibus</mr>
-   <nb>Japanese ibus</nb>
-   <nl>Japanse ibus</nl>
-   <pl>Japoński ibus</pl>
-   <pt_BR>Japonês ibus</pt_BR>
-   <pt>Japonês ibus</pt>
-   <ro>Japanese ibus</ro>
-   <ru>Japanese ibus</ru>
-   <sk>Japanese ibus</sk>
-   <sl>Japanese ibus</sl>
-   <sq>Japanese ibus</sq>
-   <sr>Japanese ibus</sr>
-   <sv>Japansk ibus</sv>
-   <tr>Japanese ibus</tr>
-   <uk>Japanese ibus</uk>
-   <zh_CN>Japanese ibus</zh_CN>
-   <zh_TW>Japanese ibus</zh_TW>
+   <am>Japanese localisation of LibreOffice</am>
+   <ar>Japanese localisation of LibreOffice</ar>
+   <bg>Japanese localisation of LibreOffice</bg>
+   <ca>Localització en japonès de LibreOffice</ca>
+   <cs>Japanese localisation of LibreOffice</cs>
+   <da>Japansk oversættelse af LibreOffice</da>
+   <de>Japanische Lokalisierung von LibreOffice</de>
+   <el>LibreOffice στα Ιαπωνικά</el>
+   <en>Japanese localisation of LibreOffice</en>
+   <es>Localización Japonesa de LibreOffice</es>
+   <et>Japanese localisation of LibreOffice</et>
+   <eu>Japanese localisation of LibreOffice</eu>
+   <fa>Japanese localisation of LibreOffice</fa>
+   <fil_PH>Japanese localisation of LibreOffice</fil_PH>
+   <fi>Japanese localisation of LibreOffice</fi>
+   <fr>Localisation japonaise pour LibreOffice</fr>
+   <he_IL>Japanese localisation of LibreOffice</he_IL>
+   <hi>Japanese localisation of LibreOffice</hi>
+   <hr>Japanese localisation of LibreOffice</hr>
+   <hu>Japanese localisation of LibreOffice</hu>
+   <id>Japanese localisation of LibreOffice</id>
+   <is>Japanese localisation of LibreOffice</is>
+   <it>Localizzazione giapponese di LibreOffice</it>
+   <ja_JP>Japanese localisation of LibreOffice</ja_JP>
+   <ja>Japanese localisation of LibreOffice</ja>
+   <kk>Japanese localisation of LibreOffice</kk>
+   <ko>Japanese localisation of LibreOffice</ko>
+   <lt>Japanese localisation of LibreOffice</lt>
+   <mk>Japanese localisation of LibreOffice</mk>
+   <mr>Japanese localisation of LibreOffice</mr>
+   <nb>Japanese localisation of LibreOffice</nb>
+   <nl>Japanse lokalisatie van LibreOffice</nl>
+   <pl>Japońska lokalizacja LibreOffice</pl>
+   <pt_BR>Japonês Localização para LibreOffice</pt_BR>
+   <pt>Japonês Localização para LibreOffice</pt>
+   <ro>Japanese localisation of LibreOffice</ro>
+   <ru>Japanese localisation of LibreOffice</ru>
+   <sk>Japanese localisation of LibreOffice</sk>
+   <sl>Japanese localisation of LibreOffice</sl>
+   <sq>Japanese localisation of LibreOffice</sq>
+   <sr>Japanese localisation of LibreOffice</sr>
+   <sv>Japansk lokalisering av LibreOffice</sv>
+   <tr>Japanese localisation of LibreOffice</tr>
+   <uk>Japanese локалізація LibreOffice</uk>
+   <zh_CN>Japanese localisation of LibreOffice</zh_CN>
+   <zh_TW>Japanese localisation of LibreOffice</zh_TW>
 </description>
 
 <installable>

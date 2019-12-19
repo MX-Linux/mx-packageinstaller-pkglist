@@ -10,51 +10,52 @@ clonezilla
 </name>
 
 <description>
-   <am>clone and restore disks and partitions</am>
-   <ar>clone and restore disks and partitions</ar>
-   <bg>clone and restore disks and partitions</bg>
-   <ca>Clona i restaura discos i particions</ca>
-   <cs>clone and restore disks and partitions</cs>
-   <da>klon og gendan diske og partitioner</da>
-   <de>Laufwerke und Partitonen klonen und wieder herstellen.</de>
-   <el>να κλωνοποιήσετε και να επαναφέρετε δίσκους και διαμερίσματα</el>
-   <en>clone and restore disks and partitions</en>
-   <es>Clona y restaura discos y particiones</es>
-   <et>clone and restore disks and partitions</et>
-   <eu>clone and restore disks and partitions</eu>
-   <fa>clone and restore disks and partitions</fa>
-   <fi>kloonaa ja palauta levyjä ja osioita</fi>
-   <fr>Copie et restauration de disques et de partitions</fr>
-   <he_IL>clone and restore disks and partitions</he_IL>
-   <hi>clone and restore disks and partitions</hi>
-   <hr>clone and restore disks and partitions</hr>
-   <hu>clone and restore disks and partitions</hu>
-   <id>clone and restore disks and partitions</id>
-   <is>clone and restore disks and partitions</is>
-   <it>clona e ripristina dischi e partizioni</it>
-   <ja_JP>clone and restore disks and partitions</ja_JP>
-   <ja>clone and restore disks and partitions</ja>
-   <kk>clone and restore disks and partitions</kk>
-   <ko>clone and restore disks and partitions</ko>
-   <lt>clone and restore disks and partitions</lt>
-   <mk>clone and restore disks and partitions</mk>
-   <mr>clone and restore disks and partitions</mr>
-   <nb>clone and restore disks and partitions</nb>
-   <nl>kloon en herstel schijven en partities</nl>
-   <pl>klonowanie i przywracanie dysków i partycji</pl>
-   <pt_BR>restaurar ou fazer uma cópia de discos e partições</pt_BR>
-   <pt>Clonar e restaurar discos e partições</pt>
-   <ro>clone and restore disks and partitions</ro>
-   <ru>Клонирование и восстановление дисков и разделов</ru>
-   <sk>clone and restore disks and partitions</sk>
-   <sl>kloniranje in obnova diskov in razdelkov</sl>
-   <sq>clone and restore disks and partitions</sq>
-   <sr>clone and restore disks and partitions</sr>
-   <sv>klona och återställ diskar och partitioner</sv>
-   <tr>clone and restore disks and partitions</tr>
-   <uk>клонування та відновлення дисків і розділів</uk>
-   <zh_CN>clone and restore disks and partitions</zh_CN>
-   <zh_TW>clone and restore disks and partitions</zh_TW>
+   <am>Additional Croatian Meta-Package</am>
+   <ar>Additional Croatian Meta-Package</ar>
+   <bg>Additional Croatian Meta-Package</bg>
+   <ca>Meta-paquet addicional en Croata</ca>
+   <cs>Additional Croatian Meta-Package</cs>
+   <da>Yderlige kroatisk metapakke</da>
+   <de>Zusätzliches kroatisches Sprach-Meta-Paket</de>
+   <el>Επιπλέον κροατική γλώσσα</el>
+   <en>Additional Croatian Meta-Package</en>
+   <es>Meta paquete adicional Croata</es>
+   <et>Additional Croatian Meta-Package</et>
+   <eu>Additional Croatian Meta-Package</eu>
+   <fa>Additional Croatian Meta-Package</fa>
+   <fil_PH>Additional Croatian Meta-Package</fil_PH>
+   <fi>Additional Croatian Meta-Package</fi>
+   <fr>Méta-paquet additionnel croate</fr>
+   <he_IL>Additional Croatian Meta-Package</he_IL>
+   <hi>Additional Croatian Meta-Package</hi>
+   <hr>Additional Croatian Meta-Package</hr>
+   <hu>Additional Croatian Meta-Package</hu>
+   <id>Additional Croatian Meta-Package</id>
+   <is>Additional Croatian Meta-Package</is>
+   <it>Meta-pacchetto aggiuntivo della lingua croata</it>
+   <ja_JP>Additional Croatian Meta-Package</ja_JP>
+   <ja>Additional Croatian Meta-Package</ja>
+   <kk>Additional Croatian Meta-Package</kk>
+   <ko>Additional Croatian Meta-Package</ko>
+   <lt>Papildomas kroatų metapaketas</lt>
+   <mk>Additional Croatian Meta-Package</mk>
+   <mr>Additional Croatian Meta-Package</mr>
+   <nb>Additional Croatian Meta-Package</nb>
+   <nl>Toegevoegd Kroatisch Meta-Pakket</nl>
+   <pl>Chorwacki dodatkowy metapakiet</pl>
+   <pt_BR>Croata Meta-Pacote Adicional</pt_BR>
+   <pt>Croata Meta-Pacote Adicional</pt>
+   <ro>Additional Croatian Meta-Package</ro>
+   <ru>Additional Croatian Meta-Package</ru>
+   <sk>Additional Croatian Meta-Package</sk>
+   <sl>Additional Croatian Meta-Package</sl>
+   <sq>Additional Croatian Meta-Package</sq>
+   <sr>Additional Croatian Meta-Package</sr>
+   <sv>Kroatiskt Tillägg Meta-Paket</sv>
+   <tr>Additional Croatian Meta-Package</tr>
+   <uk>Додатковий мета-пакунок з мовою Croatian</uk>
+   <zh_CN>Additional Croatian Meta-Package</zh_CN>
+   <zh_TW>Additional Croatian Meta-Package</zh_TW>
 </description>
 
 <installable>

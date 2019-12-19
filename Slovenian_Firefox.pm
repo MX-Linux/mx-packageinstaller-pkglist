@@ -10,51 +10,52 @@ Slovenian_Firefox
 </name>
 
 <description>
-   <am>Slovenian localisation of Firefox</am>
-   <ar>Slovenian localisation of Firefox</ar>
-   <bg>Slovenian localisation of Firefox</bg>
-   <ca>Localització de Firefox en Eslovè</ca>
-   <cs>Slovenian localisation of Firefox</cs>
-   <da>Slovensk oversættelse af Firefox</da>
-   <de>Slowenische Lokalisierung von Firefox</de>
-   <el>Σλοβένικος εντοπισμός του Firefox</el>
-   <en>Slovenian localisation of Firefox</en>
-   <es>Localización Eslovena de Firefox</es>
-   <et>Slovenian localisation of Firefox</et>
-   <eu>Slovenian localisation of Firefox</eu>
-   <fa>Slovenian localisation of Firefox</fa>
-   <fi>Slovenian localisation of Firefox</fi>
-   <fr>Localisation slovène pour Firefox</fr>
-   <he_IL>Slovenian localisation of Firefox</he_IL>
-   <hi>Slovenian localisation of Firefox</hi>
-   <hr>Slovenian localisation of Firefox</hr>
-   <hu>Slovenian localisation of Firefox</hu>
-   <id>Slovenian localisation of Firefox</id>
-   <is>Slovenian localisation of Firefox</is>
-   <it>Localizzazione slovena di Firefox</it>
-   <ja_JP>Slovenian localisation of Firefox</ja_JP>
-   <ja>Slovenian localisation of Firefox</ja>
-   <kk>Slovenian localisation of Firefox</kk>
-   <ko>Slovenian localisation of Firefox</ko>
-   <lt>Slovenian localisation of Firefox</lt>
-   <mk>Slovenian localisation of Firefox</mk>
-   <mr>Slovenian localisation of Firefox</mr>
-   <nb>Slovenian localisation of Firefox</nb>
-   <nl>Sloveense lokalisatie van Firefox</nl>
-   <pl>Słoweńska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Esloveno Localização para Firefox</pt_BR>
-   <pt>Esloveno Localização para Firefox</pt>
-   <ro>Slovenian localisation of Firefox</ro>
-   <ru>Словенская локализация Firefox</ru>
-   <sk>Slovenian localisation of Firefox</sk>
-   <sl>Slovenska lokalizacija za Firefox</sl>
-   <sq>Slovenian localisation of Firefox</sq>
-   <sr>Slovenian localisation of Firefox</sr>
-   <sv>Slovensk lokalisering av Firefox</sv>
-   <tr>Slovenian localisation of Firefox</tr>
-   <uk>Slovenian localisation of Firefox</uk>
-   <zh_CN>Slovenian localisation of Firefox</zh_CN>
-   <zh_TW>Slovenian localisation of Firefox</zh_TW>
+   <am>Slovenian Language Meta-Package for LibreOffice</am>
+   <ar>Slovenian Language Meta-Package for LibreOffice</ar>
+   <bg>Slovenian Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Eslovè per LibreOffice</ca>
+   <cs>Slovenian Language Meta-Package for LibreOffice</cs>
+   <da>Slovenian Language Meta-Package for LibreOffice</da>
+   <de>Slowenisches Meta-Paket für LibreOffice</de>
+   <el>Slovenian Language Meta-Package for LibreOffice</el>
+   <en>Slovenian Language Meta-Package for LibreOffice</en>
+   <es>Metapaquete de idioma esloveno para LibreOffice</es>
+   <et>Slovenian Language Meta-Package for LibreOffice</et>
+   <eu>Slovenian Language Meta-Package for LibreOffice</eu>
+   <fa>Slovenian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Slovenian Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Slovenian Language Meta-Package for LibreOffice</fi>
+   <fr>Slovenian Language Meta-Package for LibreOffice</fr>
+   <he_IL>Slovenian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Slovenian Language Meta-Package for LibreOffice</hi>
+   <hr>Slovenian Language Meta-Package for LibreOffice</hr>
+   <hu>Slovenian Language Meta-Package for LibreOffice</hu>
+   <id>Slovenian Language Meta-Package for LibreOffice</id>
+   <is>Slovenian Language Meta-Package for LibreOffice</is>
+   <it>Slovenian Language Meta-Package for LibreOffice</it>
+   <ja_JP>Slovenian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Slovenian Language Meta-Package for LibreOffice</ja>
+   <kk>Slovenian Language Meta-Package for LibreOffice</kk>
+   <ko>Slovenian Language Meta-Package for LibreOffice</ko>
+   <lt>Slovenian Language Meta-Package for LibreOffice</lt>
+   <mk>Slovenian Language Meta-Package for LibreOffice</mk>
+   <mr>Slovenian Language Meta-Package for LibreOffice</mr>
+   <nb>Slovenian Language Meta-Package for LibreOffice</nb>
+   <nl>Slovenian Language Meta-Package for LibreOffice</nl>
+   <pl>Slovenian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Slovenian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Esloveno Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Slovenian Language Meta-Package for LibreOffice</ro>
+   <ru>Slovenian Language Meta-Package for LibreOffice</ru>
+   <sk>Slovenian Language Meta-Package for LibreOffice</sk>
+   <sl>Slovenski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Slovenian Language Meta-Package for LibreOffice</sq>
+   <sr>Slovenian Language Meta-Package for LibreOffice</sr>
+   <sv>Sloveniskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Slovenian Language Meta-Package for LibreOffice</tr>
+   <uk>Slovenian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Slovenian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Slovenian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

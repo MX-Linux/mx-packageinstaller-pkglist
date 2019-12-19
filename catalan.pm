@@ -10,51 +10,52 @@ Catalan
 </name>
 
 <description>
-   <am>Catalan Language Meta-Package</am>
-   <ar>Catalan Language Meta-Package</ar>
-   <bg>Catalan Language Meta-Package</bg>
-   <ca>Meta-paquet per llengua Catalana</ca>
-   <cs>Catalan Language Meta-Package</cs>
-   <da>Catalansk sprog-metapakke</da>
-   <de>Katalanisches Sprach-Meta-Paket</de>
-   <el>Καταλανικά</el>
-   <en>Catalan Language Meta-Package</en>
-   <es>Meta paquete idioma Catalán</es>
-   <et>Catalan Language Meta-Package</et>
-   <eu>Catalan Language Meta-Package</eu>
-   <fa>Catalan Language Meta-Package</fa>
-   <fi>Catalan Language Meta-Package</fi>
-   <fr>Méta-Paquet pour langue catalane</fr>
-   <he_IL>Catalan Language Meta-Package</he_IL>
-   <hi>Catalan Language Meta-Package</hi>
-   <hr>Catalan Language Meta-Package</hr>
-   <hu>Catalan Language Meta-Package</hu>
-   <id>Catalan Language Meta-Package</id>
-   <is>Catalan Language Meta-Package</is>
-   <it>Meta-pacchetto della lingua catalana</it>
-   <ja_JP>Catalan Language Meta-Package</ja_JP>
-   <ja>Catalan Language Meta-Package</ja>
-   <kk>Catalan Language Meta-Package</kk>
-   <ko>Catalan Language Meta-Package</ko>
-   <lt>Catalan Language Meta-Package</lt>
-   <mk>Catalan Language Meta-Package</mk>
-   <mr>Catalan Language Meta-Package</mr>
-   <nb>Catalan Language Meta-Package</nb>
-   <nl>Catalaanse Taal Meta-Pakket</nl>
-   <pl>Kataloński metapakiet językowy</pl>
-   <pt_BR>Catalão Meta-Pacote de Idioma</pt_BR>
-   <pt>Catalão Meta-Pacote de Idioma</pt>
-   <ro>Catalan Language Meta-Package</ro>
-   <ru>Catalan Language Meta-Package</ru>
-   <sk>Catalan Language Meta-Package</sk>
-   <sl>Catalan Language Meta-Package</sl>
-   <sq>Catalan Language Meta-Package</sq>
-   <sr>Catalan Language Meta-Package</sr>
-   <sv>Katalansk Språk-Meta-Paket</sv>
-   <tr>Catalan Language Meta-Package</tr>
-   <uk>Catalan Language Meta-Package</uk>
-   <zh_CN>Catalan Language Meta-Package</zh_CN>
-   <zh_TW>Catalan Language Meta-Package</zh_TW>
+   <am>Catalan localisation of Thunderbird</am>
+   <ar>Catalan localisation of Thunderbird</ar>
+   <bg>Catalan localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Català</ca>
+   <cs>Catalan localisation of Thunderbird</cs>
+   <da>Catalansk oversættelse af Thunderbird</da>
+   <de>Katalanische Lokalisierung von Thunderbird</de>
+   <el>Καταλανική εντοπισμός του Thunderbird</el>
+   <en>Catalan localisation of Thunderbird</en>
+   <es>Localización catalana de Thunderbird</es>
+   <et>Catalan localisation of Thunderbird</et>
+   <eu>Catalan localisation of Thunderbird</eu>
+   <fa>Catalan localisation of Thunderbird</fa>
+   <fil_PH>Catalan localisation of Thunderbird</fil_PH>
+   <fi>Catalan localisation of Thunderbird</fi>
+   <fr>Localisation catalane pour Thunderbird</fr>
+   <he_IL>Catalan localisation of Thunderbird</he_IL>
+   <hi>Catalan localisation of Thunderbird</hi>
+   <hr>Catalan localisation of Thunderbird</hr>
+   <hu>Catalan localisation of Thunderbird</hu>
+   <id>Catalan localisation of Thunderbird</id>
+   <is>Catalan localisation of Thunderbird</is>
+   <it>Localizzazione catalana di Thunderbird</it>
+   <ja_JP>Catalan localisation of Thunderbird</ja_JP>
+   <ja>Catalan localisation of Thunderbird</ja>
+   <kk>Catalan localisation of Thunderbird</kk>
+   <ko>Catalan localisation of Thunderbird</ko>
+   <lt>Catalan localisation of Thunderbird</lt>
+   <mk>Catalan localisation of Thunderbird</mk>
+   <mr>Catalan localisation of Thunderbird</mr>
+   <nb>Catalan localisation of Thunderbird</nb>
+   <nl>Catalaanse lokalisatie van Thunderbird</nl>
+   <pl>Katalońska lokalizacja Thunderbirda</pl>
+   <pt_BR>Catalão Localização para Thunderbird</pt_BR>
+   <pt>Catalão Localização para Thunderbird</pt>
+   <ro>Catalan localisation of Thunderbird</ro>
+   <ru>Catalan localisation of Thunderbird</ru>
+   <sk>Catalan localisation of Thunderbird</sk>
+   <sl>Catalan localisation of Thunderbird</sl>
+   <sq>Catalan localisation of Thunderbird</sq>
+   <sr>Catalan localisation of Thunderbird</sr>
+   <sv>Katalansk lokalisering av Thunderbird</sv>
+   <tr>Thunderbird'ün Katalanca yerelleştirmesi</tr>
+   <uk>Catalan локалізація Thunderbird</uk>
+   <zh_CN>Catalan localisation of Thunderbird</zh_CN>
+   <zh_TW>Catalan localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ Master PDF Editor (Free Version)
 </name>
 
 <description>
-   <am>Edit PDF documents.</am>
-   <ar>Edit PDF documents.</ar>
-   <bg>Edit PDF documents.</bg>
-   <ca>Editor de documents PDF</ca>
-   <cs>Edit PDF documents.</cs>
-   <da>Rediger PDF-dokumenter.</da>
-   <de>PDF-Dokumente bearbeiten</de>
-   <el>Επεξεργασία εγγράφων PDF.</el>
-   <en>Edit PDF documents.</en>
-   <es>Editor de documentos PDF</es>
-   <et>Edit PDF documents.</et>
-   <eu>Edit PDF documents.</eu>
-   <fa>Edit PDF documents.</fa>
-   <fi>Muokkaa PDF-asiakirjoja.</fi>
-   <fr>Éditer des documents PDF.</fr>
-   <he_IL>Edit PDF documents.</he_IL>
-   <hi>Edit PDF documents.</hi>
-   <hr>Edit PDF documents.</hr>
-   <hu>Edit PDF documents.</hu>
-   <id>Edit PDF documents.</id>
-   <is>Edit PDF documents.</is>
-   <it>Modifica i documenti in PDF.</it>
-   <ja_JP>Edit PDF documents.</ja_JP>
-   <ja>Edit PDF documents.</ja>
-   <kk>Edit PDF documents.</kk>
-   <ko>Edit PDF documents.</ko>
-   <lt>Taisyti PDF dokumentus.</lt>
-   <mk>Edit PDF documents.</mk>
-   <mr>Edit PDF documents.</mr>
-   <nb>Edit PDF documents.</nb>
-   <nl>Bewerk PDF documenten</nl>
-   <pl>edytuje dokumenty PDF</pl>
-   <pt_BR>Editar documentos em formato .pdf.</pt_BR>
-   <pt>Editar documentos em formato .pdf.</pt>
-   <ro>Edit PDF documents.</ro>
-   <ru>Редактор PDF документов</ru>
-   <sk>Edit PDF documents.</sk>
-   <sl>Urejanje PDF dokumentov</sl>
-   <sq>Edit PDF documents.</sq>
-   <sr>Edit PDF documents.</sr>
-   <sv>Redigera PDF-dokument</sv>
-   <tr>Edit PDF documents.</tr>
-   <uk>редагування PDF документів.</uk>
-   <zh_CN>Edit PDF documents.</zh_CN>
-   <zh_TW>Edit PDF documents.</zh_TW>
+   <am>basic install of MATE desktop</am>
+   <ar>basic install of MATE desktop</ar>
+   <bg>basic install of MATE desktop</bg>
+   <ca>Instal·lació bàsica de l'escriptori MATE</ca>
+   <cs>basic install of MATE desktop</cs>
+   <da>grundlæggende installation af MATE-skrivebordet</da>
+   <de>Basisinstallation von MATE Desktop</de>
+   <el>βασική εγκατάσταση της επιφάνειας εργασίας MATE</el>
+   <en>basic install of MATE desktop</en>
+   <es>Instalación mínima del escritorio MATE</es>
+   <et>basic install of MATE desktop</et>
+   <eu>basic install of MATE desktop</eu>
+   <fa>basic install of MATE desktop</fa>
+   <fil_PH>basic install of MATE desktop</fil_PH>
+   <fi>basic install of MATE desktop</fi>
+   <fr>Installation de base du bureau MATE</fr>
+   <he_IL>basic install of MATE desktop</he_IL>
+   <hi>basic install of MATE desktop</hi>
+   <hr>basic install of MATE desktop</hr>
+   <hu>basic install of MATE desktop</hu>
+   <id>basic install of MATE desktop</id>
+   <is>basic install of MATE desktop</is>
+   <it>installazione base del desktop MATE</it>
+   <ja_JP>basic install of MATE desktop</ja_JP>
+   <ja>basic install of MATE desktop</ja>
+   <kk>basic install of MATE desktop</kk>
+   <ko>basic install of MATE desktop</ko>
+   <lt>basic install of MATE desktop</lt>
+   <mk>basic install of MATE desktop</mk>
+   <mr>basic install of MATE desktop</mr>
+   <nb>basic install of MATE desktop</nb>
+   <nl>basisinstallatie van de MATE desktop</nl>
+   <pl>podstawowa instalacja środowiska MATE</pl>
+   <pt_BR>Instalação básica do Ambiente de Trabalho MATE</pt_BR>
+   <pt>Instalação básica do Ambiente de Trabalho MATE</pt>
+   <ro>basic install of MATE desktop</ro>
+   <ru>Базовая установка окружения MATE</ru>
+   <sk>basic install of MATE desktop</sk>
+   <sl>Osnovna namestitev MATE namizja</sl>
+   <sq>basic install of MATE desktop</sq>
+   <sr>basic install of MATE desktop</sr>
+   <sv>enkel installation av MATE skrivbord</sv>
+   <tr>basic install of MATE desktop</tr>
+   <uk>базовий набір стільниці MATE</uk>
+   <zh_CN>basic install of MATE desktop</zh_CN>
+   <zh_TW>basic install of MATE desktop</zh_TW>
 </description>
 
 <installable>

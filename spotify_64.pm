@@ -10,51 +10,52 @@ Spotify
 </name>
 
 <description>
-   <am>Spotify from Spotify Testing Repo</am>
-   <ar>Spotify from Spotify Testing Repo</ar>
-   <bg>Spotify from Spotify Testing Repo</bg>
-   <ca>Spotify del dipòsit Spotify Testing</ca>
-   <cs>Spotify from Spotify Testing Repo</cs>
-   <da>Spotify fra Spotify testing-softwarekilde</da>
-   <de>Spotify vom Spotify Testing Repo</de>
-   <el>Spotify από το Spotify Test Repo</el>
-   <en>Spotify from Spotify Testing Repo</en>
-   <es>Spotify de los repositorios Testing de Spotify</es>
-   <et>Spotify from Spotify Testing Repo</et>
-   <eu>Spotify from Spotify Testing Repo</eu>
-   <fa>Spotify from Spotify Testing Repo</fa>
-   <fi>Spotify from Spotify Testing Repo</fi>
-   <fr>Spotify du dépôt de test Spotify</fr>
-   <he_IL>Spotify from Spotify Testing Repo</he_IL>
-   <hi>Spotify from Spotify Testing Repo</hi>
-   <hr>Spotify from Spotify Testing Repo</hr>
-   <hu>Spotify from Spotify Testing Repo</hu>
-   <id>Spotify from Spotify Testing Repo</id>
-   <is>Spotify from Spotify Testing Repo</is>
-   <it>Spotify dal repo testing di Spotify</it>
-   <ja_JP>Spotify from Spotify Testing Repo</ja_JP>
-   <ja>Spotify from Spotify Testing Repo</ja>
-   <kk>Spotify from Spotify Testing Repo</kk>
-   <ko>Spotify from Spotify Testing Repo</ko>
-   <lt>Spotify from Spotify Testing Repo</lt>
-   <mk>Spotify from Spotify Testing Repo</mk>
-   <mr>Spotify from Spotify Testing Repo</mr>
-   <nb>Spotify from Spotify Testing Repo</nb>
-   <nl>Spotify uit Spotify Testing Pakketbron</nl>
-   <pl>Spotify z repozytorium testowego Spotify</pl>
-   <pt_BR>Spotify from Spotify Testing Repo</pt_BR>
-   <pt>Spotify from Spotify Testing Repo</pt>
-   <ro>Spotify from Spotify Testing Repo</ro>
-   <ru>Сервис потокового аудио включающий более 30 млн. треков</ru>
-   <sk>Spotify from Spotify Testing Repo</sk>
-   <sl>Spotify iz Spotify testnega repozitorija</sl>
-   <sq>Spotify from Spotify Testing Repo</sq>
-   <sr>Spotify from Spotify Testing Repo</sr>
-   <sv>Spotify från Spotify Testing Förråd</sv>
-   <tr>Spotify from Spotify Testing Repo</tr>
-   <uk>Spotify from Spotify Testing Repo</uk>
-   <zh_CN>Spotify from Spotify Testing Repo</zh_CN>
-   <zh_TW>Spotify from Spotify Testing Repo</zh_TW>
+   <am>A simple way to use remote resources via an ssh encypted connection</am>
+   <ar>A simple way to use remote resources via an ssh encypted connection</ar>
+   <bg>A simple way to use remote resources via an ssh encypted connection</bg>
+   <ca>Mètode senzill per usar recursos remots mitjançant connexions encriptades SSH</ca>
+   <cs>A simple way to use remote resources via an ssh encypted connection</cs>
+   <da>En simpel måde at bruge fjernressourcer via en ssh-krypteret forbindelse</da>
+   <de>Auf einfache Art und Weise auf entfernte Rechnern über verschlüsselte SSH-Verbindungen zuzugreifen.</de>
+   <el>Ένας απλός τρόπος για τη χρήση απομακρυσμένων πόρων μέσω κρυπτογραφημένης σύνδεσης ssh</el>
+   <en>A simple way to use remote resources via an ssh encypted connection</en>
+   <es>Una forma sencilla de usar recursos remotos a través de una conexión cifrada ssh</es>
+   <et>A simple way to use remote resources via an ssh encypted connection</et>
+   <eu>A simple way to use remote resources via an ssh encypted connection</eu>
+   <fa>A simple way to use remote resources via an ssh encypted connection</fa>
+   <fil_PH>A simple way to use remote resources via an ssh encypted connection</fil_PH>
+   <fi>Helppo tapa käyttää etäresursseja ssh-salatun yhteyden kautta</fi>
+   <fr>Utilisation simple de ressources à distance au moyen d'une connexion cryptée ssh</fr>
+   <he_IL>A simple way to use remote resources via an ssh encypted connection</he_IL>
+   <hi>A simple way to use remote resources via an ssh encypted connection</hi>
+   <hr>A simple way to use remote resources via an ssh encypted connection</hr>
+   <hu>A simple way to use remote resources via an ssh encypted connection</hu>
+   <id>A simple way to use remote resources via an ssh encypted connection</id>
+   <is>A simple way to use remote resources via an ssh encypted connection</is>
+   <it>Un modo semplice per usare risorse remote attraverso una connessione ssh criptata</it>
+   <ja_JP>A simple way to use remote resources via an ssh encypted connection</ja_JP>
+   <ja>A simple way to use remote resources via an ssh encypted connection</ja>
+   <kk>A simple way to use remote resources via an ssh encypted connection</kk>
+   <ko>A simple way to use remote resources via an ssh encypted connection</ko>
+   <lt>A simple way to use remote resources via an ssh encypted connection</lt>
+   <mk>A simple way to use remote resources via an ssh encypted connection</mk>
+   <mr>A simple way to use remote resources via an ssh encypted connection</mr>
+   <nb>A simple way to use remote resources via an ssh encypted connection</nb>
+   <nl>Een simpele manier om bronnen op afstand e gebruiken middels een ssh versleutelde verbinding</nl>
+   <pl>prosty sposób korzystania ze zdalnych zasobów za pośrednictwem zaszyfrowanego połączenia ssh</pl>
+   <pt_BR>Um jeito simples de acessar recursos remotos via uma conexão ssh encriptada</pt_BR>
+   <pt>Uma forma simples de usar recursos remotos através duma ligação ssh encriptada</pt>
+   <ro>A simple way to use remote resources via an ssh encypted connection</ro>
+   <ru>Лёгкий способ использовать удаленные ресурсы через шифрованное соединение ssh</ru>
+   <sk>A simple way to use remote resources via an ssh encypted connection</sk>
+   <sl>Preprost način za rabo oddaljenih virov preko ssh šifrirane povezave</sl>
+   <sq>A simple way to use remote resources via an ssh encypted connection</sq>
+   <sr>A simple way to use remote resources via an ssh encypted connection</sr>
+   <sv>Ett enkelt sätt att använda fjärresurser via en ssh-krypterad anslutming</sv>
+   <tr>A simple way to use remote resources via an ssh encypted connection</tr>
+   <uk>A simple way to use remote resources via an ssh encypted connection</uk>
+   <zh_CN>A simple way to use remote resources via an ssh encypted connection</zh_CN>
+   <zh_TW>A simple way to use remote resources via an ssh encypted connection</zh_TW>
 </description>
 
 <installable>

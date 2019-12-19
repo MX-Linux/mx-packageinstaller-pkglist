@@ -10,51 +10,52 @@ Serbian_Libreoffice
 </name>
 
 <description>
-   <am>Serbian Language Meta-Package for LibreOffice</am>
-   <ar>Serbian Language Meta-Package for LibreOffice</ar>
-   <bg>Serbian Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Serbian per LibreOffice</ca>
-   <cs>Serbian Language Meta-Package for LibreOffice</cs>
-   <da>Serbian sprog-metapakke til LibreOffice</da>
-   <de>Serbian Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Serbian</el>
-   <en>Serbian Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Serbian para LibreOffice</es>
-   <et>Serbian Language Meta-Package for LibreOffice</et>
-   <eu>Serbian Language Meta-Package for LibreOffice</eu>
-   <fa>Serbian Language Meta-Package for LibreOffice</fa>
-   <fi>Serbian Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Serbian pour LibreOffice</fr>
-   <he_IL>Serbian Language Meta-Package for LibreOffice</he_IL>
-   <hi>Serbian Language Meta-Package for LibreOffice</hi>
-   <hr>Serbian Language Meta-Package for LibreOffice</hr>
-   <hu>Serbian Language Meta-Package for LibreOffice</hu>
-   <id>Serbian Language Meta-Package for LibreOffice</id>
-   <is>Serbian Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Serbian per LibreOffice</it>
-   <ja_JP>Serbian Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Serbian Language Meta-Package for LibreOffice</ja>
-   <kk>Serbian Language Meta-Package for LibreOffice</kk>
-   <ko>Serbian Language Meta-Package for LibreOffice</ko>
-   <lt>Serbian Language Meta-Package for LibreOffice</lt>
-   <mk>Serbian Language Meta-Package for LibreOffice</mk>
-   <mr>Serbian Language Meta-Package for LibreOffice</mr>
-   <nb>Serbian Language Meta-Package for LibreOffice</nb>
-   <nl>Serbian Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Serbian metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Serbian Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Serbian Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Serbian Language Meta-Package for LibreOffice</ro>
-   <ru>Serbian Language Meta-Package for LibreOffice</ru>
-   <sk>Serbian Language Meta-Package for LibreOffice</sk>
-   <sl>Serbian Language Meta-Package for LibreOffice</sl>
-   <sq>Serbian Language Meta-Package for LibreOffice</sq>
-   <sr>Serbian Language Meta-Package for LibreOffice</sr>
-   <sv>Serbian Språk Meta-Paket för LibreOffice</sv>
-   <tr>Serbian Language Meta-Package for LibreOffice</tr>
-   <uk>Serbian Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Serbian Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Serbian Language Meta-Package for LibreOffice</zh_TW>
+   <am>Serbian localisation of Thunderbird</am>
+   <ar>Serbian localisation of Thunderbird</ar>
+   <bg>Serbian localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Serbi</ca>
+   <cs>Serbian localisation of Thunderbird</cs>
+   <da>Serbisk oversættelse af Thunderbird</da>
+   <de>Serbische Lokalisierung von Thunderbird</de>
+   <el>Σερβικός εντοπισμός του Thunderbird</el>
+   <en>Serbian localisation of Thunderbird</en>
+   <es>Localización Serbia de Thunderbird</es>
+   <et>Serbian localisation of Thunderbird</et>
+   <eu>Serbian localisation of Thunderbird</eu>
+   <fa>Serbian localisation of Thunderbird</fa>
+   <fil_PH>Serbian localisation of Thunderbird</fil_PH>
+   <fi>Serbian localisation of Thunderbird</fi>
+   <fr>Localisation serbe pour Thunderbird</fr>
+   <he_IL>Serbian localisation of Thunderbird</he_IL>
+   <hi>Serbian localisation of Thunderbird</hi>
+   <hr>Serbian localisation of Thunderbird</hr>
+   <hu>Serbian localisation of Thunderbird</hu>
+   <id>Serbian localisation of Thunderbird</id>
+   <is>Serbian localisation of Thunderbird</is>
+   <it>Localizzazione serba di Thunderbird</it>
+   <ja_JP>Serbian localisation of Thunderbird</ja_JP>
+   <ja>Serbian localisation of Thunderbird</ja>
+   <kk>Serbian localisation of Thunderbird</kk>
+   <ko>Serbian localisation of Thunderbird</ko>
+   <lt>Serbian localisation of Thunderbird</lt>
+   <mk>Serbian localisation of Thunderbird</mk>
+   <mr>Serbian localisation of Thunderbird</mr>
+   <nb>Serbian localisation of Thunderbird</nb>
+   <nl>Servische lokalisatie van Thunderbird</nl>
+   <pl>Serbska lokalizacja Thunderbirda</pl>
+   <pt_BR>Sérvio Localização para Thunderbird</pt_BR>
+   <pt>Sérvio Localização para Thunderbird</pt>
+   <ro>Serbian localisation of Thunderbird</ro>
+   <ru>Serbian localisation of Thunderbird</ru>
+   <sk>Serbian localisation of Thunderbird</sk>
+   <sl>Serbian localisation of Thunderbird</sl>
+   <sq>Serbian localisation of Thunderbird</sq>
+   <sr>Serbian localisation of Thunderbird</sr>
+   <sv>Serbisk lokalisering av Thunderbird </sv>
+   <tr>Thunderbird'ün Sırpça yerelleştirmesi</tr>
+   <uk>Serbian localisation of Thunderbird</uk>
+   <zh_CN>Serbian localisation of Thunderbird</zh_CN>
+   <zh_TW>Serbian localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

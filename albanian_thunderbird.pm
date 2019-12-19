@@ -10,51 +10,52 @@ Albanian_Thunderbird
 </name>
 
 <description>
-   <am>Albanian localisation of Thunderbird</am>
-   <ar>Albanian localisation of Thunderbird</ar>
-   <bg>Albanian localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Albanès</ca>
-   <cs>Albanian localisation of Thunderbird</cs>
-   <da>Albansk oversættelse af Thunderbird</da>
-   <de>Albanische Lokalisierung von Thunderbird</de>
-   <el>Αλβανικός εντοπισμός του Thunderbird</el>
-   <en>Albanian localisation of Thunderbird</en>
-   <es>Localización Albania de Thunderbird</es>
-   <et>Albanian localisation of Thunderbird</et>
-   <eu>Albanian localisation of Thunderbird</eu>
-   <fa>Albanian localisation of Thunderbird</fa>
-   <fi>Albanian localisation of Thunderbird</fi>
-   <fr>Localisation albanaise pour Thunderbird</fr>
-   <he_IL>Albanian localisation of Thunderbird</he_IL>
-   <hi>Albanian localisation of Thunderbird</hi>
-   <hr>Albanska lokalizacija Thunderbirda</hr>
-   <hu>Albanian localisation of Thunderbird</hu>
-   <id>Albanian localisation of Thunderbird</id>
-   <is>Albanian localisation of Thunderbird</is>
-   <it>Localizzazione albanese di Thunderbird</it>
-   <ja_JP>Albanian localisation of Thunderbird</ja_JP>
-   <ja>Albanian localisation of Thunderbird</ja>
-   <kk>Albanian localisation of Thunderbird</kk>
-   <ko>Albanian localisation of Thunderbird</ko>
-   <lt>Albanian localisation of Thunderbird</lt>
-   <mk>Albanian localisation of Thunderbird</mk>
-   <mr>Albanian localisation of Thunderbird</mr>
-   <nb>Albanian localisation of Thunderbird</nb>
-   <nl>Albanese lokalisatie van Thunderbird</nl>
-   <pl>Albańska lokalizacja Thunderbirda</pl>
-   <pt_BR>Albanês Localização para Thunderbird</pt_BR>
-   <pt>Albanês Localização para Thunderbird</pt>
-   <ro>Albanian localisation of Thunderbird</ro>
-   <ru>Albanian localisation of Thunderbird</ru>
-   <sk>Albanian lokalizácia pre Thunderbird</sk>
-   <sl>Albanian localisation of Thunderbird</sl>
-   <sq>Albanian localisation of Thunderbird</sq>
-   <sr>Albanian localisation of Thunderbird</sr>
-   <sv>Albansk lokalisering av Thunderbird</sv>
-   <tr>Albanian localisation of Thunderbird</tr>
-   <uk>Albanian локалізація Thunderbird</uk>
-   <zh_CN>Albanian localisation of Thunderbird</zh_CN>
-   <zh_TW>Albanian localisation of Thunderbird</zh_TW>
+   <am>Amharic Language Meta-Package for LibreOffice</am>
+   <ar>Amharic Language Meta-Package for LibreOffice</ar>
+   <bg>Amharic Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Amharic per LibreOffice</ca>
+   <cs>Amharic Language Meta-Package for LibreOffice</cs>
+   <da>Amharic Language Meta-Package for LibreOffice</da>
+   <de>Amharisches Meta-Paket für LibreOffice</de>
+   <el>Amharic Language Meta-Package for LibreOffice</el>
+   <en>Amharic Language Meta-Package for LibreOffice</en>
+   <es>Metapaquete de idioma amárico para LibreOffice</es>
+   <et>Amharic Language Meta-Package for LibreOffice</et>
+   <eu>Amharic Language Meta-Package for LibreOffice</eu>
+   <fa>Amharic Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Amharic Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Amharic Language Meta-Package for LibreOffice</fi>
+   <fr>Amharic Language Meta-Package for LibreOffice</fr>
+   <he_IL>Amharic Language Meta-Package for LibreOffice</he_IL>
+   <hi>Amharic Language Meta-Package for LibreOffice</hi>
+   <hr>Amharic Language Meta-Package for LibreOffice</hr>
+   <hu>Amharic Language Meta-Package for LibreOffice</hu>
+   <id>Amharic Language Meta-Package for LibreOffice</id>
+   <is>Amharic Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua amarica per LibreOffice</it>
+   <ja_JP>Amharic Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Amharic Language Meta-Package for LibreOffice</ja>
+   <kk>Amharic Language Meta-Package for LibreOffice</kk>
+   <ko>Amharic Language Meta-Package for LibreOffice</ko>
+   <lt>Amharic Language Meta-Package for LibreOffice</lt>
+   <mk>Amharic Language Meta-Package for LibreOffice</mk>
+   <mr>Amharic Language Meta-Package for LibreOffice</mr>
+   <nb>Amharic Language Meta-Package for LibreOffice</nb>
+   <nl>Amharisch Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Amharic Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Amharic Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Amárico Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Amharic Language Meta-Package for LibreOffice</ro>
+   <ru>Amharic Language Meta-Package for LibreOffice</ru>
+   <sk>Amharic Language Meta-Package for LibreOffice</sk>
+   <sl>Amharični jezikovni meta-paket za LibreOffice</sl>
+   <sq>Amharic Language Meta-Package for LibreOffice</sq>
+   <sr>Amharic Language Meta-Package for LibreOffice</sr>
+   <sv>Amhariskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Amharic Language Meta-Package for LibreOffice</tr>
+   <uk>Amharic Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Amharic Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Amharic Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

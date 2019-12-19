@@ -10,51 +10,52 @@ Inkscape
 </name>
 
 <description>
-   <am>a vector-based drawing program</am>
-   <ar>a vector-based drawing program</ar>
-   <bg>a vector-based drawing program</bg>
-   <ca>Programa de dibuix basat en vectors</ca>
-   <cs>a vector-based drawing program</cs>
-   <da>et vektorbaseret tegneprogram</da>
-   <de>Ein vektorbasiertes Zeichenprogramm</de>
-   <el>ένα πρόγραμμα σχεδίασης vector-based</el>
-   <en>a vector-based drawing program</en>
-   <es>programa de dibujo vectorial</es>
-   <et>a vector-based drawing program</et>
-   <eu>a vector-based drawing program</eu>
-   <fa>a vector-based drawing program</fa>
-   <fi>Vektoripohjainen piirto-ohjelma</fi>
-   <fr>Programme de dessin vectoriel</fr>
-   <he_IL>a vector-based drawing program</he_IL>
-   <hi>a vector-based drawing program</hi>
-   <hr>a vector-based drawing program</hr>
-   <hu>a vector-based drawing program</hu>
-   <id>a vector-based drawing program</id>
-   <is>a vector-based drawing program</is>
-   <it>programma di disegno vettoriale</it>
-   <ja_JP>a vector-based drawing program</ja_JP>
-   <ja>a vector-based drawing program</ja>
-   <kk>a vector-based drawing program</kk>
-   <ko>a vector-based drawing program</ko>
-   <lt>a vector-based drawing program</lt>
-   <mk>a vector-based drawing program</mk>
-   <mr>a vector-based drawing program</mr>
-   <nb>a vector-based drawing program</nb>
-   <nl>een vector-gebaseerd tekenprogramma</nl>
-   <pl>program do tworzenia grafiki wektorowej</pl>
-   <pt_BR>Programa de desenho de base vectorial</pt_BR>
-   <pt>Programa de desenho de base vectorial</pt>
-   <ro>a vector-based drawing program</ro>
-   <ru>Векторный графический редактор с богатым функционалом</ru>
-   <sk>a vector-based drawing program</sk>
-   <sl>Program za vektorsko risanje</sl>
-   <sq>a vector-based drawing program</sq>
-   <sr>a vector-based drawing program</sr>
-   <sv>ett vektorbaserat ritprogram</sv>
-   <tr>bir vektörel çizim programı</tr>
-   <uk>програма для роботи з векторною графікою</uk>
-   <zh_CN>a vector-based drawing program</zh_CN>
-   <zh_TW>a vector-based drawing program</zh_TW>
+   <am>Italian localisation of Firefox</am>
+   <ar>Italian localisation of Firefox</ar>
+   <bg>Italian localisation of Firefox</bg>
+   <ca>Localització de Firefox en Italià</ca>
+   <cs>Italian localisation of Firefox</cs>
+   <da>Italiensk oversættelse af Firefox</da>
+   <de>Italienische Lokalisierung von Firefox</de>
+   <el>Ιταλικός εντοπισμός του Firefox</el>
+   <en>Italian localisation of Firefox</en>
+   <es>Localización Italiana de Firefox</es>
+   <et>Italian localisation of Firefox</et>
+   <eu>Italian localisation of Firefox</eu>
+   <fa>Italian localisation of Firefox</fa>
+   <fil_PH>Italian localisation of Firefox</fil_PH>
+   <fi>Italian localisation of Firefox</fi>
+   <fr>Localisation italienne pour Firefox</fr>
+   <he_IL>Italian localisation of Firefox</he_IL>
+   <hi>Italian localisation of Firefox</hi>
+   <hr>Italian localisation of Firefox</hr>
+   <hu>Italian localisation of Firefox</hu>
+   <id>Italian localisation of Firefox</id>
+   <is>Italian localisation of Firefox</is>
+   <it>Localizzazione italiana di Firefox</it>
+   <ja_JP>Italian localisation of Firefox</ja_JP>
+   <ja>Italian localisation of Firefox</ja>
+   <kk>Italian localisation of Firefox</kk>
+   <ko>Italian localisation of Firefox</ko>
+   <lt>Italian localisation of Firefox</lt>
+   <mk>Italian localisation of Firefox</mk>
+   <mr>Italian localisation of Firefox</mr>
+   <nb>Italian localisation of Firefox</nb>
+   <nl>Italiaanse lokalisatie van Firefox</nl>
+   <pl>Włoska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Italiano Localização para Firefox</pt_BR>
+   <pt>Italiano Localização para Firefox</pt>
+   <ro>Italian localisation of Firefox</ro>
+   <ru>Итальянская локализация Firefox</ru>
+   <sk>Italian localisation of Firefox</sk>
+   <sl>Italian localisation of Firefox</sl>
+   <sq>Italian localisation of Firefox</sq>
+   <sr>Italian localisation of Firefox</sr>
+   <sv>Italiensk lokalisering av Firefox </sv>
+   <tr>Firefox'un İtalyanca yerelleştirmesi</tr>
+   <uk>Italian локалізація Firefox</uk>
+   <zh_CN>Italian localisation of Firefox</zh_CN>
+   <zh_TW>Italian localisation of Firefox</zh_TW>
 </description>
 
 <installable>

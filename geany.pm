@@ -10,51 +10,52 @@ Geany
 </name>
 
 <description>
-   <am>fast and lightweight IDE and text editor</am>
-   <ar>fast and lightweight IDE and text editor</ar>
-   <bg>fast and lightweight IDE and text editor</bg>
-   <ca>IDE i editor de text ràpid i lleuger</ca>
-   <cs>fast and lightweight IDE and text editor</cs>
-   <da>hurtig og letvægts IDE og tekstredigering</da>
-   <de>Schneller und schlanker Texteditor und IDE</de>
-   <el>γρήγορο και ελαφρύ IDE και πρόγραμμα επεξεργασίας κειμένου</el>
-   <en>fast and lightweight IDE and text editor</en>
-   <es>Editor de textos rápido y liviano (IDE)</es>
-   <et>fast and lightweight IDE and text editor</et>
-   <eu>fast and lightweight IDE and text editor</eu>
-   <fa>fast and lightweight IDE and text editor</fa>
-   <fi>fast and lightweight IDE and text editor</fi>
-   <fr>Éditeur de texte IDE rapide et léger</fr>
-   <he_IL>fast and lightweight IDE and text editor</he_IL>
-   <hi>fast and lightweight IDE and text editor</hi>
-   <hr>fast and lightweight IDE and text editor</hr>
-   <hu>fast and lightweight IDE and text editor</hu>
-   <id>fast and lightweight IDE and text editor</id>
-   <is>fast and lightweight IDE and text editor</is>
-   <it>Editor di testo, ed Ambiente di Sviluppo Integrato, veloce e leggero</it>
-   <ja_JP>fast and lightweight IDE and text editor</ja_JP>
-   <ja>fast and lightweight IDE and text editor</ja>
-   <kk>fast and lightweight IDE and text editor</kk>
-   <ko>fast and lightweight IDE and text editor</ko>
-   <lt>fast and lightweight IDE and text editor</lt>
-   <mk>fast and lightweight IDE and text editor</mk>
-   <mr>fast and lightweight IDE and text editor</mr>
-   <nb>fast and lightweight IDE and text editor</nb>
-   <nl>snelle en lichtgewicht IDE en tekstverwerker</nl>
-   <pl>szybkie i lekkie środowisko programistyczne oraz edytor tekstu</pl>
-   <pt_BR>IDE (Integrated Development Environment) e editor de texto, ligeiro e rápido</pt_BR>
-   <pt>IDE (Integrated Development Environment) e editor de texto, ligeiro e rápido</pt>
-   <ro>fast and lightweight IDE and text editor</ro>
-   <ru>Быстрая и легковесная IDE и текстовый редактор</ru>
-   <sk>fast and lightweight IDE and text editor</sk>
-   <sl>lahek in hiter IDE urejevalnik teksta</sl>
-   <sq>fast and lightweight IDE and text editor</sq>
-   <sr>fast and lightweight IDE and text editor</sr>
-   <sv>snabb lättvikts IDE och textredigerare</sv>
-   <tr>fast and lightweight IDE and text editor</tr>
-   <uk>швидкий і легкий текстовий редактор та IDE</uk>
-   <zh_CN>fast and lightweight IDE and text editor</zh_CN>
-   <zh_TW>fast and lightweight IDE and text editor</zh_TW>
+   <am>Georgian Language Meta-Package for LibreOffice</am>
+   <ar>Georgian Language Meta-Package for LibreOffice</ar>
+   <bg>Georgian Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Georgià per LibreOffice</ca>
+   <cs>Georgian Language Meta-Package for LibreOffice</cs>
+   <da>Georgian Language Meta-Package for LibreOffice</da>
+   <de>Georgisches Meta-Paket für LibreOffice</de>
+   <el>Georgian Language Meta-Package for LibreOffice</el>
+   <en>Georgian Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de idioma georgiano para LibreOffice</es>
+   <et>Georgian Language Meta-Package for LibreOffice</et>
+   <eu>Georgian Language Meta-Package for LibreOffice</eu>
+   <fa>Georgian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Georgian Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Georgian Language Meta-Package for LibreOffice</fi>
+   <fr>Georgian Language Meta-Package for LibreOffice</fr>
+   <he_IL>Georgian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Georgian Language Meta-Package for LibreOffice</hi>
+   <hr>Georgian Language Meta-Package for LibreOffice</hr>
+   <hu>Georgian Language Meta-Package for LibreOffice</hu>
+   <id>Georgian Language Meta-Package for LibreOffice</id>
+   <is>Georgian Language Meta-Package for LibreOffice</is>
+   <it>Georgian Language Meta-Package for LibreOffice</it>
+   <ja_JP>Georgian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Georgian Language Meta-Package for LibreOffice</ja>
+   <kk>Georgian Language Meta-Package for LibreOffice</kk>
+   <ko>Georgian Language Meta-Package for LibreOffice</ko>
+   <lt>Georgian Language Meta-Package for LibreOffice</lt>
+   <mk>Georgian Language Meta-Package for LibreOffice</mk>
+   <mr>Georgian Language Meta-Package for LibreOffice</mr>
+   <nb>Georgian Language Meta-Package for LibreOffice</nb>
+   <nl>Georgian Language Meta-Package for LibreOffice</nl>
+   <pl>Georgian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Georgian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Georgiano Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Georgian Language Meta-Package for LibreOffice</ro>
+   <ru>Georgian Language Meta-Package for LibreOffice</ru>
+   <sk>Georgian Language Meta-Package for LibreOffice</sk>
+   <sl>Gruzijski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Georgian Language Meta-Package for LibreOffice</sq>
+   <sr>Georgian Language Meta-Package for LibreOffice</sr>
+   <sv>Georgiskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Georgian Language Meta-Package for LibreOffice</tr>
+   <uk>Georgian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Georgian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Georgian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

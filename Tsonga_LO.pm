@@ -10,51 +10,52 @@ Tsonga_Libreoffice
 </name>
 
 <description>
-   <am>Tsonga Language Meta-Package for LibreOffice</am>
-   <ar>Tsonga Language Meta-Package for LibreOffice</ar>
-   <bg>Tsonga Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Tsonga per LibreOffice</ca>
-   <cs>Tsonga Language Meta-Package for LibreOffice</cs>
-   <da>Tsonga sprog-metapakke til LibreOffice</da>
-   <de>Tsonga Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Tsonga</el>
-   <en>Tsonga Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Tsonga para LibreOffice</es>
-   <et>Tsonga Language Meta-Package for LibreOffice</et>
-   <eu>Tsonga Language Meta-Package for LibreOffice</eu>
-   <fa>Tsonga Language Meta-Package for LibreOffice</fa>
-   <fi>Tsonga Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Tsonga pour LibreOffice</fr>
-   <he_IL>Tsonga Language Meta-Package for LibreOffice</he_IL>
-   <hi>Tsonga Language Meta-Package for LibreOffice</hi>
-   <hr>Tsonga Language Meta-Package for LibreOffice</hr>
-   <hu>Tsonga Language Meta-Package for LibreOffice</hu>
-   <id>Tsonga Language Meta-Package for LibreOffice</id>
-   <is>Tsonga Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Tsonga per LibreOffice</it>
-   <ja_JP>Tsonga Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Tsonga Language Meta-Package for LibreOffice</ja>
-   <kk>Tsonga Language Meta-Package for LibreOffice</kk>
-   <ko>Tsonga Language Meta-Package for LibreOffice</ko>
-   <lt>Tsonga Language Meta-Package for LibreOffice</lt>
-   <mk>Tsonga Language Meta-Package for LibreOffice</mk>
-   <mr>Tsonga Language Meta-Package for LibreOffice</mr>
-   <nb>Tsonga Language Meta-Package for LibreOffice</nb>
-   <nl>Tsonga Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Tsonga metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Tsonga Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Tsonga Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Tsonga Language Meta-Package for LibreOffice</ro>
-   <ru>Tsonga Language Meta-Package for LibreOffice</ru>
-   <sk>Tsonga Language Meta-Package for LibreOffice</sk>
-   <sl>Tsonga Language Meta-Package for LibreOffice</sl>
-   <sq>Tsonga Language Meta-Package for LibreOffice</sq>
-   <sr>Tsonga Language Meta-Package for LibreOffice</sr>
-   <sv>Tsonga Språk Meta-Paket för LibreOffice</sv>
-   <tr>Tsonga Language Meta-Package for LibreOffice</tr>
-   <uk>Tsonga Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Tsonga Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Tsonga Language Meta-Package for LibreOffice</zh_TW>
+   <am>Tswana Language Meta-Package for LibreOffice</am>
+   <ar>Tswana Language Meta-Package for LibreOffice</ar>
+   <bg>Tswana Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Tswana per LibreOffice</ca>
+   <cs>Tswana Language Meta-Package for LibreOffice</cs>
+   <da>Tswana Language Meta-Package for LibreOffice</da>
+   <de>Tswana Meta-Paket für LibreOffice</de>
+   <el>Tswana Language Meta-Package for LibreOffice</el>
+   <en>Tswana Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de Idioma Tswana para LibreOffice</es>
+   <et>Tswana Language Meta-Package for LibreOffice</et>
+   <eu>Tswana Language Meta-Package for LibreOffice</eu>
+   <fa>Tswana Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Tswana Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Tswana Language Meta-Package for LibreOffice</fi>
+   <fr>Tswana Language Meta-Package for LibreOffice</fr>
+   <he_IL>Tswana Language Meta-Package for LibreOffice</he_IL>
+   <hi>Tswana Language Meta-Package for LibreOffice</hi>
+   <hr>Tswana Language Meta-Package for LibreOffice</hr>
+   <hu>Tswana Language Meta-Package for LibreOffice</hu>
+   <id>Tswana Language Meta-Package for LibreOffice</id>
+   <is>Tswana Language Meta-Package for LibreOffice</is>
+   <it>Tswana Language Meta-Package for LibreOffice</it>
+   <ja_JP>Tswana Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Tswana Language Meta-Package for LibreOffice</ja>
+   <kk>Tswana Language Meta-Package for LibreOffice</kk>
+   <ko>Tswana Language Meta-Package for LibreOffice</ko>
+   <lt>Tswana Language Meta-Package for LibreOffice</lt>
+   <mk>Tswana Language Meta-Package for LibreOffice</mk>
+   <mr>Tswana Language Meta-Package for LibreOffice</mr>
+   <nb>Tswana Language Meta-Package for LibreOffice</nb>
+   <nl>Tswana Language Meta-Package for LibreOffice</nl>
+   <pl>Tswana Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Tswana Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Tswana Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Tswana Language Meta-Package for LibreOffice</ro>
+   <ru>Tswana Language Meta-Package for LibreOffice</ru>
+   <sk>Tswana Language Meta-Package for LibreOffice</sk>
+   <sl>Tswanski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Tswana Language Meta-Package for LibreOffice</sq>
+   <sr>Tswana Language Meta-Package for LibreOffice</sr>
+   <sv>Tswana Språk Meta-Paket för LibreOffice</sv>
+   <tr>Tswana Language Meta-Package for LibreOffice</tr>
+   <uk>Tswana Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Tswana Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Tswana Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

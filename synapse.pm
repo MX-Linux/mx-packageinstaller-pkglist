@@ -10,51 +10,52 @@ Synapse
 </name>
 
 <description>
-   <am>alternate semantic file launcher</am>
-   <ar>alternate semantic file launcher</ar>
-   <bg>alternate semantic file launcher</bg>
-   <ca>Llançadora de fitxers amb semàntica alternativa</ca>
-   <cs>alternate semantic file launcher</cs>
-   <da>alternativ skematisk filstarter</da>
-   <de>Alternativer semantischer Datei-Starter</de>
-   <el>εναλλακτική σημασιολογική εκκίνηση αρχείων</el>
-   <en>alternate semantic file launcher</en>
-   <es>Lanzador de archivos semántico</es>
-   <et>alternate semantic file launcher</et>
-   <eu>alternate semantic file launcher</eu>
-   <fa>alternate semantic file launcher</fa>
-   <fi>alternate semantic file launcher</fi>
-   <fr>Lanceur sémantique d'application</fr>
-   <he_IL>alternate semantic file launcher</he_IL>
-   <hi>alternate semantic file launcher</hi>
-   <hr>alternate semantic file launcher</hr>
-   <hu>alternate semantic file launcher</hu>
-   <id>alternate semantic file launcher</id>
-   <is>alternate semantic file launcher</is>
-   <it>avviatore semantico per avviare applicazioni e accedere a file rilevanti</it>
-   <ja_JP>alternate semantic file launcher</ja_JP>
-   <ja>alternate semantic file launcher</ja>
-   <kk>alternate semantic file launcher</kk>
-   <ko>alternate semantic file launcher</ko>
-   <lt>alternate semantic file launcher</lt>
-   <mk>alternate semantic file launcher</mk>
-   <mr>alternate semantic file launcher</mr>
-   <nb>alternate semantic file launcher</nb>
-   <nl>alternatieve semantische bestandsopstarter</nl>
-   <pl>alternatywny program uruchamiający pliki semantyczne</pl>
-   <pt_BR>Lançador de arquivos semântico</pt_BR>
-   <pt>Lançador de ficheiros semântico</pt>
-   <ro>alternate semantic file launcher</ro>
-   <ru>Приложение для продвинутого поиска и запуска файлов</ru>
-   <sk>alternate semantic file launcher</sk>
-   <sl>alternativni semantični zaganjalec datotek</sl>
-   <sq>alternate semantic file launcher</sq>
-   <sr>alternate semantic file launcher</sr>
-   <sv>alternativ semantisk filstartare</sv>
-   <tr>alternate semantic file launcher</tr>
-   <uk>alternate semantic file launcher</uk>
-   <zh_CN>alternate semantic file launcher</zh_CN>
-   <zh_TW>alternate semantic file launcher</zh_TW>
+   <am>Syncthing file sync utility</am>
+   <ar>Syncthing file sync utility</ar>
+   <bg>Syncthing file sync utility</bg>
+   <ca>Utilitat de sincronització de fitxers Syncthing</ca>
+   <cs>Syncthing file sync utility</cs>
+   <da>Syncthing file sync utility</da>
+   <de>Syncthing Dateisynchronisationsprogramm</de>
+   <el>Συγχρονισμός χρησιμότητας συγχρονισμού αρχείων</el>
+   <en>Syncthing file sync utility</en>
+   <es>Utilidad de sincronización de archivos de sincronización</es>
+   <et>Syncthing file sync utility</et>
+   <eu>Syncthing file sync utility</eu>
+   <fa>Syncthing file sync utility</fa>
+   <fil_PH>Syncthing file sync utility</fil_PH>
+   <fi>Syncthing file sync utility</fi>
+   <fr>Utilitaire de synchronisation de fichier Syncthing</fr>
+   <he_IL>Syncthing file sync utility</he_IL>
+   <hi>Syncthing file sync utility</hi>
+   <hr>Syncthing file sync utility</hr>
+   <hu>Syncthing file sync utility</hu>
+   <id>Syncthing file sync utility</id>
+   <is>Syncthing file sync utility</is>
+   <it>Syncthing applicazione di sincronizzazione di file</it>
+   <ja_JP>Syncthing file sync utility</ja_JP>
+   <ja>Syncthing file sync utility</ja>
+   <kk>Syncthing file sync utility</kk>
+   <ko>Syncthing file sync utility</ko>
+   <lt>Syncthing file sync utility</lt>
+   <mk>Syncthing file sync utility</mk>
+   <mr>Syncthing file sync utility</mr>
+   <nb>Syncthing file sync utility</nb>
+   <nl>Syncthing file synchronisatie hulpprogramma</nl>
+   <pl>Syncthing file sync utility</pl>
+   <pt_BR>Utilitário de sincronização de arquivos</pt_BR>
+   <pt>Utilitário de sincronização de ficheiros</pt>
+   <ro>Syncthing file sync utility</ro>
+   <ru>Syncthing - приложение распределенной синхронизации файлов</ru>
+   <sk>Syncthing file sync utility</sk>
+   <sl>Syncthing orodje za sinhronizacijo datotek</sl>
+   <sq>Syncthing file sync utility</sq>
+   <sr>Syncthing file sync utility</sr>
+   <sv>Syncthing filsynkroniserings-redskap</sv>
+   <tr>Syncthing file sync utility</tr>
+   <uk>Syncthing file sync utility</uk>
+   <zh_CN>Syncthing file sync utility</zh_CN>
+   <zh_TW>Syncthing file sync utility</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ English_southafrican_Libreoffice
 </name>
 
 <description>
-   <am>English_southafrican Language Meta-Package for LibreOffice</am>
-   <ar>English_southafrican Language Meta-Package for LibreOffice</ar>
-   <bg>English_southafrican Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'English_southafrican per LibreOffice</ca>
-   <cs>English_southafrican Language Meta-Package for LibreOffice</cs>
-   <da>English_southafrican sprog-metapakke til LibreOffice</da>
-   <de>English_southafrican Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα English_southafrican</el>
-   <en>English_southafrican Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma English_southafrican para LibreOffice</es>
-   <et>English_southafrican Language Meta-Package for LibreOffice</et>
-   <eu>English_southafrican Language Meta-Package for LibreOffice</eu>
-   <fa>English_southafrican Language Meta-Package for LibreOffice</fa>
-   <fi>English_southafrican Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue English_southafrican pour LibreOffice</fr>
-   <he_IL>English_southafrican Language Meta-Package for LibreOffice</he_IL>
-   <hi>English_southafrican Language Meta-Package for LibreOffice</hi>
-   <hr>English_southafrican Language Meta-Package for LibreOffice</hr>
-   <hu>English_southafrican Language Meta-Package for LibreOffice</hu>
-   <id>English_southafrican Language Meta-Package for LibreOffice</id>
-   <is>English_southafrican Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua English_southafrican per LibreOffice</it>
-   <ja_JP>English_southafrican Language Meta-Package for LibreOffice</ja_JP>
-   <ja>English_southafrican Language Meta-Package for LibreOffice</ja>
-   <kk>English_southafrican Language Meta-Package for LibreOffice</kk>
-   <ko>English_southafrican Language Meta-Package for LibreOffice</ko>
-   <lt>English_southafrican Language Meta-Package for LibreOffice</lt>
-   <mk>English_southafrican Language Meta-Package for LibreOffice</mk>
-   <mr>English_southafrican Language Meta-Package for LibreOffice</mr>
-   <nb>English_southafrican Language Meta-Package for LibreOffice</nb>
-   <nl>English_southafrican Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>English_southafrican metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>English_southafrican Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>English_southafrican Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>English_southafrican Language Meta-Package for LibreOffice</ro>
-   <ru>English_southafrican Language Meta-Package for LibreOffice</ru>
-   <sk>English_southafrican Language Meta-Package for LibreOffice</sk>
-   <sl>English_southafrican Language Meta-Package for LibreOffice</sl>
-   <sq>English_southafrican Language Meta-Package for LibreOffice</sq>
-   <sr>English_southafrican Language Meta-Package for LibreOffice</sr>
-   <sv>English_southafrican Språk Meta-Paket för LibreOffice</sv>
-   <tr>English_southafrican Language Meta-Package for LibreOffice</tr>
-   <uk>English_southafrican Language Meta-Package for LibreOffice</uk>
-   <zh_CN>English_southafrican Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>English_southafrican Language Meta-Package for LibreOffice</zh_TW>
+   <am>US English Help for LibreOffice</am>
+   <ar>US English Help for LibreOffice</ar>
+   <bg>US English Help for LibreOffice</bg>
+   <ca>Ajuda en anglès (USA) per LibreOffice</ca>
+   <cs>US English Help for LibreOffice</cs>
+   <da>Engelsk (USA) hjælp til LibreOffice</da>
+   <de>Englische (US) Hilfe für LibreOffice</de>
+   <el>Βοήθεια για το LibreOffice στα Αγγλικά (ΗΠΑ)</el>
+   <en>US English Help for LibreOffice</en>
+   <es>Ayuda Inglesa (EE.UU.) para LiberOffice</es>
+   <et>US English Help for LibreOffice</et>
+   <eu>US English Help for LibreOffice</eu>
+   <fa>US English Help for LibreOffice</fa>
+   <fil_PH>US English Help for LibreOffice</fil_PH>
+   <fi>US English Help for LibreOffice</fi>
+   <fr>Aide anglais_US pour LibreOffice</fr>
+   <he_IL>US English Help for LibreOffice</he_IL>
+   <hi>US English Help for LibreOffice</hi>
+   <hr>US English Help for LibreOffice</hr>
+   <hu>US English Help for LibreOffice</hu>
+   <id>US English Help for LibreOffice</id>
+   <is>US English Help for LibreOffice</is>
+   <it>Guida in Inglese US per LibreOffice</it>
+   <ja_JP>US English Help for LibreOffice</ja_JP>
+   <ja>US English Help for LibreOffice</ja>
+   <kk>US English Help for LibreOffice</kk>
+   <ko>US English Help for LibreOffice</ko>
+   <lt>US English Help for LibreOffice</lt>
+   <mk>US English Help for LibreOffice</mk>
+   <mr>US English Help for LibreOffice</mr>
+   <nb>US English Help for LibreOffice</nb>
+   <nl>US Engelse Hulp voor LibreOffice</nl>
+   <pl>Angielski Amerykański pomoc dla LibreOffice</pl>
+   <pt_BR>US Inglês Help para LibreOffice</pt_BR>
+   <pt>Inglês US Help para LibreOffice</pt>
+   <ro>US English Help for LibreOffice</ro>
+   <ru>US English Help for LibreOffice</ru>
+   <sk>US English Help for LibreOffice</sk>
+   <sl>US English Help for LibreOffice</sl>
+   <sq>US English Help for LibreOffice</sq>
+   <sr>US English Help for LibreOffice</sr>
+   <sv>US Engelsk Hjälp för LibreOffice</sv>
+   <tr>US English Help for LibreOffice</tr>
+   <uk>US English довідка LibreOffice</uk>
+   <zh_CN>US English Help for LibreOffice</zh_CN>
+   <zh_TW>US English Help for LibreOffice</zh_TW>
 </description>
 
 <installable>

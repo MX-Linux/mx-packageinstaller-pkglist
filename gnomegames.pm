@@ -10,51 +10,52 @@ Simple Card Games
 </name>
 
 <description>
-   <am>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</am>
-   <ar>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</ar>
-   <bg>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</bg>
-   <ca>Jocs de cartes i trencaclosques senzills (solitari, cors, mines, etc.)</ca>
-   <cs>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</cs>
-   <da>Simple kortspil og puzzlespil til skrivebordet (7-kabale, hjerterfri, minestryger osv.)</da>
-   <de>Einfache Desktop-Karten- und Puzzlespiele (Solitaire, Herzen, Minen, etc.)</de>
-   <el>Παιχνίδια καρτών και παζλ (solitare, hearts, mines, etc)</el>
-   <en>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</en>
-   <es>Juegos de cartas y rompecabezas para sobremesa (solitario, corazones, minas, etc.)</es>
-   <et>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</et>
-   <eu>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</eu>
-   <fa>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</fa>
-   <fi>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</fi>
-   <fr>Jeux de cartes et puzzles (solitaire, la dame de pique, mines, etc)</fr>
-   <he_IL>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</he_IL>
-   <hi>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</hi>
-   <hr>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</hr>
-   <hu>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</hu>
-   <id>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</id>
-   <is>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</is>
-   <it>Semplici giochi di carte e puzzles (solitario, cuori, mine, ecc.)</it>
-   <ja_JP>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</ja_JP>
-   <ja>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</ja>
-   <kk>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</kk>
-   <ko>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</ko>
-   <lt>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</lt>
-   <mk>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</mk>
-   <mr>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</mr>
-   <nb>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</nb>
-   <nl>eenvoudige Desktop Kaart en Puzzel Spellen (solitaire, hearts, mines, etc)</nl>
-   <pl>proste gry karciane i łamigłówki (solitare, hearts, mines itp.)</pl>
-   <pt_BR>Jogos simples (solitare, hearts, mines, etc)</pt_BR>
-   <pt>Jogos simples (solitare, hearts, mines, etc)</pt>
-   <ro>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</ro>
-   <ru>Простые карточные игры и головоломки (солитер, червы, сапёр, и т.д.)</ru>
-   <sk>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</sk>
-   <sl>Preprosta namizna igra s kartami in miselne igre )solitaire, srca, mine, itd.)</sl>
-   <sq>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</sq>
-   <sr>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</sr>
-   <sv>Enkla skrivbords kort och pusselspel (patiens, hjärter, minor, etc)</sv>
-   <tr>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</tr>
-   <uk>прості настільні карткові ігри та головоломки (solitare, hearts, mines та інші)</uk>
-   <zh_CN>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</zh_CN>
-   <zh_TW>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</zh_TW>
+   <am>Minimal install of gnome shell</am>
+   <ar>Minimal install of gnome shell</ar>
+   <bg>Minimal install of gnome shell</bg>
+   <ca>Instal·lació mínima de Gnome Shell</ca>
+   <cs>Minimal install of gnome shell</cs>
+   <da>Minimal installation af gnome shell</da>
+   <de>Minimale Installation der Gnome-Shell</de>
+   <el>Ελάχιστη εγκατάσταση του gnome shell</el>
+   <en>Minimal install of gnome shell</en>
+   <es>Instalación mínima de gnome shell</es>
+   <et>Minimal install of gnome shell</et>
+   <eu>Minimal install of gnome shell</eu>
+   <fa>Minimal install of gnome shell</fa>
+   <fil_PH>Minimal install of gnome shell</fil_PH>
+   <fi>Minimal install of gnome shell</fi>
+   <fr>Installation minimale de Gnome Shell</fr>
+   <he_IL>Minimal install of gnome shell</he_IL>
+   <hi>Minimal install of gnome shell</hi>
+   <hr>Minimal install of gnome shell</hr>
+   <hu>Minimal install of gnome shell</hu>
+   <id>Minimal install of gnome shell</id>
+   <is>Minimal install of gnome shell</is>
+   <it>Installazione minimale di Gnome Shell</it>
+   <ja_JP>Minimal install of gnome shell</ja_JP>
+   <ja>Minimal install of gnome shell</ja>
+   <kk>Minimal install of gnome shell</kk>
+   <ko>Minimal install of gnome shell</ko>
+   <lt>Minimal install of gnome shell</lt>
+   <mk>Minimal install of gnome shell</mk>
+   <mr>Minimal install of gnome shell</mr>
+   <nb>Minimal install of gnome shell</nb>
+   <nl>Minimale installatie van de gnome shell</nl>
+   <pl>minimalna instalalacja powłoki gnome</pl>
+   <pt_BR>Instalação mínima do interpretador de comandos (shell) gnome</pt_BR>
+   <pt>Instalação mínima do interpretador de comandos (shell) gnome</pt>
+   <ro>Minimal install of gnome shell</ro>
+   <ru>Минимальная установка Gnome Shell</ru>
+   <sk>Minimal install of gnome shell</sk>
+   <sl>Minimalna namestitev gnome ogrodja</sl>
+   <sq>Minimal install of gnome shell</sq>
+   <sr>Minimal install of gnome shell</sr>
+   <sv>Minimal installation av gnome shell</sv>
+   <tr>Minimal install of gnome shell</tr>
+   <uk>мінімальний набір середовища gnome</uk>
+   <zh_CN>Minimal install of gnome shell</zh_CN>
+   <zh_TW>Minimal install of gnome shell</zh_TW>
 </description>
 
 <installable>

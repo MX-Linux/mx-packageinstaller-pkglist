@@ -10,51 +10,52 @@ Greek
 </name>
 
 <description>
-   <am>Greek Language Meta-Package</am>
-   <ar>Greek Language Meta-Package</ar>
-   <bg>Greek Language Meta-Package</bg>
-   <ca>Metapaquet per la llengua grega</ca>
-   <cs>Greek Language Meta-Package</cs>
-   <da>Græsk sprog-metapakke</da>
-   <de>Griechisches Sprach-Meta-Paket</de>
-   <el>Ελληνική γλώσσα</el>
-   <en>Greek Language Meta-Package</en>
-   <es>Meta-Paquete de Idioma Griego</es>
-   <et>Greek Language Meta-Package</et>
-   <eu>Greek Language Meta-Package</eu>
-   <fa>Greek Language Meta-Package</fa>
-   <fi>Greek Language Meta-Package</fi>
-   <fr>Méta-paquet pour langue grecque</fr>
-   <he_IL>Greek Language Meta-Package</he_IL>
-   <hi>Greek Language Meta-Package</hi>
-   <hr>Greek Language Meta-Package</hr>
-   <hu>Greek Language Meta-Package</hu>
-   <id>Greek Language Meta-Package</id>
-   <is>Greek Language Meta-Package</is>
-   <it>Meta-pacchetto della lingua greca</it>
-   <ja_JP>Greek Language Meta-Package</ja_JP>
-   <ja>Greek Language Meta-Package</ja>
-   <kk>Greek Language Meta-Package</kk>
-   <ko>Greek Language Meta-Package</ko>
-   <lt>Greek Language Meta-Package</lt>
-   <mk>Greek Language Meta-Package</mk>
-   <mr>Greek Language Meta-Package</mr>
-   <nb>Greek Language Meta-Package</nb>
-   <nl>Griekse Taal Meta-Pakket</nl>
-   <pl>Grecki metapakiet językowy</pl>
-   <pt_BR>Grego Meta-Pacote de Idioma</pt_BR>
-   <pt>Grego Meta-Pacote de Idioma</pt>
-   <ro>Greek Language Meta-Package</ro>
-   <ru>Greek Language Meta-Package</ru>
-   <sk>Greek Language Meta-Package</sk>
-   <sl>Grški jezikovni meta-paket</sl>
-   <sq>Greek Language Meta-Package</sq>
-   <sr>Greek Language Meta-Package</sr>
-   <sv>Grekiskt Språk Meta-Paket</sv>
-   <tr>Greek Language Meta-Package</tr>
-   <uk>Greek Language Meta-Package</uk>
-   <zh_CN>Greek Language Meta-Package</zh_CN>
-   <zh_TW>Greek Language Meta-Package</zh_TW>
+   <am>Greek localisation of Thunderbird</am>
+   <ar>Greek localisation of Thunderbird</ar>
+   <bg>Greek localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird per grec</ca>
+   <cs>Greek localisation of Thunderbird</cs>
+   <da>Græsk oversættelse af Thunderbird</da>
+   <de>Griechische Lokalisierung von Thunderbird</de>
+   <el>Ελληνικός εντοπισμός του Thunderbird</el>
+   <en>Greek localisation of Thunderbird</en>
+   <es>Localización Griega de Thunderbird</es>
+   <et>Greek localisation of Thunderbird</et>
+   <eu>Greek localisation of Thunderbird</eu>
+   <fa>Greek localisation of Thunderbird</fa>
+   <fil_PH>Greek localisation of Thunderbird</fil_PH>
+   <fi>Greek localisation of Thunderbird</fi>
+   <fr>Localisation grecque pour Thunderbird</fr>
+   <he_IL>Greek localisation of Thunderbird</he_IL>
+   <hi>Greek localisation of Thunderbird</hi>
+   <hr>Greek localisation of Thunderbird</hr>
+   <hu>Greek localisation of Thunderbird</hu>
+   <id>Greek localisation of Thunderbird</id>
+   <is>Greek localisation of Thunderbird</is>
+   <it>Localizzazione greca di Thunderbird</it>
+   <ja_JP>Greek localisation of Thunderbird</ja_JP>
+   <ja>Greek localisation of Thunderbird</ja>
+   <kk>Greek localisation of Thunderbird</kk>
+   <ko>Greek localisation of Thunderbird</ko>
+   <lt>Greek localisation of Thunderbird</lt>
+   <mk>Greek localisation of Thunderbird</mk>
+   <mr>Greek localisation of Thunderbird</mr>
+   <nb>Greek localisation of Thunderbird</nb>
+   <nl>Griekse lokalisatie van Thunderbird</nl>
+   <pl>Grecka lokalizacja Thunderbirda</pl>
+   <pt_BR>Grego Localização para Thunderbird</pt_BR>
+   <pt>Grego Localização para Thunderbird</pt>
+   <ro>Greek localisation of Thunderbird</ro>
+   <ru>Greek localisation of Thunderbird</ru>
+   <sk>Greek localisation of Thunderbird</sk>
+   <sl>Grška lokalizacija za Thunderbird</sl>
+   <sq>Greek localisation of Thunderbird</sq>
+   <sr>Greek localisation of Thunderbird</sr>
+   <sv>Grekisk lokalisering för Thunderbird</sv>
+   <tr>Thunderbird'ün Yunanca yerelleştirmesi</tr>
+   <uk>Greek локалізація Thunderbird</uk>
+   <zh_CN>Greek localisation of Thunderbird</zh_CN>
+   <zh_TW>Greek localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

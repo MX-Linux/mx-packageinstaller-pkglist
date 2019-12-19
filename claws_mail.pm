@@ -10,51 +10,52 @@ Claws-Mail
 </name>
 
 <description>
-   <am>Claws Mail lightweight email client</am>
-   <ar>Claws Mail lightweight email client</ar>
-   <bg>Claws Mail lightweight email client</bg>
-   <ca>Client de correu lleuger Claws Mail</ca>
-   <cs>Claws Mail lightweight email client</cs>
-   <da>Claws Mail letsvægts e-mailklient</da>
-   <de>Claws Mail leichtgewichtiger E-Mail-Client</de>
-   <el>ελαφρύ πελάτη ηλεκτρονικού ταχυδρομείου</el>
-   <en>Claws Mail lightweight email client</en>
-   <es>Cliente de correo electrónico liviano Claws Mail</es>
-   <et>Claws Mail lightweight email client</et>
-   <eu>Claws Mail lightweight email client</eu>
-   <fa>Claws Mail lightweight email client</fa>
-   <fi>Claws Mail lightweight email client</fi>
-   <fr>Client mail léger Claws Mail</fr>
-   <he_IL>Claws Mail lightweight email client</he_IL>
-   <hi>Claws Mail lightweight email client</hi>
-   <hr>Claws Mail lightweight email client</hr>
-   <hu>Claws Mail lightweight email client</hu>
-   <id>Claws Mail lightweight email client</id>
-   <is>Claws Mail lightweight email client</is>
-   <it>Claws Mail, client email leggero</it>
-   <ja_JP>Claws Mail lightweight email client</ja_JP>
-   <ja>Claws Mail lightweight email client</ja>
-   <kk>Claws Mail lightweight email client</kk>
-   <ko>Claws Mail lightweight email client</ko>
-   <lt>Claws Mail supaprastintas el. pašto klientas</lt>
-   <mk>Claws Mail lightweight email client</mk>
-   <mr>Claws Mail lightweight email client</mr>
-   <nb>Claws Mail lightweight email client</nb>
-   <nl>Claws Mail lichtgewicht email programma</nl>
-   <pl>Claws Mail lekki klient poczty e-mail</pl>
-   <pt_BR>Cliente de e-mail simples e ligeiro</pt_BR>
-   <pt>Cliente de correio-electrónico simples e ligeiro</pt>
-   <ro>Claws Mail lightweight email client</ro>
-   <ru>Легковесный e-mail клиент</ru>
-   <sk>Claws Mail lightweight email client</sk>
-   <sl>Lahek poštni odjemalec Clwas Mail</sl>
-   <sq>Claws Mail lightweight email client</sq>
-   <sr>Claws Mail lightweight email client</sr>
-   <sv>Claws Mail lättvikts E-mejl klient</sv>
-   <tr>Claws Mail lightweight email client</tr>
-   <uk>Claws Mail легка програма для роботи з електронною поштою</uk>
-   <zh_CN>Claws Mail lightweight email client</zh_CN>
-   <zh_TW>Claws Mail lightweight email client</zh_TW>
+   <am>clone and restore disks and partitions</am>
+   <ar>clone and restore disks and partitions</ar>
+   <bg>clone and restore disks and partitions</bg>
+   <ca>Clona i restaura discos i particions</ca>
+   <cs>clone and restore disks and partitions</cs>
+   <da>klon og gendan diske og partitioner</da>
+   <de>Laufwerke und Partitonen klonen und wieder herstellen.</de>
+   <el>να κλωνοποιήσετε και να επαναφέρετε δίσκους και διαμερίσματα</el>
+   <en>clone and restore disks and partitions</en>
+   <es>Clona y restaura discos y particiones</es>
+   <et>clone and restore disks and partitions</et>
+   <eu>clone and restore disks and partitions</eu>
+   <fa>clone and restore disks and partitions</fa>
+   <fil_PH>clone and restore disks and partitions</fil_PH>
+   <fi>kloonaa ja palauta levyjä ja osioita</fi>
+   <fr>Copie et restauration de disques et de partitions</fr>
+   <he_IL>clone and restore disks and partitions</he_IL>
+   <hi>clone and restore disks and partitions</hi>
+   <hr>clone and restore disks and partitions</hr>
+   <hu>clone and restore disks and partitions</hu>
+   <id>clone and restore disks and partitions</id>
+   <is>clone and restore disks and partitions</is>
+   <it>clona e ripristina dischi e partizioni</it>
+   <ja_JP>clone and restore disks and partitions</ja_JP>
+   <ja>clone and restore disks and partitions</ja>
+   <kk>clone and restore disks and partitions</kk>
+   <ko>clone and restore disks and partitions</ko>
+   <lt>clone and restore disks and partitions</lt>
+   <mk>clone and restore disks and partitions</mk>
+   <mr>clone and restore disks and partitions</mr>
+   <nb>clone and restore disks and partitions</nb>
+   <nl>kloon en herstel schijven en partities</nl>
+   <pl>klonowanie i przywracanie dysków i partycji</pl>
+   <pt_BR>restaurar ou fazer uma cópia de discos e partições</pt_BR>
+   <pt>Clonar e restaurar discos e partições</pt>
+   <ro>clone and restore disks and partitions</ro>
+   <ru>Клонирование и восстановление дисков и разделов</ru>
+   <sk>clone and restore disks and partitions</sk>
+   <sl>kloniranje in obnova diskov in razdelkov</sl>
+   <sq>clone and restore disks and partitions</sq>
+   <sr>clone and restore disks and partitions</sr>
+   <sv>klona och återställ diskar och partitioner</sv>
+   <tr>clone and restore disks and partitions</tr>
+   <uk>клонування та відновлення дисків і розділів</uk>
+   <zh_CN>clone and restore disks and partitions</zh_CN>
+   <zh_TW>clone and restore disks and partitions</zh_TW>
 </description>
 
 <installable>

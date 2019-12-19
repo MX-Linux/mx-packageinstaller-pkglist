@@ -10,51 +10,52 @@ TeamViewer
 </name>
 
 <description>
-   <am>Teamviewer remote access</am>
-   <ar>Teamviewer remote access</ar>
-   <bg>Teamviewer remote access</bg>
-   <ca>Accés remot Teamviewer</ca>
-   <cs>Teamviewer remote access</cs>
-   <da>Teamviewer fjernadgang</da>
-   <de>Fernzugriff mit Teamviewer</de>
-   <el>Teamviewer απομακρυσμένη πρόσβαση</el>
-   <en>Teamviewer remote access</en>
-   <es>Teamviewer acceso remoto</es>
-   <et>Teamviewer remote access</et>
-   <eu>Teamviewer remote access</eu>
-   <fa>Teamviewer remote access</fa>
-   <fi>Teamviewer remote access</fi>
-   <fr>Teamviewer accès à distance</fr>
-   <he_IL>Teamviewer remote access</he_IL>
-   <hi>Teamviewer remote access</hi>
-   <hr>Teamviewer remote access</hr>
-   <hu>Teamviewer remote access</hu>
-   <id>Teamviewer remote access</id>
-   <is>Teamviewer remote access</is>
-   <it>Teamviewer accesso remoto</it>
-   <ja_JP>Teamviewer remote access</ja_JP>
-   <ja>Teamviewer remote access</ja>
-   <kk>Teamviewer remote access</kk>
-   <ko>Teamviewer remote access</ko>
-   <lt>Teamviewer nuotolinė prieiga</lt>
-   <mk>Teamviewer remote access</mk>
-   <mr>Teamviewer remote access</mr>
-   <nb>Teamviewer remote access</nb>
-   <nl>Teamviewer afstand toegang</nl>
-   <pl>dostęp zdalny TeamViewer</pl>
-   <pt_BR>Aplicativo de acesso remoto</pt_BR>
-   <pt>Aplicação de acesso remoto</pt>
-   <ro>Teamviewer remote access</ro>
-   <ru>Удаленный рабочий стол, передача файлов и видеосвязь</ru>
-   <sk>Teamviewer remote access</sk>
-   <sl>Teamviewer oddaljeni dostop</sl>
-   <sq>Teamviewer remote access</sq>
-   <sr>Teamviewer remote access</sr>
-   <sv>Teamviewer fjärråtkomst</sv>
-   <tr>Teamviewer remote access</tr>
-   <uk>Teamviewer remote access</uk>
-   <zh_CN>Teamviewer remote access</zh_CN>
-   <zh_TW>Teamviewer remote access</zh_TW>
+   <am>Telugu Language Meta-Package for LibreOffice</am>
+   <ar>Telugu Language Meta-Package for LibreOffice</ar>
+   <bg>Telugu Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Telugu per LibreOffice</ca>
+   <cs>Telugu Language Meta-Package for LibreOffice</cs>
+   <da>Telugu Language Meta-Package for LibreOffice</da>
+   <de>Telugu Meta-Paket für LibreOffice</de>
+   <el>Telugu Language Meta-Package for LibreOffice</el>
+   <en>Telugu Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de idioma Telugu para LibreOffice</es>
+   <et>Telugu Language Meta-Package for LibreOffice</et>
+   <eu>Telugu Language Meta-Package for LibreOffice</eu>
+   <fa>Telugu Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Telugu Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Telugu Language Meta-Package for LibreOffice</fi>
+   <fr>Telugu Language Meta-Package for LibreOffice</fr>
+   <he_IL>Telugu Language Meta-Package for LibreOffice</he_IL>
+   <hi>Telugu Language Meta-Package for LibreOffice</hi>
+   <hr>Telugu Language Meta-Package for LibreOffice</hr>
+   <hu>Telugu Language Meta-Package for LibreOffice</hu>
+   <id>Telugu Language Meta-Package for LibreOffice</id>
+   <is>Telugu Language Meta-Package for LibreOffice</is>
+   <it>Telugu Language Meta-Package for LibreOffice</it>
+   <ja_JP>Telugu Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Telugu Language Meta-Package for LibreOffice</ja>
+   <kk>Telugu Language Meta-Package for LibreOffice</kk>
+   <ko>Telugu Language Meta-Package for LibreOffice</ko>
+   <lt>Telugu Language Meta-Package for LibreOffice</lt>
+   <mk>Telugu Language Meta-Package for LibreOffice</mk>
+   <mr>Telugu Language Meta-Package for LibreOffice</mr>
+   <nb>Telugu Language Meta-Package for LibreOffice</nb>
+   <nl>Telugu Language Meta-Package for LibreOffice</nl>
+   <pl>Telugu Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Telugu Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Telego Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Telugu Language Meta-Package for LibreOffice</ro>
+   <ru>Telugu Language Meta-Package for LibreOffice</ru>
+   <sk>Telugu Language Meta-Package for LibreOffice</sk>
+   <sl>Teluški jezikovni meta-paket za LibreOffice</sl>
+   <sq>Telugu Language Meta-Package for LibreOffice</sq>
+   <sr>Telugu Language Meta-Package for LibreOffice</sr>
+   <sv>Telugu Språk Meta-Paket för LibreOffice</sv>
+   <tr>Telugu Language Meta-Package for LibreOffice</tr>
+   <uk>Telugu Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Telugu Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Telugu Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

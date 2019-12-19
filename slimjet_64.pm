@@ -10,51 +10,52 @@ Slimjet
 </name>
 
 <description>
-   <am>Latest Slimjet Browser (run again for updates)</am>
-   <ar>Latest Slimjet Browser (run again for updates)</ar>
-   <bg>Latest Slimjet Browser (run again for updates)</bg>
-   <ca>Darrer navegador Slimjet (torneu a executar-lo per actualitzacions)</ca>
-   <cs>Latest Slimjet Browser (run again for updates)</cs>
-   <da>Seneste Slimjet-browser (kør igen for opdateringer)</da>
-   <de>Neuester Slimjet Browser (zur Aktualisierung erneut ausführen)</de>
-   <el>Τελευταίο πρόγραμμα περιήγησης Slimjet (εκτελείται ξανά για ενημερώσεις)</el>
-   <en>Latest Slimjet Browser (run again for updates)</en>
-   <es>El Último Navegador Slimjet (ejecutar de nuevo para las actualizaciones)</es>
-   <et>Latest Slimjet Browser (run again for updates)</et>
-   <eu>Latest Slimjet Browser (run again for updates)</eu>
-   <fa>Latest Slimjet Browser (run again for updates)</fa>
-   <fi>Latest Slimjet Browser (run again for updates)</fi>
-   <fr>La dernière version du navigateur Slimjet (relancer pour mise à jour)</fr>
-   <he_IL>Latest Slimjet Browser (run again for updates)</he_IL>
-   <hi>Latest Slimjet Browser (run again for updates)</hi>
-   <hr>Latest Slimjet Browser (run again for updates)</hr>
-   <hu>Latest Slimjet Browser (run again for updates)</hu>
-   <id>Latest Slimjet Browser (run again for updates)</id>
-   <is>Latest Slimjet Browser (run again for updates)</is>
-   <it>Ultima versione del browser Slimjet (avvia nuovamente per gli aggiornamenti)</it>
-   <ja_JP>Latest Slimjet Browser (run again for updates)</ja_JP>
-   <ja>Latest Slimjet Browser (run again for updates)</ja>
-   <kk>Latest Slimjet Browser (run again for updates)</kk>
-   <ko>Latest Slimjet Browser (run again for updates)</ko>
-   <lt>Latest Slimjet Browser (run again for updates)</lt>
-   <mk>Latest Slimjet Browser (run again for updates)</mk>
-   <mr>Latest Slimjet Browser (run again for updates)</mr>
-   <nb>Latest Slimjet Browser (run again for updates)</nb>
-   <nl>Meest recente Slimjet Browser (nogmaals uitvoeren voor updates)</nl>
-   <pl>najnowsza przeglądarka Slimjet (uruchom ponownie w celu aktualizacji)</pl>
-   <pt_BR>Navegador web Slimjet, versão mais recente (para obter atualizações, se disponíveis, voltar a executar)</pt_BR>
-   <pt>Navegador web Slimjet, versão mais recente (para obter actualizações, se disponíveis, voltar a executar)</pt>
-   <ro>Latest Slimjet Browser (run again for updates)</ro>
-   <ru>Браузер Slimjet последней версии (перезапустите для установки обновлений)</ru>
-   <sk>Latest Slimjet Browser (run again for updates)</sk>
-   <sl>Zadnja različica Slimjet brskalnika</sl>
-   <sq>Latest Slimjet Browser (run again for updates)</sq>
-   <sr>Latest Slimjet Browser (run again for updates)</sr>
-   <sv>Senaste Slimjet Webbläsare (kör igen för uppdateringar)</sv>
-   <tr>Latest Slimjet Browser (run again for updates)</tr>
-   <uk>Latest Slimjet Browser (run again for updates)</uk>
-   <zh_CN>Latest Slimjet Browser (run again for updates)</zh_CN>
-   <zh_TW>Latest Slimjet Browser (run again for updates)</zh_TW>
+   <am>Slovak localisation of Firefox</am>
+   <ar>Slovak localisation of Firefox</ar>
+   <bg>Slovak localisation of Firefox</bg>
+   <ca>Localització de Firefox en Eslovac</ca>
+   <cs>Slovak localisation of Firefox</cs>
+   <da>Slovakisk oversættelse af Firefox</da>
+   <de>Slowakische Lokalisierung von Firefox</de>
+   <el>Σλοβακικός εντοπισμός του Firefox</el>
+   <en>Slovak localisation of Firefox</en>
+   <es>Localización Eslovaca de Firefox</es>
+   <et>Slovak localisation of Firefox</et>
+   <eu>Slovak localisation of Firefox</eu>
+   <fa>Slovak localisation of Firefox</fa>
+   <fil_PH>Slovak localisation of Firefox</fil_PH>
+   <fi>Slovak localisation of Firefox</fi>
+   <fr>Localisation slovaque pour Firefox</fr>
+   <he_IL>Slovak localisation of Firefox</he_IL>
+   <hi>Slovak localisation of Firefox</hi>
+   <hr>Slovak localisation of Firefox</hr>
+   <hu>Slovak localisation of Firefox</hu>
+   <id>Slovak localisation of Firefox</id>
+   <is>Slovak localisation of Firefox</is>
+   <it>Localizzazione slovacca di Firefox</it>
+   <ja_JP>Slovak localisation of Firefox</ja_JP>
+   <ja>Slovak localisation of Firefox</ja>
+   <kk>Slovak localisation of Firefox</kk>
+   <ko>Slovak localisation of Firefox</ko>
+   <lt>Slovak localisation of Firefox</lt>
+   <mk>Slovak localisation of Firefox</mk>
+   <mr>Slovak localisation of Firefox</mr>
+   <nb>Slovak localisation of Firefox</nb>
+   <nl>Slovaakse lokalisatie van Firefox</nl>
+   <pl>Słowacka lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Eslovaco Localização para Firefox</pt_BR>
+   <pt>Eslovaco Localização para Firefox</pt>
+   <ro>Slovak localisation of Firefox</ro>
+   <ru>Словацкая локализация Firefox</ru>
+   <sk>Slovak localisation of Firefox</sk>
+   <sl>Slovak localisation of Firefox</sl>
+   <sq>Slovak localisation of Firefox</sq>
+   <sr>Slovak localisation of Firefox</sr>
+   <sv>Slovakisk lokalisering av Firefox</sv>
+   <tr>Firefox'un Slovakça yerelleştirmesi</tr>
+   <uk>Slovak localisation of Firefox</uk>
+   <zh_CN>Slovak localisation of Firefox</zh_CN>
+   <zh_TW>Slovak localisation of Firefox</zh_TW>
 </description>
 
 <installable>

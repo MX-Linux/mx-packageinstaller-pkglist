@@ -10,51 +10,52 @@ Bulgarian_Firefox
 </name>
 
 <description>
-   <am>Bulgarian localisation of Firefox</am>
-   <ar>Bulgarian localisation of Firefox</ar>
-   <bg>Bulgarian localisation of Firefox</bg>
-   <ca>Localització de Firefox en Búlgar</ca>
-   <cs>Bulgarian localisation of Firefox</cs>
-   <da>Bulgarsk oversættelse af Firefox</da>
-   <de>Bulgarische Lokalisierung von Firefox</de>
-   <el>Βουλγαρικό εντοπισμό του Firefox</el>
-   <en>Bulgarian localisation of Firefox</en>
-   <es>Localización Búlgaro de Firefox</es>
-   <et>Bulgarian localisation of Firefox</et>
-   <eu>Bulgarian localisation of Firefox</eu>
-   <fa>Bulgarian localisation of Firefox</fa>
-   <fi>Bulgarian localisation of Firefox</fi>
-   <fr>Localisation bulgare pour Firefox</fr>
-   <he_IL>Bulgarian localisation of Firefox</he_IL>
-   <hi>Bulgarian localisation of Firefox</hi>
-   <hr>Bulgarian localisation of Firefox</hr>
-   <hu>Bulgarian localisation of Firefox</hu>
-   <id>Bulgarian localisation of Firefox</id>
-   <is>Bulgarian localisation of Firefox</is>
-   <it>Localizzazione bulgara di Firefox</it>
-   <ja_JP>Bulgarian localisation of Firefox</ja_JP>
-   <ja>Bulgarian localisation of Firefox</ja>
-   <kk>Bulgarian localisation of Firefox</kk>
-   <ko>Bulgarian localisation of Firefox</ko>
-   <lt>Bulgarian localisation of Firefox</lt>
-   <mk>Bulgarian localisation of Firefox</mk>
-   <mr>Bulgarian localisation of Firefox</mr>
-   <nb>Bulgarian localisation of Firefox</nb>
-   <nl>Bulgaarse lokalisatie van Firefox</nl>
-   <pl>Bułgarska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Búlgaro Localização para Firefox</pt_BR>
-   <pt>Búlgaro Localização para Firefox</pt>
-   <ro>Bulgarian localisation of Firefox</ro>
-   <ru>Болгарская локализация Firefox</ru>
-   <sk>Bulgarian localisation of Firefox</sk>
-   <sl>Bulgarian localisation of Firefox</sl>
-   <sq>Bulgarian localisation of Firefox</sq>
-   <sr>Bulgarian localisation of Firefox</sr>
-   <sv>Bulgarisk lokalisering av  Firefox</sv>
-   <tr>Bulgarian localisation of Firefox</tr>
-   <uk>Bulgarian локалізація Firefox</uk>
-   <zh_CN>Bulgarian localisation of Firefox</zh_CN>
-   <zh_TW>Bulgarian localisation of Firefox</zh_TW>
+   <am>Bulgarian Language Meta-Package for LibreOffice</am>
+   <ar>Bulgarian Language Meta-Package for LibreOffice</ar>
+   <bg>Bulgarian Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Búlgar per LibreOffice</ca>
+   <cs>Bulgarian Language Meta-Package for LibreOffice</cs>
+   <da>Bulgarian Language Meta-Package for LibreOffice</da>
+   <de>Bulgarisches Meta-Paket für LibreOffice</de>
+   <el>Bulgarian Language Meta-Package for LibreOffice</el>
+   <en>Bulgarian Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de idioma búlgaro para LibreOffice</es>
+   <et>Bulgarian Language Meta-Package for LibreOffice</et>
+   <eu>Bulgarian Language Meta-Package for LibreOffice</eu>
+   <fa>Bulgarian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Bulgarian Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Bulgarian Language Meta-Package for LibreOffice</fi>
+   <fr>Bulgarian Language Meta-Package for LibreOffice</fr>
+   <he_IL>Bulgarian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Bulgarian Language Meta-Package for LibreOffice</hi>
+   <hr>Bulgarian Language Meta-Package for LibreOffice</hr>
+   <hu>Bulgarian Language Meta-Package for LibreOffice</hu>
+   <id>Bulgarian Language Meta-Package for LibreOffice</id>
+   <is>Bulgarian Language Meta-Package for LibreOffice</is>
+   <it>Meta-pacchetto della lingua bulgara per LibreOffice</it>
+   <ja_JP>Bulgarian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Bulgarian Language Meta-Package for LibreOffice</ja>
+   <kk>Bulgarian Language Meta-Package for LibreOffice</kk>
+   <ko>Bulgarian Language Meta-Package for LibreOffice</ko>
+   <lt>Bulgarian Language Meta-Package for LibreOffice</lt>
+   <mk>Bulgarian Language Meta-Package for LibreOffice</mk>
+   <mr>Bulgarian Language Meta-Package for LibreOffice</mr>
+   <nb>Bulgarian Language Meta-Package for LibreOffice</nb>
+   <nl>Bulgarian Language Meta-Package for LibreOffice</nl>
+   <pl>Bulgarian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Bulgarian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Búlgaro Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Bulgarian Language Meta-Package for LibreOffice</ro>
+   <ru>Bulgarian Language Meta-Package for LibreOffice</ru>
+   <sk>Bulgarian Language Meta-Package for LibreOffice</sk>
+   <sl>Bolgarski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Bulgarian Language Meta-Package for LibreOffice</sq>
+   <sr>Bulgarian Language Meta-Package for LibreOffice</sr>
+   <sv>Bulgariskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Bulgarian Language Meta-Package for LibreOffice</tr>
+   <uk>Bulgarian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Bulgarian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Bulgarian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

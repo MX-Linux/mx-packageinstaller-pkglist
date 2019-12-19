@@ -10,51 +10,52 @@ Plank
 </name>
 
 <description>
-   <am>Simple but good looking dock</am>
-   <ar>Simple but good looking dock</ar>
-   <bg>Simple but good looking dock</bg>
-   <ca>Dock senzill però amb bon aspecte</ca>
-   <cs>Simple but good looking dock</cs>
-   <da>Simpel med flot dok</da>
-   <de>Einfaches, aber gut aussehendes Dock</de>
-   <el>Απλό αλλά όμορφο dock</el>
-   <en>Simple but good looking dock</en>
-   <es>dock simple y atractivo</es>
-   <et>Simple but good looking dock</et>
-   <eu>Simple but good looking dock</eu>
-   <fa>Simple but good looking dock</fa>
-   <fi>Simple but good looking dock</fi>
-   <fr>Un dock sobre et agréable</fr>
-   <he_IL>Simple but good looking dock</he_IL>
-   <hi>Simple but good looking dock</hi>
-   <hr>Simple but good looking dock</hr>
-   <hu>Simple but good looking dock</hu>
-   <id>Simple but good looking dock</id>
-   <is>Simple but good looking dock</is>
-   <it>barra dock semplice ma bella</it>
-   <ja_JP>Simple but good looking dock</ja_JP>
-   <ja>Simple but good looking dock</ja>
-   <kk>Simple but good looking dock</kk>
-   <ko>Simple but good looking dock</ko>
-   <lt>Simple but good looking dock</lt>
-   <mk>Simple but good looking dock</mk>
-   <mr>Simple but good looking dock</mr>
-   <nb>Simple but good looking dock</nb>
-   <nl>Eenvoudig maar goed uitziende dock</nl>
-   <pl>prosty, ale dobrze wyglądający panel dokujący</pl>
-   <pt_BR>Doca simples mas elegante</pt_BR>
-   <pt>Doca simples mas elegante</pt>
-   <ro>Simple but good looking dock</ro>
-   <ru>Простой но стильно выглядящий док</ru>
-   <sk>Simple but good looking dock</sk>
-   <sl>Enostaven a lep dock</sl>
-   <sq>Simple but good looking dock</sq>
-   <sr>Simple but good looking dock</sr>
-   <sv>Enkel men snygg docka</sv>
-   <tr>Simple but good looking dock</tr>
-   <uk>простий, але гарний док</uk>
-   <zh_CN>Simple but good looking dock</zh_CN>
-   <zh_TW>Simple but good looking dock</zh_TW>
+   <am>Play on Linux</am>
+   <ar>Play on Linux</ar>
+   <bg>Play on Linux</bg>
+   <ca>Play on Linux</ca>
+   <cs>Play on Linux</cs>
+   <da>Play on Linux</da>
+   <de>Ein grafisches Frontend für Wine</de>
+   <el>Play on Linux</el>
+   <en>Play on Linux</en>
+   <es>Play on Linux</es>
+   <et>Play on Linux</et>
+   <eu>Play on Linux</eu>
+   <fa>Play on Linux</fa>
+   <fil_PH>Play on Linux</fil_PH>
+   <fi>Play on Linux</fi>
+   <fr>Play on Linux</fr>
+   <he_IL>Play on Linux</he_IL>
+   <hi>Play on Linux</hi>
+   <hr>Play on Linux</hr>
+   <hu>Play on Linux</hu>
+   <id>Play on Linux</id>
+   <is>Play on Linux</is>
+   <it>Play on Linux</it>
+   <ja_JP>Play on Linux</ja_JP>
+   <ja>Play on Linux</ja>
+   <kk>Play on Linux</kk>
+   <ko>Play on Linux</ko>
+   <lt>Play on Linux</lt>
+   <mk>Play on Linux</mk>
+   <mr>Play on Linux</mr>
+   <nb>Play on Linux</nb>
+   <nl>Speel op Linux</nl>
+   <pl>umożliwia łatwą instalację i używanie wielu gier i oprogramowania</pl>
+   <pt_BR>Instalar programas do Windows em sistemas Linux</pt_BR>
+   <pt>Instalar programas do Windows em sistemas Linux</pt>
+   <ro>Play on Linux</ro>
+   <ru>Надстройка для запуска игр в окружении Wine</ru>
+   <sk>Play on Linux</sk>
+   <sl>Igraj v Linuxu</sl>
+   <sq>Play on Linux</sq>
+   <sr>Play on Linux</sr>
+   <sv>Play on Linux</sv>
+   <tr>Play on Linux</tr>
+   <uk>Play on Linux</uk>
+   <zh_CN>Play on Linux</zh_CN>
+   <zh_TW>Play on Linux</zh_TW>
 </description>
 
 <installable>

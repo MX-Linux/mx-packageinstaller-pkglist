@@ -10,51 +10,52 @@ Finnish_Thunderbird
 </name>
 
 <description>
-   <am>Finnish localisation of Thunderbird</am>
-   <ar>Finnish localisation of Thunderbird</ar>
-   <bg>Finnish localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Finès</ca>
-   <cs>Finnish localisation of Thunderbird</cs>
-   <da>Finsk oversættelse af Thunderbird</da>
-   <de>Finnische Lokalisierung von Thunderbird</de>
-   <el>Φινλανδικός εντοπισμός του Thunderbird</el>
-   <en>Finnish localisation of Thunderbird</en>
-   <es>Localización Finlandesa de Thunderbird</es>
-   <et>Finnish localisation of Thunderbird</et>
-   <eu>Finnish localisation of Thunderbird</eu>
-   <fa>Finnish localisation of Thunderbird</fa>
-   <fi>Thunderbirdin suomenkielinen käyttöliittymä</fi>
-   <fr>Localisation finlandaise pour Thunderbird</fr>
-   <he_IL>Finnish localisation of Thunderbird</he_IL>
-   <hi>Finnish localisation of Thunderbird</hi>
-   <hr>Finnish localisation of Thunderbird</hr>
-   <hu>Finnish localisation of Thunderbird</hu>
-   <id>Finnish localisation of Thunderbird</id>
-   <is>Finnish localisation of Thunderbird</is>
-   <it>Localizzazione finlandese di Thunderbird</it>
-   <ja_JP>Finnish localisation of Thunderbird</ja_JP>
-   <ja>Finnish localisation of Thunderbird</ja>
-   <kk>Finnish localisation of Thunderbird</kk>
-   <ko>Finnish localisation of Thunderbird</ko>
-   <lt>Finnish localisation of Thunderbird</lt>
-   <mk>Finnish localisation of Thunderbird</mk>
-   <mr>Finnish localisation of Thunderbird</mr>
-   <nb>Finnish localisation of Thunderbird</nb>
-   <nl>Finse lokalisatie van Thunderbird</nl>
-   <pl>Fińska lokalizacja Thunderbirda</pl>
-   <pt_BR>Finlandês Localização para Thunderbird</pt_BR>
-   <pt>Finlandês Localização para Thunderbird</pt>
-   <ro>Finnish localisation of Thunderbird</ro>
-   <ru>Finnish localisation of Thunderbird</ru>
-   <sk>Finnish localisation of Thunderbird</sk>
-   <sl>Finnish localisation of Thunderbird</sl>
-   <sq>Finnish localisation of Thunderbird</sq>
-   <sr>Finnish localisation of Thunderbird</sr>
-   <sv>Finsk lokalisering av Thunderbird</sv>
-   <tr>Finnish localisation of Thunderbird</tr>
-   <uk>Finnish локалізація Thunderbird</uk>
-   <zh_CN>Finnish localisation of Thunderbird</zh_CN>
-   <zh_TW>Finnish localisation of Thunderbird</zh_TW>
+   <am>Latest Firefox-ESR</am>
+   <ar>Latest Firefox-ESR</ar>
+   <bg>Latest Firefox-ESR</bg>
+   <ca>El darrer Firefox-ESR</ca>
+   <cs>Latest Firefox-ESR</cs>
+   <da>Seneste Firefox-ESR</da>
+   <de>Aktueller Firefox-ESR</de>
+   <el>Τελευταία Firefox-ESR</el>
+   <en>Latest Firefox-ESR</en>
+   <es>Último Firefox-ESR</es>
+   <et>Latest Firefox-ESR</et>
+   <eu>Latest Firefox-ESR</eu>
+   <fa>Latest Firefox-ESR</fa>
+   <fil_PH>Latest Firefox-ESR</fil_PH>
+   <fi>Latest Firefox-ESR</fi>
+   <fr>Dernière version de Firefox-ESR</fr>
+   <he_IL>Latest Firefox-ESR</he_IL>
+   <hi>Latest Firefox-ESR</hi>
+   <hr>Latest Firefox-ESR</hr>
+   <hu>Latest Firefox-ESR</hu>
+   <id>Latest Firefox-ESR</id>
+   <is>Latest Firefox-ESR</is>
+   <it>Ultimo Firefox-ESR</it>
+   <ja_JP>Latest Firefox-ESR</ja_JP>
+   <ja>Latest Firefox-ESR</ja>
+   <kk>Latest Firefox-ESR</kk>
+   <ko>Latest Firefox-ESR</ko>
+   <lt>Latest Firefox-ESR</lt>
+   <mk>Latest Firefox-ESR</mk>
+   <mr>Latest Firefox-ESR</mr>
+   <nb>Latest Firefox-ESR</nb>
+   <nl>Nieuwste Firefox-ESR</nl>
+   <pl>Latest Firefox-ESR</pl>
+   <pt_BR>Último Firefox-ESR</pt_BR>
+   <pt>Versão mais recente do Firefox-ESR</pt>
+   <ro>Latest Firefox-ESR</ro>
+   <ru>Актуальный браузер Firefox ESR</ru>
+   <sk>Latest Firefox-ESR</sk>
+   <sl>Zadnji Firefox-ESR</sl>
+   <sq>Latest Firefox-ESR</sq>
+   <sr>Latest Firefox-ESR</sr>
+   <sv>Senaste Firefox-ESR</sv>
+   <tr>En son Firefox-ESR</tr>
+   <uk>Latest Firefox-ESR</uk>
+   <zh_CN>Latest Firefox-ESR</zh_CN>
+   <zh_TW>Latest Firefox-ESR</zh_TW>
 </description>
 
 <installable>

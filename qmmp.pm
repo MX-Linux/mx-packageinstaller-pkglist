@@ -10,51 +10,52 @@ Qmmp
 </name>
 
 <description>
-   <am>a winamp/xmms type feature-rich audio player written in Qt</am>
-   <ar>a winamp/xmms type feature-rich audio player written in Qt</ar>
-   <bg>a winamp/xmms type feature-rich audio player written in Qt</bg>
-   <ca>Reproductor d'àudio del tipus winamp/xmms amb moltes característiques, escrit en QT</ca>
-   <cs>a winamp/xmms type feature-rich audio player written in Qt</cs>
-   <da>en lydafspiller med mange funktionaliteter i stil med winamp/xmms, skrevet i Qt</da>
-   <de>Ein in Qt geschriebener, funktionsreicher Audio-Player vom Typ Winamp/xmms</de>
-   <el>ένα πρόγραμμα αναπαραγωγής ήχου  σαν το winamp/xmms γραμμένο σε Qt</el>
-   <en>a winamp/xmms type feature-rich audio player written in Qt</en>
-   <es>Reproductor de audio tipo winamp/xmms muy completo escrito en Qt</es>
-   <et>a winamp/xmms type feature-rich audio player written in Qt</et>
-   <eu>a winamp/xmms type feature-rich audio player written in Qt</eu>
-   <fa>a winamp/xmms type feature-rich audio player written in Qt</fa>
-   <fi>a winamp/xmms type feature-rich audio player written in Qt</fi>
-   <fr>Un lecteur audio très complet de type winamp/xmms basé sur Qt</fr>
-   <he_IL>a winamp/xmms type feature-rich audio player written in Qt</he_IL>
-   <hi>a winamp/xmms type feature-rich audio player written in Qt</hi>
-   <hr>a winamp/xmms type feature-rich audio player written in Qt</hr>
-   <hu>a winamp/xmms type feature-rich audio player written in Qt</hu>
-   <id>a winamp/xmms type feature-rich audio player written in Qt</id>
-   <is>a winamp/xmms type feature-rich audio player written in Qt</is>
-   <it>lettore audio, scritto in Qt, simile a winamp/xmms, ricco di funzionalità</it>
-   <ja_JP>a winamp/xmms type feature-rich audio player written in Qt</ja_JP>
-   <ja>a winamp/xmms type feature-rich audio player written in Qt</ja>
-   <kk>a winamp/xmms type feature-rich audio player written in Qt</kk>
-   <ko>a winamp/xmms type feature-rich audio player written in Qt</ko>
-   <lt>a winamp/xmms type feature-rich audio player written in Qt</lt>
-   <mk>a winamp/xmms type feature-rich audio player written in Qt</mk>
-   <mr>a winamp/xmms type feature-rich audio player written in Qt</mr>
-   <nb>a winamp/xmms type feature-rich audio player written in Qt</nb>
-   <nl>een veelzijdige winamp/xmms achtige audio speler geschreven in Qt</nl>
-   <pl>funkcjonalny odtwarzacz audio typu Winamp/xmms napisany w Qt</pl>
-   <pt_BR>Reprodutor de rádio pleno de funcionalidades, escrito em Qt e semelhante ao winamp e ao xmms</pt_BR>
-   <pt>Reprodutor de rádio pleno de funcionalidades, escrito em Qt e semelhante ao winamp e ao xmms</pt>
-   <ro>a winamp/xmms type feature-rich audio player written in Qt</ro>
-   <ru>Многофункциональный аудиоплеер наподобие winamp/xmms</ru>
-   <sk>a winamp/xmms type feature-rich audio player written in Qt</sk>
-   <sl>Predvajalnik glasbe, ki je podoben winamp/xmms in ima veliko funkcij, pisan v Qt</sl>
-   <sq>a winamp/xmms type feature-rich audio player written in Qt</sq>
-   <sr>a winamp/xmms type feature-rich audio player written in Qt</sr>
-   <sv>en winamp/xmms typ ljudspelare rik på möjligheter skriven i Qt</sv>
-   <tr>a winamp/xmms type feature-rich audio player written in Qt</tr>
-   <uk>a winamp/xmms type feature-rich audio player written in Qt</uk>
-   <zh_CN>a winamp/xmms type feature-rich audio player written in Qt</zh_CN>
-   <zh_TW>a winamp/xmms type feature-rich audio player written in Qt</zh_TW>
+   <am>QT5 Development Environment</am>
+   <ar>QT5 Development Environment</ar>
+   <bg>QT5 Development Environment</bg>
+   <ca>Entorn de desenvolupament per QT5</ca>
+   <cs>QT5 Development Environment</cs>
+   <da>QT5-udviklingsmiljø</da>
+   <de>Qt5 Entwicklungsumgebung</de>
+   <el>Περιβάλλον ανάπτυξης του QT5</el>
+   <en>QT5 Development Environment</en>
+   <es>Entorno de desarrollo QT5</es>
+   <et>QT5 Development Environment</et>
+   <eu>QT5 Development Environment</eu>
+   <fa>QT5 Development Environment</fa>
+   <fil_PH>QT5 Development Environment</fil_PH>
+   <fi>QT5 kehitysympäristö</fi>
+   <fr>Environnement de développement QT5</fr>
+   <he_IL>QT5 Development Environment</he_IL>
+   <hi>QT5 Development Environment</hi>
+   <hr>QT5 Development Environment</hr>
+   <hu>QT5 Development Environment</hu>
+   <id>QT5 Development Environment</id>
+   <is>QT5 Development Environment</is>
+   <it>Ambiente di sviluppo QT5</it>
+   <ja_JP>QT5 Development Environment</ja_JP>
+   <ja>QT5 Development Environment</ja>
+   <kk>QT5 Development Environment</kk>
+   <ko>QT5 Development Environment</ko>
+   <lt>QT5 plėtojimo aplinka</lt>
+   <mk>QT5 Development Environment</mk>
+   <mr>QT5 Development Environment</mr>
+   <nb>QT5 Development Environment</nb>
+   <nl>QT5 Ontwikkelingsomgeving</nl>
+   <pl>środowisko programistyczne QT5</pl>
+   <pt_BR>QT5 Development Environment</pt_BR>
+   <pt>QT5 Development Environment</pt>
+   <ro>QT5 Development Environment</ro>
+   <ru>Среда разработки под QT-5</ru>
+   <sk>QT5 Development Environment</sk>
+   <sl>QT5 razvojno okolje</sl>
+   <sq>QT5 Development Environment</sq>
+   <sr>QT5 Development Environment</sr>
+   <sv>QT5 Utvecklingsmiljö</sv>
+   <tr>QT5 Development Environment</tr>
+   <uk>QT5 Development Environment</uk>
+   <zh_CN>QT5 Development Environment</zh_CN>
+   <zh_TW>QT5 Development Environment</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ Slovenian_Thunderbird
 </name>
 
 <description>
-   <am>Slovenian localisation of Thunderbird</am>
-   <ar>Slovenian localisation of Thunderbird</ar>
-   <bg>Slovenian localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Eslovè</ca>
-   <cs>Slovenian localisation of Thunderbird</cs>
-   <da>Slovensk oversættelse af Thunderbird</da>
-   <de>Slowenische Lokalisierung von Thunderbird</de>
-   <el>Σλοβένικος εντοπισμός του Thunderbird</el>
-   <en>Slovenian localisation of Thunderbird</en>
-   <es>Localización Eslovena de Thunderbird</es>
-   <et>Slovenian localisation of Thunderbird</et>
-   <eu>Slovenian localisation of Thunderbird</eu>
-   <fa>Slovenian localisation of Thunderbird</fa>
-   <fi>Slovenian localisation of Thunderbird</fi>
-   <fr>Localisation slovène pour Thunderbird</fr>
-   <he_IL>Slovenian localisation of Thunderbird</he_IL>
-   <hi>Slovenian localisation of Thunderbird</hi>
-   <hr>Slovenian localisation of Thunderbird</hr>
-   <hu>Slovenian localisation of Thunderbird</hu>
-   <id>Slovenian localisation of Thunderbird</id>
-   <is>Slovenian localisation of Thunderbird</is>
-   <it>Localizzazione slovena di Thunderbird</it>
-   <ja_JP>Slovenian localisation of Thunderbird</ja_JP>
-   <ja>Slovenian localisation of Thunderbird</ja>
-   <kk>Slovenian localisation of Thunderbird</kk>
-   <ko>Slovenian localisation of Thunderbird</ko>
-   <lt>Slovenian localisation of Thunderbird</lt>
-   <mk>Slovenian localisation of Thunderbird</mk>
-   <mr>Slovenian localisation of Thunderbird</mr>
-   <nb>Slovenian localisation of Thunderbird</nb>
-   <nl>Sloveense lokalisatie van Thunderbird</nl>
-   <pl>Słoweńska lokalizacja Thunderbirda</pl>
-   <pt_BR>Esloveno Localização para Thunderbird</pt_BR>
-   <pt>Esloveno Localização para Thunderbird</pt>
-   <ro>Slovenian localisation of Thunderbird</ro>
-   <ru>Slovenian localisation of Thunderbird</ru>
-   <sk>Slovenian localisation of Thunderbird</sk>
-   <sl>Slovenska lokalizacija za Thunderbird</sl>
-   <sq>Slovenian localisation of Thunderbird</sq>
-   <sr>Slovenian localisation of Thunderbird</sr>
-   <sv>Slovensk lokalisering av Thunderbird</sv>
-   <tr>Slovenian localisation of Thunderbird</tr>
-   <uk>Slovenian localisation of Thunderbird</uk>
-   <zh_CN>Slovenian localisation of Thunderbird</zh_CN>
-   <zh_TW>Slovenian localisation of Thunderbird</zh_TW>
+   <am>themable gui frontend to MPlayer with other interesting features</am>
+   <ar>themable gui frontend to MPlayer with other interesting features</ar>
+   <bg>themable gui frontend to MPlayer with other interesting features</bg>
+   <ca>Frontal IGU configurable per MPlayer amb característiques interessants</ca>
+   <cs>themable gui frontend to MPlayer with other interesting features</cs>
+   <da>grafisk brugerflade-frontend med temaer til MPlayer med andre interessante funktionaliteter</da>
+   <de>Themen-anpassbares GUI-Frontend zu MPlayer mit weiteren interessanten Funktionen</de>
+   <el>διασκεδαστικό gui frontend στο MPlayer με άλλα ενδιαφέροντα χαρακτηριστικά</el>
+   <en>themable gui frontend to MPlayer with other interesting features</en>
+   <es>Interfaz gráfica de usuario temática para MPlayer con otras características interesantes</es>
+   <et>themable gui frontend to MPlayer with other interesting features</et>
+   <eu>themable gui frontend to MPlayer with other interesting features</eu>
+   <fa>themable gui frontend to MPlayer with other interesting features</fa>
+   <fil_PH>themable gui frontend to MPlayer with other interesting features</fil_PH>
+   <fi>themable gui frontend to MPlayer with other interesting features</fi>
+   <fr>Interface graphique/frontend personnalisable pour MPlayer avec fonctionnalités utiles</fr>
+   <he_IL>themable gui frontend to MPlayer with other interesting features</he_IL>
+   <hi>themable gui frontend to MPlayer with other interesting features</hi>
+   <hr>themable gui frontend to MPlayer with other interesting features</hr>
+   <hu>themable gui frontend to MPlayer with other interesting features</hu>
+   <id>themable gui frontend to MPlayer with other interesting features</id>
+   <is>themable gui frontend to MPlayer with other interesting features</is>
+   <it>interfaccia grafica per MPlayer con ulteriori interessanti funzionalità</it>
+   <ja_JP>themable gui frontend to MPlayer with other interesting features</ja_JP>
+   <ja>themable gui frontend to MPlayer with other interesting features</ja>
+   <kk>themable gui frontend to MPlayer with other interesting features</kk>
+   <ko>themable gui frontend to MPlayer with other interesting features</ko>
+   <lt>themable gui frontend to MPlayer with other interesting features</lt>
+   <mk>themable gui frontend to MPlayer with other interesting features</mk>
+   <mr>themable gui frontend to MPlayer with other interesting features</mr>
+   <nb>themable gui frontend to MPlayer with other interesting features</nb>
+   <nl>gui die van thema's kan worden voorzien, frontend voor MPlayer met andere interessante functies</nl>
+   <pl>tematyczna nakładka na GUI do MPlayera z innymi ciekawymi funkcjami</pl>
+   <pt_BR>Interface gráfica para o MPlayer com vários temas e com outras funcionalidades interessantes</pt_BR>
+   <pt>Interface gráfica para o MPlayer com vários temas e com outras funcionalidades interessantes</pt>
+   <ro>themable gui frontend to MPlayer with other interesting features</ro>
+   <ru>Графическая оболочка для MPlayer с множеством фишек</ru>
+   <sk>themable gui frontend to MPlayer with other interesting features</sk>
+   <sl>Prilagodljiva grafična podoba za Mplayer z zanimivimi dodatnimi funkcijami</sl>
+   <sq>themable gui frontend to MPlayer with other interesting features</sq>
+   <sr>themable gui frontend to MPlayer with other interesting features</sr>
+   <sv>temabar grafisk front-end till MPlayer med andra intressanta möjligheter</sv>
+   <tr>themable gui frontend to MPlayer with other interesting features</tr>
+   <uk>themable gui frontend to MPlayer with other interesting features</uk>
+   <zh_CN>themable gui frontend to MPlayer with other interesting features</zh_CN>
+   <zh_TW>themable gui frontend to MPlayer with other interesting features</zh_TW>
 </description>
 
 <installable>
