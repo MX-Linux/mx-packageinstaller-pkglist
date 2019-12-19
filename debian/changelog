@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.12.02) mx; urgency=medium
+
+  * add brave 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 19 Dec 2019 18:01:45 -0500
+
 mx-packageinstaller-pkglist (19.12.01) mx; urgency=medium
 
   * add airvpn, mxfluxbox 
