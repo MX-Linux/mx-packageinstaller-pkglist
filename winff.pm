@@ -10,51 +10,52 @@ WinFF
 </name>
 
 <description>
-   <am>graphical video and audio batch converter</am>
-   <ar>graphical video and audio batch converter</ar>
-   <bg>graphical video and audio batch converter</bg>
-   <ca>Convertidor gràfic de vídeo i àudio per lots</ca>
-   <cs>graphical video and audio batch converter</cs>
-   <da>grafisk batchkonvertering af video og lyd</da>
-   <de>Grafischer Video- und Audio-Batch-Konverter</de>
-   <el>γραφικό μετατροπέα βίντεο και ήχου</el>
-   <en>graphical video and audio batch converter</en>
-   <es>Conversor gráfico de formatos de audio y video</es>
-   <et>graphical video and audio batch converter</et>
-   <eu>graphical video and audio batch converter</eu>
-   <fa>graphical video and audio batch converter</fa>
-   <fi>graphical video and audio batch converter</fi>
-   <fr>Convertisseur vidéo et audio</fr>
-   <he_IL>graphical video and audio batch converter</he_IL>
-   <hi>graphical video and audio batch converter</hi>
-   <hr>graphical video and audio batch converter</hr>
-   <hu>graphical video and audio batch converter</hu>
-   <id>graphical video and audio batch converter</id>
-   <is>graphical video and audio batch converter</is>
-   <it>convertitore grafico batch per video e audio che usa FFmpeg o avconv</it>
-   <ja_JP>graphical video and audio batch converter</ja_JP>
-   <ja>graphical video and audio batch converter</ja>
-   <kk>graphical video and audio batch converter</kk>
-   <ko>graphical video and audio batch converter</ko>
-   <lt>graphical video and audio batch converter</lt>
-   <mk>graphical video and audio batch converter</mk>
-   <mr>graphical video and audio batch converter</mr>
-   <nb>graphical video and audio batch converter</nb>
-   <nl>grafische video- en audiobatchomzetter</nl>
-   <pl>graficzny konwerter wsadowy wideo i audio</pl>
-   <pt_BR>Conversor gráfico de vídeo e áudio (conversão em lotes)</pt_BR>
-   <pt>Conversor gráfico de vídeo e áudio (conversão em lotes)</pt>
-   <ro>graphical video and audio batch converter</ro>
-   <ru>Пакетный конвертер видео и аудио</ru>
-   <sk>graphical video and audio batch converter</sk>
-   <sl>Grafični video in zvočni pretvornik za več datotek</sl>
-   <sq>graphical video and audio batch converter</sq>
-   <sr>graphical video and audio batch converter</sr>
-   <sv>grafisk video och ljud mass-konverterare</sv>
-   <tr>graphical video and audio batch converter</tr>
-   <uk>graphical video and audio batch converter</uk>
-   <zh_CN>graphical video and audio batch converter</zh_CN>
-   <zh_TW>graphical video and audio batch converter</zh_TW>
+   <am>VNC server for X window environments</am>
+   <ar>VNC server for X window environments</ar>
+   <bg>VNC server for X window environments</bg>
+   <ca>Servidor VNC per entorns X-window</ca>
+   <cs>VNC server for X window environments</cs>
+   <da>VNC-server til X-vinduesmiljøer</da>
+   <de>VNC-Server für X Window-Umgebungen</de>
+   <el>VNC server για περιβάλλον παραθύρων X.</el>
+   <en>VNC server for X window environments</en>
+   <es>Servidor VNC para el entornos de ventanas X</es>
+   <et>VNC server for X window environments</et>
+   <eu>VNC server for X window environments</eu>
+   <fa>VNC server for X window environments</fa>
+   <fil_PH>VNC server for X window environments</fil_PH>
+   <fi>VNC server for X window environments</fi>
+   <fr>Serveur VNC pour environnements X window</fr>
+   <he_IL>VNC server for X window environments</he_IL>
+   <hi>VNC server for X window environments</hi>
+   <hr>VNC server for X window environments</hr>
+   <hu>VNC server for X window environments</hu>
+   <id>VNC server for X window environments</id>
+   <is>VNC server for X window environments</is>
+   <it>Server VNC per ambienti X Window</it>
+   <ja_JP>VNC server for X window environments</ja_JP>
+   <ja>VNC server for X window environments</ja>
+   <kk>VNC server for X window environments</kk>
+   <ko>VNC server for X window environments</ko>
+   <lt>VNC server for X window environments</lt>
+   <mk>VNC server for X window environments</mk>
+   <mr>VNC server for X window environments</mr>
+   <nb>VNC server for X window environments</nb>
+   <nl>VNC server voor X window omgevingen</nl>
+   <pl>Serwer VNC dla środowisk X Window</pl>
+   <pt_BR>Servidor VNC para ambientes de janelas "X"</pt_BR>
+   <pt>Servidor VNC para ambientes de janelas "X"</pt>
+   <ro>VNC server for X window environments</ro>
+   <ru>VNC сервер для оконной среды X Window</ru>
+   <sk>VNC server for X window environments</sk>
+   <sl>VNC strežnik za X window okolja</sl>
+   <sq>VNC server for X window environments</sq>
+   <sr>VNC server for X window environments</sr>
+   <sv>VNC server för X window miljöer</sv>
+   <tr>VNC server for X window environments</tr>
+   <uk>VNC server for X window environments</uk>
+   <zh_CN>VNC server for X window environments</zh_CN>
+   <zh_TW>VNC server for X window environments</zh_TW>
 </description>
 
 <installable>

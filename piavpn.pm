@@ -10,51 +10,52 @@ PIAVPN - Private Internet Access VPN
 </name>
 
 <description>
-   <am>Private Internet Access VPN</am>
-   <ar>Private Internet Access VPN</ar>
-   <bg>Private Internet Access VPN</bg>
-   <ca>Accés privat a internet VPN</ca>
-   <cs>Private Internet Access VPN</cs>
-   <da>Private Internet Access VPN</da>
-   <de>Private Internet Access VPN</de>
-   <el>Private Internet Access VPN</el>
-   <en>Private Internet Access VPN</en>
-   <es>Acceso Privado a Internet VPN</es>
-   <et>Private Internet Access VPN</et>
-   <eu>Private Internet Access VPN</eu>
-   <fa>Private Internet Access VPN</fa>
-   <fi>Private Internet Access VPN</fi>
-   <fr>Accès Internet Privé par VPN</fr>
-   <he_IL>Private Internet Access VPN</he_IL>
-   <hi>Private Internet Access VPN</hi>
-   <hr>Private Internet Access VPN</hr>
-   <hu>Private Internet Access VPN</hu>
-   <id>Private Internet Access VPN</id>
-   <is>Private Internet Access VPN</is>
-   <it>Accesso internet privato VPN</it>
-   <ja_JP>Private Internet Access VPN</ja_JP>
-   <ja>Private Internet Access VPN</ja>
-   <kk>Private Internet Access VPN</kk>
-   <ko>Private Internet Access VPN</ko>
-   <lt>Private Internet Access VPN</lt>
-   <mk>Private Internet Access VPN</mk>
-   <mr>Private Internet Access VPN</mr>
-   <nb>Private Internet Access VPN</nb>
-   <nl>Privé Internet Toegang VPN</nl>
-   <pl>Private Internet Access VPN</pl>
-   <pt_BR>Private Internet Access VPN</pt_BR>
-   <pt>Acesso Privado à Internet VPN</pt>
-   <ro>Private Internet Access VPN</ro>
-   <ru>Private Internet Access VPN</ru>
-   <sk>Private Internet Access VPN</sk>
-   <sl>Zasebni spletni dostop preko VPN</sl>
-   <sq>Private Internet Access VPN</sq>
-   <sr>Private Internet Access VPN</sr>
-   <sv>Private Internet Access VPN</sv>
-   <tr>Private Internet Access VPN</tr>
-   <uk>Private Internet Access VPN</uk>
-   <zh_CN>Private Internet Access VPN</zh_CN>
-   <zh_TW>Private Internet Access VPN</zh_TW>
+   <am>an easy to use and free chat client</am>
+   <ar>an easy to use and free chat client</ar>
+   <bg>an easy to use and free chat client</bg>
+   <ca>client de xat lliure i fàcil d'usar</ca>
+   <cs>an easy to use and free chat client</cs>
+   <da>en letanvendelig og fri chat-klient</da>
+   <de>Ein einfach zu bedienender und kostenloser Chat-Client</de>
+   <el>ένα εύκολο στη χρήση και δωρεάν πελάτη συνομιλίας</el>
+   <en>an easy to use and free chat client</en>
+   <es>Un cliente de chat fácil de usar y gratuito.</es>
+   <et>an easy to use and free chat client</et>
+   <eu>an easy to use and free chat client</eu>
+   <fa>an easy to use and free chat client</fa>
+   <fil_PH>an easy to use and free chat client</fil_PH>
+   <fi>an easy to use and free chat client</fi>
+   <fr>Un client de discussion libre et facile d'utilisation</fr>
+   <he_IL>an easy to use and free chat client</he_IL>
+   <hi>an easy to use and free chat client</hi>
+   <hr>an easy to use and free chat client</hr>
+   <hu>an easy to use and free chat client</hu>
+   <id>an easy to use and free chat client</id>
+   <is>an easy to use and free chat client</is>
+   <it>client chat libero e di facile uso</it>
+   <ja_JP>an easy to use and free chat client</ja_JP>
+   <ja>an easy to use and free chat client</ja>
+   <kk>an easy to use and free chat client</kk>
+   <ko>an easy to use and free chat client</ko>
+   <lt>an easy to use and free chat client</lt>
+   <mk>an easy to use and free chat client</mk>
+   <mr>an easy to use and free chat client</mr>
+   <nb>an easy to use and free chat client</nb>
+   <nl>een gebruiksvriendelijk en gratis chatprogramma</nl>
+   <pl>łatwy w użyciu i darmowy klient czatu</pl>
+   <pt_BR>Cliente de 'chat' livre e fácil de usar</pt_BR>
+   <pt>Cliente de 'chat' livre e fácil de usar</pt>
+   <ro>an easy to use and free chat client</ro>
+   <ru>Простой в использовании многопротокольный клиент мгновенных сообщений</ru>
+   <sk>an easy to use and free chat client</sk>
+   <sl>Brezplačen in enostaven odjemalec za klepet</sl>
+   <sq>an easy to use and free chat client</sq>
+   <sr>an easy to use and free chat client</sr>
+   <sv>en lättanvänd och fri chattklient</sv>
+   <tr>an easy to use and free chat client</tr>
+   <uk>легкий у користуванні та вільний чат клієнт</uk>
+   <zh_CN>an easy to use and free chat client</zh_CN>
+   <zh_TW>an easy to use and free chat client</zh_TW>
 </description>
 
 <installable>

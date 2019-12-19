@@ -10,51 +10,52 @@ Redshift
 </name>
 
 <description>
-   <am>Transition monitor color temperature by time of day</am>
-   <ar>Transition monitor color temperature by time of day</ar>
-   <bg>Transition monitor color temperature by time of day</bg>
-   <ca>Modifica la temperatura de color de la pantalla segons l'hora del dia</ca>
-   <cs>Transition monitor color temperature by time of day</cs>
-   <da>Transition monitor color temperature by time of day</da>
-   <de>Transition monitor color temperature by time of day</de>
-   <el>Θερμοκρασία χρώματος οθόνης μετάβασης κατά ώρα της ημέρας</el>
-   <en>Transition monitor color temperature by time of day</en>
-   <es>Monitor de transición de temperatura de color por hora del día</es>
-   <et>Transition monitor color temperature by time of day</et>
-   <eu>Transition monitor color temperature by time of day</eu>
-   <fa>Transition monitor color temperature by time of day</fa>
-   <fi>Transition monitor color temperature by time of day</fi>
-   <fr>Adaptation de la température des couleurs de votre écran selon le moment de la journée</fr>
-   <he_IL>Transition monitor color temperature by time of day</he_IL>
-   <hi>Transition monitor color temperature by time of day</hi>
-   <hr>Transition monitor color temperature by time of day</hr>
-   <hu>Transition monitor color temperature by time of day</hu>
-   <id>Transition monitor color temperature by time of day</id>
-   <is>Transition monitor color temperature by time of day</is>
-   <it>Transizione della temperatura del colore del monitor per ora del giorno</it>
-   <ja_JP>Transition monitor color temperature by time of day</ja_JP>
-   <ja>Transition monitor color temperature by time of day</ja>
-   <kk>Transition monitor color temperature by time of day</kk>
-   <ko>Transition monitor color temperature by time of day</ko>
-   <lt>Transition monitor color temperature by time of day</lt>
-   <mk>Transition monitor color temperature by time of day</mk>
-   <mr>Transition monitor color temperature by time of day</mr>
-   <nb>Transition monitor color temperature by time of day</nb>
-   <nl>Pas monitor kleurtemperatuur aan aan tijdstip van de dag</nl>
-   <pl>Transition monitor color temperature by time of day</pl>
-   <pt_BR>Transition monitor color temperature by time of day</pt_BR>
-   <pt>Temperatura de cor do monitor de transição pela hora do dia</pt>
-   <ro>Transition monitor color temperature by time of day</ro>
-   <ru>Transition monitor color temperature by time of day</ru>
-   <sk>Transition monitor color temperature by time of day</sk>
-   <sl>Spreminjanje temperature zaslona glede na obdobje dneva</sl>
-   <sq>Transition monitor color temperature by time of day</sq>
-   <sr>Transition monitor color temperature by time of day</sr>
-   <sv>Ändrar skärmens färgtemperatur efter tiden på dagen</sv>
-   <tr>Günün saatine göre geçiş monitörü renk sıcaklığı</tr>
-   <uk>Transition monitor color temperature by time of day</uk>
-   <zh_CN>Transition monitor color temperature by time of day</zh_CN>
-   <zh_TW>Transition monitor color temperature by time of day</zh_TW>
+   <am>Romanian localisation of Firefox</am>
+   <ar>Romanian localisation of Firefox</ar>
+   <bg>Romanian localisation of Firefox</bg>
+   <ca>Localització de Firefox en Romanès</ca>
+   <cs>Romanian localisation of Firefox</cs>
+   <da>Rumænsk oversættelse af Firefox</da>
+   <de>Rumänische Lokalisierung von Firefox</de>
+   <el>Ρουμανικός εντοπισμός του Firefox</el>
+   <en>Romanian localisation of Firefox</en>
+   <es>Localización Rumana de Firefox</es>
+   <et>Romanian localisation of Firefox</et>
+   <eu>Romanian localisation of Firefox</eu>
+   <fa>Romanian localisation of Firefox</fa>
+   <fil_PH>Romanian localisation of Firefox</fil_PH>
+   <fi>Romanian localisation of Firefox</fi>
+   <fr>Localisation roumaine pour Firefox</fr>
+   <he_IL>Romanian localisation of Firefox</he_IL>
+   <hi>Romanian localisation of Firefox</hi>
+   <hr>Romanian localisation of Firefox</hr>
+   <hu>Romanian localisation of Firefox</hu>
+   <id>Romanian localisation of Firefox</id>
+   <is>Romanian localisation of Firefox</is>
+   <it>Localizzazione rumena di Firefox</it>
+   <ja_JP>Romanian localisation of Firefox</ja_JP>
+   <ja>Romanian localisation of Firefox</ja>
+   <kk>Romanian localisation of Firefox</kk>
+   <ko>Romanian localisation of Firefox</ko>
+   <lt>Romanian localisation of Firefox</lt>
+   <mk>Romanian localisation of Firefox</mk>
+   <mr>Romanian localisation of Firefox</mr>
+   <nb>Romanian localisation of Firefox</nb>
+   <nl>Roemeense lokalisatie van Firefox</nl>
+   <pl>Rumuńska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Romeno Localização para Firefox</pt_BR>
+   <pt>Romeno Localização para Firefox</pt>
+   <ro>Romanian localisation of Firefox</ro>
+   <ru>Румынская локализация Firefox</ru>
+   <sk>Romanian localisation of Firefox</sk>
+   <sl>Romanian localisation of Firefox</sl>
+   <sq>Romanian localisation of Firefox</sq>
+   <sr>Romanian localisation of Firefox</sr>
+   <sv>Rumänsk lokalisering av Firefox</sv>
+   <tr>Firefox'un Rumence yerelleştirmesi</tr>
+   <uk>Romanian локалізація Firefox</uk>
+   <zh_CN>Romanian localisation of Firefox</zh_CN>
+   <zh_TW>Romanian localisation of Firefox</zh_TW>
 </description>
 
 <installable>

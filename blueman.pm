@@ -10,51 +10,52 @@ Blueman
 </name>
 
 <description>
-   <am>a GTK+ bluetooth management utility</am>
-   <ar>a GTK+ bluetooth management utility</ar>
-   <bg>a GTK+ bluetooth management utility</bg>
-   <ca>Eina de gestió Bluetooth GTK+</ca>
-   <cs>a GTK+ bluetooth management utility</cs>
-   <da>et GTK+ bluetooth-håndteringsredskab</da>
-   <de>Ein GTK+ Bluetooth-Management-Dienstprogramm</de>
-   <el>ένα βοηθητικό πρόγραμμα διαχείρισης bluetooth</el>
-   <en>a GTK+ bluetooth management utility</en>
-   <es>Utilidad GTK+ para administrar Bluetooth</es>
-   <et>a GTK+ bluetooth management utility</et>
-   <eu>a GTK+ bluetooth management utility</eu>
-   <fa>a GTK+ bluetooth management utility</fa>
-   <fi>a GTK+ bluetooth management utility</fi>
-   <fr>Un utilitaire GTK+ de gestion bluetooth</fr>
-   <he_IL>a GTK+ bluetooth management utility</he_IL>
-   <hi>a GTK+ bluetooth management utility</hi>
-   <hr>a GTK+ bluetooth management utility</hr>
-   <hu>a GTK+ bluetooth management utility</hu>
-   <id>a GTK+ bluetooth management utility</id>
-   <is>a GTK+ bluetooth management utility</is>
-   <it>Utility GTK+ di gestione del bluethooth</it>
-   <ja_JP>a GTK+ bluetooth management utility</ja_JP>
-   <ja>a GTK+ bluetooth management utility</ja>
-   <kk>a GTK+ bluetooth management utility</kk>
-   <ko>a GTK+ bluetooth management utility</ko>
-   <lt>a GTK+ bluetooth management utility</lt>
-   <mk>a GTK+ bluetooth management utility</mk>
-   <mr>a GTK+ bluetooth management utility</mr>
-   <nb>a GTK+ bluetooth management utility</nb>
-   <nl>een GTK+ bluetooth beheer utility</nl>
-   <pl>narzędzie GTK+ do zarządzania bluetooth</pl>
-   <pt_BR>Utilitário de gestão de bluetooth para uso em GTK+</pt_BR>
-   <pt>Utilitário de gestão de bluetooth para uso em GTK+</pt>
-   <ro>a GTK+ bluetooth management utility</ro>
-   <ru>GTK+ утилита управления bluetooth</ru>
-   <sk>a GTK+ bluetooth management utility</sk>
-   <sl>GTK+ orodje za upravljanje bluetooth povezav</sl>
-   <sq>a GTK+ bluetooth management utility</sq>
-   <sr>a GTK+ bluetooth management utility</sr>
-   <sv>ett GTK+ bluetooth hanteringsverktyg</sv>
-   <tr>a GTK+ bluetooth management utility</tr>
-   <uk>GTK+ утиліта для bluetooth</uk>
-   <zh_CN>a GTK+ bluetooth management utility</zh_CN>
-   <zh_TW>a GTK+ bluetooth management utility</zh_TW>
+   <am>Bosnian Language Meta-Package for LibreOffice</am>
+   <ar>Bosnian Language Meta-Package for LibreOffice</ar>
+   <bg>Bosnian Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Bosnià per LibreOffice</ca>
+   <cs>Bosnian Language Meta-Package for LibreOffice</cs>
+   <da>Bosnian Language Meta-Package for LibreOffice</da>
+   <de>Bosnisches Meta-Paket für LibreOffice</de>
+   <el>Bosnian Language Meta-Package for LibreOffice</el>
+   <en>Bosnian Language Meta-Package for LibreOffice</en>
+   <es>Metapaquete de idioma bosnio para LibreOffice</es>
+   <et>Bosnian Language Meta-Package for LibreOffice</et>
+   <eu>Bosnian Language Meta-Package for LibreOffice</eu>
+   <fa>Bosnian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Bosnian Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Bosnian Language Meta-Package for LibreOffice</fi>
+   <fr>Bosnian Language Meta-Package for LibreOffice</fr>
+   <he_IL>Bosnian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Bosnian Language Meta-Package for LibreOffice</hi>
+   <hr>Bosnian Language Meta-Package for LibreOffice</hr>
+   <hu>Bosnian Language Meta-Package for LibreOffice</hu>
+   <id>Bosnian Language Meta-Package for LibreOffice</id>
+   <is>Bosnian Language Meta-Package for LibreOffice</is>
+   <it>Bosnian Language Meta-Package for LibreOffice</it>
+   <ja_JP>Bosnian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Bosnian Language Meta-Package for LibreOffice</ja>
+   <kk>Bosnian Language Meta-Package for LibreOffice</kk>
+   <ko>Bosnian Language Meta-Package for LibreOffice</ko>
+   <lt>Bosnian Language Meta-Package for LibreOffice</lt>
+   <mk>Bosnian Language Meta-Package for LibreOffice</mk>
+   <mr>Bosnian Language Meta-Package for LibreOffice</mr>
+   <nb>Bosnian Language Meta-Package for LibreOffice</nb>
+   <nl>Bosnian Language Meta-Package for LibreOffice</nl>
+   <pl>Bosnian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Bosnian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Bósnio Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Bosnian Language Meta-Package for LibreOffice</ro>
+   <ru>Bosnian Language Meta-Package for LibreOffice</ru>
+   <sk>Bosnian Language Meta-Package for LibreOffice</sk>
+   <sl>Bosanski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Bosnian Language Meta-Package for LibreOffice</sq>
+   <sr>Bosnian Language Meta-Package for LibreOffice</sr>
+   <sv>Bosniskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Bosnian Language Meta-Package for LibreOffice</tr>
+   <uk>Bosnian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Bosnian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Bosnian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

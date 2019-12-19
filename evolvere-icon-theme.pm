@@ -10,51 +10,52 @@ Evolvere Icon Themes
 </name>
 
 <description>
-   <am>evolvere icons (vibrant)</am>
-   <ar>evolvere icons (vibrant)</ar>
-   <bg>evolvere icons (vibrant)</bg>
-   <ca>icones evolvere (vibrants)</ca>
-   <cs>evolvere icons (vibrant)</cs>
-   <da>evolvere-ikoner (farverige)</da>
-   <de>Symbolthema Evolvere</de>
-   <el>εικονίδια evolvere (ζωντανή)</el>
-   <en>evolvere icons (vibrant)</en>
-   <es>iconos evolvere (vibrante)</es>
-   <et>evolvere icons (vibrant)</et>
-   <eu>evolvere icons (vibrant)</eu>
-   <fa>evolvere icons (vibrant)</fa>
-   <fi>evolvere icons (vibrant)</fi>
-   <fr>icônes evolvere (dynamiques)</fr>
-   <he_IL>evolvere icons (vibrant)</he_IL>
-   <hi>evolvere icons (vibrant)</hi>
-   <hr>evolvere icons (vibrant)</hr>
-   <hu>evolvere icons (vibrant)</hu>
-   <id>evolvere icons (vibrant)</id>
-   <is>evolvere icons (vibrant)</is>
-   <it>icone evolvere (vibrant)</it>
-   <ja_JP>evolvere icons (vibrant)</ja_JP>
-   <ja>evolvere icons (vibrant)</ja>
-   <kk>evolvere icons (vibrant)</kk>
-   <ko>evolvere icons (vibrant)</ko>
-   <lt>evolvere icons (vibrant)</lt>
-   <mk>evolvere icons (vibrant)</mk>
-   <mr>evolvere icons (vibrant)</mr>
-   <nb>evolvere icons (vibrant)</nb>
-   <nl>evolvere iconen (levendig)</nl>
-   <pl>ikony evolvere (vibrant)</pl>
-   <pt_BR>Ícones evolvere (vibrant)</pt_BR>
-   <pt>Ícones evolvere (vibrant)</pt>
-   <ro>evolvere icons (vibrant)</ro>
-   <ru>Значки evolvere (яркие)</ru>
-   <sk>evolvere icons (vibrant)</sk>
-   <sl>evlovere ikone (žive)</sl>
-   <sq>evolvere icons (vibrant)</sq>
-   <sr>evolvere icons (vibrant)</sr>
-   <sv>evolvere ikoner (lysande)</sv>
-   <tr>evolvere icons (vibrant)</tr>
-   <uk>evolvere icons (vibrant)</uk>
-   <zh_CN>evolvere icons (vibrant)</zh_CN>
-   <zh_TW>evolvere icons (vibrant)</zh_TW>
+   <am>ExpressVPN and sysVinit scripts</am>
+   <ar>ExpressVPN and sysVinit scripts</ar>
+   <bg>ExpressVPN and sysVinit scripts</bg>
+   <ca>Scripts per ExpressVPN i sysVinit</ca>
+   <cs>ExpressVPN and sysVinit scripts</cs>
+   <da>ExpressVPN and sysVinit scripts</da>
+   <de>ExpressVPN aud sysVinit Skripte</de>
+   <el>ExpressVPN and sysVinit scripts</el>
+   <en>ExpressVPN and sysVinit scripts</en>
+   <es>ExpressVPN y sysVinit scripts</es>
+   <et>ExpressVPN and sysVinit scripts</et>
+   <eu>ExpressVPN and sysVinit scripts</eu>
+   <fa>ExpressVPN and sysVinit scripts</fa>
+   <fil_PH>ExpressVPN and sysVinit scripts</fil_PH>
+   <fi>ExpressVPN and sysVinit scripts</fi>
+   <fr>ExpressVPN and sysVinit scripts</fr>
+   <he_IL>ExpressVPN and sysVinit scripts</he_IL>
+   <hi>ExpressVPN and sysVinit scripts</hi>
+   <hr>ExpressVPN and sysVinit scripts</hr>
+   <hu>ExpressVPN and sysVinit scripts</hu>
+   <id>ExpressVPN and sysVinit scripts</id>
+   <is>ExpressVPN and sysVinit scripts</is>
+   <it>ExpressVPN and sysVinit scripts</it>
+   <ja_JP>ExpressVPN and sysVinit scripts</ja_JP>
+   <ja>ExpressVPN and sysVinit scripts</ja>
+   <kk>ExpressVPN and sysVinit scripts</kk>
+   <ko>ExpressVPN and sysVinit scripts</ko>
+   <lt>ExpressVPN and sysVinit scripts</lt>
+   <mk>ExpressVPN and sysVinit scripts</mk>
+   <mr>ExpressVPN and sysVinit scripts</mr>
+   <nb>ExpressVPN and sysVinit scripts</nb>
+   <nl>ExpressVPN and sysVinit scripts</nl>
+   <pl>ExpressVPN and sysVinit scripts</pl>
+   <pt_BR>ExpressVPN and sysVinit scripts</pt_BR>
+   <pt>Scripts ExpressVPN e sysVinit</pt>
+   <ro>ExpressVPN and sysVinit scripts</ro>
+   <ru>ExpressVPN и cкрипты sysVinit</ru>
+   <sk>ExpressVPN and sysVinit scripts</sk>
+   <sl>ExpressVPN in sysVinit skripti</sl>
+   <sq>ExpressVPN and sysVinit scripts</sq>
+   <sr>ExpressVPN and sysVinit scripts</sr>
+   <sv>ExpressVPN och sysVinit skript</sv>
+   <tr>ExpressVPN and sysVinit scripts</tr>
+   <uk>ExpressVPN and sysVinit scripts</uk>
+   <zh_CN>ExpressVPN and sysVinit scripts</zh_CN>
+   <zh_TW>ExpressVPN and sysVinit scripts</zh_TW>
 </description>
 
 <installable>

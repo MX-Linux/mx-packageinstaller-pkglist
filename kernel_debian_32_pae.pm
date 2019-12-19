@@ -10,51 +10,52 @@ Debian 32 bit w/pae
 </name>
 
 <description>
-   <am>Default Debian 32bit linux kernel w/PAE</am>
-   <ar>Default Debian 32bit linux kernel w/PAE</ar>
-   <bg>Default Debian 32bit linux kernel w/PAE</bg>
-   <ca>Nucli de Debian 32bit, amb PAE</ca>
-   <cs>Default Debian 32bit linux kernel w/PAE</cs>
-   <da>Standard Debian 32bit linux-kerne med PAE</da>
-   <de>Standard Debian 32bit Linux Kernel mit PAE</de>
-   <el>Προεπιλεγμένο Debian 32bit linux kernel PAE</el>
-   <en>Default Debian 32bit linux kernel w/PAE</en>
-   <es>Kernel de linux Debian Predeterminado 32bit c/PAE</es>
-   <et>Default Debian 32bit linux kernel w/PAE</et>
-   <eu>Default Debian 32bit linux kernel w/PAE</eu>
-   <fa>Default Debian 32bit linux kernel w/PAE</fa>
-   <fi>Default Debian 32bit linux kernel w/PAE</fi>
-   <fr>Noyau Debian 32bit w/PAE</fr>
-   <he_IL>Default Debian 32bit linux kernel w/PAE</he_IL>
-   <hi>Default Debian 32bit linux kernel w/PAE</hi>
-   <hr>Default Debian 32bit linux kernel w/PAE</hr>
-   <hu>Default Debian 32bit linux kernel w/PAE</hu>
-   <id>Default Debian 32bit linux kernel w/PAE</id>
-   <is>Default Debian 32bit linux kernel w/PAE</is>
-   <it>Default Debian 32bit linux kernel PAE</it>
-   <ja_JP>Default Debian 32bit linux kernel w/PAE</ja_JP>
-   <ja>Default Debian 32bit linux kernel w/PAE</ja>
-   <kk>Default Debian 32bit linux kernel w/PAE</kk>
-   <ko>Default Debian 32bit linux kernel w/PAE</ko>
-   <lt>Default Debian 32bit linux kernel w/PAE</lt>
-   <mk>Default Debian 32bit linux kernel w/PAE</mk>
-   <mr>Default Debian 32bit linux kernel w/PAE</mr>
-   <nb>Default Debian 32bit linux kernel w/PAE</nb>
-   <nl>Standaard Debian 32bit linux kernel met PAE</nl>
-   <pl>domyślny Debian 32bit linux kernel w/PAE</pl>
-   <pt_BR>Default Debian 32bit linux kernel w/PAE</pt_BR>
-   <pt>Núcleo linux padrão Debian 32bit c/PAE</pt>
-   <ro>Default Debian 32bit linux kernel w/PAE</ro>
-   <ru>Debian ядро по умолчанию, 32bit PAE</ru>
-   <sk>Default Debian 32bit linux kernel w/PAE</sk>
-   <sl>Privzeti Debian 32bit linux kernel w/PAE</sl>
-   <sq>Default Debian 32bit linux kernel w/PAE</sq>
-   <sr>Default Debian 32bit linux kernel w/PAE</sr>
-   <sv>Standard Debian 32bit linuxkärna med PAE</sv>
-   <tr>Default Debian 32bit linux kernel w/PAE</tr>
-   <uk>Default Debian 32bit linux kernel w/PAE</uk>
-   <zh_CN>Default Debian 32bit linux kernel w/PAE</zh_CN>
-   <zh_TW>Default Debian 32bit linux kernel w/PAE</zh_TW>
+   <am>Default Debian 32bit linux kernel, no-PAE, single core</am>
+   <ar>Default Debian 32bit linux kernel, no-PAE, single core</ar>
+   <bg>Default Debian 32bit linux kernel, no-PAE, single core</bg>
+   <ca>Kernel Linux Debian 32bit no-PAE per omissió, 32 bit, single core</ca>
+   <cs>Default Debian 32bit linux kernel, no-PAE, single core</cs>
+   <da>Default Debian 32bit linux kernel, no-PAE, single core</da>
+   <de>Default Debian 32bit Linux Kernel, no-PAE, single core</de>
+   <el>Default Debian 32bit linux kernel, no-PAE, single core</el>
+   <en>Default Debian 32bit linux kernel, no-PAE, single core</en>
+   <es>Kernel Debian predeterminado 32bit linux, no-PAE, single core</es>
+   <et>Default Debian 32bit linux kernel, no-PAE, single core</et>
+   <eu>Default Debian 32bit linux kernel, no-PAE, single core</eu>
+   <fa>Default Debian 32bit linux kernel, no-PAE, single core</fa>
+   <fil_PH>Default Debian 32bit linux kernel, no-PAE, single core</fil_PH>
+   <fi>Default Debian 32bit linux kernel, no-PAE, single core</fi>
+   <fr>Default Debian 32bit linux kernel, no-PAE, single core</fr>
+   <he_IL>Default Debian 32bit linux kernel, no-PAE, single core</he_IL>
+   <hi>Default Debian 32bit linux kernel, no-PAE, single core</hi>
+   <hr>Default Debian 32bit linux kernel, no-PAE, single core</hr>
+   <hu>Default Debian 32bit linux kernel, no-PAE, single core</hu>
+   <id>Default Debian 32bit linux kernel, no-PAE, single core</id>
+   <is>Default Debian 32bit linux kernel, no-PAE, single core</is>
+   <it>Default Debian 32bit linux kernel, no-PAE, single core</it>
+   <ja_JP>Default Debian 32bit linux kernel, no-PAE, single core</ja_JP>
+   <ja>Default Debian 32bit linux kernel, no-PAE, single core</ja>
+   <kk>Default Debian 32bit linux kernel, no-PAE, single core</kk>
+   <ko>Default Debian 32bit linux kernel, no-PAE, single core</ko>
+   <lt>Default Debian 32bit linux kernel, no-PAE, single core</lt>
+   <mk>Default Debian 32bit linux kernel, no-PAE, single core</mk>
+   <mr>Default Debian 32bit linux kernel, no-PAE, single core</mr>
+   <nb>Default Debian 32bit linux kernel, no-PAE, single core</nb>
+   <nl>Default Debian 32bit linux kernel, no-PAE, single core</nl>
+   <pl>Default Debian 32bit linux kernel, no-PAE, single core</pl>
+   <pt_BR>Default Debian 32bit linux kernel, no-PAE, single core</pt_BR>
+   <pt>Núcleo (kernel) linux Debian predefinido 32bit, no-PAE, single core</pt>
+   <ro>Default Debian 32bit linux kernel, no-PAE, single core</ro>
+   <ru>Стандартное Debian ядро, 32 bit no-PAE с поддержкой 1-core</ru>
+   <sk>Default Debian 32bit linux kernel, no-PAE, single core</sk>
+   <sl>Privzeto Debian 32 bitno linux jedro brez PAE, eno jedro</sl>
+   <sq>Default Debian 32bit linux kernel, no-PAE, single core</sq>
+   <sr>Default Debian 32bit linux kernel, no-PAE, single core</sr>
+   <sv>Standard Debian 32bit linux kärna, no-PAE, single core</sv>
+   <tr>Default Debian 32bit linux kernel, no-PAE, single core</tr>
+   <uk>Default Debian 32bit linux kernel, no-PAE, single core</uk>
+   <zh_CN>Default Debian 32bit linux kernel, no-PAE, single core</zh_CN>
+   <zh_TW>Default Debian 32bit linux kernel, no-PAE, single core</zh_TW>
 </description>
 
 <installable>

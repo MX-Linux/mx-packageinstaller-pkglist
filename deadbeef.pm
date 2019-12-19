@@ -10,51 +10,52 @@ DeaDBeeF
 </name>
 
 <description>
-   <am>simple audio player</am>
-   <ar>simple audio player</ar>
-   <bg>simple audio player</bg>
-   <ca>senzill reproductor d'àudio</ca>
-   <cs>simple audio player</cs>
-   <da>Simpel lydafspiller</da>
-   <de>Einfacher Audio-Player</de>
-   <el>απλή συσκευή αναπαραγωγής ήχου</el>
-   <en>simple audio player</en>
-   <es>Reproductor de audio sencillo</es>
-   <et>simple audio player</et>
-   <eu>simple audio player</eu>
-   <fa>simple audio player</fa>
-   <fi>simple audio player</fi>
-   <fr>Lecteur audio basique</fr>
-   <he_IL>simple audio player</he_IL>
-   <hi>simple audio player</hi>
-   <hr>simple audio player</hr>
-   <hu>simple audio player</hu>
-   <id>simple audio player</id>
-   <is>simple audio player</is>
-   <it>Lettore di tracce audio semplice</it>
-   <ja_JP>simple audio player</ja_JP>
-   <ja>simple audio player</ja>
-   <kk>simple audio player</kk>
-   <ko>simple audio player</ko>
-   <lt>paprastas garso grotuvas</lt>
-   <mk>simple audio player</mk>
-   <mr>simple audio player</mr>
-   <nb>simple audio player</nb>
-   <nl>eenvoudige audio speler</nl>
-   <pl>prosty odtwarzacz audio</pl>
-   <pt_BR>Reprodutor de áudio muito simples</pt_BR>
-   <pt>Reprodutor de áudio simples e de fácil utilização</pt>
-   <ro>simple audio player</ro>
-   <ru>Музыкальный проигрыватель</ru>
-   <sk>simple audio player</sk>
-   <sl>preprost predvajalnik zvoka</sl>
-   <sq>simple audio player</sq>
-   <sr>simple audio player</sr>
-   <sv>enkel ljudspelare</sv>
-   <tr>simple audio player</tr>
-   <uk>простий аудіо програвач</uk>
-   <zh_CN>simple audio player</zh_CN>
-   <zh_TW>simple audio player</zh_TW>
+   <am>tools for creation of deb packages</am>
+   <ar>tools for creation of deb packages</ar>
+   <bg>tools for creation of deb packages</bg>
+   <ca>eines per a la creació de paquets deb</ca>
+   <cs>tools for creation of deb packages</cs>
+   <da>værktøjer til at oprette deb-pakker</da>
+   <de>Werkzeuge zur Erstellung von Deb-Paketen</de>
+   <el>εργαλεία για τη δημιουργία πακέτων deb</el>
+   <en>tools for creation of deb packages</en>
+   <es>Herramientas para la creación de paquetes deb</es>
+   <et>tools for creation of deb packages</et>
+   <eu>tools for creation of deb packages</eu>
+   <fa>tools for creation of deb packages</fa>
+   <fil_PH>tools for creation of deb packages</fil_PH>
+   <fi>*deb pakettien luontityökalu</fi>
+   <fr>Outils pour la création de paquets .deb</fr>
+   <he_IL>tools for creation of deb packages</he_IL>
+   <hi>tools for creation of deb packages</hi>
+   <hr>tools for creation of deb packages</hr>
+   <hu>tools for creation of deb packages</hu>
+   <id>tools for creation of deb packages</id>
+   <is>tools for creation of deb packages</is>
+   <it>Strumenti per la creazione di pacchetti deb</it>
+   <ja_JP>tools for creation of deb packages</ja_JP>
+   <ja>tools for creation of deb packages</ja>
+   <kk>tools for creation of deb packages</kk>
+   <ko>tools for creation of deb packages</ko>
+   <lt>įrankiai, skirti deb paketų kūrimui</lt>
+   <mk>tools for creation of deb packages</mk>
+   <mr>tools for creation of deb packages</mr>
+   <nb>tools for creation of deb packages</nb>
+   <nl>gereedschappen voor het maken van deb pakketten</nl>
+   <pl>narzędzia do tworzenia pakietów deb</pl>
+   <pt_BR>Ferramentas para criação de Pacotes deb</pt_BR>
+   <pt>Ferramentas para criar pacotes deb</pt>
+   <ro>tools for creation of deb packages</ro>
+   <ru>Инструменты для создания deb пакетов</ru>
+   <sk>Nástroje na vytváranie deb balíkov</sk>
+   <sl>orodja za izdelavo deb paketov</sl>
+   <sq>tools for creation of deb packages</sq>
+   <sr>tools for creation of deb packages</sr>
+   <sv>verktyg för att skapa deb paket</sv>
+   <tr>tools for creation of deb packages</tr>
+   <uk>утиліти для створення  deb пакунків</uk>
+   <zh_CN>tools for creation of deb packages</zh_CN>
+   <zh_TW>tools for creation of deb packages</zh_TW>
 </description>
 
 <installable>

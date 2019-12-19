@@ -10,51 +10,52 @@ KeepassX
 </name>
 
 <description>
-   <am>KeePassX is a free/open-source password manager/safe</am>
-   <ar>KeePassX is a free/open-source password manager/safe</ar>
-   <bg>KeePassX is a free/open-source password manager/safe</bg>
-   <ca>KeePassX és un gestor de contrasenyes lliure/codi obert</ca>
-   <cs>KeePassX is a free/open-source password manager/safe</cs>
-   <da>KeePassX er en fri/open source adgangskodehåndtering/-skab</da>
-   <de>KeePassX ist ein kostenloser/open-source Passwortmanager/-safe</de>
-   <el>Το KeePassX είναι ένας διαχειριστής κωδικών πρόσβασης ελεύθερου/ανοιχτού κώδικα</el>
-   <en>KeePassX is a free/open-source password manager/safe</en>
-   <es>Administrador de contraseñas de código abierto</es>
-   <et>KeePassX is a free/open-source password manager/safe</et>
-   <eu>KeePassX is a free/open-source password manager/safe</eu>
-   <fa>KeePassX is a free/open-source password manager/safe</fa>
-   <fi>KeePassX is a free/open-source password manager/safe</fi>
-   <fr>KeePassX est un gestionnaire sécurisé open-source de mots de passe</fr>
-   <he_IL>KeePassX is a free/open-source password manager/safe</he_IL>
-   <hi>KeePassX is a free/open-source password manager/safe</hi>
-   <hr>KeePassX is a free/open-source password manager/safe</hr>
-   <hu>KeePassX is a free/open-source password manager/safe</hu>
-   <id>KeePassX is a free/open-source password manager/safe</id>
-   <is>KeePassX is a free/open-source password manager/safe</is>
-   <it>KeePassX è un gestore di password free/open-source</it>
-   <ja_JP>KeePassX is a free/open-source password manager/safe</ja_JP>
-   <ja>KeePassX is a free/open-source password manager/safe</ja>
-   <kk>KeePassX is a free/open-source password manager/safe</kk>
-   <ko>KeePassX is a free/open-source password manager/safe</ko>
-   <lt>KeePassX is a free/open-source password manager/safe</lt>
-   <mk>KeePassX is a free/open-source password manager/safe</mk>
-   <mr>KeePassX is a free/open-source password manager/safe</mr>
-   <nb>KeePassX is a free/open-source password manager/safe</nb>
-   <nl>KeePassX is een gratis/open-source wachtwoord manager/kluis</nl>
-   <pl>KeePassX to bezpłatny menedżer haseł/sejf o otwartym kodzie źródłowym</pl>
-   <pt_BR>Guarda e gestão de senhas (palavras-passe) em software livre e de fonte aberta</pt_BR>
-   <pt>Guarda e gestão de senhas (palavras-passe) em software livre e de fonte aberta</pt>
-   <ro>KeePassX is a free/open-source password manager/safe</ro>
-   <ru>KeePassX - менеджер паролей с открытым кодом (форк KeePass)</ru>
-   <sk>KeePassX is a free/open-source password manager/safe</sk>
-   <sl>KeePassXje brezplačen odprtokodni urejavalnik/sef za gesla</sl>
-   <sq>KeePassX is a free/open-source password manager/safe</sq>
-   <sr>KeePassX is a free/open-source password manager/safe</sr>
-   <sv>KeePassX är en fri/öppen källkod lösenordshanterare/förvarare</sv>
-   <tr>KeePassX is a free/open-source password manager/safe</tr>
-   <uk>KeePassX вільний та відкритий менеджер і сховище паролів</uk>
-   <zh_CN>KeePassX is a free/open-source password manager/safe</zh_CN>
-   <zh_TW>KeePassX is a free/open-source password manager/safe</zh_TW>
+   <am>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</am>
+   <ar>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</ar>
+   <bg>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</bg>
+   <ca>Kernel antiX 5.2.15 esmenat per Meltdown i Spectre, 64 bit</ca>
+   <cs>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</cs>
+   <da>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</da>
+   <de>antiX 5.2.15 Kernel Meltdown und Spectre gepatcht, 64 bit</de>
+   <el>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</el>
+   <en>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</en>
+   <es>antiX 5.2.15 kernel Meltdown y Spectre parcheados, 64 bit</es>
+   <et>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</et>
+   <eu>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</eu>
+   <fa>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</fa>
+   <fil_PH>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</fil_PH>
+   <fi>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</fi>
+   <fr>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</fr>
+   <he_IL>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</he_IL>
+   <hi>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</hi>
+   <hr>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</hr>
+   <hu>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</hu>
+   <id>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</id>
+   <is>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</is>
+   <it>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</it>
+   <ja_JP>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</ja_JP>
+   <ja>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</ja>
+   <kk>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</kk>
+   <ko>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</ko>
+   <lt>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</lt>
+   <mk>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</mk>
+   <mr>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</mr>
+   <nb>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</nb>
+   <nl>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</nl>
+   <pl>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</pl>
+   <pt_BR>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</pt_BR>
+   <pt>Núcleo (kernel) antiX 5.2.15 com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
+   <ro>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</ro>
+   <ru>antiX 5.2.15 ядро с патчами от Meltdown и Spectre, 64 bit</ru>
+   <sk>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</sk>
+   <sl>antiX 5.2.15 Meltdownjedro in Spectre zakrpano, 64 bitno</sl>
+   <sq>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</sq>
+   <sr>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</sr>
+   <sv>antiX 5.2.15 kärna Meltdown och Spectre fixad, 64 bit</sv>
+   <tr>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</tr>
+   <uk>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</uk>
+   <zh_CN>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</zh_CN>
+   <zh_TW>antiX 5.2.15 kernel Meltdown and Spectre patched, 64 bit</zh_TW>
 </description>
 
 <installable>

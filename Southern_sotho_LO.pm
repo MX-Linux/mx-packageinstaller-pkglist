@@ -10,51 +10,52 @@ Southern_sotho_Libreoffice
 </name>
 
 <description>
-   <am>Southern_sotho Language Meta-Package for LibreOffice</am>
-   <ar>Southern_sotho Language Meta-Package for LibreOffice</ar>
-   <bg>Southern_sotho Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Southern_sotho per LibreOffice</ca>
-   <cs>Southern_sotho Language Meta-Package for LibreOffice</cs>
-   <da>Southern_sotho sprog-metapakke til LibreOffice</da>
-   <de>Southern_sotho Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Southern_sotho</el>
-   <en>Southern_sotho Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Southern_sotho para LibreOffice</es>
-   <et>Southern_sotho Language Meta-Package for LibreOffice</et>
-   <eu>Southern_sotho Language Meta-Package for LibreOffice</eu>
-   <fa>Southern_sotho Language Meta-Package for LibreOffice</fa>
-   <fi>Southern_sotho Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Southern_sotho pour LibreOffice</fr>
-   <he_IL>Southern_sotho Language Meta-Package for LibreOffice</he_IL>
-   <hi>Southern_sotho Language Meta-Package for LibreOffice</hi>
-   <hr>Southern_sotho Language Meta-Package for LibreOffice</hr>
-   <hu>Southern_sotho Language Meta-Package for LibreOffice</hu>
-   <id>Southern_sotho Language Meta-Package for LibreOffice</id>
-   <is>Southern_sotho Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Southern_sotho per LibreOffice</it>
-   <ja_JP>Southern_sotho Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Southern_sotho Language Meta-Package for LibreOffice</ja>
-   <kk>Southern_sotho Language Meta-Package for LibreOffice</kk>
-   <ko>Southern_sotho Language Meta-Package for LibreOffice</ko>
-   <lt>Southern_sotho Language Meta-Package for LibreOffice</lt>
-   <mk>Southern_sotho Language Meta-Package for LibreOffice</mk>
-   <mr>Southern_sotho Language Meta-Package for LibreOffice</mr>
-   <nb>Southern_sotho Language Meta-Package for LibreOffice</nb>
-   <nl>Southern_sotho Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Southern_sotho metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Southern_sotho Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Southern_sotho Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Southern_sotho Language Meta-Package for LibreOffice</ro>
-   <ru>Southern_sotho Language Meta-Package for LibreOffice</ru>
-   <sk>Southern_sotho Language Meta-Package for LibreOffice</sk>
-   <sl>Southern_sotho Language Meta-Package for LibreOffice</sl>
-   <sq>Southern_sotho Language Meta-Package for LibreOffice</sq>
-   <sr>Southern_sotho Language Meta-Package for LibreOffice</sr>
-   <sv>Southern_sotho Språk Meta-Paket för LibreOffice</sv>
-   <tr>Southern_sotho Language Meta-Package for LibreOffice</tr>
-   <uk>Southern_sotho Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Southern_sotho Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Southern_sotho Language Meta-Package for LibreOffice</zh_TW>
+   <am>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</am>
+   <ar>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ar>
+   <bg>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</bg>
+   <ca>Gestor d'escriptori i fitxers multi-panell amb pestanyes estable, ràpid, flexible i pràctic</ca>
+   <cs>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</cs>
+   <da>en fil- og skrivebordshåndtering med flere paneler og faneblade som tilbyder stabilitet, bekvemmelighed og fleksibilitet</da>
+   <de>Eine Multi-Panel-Tabbed-Datei und Desktop-Manager bietet Stabilität, Geschwindigkeit, Komfort und Flexibilität</de>
+   <el>ένα αρχείο καρτελών πολλαπλών πινάκων και ένας διαχειριστής επιφάνειας εργασίας που προσφέρει σταθερότητα, ταχύτητα, ευκολία και ευελιξία</el>
+   <en>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</en>
+   <es>Administrador de archivos y del escritorio multi panel con soporte de pestañas que ofrece estabilidad, velocidad, conveniencia y flexibilidad.</es>
+   <et>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</et>
+   <eu>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</eu>
+   <fa>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</fa>
+   <fil_PH>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</fil_PH>
+   <fi>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</fi>
+   <fr>Un gestionnaire de bureau et de fichiers à plusieurs panneaux, procurant stabilité, rapidité, facilité et souplesse</fr>
+   <he_IL>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</he_IL>
+   <hi>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</hi>
+   <hr>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</hr>
+   <hu>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</hu>
+   <id>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</id>
+   <is>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</is>
+   <it>gestore di file e desktop a più riquadri con schede che offre stabilità, velocità, convenienza e flessibilità.</it>
+   <ja_JP>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ja_JP>
+   <ja>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ja>
+   <kk>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</kk>
+   <ko>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ko>
+   <lt>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</lt>
+   <mk>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</mk>
+   <mr>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</mr>
+   <nb>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</nb>
+   <nl>een bestand en desktop manager met meerdere tabbladen voor stabiliteit, snelheid, gemak en flexibiliteit</nl>
+   <pl>wielopanelowy menedżer plików i pulpitu oferujący stabilność, szybkość, wygodę i elastyczność</pl>
+   <pt_BR>Gestor de arquivos e da área de trabalho multi-painel com abas, que proporciona estabilidade, rapidez, comodidade e flexibilidade</pt_BR>
+   <pt>Gestor de ficheiros e da área de trabalho multi-painel com separadores, que proporciona estabilidade, rapidez, comodidade e flexibilidade</pt>
+   <ro>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ro>
+   <ru>Мультипанельный менеджер файлов с поддержкой вкладок и окружением рабочего стола</ru>
+   <sk>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</sk>
+   <sl>Upravljalnik datotek in namizja z več panoji, ki ponuja stabilnost, hitrost, fleksibilnost in udobje</sl>
+   <sq>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</sq>
+   <sr>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</sr>
+   <sv>en multi-panels fil och skrivbordshanterare med flikar som erbjuder stabilitet, snabbhet, bekvämlighet och flexibilitet</sv>
+   <tr>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</tr>
+   <uk>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</uk>
+   <zh_CN>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</zh_CN>
+   <zh_TW>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</zh_TW>
 </description>
 
 <installable>

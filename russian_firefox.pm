@@ -10,51 +10,52 @@ Russian_Firefox
 </name>
 
 <description>
-   <am>Russian localisation of Firefox</am>
-   <ar>Russian localisation of Firefox</ar>
-   <bg>Russian localisation of Firefox</bg>
-   <ca>Localització de Firefox en Rus</ca>
-   <cs>Russian localisation of Firefox</cs>
-   <da>Russisk oversættelse af Firefox</da>
-   <de>Russische Lokalisierung von Firefox</de>
-   <el>Ρωσικός εντοπισμός του Firefox</el>
-   <en>Russian localisation of Firefox</en>
-   <es>Localización Rusa de Firefox</es>
-   <et>Russian localisation of Firefox</et>
-   <eu>Russian localisation of Firefox</eu>
-   <fa>Russian localisation of Firefox</fa>
-   <fi>Russian localisation of Firefox</fi>
-   <fr>Localisation russe pour Firefox</fr>
-   <he_IL>Russian localisation of Firefox</he_IL>
-   <hi>Russian localisation of Firefox</hi>
-   <hr>Russian localisation of Firefox</hr>
-   <hu>Russian localisation of Firefox</hu>
-   <id>Russian localisation of Firefox</id>
-   <is>Russian localisation of Firefox</is>
-   <it>Localizzazione russa di Firefox</it>
-   <ja_JP>Russian localisation of Firefox</ja_JP>
-   <ja>Russian localisation of Firefox</ja>
-   <kk>Russian localisation of Firefox</kk>
-   <ko>Russian localisation of Firefox</ko>
-   <lt>Russian localisation of Firefox</lt>
-   <mk>Russian localisation of Firefox</mk>
-   <mr>Russian localisation of Firefox</mr>
-   <nb>Russian localisation of Firefox</nb>
-   <nl>Russische lokalisatie van Firefox</nl>
-   <pl>Rosyjska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Russo Localização para Firefox</pt_BR>
-   <pt>Russo Localização para Firefox</pt>
-   <ro>Russian localisation of Firefox</ro>
-   <ru>Русская локализация Firefox</ru>
-   <sk>Russian localisation of Firefox</sk>
-   <sl>Russian localisation of Firefox</sl>
-   <sq>Russian localisation of Firefox</sq>
-   <sr>Russian localisation of Firefox</sr>
-   <sv>Rysk lokalisering av Firefox </sv>
-   <tr>Russian localisation of Firefox</tr>
-   <uk>Russian локалізація Firefox</uk>
-   <zh_CN>Russian localisation of Firefox</zh_CN>
-   <zh_TW>Russian localisation of Firefox</zh_TW>
+   <am>Russian fonts packages</am>
+   <ar>Russian fonts packages</ar>
+   <bg>Russian fonts packages</bg>
+   <ca>Paquets de tipus de lletra Ciríl·lics (rus)</ca>
+   <cs>Russian fonts packages</cs>
+   <da>Russisk skrifttyper-pakke</da>
+   <de>Russische Schriftenpakete</de>
+   <el>Ρωσικά πακέτα γραμματοσειρών</el>
+   <en>Russian fonts packages</en>
+   <es>Paquetes de fuentes rusas</es>
+   <et>Russian fonts packages</et>
+   <eu>Russian fonts packages</eu>
+   <fa>Russian fonts packages</fa>
+   <fil_PH>Russian fonts packages</fil_PH>
+   <fi>Russian fonts packages</fi>
+   <fr>Paquets pour polices russes</fr>
+   <he_IL>Russian fonts packages</he_IL>
+   <hi>Russian fonts packages</hi>
+   <hr>Russian fonts packages</hr>
+   <hu>Russian fonts packages</hu>
+   <id>Russian fonts packages</id>
+   <is>Russian fonts packages</is>
+   <it>Pacchetti di fonts per il Russo</it>
+   <ja_JP>Russian fonts packages</ja_JP>
+   <ja>Russian fonts packages</ja>
+   <kk>Russian fonts packages</kk>
+   <ko>Russian fonts packages</ko>
+   <lt>Rusų šriftų paketai</lt>
+   <mk>Russian fonts packages</mk>
+   <mr>Russian fonts packages</mr>
+   <nb>Russian fonts packages</nb>
+   <nl>Russische font pakketten</nl>
+   <pl>pakiety z rosyjskimi fontami (czcionkami)</pl>
+   <pt_BR>Russo Pacotes de fontes</pt_BR>
+   <pt>Russo Pacotes de fontes</pt>
+   <ro>Russian fonts packages</ro>
+   <ru>Пакеты русских шрифтов</ru>
+   <sk>Russian fonts packages</sk>
+   <sl>Russian fonts packages</sl>
+   <sq>Russian fonts packages</sq>
+   <sr>Russian fonts packages</sr>
+   <sv>Ryska typsnitts-paket</sv>
+   <tr>Russian fonts packages</tr>
+   <uk>Russian fonts packages</uk>
+   <zh_CN>Russian fonts packages</zh_CN>
+   <zh_TW>Russian fonts packages</zh_TW>
 </description>
 
 <installable>

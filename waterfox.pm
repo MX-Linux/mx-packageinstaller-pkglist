@@ -10,51 +10,52 @@ Waterfox
 </name>
 
 <description>
-   <am>alternative mozilla-based browser</am>
-   <ar>alternative mozilla-based browser</ar>
-   <bg>alternative mozilla-based browser</bg>
-   <ca>Navegador alternatiu basat en Mozilla</ca>
-   <cs>alternative mozilla-based browser</cs>
-   <da>Alternativ mozilla-baseret browser</da>
-   <de>Alternativer Mozilla-basierter Browser</de>
-   <el>εναλλακτικό πρόγραμμα περιήγησης που βασίζεται σε mozilla</el>
-   <en>alternative mozilla-based browser</en>
-   <es>Navegador alternativo basado en Mozilla</es>
-   <et>alternative mozilla-based browser</et>
-   <eu>alternative mozilla-based browser</eu>
-   <fa>alternative mozilla-based browser</fa>
-   <fi>alternative mozilla-based browser</fi>
-   <fr>Navigateur alternatif basé sur Mozilla</fr>
-   <he_IL>alternative mozilla-based browser</he_IL>
-   <hi>alternative mozilla-based browser</hi>
-   <hr>alternative mozilla-based browser</hr>
-   <hu>alternative mozilla-based browser</hu>
-   <id>alternative mozilla-based browser</id>
-   <is>alternative mozilla-based browser</is>
-   <it>browser alternativo basato su mozilla</it>
-   <ja_JP>alternative mozilla-based browser</ja_JP>
-   <ja>alternative mozilla-based browser</ja>
-   <kk>alternative mozilla-based browser</kk>
-   <ko>alternative mozilla-based browser</ko>
-   <lt>alternative mozilla-based browser</lt>
-   <mk>alternative mozilla-based browser</mk>
-   <mr>alternative mozilla-based browser</mr>
-   <nb>alternative mozilla-based browser</nb>
-   <nl>alternatieve op mozilla gebaseerde browser</nl>
-   <pl>alternatywna przeglądarka oparta na Mozilli</pl>
-   <pt_BR>Navegador web alternativo baseado em código da Mozilla</pt_BR>
-   <pt>Navegador web alternativo baseado no firefox da Mozilla</pt>
-   <ro>alternative mozilla-based browser</ro>
-   <ru>Браузер основанный на Firefox (сохранена поддержка дополнений на XUL/XPCOM)</ru>
-   <sk>alternative mozilla-based browser</sk>
-   <sl>Alternativni brskalnik, ki temelji na Mozilli</sl>
-   <sq>alternative mozilla-based browser</sq>
-   <sr>alternative mozilla-based browser</sr>
-   <sv>alternativ mozilla-baserad webbläsare</sv>
-   <tr>alternative mozilla-based browser</tr>
-   <uk>alternative mozilla-based browser</uk>
-   <zh_CN>alternative mozilla-based browser</zh_CN>
-   <zh_TW>alternative mozilla-based browser</zh_TW>
+   <am>Welsh Language Meta-Package for LibreOffice</am>
+   <ar>Welsh Language Meta-Package for LibreOffice</ar>
+   <bg>Welsh Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Gal·lès per LibreOffice</ca>
+   <cs>Welsh Language Meta-Package for LibreOffice</cs>
+   <da>Welsh Language Meta-Package for LibreOffice</da>
+   <de>Walisisches Meta-Paket für LibreOffice</de>
+   <el>Welsh Language Meta-Package for LibreOffice</el>
+   <en>Welsh Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de idioma galés para LibreOffice</es>
+   <et>Welsh Language Meta-Package for LibreOffice</et>
+   <eu>Welsh Language Meta-Package for LibreOffice</eu>
+   <fa>Welsh Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Welsh Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Welsh Language Meta-Package for LibreOffice</fi>
+   <fr>Welsh Language Meta-Package for LibreOffice</fr>
+   <he_IL>Welsh Language Meta-Package for LibreOffice</he_IL>
+   <hi>Welsh Language Meta-Package for LibreOffice</hi>
+   <hr>Welsh Language Meta-Package for LibreOffice</hr>
+   <hu>Welsh Language Meta-Package for LibreOffice</hu>
+   <id>Welsh Language Meta-Package for LibreOffice</id>
+   <is>Welsh Language Meta-Package for LibreOffice</is>
+   <it>Welsh Language Meta-Package for LibreOffice</it>
+   <ja_JP>Welsh Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Welsh Language Meta-Package for LibreOffice</ja>
+   <kk>Welsh Language Meta-Package for LibreOffice</kk>
+   <ko>Welsh Language Meta-Package for LibreOffice</ko>
+   <lt>Welsh Language Meta-Package for LibreOffice</lt>
+   <mk>Welsh Language Meta-Package for LibreOffice</mk>
+   <mr>Welsh Language Meta-Package for LibreOffice</mr>
+   <nb>Welsh Language Meta-Package for LibreOffice</nb>
+   <nl>Welsh Language Meta-Package for LibreOffice</nl>
+   <pl>Welsh Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Welsh Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Galês Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Welsh Language Meta-Package for LibreOffice</ro>
+   <ru>Welsh Language Meta-Package for LibreOffice</ru>
+   <sk>Welsh Language Meta-Package for LibreOffice</sk>
+   <sl>Velški jezikovni meta-paket za LibreOffice</sl>
+   <sq>Welsh Language Meta-Package for LibreOffice</sq>
+   <sr>Welsh Language Meta-Package for LibreOffice</sr>
+   <sv>Walesiska Språk Meta-Paket för LibreOffice</sv>
+   <tr>Welsh Language Meta-Package for LibreOffice</tr>
+   <uk>Welsh Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Welsh Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Welsh Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>
@@ -72,8 +73,8 @@ waterfox-classic-kpe
 
 
 <postinstall>
-if [ "$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)" != "en" ]; then 
-apt-get install waterfox-classic-i18n-$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1) 
+if [ "$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)" != "en" ]; then
+apt-get install waterfox-classic-i18n-$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)
 fi
 </postinstall>
 

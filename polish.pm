@@ -10,51 +10,52 @@ Polish
 </name>
 
 <description>
-   <am>Polish Language Meta-Package</am>
-   <ar>Polish Language Meta-Package</ar>
-   <bg>Polish Language Meta-Package</bg>
-   <ca>Metapaquet de llengua polonesa</ca>
-   <cs>Polish Language Meta-Package</cs>
-   <da>Polsk sprog-metapakke</da>
-   <de>Polnisches Sprach-Meta-Paket</de>
-   <el>Πολωνική γλώσσα</el>
-   <en>Polish Language Meta-Package</en>
-   <es>Meta-Paquete de Idioma Polaco</es>
-   <et>Polish Language Meta-Package</et>
-   <eu>Polish Language Meta-Package</eu>
-   <fa>Polish Language Meta-Package</fa>
-   <fi>Polish Language Meta-Package</fi>
-   <fr>Méta-paquet pour langue polonaise</fr>
-   <he_IL>Polish Language Meta-Package</he_IL>
-   <hi>Polish Language Meta-Package</hi>
-   <hr>Polish Language Meta-Package</hr>
-   <hu>Polish Language Meta-Package</hu>
-   <id>Polish Language Meta-Package</id>
-   <is>Polish Language Meta-Package</is>
-   <it>Meta-pacchetto della lingua polacca</it>
-   <ja_JP>Polish Language Meta-Package</ja_JP>
-   <ja>Polish Language Meta-Package</ja>
-   <kk>Polish Language Meta-Package</kk>
-   <ko>Polish Language Meta-Package</ko>
-   <lt>Polish Language Meta-Package</lt>
-   <mk>Polish Language Meta-Package</mk>
-   <mr>Polish Language Meta-Package</mr>
-   <nb>Polish Language Meta-Package</nb>
-   <nl>Poolse Taal Meta-Pakket</nl>
-   <pl>Polski metapakiet językowy</pl>
-   <pt_BR>Polonês Meta-Pacote de Idioma</pt_BR>
-   <pt>Polaco Meta-Pacote de Idioma</pt>
-   <ro>Polish Language Meta-Package</ro>
-   <ru>Polish Language Meta-Package</ru>
-   <sk>Polish Language Meta-Package</sk>
-   <sl>Polish Language Meta-Package</sl>
-   <sq>Polish Language Meta-Package</sq>
-   <sr>Polish Language Meta-Package</sr>
-   <sv>Polskt Språk-Meta-Paket</sv>
-   <tr>Polish Language Meta-Package</tr>
-   <uk>Polish Language Meta-Package</uk>
-   <zh_CN>Polish Language Meta-Package</zh_CN>
-   <zh_TW>Polish Language Meta-Package</zh_TW>
+   <am>Polish localisation of Thunderbird</am>
+   <ar>Polish localisation of Thunderbird</ar>
+   <bg>Polish localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Polonès</ca>
+   <cs>Polish localisation of Thunderbird</cs>
+   <da>Polsk oversættelse af Thunderbird</da>
+   <de>Polnische Lokalisierung von Thunderbird</de>
+   <el>Πολωνικός εντοπισμός του Thunderbird</el>
+   <en>Polish localisation of Thunderbird</en>
+   <es>Localización Polaca de Thunderbird</es>
+   <et>Polish localisation of Thunderbird</et>
+   <eu>Polish localisation of Thunderbird</eu>
+   <fa>Polish localisation of Thunderbird</fa>
+   <fil_PH>Polish localisation of Thunderbird</fil_PH>
+   <fi>Polish localisation of Thunderbird</fi>
+   <fr>Localisation polonaise pour Thunderbird</fr>
+   <he_IL>Polish localisation of Thunderbird</he_IL>
+   <hi>Polish localisation of Thunderbird</hi>
+   <hr>Polish localisation of Thunderbird</hr>
+   <hu>Polish localisation of Thunderbird</hu>
+   <id>Polish localisation of Thunderbird</id>
+   <is>Polish localisation of Thunderbird</is>
+   <it>Localizzazione polacca di Thunderbird</it>
+   <ja_JP>Polish localisation of Thunderbird</ja_JP>
+   <ja>Polish localisation of Thunderbird</ja>
+   <kk>Polish localisation of Thunderbird</kk>
+   <ko>Polish localisation of Thunderbird</ko>
+   <lt>Polish localisation of Thunderbird</lt>
+   <mk>Polish localisation of Thunderbird</mk>
+   <mr>Polish localisation of Thunderbird</mr>
+   <nb>Polish localisation of Thunderbird</nb>
+   <nl>Poolse lokalisatie van Thunderbird</nl>
+   <pl>Polska lokalizacja Thunderbirda</pl>
+   <pt_BR>Polonês Localização para Thunderbird</pt_BR>
+   <pt>Polaco Localização para Thunderbird</pt>
+   <ro>Polish localisation of Thunderbird</ro>
+   <ru>Polish localisation of Thunderbird</ru>
+   <sk>Polish localisation of Thunderbird</sk>
+   <sl>Polish localisation of Thunderbird</sl>
+   <sq>Polish localisation of Thunderbird</sq>
+   <sr>Polish localisation of Thunderbird</sr>
+   <sv>Polsk lokalisering av Thunderbird</sv>
+   <tr>Thunderbird'ün Lehçe yerelleştirmesi</tr>
+   <uk>Polish локалізація Thunderbird</uk>
+   <zh_CN>Polish localisation of Thunderbird</zh_CN>
+   <zh_TW>Polish localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ Portugese(BR)_Thunderbird
 </name>
 
 <description>
-   <am>Portuguese(BR) localisation of Thunderbird</am>
-   <ar>Portuguese(BR) localisation of Thunderbird</ar>
-   <bg>Portuguese(BR) localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Portuguès (BR)</ca>
-   <cs>Portuguese(BR) localisation of Thunderbird</cs>
-   <da>Portugisisk (brasilien) oversættelse af Thunderbird</da>
-   <de>Portugiesische (BR) Lokalisierung von Thunderbird</de>
-   <el>Πορτογαλική (Βραζιλίας) εντοπισμός του Thunderbird</el>
-   <en>Portuguese(BR) localisation of Thunderbird</en>
-   <es>Localización Portuguesa (BR) de Thunderbird</es>
-   <et>Portuguese(BR) localisation of Thunderbird</et>
-   <eu>Portuguese(BR) localisation of Thunderbird</eu>
-   <fa>Portuguese(BR) localisation of Thunderbird</fa>
-   <fi>Portuguese(BR) localisation of Thunderbird</fi>
-   <fr>Localisation portugaise (BR) pour Thunderbird</fr>
-   <he_IL>Portuguese(BR) localisation of Thunderbird</he_IL>
-   <hi>Portuguese(BR) localisation of Thunderbird</hi>
-   <hr>Portuguese(BR) localisation of Thunderbird</hr>
-   <hu>Portuguese(BR) localisation of Thunderbird</hu>
-   <id>Portuguese(BR) localisation of Thunderbird</id>
-   <is>Portuguese(BR) localisation of Thunderbird</is>
-   <it>Localizzazione portoghese(BR) di Thunderbird</it>
-   <ja_JP>Portuguese(BR) localisation of Thunderbird</ja_JP>
-   <ja>Portuguese(BR) localisation of Thunderbird</ja>
-   <kk>Portuguese(BR) localisation of Thunderbird</kk>
-   <ko>Portuguese(BR) localisation of Thunderbird</ko>
-   <lt>Portuguese(BR) localisation of Thunderbird</lt>
-   <mk>Portuguese(BR) localisation of Thunderbird</mk>
-   <mr>Portuguese(BR) localisation of Thunderbird</mr>
-   <nb>Portuguese(BR) localisation of Thunderbird</nb>
-   <nl>Portugese(BR) lokalisatie van Thunderbird</nl>
-   <pl>Portugalska (BR) lokalizacja Thunderbirda</pl>
-   <pt_BR>Português(BR) Localização para Thunderbird</pt_BR>
-   <pt>Português(BR) Localização para Thunderbird</pt>
-   <ro>Portuguese(BR) localisation of Thunderbird</ro>
-   <ru>Portuguese(BR) localisation of Thunderbird</ru>
-   <sk>Portuguese(BR) localisation of Thunderbird</sk>
-   <sl>Portuguese(BR) localisation of Thunderbird</sl>
-   <sq>Portuguese(BR) localisation of Thunderbird</sq>
-   <sr>Portuguese(BR) localisation of Thunderbird</sr>
-   <sv>PortugisisktBR) lokalisering för Thunderbird</sv>
-   <tr>Portuguese(BR) localisation of Thunderbird</tr>
-   <uk>Portuguese(BR) локалізація Thunderbird</uk>
-   <zh_CN>Portuguese(BR) localisation of Thunderbird</zh_CN>
-   <zh_TW>Portuguese(BR) localisation of Thunderbird</zh_TW>
+   <am>Portugese(PT) localisation of Firefox</am>
+   <ar>Portugese(PT) localisation of Firefox</ar>
+   <bg>Portugese(PT) localisation of Firefox</bg>
+   <ca>Localització de Firefox en Portuguès (PT)</ca>
+   <cs>Portugese(PT) localisation of Firefox</cs>
+   <da>Portugisisk (portugal) oversættelse af Firefox</da>
+   <de>Portugiesische (PT) Lokalisierung von Firefox</de>
+   <el>Πορτογαλικός εντοπισμός του Firefox</el>
+   <en>Portugese(PT) localisation of Firefox</en>
+   <es>Localización Portuguesa (PT) de Firefox</es>
+   <et>Portugese(PT) localisation of Firefox</et>
+   <eu>Portugese(PT) localisation of Firefox</eu>
+   <fa>Portugese(PT) localisation of Firefox</fa>
+   <fil_PH>Portugese(PT) localisation of Firefox</fil_PH>
+   <fi>Portugese(PT) localisation of Firefox</fi>
+   <fr>Localisation portugaise (PT) pour Firefox</fr>
+   <he_IL>Portugese(PT) localisation of Firefox</he_IL>
+   <hi>Portugese(PT) localisation of Firefox</hi>
+   <hr>Portugese(PT) localisation of Firefox</hr>
+   <hu>Portugese(PT) localisation of Firefox</hu>
+   <id>Portugese(PT) localisation of Firefox</id>
+   <is>Portugese(PT) localisation of Firefox</is>
+   <it>Localizzazione portoghese(PT) di Firefox</it>
+   <ja_JP>Portugese(PT) localisation of Firefox</ja_JP>
+   <ja>Portugese(PT) localisation of Firefox</ja>
+   <kk>Portugese(PT) localisation of Firefox</kk>
+   <ko>Portugese(PT) localisation of Firefox</ko>
+   <lt>Portugese(PT) localisation of Firefox</lt>
+   <mk>Portugese(PT) localisation of Firefox</mk>
+   <mr>Portugese(PT) localisation of Firefox</mr>
+   <nb>Portugese(PT) localisation of Firefox</nb>
+   <nl>Portugese(PT) lokalisatie van Firefox</nl>
+   <pl>Portugalska (PT) lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Português(PT) Localização para Firefox</pt_BR>
+   <pt>Português(PT) Localização para Firefox</pt>
+   <ro>Portugese(PT) localisation of Firefox</ro>
+   <ru>Portugese(PT) localisation of Firefox</ru>
+   <sk>Portugese(PT) localisation of Firefox</sk>
+   <sl>Portugese(PT) localisation of Firefox</sl>
+   <sq>Portugese(PT) localisation of Firefox</sq>
+   <sr>Portugese(PT) localisation of Firefox</sr>
+   <sv>Portugisisk(PT) lokalisering för Firefox</sv>
+   <tr>Firefox'un Portekiz Portekizcesi yerelleştirmesi</tr>
+   <uk>Portugese(PT) локалізація Firefox</uk>
+   <zh_CN>Portugese(PT) localisation of Firefox</zh_CN>
+   <zh_TW>Portugese(PT) localisation of Firefox</zh_TW>
 </description>
 
 <installable>

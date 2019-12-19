@@ -10,51 +10,52 @@ Italian_Firefox
 </name>
 
 <description>
-   <am>Italian localisation of Firefox</am>
-   <ar>Italian localisation of Firefox</ar>
-   <bg>Italian localisation of Firefox</bg>
-   <ca>Localització de Firefox en Italià</ca>
-   <cs>Italian localisation of Firefox</cs>
-   <da>Italiensk oversættelse af Firefox</da>
-   <de>Italienische Lokalisierung von Firefox</de>
-   <el>Ιταλικός εντοπισμός του Firefox</el>
-   <en>Italian localisation of Firefox</en>
-   <es>Localización Italiana de Firefox</es>
-   <et>Italian localisation of Firefox</et>
-   <eu>Italian localisation of Firefox</eu>
-   <fa>Italian localisation of Firefox</fa>
-   <fi>Italian localisation of Firefox</fi>
-   <fr>Localisation italienne pour Firefox</fr>
-   <he_IL>Italian localisation of Firefox</he_IL>
-   <hi>Italian localisation of Firefox</hi>
-   <hr>Italian localisation of Firefox</hr>
-   <hu>Italian localisation of Firefox</hu>
-   <id>Italian localisation of Firefox</id>
-   <is>Italian localisation of Firefox</is>
-   <it>Localizzazione italiana di Firefox</it>
-   <ja_JP>Italian localisation of Firefox</ja_JP>
-   <ja>Italian localisation of Firefox</ja>
-   <kk>Italian localisation of Firefox</kk>
-   <ko>Italian localisation of Firefox</ko>
-   <lt>Italian localisation of Firefox</lt>
-   <mk>Italian localisation of Firefox</mk>
-   <mr>Italian localisation of Firefox</mr>
-   <nb>Italian localisation of Firefox</nb>
-   <nl>Italiaanse lokalisatie van Firefox</nl>
-   <pl>Włoska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Italiano Localização para Firefox</pt_BR>
-   <pt>Italiano Localização para Firefox</pt>
-   <ro>Italian localisation of Firefox</ro>
-   <ru>Итальянская локализация Firefox</ru>
-   <sk>Italian localisation of Firefox</sk>
-   <sl>Italian localisation of Firefox</sl>
-   <sq>Italian localisation of Firefox</sq>
-   <sr>Italian localisation of Firefox</sr>
-   <sv>Italiensk lokalisering av Firefox </sv>
-   <tr>Italian localisation of Firefox</tr>
-   <uk>Italian локалізація Firefox</uk>
-   <zh_CN>Italian localisation of Firefox</zh_CN>
-   <zh_TW>Italian localisation of Firefox</zh_TW>
+   <am>Italian LibreOffice Language Meta-Package</am>
+   <ar>Italian LibreOffice Language Meta-Package</ar>
+   <bg>Italian LibreOffice Language Meta-Package</bg>
+   <ca>Metapaquet de llenguatge italià per a LibreOffice</ca>
+   <cs>Italian LibreOffice Language Meta-Package</cs>
+   <da>Italiensk LibreOffice sprog-metapakke</da>
+   <de>Italienisches LibreOffice Meta-Paket</de>
+   <el>LibreOffice στα ιταλικά</el>
+   <en>Italian LibreOffice Language Meta-Package</en>
+   <es>Meta-Paquete de Idioma Italiano LibreOffice</es>
+   <et>Italian LibreOffice Language Meta-Package</et>
+   <eu>Italian LibreOffice Language Meta-Package</eu>
+   <fa>Italian LibreOffice Language Meta-Package</fa>
+   <fil_PH>Italian LibreOffice Language Meta-Package</fil_PH>
+   <fi>Italian LibreOffice Language Meta-Package</fi>
+   <fr>Méta-paquet langue italienne pour LibreOffice</fr>
+   <he_IL>Italian LibreOffice Language Meta-Package</he_IL>
+   <hi>Italian LibreOffice Language Meta-Package</hi>
+   <hr>Italian LibreOffice Language Meta-Package</hr>
+   <hu>Italian LibreOffice Language Meta-Package</hu>
+   <id>Italian LibreOffice Language Meta-Package</id>
+   <is>Italian LibreOffice Language Meta-Package</is>
+   <it>Meta-pacchetto della lingua italiana per LibreOffice</it>
+   <ja_JP>Italian LibreOffice Language Meta-Package</ja_JP>
+   <ja>Italian LibreOffice Language Meta-Package</ja>
+   <kk>Italian LibreOffice Language Meta-Package</kk>
+   <ko>Italian LibreOffice Language Meta-Package</ko>
+   <lt>Italian LibreOffice Language Meta-Package</lt>
+   <mk>Italian LibreOffice Language Meta-Package</mk>
+   <mr>Italian LibreOffice Language Meta-Package</mr>
+   <nb>Italian LibreOffice Language Meta-Package</nb>
+   <nl>Italiaanse LibreOffice Taal Meta-Pakket</nl>
+   <pl>Włoski metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Italiano Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Italiano Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Italian LibreOffice Language Meta-Package</ro>
+   <ru>Italian LibreOffice Language Meta-Package</ru>
+   <sk>Italian LibreOffice Language Meta-Package</sk>
+   <sl>Italian LibreOffice Language Meta-Package</sl>
+   <sq>Italian LibreOffice Language Meta-Package</sq>
+   <sr>Italian LibreOffice Language Meta-Package</sr>
+   <sv>Italienskt LibreOffice Språk-Meta-Paket</sv>
+   <tr>Italian LibreOffice Language Meta-Package</tr>
+   <uk>Italian LibreOffice Language Meta-Package</uk>
+   <zh_CN>Italian LibreOffice Language Meta-Package</zh_CN>
+   <zh_TW>Italian LibreOffice Language Meta-Package</zh_TW>
 </description>
 
 <installable>

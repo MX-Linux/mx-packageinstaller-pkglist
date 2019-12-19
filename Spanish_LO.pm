@@ -10,51 +10,52 @@ Spanish_Libreoffice
 </name>
 
 <description>
-   <am>Spanish Language Meta-Package for LibreOffice</am>
-   <ar>Spanish Language Meta-Package for LibreOffice</ar>
-   <bg>Spanish Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet de llengua castellana per LibreOffice</ca>
-   <cs>Spanish Language Meta-Package for LibreOffice</cs>
-   <da>Spansk sprog-metapakke til LibreOffice</da>
-   <de>Spanisches Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα ισπανικά</el>
-   <en>Spanish Language Meta-Package for LibreOffice</en>
-   <es>Meta paquete de idioma español para Firefox.</es>
-   <et>Spanish Language Meta-Package for LibreOffice</et>
-   <eu>Spanish Language Meta-Package for LibreOffice</eu>
-   <fa>Spanish Language Meta-Package for LibreOffice</fa>
-   <fi>Spanish Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue espagnole pour LibreOffice</fr>
-   <he_IL>Spanish Language Meta-Package for LibreOffice</he_IL>
-   <hi>Spanish Language Meta-Package for LibreOffice</hi>
-   <hr>Spanish Language Meta-Package for LibreOffice</hr>
-   <hu>Spanish Language Meta-Package for LibreOffice</hu>
-   <id>Spanish Language Meta-Package for LibreOffice</id>
-   <is>Spanish Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua spagnola per LibreOffice</it>
-   <ja_JP>Spanish Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Spanish Language Meta-Package for LibreOffice</ja>
-   <kk>Spanish Language Meta-Package for LibreOffice</kk>
-   <ko>Spanish Language Meta-Package for LibreOffice</ko>
-   <lt>Spanish Language Meta-Package for LibreOffice</lt>
-   <mk>Spanish Language Meta-Package for LibreOffice</mk>
-   <mr>Spanish Language Meta-Package for LibreOffice</mr>
-   <nb>Spanish Language Meta-Package for LibreOffice</nb>
-   <nl>Spaanse Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Hiszpański metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Castelhano Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Castelhano Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Spanish Language Meta-Package for LibreOffice</ro>
-   <ru>Spanish Language Meta-Package for LibreOffice</ru>
-   <sk>Spanish Language Meta-Package for LibreOffice</sk>
-   <sl>Spanish Language Meta-Package for LibreOffice</sl>
-   <sq>Spanish Language Meta-Package for LibreOffice</sq>
-   <sr>Spanish Language Meta-Package for LibreOffice</sr>
-   <sv>Spanskt Språk-Meta-Paket för LibreOffice</sv>
-   <tr>Spanish Language Meta-Package for LibreOffice</tr>
-   <uk>Spanish Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Spanish Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Spanish Language Meta-Package for LibreOffice</zh_TW>
+   <am>Spanish localisation of Thunderbird</am>
+   <ar>Spanish localisation of Thunderbird</ar>
+   <bg>Spanish localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Castellà</ca>
+   <cs>Spanish localisation of Thunderbird</cs>
+   <da>Spansk oversættelse af Thunderbird</da>
+   <de>Spanische Lokalisierung von Thunderbird</de>
+   <el>Ισπανικός εντοπισμός του Thunderbird</el>
+   <en>Spanish localisation of Thunderbird</en>
+   <es>Localización española para Thunderbird</es>
+   <et>Spanish localisation of Thunderbird</et>
+   <eu>Spanish localisation of Thunderbird</eu>
+   <fa>Spanish localisation of Thunderbird</fa>
+   <fil_PH>Spanish localisation of Thunderbird</fil_PH>
+   <fi>Spanish localisation of Thunderbird</fi>
+   <fr>Localisation espagnole pour Thunderbird</fr>
+   <he_IL>Spanish localisation of Thunderbird</he_IL>
+   <hi>Spanish localisation of Thunderbird</hi>
+   <hr>Spanish localisation of Thunderbird</hr>
+   <hu>Spanish localisation of Thunderbird</hu>
+   <id>Spanish localisation of Thunderbird</id>
+   <is>Spanish localisation of Thunderbird</is>
+   <it>Localizzazione spagnola di Thunderbird</it>
+   <ja_JP>Spanish localisation of Thunderbird</ja_JP>
+   <ja>Spanish localisation of Thunderbird</ja>
+   <kk>Spanish localisation of Thunderbird</kk>
+   <ko>Spanish localisation of Thunderbird</ko>
+   <lt>Spanish localisation of Thunderbird</lt>
+   <mk>Spanish localisation of Thunderbird</mk>
+   <mr>Spanish localisation of Thunderbird</mr>
+   <nb>Spanish localisation of Thunderbird</nb>
+   <nl>Spaanse lokalisatie van Thunderbird</nl>
+   <pl>Hiszpańska lokalizacja Thunderbirda</pl>
+   <pt_BR>Castelhano Localização para Thunderbird</pt_BR>
+   <pt>Castelhano Localização para Thunderbird</pt>
+   <ro>Spanish localisation of Thunderbird</ro>
+   <ru>Spanish localisation of Thunderbird</ru>
+   <sk>Spanish localisation of Thunderbird</sk>
+   <sl>Spanish localisation of Thunderbird</sl>
+   <sq>Spanish localisation of Thunderbird</sq>
+   <sr>Spanish localisation of Thunderbird</sr>
+   <sv>Spansk lokalisering av Thunderbird </sv>
+   <tr>Thunderbird'ün İspanyolca yerelleştirmesi</tr>
+   <uk>Spanish localisation of Thunderbird</uk>
+   <zh_CN>Spanish localisation of Thunderbird</zh_CN>
+   <zh_TW>Spanish localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

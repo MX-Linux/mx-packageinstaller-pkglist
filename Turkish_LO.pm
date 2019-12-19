@@ -10,51 +10,52 @@ Turkish_Libreoffice
 </name>
 
 <description>
-   <am>Turkish Language Meta-Package for LibreOffice</am>
-   <ar>Turkish Language Meta-Package for LibreOffice</ar>
-   <bg>Turkish Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Turkish per LibreOffice</ca>
-   <cs>Turkish Language Meta-Package for LibreOffice</cs>
-   <da>Turkish sprog-metapakke til LibreOffice</da>
-   <de>Turkish Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Turkish</el>
-   <en>Turkish Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Turkish para LibreOffice</es>
-   <et>Turkish Language Meta-Package for LibreOffice</et>
-   <eu>Turkish Language Meta-Package for LibreOffice</eu>
-   <fa>Turkish Language Meta-Package for LibreOffice</fa>
-   <fi>Turkish Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Turkish pour LibreOffice</fr>
-   <he_IL>Turkish Language Meta-Package for LibreOffice</he_IL>
-   <hi>Turkish Language Meta-Package for LibreOffice</hi>
-   <hr>Turkish Language Meta-Package for LibreOffice</hr>
-   <hu>Turkish Language Meta-Package for LibreOffice</hu>
-   <id>Turkish Language Meta-Package for LibreOffice</id>
-   <is>Turkish Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Turkish per LibreOffice</it>
-   <ja_JP>Turkish Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Turkish Language Meta-Package for LibreOffice</ja>
-   <kk>Turkish Language Meta-Package for LibreOffice</kk>
-   <ko>Turkish Language Meta-Package for LibreOffice</ko>
-   <lt>Turkish Language Meta-Package for LibreOffice</lt>
-   <mk>Turkish Language Meta-Package for LibreOffice</mk>
-   <mr>Turkish Language Meta-Package for LibreOffice</mr>
-   <nb>Turkish Language Meta-Package for LibreOffice</nb>
-   <nl>Turkish Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Turkish metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Turkish Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Turkish Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Turkish Language Meta-Package for LibreOffice</ro>
-   <ru>Turkish Language Meta-Package for LibreOffice</ru>
-   <sk>Turkish Language Meta-Package for LibreOffice</sk>
-   <sl>Turkish Language Meta-Package for LibreOffice</sl>
-   <sq>Turkish Language Meta-Package for LibreOffice</sq>
-   <sr>Turkish Language Meta-Package for LibreOffice</sr>
-   <sv>Turkish Språk Meta-Paket för LibreOffice</sv>
-   <tr>Turkish Language Meta-Package for LibreOffice</tr>
-   <uk>Turkish Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Turkish Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Turkish Language Meta-Package for LibreOffice</zh_TW>
+   <am>Turkish localisation of Thunderbird</am>
+   <ar>Turkish localisation of Thunderbird</ar>
+   <bg>Turkish localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Turc</ca>
+   <cs>Turkish localisation of Thunderbird</cs>
+   <da>Tyrkisk oversættelse af Thunderbird</da>
+   <de>Türkische Lokalisierung von Thunderbird</de>
+   <el>Τουρκικός εντοπισμός του Thunderbird</el>
+   <en>Turkish localisation of Thunderbird</en>
+   <es>Localización Turca de Thunderbird</es>
+   <et>Turkish localisation of Thunderbird</et>
+   <eu>Turkish localisation of Thunderbird</eu>
+   <fa>Turkish localisation of Thunderbird</fa>
+   <fil_PH>Turkish localisation of Thunderbird</fil_PH>
+   <fi>Turkish localisation of Thunderbird</fi>
+   <fr>Localisation turque pour Thunderbird</fr>
+   <he_IL>Turkish localisation of Thunderbird</he_IL>
+   <hi>Turkish localisation of Thunderbird</hi>
+   <hr>Turkish localisation of Thunderbird</hr>
+   <hu>Turkish localisation of Thunderbird</hu>
+   <id>Turkish localisation of Thunderbird</id>
+   <is>Turkish localisation of Thunderbird</is>
+   <it>Localizzazione turca di Thunderbird</it>
+   <ja_JP>Turkish localisation of Thunderbird</ja_JP>
+   <ja>Turkish localisation of Thunderbird</ja>
+   <kk>Turkish localisation of Thunderbird</kk>
+   <ko>Turkish localisation of Thunderbird</ko>
+   <lt>Turkish localisation of Thunderbird</lt>
+   <mk>Turkish localisation of Thunderbird</mk>
+   <mr>Turkish localisation of Thunderbird</mr>
+   <nb>Turkish localisation of Thunderbird</nb>
+   <nl>Turkse lokalisatie van Thunderbird</nl>
+   <pl>Turecka lokalizacja Thunderbirda</pl>
+   <pt_BR>Turco Localização para Thunderbird</pt_BR>
+   <pt>Turco Localização para Thunderbird</pt>
+   <ro>Turkish localisation of Thunderbird</ro>
+   <ru>Turkish localisation of Thunderbird</ru>
+   <sk>Turkish localisation of Thunderbird</sk>
+   <sl>Turkish localisation of Thunderbird</sl>
+   <sq>Turkish localisation of Thunderbird</sq>
+   <sr>Turkish localisation of Thunderbird</sr>
+   <sv>Turkisk lokalisering av Thunderbird</sv>
+   <tr>Thunderbird'ün Türkçe yerelleştirmesi</tr>
+   <uk>Turkish localisation of Thunderbird</uk>
+   <zh_CN>Turkish localisation of Thunderbird</zh_CN>
+   <zh_TW>Turkish localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

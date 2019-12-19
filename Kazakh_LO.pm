@@ -10,51 +10,52 @@ Kazakh_Libreoffice
 </name>
 
 <description>
-   <am>Kazakh Language Meta-Package for LibreOffice</am>
-   <ar>Kazakh Language Meta-Package for LibreOffice</ar>
-   <bg>Kazakh Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Kazakh per LibreOffice</ca>
-   <cs>Kazakh Language Meta-Package for LibreOffice</cs>
-   <da>Kazakh sprog-metapakke til LibreOffice</da>
-   <de>Kazakh Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Kazakh</el>
-   <en>Kazakh Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Kazakh para LibreOffice</es>
-   <et>Kazakh Language Meta-Package for LibreOffice</et>
-   <eu>Kazakh Language Meta-Package for LibreOffice</eu>
-   <fa>Kazakh Language Meta-Package for LibreOffice</fa>
-   <fi>Kazakh Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Kazakh pour LibreOffice</fr>
-   <he_IL>Kazakh Language Meta-Package for LibreOffice</he_IL>
-   <hi>Kazakh Language Meta-Package for LibreOffice</hi>
-   <hr>Kazakh Language Meta-Package for LibreOffice</hr>
-   <hu>Kazakh Language Meta-Package for LibreOffice</hu>
-   <id>Kazakh Language Meta-Package for LibreOffice</id>
-   <is>Kazakh Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Kazakh per LibreOffice</it>
-   <ja_JP>Kazakh Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Kazakh Language Meta-Package for LibreOffice</ja>
-   <kk>Kazakh Language Meta-Package for LibreOffice</kk>
-   <ko>Kazakh Language Meta-Package for LibreOffice</ko>
-   <lt>Kazakh Language Meta-Package for LibreOffice</lt>
-   <mk>Kazakh Language Meta-Package for LibreOffice</mk>
-   <mr>Kazakh Language Meta-Package for LibreOffice</mr>
-   <nb>Kazakh Language Meta-Package for LibreOffice</nb>
-   <nl>Kazakh Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Kazakh metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Kazakh Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Kazakh Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Kazakh Language Meta-Package for LibreOffice</ro>
-   <ru>Kazakh Language Meta-Package for LibreOffice</ru>
-   <sk>Kazakh Language Meta-Package for LibreOffice</sk>
-   <sl>Kazakh Language Meta-Package for LibreOffice</sl>
-   <sq>Kazakh Language Meta-Package for LibreOffice</sq>
-   <sr>Kazakh Language Meta-Package for LibreOffice</sr>
-   <sv>Kazakh Språk Meta-Paket för LibreOffice</sv>
-   <tr>Kazakh Language Meta-Package for LibreOffice</tr>
-   <uk>Kazakh Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Kazakh Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Kazakh Language Meta-Package for LibreOffice</zh_TW>
+   <am>Installs kde-standard, kde-plasma-desktop</am>
+   <ar>Installs kde-standard, kde-plasma-desktop</ar>
+   <bg>Installs kde-standard, kde-plasma-desktop</bg>
+   <ca>Instal·la kde-standard i kde-plasma-desktop</ca>
+   <cs>Installs kde-standard, kde-plasma-desktop</cs>
+   <da>Installerer kde-standard, kde-plasma-desktop</da>
+   <de>Installiert KDE-standard, KDE-plasma-desktop</de>
+   <el>Εγκατάσταση του kde-standard, kde-plasma-desktop</el>
+   <en>Installs kde-standard, kde-plasma-desktop</en>
+   <es>Instala kde-standard, kde-escritorio-plasma</es>
+   <et>Installs kde-standard, kde-plasma-desktop</et>
+   <eu>Installs kde-standard, kde-plasma-desktop</eu>
+   <fa>Installs kde-standard, kde-plasma-desktop</fa>
+   <fil_PH>Installs kde-standard, kde-plasma-desktop</fil_PH>
+   <fi>Installs kde-standard, kde-plasma-desktop</fi>
+   <fr>Installation de kde-standard, kde-plasma-desktop</fr>
+   <he_IL>Installs kde-standard, kde-plasma-desktop</he_IL>
+   <hi>Installs kde-standard, kde-plasma-desktop</hi>
+   <hr>Installs kde-standard, kde-plasma-desktop</hr>
+   <hu>Installs kde-standard, kde-plasma-desktop</hu>
+   <id>Installs kde-standard, kde-plasma-desktop</id>
+   <is>Installs kde-standard, kde-plasma-desktop</is>
+   <it>Installa kde-standard, kde-plasma-desktop</it>
+   <ja_JP>Installs kde-standard, kde-plasma-desktop</ja_JP>
+   <ja>Installs kde-standard, kde-plasma-desktop</ja>
+   <kk>Installs kde-standard, kde-plasma-desktop</kk>
+   <ko>Installs kde-standard, kde-plasma-desktop</ko>
+   <lt>Installs kde-standard, kde-plasma-desktop</lt>
+   <mk>Installs kde-standard, kde-plasma-desktop</mk>
+   <mr>Installs kde-standard, kde-plasma-desktop</mr>
+   <nb>Installs kde-standard, kde-plasma-desktop</nb>
+   <nl>Installeert kde-standard, kde-plasma-desktop</nl>
+   <pl>instaluje kde-standard, kde-plasma-desktop</pl>
+   <pt_BR>Instala os pacotes kde-standard e kde-plasma-desktop</pt_BR>
+   <pt>Instala os pacotes kde-standard e kde-plasma-desktop</pt>
+   <ro>Installs kde-standard, kde-plasma-desktop</ro>
+   <ru>Устанавливает kde-standart, kde-plasma-desktop</ru>
+   <sk>Installs kde-standard, kde-plasma-desktop</sk>
+   <sl>Namesti kde-standard in kde-plasma-desktop</sl>
+   <sq>Installs kde-standard, kde-plasma-desktop</sq>
+   <sr>Installs kde-standard, kde-plasma-desktop</sr>
+   <sv>Installerar kde-standard, kde-plasma-desktop</sv>
+   <tr>Installs kde-standard, kde-plasma-desktop</tr>
+   <uk>встановлює набори kde-standard, kde-plasma-desktop</uk>
+   <zh_CN>Installs kde-standard, kde-plasma-desktop</zh_CN>
+   <zh_TW>Installs kde-standard, kde-plasma-desktop</zh_TW>
 </description>
 
 <installable>

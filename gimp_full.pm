@@ -10,51 +10,52 @@ GIMP Full
 </name>
 
 <description>
-   <am>advanced picture editor- installs GIMP, help and plugins</am>
-   <ar>advanced picture editor- installs GIMP, help and plugins</ar>
-   <bg>advanced picture editor- installs GIMP, help and plugins</bg>
-   <ca>editor gràfic avançat; instal·la GIMP, l'ajuda i connectors</ca>
-   <cs>advanced picture editor- installs GIMP, help and plugins</cs>
-   <da>avanceret billedredigering - installerer GIMP, hjælp og plugins</da>
-   <de>Erweiterter Bildeditor - installiert GIMP, Hilfe und Plugins</de>
-   <el>επεξεργαστής εικόνων - εγκαθιστά το GIMP, βοήθεια και plugins</el>
-   <en>advanced picture editor- installs GIMP, help and plugins</en>
-   <es>Editor de imágenes avanzado. Instala GIMP, ayuda y plugins.</es>
-   <et>advanced picture editor- installs GIMP, help and plugins</et>
-   <eu>advanced picture editor- installs GIMP, help and plugins</eu>
-   <fa>advanced picture editor- installs GIMP, help and plugins</fa>
-   <fi>advanced picture editor- installs GIMP, help and plugins</fi>
-   <fr>Éditeur d'image avancé - installe Gimp, l'aide et les plugins</fr>
-   <he_IL>advanced picture editor- installs GIMP, help and plugins</he_IL>
-   <hi>advanced picture editor- installs GIMP, help and plugins</hi>
-   <hr>advanced picture editor- installs GIMP, help and plugins</hr>
-   <hu>advanced picture editor- installs GIMP, help and plugins</hu>
-   <id>advanced picture editor- installs GIMP, help and plugins</id>
-   <is>advanced picture editor- installs GIMP, help and plugins</is>
-   <it>Editor di immagini avanzato - installa GIMP, guida e plugins</it>
-   <ja_JP>advanced picture editor- installs GIMP, help and plugins</ja_JP>
-   <ja>advanced picture editor- installs GIMP, help and plugins</ja>
-   <kk>advanced picture editor- installs GIMP, help and plugins</kk>
-   <ko>advanced picture editor- installs GIMP, help and plugins</ko>
-   <lt>išplėstinis paveikslų redaktorius - įdiegia GIMP, žinyną ir įskiepius</lt>
-   <mk>advanced picture editor- installs GIMP, help and plugins</mk>
-   <mr>advanced picture editor- installs GIMP, help and plugins</mr>
-   <nb>advanced picture editor- installs GIMP, help and plugins</nb>
-   <nl>geavanceerde foto-editor - installeert GIMP, help en plugins</nl>
-   <pl>zaawansowany edytor grafiki i zdjęć - instaluje program GIMP, wtyczki i pliki pomocy</pl>
-   <pt_BR>Editor de imagem avançado - instala o GIMP, ajuda e suplementos (plugins)</pt_BR>
-   <pt>Editor de imagem avançado - instala o GIMP, ajuda e suplementos (plugins)</pt>
-   <ro>advanced picture editor- installs GIMP, help and plugins</ro>
-   <ru>Продвинутый графический редактор - установка GIMP, справка и плагины</ru>
-   <sk>advanced picture editor- installs GIMP, help and plugins</sk>
-   <sl>napredni urejevalnik slik - namesti GIMP, pomoč in vsatvke</sl>
-   <sq>advanced picture editor- installs GIMP, help and plugins</sq>
-   <sr>advanced picture editor- installs GIMP, help and plugins</sr>
-   <sv>avancerad bildredigerare - installerar GIMP, hjälp och plugins</sv>
-   <tr>advanced picture editor- installs GIMP, help and plugins</tr>
-   <uk>розширений редактор зображень - встановлює GIMP, довідку та плагіни</uk>
-   <zh_CN>advanced picture editor- installs GIMP, help and plugins</zh_CN>
-   <zh_TW>advanced picture editor- installs GIMP, help and plugins</zh_TW>
+   <am>GIT Repo tools</am>
+   <ar>GIT Repo tools</ar>
+   <bg>GIT Repo tools</bg>
+   <ca>eines per al dipòsit GIT</ca>
+   <cs>GIT Repo tools</cs>
+   <da>GIT-softwarekildeværktøjer</da>
+   <de>GIT Repo Werkzeuge</de>
+   <el>Εργαλεία GIT</el>
+   <en>GIT Repo tools</en>
+   <es>Herramientas de repositorio GIT</es>
+   <et>GIT Repo tools</et>
+   <eu>GIT Repo tools</eu>
+   <fa>GIT Repo tools</fa>
+   <fil_PH>GIT Repo tools</fil_PH>
+   <fi>GIT Repo tools</fi>
+   <fr>Outils pour dépôt GIT</fr>
+   <he_IL>GIT Repo tools</he_IL>
+   <hi>GIT Repo tools</hi>
+   <hr>GIT Repo tools</hr>
+   <hu>GIT Repo tools</hu>
+   <id>GIT Repo tools</id>
+   <is>GIT Repo tools</is>
+   <it>Strumenti GIT Repo</it>
+   <ja_JP>GIT Repo tools</ja_JP>
+   <ja>GIT Repo tools</ja>
+   <kk>GIT Repo tools</kk>
+   <ko>GIT Repo tools</ko>
+   <lt>GIT saugyklos įrankiai</lt>
+   <mk>GIT Repo tools</mk>
+   <mr>GIT Repo tools</mr>
+   <nb>GIT Repo tools</nb>
+   <nl>GIT Pakketbron Gereedschappen</nl>
+   <pl>repozytorium narzędzi GIT</pl>
+   <pt_BR>Ferramentas GIT Repo</pt_BR>
+   <pt>Ferramentas GIT Repo</pt>
+   <ro>GIT Repo tools</ro>
+   <ru>Инструменты репозитория GIT</ru>
+   <sk>GIT Repo tools</sk>
+   <sl>orodja za GIT repozitorije</sl>
+   <sq>GIT Repo tools</sq>
+   <sr>GIT Repo tools</sr>
+   <sv>GIT Förråds verktyg</sv>
+   <tr>GIT Repo tools</tr>
+   <uk>інструменти сховища GIT</uk>
+   <zh_CN>GIT Repo tools</zh_CN>
+   <zh_TW>GIT Repo tools</zh_TW>
 </description>
 
 <installable>

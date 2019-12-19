@@ -10,51 +10,52 @@ Pidgin
 </name>
 
 <description>
-   <am>an easy to use and free chat client</am>
-   <ar>an easy to use and free chat client</ar>
-   <bg>an easy to use and free chat client</bg>
-   <ca>client de xat lliure i fàcil d'usar</ca>
-   <cs>an easy to use and free chat client</cs>
-   <da>en letanvendelig og fri chat-klient</da>
-   <de>Ein einfach zu bedienender und kostenloser Chat-Client</de>
-   <el>ένα εύκολο στη χρήση και δωρεάν πελάτη συνομιλίας</el>
-   <en>an easy to use and free chat client</en>
-   <es>Un cliente de chat fácil de usar y gratuito.</es>
-   <et>an easy to use and free chat client</et>
-   <eu>an easy to use and free chat client</eu>
-   <fa>an easy to use and free chat client</fa>
-   <fi>an easy to use and free chat client</fi>
-   <fr>Un client de discussion libre et facile d'utilisation</fr>
-   <he_IL>an easy to use and free chat client</he_IL>
-   <hi>an easy to use and free chat client</hi>
-   <hr>an easy to use and free chat client</hr>
-   <hu>an easy to use and free chat client</hu>
-   <id>an easy to use and free chat client</id>
-   <is>an easy to use and free chat client</is>
-   <it>client chat libero e di facile uso</it>
-   <ja_JP>an easy to use and free chat client</ja_JP>
-   <ja>an easy to use and free chat client</ja>
-   <kk>an easy to use and free chat client</kk>
-   <ko>an easy to use and free chat client</ko>
-   <lt>an easy to use and free chat client</lt>
-   <mk>an easy to use and free chat client</mk>
-   <mr>an easy to use and free chat client</mr>
-   <nb>an easy to use and free chat client</nb>
-   <nl>een gebruiksvriendelijk en gratis chatprogramma</nl>
-   <pl>łatwy w użyciu i darmowy klient czatu</pl>
-   <pt_BR>Cliente de 'chat' livre e fácil de usar</pt_BR>
-   <pt>Cliente de 'chat' livre e fácil de usar</pt>
-   <ro>an easy to use and free chat client</ro>
-   <ru>Простой в использовании многопротокольный клиент мгновенных сообщений</ru>
-   <sk>an easy to use and free chat client</sk>
-   <sl>Brezplačen in enostaven odjemalec za klepet</sl>
-   <sq>an easy to use and free chat client</sq>
-   <sr>an easy to use and free chat client</sr>
-   <sv>en lättanvänd och fri chattklient</sv>
-   <tr>an easy to use and free chat client</tr>
-   <uk>легкий у користуванні та вільний чат клієнт</uk>
-   <zh_CN>an easy to use and free chat client</zh_CN>
-   <zh_TW>an easy to use and free chat client</zh_TW>
+   <am>a native Pandora Radio client</am>
+   <ar>a native Pandora Radio client</ar>
+   <bg>a native Pandora Radio client</bg>
+   <ca>client nadiu de Pandora Radio</ca>
+   <cs>a native Pandora Radio client</cs>
+   <da>en native Pandora radio-klient</da>
+   <de>Ein einheimischer Pandora-Radio-Client</de>
+   <el>Pandora Radio</el>
+   <en>a native Pandora Radio client</en>
+   <es>Cliente de radio de Pandora nativo</es>
+   <et>a native Pandora Radio client</et>
+   <eu>a native Pandora Radio client</eu>
+   <fa>a native Pandora Radio client</fa>
+   <fil_PH>a native Pandora Radio client</fil_PH>
+   <fi>a native Pandora Radio client</fi>
+   <fr>Client Radio natif Pandora</fr>
+   <he_IL>a native Pandora Radio client</he_IL>
+   <hi>a native Pandora Radio client</hi>
+   <hr>a native Pandora Radio client</hr>
+   <hu>a native Pandora Radio client</hu>
+   <id>a native Pandora Radio client</id>
+   <is>a native Pandora Radio client</is>
+   <it>client per la radio web Pandora</it>
+   <ja_JP>a native Pandora Radio client</ja_JP>
+   <ja>a native Pandora Radio client</ja>
+   <kk>a native Pandora Radio client</kk>
+   <ko>a native Pandora Radio client</ko>
+   <lt>a native Pandora Radio client</lt>
+   <mk>a native Pandora Radio client</mk>
+   <mr>a native Pandora Radio client</mr>
+   <nb>a native Pandora Radio client</nb>
+   <nl>een origineel Pandora Radio programma</nl>
+   <pl>natywny klient Radio Pandora</pl>
+   <pt_BR>Cliente para Pandora Radio (uma emissora americana)</pt_BR>
+   <pt>Cliente para Pandora Radio (uma emissora americana)</pt>
+   <ro>a native Pandora Radio client</ro>
+   <ru>Нативный клиент сервиса потокового аудио Pandora (радио)</ru>
+   <sk>a native Pandora Radio client</sk>
+   <sl>Odjemalec za Pandora radio</sl>
+   <sq>a native Pandora Radio client</sq>
+   <sr>a native Pandora Radio client</sr>
+   <sv>en naturlig Pandora Radio klient</sv>
+   <tr>a native Pandora Radio client</tr>
+   <uk>a native Pandora Radio client</uk>
+   <zh_CN>a native Pandora Radio client</zh_CN>
+   <zh_TW>a native Pandora Radio client</zh_TW>
 </description>
 
 <installable>

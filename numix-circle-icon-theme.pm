@@ -10,51 +10,52 @@ Numix Circle Icons
 </name>
 
 <description>
-   <am>numix circular icons</am>
-   <ar>numix circular icons</ar>
-   <bg>numix circular icons</bg>
-   <ca>Icones circulars numix</ca>
-   <cs>numix circular icons</cs>
-   <da>numix cirkulære ikoner</da>
-   <de>Symbolthema Numix Circle</de>
-   <el>εικονίδια numix κυκλικά</el>
-   <en>numix circular icons</en>
-   <es>Numix iconos circulares</es>
-   <et>numix circular icons</et>
-   <eu>numix circular icons</eu>
-   <fa>numix circular icons</fa>
-   <fi>numix circular icons</fi>
-   <fr>icons numix sous forme de cercles</fr>
-   <he_IL>numix circular icons</he_IL>
-   <hi>numix circular icons</hi>
-   <hr>numix circular icons</hr>
-   <hu>numix circular icons</hu>
-   <id>numix circular icons</id>
-   <is>numix circular icons</is>
-   <it>numix icone rotonde</it>
-   <ja_JP>numix circular icons</ja_JP>
-   <ja>numix circular icons</ja>
-   <kk>numix circular icons</kk>
-   <ko>numix circular icons</ko>
-   <lt>numix circular icons</lt>
-   <mk>numix circular icons</mk>
-   <mr>numix circular icons</mr>
-   <nb>numix circular icons</nb>
-   <nl>numix cirkelvormige iconen</nl>
-   <pl>okrągłe ikony numix</pl>
-   <pt_BR>Ícones circulares numix</pt_BR>
-   <pt>Ícones circulares numix</pt>
-   <ro>numix circular icons</ro>
-   <ru>Круглые значки Numix</ru>
-   <sk>numix circular icons</sk>
-   <sl>Okrogle numix ikone</sl>
-   <sq>numix circular icons</sq>
-   <sr>numix circular icons</sr>
-   <sv>numix cirkelrunda ikoner</sv>
-   <tr>numix circular icons</tr>
-   <uk>numix circular icons</uk>
-   <zh_CN>numix circular icons</zh_CN>
-   <zh_TW>numix circular icons</zh_TW>
+   <am>a dark Gtk Theme</am>
+   <ar>a dark Gtk Theme</ar>
+   <bg>a dark Gtk Theme</bg>
+   <ca>un tema GTK fosc</ca>
+   <cs>a dark Gtk Theme</cs>
+   <da>et mørkt Gtk-tema</da>
+   <de>Ein dunkles Gtk-Thema</de>
+   <el>ένα σκοτεινό θέμα Gtk</el>
+   <en>a dark Gtk Theme</en>
+   <es>Tema GTK oscuro</es>
+   <et>a dark Gtk Theme</et>
+   <eu>a dark Gtk Theme</eu>
+   <fa>a dark Gtk Theme</fa>
+   <fil_PH>a dark Gtk Theme</fil_PH>
+   <fi>tumma Gtk ulkoasu</fi>
+   <fr>Thème sombre GTK</fr>
+   <he_IL>a dark Gtk Theme</he_IL>
+   <hi>a dark Gtk Theme</hi>
+   <hr>a dark Gtk Theme</hr>
+   <hu>a dark Gtk Theme</hu>
+   <id>a dark Gtk Theme</id>
+   <is>a dark Gtk Theme</is>
+   <it>un tema Gtk scuro</it>
+   <ja_JP>a dark Gtk Theme</ja_JP>
+   <ja>a dark Gtk Theme</ja>
+   <kk>a dark Gtk Theme</kk>
+   <ko>a dark Gtk Theme</ko>
+   <lt>tamsi Gtk tema</lt>
+   <mk>a dark Gtk Theme</mk>
+   <mr>a dark Gtk Theme</mr>
+   <nb>a dark Gtk Theme</nb>
+   <nl>een donker Gtk thema</nl>
+   <pl>ciemny motyw GTK</pl>
+   <pt_BR>Tema escuro para Gtk</pt_BR>
+   <pt>Tema escuro para Gtk</pt>
+   <ro>a dark Gtk Theme</ro>
+   <ru>Тёмная тема GTK</ru>
+   <sk>a dark Gtk Theme</sk>
+   <sl>Temna Gtk predloga</sl>
+   <sq>a dark Gtk Theme</sq>
+   <sr>a dark Gtk Theme</sr>
+   <sv>ett mörkt Gtk Tema</sv>
+   <tr>a dark Gtk Theme</tr>
+   <uk>темна Gtk-тема</uk>
+   <zh_CN>a dark Gtk Theme</zh_CN>
+   <zh_TW>a dark Gtk Theme</zh_TW>
 </description>
 
 <installable>

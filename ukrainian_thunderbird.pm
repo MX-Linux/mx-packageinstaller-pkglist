@@ -10,51 +10,52 @@ Ukrainian_Thunderbird
 </name>
 
 <description>
-   <am>Ukrainian localisation of Thunderbird</am>
-   <ar>Ukrainian localisation of Thunderbird</ar>
-   <bg>Ukrainian localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Ucrainès</ca>
-   <cs>Ukrainian localisation of Thunderbird</cs>
-   <da>Ukrainsk oversættelse af Thunderbird</da>
-   <de>Ukrainische Lokalisierung von Thunderbird</de>
-   <el>Ουκρανικός εντοπισμός του Thunderbird</el>
-   <en>Ukrainian localisation of Thunderbird</en>
-   <es>Localización Ucraniana de Thunderbird</es>
-   <et>Ukrainian localisation of Thunderbird</et>
-   <eu>Ukrainian localisation of Thunderbird</eu>
-   <fa>Ukrainian localisation of Thunderbird</fa>
-   <fi>Ukrainian localisation of Thunderbird</fi>
-   <fr>Localisation ukrainienne pour Thunderbird</fr>
-   <he_IL>Ukrainian localisation of Thunderbird</he_IL>
-   <hi>Ukrainian localisation of Thunderbird</hi>
-   <hr>Ukrainian localisation of Thunderbird</hr>
-   <hu>Ukrainian localisation of Thunderbird</hu>
-   <id>Ukrainian localisation of Thunderbird</id>
-   <is>Ukrainian localisation of Thunderbird</is>
-   <it>Localizzazione ucraina di Thunderbird</it>
-   <ja_JP>Ukrainian localisation of Thunderbird</ja_JP>
-   <ja>Ukrainian localisation of Thunderbird</ja>
-   <kk>Ukrainian localisation of Thunderbird</kk>
-   <ko>Ukrainian localisation of Thunderbird</ko>
-   <lt>Ukrainian localisation of Thunderbird</lt>
-   <mk>Ukrainian localisation of Thunderbird</mk>
-   <mr>Ukrainian localisation of Thunderbird</mr>
-   <nb>Ukrainian localisation of Thunderbird</nb>
-   <nl>Oekraïense lokalisatie van Thunderbird</nl>
-   <pl>Ukraińska lokalizacja Thunderbirda</pl>
-   <pt_BR>Ucraniano Localização para Thunderbird</pt_BR>
-   <pt>Ucraniano Localização para Thunderbird</pt>
-   <ro>Ukrainian localisation of Thunderbird</ro>
-   <ru>Ukrainian localisation of Thunderbird</ru>
-   <sk>Ukrainian localisation of Thunderbird</sk>
-   <sl>Ukrainian localisation of Thunderbird</sl>
-   <sq>Ukrainian localisation of Thunderbird</sq>
-   <sr>Ukrainian localisation of Thunderbird</sr>
-   <sv>Ukrainsk lokalisering av Thunderbird</sv>
-   <tr>Ukrainian localisation of Thunderbird</tr>
-   <uk>Ukrainian localisation of Thunderbird</uk>
-   <zh_CN>Ukrainian localisation of Thunderbird</zh_CN>
-   <zh_TW>Ukrainian localisation of Thunderbird</zh_TW>
+   <am>Uzbek Language Meta-Package for LibreOffice</am>
+   <ar>Uzbek Language Meta-Package for LibreOffice</ar>
+   <bg>Uzbek Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Uzbek per LibreOffice</ca>
+   <cs>Uzbek Language Meta-Package for LibreOffice</cs>
+   <da>Uzbek Language Meta-Package for LibreOffice</da>
+   <de>Usbekisches Meta-Paket für LibreOffice</de>
+   <el>Uzbek Language Meta-Package for LibreOffice</el>
+   <en>Uzbek Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete de idioma uzbeko para LibreOffice</es>
+   <et>Uzbek Language Meta-Package for LibreOffice</et>
+   <eu>Uzbek Language Meta-Package for LibreOffice</eu>
+   <fa>Uzbek Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Uzbek Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Uzbek Language Meta-Package for LibreOffice</fi>
+   <fr>Uzbek Language Meta-Package for LibreOffice</fr>
+   <he_IL>Uzbek Language Meta-Package for LibreOffice</he_IL>
+   <hi>Uzbek Language Meta-Package for LibreOffice</hi>
+   <hr>Uzbek Language Meta-Package for LibreOffice</hr>
+   <hu>Uzbek Language Meta-Package for LibreOffice</hu>
+   <id>Uzbek Language Meta-Package for LibreOffice</id>
+   <is>Uzbek Language Meta-Package for LibreOffice</is>
+   <it>Uzbek Language Meta-Package for LibreOffice</it>
+   <ja_JP>Uzbek Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Uzbek Language Meta-Package for LibreOffice</ja>
+   <kk>Uzbek Language Meta-Package for LibreOffice</kk>
+   <ko>Uzbek Language Meta-Package for LibreOffice</ko>
+   <lt>Uzbek Language Meta-Package for LibreOffice</lt>
+   <mk>Uzbek Language Meta-Package for LibreOffice</mk>
+   <mr>Uzbek Language Meta-Package for LibreOffice</mr>
+   <nb>Uzbek Language Meta-Package for LibreOffice</nb>
+   <nl>Uzbek Language Meta-Package for LibreOffice</nl>
+   <pl>Uzbek Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Uzbek Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Uzbeque Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Uzbek Language Meta-Package for LibreOffice</ro>
+   <ru>Uzbek Language Meta-Package for LibreOffice</ru>
+   <sk>Uzbek Language Meta-Package for LibreOffice</sk>
+   <sl>Uzbeški jezikovni meta-paket za LibreOffice</sl>
+   <sq>Uzbek Language Meta-Package for LibreOffice</sq>
+   <sr>Uzbek Language Meta-Package for LibreOffice</sr>
+   <sv>Uzbekiskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Uzbek Language Meta-Package for LibreOffice</tr>
+   <uk>Uzbek Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Uzbek Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Uzbek Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

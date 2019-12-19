@@ -10,51 +10,52 @@ Opera
 </name>
 
 <description>
-   <am>Opera browser</am>
-   <ar>Opera browser</ar>
-   <bg>Opera browser</bg>
-   <ca>Navegador Opera</ca>
-   <cs>Opera browser</cs>
-   <da>Opera-browser</da>
-   <de>Opera-Browser</de>
-   <el>Πρόγραμμα περιήγησης Opera</el>
-   <en>Opera browser</en>
-   <es>Navegador Opera</es>
-   <et>Opera browser</et>
-   <eu>Opera browser</eu>
-   <fa>Opera browser</fa>
-   <fi>Opera-nettiselain</fi>
-   <fr>Navigateur Opera</fr>
-   <he_IL>Opera browser</he_IL>
-   <hi>Opera browser</hi>
-   <hr>Opera browser</hr>
-   <hu>Opera browser</hu>
-   <id>Opera browser</id>
-   <is>Opera browser</is>
-   <it>Opera browser</it>
-   <ja_JP>Opera browser</ja_JP>
-   <ja>Opera browser</ja>
-   <kk>Opera browser</kk>
-   <ko>Opera browser</ko>
-   <lt>Opera naršyklė</lt>
-   <mk>Opera browser</mk>
-   <mr>Opera browser</mr>
-   <nb>Opera browser</nb>
-   <nl>Opera browser</nl>
-   <pl>przeglądarka Opera</pl>
-   <pt_BR>Navegador web Opera</pt_BR>
-   <pt>Navegador web Opera</pt>
-   <ro>Opera browser</ro>
-   <ru>Браузер Opera</ru>
-   <sk>Opera browser</sk>
-   <sl>Opera brskalnik</sl>
-   <sq>Opera browser</sq>
-   <sr>Opera browser</sr>
-   <sv>Opera webbläsare</sv>
-   <tr>Opera browser</tr>
-   <uk>Браузер Opera</uk>
-   <zh_CN>Opera browser</zh_CN>
-   <zh_TW>Opera browser</zh_TW>
+   <am>Oromo Language Meta-Package for LibreOffice</am>
+   <ar>Oromo Language Meta-Package for LibreOffice</ar>
+   <bg>Oromo Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Oromo per LibreOffice</ca>
+   <cs>Oromo Language Meta-Package for LibreOffice</cs>
+   <da>Oromo Language Meta-Package for LibreOffice</da>
+   <de>Oromo Meta-Paket für LibreOffice</de>
+   <el>Oromo Language Meta-Package for LibreOffice</el>
+   <en>Oromo Language Meta-Package for LibreOffice</en>
+   <es>Meta-Paquete Oromo Language para LibreOffice</es>
+   <et>Oromo Language Meta-Package for LibreOffice</et>
+   <eu>Oromo Language Meta-Package for LibreOffice</eu>
+   <fa>Oromo Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Oromo Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Oromo Language Meta-Package for LibreOffice</fi>
+   <fr>Oromo Language Meta-Package for LibreOffice</fr>
+   <he_IL>Oromo Language Meta-Package for LibreOffice</he_IL>
+   <hi>Oromo Language Meta-Package for LibreOffice</hi>
+   <hr>Oromo Language Meta-Package for LibreOffice</hr>
+   <hu>Oromo Language Meta-Package for LibreOffice</hu>
+   <id>Oromo Language Meta-Package for LibreOffice</id>
+   <is>Oromo Language Meta-Package for LibreOffice</is>
+   <it>Oromo Language Meta-Package for LibreOffice</it>
+   <ja_JP>Oromo Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Oromo Language Meta-Package for LibreOffice</ja>
+   <kk>Oromo Language Meta-Package for LibreOffice</kk>
+   <ko>Oromo Language Meta-Package for LibreOffice</ko>
+   <lt>Oromo Language Meta-Package for LibreOffice</lt>
+   <mk>Oromo Language Meta-Package for LibreOffice</mk>
+   <mr>Oromo Language Meta-Package for LibreOffice</mr>
+   <nb>Oromo Language Meta-Package for LibreOffice</nb>
+   <nl>Oromo Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Oromo Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Oromo Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Oromo Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Oromo Language Meta-Package for LibreOffice</ro>
+   <ru>Oromo Language Meta-Package for LibreOffice</ru>
+   <sk>Oromo Language Meta-Package for LibreOffice</sk>
+   <sl>Oromski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Oromo Language Meta-Package for LibreOffice</sq>
+   <sr>Oromo Language Meta-Package for LibreOffice</sr>
+   <sv>Oromo Språk Meta-Paket för LibreOffice</sv>
+   <tr>Oromo Language Meta-Package for LibreOffice</tr>
+   <uk>Oromo Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Oromo Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Oromo Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ Slovak_Firefox
 </name>
 
 <description>
-   <am>Slovak localisation of Firefox</am>
-   <ar>Slovak localisation of Firefox</ar>
-   <bg>Slovak localisation of Firefox</bg>
-   <ca>Localització de Firefox en Eslovac</ca>
-   <cs>Slovak localisation of Firefox</cs>
-   <da>Slovakisk oversættelse af Firefox</da>
-   <de>Slowakische Lokalisierung von Firefox</de>
-   <el>Σλοβακικός εντοπισμός του Firefox</el>
-   <en>Slovak localisation of Firefox</en>
-   <es>Localización Eslovaca de Firefox</es>
-   <et>Slovak localisation of Firefox</et>
-   <eu>Slovak localisation of Firefox</eu>
-   <fa>Slovak localisation of Firefox</fa>
-   <fi>Slovak localisation of Firefox</fi>
-   <fr>Localisation slovaque pour Firefox</fr>
-   <he_IL>Slovak localisation of Firefox</he_IL>
-   <hi>Slovak localisation of Firefox</hi>
-   <hr>Slovak localisation of Firefox</hr>
-   <hu>Slovak localisation of Firefox</hu>
-   <id>Slovak localisation of Firefox</id>
-   <is>Slovak localisation of Firefox</is>
-   <it>Localizzazione slovacca di Firefox</it>
-   <ja_JP>Slovak localisation of Firefox</ja_JP>
-   <ja>Slovak localisation of Firefox</ja>
-   <kk>Slovak localisation of Firefox</kk>
-   <ko>Slovak localisation of Firefox</ko>
-   <lt>Slovak localisation of Firefox</lt>
-   <mk>Slovak localisation of Firefox</mk>
-   <mr>Slovak localisation of Firefox</mr>
-   <nb>Slovak localisation of Firefox</nb>
-   <nl>Slovaakse lokalisatie van Firefox</nl>
-   <pl>Słowacka lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Eslovaco Localização para Firefox</pt_BR>
-   <pt>Eslovaco Localização para Firefox</pt>
-   <ro>Slovak localisation of Firefox</ro>
-   <ru>Словацкая локализация Firefox</ru>
-   <sk>Slovak localisation of Firefox</sk>
-   <sl>Slovak localisation of Firefox</sl>
-   <sq>Slovak localisation of Firefox</sq>
-   <sr>Slovak localisation of Firefox</sr>
-   <sv>Slovakisk lokalisering av Firefox</sv>
-   <tr>Slovak localisation of Firefox</tr>
-   <uk>Slovak localisation of Firefox</uk>
-   <zh_CN>Slovak localisation of Firefox</zh_CN>
-   <zh_TW>Slovak localisation of Firefox</zh_TW>
+   <am>Slovak Language Meta-Package for LibreOffice</am>
+   <ar>Slovak Language Meta-Package for LibreOffice</ar>
+   <bg>Slovak Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Eslovac per LibreOffice</ca>
+   <cs>Slovak Language Meta-Package for LibreOffice</cs>
+   <da>Slovak Language Meta-Package for LibreOffice</da>
+   <de>Slowakisches Meta-Paket für LibreOffice</de>
+   <el>Slovak Language Meta-Package for LibreOffice</el>
+   <en>Slovak Language Meta-Package for LibreOffice</en>
+   <es>Metapaquete de idioma eslovaco para LibreOffice</es>
+   <et>Slovak Language Meta-Package for LibreOffice</et>
+   <eu>Slovak Language Meta-Package for LibreOffice</eu>
+   <fa>Slovak Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Slovak Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Slovak Language Meta-Package for LibreOffice</fi>
+   <fr>Slovak Language Meta-Package for LibreOffice</fr>
+   <he_IL>Slovak Language Meta-Package for LibreOffice</he_IL>
+   <hi>Slovak Language Meta-Package for LibreOffice</hi>
+   <hr>Slovak Language Meta-Package for LibreOffice</hr>
+   <hu>Slovak Language Meta-Package for LibreOffice</hu>
+   <id>Slovak Language Meta-Package for LibreOffice</id>
+   <is>Slovak Language Meta-Package for LibreOffice</is>
+   <it>Slovak Language Meta-Package for LibreOffice</it>
+   <ja_JP>Slovak Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Slovak Language Meta-Package for LibreOffice</ja>
+   <kk>Slovak Language Meta-Package for LibreOffice</kk>
+   <ko>Slovak Language Meta-Package for LibreOffice</ko>
+   <lt>Slovak Language Meta-Package for LibreOffice</lt>
+   <mk>Slovak Language Meta-Package for LibreOffice</mk>
+   <mr>Slovak Language Meta-Package for LibreOffice</mr>
+   <nb>Slovak Language Meta-Package for LibreOffice</nb>
+   <nl>Slovak Language Meta-Package for LibreOffice</nl>
+   <pl>Slovak Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Slovak Language Meta-Package for LibreOffice</pt_BR>
+   <pt>ESlovaco Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Slovak Language Meta-Package for LibreOffice</ro>
+   <ru>Slovak Language Meta-Package for LibreOffice</ru>
+   <sk>Slovak Language Meta-Package for LibreOffice</sk>
+   <sl>Slovaški jezikovni meta-paket za LibreOffice</sl>
+   <sq>Slovak Language Meta-Package for LibreOffice</sq>
+   <sr>Slovak Language Meta-Package for LibreOffice</sr>
+   <sv>Slovakiskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Slovak Language Meta-Package for LibreOffice</tr>
+   <uk>Slovak Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Slovak Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Slovak Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ LXDE
 </name>
 
 <description>
-   <am>basic install of LXDE</am>
-   <ar>basic install of LXDE</ar>
-   <bg>basic install of LXDE</bg>
-   <ca>Instal·lació bàsica de LXDE</ca>
-   <cs>basic install of LXDE</cs>
-   <da>grundlæggende installation af LXDE</da>
-   <de>Grundinstallation von LXDE</de>
-   <el>βασική εγκατάσταση του LXDE</el>
-   <en>basic install of LXDE</en>
-   <es>Instalación mínima de LXDE</es>
-   <et>basic install of LXDE</et>
-   <eu>basic install of LXDE</eu>
-   <fa>basic install of LXDE</fa>
-   <fi>LXDE-työpöydän perusasennus</fi>
-   <fr>Installation de base du bureau LXDE</fr>
-   <he_IL>basic install of LXDE</he_IL>
-   <hi>basic install of LXDE</hi>
-   <hr>basic install of LXDE</hr>
-   <hu>basic install of LXDE</hu>
-   <id>basic install of LXDE</id>
-   <is>basic install of LXDE</is>
-   <it>installazione base di LXDE</it>
-   <ja_JP>basic install of LXDE</ja_JP>
-   <ja>basic install of LXDE</ja>
-   <kk>basic install of LXDE</kk>
-   <ko>basic install of LXDE</ko>
-   <lt>basic install of LXDE</lt>
-   <mk>basic install of LXDE</mk>
-   <mr>basic install of LXDE</mr>
-   <nb>basic install of LXDE</nb>
-   <nl>basisinstallatie van LXDE</nl>
-   <pl>podstawowa instalacja LXDE</pl>
-   <pt_BR>Instalação básica do Ambiente de Trabalho LXDE</pt_BR>
-   <pt>Instalação básica do Ambiente de Trabalho LXDE</pt>
-   <ro>basic install of LXDE</ro>
-   <ru>Базовая установка LXDE</ru>
-   <sk>basic install of LXDE</sk>
-   <sl>Osnovna namestitev LXDE</sl>
-   <sq>basic install of LXDE</sq>
-   <sr>basic install of LXDE</sr>
-   <sv>enkel installation av LXDE</sv>
-   <tr>basic install of LXDE</tr>
-   <uk>базовий набір стільниці LXDE</uk>
-   <zh_CN>basic install of LXDE</zh_CN>
-   <zh_TW>basic install of LXDE</zh_TW>
+   <am>Macedonian Language Meta-Package for LibreOffice</am>
+   <ar>Macedonian Language Meta-Package for LibreOffice</ar>
+   <bg>Macedonian Language Meta-Package for LibreOffice</bg>
+   <ca>Metapaquet d'idioma Macedoni per LibreOffice</ca>
+   <cs>Macedonian Language Meta-Package for LibreOffice</cs>
+   <da>Macedonian Language Meta-Package for LibreOffice</da>
+   <de>Mazedonisches Meta-Paket für LibreOffice</de>
+   <el>Macedonian Language Meta-Package for LibreOffice</el>
+   <en>Macedonian Language Meta-Package for LibreOffice</en>
+   <es>Metapaquete de idioma macedonio para LibreOffice</es>
+   <et>Macedonian Language Meta-Package for LibreOffice</et>
+   <eu>Macedonian Language Meta-Package for LibreOffice</eu>
+   <fa>Macedonian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Macedonian Language Meta-Package for LibreOffice</fil_PH>
+   <fi>Macedonian Language Meta-Package for LibreOffice</fi>
+   <fr>Macedonian Language Meta-Package for LibreOffice</fr>
+   <he_IL>Macedonian Language Meta-Package for LibreOffice</he_IL>
+   <hi>Macedonian Language Meta-Package for LibreOffice</hi>
+   <hr>Macedonian Language Meta-Package for LibreOffice</hr>
+   <hu>Macedonian Language Meta-Package for LibreOffice</hu>
+   <id>Macedonian Language Meta-Package for LibreOffice</id>
+   <is>Macedonian Language Meta-Package for LibreOffice</is>
+   <it>Macedonian Language Meta-Package for LibreOffice</it>
+   <ja_JP>Macedonian Language Meta-Package for LibreOffice</ja_JP>
+   <ja>Macedonian Language Meta-Package for LibreOffice</ja>
+   <kk>Macedonian Language Meta-Package for LibreOffice</kk>
+   <ko>Macedonian Language Meta-Package for LibreOffice</ko>
+   <lt>Macedonian Language Meta-Package for LibreOffice</lt>
+   <mk>Macedonian Language Meta-Package for LibreOffice</mk>
+   <mr>Macedonian Language Meta-Package for LibreOffice</mr>
+   <nb>Macedonian Language Meta-Package for LibreOffice</nb>
+   <nl>Macedonisch Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Macedonian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Macedonian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Macedónio Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Macedonian Language Meta-Package for LibreOffice</ro>
+   <ru>Macedonian Language Meta-Package for LibreOffice</ru>
+   <sk>Macedonian Language Meta-Package for LibreOffice</sk>
+   <sl>Makedonski jezikovni meta-paket za LibreOffice</sl>
+   <sq>Macedonian Language Meta-Package for LibreOffice</sq>
+   <sr>Macedonian Language Meta-Package for LibreOffice</sr>
+   <sv>Macedoniskt Språk Meta-Paket för LibreOffice</sv>
+   <tr>Macedonian Language Meta-Package for LibreOffice</tr>
+   <uk>Macedonian Language Meta-Package for LibreOffice</uk>
+   <zh_CN>Macedonian Language Meta-Package for LibreOffice</zh_CN>
+   <zh_TW>Macedonian Language Meta-Package for LibreOffice</zh_TW>
 </description>
 
 <installable>

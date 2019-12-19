@@ -10,51 +10,52 @@ Catalan_Firefox
 </name>
 
 <description>
-   <am>Catalan localisation of Firefox</am>
-   <ar>Catalan localisation of Firefox</ar>
-   <bg>Catalan localisation of Firefox</bg>
-   <ca>Localització de Firefox en Català</ca>
-   <cs>Catalan localisation of Firefox</cs>
-   <da>Catalansk oversættelse af Firefox</da>
-   <de>Katalanische Lokalisierung von Firefox</de>
-   <el>Καταλανική εντοπισμός του Firefox</el>
-   <en>Catalan localisation of Firefox</en>
-   <es>Localización Catalana para Firefox</es>
-   <et>Catalan localisation of Firefox</et>
-   <eu>Catalan localisation of Firefox</eu>
-   <fa>Catalan localisation of Firefox</fa>
-   <fi>Catalan localisation of Firefox</fi>
-   <fr>Localisation catalane pour Firefox</fr>
-   <he_IL>Catalan localisation of Firefox</he_IL>
-   <hi>Catalan localisation of Firefox</hi>
-   <hr>Catalan localisation of Firefox</hr>
-   <hu>Catalan localisation of Firefox</hu>
-   <id>Catalan localisation of Firefox</id>
-   <is>Catalan localisation of Firefox</is>
-   <it>Localizzazione catalana di Firefox</it>
-   <ja_JP>Catalan localisation of Firefox</ja_JP>
-   <ja>Catalan localisation of Firefox</ja>
-   <kk>Catalan localisation of Firefox</kk>
-   <ko>Catalan localisation of Firefox</ko>
-   <lt>Catalan localisation of Firefox</lt>
-   <mk>Catalan localisation of Firefox</mk>
-   <mr>Catalan localisation of Firefox</mr>
-   <nb>Catalan localisation of Firefox</nb>
-   <nl>Catalaanse lokalisatie van Firefox</nl>
-   <pl>Katalońska lokalizacja przeglądarki Firefox</pl>
-   <pt_BR>Catalão Localização para Firefox</pt_BR>
-   <pt>Catalão Localização para Firefox</pt>
-   <ro>Catalan localisation of Firefox</ro>
-   <ru>Каталонская локализация Firefox</ru>
-   <sk>Catalan localisation of Firefox</sk>
-   <sl>Catalan localisation of Firefox</sl>
-   <sq>Catalan localisation of Firefox</sq>
-   <sr>Catalan localisation of Firefox</sr>
-   <sv>Katalansk lokalisering av Firefox</sv>
-   <tr>Catalan localisation of Firefox</tr>
-   <uk>Catalan локалізація Firefox</uk>
-   <zh_CN>Catalan localisation of Firefox</zh_CN>
-   <zh_TW>Catalan localisation of Firefox</zh_TW>
+   <am>Catalan LibreOffice Language Meta-Package</am>
+   <ar>Catalan LibreOffice Language Meta-Package</ar>
+   <bg>Catalan LibreOffice Language Meta-Package</bg>
+   <ca>Meta-paquet de llengua Catalana per LibreOffice</ca>
+   <cs>Catalan LibreOffice Language Meta-Package</cs>
+   <da>Catalansk LibreOffice sprog-metapakke</da>
+   <de>Katalanisches LibreOffice Meta-Paket</de>
+   <el>LibreOffice για Καταλανικά</el>
+   <en>Catalan LibreOffice Language Meta-Package</en>
+   <es>Meta paquete catalán de Libre Office</es>
+   <et>Catalan LibreOffice Language Meta-Package</et>
+   <eu>Catalan LibreOffice Language Meta-Package</eu>
+   <fa>Catalan LibreOffice Language Meta-Package</fa>
+   <fil_PH>Catalan LibreOffice Language Meta-Package</fil_PH>
+   <fi>Catalan LibreOffice Language Meta-Package</fi>
+   <fr>Localisation catalane pour Meta-Package</fr>
+   <he_IL>Catalan LibreOffice Language Meta-Package</he_IL>
+   <hi>Catalan LibreOffice Language Meta-Package</hi>
+   <hr>Catalan LibreOffice Language Meta-Package</hr>
+   <hu>Catalan LibreOffice Language Meta-Package</hu>
+   <id>Catalan LibreOffice Language Meta-Package</id>
+   <is>Catalan LibreOffice Language Meta-Package</is>
+   <it>Meta-pacchetto della lingua catalana per LibreOffice</it>
+   <ja_JP>Catalan LibreOffice Language Meta-Package</ja_JP>
+   <ja>Catalan LibreOffice Language Meta-Package</ja>
+   <kk>Catalan LibreOffice Language Meta-Package</kk>
+   <ko>Catalan LibreOffice Language Meta-Package</ko>
+   <lt>Catalan LibreOffice Language Meta-Package</lt>
+   <mk>Catalan LibreOffice Language Meta-Package</mk>
+   <mr>Catalan LibreOffice Language Meta-Package</mr>
+   <nb>Catalan LibreOffice Language Meta-Package</nb>
+   <nl>Catalaanse LibreOffice Taal Meta-Pakket</nl>
+   <pl>Kataloński metapakiet językowy dla LibreOffice</pl>
+   <pt_BR>Catalão Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pt>Catalão Meta-Pacote de Idioma para LibreOffice</pt>
+   <ro>Catalan LibreOffice Language Meta-Package</ro>
+   <ru>Catalan LibreOffice Language Meta-Package</ru>
+   <sk>Catalan LibreOffice Language Meta-Package</sk>
+   <sl>Catalan LibreOffice Language Meta-Package</sl>
+   <sq>Catalan LibreOffice Language Meta-Package</sq>
+   <sr>Catalan LibreOffice Language Meta-Package</sr>
+   <sv>Katalansk LibreOffice Språk-Meta-Paket</sv>
+   <tr>Catalan LibreOffice Language Meta-Package</tr>
+   <uk>мета-пакунок з мовою Catalan для LibreOffice</uk>
+   <zh_CN>Catalan LibreOffice Language Meta-Package</zh_CN>
+   <zh_TW>Catalan LibreOffice Language Meta-Package</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ Russian
 </name>
 
 <description>
-   <am>Russian Language Meta-Package</am>
-   <ar>Russian Language Meta-Package</ar>
-   <bg>Russian Language Meta-Package</bg>
-   <ca>Meta-paquet de llengua per a Rus</ca>
-   <cs>Russian Language Meta-Package</cs>
-   <da>Russisk sprog-metapakke</da>
-   <de>Russisches Sprach-Meta-Paket</de>
-   <el>Ρωσική γλώσσα</el>
-   <en>Russian Language Meta-Package</en>
-   <es>Meta-Paquete de Idioma Ruso</es>
-   <et>Russian Language Meta-Package</et>
-   <eu>Russian Language Meta-Package</eu>
-   <fa>Russian Language Meta-Package</fa>
-   <fi>Russian Language Meta-Package</fi>
-   <fr>Méta-paquet pour langue russe</fr>
-   <he_IL>Russian Language Meta-Package</he_IL>
-   <hi>Russian Language Meta-Package</hi>
-   <hr>Russian Language Meta-Package</hr>
-   <hu>Russian Language Meta-Package</hu>
-   <id>Russian Language Meta-Package</id>
-   <is>Russian Language Meta-Package</is>
-   <it>Meta-pacchetto della lingua russa</it>
-   <ja_JP>Russian Language Meta-Package</ja_JP>
-   <ja>Russian Language Meta-Package</ja>
-   <kk>Russian Language Meta-Package</kk>
-   <ko>Russian Language Meta-Package</ko>
-   <lt>Russian Language Meta-Package</lt>
-   <mk>Russian Language Meta-Package</mk>
-   <mr>Russian Language Meta-Package</mr>
-   <nb>Russian Language Meta-Package</nb>
-   <nl>Russische Taal Meta-Pakket</nl>
-   <pl>Rosyjski metapakiet językowy</pl>
-   <pt_BR>Russo Meta-Pacote de Idioma</pt_BR>
-   <pt>Russo Meta-Pacote de Idioma</pt>
-   <ro>Russian Language Meta-Package</ro>
-   <ru>Мета-пакет русского языка</ru>
-   <sk>Russian Language Meta-Package</sk>
-   <sl>Russian Language Meta-Package</sl>
-   <sq>Russian Language Meta-Package</sq>
-   <sr>Russian Language Meta-Package</sr>
-   <sv>Ryskt Språk-Meta-Paket </sv>
-   <tr>Russian Language Meta-Package</tr>
-   <uk>Russian Language Meta-Package</uk>
-   <zh_CN>Russian Language Meta-Package</zh_CN>
-   <zh_TW>Russian Language Meta-Package</zh_TW>
+   <am>Russian localisation of Thunderbird</am>
+   <ar>Russian localisation of Thunderbird</ar>
+   <bg>Russian localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Rus</ca>
+   <cs>Russian localisation of Thunderbird</cs>
+   <da>Russisk oversættelse af Thunderbird</da>
+   <de>Russische Lokalisierung von Thunderbird</de>
+   <el>Ρωσικός εντοπισμός του Thunderbird</el>
+   <en>Russian localisation of Thunderbird</en>
+   <es>Localización Rusa de Thunderbird</es>
+   <et>Russian localisation of Thunderbird</et>
+   <eu>Russian localisation of Thunderbird</eu>
+   <fa>Russian localisation of Thunderbird</fa>
+   <fil_PH>Russian localisation of Thunderbird</fil_PH>
+   <fi>Russian localisation of Thunderbird</fi>
+   <fr>Localisation russe pour Thunderbird</fr>
+   <he_IL>Russian localisation of Thunderbird</he_IL>
+   <hi>Russian localisation of Thunderbird</hi>
+   <hr>Russian localisation of Thunderbird</hr>
+   <hu>Russian localisation of Thunderbird</hu>
+   <id>Russian localisation of Thunderbird</id>
+   <is>Russian localisation of Thunderbird</is>
+   <it>Localizzazione russa di Thunderbird</it>
+   <ja_JP>Russian localisation of Thunderbird</ja_JP>
+   <ja>Russian localisation of Thunderbird</ja>
+   <kk>Russian localisation of Thunderbird</kk>
+   <ko>Russian localisation of Thunderbird</ko>
+   <lt>Russian localisation of Thunderbird</lt>
+   <mk>Russian localisation of Thunderbird</mk>
+   <mr>Russian localisation of Thunderbird</mr>
+   <nb>Russian localisation of Thunderbird</nb>
+   <nl>Russische lokalisatie van Thunderbird</nl>
+   <pl>Rosyjska lokalizacja Thunderbirda</pl>
+   <pt_BR>Russo Localização para Thunderbird</pt_BR>
+   <pt>Russo Localização para Thunderbird</pt>
+   <ro>Russian localisation of Thunderbird</ro>
+   <ru>Русский перевод для Thunderbird</ru>
+   <sk>Russian localisation of Thunderbird</sk>
+   <sl>Russian localisation of Thunderbird</sl>
+   <sq>Russian localisation of Thunderbird</sq>
+   <sr>Russian localisation of Thunderbird</sr>
+   <sv>Rysk  lokalisering av Thunderbird</sv>
+   <tr>Thunderbird'ün Rusça yerelleştirmesi</tr>
+   <uk>Russian локалізація Thunderbird</uk>
+   <zh_CN>Russian localisation of Thunderbird</zh_CN>
+   <zh_TW>Russian localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

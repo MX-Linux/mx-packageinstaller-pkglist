@@ -10,51 +10,52 @@ Megasync
 </name>
 
 <description>
-   <am>Client for MEGA file syncing service</am>
-   <ar>Client for MEGA file syncing service</ar>
-   <bg>Client for MEGA file syncing service</bg>
-   <ca>Client per al servei de sincronització de MEGA</ca>
-   <cs>Client for MEGA file syncing service</cs>
-   <da>Klient til MEGA-filsynkroniseringstjeneste</da>
-   <de>Client für MEGA-Dateisynchronisationsdienst</de>
-   <el>Πελάτης για υπηρεσία συγχρονισμού αρχείων MEGA</el>
-   <en>Client for MEGA file syncing service</en>
-   <es>Cliente para el servicio de sincronización de archivos de MEGA</es>
-   <et>Client for MEGA file syncing service</et>
-   <eu>Client for MEGA file syncing service</eu>
-   <fa>Client for MEGA file syncing service</fa>
-   <fi>Client for MEGA file syncing service</fi>
-   <fr>Client pour le service de synchronisation de dossiers MEGA</fr>
-   <he_IL>Client for MEGA file syncing service</he_IL>
-   <hi>Client for MEGA file syncing service</hi>
-   <hr>Client for MEGA file syncing service</hr>
-   <hu>Client for MEGA file syncing service</hu>
-   <id>Client for MEGA file syncing service</id>
-   <is>Client for MEGA file syncing service</is>
-   <it>Client per il servizio di sincronizzazione file di MEGA</it>
-   <ja_JP>Client for MEGA file syncing service</ja_JP>
-   <ja>Client for MEGA file syncing service</ja>
-   <kk>Client for MEGA file syncing service</kk>
-   <ko>Client for MEGA file syncing service</ko>
-   <lt>Client for MEGA file syncing service</lt>
-   <mk>Client for MEGA file syncing service</mk>
-   <mr>Client for MEGA file syncing service</mr>
-   <nb>Client for MEGA file syncing service</nb>
-   <nl>Programma voor MEGA bestandssynchronisatieservice</nl>
-   <pl>klient dla usługi synchronizacji plików MEGA</pl>
-   <pt_BR>Aplicativo cliente para o serviço de sincronização de arquivos da MEGA</pt_BR>
-   <pt>Aplicação cliente para o serviço de sincronização de ficheiros da MEGA</pt>
-   <ro>Client for MEGA file syncing service</ro>
-   <ru>Клиент синхронизации файлов для MEGA</ru>
-   <sk>Client for MEGA file syncing service</sk>
-   <sl>Odjemalec za sinhronizacijo datotek iz MEGA oblaka</sl>
-   <sq>Client for MEGA file syncing service</sq>
-   <sr>Client for MEGA file syncing service</sr>
-   <sv>Klient för MEGA filsynkroniserings-service</sv>
-   <tr>Client for MEGA file syncing service</tr>
-   <uk>клієнт для сервісу синхронізації файлів MEGA</uk>
-   <zh_CN>Client for MEGA file syncing service</zh_CN>
-   <zh_TW>Client for MEGA file syncing service</zh_TW>
+   <am>graphical tool to diff and merge files</am>
+   <ar>graphical tool to diff and merge files</ar>
+   <bg>graphical tool to diff and merge files</bg>
+   <ca>Eina gràfica per a fer diff i merge de fitxers</ca>
+   <cs>graphical tool to diff and merge files</cs>
+   <da>grafisk værktøj til at se forskelle i og sammenføje filer</da>
+   <de>Grafisches Werkzeug zum Vergleichen und Zusammenführen von Dateien</de>
+   <el>γραφικό εργαλείο για τη διάχυση και συγχώνευση αρχείων</el>
+   <en>graphical tool to diff and merge files</en>
+   <es>Herramienta gráfica de comparación de archivos</es>
+   <et>graphical tool to diff and merge files</et>
+   <eu>graphical tool to diff and merge files</eu>
+   <fa>graphical tool to diff and merge files</fa>
+   <fil_PH>graphical tool to diff and merge files</fil_PH>
+   <fi>graphical tool to diff and merge files</fi>
+   <fr>Utilitaire graphique pour séparer et fusionner des dossiers</fr>
+   <he_IL>graphical tool to diff and merge files</he_IL>
+   <hi>graphical tool to diff and merge files</hi>
+   <hr>graphical tool to diff and merge files</hr>
+   <hu>graphical tool to diff and merge files</hu>
+   <id>graphical tool to diff and merge files</id>
+   <is>graphical tool to diff and merge files</is>
+   <it>strumento grafico per valutare le differenze dei file attraverso diff e merge</it>
+   <ja_JP>graphical tool to diff and merge files</ja_JP>
+   <ja>graphical tool to diff and merge files</ja>
+   <kk>graphical tool to diff and merge files</kk>
+   <ko>graphical tool to diff and merge files</ko>
+   <lt>graphical tool to diff and merge files</lt>
+   <mk>graphical tool to diff and merge files</mk>
+   <mr>graphical tool to diff and merge files</mr>
+   <nb>graphical tool to diff and merge files</nb>
+   <nl>grafisch hulpmiddel om bestanden te scheiden en samen te voegen</nl>
+   <pl>graficzne narzędzie do porównywania i scalania plików</pl>
+   <pt_BR>Ferramenta gráfica para comparar (diff) e integrar (merge) arquivos</pt_BR>
+   <pt>Ferramenta gráfica para comparar (diff) e integrar (merge) ficheiros</pt>
+   <ro>graphical tool to diff and merge files</ro>
+   <ru>Графическая утилита для сравнения и слияния файлов и каталогов</ru>
+   <sk>graphical tool to diff and merge files</sk>
+   <sl>Grafično orodje za spajanje in ločevanje datotek</sl>
+   <sq>graphical tool to diff and merge files</sq>
+   <sr>graphical tool to diff and merge files</sr>
+   <sv>grafiskt verktyg för att "diff" och "merge" filer</sv>
+   <tr>graphical tool to diff and merge files</tr>
+   <uk>графічний інструмент для порівняння та об’єднання файлів</uk>
+   <zh_CN>graphical tool to diff and merge files</zh_CN>
+   <zh_TW>graphical tool to diff and merge files</zh_TW>
 </description>
 
 <installable>

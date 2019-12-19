@@ -10,51 +10,52 @@ Portugese(BR)
 </name>
 
 <description>
-   <am>Portugese(BR) Language Meta-Package</am>
-   <ar>Portugese(BR) Language Meta-Package</ar>
-   <bg>Portugese(BR) Language Meta-Package</bg>
-   <ca>Meta-paquet de llengua en Portuguès (BR)</ca>
-   <cs>Portugese(BR) Language Meta-Package</cs>
-   <da>Portugisisk (brasilien) sprog-metapakke</da>
-   <de>Portugiesisches (BR) Sprach-Meta-Paket</de>
-   <el>Πορτογαλικά (Βραζιλίας) Γλώσσα</el>
-   <en>Portugese(BR) Language Meta-Package</en>
-   <es>Meta-Paquete de Idioma Portugués (BR)</es>
-   <et>Portugese(BR) Language Meta-Package</et>
-   <eu>Portugese(BR) Language Meta-Package</eu>
-   <fa>Portugese(BR) Language Meta-Package</fa>
-   <fi>Portugese(BR) Language Meta-Package</fi>
-   <fr>Méta-paquet pour langue portugaise (BR)</fr>
-   <he_IL>Portugese(BR) Language Meta-Package</he_IL>
-   <hi>Portugese(BR) Language Meta-Package</hi>
-   <hr>Portugese(BR) Language Meta-Package</hr>
-   <hu>Portugese(BR) Language Meta-Package</hu>
-   <id>Portugese(BR) Language Meta-Package</id>
-   <is>Portugese(BR) Language Meta-Package</is>
-   <it>Meta-pacchetto della lingua portoghese(BR)</it>
-   <ja_JP>Portugese(BR) Language Meta-Package</ja_JP>
-   <ja>Portugese(BR) Language Meta-Package</ja>
-   <kk>Portugese(BR) Language Meta-Package</kk>
-   <ko>Portugese(BR) Language Meta-Package</ko>
-   <lt>Portugese(BR) Language Meta-Package</lt>
-   <mk>Portugese(BR) Language Meta-Package</mk>
-   <mr>Portugese(BR) Language Meta-Package</mr>
-   <nb>Portugese(BR) Language Meta-Package</nb>
-   <nl>Portugese(BR) Taal Meta-Pakket</nl>
-   <pl>Portugalski (BR) metapakiet językowy</pl>
-   <pt_BR>Português(BR) Meta-Pacote de Idioma</pt_BR>
-   <pt>Português(BR) Meta-Pacote de Idioma</pt>
-   <ro>Portugese(BR) Language Meta-Package</ro>
-   <ru>Portugese(BR) Language Meta-Package</ru>
-   <sk>Portugese(BR) Language Meta-Package</sk>
-   <sl>Portugese(BR) Language Meta-Package</sl>
-   <sq>Portugese(BR) Language Meta-Package</sq>
-   <sr>Portugese(BR) Language Meta-Package</sr>
-   <sv>Portugisiskt(BR) Språk Meta-Paket</sv>
-   <tr>Portugese(BR) Language Meta-Package</tr>
-   <uk>Portugese(BR) Language Meta-Package</uk>
-   <zh_CN>Portugese(BR) Language Meta-Package</zh_CN>
-   <zh_TW>Portugese(BR) Language Meta-Package</zh_TW>
+   <am>Portuguese(BR) localisation of Thunderbird</am>
+   <ar>Portuguese(BR) localisation of Thunderbird</ar>
+   <bg>Portuguese(BR) localisation of Thunderbird</bg>
+   <ca>Localització de Thunderbird en Portuguès (BR)</ca>
+   <cs>Portuguese(BR) localisation of Thunderbird</cs>
+   <da>Portugisisk (brasilien) oversættelse af Thunderbird</da>
+   <de>Portugiesische (BR) Lokalisierung von Thunderbird</de>
+   <el>Πορτογαλική (Βραζιλίας) εντοπισμός του Thunderbird</el>
+   <en>Portuguese(BR) localisation of Thunderbird</en>
+   <es>Localización Portuguesa (BR) de Thunderbird</es>
+   <et>Portuguese(BR) localisation of Thunderbird</et>
+   <eu>Portuguese(BR) localisation of Thunderbird</eu>
+   <fa>Portuguese(BR) localisation of Thunderbird</fa>
+   <fil_PH>Portuguese(BR) localisation of Thunderbird</fil_PH>
+   <fi>Portuguese(BR) localisation of Thunderbird</fi>
+   <fr>Localisation portugaise (BR) pour Thunderbird</fr>
+   <he_IL>Portuguese(BR) localisation of Thunderbird</he_IL>
+   <hi>Portuguese(BR) localisation of Thunderbird</hi>
+   <hr>Portuguese(BR) localisation of Thunderbird</hr>
+   <hu>Portuguese(BR) localisation of Thunderbird</hu>
+   <id>Portuguese(BR) localisation of Thunderbird</id>
+   <is>Portuguese(BR) localisation of Thunderbird</is>
+   <it>Localizzazione portoghese(BR) di Thunderbird</it>
+   <ja_JP>Portuguese(BR) localisation of Thunderbird</ja_JP>
+   <ja>Portuguese(BR) localisation of Thunderbird</ja>
+   <kk>Portuguese(BR) localisation of Thunderbird</kk>
+   <ko>Portuguese(BR) localisation of Thunderbird</ko>
+   <lt>Portuguese(BR) localisation of Thunderbird</lt>
+   <mk>Portuguese(BR) localisation of Thunderbird</mk>
+   <mr>Portuguese(BR) localisation of Thunderbird</mr>
+   <nb>Portuguese(BR) localisation of Thunderbird</nb>
+   <nl>Portugese(BR) lokalisatie van Thunderbird</nl>
+   <pl>Portugalska (BR) lokalizacja Thunderbirda</pl>
+   <pt_BR>Português(BR) Localização para Thunderbird</pt_BR>
+   <pt>Português(BR) Localização para Thunderbird</pt>
+   <ro>Portuguese(BR) localisation of Thunderbird</ro>
+   <ru>Portuguese(BR) localisation of Thunderbird</ru>
+   <sk>Portuguese(BR) localisation of Thunderbird</sk>
+   <sl>Portuguese(BR) localisation of Thunderbird</sl>
+   <sq>Portuguese(BR) localisation of Thunderbird</sq>
+   <sr>Portuguese(BR) localisation of Thunderbird</sr>
+   <sv>PortugisisktBR) lokalisering för Thunderbird</sv>
+   <tr>Thunderbird'ün Brezilya Portekizcesi yerelleştirmesi</tr>
+   <uk>Portuguese(BR) локалізація Thunderbird</uk>
+   <zh_CN>Portuguese(BR) localisation of Thunderbird</zh_CN>
+   <zh_TW>Portuguese(BR) localisation of Thunderbird</zh_TW>
 </description>
 
 <installable>

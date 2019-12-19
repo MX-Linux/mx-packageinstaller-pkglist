@@ -10,51 +10,52 @@ Northern_sotho_Libreoffice
 </name>
 
 <description>
-   <am>Northern_sotho Language Meta-Package for LibreOffice</am>
-   <ar>Northern_sotho Language Meta-Package for LibreOffice</ar>
-   <bg>Northern_sotho Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Northern_sotho per LibreOffice</ca>
-   <cs>Northern_sotho Language Meta-Package for LibreOffice</cs>
-   <da>Northern_sotho sprog-metapakke til LibreOffice</da>
-   <de>Northern_sotho Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Northern_sotho</el>
-   <en>Northern_sotho Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Northern_sotho para LibreOffice</es>
-   <et>Northern_sotho Language Meta-Package for LibreOffice</et>
-   <eu>Northern_sotho Language Meta-Package for LibreOffice</eu>
-   <fa>Northern_sotho Language Meta-Package for LibreOffice</fa>
-   <fi>Northern_sotho Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Northern_sotho pour LibreOffice</fr>
-   <he_IL>Northern_sotho Language Meta-Package for LibreOffice</he_IL>
-   <hi>Northern_sotho Language Meta-Package for LibreOffice</hi>
-   <hr>Northern_sotho Language Meta-Package for LibreOffice</hr>
-   <hu>Northern_sotho Language Meta-Package for LibreOffice</hu>
-   <id>Northern_sotho Language Meta-Package for LibreOffice</id>
-   <is>Northern_sotho Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Northern_sotho per LibreOffice</it>
-   <ja_JP>Northern_sotho Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Northern_sotho Language Meta-Package for LibreOffice</ja>
-   <kk>Northern_sotho Language Meta-Package for LibreOffice</kk>
-   <ko>Northern_sotho Language Meta-Package for LibreOffice</ko>
-   <lt>Northern_sotho Language Meta-Package for LibreOffice</lt>
-   <mk>Northern_sotho Language Meta-Package for LibreOffice</mk>
-   <mr>Northern_sotho Language Meta-Package for LibreOffice</mr>
-   <nb>Northern_sotho Language Meta-Package for LibreOffice</nb>
-   <nl>Northern_sotho Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Northern_sotho metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Northern_sotho Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Northern_sotho Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Northern_sotho Language Meta-Package for LibreOffice</ro>
-   <ru>Northern_sotho Language Meta-Package for LibreOffice</ru>
-   <sk>Northern_sotho Language Meta-Package for LibreOffice</sk>
-   <sl>Northern_sotho Language Meta-Package for LibreOffice</sl>
-   <sq>Northern_sotho Language Meta-Package for LibreOffice</sq>
-   <sr>Northern_sotho Language Meta-Package for LibreOffice</sr>
-   <sv>Northern_sotho Språk Meta-Paket för LibreOffice</sv>
-   <tr>Northern_sotho Language Meta-Package for LibreOffice</tr>
-   <uk>Northern_sotho Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Northern_sotho Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Northern_sotho Language Meta-Package for LibreOffice</zh_TW>
+   <am>Norwegian localisation of Firefox</am>
+   <ar>Norwegian localisation of Firefox</ar>
+   <bg>Norwegian localisation of Firefox</bg>
+   <ca>Localització de Firefox en Noruec</ca>
+   <cs>Norwegian localisation of Firefox</cs>
+   <da>Norsk oversættelse af Firefox</da>
+   <de>Norwegische Lokalisierung von Firefox</de>
+   <el>Νορβηγική εντοπισμός του Firefox</el>
+   <en>Norwegian localisation of Firefox</en>
+   <es>Localización Noruega de Firefox</es>
+   <et>Norwegian localisation of Firefox</et>
+   <eu>Norwegian localisation of Firefox</eu>
+   <fa>Norwegian localisation of Firefox</fa>
+   <fil_PH>Norwegian localisation of Firefox</fil_PH>
+   <fi>Norwegian localisation of Firefox</fi>
+   <fr>Localisation norvégienne pour Firefox</fr>
+   <he_IL>Norwegian localisation of Firefox</he_IL>
+   <hi>Norwegian localisation of Firefox</hi>
+   <hr>Norwegian localisation of Firefox</hr>
+   <hu>Norwegian localisation of Firefox</hu>
+   <id>Norwegian localisation of Firefox</id>
+   <is>Norwegian localisation of Firefox</is>
+   <it>Localizzazione norvegese di Firefox</it>
+   <ja_JP>Norwegian localisation of Firefox</ja_JP>
+   <ja>Norwegian localisation of Firefox</ja>
+   <kk>Norwegian localisation of Firefox</kk>
+   <ko>Norwegian localisation of Firefox</ko>
+   <lt>Norwegian localisation of Firefox</lt>
+   <mk>Norwegian localisation of Firefox</mk>
+   <mr>Norwegian localisation of Firefox</mr>
+   <nb>Norwegian localisation of Firefox</nb>
+   <nl>Noorse lokalisatie van Firefox</nl>
+   <pl>Norweska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Norueguês Localização para Firefox</pt_BR>
+   <pt>Norueguês Localização para Firefox</pt>
+   <ro>Norwegian localisation of Firefox</ro>
+   <ru>Норвежская локализация Firefox</ru>
+   <sk>Norwegian localisation of Firefox</sk>
+   <sl>Norwegian localisation of Firefox</sl>
+   <sq>Norwegian localisation of Firefox</sq>
+   <sr>Norwegian localisation of Firefox</sr>
+   <sv>Norsk lokalisering av Firefox </sv>
+   <tr>Firefox'un Norveççe yerelleştirmesi</tr>
+   <uk>Norwegian локалізація Firefox</uk>
+   <zh_CN>Norwegian localisation of Firefox</zh_CN>
+   <zh_TW>Norwegian localisation of Firefox</zh_TW>
 </description>
 
 <installable>

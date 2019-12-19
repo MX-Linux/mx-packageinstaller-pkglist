@@ -10,51 +10,52 @@ PCManFM
 </name>
 
 <description>
-   <am>a fast and lightweight file manager</am>
-   <ar>a fast and lightweight file manager</ar>
-   <bg>a fast and lightweight file manager</bg>
-   <ca>Un gestor de fitxers ràpid i lleuger</ca>
-   <cs>a fast and lightweight file manager</cs>
-   <da>en hurtig og letvægts filhåndtering</da>
-   <de>Ein schneller und leichter Dateimanager</de>
-   <el>ένα γρήγορο και ελαφρύ διαχειριστή αρχείων</el>
-   <en>a fast and lightweight file manager</en>
-   <es>Gestor de archivos rápido y liviano</es>
-   <et>a fast and lightweight file manager</et>
-   <eu>a fast and lightweight file manager</eu>
-   <fa>a fast and lightweight file manager</fa>
-   <fi>a fast and lightweight file manager</fi>
-   <fr>Un gestionnaire de fichiers rapide et léger</fr>
-   <he_IL>a fast and lightweight file manager</he_IL>
-   <hi>a fast and lightweight file manager</hi>
-   <hr>a fast and lightweight file manager</hr>
-   <hu>a fast and lightweight file manager</hu>
-   <id>a fast and lightweight file manager</id>
-   <is>a fast and lightweight file manager</is>
-   <it>file manager veloce e leggero</it>
-   <ja_JP>a fast and lightweight file manager</ja_JP>
-   <ja>a fast and lightweight file manager</ja>
-   <kk>a fast and lightweight file manager</kk>
-   <ko>a fast and lightweight file manager</ko>
-   <lt>greita ir supaprastinta failų tvarkytuvė</lt>
-   <mk>a fast and lightweight file manager</mk>
-   <mr>a fast and lightweight file manager</mr>
-   <nb>a fast and lightweight file manager</nb>
-   <nl>een snelle en lichtgewicht bestandsmanager</nl>
-   <pl>szybki i lekki menedżer plików</pl>
-   <pt_BR>Gestor de ficheiros ligeiro e rápido</pt_BR>
-   <pt>Gestor de ficheiros ligeiro e rápido</pt>
-   <ro>a fast and lightweight file manager</ro>
-   <ru>Быстрый и легковесный файловый менеджер</ru>
-   <sk>a fast and lightweight file manager</sk>
-   <sl>Lahek in hiter upravljalnik datotek</sl>
-   <sq>a fast and lightweight file manager</sq>
-   <sr>a fast and lightweight file manager</sr>
-   <sv>en snabb lättvikts filhanterare</sv>
-   <tr>a fast and lightweight file manager</tr>
-   <uk>швидкий та легкий файловий менеджер</uk>
-   <zh_CN>a fast and lightweight file manager</zh_CN>
-   <zh_TW>a fast and lightweight file manager</zh_TW>
+   <am>Private Internet Access VPN</am>
+   <ar>Private Internet Access VPN</ar>
+   <bg>Private Internet Access VPN</bg>
+   <ca>Accés privat a internet VPN</ca>
+   <cs>Private Internet Access VPN</cs>
+   <da>Private Internet Access VPN</da>
+   <de>Privater Internetzugang VPN</de>
+   <el>Private Internet Access VPN</el>
+   <en>Private Internet Access VPN</en>
+   <es>Acceso Privado a Internet VPN</es>
+   <et>Private Internet Access VPN</et>
+   <eu>Private Internet Access VPN</eu>
+   <fa>Private Internet Access VPN</fa>
+   <fil_PH>Private Internet Access VPN</fil_PH>
+   <fi>Private Internet Access VPN</fi>
+   <fr>Accès Internet Privé par VPN</fr>
+   <he_IL>Private Internet Access VPN</he_IL>
+   <hi>Private Internet Access VPN</hi>
+   <hr>Private Internet Access VPN</hr>
+   <hu>Private Internet Access VPN</hu>
+   <id>Private Internet Access VPN</id>
+   <is>Private Internet Access VPN</is>
+   <it>Accesso internet privato VPN</it>
+   <ja_JP>Private Internet Access VPN</ja_JP>
+   <ja>Private Internet Access VPN</ja>
+   <kk>Private Internet Access VPN</kk>
+   <ko>Private Internet Access VPN</ko>
+   <lt>Private Internet Access VPN</lt>
+   <mk>Private Internet Access VPN</mk>
+   <mr>Private Internet Access VPN</mr>
+   <nb>Private Internet Access VPN</nb>
+   <nl>Privé Internet Toegang VPN</nl>
+   <pl>Private Internet Access VPN</pl>
+   <pt_BR>Acesso Privado à Internet VPN</pt_BR>
+   <pt>Acesso Privado à Internet VPN</pt>
+   <ro>Private Internet Access VPN</ro>
+   <ru>Частный VPN для выхода в интернет</ru>
+   <sk>Private Internet Access VPN</sk>
+   <sl>Zasebni spletni dostop preko VPN</sl>
+   <sq>Private Internet Access VPN</sq>
+   <sr>Private Internet Access VPN</sr>
+   <sv>Private Internet Access VPN</sv>
+   <tr>Private Internet Access VPN</tr>
+   <uk>Private Internet Access VPN</uk>
+   <zh_CN>Private Internet Access VPN</zh_CN>
+   <zh_TW>Private Internet Access VPN</zh_TW>
 </description>
 
 <installable>

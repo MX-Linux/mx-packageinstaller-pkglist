@@ -10,51 +10,52 @@ Breton_Libreoffice
 </name>
 
 <description>
-   <am>Breton Language Meta-Package for LibreOffice</am>
-   <ar>Breton Language Meta-Package for LibreOffice</ar>
-   <bg>Breton Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Breton per LibreOffice</ca>
-   <cs>Breton Language Meta-Package for LibreOffice</cs>
-   <da>Breton sprog-metapakke til LibreOffice</da>
-   <de>Breton Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Breton</el>
-   <en>Breton Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Breton para LibreOffice</es>
-   <et>Breton Language Meta-Package for LibreOffice</et>
-   <eu>Breton Language Meta-Package for LibreOffice</eu>
-   <fa>Breton Language Meta-Package for LibreOffice</fa>
-   <fi>Breton Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Breton pour LibreOffice</fr>
-   <he_IL>Breton Language Meta-Package for LibreOffice</he_IL>
-   <hi>Breton Language Meta-Package for LibreOffice</hi>
-   <hr>Breton Language Meta-Package for LibreOffice</hr>
-   <hu>Breton Language Meta-Package for LibreOffice</hu>
-   <id>Breton Language Meta-Package for LibreOffice</id>
-   <is>Breton Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Breton per LibreOffice</it>
-   <ja_JP>Breton Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Breton Language Meta-Package for LibreOffice</ja>
-   <kk>Breton Language Meta-Package for LibreOffice</kk>
-   <ko>Breton Language Meta-Package for LibreOffice</ko>
-   <lt>Breton Language Meta-Package for LibreOffice</lt>
-   <mk>Breton Language Meta-Package for LibreOffice</mk>
-   <mr>Breton Language Meta-Package for LibreOffice</mr>
-   <nb>Breton Language Meta-Package for LibreOffice</nb>
-   <nl>Breton Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Breton metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Breton Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Breton Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Breton Language Meta-Package for LibreOffice</ro>
-   <ru>Breton Language Meta-Package for LibreOffice</ru>
-   <sk>Breton Language Meta-Package for LibreOffice</sk>
-   <sl>Breton Language Meta-Package for LibreOffice</sl>
-   <sq>Breton Language Meta-Package for LibreOffice</sq>
-   <sr>Breton Language Meta-Package for LibreOffice</sr>
-   <sv>Breton Språk Meta-Paket för LibreOffice</sv>
-   <tr>Breton Language Meta-Package for LibreOffice</tr>
-   <uk>Breton Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Breton Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Breton Language Meta-Package for LibreOffice</zh_TW>
+   <am>a lightweight desktop environment</am>
+   <ar>a lightweight desktop environment</ar>
+   <bg>a lightweight desktop environment</bg>
+   <ca>Entorn d'escriptori lleuger</ca>
+   <cs>a lightweight desktop environment</cs>
+   <da>et letvægts skrivebordsmiljø</da>
+   <de>Eine leichtgewichtige Desktop-Umgebung</de>
+   <el>ένα ελαφρύ περιβάλλον επιφάνειας εργασίας</el>
+   <en>a lightweight desktop environment</en>
+   <es>Entorno de escritorio liviano</es>
+   <et>a lightweight desktop environment</et>
+   <eu>a lightweight desktop environment</eu>
+   <fa>a lightweight desktop environment</fa>
+   <fil_PH>a lightweight desktop environment</fil_PH>
+   <fi>kevyt työpöytäympäristö</fi>
+   <fr>Un environnement léger de bureau</fr>
+   <he_IL>a lightweight desktop environment</he_IL>
+   <hi>a lightweight desktop environment</hi>
+   <hr>lagano radno okruženje</hr>
+   <hu>a lightweight desktop environment</hu>
+   <id>a lightweight desktop environment</id>
+   <is>a lightweight desktop environment</is>
+   <it>Un ambiente desktop leggero</it>
+   <ja_JP>a lightweight desktop environment</ja_JP>
+   <ja>a lightweight desktop environment</ja>
+   <kk>a lightweight desktop environment</kk>
+   <ko>a lightweight desktop environment</ko>
+   <lt>supaprastinta darbalaukio aplinka</lt>
+   <mk>a lightweight desktop environment</mk>
+   <mr>a lightweight desktop environment</mr>
+   <nb>a lightweight desktop environment</nb>
+   <nl>een lichtgewicht desktop omgeving</nl>
+   <pl>lekkie środowisko graficzne</pl>
+   <pt_BR>Ambiente de Trabalho simples e ligeiro</pt_BR>
+   <pt>Ambiente de Trabalho simples e ligeiro</pt>
+   <ro>a lightweight desktop environment</ro>
+   <ru>Легковесное окружение рабочего стола</ru>
+   <sk>ľahké užívateľské prostredie</sk>
+   <sl>lahko namizno okolje</sl>
+   <sq>a lightweight desktop environment</sq>
+   <sr>a lightweight desktop environment</sr>
+   <sv>en lättvikts skrivbordsmiljö</sv>
+   <tr>a lightweight desktop environment</tr>
+   <uk>легке оточення стільниці</uk>
+   <zh_CN>a lightweight desktop environment</zh_CN>
+   <zh_TW>a lightweight desktop environment</zh_TW>
 </description>
 
 <installable>

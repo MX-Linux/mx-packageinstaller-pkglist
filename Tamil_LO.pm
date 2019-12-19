@@ -10,51 +10,52 @@ Tamil_Libreoffice
 </name>
 
 <description>
-   <am>Tamil Language Meta-Package for LibreOffice</am>
-   <ar>Tamil Language Meta-Package for LibreOffice</ar>
-   <bg>Tamil Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Tamil per LibreOffice</ca>
-   <cs>Tamil Language Meta-Package for LibreOffice</cs>
-   <da>Tamil sprog-metapakke til LibreOffice</da>
-   <de>Tamil Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Tamil</el>
-   <en>Tamil Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Tamil para LibreOffice</es>
-   <et>Tamil Language Meta-Package for LibreOffice</et>
-   <eu>Tamil Language Meta-Package for LibreOffice</eu>
-   <fa>Tamil Language Meta-Package for LibreOffice</fa>
-   <fi>Tamil Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Tamil pour LibreOffice</fr>
-   <he_IL>Tamil Language Meta-Package for LibreOffice</he_IL>
-   <hi>Tamil Language Meta-Package for LibreOffice</hi>
-   <hr>Tamil Language Meta-Package for LibreOffice</hr>
-   <hu>Tamil Language Meta-Package for LibreOffice</hu>
-   <id>Tamil Language Meta-Package for LibreOffice</id>
-   <is>Tamil Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Tamil per LibreOffice</it>
-   <ja_JP>Tamil Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Tamil Language Meta-Package for LibreOffice</ja>
-   <kk>Tamil Language Meta-Package for LibreOffice</kk>
-   <ko>Tamil Language Meta-Package for LibreOffice</ko>
-   <lt>Tamil Language Meta-Package for LibreOffice</lt>
-   <mk>Tamil Language Meta-Package for LibreOffice</mk>
-   <mr>Tamil Language Meta-Package for LibreOffice</mr>
-   <nb>Tamil Language Meta-Package for LibreOffice</nb>
-   <nl>Tamil Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Tamil metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Tamil Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Tamil Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Tamil Language Meta-Package for LibreOffice</ro>
-   <ru>Tamil Language Meta-Package for LibreOffice</ru>
-   <sk>Tamil Language Meta-Package for LibreOffice</sk>
-   <sl>Tamil Language Meta-Package for LibreOffice</sl>
-   <sq>Tamil Language Meta-Package for LibreOffice</sq>
-   <sr>Tamil Language Meta-Package for LibreOffice</sr>
-   <sv>Tamil Språk Meta-Paket för LibreOffice</sv>
-   <tr>Tamil Language Meta-Package for LibreOffice</tr>
-   <uk>Tamil Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Tamil Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Tamil Language Meta-Package for LibreOffice</zh_TW>
+   <am>Teamviewer remote access</am>
+   <ar>Teamviewer remote access</ar>
+   <bg>Teamviewer remote access</bg>
+   <ca>Accés remot Teamviewer</ca>
+   <cs>Teamviewer remote access</cs>
+   <da>Teamviewer fjernadgang</da>
+   <de>Fernzugriff mit Teamviewer</de>
+   <el>Teamviewer απομακρυσμένη πρόσβαση</el>
+   <en>Teamviewer remote access</en>
+   <es>Teamviewer acceso remoto</es>
+   <et>Teamviewer remote access</et>
+   <eu>Teamviewer remote access</eu>
+   <fa>Teamviewer remote access</fa>
+   <fil_PH>Teamviewer remote access</fil_PH>
+   <fi>Teamviewer remote access</fi>
+   <fr>Teamviewer accès à distance</fr>
+   <he_IL>Teamviewer remote access</he_IL>
+   <hi>Teamviewer remote access</hi>
+   <hr>Teamviewer remote access</hr>
+   <hu>Teamviewer remote access</hu>
+   <id>Teamviewer remote access</id>
+   <is>Teamviewer remote access</is>
+   <it>Teamviewer accesso remoto</it>
+   <ja_JP>Teamviewer remote access</ja_JP>
+   <ja>Teamviewer remote access</ja>
+   <kk>Teamviewer remote access</kk>
+   <ko>Teamviewer remote access</ko>
+   <lt>Teamviewer nuotolinė prieiga</lt>
+   <mk>Teamviewer remote access</mk>
+   <mr>Teamviewer remote access</mr>
+   <nb>Teamviewer remote access</nb>
+   <nl>Teamviewer afstand toegang</nl>
+   <pl>dostęp zdalny TeamViewer</pl>
+   <pt_BR>Aplicativo de acesso remoto</pt_BR>
+   <pt>Aplicação de acesso remoto</pt>
+   <ro>Teamviewer remote access</ro>
+   <ru>Удаленный рабочий стол, передача файлов и видеосвязь</ru>
+   <sk>Teamviewer remote access</sk>
+   <sl>Teamviewer oddaljeni dostop</sl>
+   <sq>Teamviewer remote access</sq>
+   <sr>Teamviewer remote access</sr>
+   <sv>Teamviewer fjärråtkomst</sv>
+   <tr>Teamviewer remote access</tr>
+   <uk>Teamviewer remote access</uk>
+   <zh_CN>Teamviewer remote access</zh_CN>
+   <zh_TW>Teamviewer remote access</zh_TW>
 </description>
 
 <installable>

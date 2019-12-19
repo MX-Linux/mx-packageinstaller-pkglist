@@ -10,51 +10,52 @@ Steam
 </name>
 
 <description>
-   <am>Steam powered games</am>
-   <ar>Steam powered games</ar>
-   <bg>Steam powered games</bg>
-   <ca>Jocs a través de Steam</ca>
-   <cs>Steam powered games</cs>
-   <da>Spil fra Steam</da>
-   <de>Steam powered Games</de>
-   <el>Παιχνίδια του Stream</el>
-   <en>Steam powered games</en>
-   <es>Juegos accionados por Steam</es>
-   <et>Steam powered games</et>
-   <eu>Steam powered games</eu>
-   <fa>Steam powered games</fa>
-   <fi>Steam powered games</fi>
-   <fr>Jeux fonctionnant avec Steam</fr>
-   <he_IL>Steam powered games</he_IL>
-   <hi>Steam powered games</hi>
-   <hr>Steam powered games</hr>
-   <hu>Steam powered games</hu>
-   <id>Steam powered games</id>
-   <is>Steam powered games</is>
-   <it>Giochi offerti da Steam</it>
-   <ja_JP>Steam powered games</ja_JP>
-   <ja>Steam powered games</ja>
-   <kk>Steam powered games</kk>
-   <ko>Steam powered games</ko>
-   <lt>Steam powered games</lt>
-   <mk>Steam powered games</mk>
-   <mr>Steam powered games</mr>
-   <nb>Steam powered games</nb>
-   <nl>Steam aangedreven spellen</nl>
-   <pl>Gry na Steam</pl>
-   <pt_BR>Jogos da Plataforma Steam</pt_BR>
-   <pt>Jogos da Plataforma Steam</pt>
-   <ro>Steam powered games</ro>
-   <ru>Платформа цифрового распространения игр</ru>
-   <sk>Steam powered games</sk>
-   <sl>Steam igre</sl>
-   <sq>Steam powered games</sq>
-   <sr>Steam powered games</sr>
-   <sv>Steam-drivna spel</sv>
-   <tr>Steam powered games</tr>
-   <uk>Steam powered games</uk>
-   <zh_CN>Steam powered games</zh_CN>
-   <zh_TW>Steam powered games</zh_TW>
+   <am>Mario kart style racing</am>
+   <ar>Mario kart style racing</ar>
+   <bg>Mario kart style racing</bg>
+   <ca>Curses del tipus Mario Kart</ca>
+   <cs>Mario kart style racing</cs>
+   <da>Racerspil i stil med Mario kart</da>
+   <de>Mario-Kart-Rennen</de>
+   <el>Mario kart style racing</el>
+   <en>Mario kart style racing</en>
+   <es>Juego de carreras estilo Mario kart</es>
+   <et>Mario kart style racing</et>
+   <eu>Mario kart style racing</eu>
+   <fa>Mario kart style racing</fa>
+   <fil_PH>Mario kart style racing</fil_PH>
+   <fi>Mario Kartin tyylinen kilpa-ajopeli</fi>
+   <fr>Jeu de courses de type Mario-kart</fr>
+   <he_IL>Mario kart style racing</he_IL>
+   <hi>Mario kart style racing</hi>
+   <hr>Mario kart style racing</hr>
+   <hu>Mario kart style racing</hu>
+   <id>Mario kart style racing</id>
+   <is>Mario kart style racing</is>
+   <it>gioco di corse con i kart stile SuperMario</it>
+   <ja_JP>Mario kart style racing</ja_JP>
+   <ja>Mario kart style racing</ja>
+   <kk>Mario kart style racing</kk>
+   <ko>Mario kart style racing</ko>
+   <lt>Mario kart style racing</lt>
+   <mk>Mario kart style racing</mk>
+   <mr>Mario kart style racing</mr>
+   <nb>Mario kart style racing</nb>
+   <nl>Mario kart stijl racen</nl>
+   <pl>wyścigi w stylu Mario Kart</pl>
+   <pt_BR>Mario kart style racing</pt_BR>
+   <pt>Mario kart style racing</pt>
+   <ro>Mario kart style racing</ro>
+   <ru>Гонки на картах в стиле Mario</ru>
+   <sk>Mario kart style racing</sk>
+   <sl>Mario kartingu podobna  igra</sl>
+   <sq>Mario kart style racing</sq>
+   <sr>Mario kart style racing</sr>
+   <sv>Mario kart stil racing</sv>
+   <tr>Mario kart style racing</tr>
+   <uk>Mario kart style racing</uk>
+   <zh_CN>Mario kart style racing</zh_CN>
+   <zh_TW>Mario kart style racing</zh_TW>
 </description>
 
 <installable>

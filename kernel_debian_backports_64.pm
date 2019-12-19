@@ -10,51 +10,52 @@ Debian-Backports 64 bit
 </name>
 
 <description>
-   <am>Debian Backports kernel Meltdown patched, 64 bit</am>
-   <ar>Debian Backports kernel Meltdown patched, 64 bit</ar>
-   <bg>Debian Backports kernel Meltdown patched, 64 bit</bg>
-   <ca>Nucli de Debian Backports 64 bit, amb pedaç per Meltdown</ca>
-   <cs>Debian Backports kernel Meltdown patched, 64 bit</cs>
-   <da>Debian backports kerne meltdown-rettelse, 64 bit</da>
-   <de>Debian Backports-Kernel Meltdown gepatcht, 64 Bit</de>
-   <el>Ο πυρήνας του Debian Backports Meltdown patched, 64 bit</el>
-   <en>Debian Backports kernel Meltdown patched, 64 bit</en>
-   <es>Debian Backports kernel con parche Meltdown, 64 bit</es>
-   <et>Debian Backports kernel Meltdown patched, 64 bit</et>
-   <eu>Debian Backports kernel Meltdown patched, 64 bit</eu>
-   <fa>Debian Backports kernel Meltdown patched, 64 bit</fa>
-   <fi>Debian Backports kernel Meltdown patched, 64 bit</fi>
-   <fr>Noyau Debian Backports correctifs Meltdown, 64 bit</fr>
-   <he_IL>Debian Backports kernel Meltdown patched, 64 bit</he_IL>
-   <hi>Debian Backports kernel Meltdown patched, 64 bit</hi>
-   <hr>Debian Backports kernel Meltdown patched, 64 bit</hr>
-   <hu>Debian Backports kernel Meltdown patched, 64 bit</hu>
-   <id>Debian Backports kernel Meltdown patched, 64 bit</id>
-   <is>Debian Backports kernel Meltdown patched, 64 bit</is>
-   <it>Debian Backports kernel con la patch per Meltdown, 64 bit</it>
-   <ja_JP>Debian Backports kernel Meltdown patched, 64 bit</ja_JP>
-   <ja>Debian Backports kernel Meltdown patched, 64 bit</ja>
-   <kk>Debian Backports kernel Meltdown patched, 64 bit</kk>
-   <ko>Debian Backports kernel Meltdown patched, 64 bit</ko>
-   <lt>Debian Backports kernel Meltdown patched, 64 bit</lt>
-   <mk>Debian Backports kernel Meltdown patched, 64 bit</mk>
-   <mr>Debian Backports kernel Meltdown patched, 64 bit</mr>
-   <nb>Debian Backports kernel Meltdown patched, 64 bit</nb>
-   <nl>Debian Backports kernel Meltdown patched, 64 bit</nl>
-   <pl>Debian Backports kernel Meltdown patched, 64 bit</pl>
-   <pt_BR>Debian Backports kernel Meltdown patched, 64 bit</pt_BR>
-   <pt>Núcleo do Debian Backports com correcção para a falha Meltdown, 64 bit</pt>
-   <ro>Debian Backports kernel Meltdown patched, 64 bit</ro>
-   <ru>Debian ядро Backports с патчем от Meltdown, 64 bit</ru>
-   <sk>Debian Backports kernel Meltdown patched, 64 bit</sk>
-   <sl>Debian Backports kernel Meltdown patched, 64 bit</sl>
-   <sq>Debian Backports kernel Meltdown patched, 64 bit</sq>
-   <sr>Debian Backports kernel Meltdown patched, 64 bit</sr>
-   <sv>Debian Backports kärna Meltdown patched, 64 bit</sv>
-   <tr>Debian Backports kernel Meltdown patched, 64 bit</tr>
-   <uk>Debian Backports kernel Meltdown patched, 64 bit</uk>
-   <zh_CN>Debian Backports kernel Meltdown patched, 64 bit</zh_CN>
-   <zh_TW>Debian Backports kernel Meltdown patched, 64 bit</zh_TW>
+   <am>Liquorix Kernel (no PAE, latest from MX TEST repo)</am>
+   <ar>Liquorix Kernel (no PAE, latest from MX TEST repo)</ar>
+   <bg>Liquorix Kernel (no PAE, latest from MX TEST repo)</bg>
+   <ca>Kernel Liquorix (no PAE, recent del dipòsit MX TEST)</ca>
+   <cs>Liquorix Kernel (no PAE, latest from MX TEST repo)</cs>
+   <da>Liquorix Kernel (no PAE, latest from MX TEST repo)</da>
+   <de>Liquorix Kernel (no PAE, der neueste im MX TEST Repo)</de>
+   <el>Liquorix Kernel (no PAE, latest from MX TEST repo)</el>
+   <en>Liquorix Kernel (no PAE, latest from MX TEST repo)</en>
+   <es>Liquorix Kernel (no PAE, último desde MX TEST repo)</es>
+   <et>Liquorix Kernel (no PAE, latest from MX TEST repo)</et>
+   <eu>Liquorix Kernel (no PAE, latest from MX TEST repo)</eu>
+   <fa>Liquorix Kernel (no PAE, latest from MX TEST repo)</fa>
+   <fil_PH>Liquorix Kernel (no PAE, latest from MX TEST repo)</fil_PH>
+   <fi>Liquorix Kernel (no PAE, latest from MX TEST repo)</fi>
+   <fr>Liquorix Kernel (no PAE, latest from MX TEST repo)</fr>
+   <he_IL>Liquorix Kernel (no PAE, latest from MX TEST repo)</he_IL>
+   <hi>Liquorix Kernel (no PAE, latest from MX TEST repo)</hi>
+   <hr>Liquorix Kernel (no PAE, latest from MX TEST repo)</hr>
+   <hu>Liquorix Kernel (no PAE, latest from MX TEST repo)</hu>
+   <id>Liquorix Kernel (no PAE, latest from MX TEST repo)</id>
+   <is>Liquorix Kernel (no PAE, latest from MX TEST repo)</is>
+   <it>Liquorix Kernel (no PAE, latest from MX TEST repo)</it>
+   <ja_JP>Liquorix Kernel (no PAE, latest from MX TEST repo)</ja_JP>
+   <ja>Liquorix Kernel (no PAE, latest from MX TEST repo)</ja>
+   <kk>Liquorix Kernel (no PAE, latest from MX TEST repo)</kk>
+   <ko>Liquorix Kernel (no PAE, latest from MX TEST repo)</ko>
+   <lt>Liquorix Kernel (no PAE, latest from MX TEST repo)</lt>
+   <mk>Liquorix Kernel (no PAE, latest from MX TEST repo)</mk>
+   <mr>Liquorix Kernel (no PAE, latest from MX TEST repo)</mr>
+   <nb>Liquorix Kernel (no PAE, latest from MX TEST repo)</nb>
+   <nl>Liquorix Kernel (no PAE, latest from MX TEST repo)</nl>
+   <pl>Liquorix Kernel (no PAE, latest from MX TEST repo)</pl>
+   <pt_BR>Liquorix Kernel (no PAE, latest from MX TEST repo)</pt_BR>
+   <pt>Núcleo (kernel) Liquorix (no PAE, versão mais recente do MX TEST repo)</pt>
+   <ro>Liquorix Kernel (no PAE, latest from MX TEST repo)</ro>
+   <ru>Liquorix ядро, no-PAE (последняя версия из репозитория MX TEST)</ru>
+   <sk>Liquorix Kernel (no PAE, latest from MX TEST repo)</sk>
+   <sl>Liquorix jedro (brez PAE, zadnj iz MX TEST repozitorija)</sl>
+   <sq>Liquorix Kernel (no PAE, latest from MX TEST repo)</sq>
+   <sr>Liquorix Kernel (no PAE, latest from MX TEST repo)</sr>
+   <sv>Liquorix Kärna (no PAE, senaste från MX TEST repo)</sv>
+   <tr>Liquorix Kernel (no PAE, latest from MX TEST repo)</tr>
+   <uk>Liquorix Kernel (no PAE, latest from MX TEST repo)</uk>
+   <zh_CN>Liquorix Kernel (no PAE, latest from MX TEST repo)</zh_CN>
+   <zh_TW>Liquorix Kernel (no PAE, latest from MX TEST repo)</zh_TW>
 </description>
 
 <installable>

@@ -23,6 +23,7 @@ Remote Access
    <et>Remote access help app from antiX</et>
    <eu>Remote access help app from antiX</eu>
    <fa>Remote access help app from antiX</fa>
+   <fil_PH>Remote access help app from antiX</fil_PH>
    <fi>Remote access help app from antiX</fi>
    <fr>Application d'aide pour l'accès à distance d'antiX</fr>
    <he_IL>Remote access help app from antiX</he_IL>

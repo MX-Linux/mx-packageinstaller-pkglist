@@ -10,51 +10,52 @@ Firefox-ESR
 </name>
 
 <description>
-   <am>Latest Firefox-ESR</am>
-   <ar>Latest Firefox-ESR</ar>
-   <bg>Latest Firefox-ESR</bg>
-   <ca>El darrer Firefox-ESR</ca>
-   <cs>Latest Firefox-ESR</cs>
-   <da>Seneste Firefox-ESR</da>
-   <de>Latest Firefox-ESR</de>
-   <el>Τελευταία Firefox-ESR</el>
-   <en>Latest Firefox-ESR</en>
-   <es>Último Firefox-ESR</es>
-   <et>Latest Firefox-ESR</et>
-   <eu>Latest Firefox-ESR</eu>
-   <fa>Latest Firefox-ESR</fa>
-   <fi>Latest Firefox-ESR</fi>
-   <fr>Dernière version de Firefox-ESR</fr>
-   <he_IL>Latest Firefox-ESR</he_IL>
-   <hi>Latest Firefox-ESR</hi>
-   <hr>Latest Firefox-ESR</hr>
-   <hu>Latest Firefox-ESR</hu>
-   <id>Latest Firefox-ESR</id>
-   <is>Latest Firefox-ESR</is>
-   <it>Ultimo Firefox-ESR</it>
-   <ja_JP>Latest Firefox-ESR</ja_JP>
-   <ja>Latest Firefox-ESR</ja>
-   <kk>Latest Firefox-ESR</kk>
-   <ko>Latest Firefox-ESR</ko>
-   <lt>Latest Firefox-ESR</lt>
-   <mk>Latest Firefox-ESR</mk>
-   <mr>Latest Firefox-ESR</mr>
-   <nb>Latest Firefox-ESR</nb>
-   <nl>Nieuwste Firefox-ESR</nl>
-   <pl>Latest Firefox-ESR</pl>
-   <pt_BR>Latest Firefox-ESR</pt_BR>
-   <pt>O mais recente Firefox-ESR</pt>
-   <ro>Latest Firefox-ESR</ro>
-   <ru>Latest Firefox-ESR</ru>
-   <sk>Latest Firefox-ESR</sk>
-   <sl>Zadnji Firefox-ESR</sl>
-   <sq>Latest Firefox-ESR</sq>
-   <sr>Latest Firefox-ESR</sr>
-   <sv>Senaste Firefox-ESR</sv>
-   <tr>Latest Firefox-ESR</tr>
-   <uk>Latest Firefox-ESR</uk>
-   <zh_CN>Latest Firefox-ESR</zh_CN>
-   <zh_TW>Latest Firefox-ESR</zh_TW>
+   <am>Latest Firefox</am>
+   <ar>Latest Firefox</ar>
+   <bg>Latest Firefox</bg>
+   <ca>Darrer Firefox</ca>
+   <cs>Latest Firefox</cs>
+   <da>Seneste Firefox</da>
+   <de>Neuester Firefox</de>
+   <el>Τελευταία Firefox</el>
+   <en>Latest Firefox</en>
+   <es>Firefox actual</es>
+   <et>Latest Firefox</et>
+   <eu>Latest Firefox</eu>
+   <fa>Latest Firefox</fa>
+   <fil_PH>Latest Firefox</fil_PH>
+   <fi>Viimeisin Firefox-versio</fi>
+   <fr>La dernière version de Firefox</fr>
+   <he_IL>Latest Firefox</he_IL>
+   <hi>Latest Firefox</hi>
+   <hr>Latest Firefox</hr>
+   <hu>Latest Firefox</hu>
+   <id>Latest Firefox</id>
+   <is>Latest Firefox</is>
+   <it>Ultima versione di Firefox</it>
+   <ja_JP>Latest Firefox</ja_JP>
+   <ja>Latest Firefox</ja>
+   <kk>Latest Firefox</kk>
+   <ko>Latest Firefox</ko>
+   <lt>Naujausia Firefox</lt>
+   <mk>Latest Firefox</mk>
+   <mr>Latest Firefox</mr>
+   <nb>Latest Firefox</nb>
+   <nl>Meest recente Firefox</nl>
+   <pl>najnowszy Firefox</pl>
+   <pt_BR>Firefox mais recente</pt_BR>
+   <pt>Versão mais recente do Firefox</pt>
+   <ro>Latest Firefox</ro>
+   <ru>Браузер Firefox последней версии</ru>
+   <sk>Posledný Firefox</sk>
+   <sl>Zadnja različica Firefox-a</sl>
+   <sq>Latest Firefox</sq>
+   <sr>Latest Firefox</sr>
+   <sv>Senaste Firefox</sv>
+   <tr>En son Firefox</tr>
+   <uk>Крайній Firefox</uk>
+   <zh_CN>Latest Firefox</zh_CN>
+   <zh_TW>Latest Firefox</zh_TW>
 </description>
 
 <installable>

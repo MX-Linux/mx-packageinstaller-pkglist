@@ -10,51 +10,52 @@ Welsh_Libreoffice
 </name>
 
 <description>
-   <am>Welsh Language Meta-Package for LibreOffice</am>
-   <ar>Welsh Language Meta-Package for LibreOffice</ar>
-   <bg>Welsh Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Welsh per LibreOffice</ca>
-   <cs>Welsh Language Meta-Package for LibreOffice</cs>
-   <da>Welsh sprog-metapakke til LibreOffice</da>
-   <de>Welsh Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Welsh</el>
-   <en>Welsh Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Welsh para LibreOffice</es>
-   <et>Welsh Language Meta-Package for LibreOffice</et>
-   <eu>Welsh Language Meta-Package for LibreOffice</eu>
-   <fa>Welsh Language Meta-Package for LibreOffice</fa>
-   <fi>Welsh Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Welsh pour LibreOffice</fr>
-   <he_IL>Welsh Language Meta-Package for LibreOffice</he_IL>
-   <hi>Welsh Language Meta-Package for LibreOffice</hi>
-   <hr>Welsh Language Meta-Package for LibreOffice</hr>
-   <hu>Welsh Language Meta-Package for LibreOffice</hu>
-   <id>Welsh Language Meta-Package for LibreOffice</id>
-   <is>Welsh Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Welsh per LibreOffice</it>
-   <ja_JP>Welsh Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Welsh Language Meta-Package for LibreOffice</ja>
-   <kk>Welsh Language Meta-Package for LibreOffice</kk>
-   <ko>Welsh Language Meta-Package for LibreOffice</ko>
-   <lt>Welsh Language Meta-Package for LibreOffice</lt>
-   <mk>Welsh Language Meta-Package for LibreOffice</mk>
-   <mr>Welsh Language Meta-Package for LibreOffice</mr>
-   <nb>Welsh Language Meta-Package for LibreOffice</nb>
-   <nl>Welsh Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Welsh metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Welsh Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Welsh Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Welsh Language Meta-Package for LibreOffice</ro>
-   <ru>Welsh Language Meta-Package for LibreOffice</ru>
-   <sk>Welsh Language Meta-Package for LibreOffice</sk>
-   <sl>Welsh Language Meta-Package for LibreOffice</sl>
-   <sq>Welsh Language Meta-Package for LibreOffice</sq>
-   <sr>Welsh Language Meta-Package for LibreOffice</sr>
-   <sv>Welsh Språk Meta-Paket för LibreOffice</sv>
-   <tr>Welsh Language Meta-Package for LibreOffice</tr>
-   <uk>Welsh Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Welsh Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Welsh Language Meta-Package for LibreOffice</zh_TW>
+   <am>run Windows applications without a copy of Microsoft Windows</am>
+   <ar>run Windows applications without a copy of Microsoft Windows</ar>
+   <bg>run Windows applications without a copy of Microsoft Windows</bg>
+   <ca>Executa aplicacions Windows sense una còpia de MS-Windows</ca>
+   <cs>run Windows applications without a copy of Microsoft Windows</cs>
+   <da>kør Windows-programmer uden en kopi af Microsoft Windows</da>
+   <de>Ausführen von Windows-Anwendungen ohne eine Kopie von Microsoft Windows</de>
+   <el>εκτέλεση εφαρμογών των Windows</el>
+   <en>run Windows applications without a copy of Microsoft Windows</en>
+   <es>ejecute aplicaciones de Windows sin una copia de Microsoft Windows</es>
+   <et>run Windows applications without a copy of Microsoft Windows</et>
+   <eu>run Windows applications without a copy of Microsoft Windows</eu>
+   <fa>run Windows applications without a copy of Microsoft Windows</fa>
+   <fil_PH>run Windows applications without a copy of Microsoft Windows</fil_PH>
+   <fi>run Windows applications without a copy of Microsoft Windows</fi>
+   <fr>Lancer des applications Windows sans avoir besoin d'installer Windows</fr>
+   <he_IL>run Windows applications without a copy of Microsoft Windows</he_IL>
+   <hi>run Windows applications without a copy of Microsoft Windows</hi>
+   <hr>run Windows applications without a copy of Microsoft Windows</hr>
+   <hu>run Windows applications without a copy of Microsoft Windows</hu>
+   <id>run Windows applications without a copy of Microsoft Windows</id>
+   <is>run Windows applications without a copy of Microsoft Windows</is>
+   <it>esegue applicazioni Windows senza la presenza del sistema operativo Microsoft Windows</it>
+   <ja_JP>run Windows applications without a copy of Microsoft Windows</ja_JP>
+   <ja>run Windows applications without a copy of Microsoft Windows</ja>
+   <kk>run Windows applications without a copy of Microsoft Windows</kk>
+   <ko>run Windows applications without a copy of Microsoft Windows</ko>
+   <lt>run Windows applications without a copy of Microsoft Windows</lt>
+   <mk>run Windows applications without a copy of Microsoft Windows</mk>
+   <mr>run Windows applications without a copy of Microsoft Windows</mr>
+   <nb>run Windows applications without a copy of Microsoft Windows</nb>
+   <nl>Windowstoepassingen uitvoeren zonder een exemplaar van Microsoft Windows</nl>
+   <pl>uruchamiaj aplikacje Windows bez kopii systemu Microsoft Windows</pl>
+   <pt_BR>Executar aplicações para Windows sem precisar do Microsoft Windows</pt_BR>
+   <pt>Executar aplicações para Windows sem precisar do Microsoft Windows</pt>
+   <ro>run Windows applications without a copy of Microsoft Windows</ro>
+   <ru>Запуск приложений для Windows в окружении GNU/Linux</ru>
+   <sk>run Windows applications without a copy of Microsoft Windows</sk>
+   <sl>Poženite Windows aplikacije brez kopije Microsoft Windows</sl>
+   <sq>run Windows applications without a copy of Microsoft Windows</sq>
+   <sr>run Windows applications without a copy of Microsoft Windows</sr>
+   <sv>kör Windows applikationer utan Microsoft Windows</sv>
+   <tr>run Windows applications without a copy of Microsoft Windows</tr>
+   <uk>run Windows applications without a copy of Microsoft Windows</uk>
+   <zh_CN>run Windows applications without a copy of Microsoft Windows</zh_CN>
+   <zh_TW>run Windows applications without a copy of Microsoft Windows</zh_TW>
 </description>
 
 <installable>

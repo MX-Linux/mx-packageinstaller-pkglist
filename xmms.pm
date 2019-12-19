@@ -10,51 +10,52 @@ XMMS
 </name>
 
 <description>
-   <am>multimedia player modelled on winamp</am>
-   <ar>multimedia player modelled on winamp</ar>
-   <bg>multimedia player modelled on winamp</bg>
-   <ca>Reproductor multimèdia modelat en winamp</ca>
-   <cs>multimedia player modelled on winamp</cs>
-   <da>multimedieafspiller som er udformet efter winamp</da>
-   <de>Multimedia-Player nach dem Vorbild von Winamp</de>
-   <el>αναπαραγωγή πολυμέσων με βάση το winamp</el>
-   <en>multimedia player modelled on winamp</en>
-   <es>Reproductor multimedia estilo Winamp</es>
-   <et>multimedia player modelled on winamp</et>
-   <eu>multimedia player modelled on winamp</eu>
-   <fa>multimedia player modelled on winamp</fa>
-   <fi>multimedia player modelled on winamp</fi>
-   <fr>Lecteur multimédia inspiré de winamp</fr>
-   <he_IL>multimedia player modelled on winamp</he_IL>
-   <hi>multimedia player modelled on winamp</hi>
-   <hr>multimedia player modelled on winamp</hr>
-   <hu>multimedia player modelled on winamp</hu>
-   <id>multimedia player modelled on winamp</id>
-   <is>multimedia player modelled on winamp</is>
-   <it>riproduttore multimediale simile a winamp</it>
-   <ja_JP>multimedia player modelled on winamp</ja_JP>
-   <ja>multimedia player modelled on winamp</ja>
-   <kk>multimedia player modelled on winamp</kk>
-   <ko>multimedia player modelled on winamp</ko>
-   <lt>multimedia player modelled on winamp</lt>
-   <mk>multimedia player modelled on winamp</mk>
-   <mr>multimedia player modelled on winamp</mr>
-   <nb>multimedia player modelled on winamp</nb>
-   <nl>multimediaspeler gemodelleerd naar winamp</nl>
-   <pl>odtwarzacz multimedialny wzorowany na Winampie</pl>
-   <pt_BR>Reprodutor de multimídia semelhante ao winamp</pt_BR>
-   <pt>Reprodutor de multimédia semelhante ao winamp</pt>
-   <ro>multimedia player modelled on winamp</ro>
-   <ru>Универсальный аудиоплеер наподобие WinAmp</ru>
-   <sk>multimedia player modelled on winamp</sk>
-   <sl>Večpredstavnostni predvajalnik, ki temelji na Winampu</sl>
-   <sq>multimedia player modelled on winamp</sq>
-   <sr>multimedia player modelled on winamp</sr>
-   <sv>multimediaspelare formad efter winamp</sv>
-   <tr>multimedia player modelled on winamp</tr>
-   <uk>мультимедія програвач схожий на winamp</uk>
-   <zh_CN>multimedia player modelled on winamp</zh_CN>
-   <zh_TW>multimedia player modelled on winamp</zh_TW>
+   <am>picture viewer, browser and converter</am>
+   <ar>picture viewer, browser and converter</ar>
+   <bg>picture viewer, browser and converter</bg>
+   <ca>visor d'imatges, navegador i conversor</ca>
+   <cs>picture viewer, browser and converter</cs>
+   <da>billedfremviser, browser og konverter</da>
+   <de>Bildbetrachter, -browser und -konverter</de>
+   <el>πρόγραμμα προβολής εικόνων, πρόγραμμα περιήγησης και μετατροπέα</el>
+   <en>picture viewer, browser and converter</en>
+   <es>visor de imágenes, navegador y conversor</es>
+   <et>picture viewer, browser and converter</et>
+   <eu>picture viewer, browser and converter</eu>
+   <fa>picture viewer, browser and converter</fa>
+   <fil_PH>picture viewer, browser and converter</fil_PH>
+   <fi>picture viewer, browser and converter</fi>
+   <fr>Visionner, feuilleter et convertir des images</fr>
+   <he_IL>picture viewer, browser and converter</he_IL>
+   <hi>picture viewer, browser and converter</hi>
+   <hr>picture viewer, browser and converter</hr>
+   <hu>picture viewer, browser and converter</hu>
+   <id>picture viewer, browser and converter</id>
+   <is>picture viewer, browser and converter</is>
+   <it>visualizzatore e convertitore di immagini</it>
+   <ja_JP>picture viewer, browser and converter</ja_JP>
+   <ja>picture viewer, browser and converter</ja>
+   <kk>picture viewer, browser and converter</kk>
+   <ko>picture viewer, browser and converter</ko>
+   <lt>picture viewer, browser and converter</lt>
+   <mk>picture viewer, browser and converter</mk>
+   <mr>picture viewer, browser and converter</mr>
+   <nb>picture viewer, browser and converter</nb>
+   <nl>afbeelding bekijker, verkenner en omzetter</nl>
+   <pl>przeglądarka zdjęć i konwerter</pl>
+   <pt_BR>Visualizador, navegador e conversor de imagens</pt_BR>
+   <pt>Visualizador, navegador e conversor de imagens</pt>
+   <ro>picture viewer, browser and converter</ro>
+   <ru>Просмотрщик изображений, каталогизатор и конвертер</ru>
+   <sk>picture viewer, browser and converter</sk>
+   <sl>Pregledovalnik slik, brskalnik in pretvornik</sl>
+   <sq>picture viewer, browser and converter</sq>
+   <sr>picture viewer, browser and converter</sr>
+   <sv>bildvisare och konverterare</sv>
+   <tr>picture viewer, browser and converter</tr>
+   <uk>picture viewer, browser and converter</uk>
+   <zh_CN>picture viewer, browser and converter</zh_CN>
+   <zh_TW>picture viewer, browser and converter</zh_TW>
 </description>
 
 <installable>

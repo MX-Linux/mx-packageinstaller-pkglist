@@ -10,51 +10,52 @@ apparmor
 </name>
 
 <description>
-   <am>Userspace components of AppArmor</am>
-   <ar>Userspace components of AppArmor</ar>
-   <bg>Userspace components of AppArmor</bg>
-   <ca>Userspace components of AppArmor</ca>
-   <cs>Userspace components of AppArmor</cs>
-   <da>Userspace components of AppArmor</da>
-   <de>Userspace components of AppArmor</de>
-   <el>Userspace components of AppArmor</el>
-   <en>Userspace components of AppArmor </en>
-   <es>Userspace components of AppArmor</es>
-   <et>Userspace components of AppArmor</et>
-   <eu>Userspace components of AppArmor</eu>
-   <fa>Userspace components of AppArmor</fa>
-   <fi>Userspace components of AppArmor</fi>
-   <fr>Userspace components of AppArmor</fr>
-   <he_IL>Userspace components of AppArmor</he_IL>
-   <hi>Userspace components of AppArmor</hi>
-   <hr>Userspace components of AppArmor</hr>
-   <hu>Userspace components of AppArmor</hu>
-   <id>Userspace components of AppArmor</id>
-   <is>Userspace components of AppArmor</is>
-   <it>Userspace components of AppArmor</it>
-   <ja_JP>Userspace components of AppArmor</ja_JP>
-   <ja>Userspace components of AppArmor</ja>
-   <kk>Userspace components of AppArmor</kk>
-   <ko>Userspace components of AppArmor</ko>
-   <lt>Userspace components of AppArmor</lt>
-   <mk>Userspace components of AppArmor</mk>
-   <mr>Userspace components of AppArmor</mr>
-   <nb>Userspace components of AppArmor</nb>
-   <nl>Userspace components of AppArmor</nl>
-   <pl>Userspace components of AppArmor</pl>
-   <pt_BR>Userspace components of AppArmor</pt_BR>
-   <pt>Userspace components of AppArmor</pt>
-   <ro>Userspace components of AppArmor</ro>
-   <ru>Userspace components of AppArmor</ru>
-   <sk>Userspace components of AppArmor</sk>
-   <sl>Userspace components of AppArmor</sl>
-   <sq>Userspace components of AppArmor</sq>
-   <sr>Userspace components of AppArmor</sr>
-   <sv>Userspace components of AppArmor</sv>
-   <tr>Userspace components of AppArmor</tr>
-   <uk>Userspace components of AppArmor</uk>
-   <zh_CN>Userspace components of AppArmor</zh_CN>
-   <zh_TW>Userspace components of AppArmor</zh_TW>
+   <am>Arabic localisation of Firefox</am>
+   <ar>Arabic localisation of Firefox</ar>
+   <bg>Arabic localisation of Firefox</bg>
+   <ca>Localització de Firefox en Àrab</ca>
+   <cs>Arabic localisation of Firefox</cs>
+   <da>Arabisk oversættelse af Firefox</da>
+   <de>Arabische Lokalisierung von Firefox</de>
+   <el>Αραβικός εντοπισμός του Firefox</el>
+   <en>Arabic localisation of Firefox</en>
+   <es>Localización Árabe de Firefox</es>
+   <et>Arabic localisation of Firefox</et>
+   <eu>Arabic localisation of Firefox</eu>
+   <fa>Arabic localisation of Firefox</fa>
+   <fil_PH>Arabic localisation of Firefox</fil_PH>
+   <fi>Arabic localisation of Firefox</fi>
+   <fr>Localisation arabe pour Firefox</fr>
+   <he_IL>Arabic localisation of Firefox</he_IL>
+   <hi>Arabic localisation of Firefox</hi>
+   <hr>Arapska lokalizacija Firefoxa</hr>
+   <hu>Arabic localisation of Firefox</hu>
+   <id>Arabic localisation of Firefox</id>
+   <is>Arabic localisation of Firefox</is>
+   <it>Localizzazione araba di Firefox</it>
+   <ja_JP>Arabic localisation of Firefox</ja_JP>
+   <ja>Arabic localisation of Firefox</ja>
+   <kk>Arabic localisation of Firefox</kk>
+   <ko>Arabic localisation of Firefox</ko>
+   <lt>Arabic localisation of Firefox</lt>
+   <mk>Arabic localisation of Firefox</mk>
+   <mr>Arabic localisation of Firefox</mr>
+   <nb>Arabic localisation of Firefox</nb>
+   <nl>Arabische lokalisatie van Firefox</nl>
+   <pl>Arabska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Árabe Localização para Firefox</pt_BR>
+   <pt>Árabe Localização para Firefox</pt>
+   <ro>Arabic localisation of Firefox</ro>
+   <ru>Арабская локализация Firefox</ru>
+   <sk>Arabic lokalizácia pre Firefox</sk>
+   <sl>Arabic localisation of Firefox</sl>
+   <sq>Arabic localisation of Firefox</sq>
+   <sr>Arabic localisation of Firefox</sr>
+   <sv>Arabisk lokalisering av  Firefox</sv>
+   <tr>Firefox'un Arapça yerelleştirmesi</tr>
+   <uk>Arabic localisation of Firefox</uk>
+   <zh_CN>Arabic localisation of Firefox</zh_CN>
+   <zh_TW>Arabic localisation of Firefox</zh_TW>
 </description>
 
 <installable>

@@ -10,51 +10,52 @@ Norwegian_Thunderbird
 </name>
 
 <description>
-   <am>Norwegian localisation of Thunderbird</am>
-   <ar>Norwegian localisation of Thunderbird</ar>
-   <bg>Norwegian localisation of Thunderbird</bg>
-   <ca>Localització de Thunderbird en Noruec</ca>
-   <cs>Norwegian localisation of Thunderbird</cs>
-   <da>Norsk oversættelse af Thunderbird</da>
-   <de>Norwegische Lokalisierung von Thunderbird</de>
-   <el>Νορβηγική εντοπισμός του Thunderbird</el>
-   <en>Norwegian localisation of Thunderbird</en>
-   <es>Localización Noruega de Thunderbird</es>
-   <et>Norwegian localisation of Thunderbird</et>
-   <eu>Norwegian localisation of Thunderbird</eu>
-   <fa>Norwegian localisation of Thunderbird</fa>
-   <fi>Norwegian localisation of Thunderbird</fi>
-   <fr>Localisation norvégienne pour Thunderbird</fr>
-   <he_IL>Norwegian localisation of Thunderbird</he_IL>
-   <hi>Norwegian localisation of Thunderbird</hi>
-   <hr>Norwegian localisation of Thunderbird</hr>
-   <hu>Norwegian localisation of Thunderbird</hu>
-   <id>Norwegian localisation of Thunderbird</id>
-   <is>Norwegian localisation of Thunderbird</is>
-   <it>Localizzazione norvegese di Thunderbird</it>
-   <ja_JP>Norwegian localisation of Thunderbird</ja_JP>
-   <ja>Norwegian localisation of Thunderbird</ja>
-   <kk>Norwegian localisation of Thunderbird</kk>
-   <ko>Norwegian localisation of Thunderbird</ko>
-   <lt>Norwegian localisation of Thunderbird</lt>
-   <mk>Norwegian localisation of Thunderbird</mk>
-   <mr>Norwegian localisation of Thunderbird</mr>
-   <nb>Norwegian localisation of Thunderbird</nb>
-   <nl>Noorse lokalisatie van Thunderbird</nl>
-   <pl>Norweska lokalizacja Thunderbirda</pl>
-   <pt_BR>Norueguês Localização para Thunderbird</pt_BR>
-   <pt>Norueguês Localização para Thunderbird</pt>
-   <ro>Norwegian localisation of Thunderbird</ro>
-   <ru>Norwegian localisation of Thunderbird</ru>
-   <sk>Norwegian localisation of Thunderbird</sk>
-   <sl>Norwegian localisation of Thunderbird</sl>
-   <sq>Norwegian localisation of Thunderbird</sq>
-   <sr>Norwegian localisation of Thunderbird</sr>
-   <sv>Norsk lokalisering av Thunderbird</sv>
-   <tr>Norwegian localisation of Thunderbird</tr>
-   <uk>Norwegian локалізація Thunderbird</uk>
-   <zh_CN>Norwegian localisation of Thunderbird</zh_CN>
-   <zh_TW>Norwegian localisation of Thunderbird</zh_TW>
+   <am>numix circular icons</am>
+   <ar>numix circular icons</ar>
+   <bg>numix circular icons</bg>
+   <ca>Icones circulars numix</ca>
+   <cs>numix circular icons</cs>
+   <da>numix cirkulære ikoner</da>
+   <de>Symbolthema Numix Circle</de>
+   <el>εικονίδια numix κυκλικά</el>
+   <en>numix circular icons</en>
+   <es>Numix iconos circulares</es>
+   <et>numix circular icons</et>
+   <eu>numix circular icons</eu>
+   <fa>numix circular icons</fa>
+   <fil_PH>numix circular icons</fil_PH>
+   <fi>numix circular icons</fi>
+   <fr>icons numix sous forme de cercles</fr>
+   <he_IL>numix circular icons</he_IL>
+   <hi>numix circular icons</hi>
+   <hr>numix circular icons</hr>
+   <hu>numix circular icons</hu>
+   <id>numix circular icons</id>
+   <is>numix circular icons</is>
+   <it>numix icone rotonde</it>
+   <ja_JP>numix circular icons</ja_JP>
+   <ja>numix circular icons</ja>
+   <kk>numix circular icons</kk>
+   <ko>numix circular icons</ko>
+   <lt>numix circular icons</lt>
+   <mk>numix circular icons</mk>
+   <mr>numix circular icons</mr>
+   <nb>numix circular icons</nb>
+   <nl>numix cirkelvormige iconen</nl>
+   <pl>okrągłe ikony numix</pl>
+   <pt_BR>Ícones circulares numix</pt_BR>
+   <pt>Ícones circulares numix</pt>
+   <ro>numix circular icons</ro>
+   <ru>Круглые значки Numix</ru>
+   <sk>numix circular icons</sk>
+   <sl>Okrogle numix ikone</sl>
+   <sq>numix circular icons</sq>
+   <sr>numix circular icons</sr>
+   <sv>numix cirkelrunda ikoner</sv>
+   <tr>numix circular icons</tr>
+   <uk>numix circular icons</uk>
+   <zh_CN>numix circular icons</zh_CN>
+   <zh_TW>numix circular icons</zh_TW>
 </description>
 
 <installable>

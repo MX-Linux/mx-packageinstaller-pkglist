@@ -10,51 +10,52 @@ Telugu_Libreoffice
 </name>
 
 <description>
-   <am>Telugu Language Meta-Package for LibreOffice</am>
-   <ar>Telugu Language Meta-Package for LibreOffice</ar>
-   <bg>Telugu Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Telugu per LibreOffice</ca>
-   <cs>Telugu Language Meta-Package for LibreOffice</cs>
-   <da>Telugu sprog-metapakke til LibreOffice</da>
-   <de>Telugu Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Telugu</el>
-   <en>Telugu Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Telugu para LibreOffice</es>
-   <et>Telugu Language Meta-Package for LibreOffice</et>
-   <eu>Telugu Language Meta-Package for LibreOffice</eu>
-   <fa>Telugu Language Meta-Package for LibreOffice</fa>
-   <fi>Telugu Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Telugu pour LibreOffice</fr>
-   <he_IL>Telugu Language Meta-Package for LibreOffice</he_IL>
-   <hi>Telugu Language Meta-Package for LibreOffice</hi>
-   <hr>Telugu Language Meta-Package for LibreOffice</hr>
-   <hu>Telugu Language Meta-Package for LibreOffice</hu>
-   <id>Telugu Language Meta-Package for LibreOffice</id>
-   <is>Telugu Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Telugu per LibreOffice</it>
-   <ja_JP>Telugu Language Meta-Package for LibreOffice</ja_JP>
-   <ja>Telugu Language Meta-Package for LibreOffice</ja>
-   <kk>Telugu Language Meta-Package for LibreOffice</kk>
-   <ko>Telugu Language Meta-Package for LibreOffice</ko>
-   <lt>Telugu Language Meta-Package for LibreOffice</lt>
-   <mk>Telugu Language Meta-Package for LibreOffice</mk>
-   <mr>Telugu Language Meta-Package for LibreOffice</mr>
-   <nb>Telugu Language Meta-Package for LibreOffice</nb>
-   <nl>Telugu Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Telugu metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Telugu Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Telugu Meta-Pacote de Idioma para LibreOffice</pt>
-   <ro>Telugu Language Meta-Package for LibreOffice</ro>
-   <ru>Telugu Language Meta-Package for LibreOffice</ru>
-   <sk>Telugu Language Meta-Package for LibreOffice</sk>
-   <sl>Telugu Language Meta-Package for LibreOffice</sl>
-   <sq>Telugu Language Meta-Package for LibreOffice</sq>
-   <sr>Telugu Language Meta-Package for LibreOffice</sr>
-   <sv>Telugu Språk Meta-Paket för LibreOffice</sv>
-   <tr>Telugu Language Meta-Package for LibreOffice</tr>
-   <uk>Telugu Language Meta-Package for LibreOffice</uk>
-   <zh_CN>Telugu Language Meta-Package for LibreOffice</zh_CN>
-   <zh_TW>Telugu Language Meta-Package for LibreOffice</zh_TW>
+   <am>Thai localisation of Firefox</am>
+   <ar>Thai localisation of Firefox</ar>
+   <bg>Thai localisation of Firefox</bg>
+   <ca>Localització de Firefox en Tailandès</ca>
+   <cs>Thai localisation of Firefox</cs>
+   <da>Thai oversættelse af Firefox</da>
+   <de>Thailändische Lokalisierung von Firefox</de>
+   <el>Ταϊλάνδης εντοπισμός του Firefox</el>
+   <en>Thai localisation of Firefox</en>
+   <es>Localización Tailandesa de Firefox</es>
+   <et>Thai localisation of Firefox</et>
+   <eu>Thai localisation of Firefox</eu>
+   <fa>Thai localisation of Firefox</fa>
+   <fil_PH>Thai localisation of Firefox</fil_PH>
+   <fi>Thai localisation of Firefox</fi>
+   <fr>Localisation thai pour Firefox</fr>
+   <he_IL>Thai localisation of Firefox</he_IL>
+   <hi>Thai localisation of Firefox</hi>
+   <hr>Thai localisation of Firefox</hr>
+   <hu>Thai localisation of Firefox</hu>
+   <id>Thai localisation of Firefox</id>
+   <is>Thai localisation of Firefox</is>
+   <it>Localizzazione tailandese di Firefox</it>
+   <ja_JP>Thai localisation of Firefox</ja_JP>
+   <ja>Thai localisation of Firefox</ja>
+   <kk>Thai localisation of Firefox</kk>
+   <ko>Thai localisation of Firefox</ko>
+   <lt>Thai localisation of Firefox</lt>
+   <mk>Thai localisation of Firefox</mk>
+   <mr>Thai localisation of Firefox</mr>
+   <nb>Thai localisation of Firefox</nb>
+   <nl>Thaise lokalisatie van Firefox</nl>
+   <pl>Tajska lokalizacja przeglądarki Firefox</pl>
+   <pt_BR>Tailandês Localização para Firefox</pt_BR>
+   <pt>Tailandês Localização para Firefox</pt>
+   <ro>Thai localisation of Firefox</ro>
+   <ru>Тайская локализация Firefox</ru>
+   <sk>Thai localisation of Firefox</sk>
+   <sl>Thai localisation of Firefox</sl>
+   <sq>Thai localisation of Firefox</sq>
+   <sr>Thai localisation of Firefox</sr>
+   <sv>Thailändsk lokalisering av Firefox</sv>
+   <tr>Firefox'un Tayca yerelleştirmesi</tr>
+   <uk>Thai localisation of Firefox</uk>
+   <zh_CN>Thai localisation of Firefox</zh_CN>
+   <zh_TW>Thai localisation of Firefox</zh_TW>
 </description>
 
 <installable>
