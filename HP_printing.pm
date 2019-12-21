@@ -13,6 +13,7 @@ HP Printing
    <am>HPLIP and printing extras</am>
    <ar>HPLIP and printing extras</ar>
    <bg>HPLIP and printing extras</bg>
+   <bn>HPLIP and printing extras</bn>
    <ca>HPLIP i extres d'impressió</ca>
    <cs>HPLIP and printing extras</cs>
    <da>Ekstra til HPLIP og udskrivning</da>
@@ -23,6 +24,7 @@ HP Printing
    <et>HPLIP and printing extras</et>
    <eu>HPLIP and printing extras</eu>
    <fa>HPLIP and printing extras</fa>
+   <fil_PH>HPLIP and printing extras</fil_PH>
    <fi>HPLIP and printing extras</fi>
    <fr>HPLIP et utilitaires d'impression</fr>
    <he_IL>HPLIP and printing extras</he_IL>
@@ -53,6 +55,7 @@ HP Printing
    <sv>HPLIP och utskrifts-extras</sv>
    <tr>HPLIP and printing extras</tr>
    <uk>HPLIP and printing extras</uk>
+   <vi>HPLIP and printing extras</vi>
    <zh_CN>HPLIP and printing extras</zh_CN>
    <zh_TW>HPLIP and printing extras</zh_TW>
 </description>

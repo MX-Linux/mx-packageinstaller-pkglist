@@ -13,6 +13,7 @@ Master PDF Editor (Free Version)
    <am>Edit PDF documents.</am>
    <ar>Edit PDF documents.</ar>
    <bg>Edit PDF documents.</bg>
+   <bn>Edit PDF documents.</bn>
    <ca>Editor de documents PDF</ca>
    <cs>Edit PDF documents.</cs>
    <da>Rediger PDF-dokumenter.</da>
@@ -23,6 +24,7 @@ Master PDF Editor (Free Version)
    <et>Edit PDF documents.</et>
    <eu>Edit PDF documents.</eu>
    <fa>Edit PDF documents.</fa>
+   <fil_PH>Edit PDF documents.</fil_PH>
    <fi>Muokkaa PDF-asiakirjoja.</fi>
    <fr>Éditer des documents PDF.</fr>
    <he_IL>Edit PDF documents.</he_IL>
@@ -51,8 +53,9 @@ Master PDF Editor (Free Version)
    <sq>Edit PDF documents.</sq>
    <sr>Edit PDF documents.</sr>
    <sv>Redigera PDF-dokument</sv>
-   <tr>Edit PDF documents.</tr>
+   <tr>PDF belgeleri düzenle.</tr>
    <uk>редагування PDF документів.</uk>
+   <vi>Edit PDF documents.</vi>
    <zh_CN>Edit PDF documents.</zh_CN>
    <zh_TW>Edit PDF documents.</zh_TW>
 </description>

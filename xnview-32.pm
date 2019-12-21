@@ -13,6 +13,7 @@ XnView
    <am>picture viewer, browser and converter</am>
    <ar>picture viewer, browser and converter</ar>
    <bg>picture viewer, browser and converter</bg>
+   <bn>picture viewer, browser and converter</bn>
    <ca>visor d'imatges, navegador i conversor</ca>
    <cs>picture viewer, browser and converter</cs>
    <da>billedfremviser, browser og konverter</da>
@@ -23,6 +24,7 @@ XnView
    <et>picture viewer, browser and converter</et>
    <eu>picture viewer, browser and converter</eu>
    <fa>picture viewer, browser and converter</fa>
+   <fil_PH>picture viewer, browser and converter</fil_PH>
    <fi>picture viewer, browser and converter</fi>
    <fr>Visionner, feuilleter et convertir des images</fr>
    <he_IL>picture viewer, browser and converter</he_IL>
@@ -53,6 +55,7 @@ XnView
    <sv>bildvisare och konverterare</sv>
    <tr>picture viewer, browser and converter</tr>
    <uk>picture viewer, browser and converter</uk>
+   <vi>picture viewer, browser and converter</vi>
    <zh_CN>picture viewer, browser and converter</zh_CN>
    <zh_TW>picture viewer, browser and converter</zh_TW>
 </description>

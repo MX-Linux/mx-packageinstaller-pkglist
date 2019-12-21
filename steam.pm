@@ -13,6 +13,7 @@ Steam
    <am>Steam powered games</am>
    <ar>Steam powered games</ar>
    <bg>Steam powered games</bg>
+   <bn>Steam powered games</bn>
    <ca>Jocs a través de Steam</ca>
    <cs>Steam powered games</cs>
    <da>Spil fra Steam</da>
@@ -23,6 +24,7 @@ Steam
    <et>Steam powered games</et>
    <eu>Steam powered games</eu>
    <fa>Steam powered games</fa>
+   <fil_PH>Steam powered games</fil_PH>
    <fi>Steam powered games</fi>
    <fr>Jeux fonctionnant avec Steam</fr>
    <he_IL>Steam powered games</he_IL>
@@ -53,6 +55,7 @@ Steam
    <sv>Steam-drivna spel</sv>
    <tr>Steam powered games</tr>
    <uk>Steam powered games</uk>
+   <vi>Steam powered games</vi>
    <zh_CN>Steam powered games</zh_CN>
    <zh_TW>Steam powered games</zh_TW>
 </description>

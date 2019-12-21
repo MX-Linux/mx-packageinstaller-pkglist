@@ -13,6 +13,7 @@ German_Libreoffice
    <am>German Language Meta-Package for LibreOffice</am>
    <ar>German Language Meta-Package for LibreOffice</ar>
    <bg>German Language Meta-Package for LibreOffice</bg>
+   <bn>German Language Meta-Package for LibreOffice</bn>
    <ca>Meta-paquet d'alemany per LibreOffice</ca>
    <cs>German Language Meta-Package for LibreOffice</cs>
    <da>Tysk sprog-metapakke til LibreOffice</da>
@@ -23,6 +24,7 @@ German_Libreoffice
    <et>German Language Meta-Package for LibreOffice</et>
    <eu>German Language Meta-Package for LibreOffice</eu>
    <fa>German Language Meta-Package for LibreOffice</fa>
+   <fil_PH>German Language Meta-Package for LibreOffice</fil_PH>
    <fi>German Language Meta-Package for LibreOffice</fi>
    <fr>Méta-paquet langue allemande pour LibreOffice</fr>
    <he_IL>German Language Meta-Package for LibreOffice</he_IL>
@@ -53,6 +55,7 @@ German_Libreoffice
    <sv>Tyskt Språk Meta-Paket för LibreOffice</sv>
    <tr>German Language Meta-Package for LibreOffice</tr>
    <uk>German Language Meta-Package for LibreOffice</uk>
+   <vi>German Language Meta-Package for LibreOffice</vi>
    <zh_CN>German Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>German Language Meta-Package for LibreOffice</zh_TW>
 </description>

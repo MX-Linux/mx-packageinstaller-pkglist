@@ -13,25 +13,27 @@ Hindi_Libreoffice
    <am>Hindi Language Meta-Package for LibreOffice</am>
    <ar>Hindi Language Meta-Package for LibreOffice</ar>
    <bg>Hindi Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Hindi per LibreOffice</ca>
+   <bn>Hindi Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Hindi per LibreOffice</ca>
    <cs>Hindi Language Meta-Package for LibreOffice</cs>
-   <da>Hindi sprog-metapakke til LibreOffice</da>
+   <da>Hindi Language Meta-Package for LibreOffice</da>
    <de>Hindi Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Hindi</el>
+   <el>LibreOffice στα Χίντι</el>
    <en>Hindi Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Hindi para LibreOffice</es>
+   <es>Metapaquete de idioma hindi para LibreOffice</es>
    <et>Hindi Language Meta-Package for LibreOffice</et>
    <eu>Hindi Language Meta-Package for LibreOffice</eu>
    <fa>Hindi Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Hindi Language Meta-Package for LibreOffice</fil_PH>
    <fi>Hindi Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Hindi pour LibreOffice</fr>
+   <fr>Hindi Language Meta-Package for LibreOffice</fr>
    <he_IL>Hindi Language Meta-Package for LibreOffice</he_IL>
    <hi>Hindi Language Meta-Package for LibreOffice</hi>
    <hr>Hindi Language Meta-Package for LibreOffice</hr>
    <hu>Hindi Language Meta-Package for LibreOffice</hu>
    <id>Hindi Language Meta-Package for LibreOffice</id>
    <is>Hindi Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Hindi per LibreOffice</it>
+   <it>Meta-pacchetto della lingua hindi per LibreOffice</it>
    <ja_JP>Hindi Language Meta-Package for LibreOffice</ja_JP>
    <ja>Hindi Language Meta-Package for LibreOffice</ja>
    <kk>Hindi Language Meta-Package for LibreOffice</kk>
@@ -41,18 +43,19 @@ Hindi_Libreoffice
    <mr>Hindi Language Meta-Package for LibreOffice</mr>
    <nb>Hindi Language Meta-Package for LibreOffice</nb>
    <nl>Hindi Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Hindi metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Hindi Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pl>Hindi Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Hindi Language Meta-Package for LibreOffice</pt_BR>
    <pt>Hindi Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Hindi Language Meta-Package for LibreOffice</ro>
    <ru>Hindi Language Meta-Package for LibreOffice</ru>
    <sk>Hindi Language Meta-Package for LibreOffice</sk>
-   <sl>Hindi Language Meta-Package for LibreOffice</sl>
+   <sl>Hindujski jezikovni meta-paket za LibreOffice</sl>
    <sq>Hindi Language Meta-Package for LibreOffice</sq>
    <sr>Hindi Language Meta-Package for LibreOffice</sr>
    <sv>Hindi Språk Meta-Paket för LibreOffice</sv>
    <tr>Hindi Language Meta-Package for LibreOffice</tr>
    <uk>Hindi Language Meta-Package for LibreOffice</uk>
+   <vi>Hindi Language Meta-Package for LibreOffice</vi>
    <zh_CN>Hindi Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Hindi Language Meta-Package for LibreOffice</zh_TW>
 </description>

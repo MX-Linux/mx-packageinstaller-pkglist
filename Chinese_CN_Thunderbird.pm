@@ -13,6 +13,7 @@ Chinese_CN_Thunderbird
    <am>Chinese_simplified localisation of Thunderbird</am>
    <ar>Chinese_simplified localisation of Thunderbird</ar>
    <bg>Chinese_simplified localisation of Thunderbird</bg>
+   <bn>Chinese_simplified localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Xinès simplificat</ca>
    <cs>Chinese_simplified localisation of Thunderbird</cs>
    <da>Kinesisk (forenklet) oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Chinese_CN_Thunderbird
    <et>Chinese_simplified localisation of Thunderbird</et>
    <eu>Chinese_simplified localisation of Thunderbird</eu>
    <fa>Chinese_simplified localisation of Thunderbird</fa>
+   <fil_PH>Chinese_simplified localisation of Thunderbird</fil_PH>
    <fi>Chinese_simplified localisation of Thunderbird</fi>
    <fr>Localisation chinois-simplifié pour Thunderbird</fr>
    <he_IL>Chinese_simplified localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Chinese_CN_Thunderbird
    <sq>Chinese_simplified localisation of Thunderbird</sq>
    <sr>Chinese_simplified localisation of Thunderbird</sr>
    <sv>Kinesisk_förenklad lokalisering av Thunderbird</sv>
-   <tr>Chinese_simplified localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Basitleştirilmiş_Çince yerelleştirmesi</tr>
    <uk>Chinese_simplified локалізація Thunderbird</uk>
+   <vi>Chinese_simplified localisation of Thunderbird</vi>
    <zh_CN>Chinese_simplified localisation of Thunderbird</zh_CN>
    <zh_TW>Chinese_simplified localisation of Thunderbird</zh_TW>
 </description>

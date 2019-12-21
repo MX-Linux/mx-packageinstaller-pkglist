@@ -13,6 +13,7 @@ rTorrent
    <am>an ncurses BitTorrent client</am>
    <ar>an ncurses BitTorrent client</ar>
    <bg>an ncurses BitTorrent client</bg>
+   <bn>an ncurses BitTorrent client</bn>
    <ca>Un client de BitTorrent en ncurses</ca>
    <cs>an ncurses BitTorrent client</cs>
    <da>en ncurses BitTorrent-klient</da>
@@ -23,6 +24,7 @@ rTorrent
    <et>an ncurses BitTorrent client</et>
    <eu>an ncurses BitTorrent client</eu>
    <fa>an ncurses BitTorrent client</fa>
+   <fil_PH>an ncurses BitTorrent client</fil_PH>
    <fi>an ncurses BitTorrent client</fi>
    <fr>Client BitTorrent ncurses</fr>
    <he_IL>an ncurses BitTorrent client</he_IL>
@@ -53,6 +55,7 @@ rTorrent
    <sv>en ncurses BitTorrent klient</sv>
    <tr>an ncurses BitTorrent client</tr>
    <uk>консольний BitTorrent клієнт</uk>
+   <vi>an ncurses BitTorrent client</vi>
    <zh_CN>an ncurses BitTorrent client</zh_CN>
    <zh_TW>an ncurses BitTorrent client</zh_TW>
 </description>

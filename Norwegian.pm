@@ -13,6 +13,7 @@ Norwegian
    <am>Norwegian Language Meta-Package</am>
    <ar>Norwegian Language Meta-Package</ar>
    <bg>Norwegian Language Meta-Package</bg>
+   <bn>Norwegian Language Meta-Package</bn>
    <ca>Meta-paquet de llengua per a Noruec</ca>
    <cs>Norwegian Language Meta-Package</cs>
    <da>Norsk sprog-metapakke</da>
@@ -23,6 +24,7 @@ Norwegian
    <et>Norwegian Language Meta-Package</et>
    <eu>Norwegian Language Meta-Package</eu>
    <fa>Norwegian Language Meta-Package</fa>
+   <fil_PH>Norwegian Language Meta-Package</fil_PH>
    <fi>Norwegian Language Meta-Package</fi>
    <fr>Méta-paquet pour langue norvégienne</fr>
    <he_IL>Norwegian Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Norwegian
    <sv>Norskt Språk Meta-Paket </sv>
    <tr>Norwegian Language Meta-Package</tr>
    <uk>Norwegian Language Meta-Package</uk>
+   <vi>Norwegian Language Meta-Package</vi>
    <zh_CN>Norwegian Language Meta-Package</zh_CN>
    <zh_TW>Norwegian Language Meta-Package</zh_TW>
 </description>

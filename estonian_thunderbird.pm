@@ -13,6 +13,7 @@ Estonian_Thunderbird
    <am>Estonian localisation of Thunderbird</am>
    <ar>Estonian localisation of Thunderbird</ar>
    <bg>Estonian localisation of Thunderbird</bg>
+   <bn>Estonian localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Estonià</ca>
    <cs>Estonian localisation of Thunderbird</cs>
    <da>Estisk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Estonian_Thunderbird
    <et>Estonian localisation of Thunderbird</et>
    <eu>Estonian localisation of Thunderbird</eu>
    <fa>Estonian localisation of Thunderbird</fa>
+   <fil_PH>Estonian localisation of Thunderbird</fil_PH>
    <fi>Estonian localisation of Thunderbird</fi>
    <fr>Localisation estonienne pour Thunderbird</fr>
    <he_IL>Estonian localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Estonian_Thunderbird
    <sq>Estonian localisation of Thunderbird</sq>
    <sr>Estonian localisation of Thunderbird</sr>
    <sv>Estnisk lokalisering av Thunderbird</sv>
-   <tr>Estonian localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Estonya dili yerelleştirmesi</tr>
    <uk>Estonian локалізація Thunderbird</uk>
+   <vi>Estonian localisation of Thunderbird</vi>
    <zh_CN>Estonian localisation of Thunderbird</zh_CN>
    <zh_TW>Estonian localisation of Thunderbird</zh_TW>
 </description>

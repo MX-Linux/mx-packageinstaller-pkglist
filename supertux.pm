@@ -13,6 +13,7 @@ SuperTux
    <am>Mario style platform game w/ Tux</am>
    <ar>Mario style platform game w/ Tux</ar>
    <bg>Mario style platform game w/ Tux</bg>
+   <bn>Mario style platform game w/ Tux</bn>
    <ca>Plataforma de jocs de l'estil Mario amb Tux</ca>
    <cs>Mario style platform game w/ Tux</cs>
    <da>Platformspil med Tux i stil med Mario</da>
@@ -23,6 +24,7 @@ SuperTux
    <et>Mario style platform game w/ Tux</et>
    <eu>Mario style platform game w/ Tux</eu>
    <fa>Mario style platform game w/ Tux</fa>
+   <fil_PH>Mario style platform game w/ Tux</fil_PH>
    <fi>Mario style platform game w/ Tux</fi>
    <fr>Jeu de plate-formes de style Mario, mais avec Tux comme héros</fr>
    <he_IL>Mario style platform game w/ Tux</he_IL>
@@ -53,6 +55,7 @@ SuperTux
    <sv>Plattformsspel i Mariostil med Tux</sv>
    <tr>Mario style platform game w/ Tux</tr>
    <uk>Mario style platform game w/ Tux</uk>
+   <vi>Mario style platform game w/ Tux</vi>
    <zh_CN>Mario style platform game w/ Tux</zh_CN>
    <zh_TW>Mario style platform game w/ Tux</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Catalan_Libreoffice
    <am>Catalan LibreOffice Language Meta-Package</am>
    <ar>Catalan LibreOffice Language Meta-Package</ar>
    <bg>Catalan LibreOffice Language Meta-Package</bg>
+   <bn>Catalan LibreOffice Language Meta-Package</bn>
    <ca>Meta-paquet de llengua Catalana per LibreOffice</ca>
    <cs>Catalan LibreOffice Language Meta-Package</cs>
    <da>Catalansk LibreOffice sprog-metapakke</da>
@@ -23,6 +24,7 @@ Catalan_Libreoffice
    <et>Catalan LibreOffice Language Meta-Package</et>
    <eu>Catalan LibreOffice Language Meta-Package</eu>
    <fa>Catalan LibreOffice Language Meta-Package</fa>
+   <fil_PH>Catalan LibreOffice Language Meta-Package</fil_PH>
    <fi>Catalan LibreOffice Language Meta-Package</fi>
    <fr>Localisation catalane pour Meta-Package</fr>
    <he_IL>Catalan LibreOffice Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Catalan_Libreoffice
    <sv>Katalansk LibreOffice Språk-Meta-Paket</sv>
    <tr>Catalan LibreOffice Language Meta-Package</tr>
    <uk>мета-пакунок з мовою Catalan для LibreOffice</uk>
+   <vi>Catalan LibreOffice Language Meta-Package</vi>
    <zh_CN>Catalan LibreOffice Language Meta-Package</zh_CN>
    <zh_TW>Catalan LibreOffice Language Meta-Package</zh_TW>
 </description>

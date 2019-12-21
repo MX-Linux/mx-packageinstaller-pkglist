@@ -13,6 +13,7 @@ Japanese_Input
    <am>Japanese ibus</am>
    <ar>Japanese ibus</ar>
    <bg>Japanese ibus</bg>
+   <bn>Japanese ibus</bn>
    <ca>Ibus en japonès</ca>
    <cs>Japanese ibus</cs>
    <da>Japansk ibus</da>
@@ -23,6 +24,7 @@ Japanese_Input
    <et>Japanese ibus</et>
    <eu>Japanese ibus</eu>
    <fa>Japanese ibus</fa>
+   <fil_PH>Japanese ibus</fil_PH>
    <fi>Japanese ibus</fi>
    <fr>Japonais ibus</fr>
    <he_IL>Japanese ibus</he_IL>
@@ -51,8 +53,9 @@ Japanese_Input
    <sq>Japanese ibus</sq>
    <sr>Japanese ibus</sr>
    <sv>Japansk ibus</sv>
-   <tr>Japanese ibus</tr>
+   <tr>Japonca ibus</tr>
    <uk>Japanese ibus</uk>
+   <vi>Japanese ibus</vi>
    <zh_CN>Japanese ibus</zh_CN>
    <zh_TW>Japanese ibus</zh_TW>
 </description>

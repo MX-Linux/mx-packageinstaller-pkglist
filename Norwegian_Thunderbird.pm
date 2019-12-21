@@ -13,6 +13,7 @@ Norwegian_Thunderbird
    <am>Norwegian localisation of Thunderbird</am>
    <ar>Norwegian localisation of Thunderbird</ar>
    <bg>Norwegian localisation of Thunderbird</bg>
+   <bn>Norwegian localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Noruec</ca>
    <cs>Norwegian localisation of Thunderbird</cs>
    <da>Norsk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Norwegian_Thunderbird
    <et>Norwegian localisation of Thunderbird</et>
    <eu>Norwegian localisation of Thunderbird</eu>
    <fa>Norwegian localisation of Thunderbird</fa>
+   <fil_PH>Norwegian localisation of Thunderbird</fil_PH>
    <fi>Norwegian localisation of Thunderbird</fi>
    <fr>Localisation norvégienne pour Thunderbird</fr>
    <he_IL>Norwegian localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Norwegian_Thunderbird
    <sq>Norwegian localisation of Thunderbird</sq>
    <sr>Norwegian localisation of Thunderbird</sr>
    <sv>Norsk lokalisering av Thunderbird</sv>
-   <tr>Norwegian localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Norveççe yerelleştirmesi</tr>
    <uk>Norwegian локалізація Thunderbird</uk>
+   <vi>Norwegian localisation of Thunderbird</vi>
    <zh_CN>Norwegian localisation of Thunderbird</zh_CN>
    <zh_TW>Norwegian localisation of Thunderbird</zh_TW>
 </description>

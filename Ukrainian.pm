@@ -13,6 +13,7 @@ Ukrainian
    <am>Ukrainian Language Meta-Package</am>
    <ar>Ukrainian Language Meta-Package</ar>
    <bg>Ukrainian Language Meta-Package</bg>
+   <bn>Ukrainian Language Meta-Package</bn>
    <ca>Meta-paquet de llengua en Ucrainès</ca>
    <cs>Ukrainian Language Meta-Package</cs>
    <da>Ukrainsk sprog-metapakke</da>
@@ -23,6 +24,7 @@ Ukrainian
    <et>Ukrainian Language Meta-Package</et>
    <eu>Ukrainian Language Meta-Package</eu>
    <fa>Ukrainian Language Meta-Package</fa>
+   <fil_PH>Ukrainian Language Meta-Package</fil_PH>
    <fi>Ukrainian Language Meta-Package</fi>
    <fr>Méta-paquet pour langue ukrainienne</fr>
    <he_IL>Ukrainian Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Ukrainian
    <sv>Ukrainskt Språk Meta-Paket </sv>
    <tr>Ukrainian Language Meta-Package</tr>
    <uk>Ukrainian Language Meta-Package</uk>
+   <vi>Ukrainian Language Meta-Package</vi>
    <zh_CN>Ukrainian Language Meta-Package</zh_CN>
    <zh_TW>Ukrainian Language Meta-Package</zh_TW>
 </description>

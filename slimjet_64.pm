@@ -13,6 +13,7 @@ Slimjet
    <am>Latest Slimjet Browser (run again for updates)</am>
    <ar>Latest Slimjet Browser (run again for updates)</ar>
    <bg>Latest Slimjet Browser (run again for updates)</bg>
+   <bn>Latest Slimjet Browser (run again for updates)</bn>
    <ca>Darrer navegador Slimjet (torneu a executar-lo per actualitzacions)</ca>
    <cs>Latest Slimjet Browser (run again for updates)</cs>
    <da>Seneste Slimjet-browser (kør igen for opdateringer)</da>
@@ -23,6 +24,7 @@ Slimjet
    <et>Latest Slimjet Browser (run again for updates)</et>
    <eu>Latest Slimjet Browser (run again for updates)</eu>
    <fa>Latest Slimjet Browser (run again for updates)</fa>
+   <fil_PH>Latest Slimjet Browser (run again for updates)</fil_PH>
    <fi>Latest Slimjet Browser (run again for updates)</fi>
    <fr>La dernière version du navigateur Slimjet (relancer pour mise à jour)</fr>
    <he_IL>Latest Slimjet Browser (run again for updates)</he_IL>
@@ -53,6 +55,7 @@ Slimjet
    <sv>Senaste Slimjet Webbläsare (kör igen för uppdateringar)</sv>
    <tr>Latest Slimjet Browser (run again for updates)</tr>
    <uk>Latest Slimjet Browser (run again for updates)</uk>
+   <vi>Latest Slimjet Browser (run again for updates)</vi>
    <zh_CN>Latest Slimjet Browser (run again for updates)</zh_CN>
    <zh_TW>Latest Slimjet Browser (run again for updates)</zh_TW>
 </description>

@@ -13,6 +13,7 @@ German_Firefox
    <am>German localisation of Firefox</am>
    <ar>German localisation of Firefox</ar>
    <bg>German localisation of Firefox</bg>
+   <bn>German localisation of Firefox</bn>
    <ca>Localització de Firefox en Alemany</ca>
    <cs>German localisation of Firefox</cs>
    <da>Tysk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ German_Firefox
    <et>German localisation of Firefox</et>
    <eu>German localisation of Firefox</eu>
    <fa>German localisation of Firefox</fa>
+   <fil_PH>German localisation of Firefox</fil_PH>
    <fi>German localisation of Firefox</fi>
    <fr>Localisation allemande pour Firefox</fr>
    <he_IL>German localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ German_Firefox
    <sq>German localisation of Firefox</sq>
    <sr>German localisation of Firefox</sr>
    <sv>Tysk lokalisering av Firefox</sv>
-   <tr>German localisation of Firefox</tr>
+   <tr>Firefox'un Almanca yerelleştirmesi</tr>
    <uk>German локалізація of Firefox</uk>
+   <vi>German localisation of Firefox</vi>
    <zh_CN>German localisation of Firefox</zh_CN>
    <zh_TW>German localisation of Firefox</zh_TW>
 </description>

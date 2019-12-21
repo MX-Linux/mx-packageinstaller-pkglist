@@ -13,6 +13,7 @@ Openshot
    <am>non-linear video editor</am>
    <ar>non-linear video editor</ar>
    <bg>non-linear video editor</bg>
+   <bn>non-linear video editor</bn>
    <ca>Editor de vídeo no lineal</ca>
    <cs>non-linear video editor</cs>
    <da>ikke-lineær videoredigering</da>
@@ -23,6 +24,7 @@ Openshot
    <et>non-linear video editor</et>
    <eu>non-linear video editor</eu>
    <fa>non-linear video editor</fa>
+   <fil_PH>non-linear video editor</fil_PH>
    <fi>non-linear video editor</fi>
    <fr>Éditeur vidéo non-linéaire</fr>
    <he_IL>non-linear video editor</he_IL>
@@ -53,6 +55,7 @@ Openshot
    <sv>icke-linjär videoredigerare</sv>
    <tr>non-linear video editor</tr>
    <uk>нелінійний відео редактор</uk>
+   <vi>non-linear video editor</vi>
    <zh_CN>non-linear video editor</zh_CN>
    <zh_TW>non-linear video editor</zh_TW>
 </description>

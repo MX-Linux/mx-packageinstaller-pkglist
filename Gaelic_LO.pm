@@ -13,25 +13,27 @@ Gaelic_Libreoffice
    <am>Gaelic Language Meta-Package for LibreOffice</am>
    <ar>Gaelic Language Meta-Package for LibreOffice</ar>
    <bg>Gaelic Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Gaelic per LibreOffice</ca>
+   <bn>Gaelic Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Gaèlic per LibreOffice</ca>
    <cs>Gaelic Language Meta-Package for LibreOffice</cs>
-   <da>Gaelic sprog-metapakke til LibreOffice</da>
-   <de>Gaelic Meta-Paket für LibreOffice</de>
+   <da>Gaelic Language Meta-Package for LibreOffice</da>
+   <de>Gälisches Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Gaelic</el>
    <en>Gaelic Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Gaelic para LibreOffice</es>
+   <es>Metapaquete de idioma gaélico para LibreOffice</es>
    <et>Gaelic Language Meta-Package for LibreOffice</et>
    <eu>Gaelic Language Meta-Package for LibreOffice</eu>
    <fa>Gaelic Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Gaelic Language Meta-Package for LibreOffice</fil_PH>
    <fi>Gaelic Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Gaelic pour LibreOffice</fr>
+   <fr>Gaelic Language Meta-Package for LibreOffice</fr>
    <he_IL>Gaelic Language Meta-Package for LibreOffice</he_IL>
    <hi>Gaelic Language Meta-Package for LibreOffice</hi>
    <hr>Gaelic Language Meta-Package for LibreOffice</hr>
    <hu>Gaelic Language Meta-Package for LibreOffice</hu>
    <id>Gaelic Language Meta-Package for LibreOffice</id>
    <is>Gaelic Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Gaelic per LibreOffice</it>
+   <it>Meta-pacchetto della lingua gaelica per LibreOffice</it>
    <ja_JP>Gaelic Language Meta-Package for LibreOffice</ja_JP>
    <ja>Gaelic Language Meta-Package for LibreOffice</ja>
    <kk>Gaelic Language Meta-Package for LibreOffice</kk>
@@ -40,19 +42,20 @@ Gaelic_Libreoffice
    <mk>Gaelic Language Meta-Package for LibreOffice</mk>
    <mr>Gaelic Language Meta-Package for LibreOffice</mr>
    <nb>Gaelic Language Meta-Package for LibreOffice</nb>
-   <nl>Gaelic Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Gaelic metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Gaelic Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Gaelic Meta-Pacote de Idioma para LibreOffice</pt>
+   <nl>Gaelic Language Meta-Package for LibreOffice</nl>
+   <pl>Gaelic Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Gaelic Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Gaélico Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Gaelic Language Meta-Package for LibreOffice</ro>
    <ru>Gaelic Language Meta-Package for LibreOffice</ru>
    <sk>Gaelic Language Meta-Package for LibreOffice</sk>
-   <sl>Gaelic Language Meta-Package for LibreOffice</sl>
+   <sl>Galski jezikovni meta-paket za LibreOffice</sl>
    <sq>Gaelic Language Meta-Package for LibreOffice</sq>
    <sr>Gaelic Language Meta-Package for LibreOffice</sr>
-   <sv>Gaelic Språk Meta-Paket för LibreOffice</sv>
+   <sv>Gaeliskt Språk Meta-Paket för LibreOffice</sv>
    <tr>Gaelic Language Meta-Package for LibreOffice</tr>
    <uk>Gaelic Language Meta-Package for LibreOffice</uk>
+   <vi>Gaelic Language Meta-Package for LibreOffice</vi>
    <zh_CN>Gaelic Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Gaelic Language Meta-Package for LibreOffice</zh_TW>
 </description>

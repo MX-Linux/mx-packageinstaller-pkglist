@@ -13,6 +13,7 @@ Chinese_fonts
    <am>Chinese fonts packages</am>
    <ar>Chinese fonts packages</ar>
    <bg>Chinese fonts packages</bg>
+   <bn>Chinese fonts packages</bn>
    <ca>Paquets de tipus de lletra en Xinès</ca>
    <cs>Chinese fonts packages</cs>
    <da>Kinesisk skrifttyper-pakke</da>
@@ -23,6 +24,7 @@ Chinese_fonts
    <et>Chinese fonts packages</et>
    <eu>Chinese fonts packages</eu>
    <fa>Chinese fonts packages</fa>
+   <fil_PH>Chinese fonts packages</fil_PH>
    <fi>Chinese fonts packages</fi>
    <fr>Paquets pour polices chinoises</fr>
    <he_IL>Chinese fonts packages</he_IL>
@@ -51,8 +53,9 @@ Chinese_fonts
    <sq>Chinese fonts packages</sq>
    <sr>Chinese fonts packages</sr>
    <sv>Kinesiska typsnitts-paket</sv>
-   <tr>Chinese fonts packages</tr>
+   <tr>Çince yazı tipi paketleri</tr>
    <uk>Пакунок з Китайськими шрифтами</uk>
+   <vi>Chinese fonts packages</vi>
    <zh_CN>Chinese fonts packages</zh_CN>
    <zh_TW>Chinese fonts packages</zh_TW>
 </description>

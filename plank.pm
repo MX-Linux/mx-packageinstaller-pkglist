@@ -13,6 +13,7 @@ Plank
    <am>Simple but good looking dock</am>
    <ar>Simple but good looking dock</ar>
    <bg>Simple but good looking dock</bg>
+   <bn>Simple but good looking dock</bn>
    <ca>Dock senzill però amb bon aspecte</ca>
    <cs>Simple but good looking dock</cs>
    <da>Simpel med flot dok</da>
@@ -23,6 +24,7 @@ Plank
    <et>Simple but good looking dock</et>
    <eu>Simple but good looking dock</eu>
    <fa>Simple but good looking dock</fa>
+   <fil_PH>Simple but good looking dock</fil_PH>
    <fi>Simple but good looking dock</fi>
    <fr>Un dock sobre et agréable</fr>
    <he_IL>Simple but good looking dock</he_IL>
@@ -53,6 +55,7 @@ Plank
    <sv>Enkel men snygg docka</sv>
    <tr>Simple but good looking dock</tr>
    <uk>простий, але гарний док</uk>
+   <vi>Simple but good looking dock</vi>
    <zh_CN>Simple but good looking dock</zh_CN>
    <zh_TW>Simple but good looking dock</zh_TW>
 </description>

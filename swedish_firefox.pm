@@ -13,6 +13,7 @@ Swedish_Firefox
    <am>Swedish localisation of Firefox</am>
    <ar>Swedish localisation of Firefox</ar>
    <bg>Swedish localisation of Firefox</bg>
+   <bn>Swedish localisation of Firefox</bn>
    <ca>Localització de Firefox en Suec</ca>
    <cs>Swedish localisation of Firefox</cs>
    <da>Svensk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Swedish_Firefox
    <et>Swedish localisation of Firefox</et>
    <eu>Swedish localisation of Firefox</eu>
    <fa>Swedish localisation of Firefox</fa>
+   <fil_PH>Swedish localisation of Firefox</fil_PH>
    <fi>Swedish localisation of Firefox</fi>
    <fr>Localisation suédoise pour Firefox</fr>
    <he_IL>Swedish localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Swedish_Firefox
    <sq>Swedish localisation of Firefox</sq>
    <sr>Swedish localisation of Firefox</sr>
    <sv>Svensk lokalisering av Firefox</sv>
-   <tr>Swedish localisation of Firefox</tr>
+   <tr>Firefox'un İsveççe yerelleştirmesi</tr>
    <uk>Swedish localisation of Firefox</uk>
+   <vi>Swedish localisation of Firefox</vi>
    <zh_CN>Swedish localisation of Firefox</zh_CN>
    <zh_TW>Swedish localisation of Firefox</zh_TW>
 </description>

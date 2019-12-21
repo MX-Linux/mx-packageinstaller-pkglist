@@ -13,25 +13,27 @@ Oromo_Libreoffice
    <am>Oromo Language Meta-Package for LibreOffice</am>
    <ar>Oromo Language Meta-Package for LibreOffice</ar>
    <bg>Oromo Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Oromo per LibreOffice</ca>
+   <bn>Oromo Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Oromo per LibreOffice</ca>
    <cs>Oromo Language Meta-Package for LibreOffice</cs>
-   <da>Oromo sprog-metapakke til LibreOffice</da>
+   <da>Oromo Language Meta-Package for LibreOffice</da>
    <de>Oromo Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Oromo</el>
    <en>Oromo Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Oromo para LibreOffice</es>
+   <es>Meta-Paquete Oromo Language para LibreOffice</es>
    <et>Oromo Language Meta-Package for LibreOffice</et>
    <eu>Oromo Language Meta-Package for LibreOffice</eu>
    <fa>Oromo Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Oromo Language Meta-Package for LibreOffice</fil_PH>
    <fi>Oromo Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Oromo pour LibreOffice</fr>
+   <fr>Oromo Language Meta-Package for LibreOffice</fr>
    <he_IL>Oromo Language Meta-Package for LibreOffice</he_IL>
    <hi>Oromo Language Meta-Package for LibreOffice</hi>
    <hr>Oromo Language Meta-Package for LibreOffice</hr>
    <hu>Oromo Language Meta-Package for LibreOffice</hu>
    <id>Oromo Language Meta-Package for LibreOffice</id>
    <is>Oromo Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Oromo per LibreOffice</it>
+   <it>Oromo Language Meta-Package for LibreOffice</it>
    <ja_JP>Oromo Language Meta-Package for LibreOffice</ja_JP>
    <ja>Oromo Language Meta-Package for LibreOffice</ja>
    <kk>Oromo Language Meta-Package for LibreOffice</kk>
@@ -41,18 +43,19 @@ Oromo_Libreoffice
    <mr>Oromo Language Meta-Package for LibreOffice</mr>
    <nb>Oromo Language Meta-Package for LibreOffice</nb>
    <nl>Oromo Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Oromo metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Oromo Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pl>Oromo Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Oromo Language Meta-Package for LibreOffice</pt_BR>
    <pt>Oromo Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Oromo Language Meta-Package for LibreOffice</ro>
    <ru>Oromo Language Meta-Package for LibreOffice</ru>
    <sk>Oromo Language Meta-Package for LibreOffice</sk>
-   <sl>Oromo Language Meta-Package for LibreOffice</sl>
+   <sl>Oromski jezikovni meta-paket za LibreOffice</sl>
    <sq>Oromo Language Meta-Package for LibreOffice</sq>
    <sr>Oromo Language Meta-Package for LibreOffice</sr>
    <sv>Oromo Språk Meta-Paket för LibreOffice</sv>
    <tr>Oromo Language Meta-Package for LibreOffice</tr>
    <uk>Oromo Language Meta-Package for LibreOffice</uk>
+   <vi>Oromo Language Meta-Package for LibreOffice</vi>
    <zh_CN>Oromo Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Oromo Language Meta-Package for LibreOffice</zh_TW>
 </description>

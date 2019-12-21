@@ -13,6 +13,7 @@ Russian
    <am>Russian Language Meta-Package</am>
    <ar>Russian Language Meta-Package</ar>
    <bg>Russian Language Meta-Package</bg>
+   <bn>Russian Language Meta-Package</bn>
    <ca>Meta-paquet de llengua per a Rus</ca>
    <cs>Russian Language Meta-Package</cs>
    <da>Russisk sprog-metapakke</da>
@@ -23,6 +24,7 @@ Russian
    <et>Russian Language Meta-Package</et>
    <eu>Russian Language Meta-Package</eu>
    <fa>Russian Language Meta-Package</fa>
+   <fil_PH>Russian Language Meta-Package</fil_PH>
    <fi>Russian Language Meta-Package</fi>
    <fr>Méta-paquet pour langue russe</fr>
    <he_IL>Russian Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Russian
    <sv>Ryskt Språk-Meta-Paket </sv>
    <tr>Russian Language Meta-Package</tr>
    <uk>Russian Language Meta-Package</uk>
+   <vi>Russian Language Meta-Package</vi>
    <zh_CN>Russian Language Meta-Package</zh_CN>
    <zh_TW>Russian Language Meta-Package</zh_TW>
 </description>

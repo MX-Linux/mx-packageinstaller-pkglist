@@ -13,25 +13,27 @@ Finnish_Libreoffice
    <am>Finnish Language Meta-Package for LibreOffice</am>
    <ar>Finnish Language Meta-Package for LibreOffice</ar>
    <bg>Finnish Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Finnish per LibreOffice</ca>
+   <bn>Finnish Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Finès per LibreOffice</ca>
    <cs>Finnish Language Meta-Package for LibreOffice</cs>
-   <da>Finnish sprog-metapakke til LibreOffice</da>
-   <de>Finnish Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Finnish</el>
+   <da>Finnish Language Meta-Package for LibreOffice</da>
+   <de>Finnisches Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα φινλανδικά</el>
    <en>Finnish Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Finnish para LibreOffice</es>
+   <es>Meta Paquete de idioma finlandés para LibreOffice</es>
    <et>Finnish Language Meta-Package for LibreOffice</et>
    <eu>Finnish Language Meta-Package for LibreOffice</eu>
    <fa>Finnish Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Finnish Language Meta-Package for LibreOffice</fil_PH>
    <fi>Finnish Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Finnish pour LibreOffice</fr>
+   <fr>Finnish Language Meta-Package for LibreOffice</fr>
    <he_IL>Finnish Language Meta-Package for LibreOffice</he_IL>
    <hi>Finnish Language Meta-Package for LibreOffice</hi>
    <hr>Finnish Language Meta-Package for LibreOffice</hr>
    <hu>Finnish Language Meta-Package for LibreOffice</hu>
    <id>Finnish Language Meta-Package for LibreOffice</id>
    <is>Finnish Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Finnish per LibreOffice</it>
+   <it>Meta-pacchetto della lingua finlandese per LibreOffice</it>
    <ja_JP>Finnish Language Meta-Package for LibreOffice</ja_JP>
    <ja>Finnish Language Meta-Package for LibreOffice</ja>
    <kk>Finnish Language Meta-Package for LibreOffice</kk>
@@ -40,19 +42,20 @@ Finnish_Libreoffice
    <mk>Finnish Language Meta-Package for LibreOffice</mk>
    <mr>Finnish Language Meta-Package for LibreOffice</mr>
    <nb>Finnish Language Meta-Package for LibreOffice</nb>
-   <nl>Finnish Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Finnish metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Finnish Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Finnish Meta-Pacote de Idioma para LibreOffice</pt>
+   <nl>Finnish Language Meta-Package for LibreOffice</nl>
+   <pl>Finnish Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Finnish Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Finlandês Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Finnish Language Meta-Package for LibreOffice</ro>
    <ru>Finnish Language Meta-Package for LibreOffice</ru>
    <sk>Finnish Language Meta-Package for LibreOffice</sk>
-   <sl>Finnish Language Meta-Package for LibreOffice</sl>
+   <sl>Finska jezikovni meta-paket za LibreOffice</sl>
    <sq>Finnish Language Meta-Package for LibreOffice</sq>
    <sr>Finnish Language Meta-Package for LibreOffice</sr>
-   <sv>Finnish Språk Meta-Paket för LibreOffice</sv>
+   <sv>Finskt Språk Meta-Paket för LibreOffice</sv>
    <tr>Finnish Language Meta-Package for LibreOffice</tr>
    <uk>Finnish Language Meta-Package for LibreOffice</uk>
+   <vi>Finnish Language Meta-Package for LibreOffice</vi>
    <zh_CN>Finnish Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Finnish Language Meta-Package for LibreOffice</zh_TW>
 </description>

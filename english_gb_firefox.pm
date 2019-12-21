@@ -13,6 +13,7 @@ GB_English_Firefox
    <am>GB English localisation of Firefox</am>
    <ar>GB English localisation of Firefox</ar>
    <bg>GB English localisation of Firefox</bg>
+   <bn>GB English localisation of Firefox</bn>
    <ca>Localització de Firefox en anglès (UK)</ca>
    <cs>GB English localisation of Firefox</cs>
    <da>Engelsk (storbritannien) oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ GB_English_Firefox
    <et>GB English localisation of Firefox</et>
    <eu>GB English localisation of Firefox</eu>
    <fa>GB English localisation of Firefox</fa>
+   <fil_PH>GB English localisation of Firefox</fil_PH>
    <fi>GB English localisation of Firefox</fi>
    <fr>Localisation anglaise_GB pour Firefox</fr>
    <he_IL>GB English localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ GB_English_Firefox
    <sq>GB English localisation of Firefox</sq>
    <sr>GB English localisation of Firefox</sr>
    <sv>GB Engelsk lokalisering av Firefox</sv>
-   <tr>GB English localisation of Firefox</tr>
+   <tr>Firefox'un Britanya İngilizcesi yerelleştirmesi</tr>
    <uk>GB English локалізація Firefox</uk>
+   <vi>GB English localisation of Firefox</vi>
    <zh_CN>GB English localisation of Firefox</zh_CN>
    <zh_TW>GB English localisation of Firefox</zh_TW>
 </description>

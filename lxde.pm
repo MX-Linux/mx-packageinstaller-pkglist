@@ -13,6 +13,7 @@ LXDE
    <am>basic install of LXDE</am>
    <ar>basic install of LXDE</ar>
    <bg>basic install of LXDE</bg>
+   <bn>basic install of LXDE</bn>
    <ca>Instal·lació bàsica de LXDE</ca>
    <cs>basic install of LXDE</cs>
    <da>grundlæggende installation af LXDE</da>
@@ -23,6 +24,7 @@ LXDE
    <et>basic install of LXDE</et>
    <eu>basic install of LXDE</eu>
    <fa>basic install of LXDE</fa>
+   <fil_PH>basic install of LXDE</fil_PH>
    <fi>LXDE-työpöydän perusasennus</fi>
    <fr>Installation de base du bureau LXDE</fr>
    <he_IL>basic install of LXDE</he_IL>
@@ -51,8 +53,9 @@ LXDE
    <sq>basic install of LXDE</sq>
    <sr>basic install of LXDE</sr>
    <sv>enkel installation av LXDE</sv>
-   <tr>basic install of LXDE</tr>
+   <tr>LXDE temel kurulumu</tr>
    <uk>базовий набір стільниці LXDE</uk>
+   <vi>basic install of LXDE</vi>
    <zh_CN>basic install of LXDE</zh_CN>
    <zh_TW>basic install of LXDE</zh_TW>
 </description>

@@ -13,18 +13,20 @@ antiX 4.9 64 bit
    <am>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</am>
    <ar>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</ar>
    <bg>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</bg>
-   <ca>Kernel d'antix 4.9.200 amb pegats per Meltdown i Spectra, 64 bit</ca>
+   <bn>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</bn>
+   <ca>Kernel antiX 4.9.200 esmenat per Meltdown i Spectre, 64 bit</ca>
    <cs>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</cs>
-   <da>antiX 4.9.200 kerne meltdown- og spectre-rettelse, 64 bit</da>
-   <de>antiX 4.9.200 Kernel - Meltdown und Spectre gepatcht, 64 bit</de>
+   <da>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</da>
+   <de>antiX 4.9.200 Kernel Meltdown und Spectre gepatcht, 64 bit</de>
    <el>antiX 4.9.200 πυρήνα Meltdown και Spectre patched, 64 bit</el>
    <en>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</en>
-   <es>kernel antiX 4.9.200 con parche Meltdown y Spectre, 64 bit</es>
+   <es>antiX 4.9.200 kernel Meltdown y Spectre parcheados, 64 bit</es>
    <et>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</et>
    <eu>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</eu>
    <fa>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</fa>
+   <fil_PH>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</fil_PH>
    <fi>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</fi>
-   <fr>Noyau antiX 4.9.200 patché pour Meltdown et Spectre, 64 bit</fr>
+   <fr>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</fr>
    <he_IL>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</he_IL>
    <hi>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</hi>
    <hr>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</hr>
@@ -42,17 +44,18 @@ antiX 4.9 64 bit
    <nb>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</nb>
    <nl>antiX 4.9.200 kernel Meltdown en Spectre patched, 64 bit</nl>
    <pl>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</pl>
-   <pt_BR>antiX 4.9.200 kernel com correções para as falhas Meltdown e Spectre, 64 bit</pt_BR>
-   <pt>antiX 4.9.200 kernel Meltdown e Spectre corrigidos, 64 bit</pt>
+   <pt_BR>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</pt_BR>
+   <pt>Núcleo (kernel) antiX 4.9.200 com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
    <ro>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</ro>
    <ru>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</ru>
    <sk>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</sk>
-   <sl>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</sl>
+   <sl>antiX 4.9.200 Meltdownjedro in Spectre zakrpano, 64 bitno</sl>
    <sq>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</sq>
    <sr>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</sr>
-   <sv>antiX 4.9.200 kärna Meltdown och Spectre patched, 64 bit</sv>
+   <sv>antiX 4.9.200 kärna Meltdown och Spectre fixad, 64 bit</sv>
    <tr>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</tr>
    <uk>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</uk>
+   <vi>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</vi>
    <zh_CN>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</zh_CN>
    <zh_TW>antiX 4.9.200 kernel Meltdown and Spectre patched, 64 bit</zh_TW>
 </description>

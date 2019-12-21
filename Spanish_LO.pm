@@ -13,16 +13,18 @@ Spanish_Libreoffice
    <am>Spanish Language Meta-Package for LibreOffice</am>
    <ar>Spanish Language Meta-Package for LibreOffice</ar>
    <bg>Spanish Language Meta-Package for LibreOffice</bg>
+   <bn>Spanish Language Meta-Package for LibreOffice</bn>
    <ca>Meta-paquet de llengua castellana per LibreOffice</ca>
    <cs>Spanish Language Meta-Package for LibreOffice</cs>
    <da>Spansk sprog-metapakke til LibreOffice</da>
    <de>Spanisches Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα ισπανικά</el>
    <en>Spanish Language Meta-Package for LibreOffice</en>
-   <es>Meta paquete de idioma español para Firefox.</es>
+   <es>Meta paquete de idioma español para LibreOffice</es>
    <et>Spanish Language Meta-Package for LibreOffice</et>
    <eu>Spanish Language Meta-Package for LibreOffice</eu>
    <fa>Spanish Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Spanish Language Meta-Package for LibreOffice</fil_PH>
    <fi>Spanish Language Meta-Package for LibreOffice</fi>
    <fr>Méta-paquet langue espagnole pour LibreOffice</fr>
    <he_IL>Spanish Language Meta-Package for LibreOffice</he_IL>
@@ -53,6 +55,7 @@ Spanish_Libreoffice
    <sv>Spanskt Språk-Meta-Paket för LibreOffice</sv>
    <tr>Spanish Language Meta-Package for LibreOffice</tr>
    <uk>Spanish Language Meta-Package for LibreOffice</uk>
+   <vi>Spanish Language Meta-Package for LibreOffice</vi>
    <zh_CN>Spanish Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Spanish Language Meta-Package for LibreOffice</zh_TW>
 </description>

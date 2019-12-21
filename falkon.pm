@@ -13,6 +13,7 @@ Falkon
    <am>Latest Falkon lightweight browser</am>
    <ar>Latest Falkon lightweight browser</ar>
    <bg>Latest Falkon lightweight browser</bg>
+   <bn>Latest Falkon lightweight browser</bn>
    <ca>El darrer navegador lleuger Falkon</ca>
    <cs>Latest Falkon lightweight browser</cs>
    <da>Seneste Falkon letvægtsbrowser</da>
@@ -23,6 +24,7 @@ Falkon
    <et>Latest Falkon lightweight browser</et>
    <eu>Latest Falkon lightweight browser</eu>
    <fa>Latest Falkon lightweight browser</fa>
+   <fil_PH>Latest Falkon lightweight browser</fil_PH>
    <fi>Latest Falkon lightweight browser</fi>
    <fr>Dernière version du navigateur léger Falkon</fr>
    <he_IL>Latest Falkon lightweight browser</he_IL>
@@ -43,16 +45,17 @@ Falkon
    <nl>Nieuwste Falkon lichtgewicht browser</nl>
    <pl>najnowsza lekka przeglądarka Falkon</pl>
    <pt_BR>Navegador web ligeiro Falkon, versão mais recente</pt_BR>
-   <pt>O mais recente navegador leve Falkon</pt>
+   <pt>Versão mais recente do navegador ligeiro Falkon</pt>
    <ro>Latest Falkon lightweight browser</ro>
-   <ru>Latest Falkon lightweight browser</ru>
+   <ru>Свежий релиз облегченного браузера Falkon</ru>
    <sk>Latest Falkon lightweight browser</sk>
    <sl>Zadnja različica lahkega brskalnika Falkon</sl>
    <sq>Latest Falkon lightweight browser</sq>
    <sr>Latest Falkon lightweight browser</sr>
    <sv>Senaste Falkon lättviktswebbläsare</sv>
-   <tr>Latest Falkon lightweight browser</tr>
+   <tr>En son Falcon hafif tarayıcı</tr>
    <uk>Latest Falkon lightweight browser</uk>
+   <vi>Latest Falkon lightweight browser</vi>
    <zh_CN>Latest Falkon lightweight browser</zh_CN>
    <zh_TW>Latest Falkon lightweight browser</zh_TW>
 </description>

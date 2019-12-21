@@ -13,18 +13,20 @@ Open Drive
    <am>Multi-service cloud storage sync client</am>
    <ar>Multi-service cloud storage sync client</ar>
    <bg>Multi-service cloud storage sync client</bg>
-   <ca>Multi-service cloud storage sync client</ca>
+   <bn>Multi-service cloud storage sync client</bn>
+   <ca>Client multi-servei d'emmagatzematge al núvol</ca>
    <cs>Multi-service cloud storage sync client</cs>
    <da>Multi-service cloud storage sync client</da>
-   <de>Multi-service cloud storage sync client</de>
+   <de>Synchronisationanwendung für Mehrfachdienste bei Cloudspeicherung</de>
    <el>Προγραμματιστής συγχρονισμού αποθήκευσης cloud πολλαπλών υπηρεσιών</el>
    <en>Multi-service cloud storage sync client</en>
-   <es>Multi-service cloud storage sync client</es>
+   <es>Cliente de almacenamiento en la nube sincronizado de varios servicios</es>
    <et>Multi-service cloud storage sync client</et>
    <eu>Multi-service cloud storage sync client</eu>
    <fa>Multi-service cloud storage sync client</fa>
+   <fil_PH>Multi-service cloud storage sync client</fil_PH>
    <fi>Multi-service cloud storage sync client</fi>
-   <fr>Multi-service cloud storage sync client</fr>
+   <fr>Client multi-service de synchronisation de stockage dans le cloud</fr>
    <he_IL>Multi-service cloud storage sync client</he_IL>
    <hi>Multi-service cloud storage sync client</hi>
    <hr>Multi-service cloud storage sync client</hr>
@@ -42,17 +44,18 @@ Open Drive
    <nb>Multi-service cloud storage sync client</nb>
    <nl>Multi-service cloud-opslag synchronisatieclient</nl>
    <pl>Multi-service cloud storage sync client</pl>
-   <pt_BR>Multi-service cloud storage sync client</pt_BR>
+   <pt_BR>Cliente multi-serviços de sincronização de armazenamento em cloud</pt_BR>
    <pt>Cliente de sincronização de armazenamento em cloud multi-serviços</pt>
    <ro>Multi-service cloud storage sync client</ro>
-   <ru>Multi-service cloud storage sync client</ru>
+   <ru>Клиент синхронизации разнообразных облачных хранилищ</ru>
    <sk>Multi-service cloud storage sync client</sk>
-   <sl>Multi-service cloud storage sync client</sl>
+   <sl>Odjemalec za sinhroniziacijo več oblačnih storitev</sl>
    <sq>Multi-service cloud storage sync client</sq>
    <sr>Multi-service cloud storage sync client</sr>
-   <sv>Multi-service cloud storage sync client</sv>
+   <sv>Multi-service molnlagrings synk-klient</sv>
    <tr>Multi-service cloud storage sync client</tr>
    <uk>Multi-service cloud storage sync client</uk>
+   <vi>Multi-service cloud storage sync client</vi>
    <zh_CN>Multi-service cloud storage sync client</zh_CN>
    <zh_TW>Multi-service cloud storage sync client</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Ukrainian_Thunderbird
    <am>Ukrainian localisation of Thunderbird</am>
    <ar>Ukrainian localisation of Thunderbird</ar>
    <bg>Ukrainian localisation of Thunderbird</bg>
+   <bn>Ukrainian localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Ucrainès</ca>
    <cs>Ukrainian localisation of Thunderbird</cs>
    <da>Ukrainsk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Ukrainian_Thunderbird
    <et>Ukrainian localisation of Thunderbird</et>
    <eu>Ukrainian localisation of Thunderbird</eu>
    <fa>Ukrainian localisation of Thunderbird</fa>
+   <fil_PH>Ukrainian localisation of Thunderbird</fil_PH>
    <fi>Ukrainian localisation of Thunderbird</fi>
    <fr>Localisation ukrainienne pour Thunderbird</fr>
    <he_IL>Ukrainian localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Ukrainian_Thunderbird
    <sq>Ukrainian localisation of Thunderbird</sq>
    <sr>Ukrainian localisation of Thunderbird</sr>
    <sv>Ukrainsk lokalisering av Thunderbird</sv>
-   <tr>Ukrainian localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Ukraynaca yerelleştirmesi</tr>
    <uk>Ukrainian localisation of Thunderbird</uk>
+   <vi>Ukrainian localisation of Thunderbird</vi>
    <zh_CN>Ukrainian localisation of Thunderbird</zh_CN>
    <zh_TW>Ukrainian localisation of Thunderbird</zh_TW>
 </description>

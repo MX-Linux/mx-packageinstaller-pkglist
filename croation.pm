@@ -13,6 +13,7 @@ Croatian
    <am>Croatian Language Meta-Package</am>
    <ar>Croatian Language Meta-Package</ar>
    <bg>Croatian Language Meta-Package</bg>
+   <bn>Croatian Language Meta-Package</bn>
    <ca>Meta-paquet per llengua Croata</ca>
    <cs>Croatian Language Meta-Package</cs>
    <da>Kroatisk sprog-metapakke</da>
@@ -23,6 +24,7 @@ Croatian
    <et>Croatian Language Meta-Package</et>
    <eu>Croatian Language Meta-Package</eu>
    <fa>Croatian Language Meta-Package</fa>
+   <fil_PH>Croatian Language Meta-Package</fil_PH>
    <fi>Croatian Language Meta-Package</fi>
    <fr>Méta-Paquet pour langue croate</fr>
    <he_IL>Croatian Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Croatian
    <sv>Kroatiskt Språk Meta-Paket</sv>
    <tr>Croatian Language Meta-Package</tr>
    <uk>Croatian Language Meta-Package</uk>
+   <vi>Croatian Language Meta-Package</vi>
    <zh_CN>Croatian Language Meta-Package</zh_CN>
    <zh_TW>Croatian Language Meta-Package</zh_TW>
 </description>

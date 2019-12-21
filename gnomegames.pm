@@ -13,6 +13,7 @@ Simple Card Games
    <am>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</am>
    <ar>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</ar>
    <bg>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</bg>
+   <bn>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</bn>
    <ca>Jocs de cartes i trencaclosques senzills (solitari, cors, mines, etc.)</ca>
    <cs>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</cs>
    <da>Simple kortspil og puzzlespil til skrivebordet (7-kabale, hjerterfri, minestryger osv.)</da>
@@ -23,6 +24,7 @@ Simple Card Games
    <et>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</et>
    <eu>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</eu>
    <fa>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</fa>
+   <fil_PH>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</fil_PH>
    <fi>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</fi>
    <fr>Jeux de cartes et puzzles (solitaire, la dame de pique, mines, etc)</fr>
    <he_IL>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</he_IL>
@@ -53,6 +55,7 @@ Simple Card Games
    <sv>Enkla skrivbords kort och pusselspel (patiens, hjärter, minor, etc)</sv>
    <tr>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</tr>
    <uk>прості настільні карткові ігри та головоломки (solitare, hearts, mines та інші)</uk>
+   <vi>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</vi>
    <zh_CN>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</zh_CN>
    <zh_TW>Simple Desktop Card and Puzzle Games (solitare, hearts, mines, etc)</zh_TW>
 </description>

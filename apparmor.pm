@@ -13,16 +13,18 @@ apparmor
    <am>Userspace components of AppArmor</am>
    <ar>Userspace components of AppArmor</ar>
    <bg>Userspace components of AppArmor</bg>
-   <ca>Userspace components of AppArmor</ca>
+   <bn>Userspace components of AppArmor</bn>
+   <ca>Components d'espai d'usuari d'AppArmor</ca>
    <cs>Userspace components of AppArmor</cs>
    <da>Userspace components of AppArmor</da>
-   <de>Userspace components of AppArmor</de>
-   <el>Userspace components of AppArmor</el>
-   <en>Userspace components of AppArmor </en>
-   <es>Userspace components of AppArmor</es>
+   <de>Komponenten aus der Nutzergemeinde für AppArmor</de>
+   <el>Στοιχεία χώρου χρηστών του AppArmor</el>
+   <en>Userspace components of AppArmor</en>
+   <es>Componentes del espacio de usuario de AppArmor</es>
    <et>Userspace components of AppArmor</et>
    <eu>Userspace components of AppArmor</eu>
    <fa>Userspace components of AppArmor</fa>
+   <fil_PH>Userspace components of AppArmor</fil_PH>
    <fi>Userspace components of AppArmor</fi>
    <fr>Userspace components of AppArmor</fr>
    <he_IL>Userspace components of AppArmor</he_IL>
@@ -31,7 +33,7 @@ apparmor
    <hu>Userspace components of AppArmor</hu>
    <id>Userspace components of AppArmor</id>
    <is>Userspace components of AppArmor</is>
-   <it>Userspace components of AppArmor</it>
+   <it>Componenti dello spazio-utente di AppArmor</it>
    <ja_JP>Userspace components of AppArmor</ja_JP>
    <ja>Userspace components of AppArmor</ja>
    <kk>Userspace components of AppArmor</kk>
@@ -41,18 +43,19 @@ apparmor
    <mr>Userspace components of AppArmor</mr>
    <nb>Userspace components of AppArmor</nb>
    <nl>Userspace components of AppArmor</nl>
-   <pl>Userspace components of AppArmor</pl>
+   <pl>Komponenty przestrzeni użytkownika AppArmor</pl>
    <pt_BR>Userspace components of AppArmor</pt_BR>
-   <pt>Userspace components of AppArmor</pt>
+   <pt>Componentes do AppArmor do nível de utilizador</pt>
    <ro>Userspace components of AppArmor</ro>
-   <ru>Userspace components of AppArmor</ru>
+   <ru>Компоненты AppArmor пространства пользователя</ru>
    <sk>Userspace components of AppArmor</sk>
-   <sl>Userspace components of AppArmor</sl>
+   <sl>Userspace komponente za AppArmor</sl>
    <sq>Userspace components of AppArmor</sq>
    <sr>Userspace components of AppArmor</sr>
-   <sv>Userspace components of AppArmor</sv>
+   <sv>Användarkomponenter för AppArmor</sv>
    <tr>Userspace components of AppArmor</tr>
    <uk>Userspace components of AppArmor</uk>
+   <vi>Userspace components of AppArmor</vi>
    <zh_CN>Userspace components of AppArmor</zh_CN>
    <zh_TW>Userspace components of AppArmor</zh_TW>
 </description>

@@ -13,25 +13,27 @@ Indic_Libreoffice
    <am>Indic Language Meta-Package for LibreOffice</am>
    <ar>Indic Language Meta-Package for LibreOffice</ar>
    <bg>Indic Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Indic per LibreOffice</ca>
+   <bn>Indic Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Índic per LibreOffice</ca>
    <cs>Indic Language Meta-Package for LibreOffice</cs>
-   <da>Indic sprog-metapakke til LibreOffice</da>
-   <de>Indic Meta-Paket für LibreOffice</de>
+   <da>Indic Language Meta-Package for LibreOffice</da>
+   <de>Indisches Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Indic</el>
    <en>Indic Language Meta-Package for LibreOffice</en>
    <es>Meta-Paquete de Idioma Indic para LibreOffice</es>
    <et>Indic Language Meta-Package for LibreOffice</et>
    <eu>Indic Language Meta-Package for LibreOffice</eu>
    <fa>Indic Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Indic Language Meta-Package for LibreOffice</fil_PH>
    <fi>Indic Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Indic pour LibreOffice</fr>
+   <fr>Indic Language Meta-Package for LibreOffice</fr>
    <he_IL>Indic Language Meta-Package for LibreOffice</he_IL>
    <hi>Indic Language Meta-Package for LibreOffice</hi>
    <hr>Indic Language Meta-Package for LibreOffice</hr>
    <hu>Indic Language Meta-Package for LibreOffice</hu>
    <id>Indic Language Meta-Package for LibreOffice</id>
    <is>Indic Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Indic per LibreOffice</it>
+   <it>Meta-pacchetto della lingua indica per LibreOffice</it>
    <ja_JP>Indic Language Meta-Package for LibreOffice</ja_JP>
    <ja>Indic Language Meta-Package for LibreOffice</ja>
    <kk>Indic Language Meta-Package for LibreOffice</kk>
@@ -41,18 +43,19 @@ Indic_Libreoffice
    <mr>Indic Language Meta-Package for LibreOffice</mr>
    <nb>Indic Language Meta-Package for LibreOffice</nb>
    <nl>Indic Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Indic metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Indic Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Indic Meta-Pacote de Idioma para LibreOffice</pt>
+   <pl>Indic Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Indic Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Indic Language Meta-Package for LibreOffice</pt>
    <ro>Indic Language Meta-Package for LibreOffice</ro>
    <ru>Indic Language Meta-Package for LibreOffice</ru>
    <sk>Indic Language Meta-Package for LibreOffice</sk>
-   <sl>Indic Language Meta-Package for LibreOffice</sl>
+   <sl>Indikski jezikovni meta-paket za LibreOffice</sl>
    <sq>Indic Language Meta-Package for LibreOffice</sq>
    <sr>Indic Language Meta-Package for LibreOffice</sr>
-   <sv>Indic Språk Meta-Paket för LibreOffice</sv>
+   <sv>Indiskt Språk Meta-Paket för LibreOffice</sv>
    <tr>Indic Language Meta-Package for LibreOffice</tr>
    <uk>Indic Language Meta-Package for LibreOffice</uk>
+   <vi>Indic Language Meta-Package for LibreOffice</vi>
    <zh_CN>Indic Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Indic Language Meta-Package for LibreOffice</zh_TW>
 </description>

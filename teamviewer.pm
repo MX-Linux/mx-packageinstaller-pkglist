@@ -13,6 +13,7 @@ TeamViewer
    <am>Teamviewer remote access</am>
    <ar>Teamviewer remote access</ar>
    <bg>Teamviewer remote access</bg>
+   <bn>Teamviewer remote access</bn>
    <ca>Accés remot Teamviewer</ca>
    <cs>Teamviewer remote access</cs>
    <da>Teamviewer fjernadgang</da>
@@ -23,6 +24,7 @@ TeamViewer
    <et>Teamviewer remote access</et>
    <eu>Teamviewer remote access</eu>
    <fa>Teamviewer remote access</fa>
+   <fil_PH>Teamviewer remote access</fil_PH>
    <fi>Teamviewer remote access</fi>
    <fr>Teamviewer accès à distance</fr>
    <he_IL>Teamviewer remote access</he_IL>
@@ -51,8 +53,9 @@ TeamViewer
    <sq>Teamviewer remote access</sq>
    <sr>Teamviewer remote access</sr>
    <sv>Teamviewer fjärråtkomst</sv>
-   <tr>Teamviewer remote access</tr>
+   <tr>Teamviewer uzaktan erişim</tr>
    <uk>Teamviewer remote access</uk>
+   <vi>Teamviewer remote access</vi>
    <zh_CN>Teamviewer remote access</zh_CN>
    <zh_TW>Teamviewer remote access</zh_TW>
 </description>

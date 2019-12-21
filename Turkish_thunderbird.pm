@@ -13,6 +13,7 @@ Turkish_Thunderbird
    <am>Turkish localisation of Thunderbird</am>
    <ar>Turkish localisation of Thunderbird</ar>
    <bg>Turkish localisation of Thunderbird</bg>
+   <bn>Turkish localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Turc</ca>
    <cs>Turkish localisation of Thunderbird</cs>
    <da>Tyrkisk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Turkish_Thunderbird
    <et>Turkish localisation of Thunderbird</et>
    <eu>Turkish localisation of Thunderbird</eu>
    <fa>Turkish localisation of Thunderbird</fa>
+   <fil_PH>Turkish localisation of Thunderbird</fil_PH>
    <fi>Turkish localisation of Thunderbird</fi>
    <fr>Localisation turque pour Thunderbird</fr>
    <he_IL>Turkish localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Turkish_Thunderbird
    <sq>Turkish localisation of Thunderbird</sq>
    <sr>Turkish localisation of Thunderbird</sr>
    <sv>Turkisk lokalisering av Thunderbird</sv>
-   <tr>Turkish localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Türkçe yerelleştirmesi</tr>
    <uk>Turkish localisation of Thunderbird</uk>
+   <vi>Turkish localisation of Thunderbird</vi>
    <zh_CN>Turkish localisation of Thunderbird</zh_CN>
    <zh_TW>Turkish localisation of Thunderbird</zh_TW>
 </description>

@@ -13,6 +13,7 @@ French_Thunderbird
    <am>French localisation of Thunderbird</am>
    <ar>French localisation of Thunderbird</ar>
    <bg>French localisation of Thunderbird</bg>
+   <bn>French localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Francès</ca>
    <cs>French localisation of Thunderbird</cs>
    <da>Fransk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ French_Thunderbird
    <et>French localisation of Thunderbird</et>
    <eu>French localisation of Thunderbird</eu>
    <fa>French localisation of Thunderbird</fa>
+   <fil_PH>French localisation of Thunderbird</fil_PH>
    <fi>French localisation of Thunderbird</fi>
    <fr>Localisation française pour Thunderbird</fr>
    <he_IL>French localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ French_Thunderbird
    <sq>French localisation of Thunderbird</sq>
    <sr>French localisation of Thunderbird</sr>
    <sv>Fransk lokalisering av Thunderbird</sv>
-   <tr>French localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Fransızca yerelleştirmesi</tr>
    <uk>French локалізація Thunderbird</uk>
+   <vi>French localisation of Thunderbird</vi>
    <zh_CN>French localisation of Thunderbird</zh_CN>
    <zh_TW>French localisation of Thunderbird</zh_TW>
 </description>

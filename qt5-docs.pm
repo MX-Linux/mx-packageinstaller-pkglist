@@ -13,6 +13,7 @@ QT5 Documention
    <am>Documentation files for Qt-5 and QtCreator IDE</am>
    <ar>Documentation files for Qt-5 and QtCreator IDE</ar>
    <bg>Documentation files for Qt-5 and QtCreator IDE</bg>
+   <bn>Documentation files for Qt-5 and QtCreator IDE</bn>
    <ca>Fitxers de documentació per a l'IDE QT5 i QTCreator</ca>
    <cs>Documentation files for Qt-5 and QtCreator IDE</cs>
    <da>Dokumentationsfiler til Qt-5 og QtCreator IDE</da>
@@ -23,6 +24,7 @@ QT5 Documention
    <et>Documentation files for Qt-5 and QtCreator IDE</et>
    <eu>Documentation files for Qt-5 and QtCreator IDE</eu>
    <fa>Documentation files for Qt-5 and QtCreator IDE</fa>
+   <fil_PH>Documentation files for Qt-5 and QtCreator IDE</fil_PH>
    <fi>Documentation files for Qt-5 and QtCreator IDE</fi>
    <fr>Fichiers de documentation pour Qt-5 et QtCreator IDE</fr>
    <he_IL>Documentation files for Qt-5 and QtCreator IDE</he_IL>
@@ -53,6 +55,7 @@ QT5 Documention
    <sv>Dokumentationsfiler för Qt-5 och QtCreator IDE</sv>
    <tr>Documentation files for Qt-5 and QtCreator IDE</tr>
    <uk>Documentation files for Qt-5 and QtCreator IDE</uk>
+   <vi>Documentation files for Qt-5 and QtCreator IDE</vi>
    <zh_CN>Documentation files for Qt-5 and QtCreator IDE</zh_CN>
    <zh_TW>Documentation files for Qt-5 and QtCreator IDE</zh_TW>
 </description>

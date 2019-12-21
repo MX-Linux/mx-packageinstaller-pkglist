@@ -13,6 +13,7 @@ Norwegian_Libreoffice
    <am>Norwegian Language Meta-Package for LibreOffice</am>
    <ar>Norwegian Language Meta-Package for LibreOffice</ar>
    <bg>Norwegian Language Meta-Package for LibreOffice</bg>
+   <bn>Norwegian Language Meta-Package for LibreOffice</bn>
    <ca>Meta-paquet de llengua per a LibreOffice</ca>
    <cs>Norwegian Language Meta-Package for LibreOffice</cs>
    <da>Norsk sprog-metapakke til LibreOffice</da>
@@ -23,6 +24,7 @@ Norwegian_Libreoffice
    <et>Norwegian Language Meta-Package for LibreOffice</et>
    <eu>Norwegian Language Meta-Package for LibreOffice</eu>
    <fa>Norwegian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Norwegian Language Meta-Package for LibreOffice</fil_PH>
    <fi>Norwegian Language Meta-Package for LibreOffice</fi>
    <fr>Méta-paquet langue norvégienne pour LibreOffice</fr>
    <he_IL>Norwegian Language Meta-Package for LibreOffice</he_IL>
@@ -53,6 +55,7 @@ Norwegian_Libreoffice
    <sv>Norskt Språk Meta-Paket för LibreOffice</sv>
    <tr>Norwegian Language Meta-Package for LibreOffice</tr>
    <uk>Norwegian Language Meta-Package for LibreOffice</uk>
+   <vi>Norwegian Language Meta-Package for LibreOffice</vi>
    <zh_CN>Norwegian Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Norwegian Language Meta-Package for LibreOffice</zh_TW>
 </description>

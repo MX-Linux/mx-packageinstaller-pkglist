@@ -13,6 +13,7 @@ Polish_Thunderbird
    <am>Polish localisation of Thunderbird</am>
    <ar>Polish localisation of Thunderbird</ar>
    <bg>Polish localisation of Thunderbird</bg>
+   <bn>Polish localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Polonès</ca>
    <cs>Polish localisation of Thunderbird</cs>
    <da>Polsk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Polish_Thunderbird
    <et>Polish localisation of Thunderbird</et>
    <eu>Polish localisation of Thunderbird</eu>
    <fa>Polish localisation of Thunderbird</fa>
+   <fil_PH>Polish localisation of Thunderbird</fil_PH>
    <fi>Polish localisation of Thunderbird</fi>
    <fr>Localisation polonaise pour Thunderbird</fr>
    <he_IL>Polish localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Polish_Thunderbird
    <sq>Polish localisation of Thunderbird</sq>
    <sr>Polish localisation of Thunderbird</sr>
    <sv>Polsk lokalisering av Thunderbird</sv>
-   <tr>Polish localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Lehçe yerelleştirmesi</tr>
    <uk>Polish локалізація Thunderbird</uk>
+   <vi>Polish localisation of Thunderbird</vi>
    <zh_CN>Polish localisation of Thunderbird</zh_CN>
    <zh_TW>Polish localisation of Thunderbird</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Vivaldi
    <am>Vivaldi web browser</am>
    <ar>Vivaldi web browser</ar>
    <bg>Vivaldi web browser</bg>
+   <bn>Vivaldi web browser</bn>
    <ca>Navegador web Vivaldi</ca>
    <cs>Vivaldi web browser</cs>
    <da>Vivaldi-webbrowser</da>
@@ -23,6 +24,7 @@ Vivaldi
    <et>Vivaldi web browser</et>
    <eu>Vivaldi web browser</eu>
    <fa>Vivaldi web browser</fa>
+   <fil_PH>Vivaldi web browser</fil_PH>
    <fi>Vivaldi-verkkoselain</fi>
    <fr>Navigateur Web Vivaldi</fr>
    <he_IL>Vivaldi web browser</he_IL>
@@ -51,8 +53,9 @@ Vivaldi
    <sq>Vivaldi web browser</sq>
    <sr>Vivaldi web browser</sr>
    <sv>Vivaldi webbläsare</sv>
-   <tr>Vivaldi web browser</tr>
+   <tr>Vivaldi internet tarayıcı</tr>
    <uk>Vivaldi web browser</uk>
+   <vi>Vivaldi web browser</vi>
    <zh_CN>Vivaldi web browser</zh_CN>
    <zh_TW>Vivaldi web browser</zh_TW>
 </description>
@@ -65,8 +68,8 @@ all
 
 <preinstall>
 if ! sed  -re '/^[[:space:]]*#/d; /^[[:space:]]*deb[[:space:]]+/!d' /etc/apt/sources.list{,.d/*.list} \
-   | grep -sq repo.vivaldi.com/stable/deb ; then
-   echo "deb http://repo.vivaldi.com/stable/deb/ stable main">/etc/apt/sources.list.d/mxpitemp.list
+| grep -sq repo.vivaldi.com/stable/deb ; then
+echo "deb http://repo.vivaldi.com/stable/deb/ stable main">/etc/apt/sources.list.d/mxpitemp.list
 fi
 
 wget http://repo.vivaldi.com/stable/linux_signing_key.pub -O /tmp/vivaldi.key
@@ -131,8 +134,8 @@ zp5254Hj0gpA4vAxDaHv/dnBTxGWBL2LGytMGtsfR0HZc/bxQMyk8IWXeI9UDgb2
 FtbBrH8fIdPJjjRkBKfvD5+D+h0s72xOaMGKWsCdK04=
 =/TZJ
 -----END PGP PUBLIC KEY BLOCK-----
-"  
-echo "$KEY" | ( apt-key add - ) 2>/dev/null 
+"
+echo "$KEY" | ( apt-key add - ) 2>/dev/null
 apt-get update
 </preinstall>
 

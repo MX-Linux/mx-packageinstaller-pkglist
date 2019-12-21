@@ -13,6 +13,7 @@ Chinese_Input
    <am>Chinese ibus</am>
    <ar>Chinese ibus</ar>
    <bg>Chinese ibus</bg>
+   <bn>Chinese ibus</bn>
    <ca>IBUS en Xinès</ca>
    <cs>Chinese ibus</cs>
    <da>Kinesisk ibus</da>
@@ -23,6 +24,7 @@ Chinese_Input
    <et>Chinese ibus</et>
    <eu>Chinese ibus</eu>
    <fa>Chinese ibus</fa>
+   <fil_PH>Chinese ibus</fil_PH>
    <fi>Chinese ibus</fi>
    <fr>Chinois ibus</fr>
    <he_IL>Chinese ibus</he_IL>
@@ -51,8 +53,9 @@ Chinese_Input
    <sq>Chinese ibus</sq>
    <sr>Chinese ibus</sr>
    <sv>Kinesisk ibus</sv>
-   <tr>Chinese ibus</tr>
+   <tr>Çince ibus</tr>
    <uk>Chinese ibus</uk>
+   <vi>Chinese ibus</vi>
    <zh_CN>Chinese ibus</zh_CN>
    <zh_TW>Chinese ibus</zh_TW>
 </description>

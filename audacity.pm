@@ -13,6 +13,7 @@ Audacity
    <am>a multi-track audio editor</am>
    <ar>a multi-track audio editor</ar>
    <bg>a multi-track audio editor</bg>
+   <bn>a multi-track audio editor</bn>
    <ca>Editor d'àudio multipista</ca>
    <cs>a multi-track audio editor</cs>
    <da>en multispor lydredigering</da>
@@ -23,6 +24,7 @@ Audacity
    <et>a multi-track audio editor</et>
    <eu>a multi-track audio editor</eu>
    <fa>a multi-track audio editor</fa>
+   <fil_PH>a multi-track audio editor</fil_PH>
    <fi>a multi-track audio editor</fi>
    <fr>Un éditeur audio multi-pistes</fr>
    <he_IL>a multi-track audio editor</he_IL>
@@ -53,6 +55,7 @@ Audacity
    <sv>en flerspårs ljudredigerare</sv>
    <tr>a multi-track audio editor</tr>
    <uk>мульти-трековий редактор аудіо</uk>
+   <vi>a multi-track audio editor</vi>
    <zh_CN>a multi-track audio editor</zh_CN>
    <zh_TW>a multi-track audio editor</zh_TW>
 </description>

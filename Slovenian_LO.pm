@@ -13,25 +13,27 @@ Slovenian_Libreoffice
    <am>Slovenian Language Meta-Package for LibreOffice</am>
    <ar>Slovenian Language Meta-Package for LibreOffice</ar>
    <bg>Slovenian Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Slovenian per LibreOffice</ca>
+   <bn>Slovenian Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Eslovè per LibreOffice</ca>
    <cs>Slovenian Language Meta-Package for LibreOffice</cs>
-   <da>Slovenian sprog-metapakke til LibreOffice</da>
-   <de>Slovenian Meta-Paket für LibreOffice</de>
+   <da>Slovenian Language Meta-Package for LibreOffice</da>
+   <de>Slowenisches Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Slovenian</el>
    <en>Slovenian Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Slovenian para LibreOffice</es>
+   <es>Metapaquete de idioma esloveno para LibreOffice</es>
    <et>Slovenian Language Meta-Package for LibreOffice</et>
    <eu>Slovenian Language Meta-Package for LibreOffice</eu>
    <fa>Slovenian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Slovenian Language Meta-Package for LibreOffice</fil_PH>
    <fi>Slovenian Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Slovenian pour LibreOffice</fr>
+   <fr>Slovenian Language Meta-Package for LibreOffice</fr>
    <he_IL>Slovenian Language Meta-Package for LibreOffice</he_IL>
    <hi>Slovenian Language Meta-Package for LibreOffice</hi>
    <hr>Slovenian Language Meta-Package for LibreOffice</hr>
    <hu>Slovenian Language Meta-Package for LibreOffice</hu>
    <id>Slovenian Language Meta-Package for LibreOffice</id>
    <is>Slovenian Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Slovenian per LibreOffice</it>
+   <it>Slovenian Language Meta-Package for LibreOffice</it>
    <ja_JP>Slovenian Language Meta-Package for LibreOffice</ja_JP>
    <ja>Slovenian Language Meta-Package for LibreOffice</ja>
    <kk>Slovenian Language Meta-Package for LibreOffice</kk>
@@ -40,19 +42,20 @@ Slovenian_Libreoffice
    <mk>Slovenian Language Meta-Package for LibreOffice</mk>
    <mr>Slovenian Language Meta-Package for LibreOffice</mr>
    <nb>Slovenian Language Meta-Package for LibreOffice</nb>
-   <nl>Slovenian Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Slovenian metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Slovenian Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Slovenian Meta-Pacote de Idioma para LibreOffice</pt>
+   <nl>Slovenian Language Meta-Package for LibreOffice</nl>
+   <pl>Slovenian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Slovenian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Esloveno Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Slovenian Language Meta-Package for LibreOffice</ro>
    <ru>Slovenian Language Meta-Package for LibreOffice</ru>
    <sk>Slovenian Language Meta-Package for LibreOffice</sk>
-   <sl>Slovenian Language Meta-Package for LibreOffice</sl>
+   <sl>Slovenski jezikovni meta-paket za LibreOffice</sl>
    <sq>Slovenian Language Meta-Package for LibreOffice</sq>
    <sr>Slovenian Language Meta-Package for LibreOffice</sr>
-   <sv>Slovenian Språk Meta-Paket för LibreOffice</sv>
+   <sv>Sloveniskt Språk Meta-Paket för LibreOffice</sv>
    <tr>Slovenian Language Meta-Package for LibreOffice</tr>
    <uk>Slovenian Language Meta-Package for LibreOffice</uk>
+   <vi>Slovenian Language Meta-Package for LibreOffice</vi>
    <zh_CN>Slovenian Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Slovenian Language Meta-Package for LibreOffice</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Portugese(BR)_Thunderbird
    <am>Portuguese(BR) localisation of Thunderbird</am>
    <ar>Portuguese(BR) localisation of Thunderbird</ar>
    <bg>Portuguese(BR) localisation of Thunderbird</bg>
+   <bn>Portuguese(BR) localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Portuguès (BR)</ca>
    <cs>Portuguese(BR) localisation of Thunderbird</cs>
    <da>Portugisisk (brasilien) oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Portugese(BR)_Thunderbird
    <et>Portuguese(BR) localisation of Thunderbird</et>
    <eu>Portuguese(BR) localisation of Thunderbird</eu>
    <fa>Portuguese(BR) localisation of Thunderbird</fa>
+   <fil_PH>Portuguese(BR) localisation of Thunderbird</fil_PH>
    <fi>Portuguese(BR) localisation of Thunderbird</fi>
    <fr>Localisation portugaise (BR) pour Thunderbird</fr>
    <he_IL>Portuguese(BR) localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Portugese(BR)_Thunderbird
    <sq>Portuguese(BR) localisation of Thunderbird</sq>
    <sr>Portuguese(BR) localisation of Thunderbird</sr>
    <sv>PortugisisktBR) lokalisering för Thunderbird</sv>
-   <tr>Portuguese(BR) localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Brezilya Portekizcesi yerelleştirmesi</tr>
    <uk>Portuguese(BR) локалізація Thunderbird</uk>
+   <vi>Portuguese(BR) localisation of Thunderbird</vi>
    <zh_CN>Portuguese(BR) localisation of Thunderbird</zh_CN>
    <zh_TW>Portuguese(BR) localisation of Thunderbird</zh_TW>
 </description>

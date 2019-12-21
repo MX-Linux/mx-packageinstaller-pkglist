@@ -13,6 +13,7 @@ Chinese_CN_LO
    <am>Chinese_simplified localisation of LibreOffice</am>
    <ar>Chinese_simplified localisation of LibreOffice</ar>
    <bg>Chinese_simplified localisation of LibreOffice</bg>
+   <bn>Chinese_simplified localisation of LibreOffice</bn>
    <ca>Localització de LibreOffice en xinès simplificat</ca>
    <cs>Chinese_simplified localisation of LibreOffice</cs>
    <da>Kinesisk (forenklet) oversættelse af LibreOffice</da>
@@ -23,6 +24,7 @@ Chinese_CN_LO
    <et>Chinese_simplified localisation of LibreOffice</et>
    <eu>Chinese_simplified localisation of LibreOffice</eu>
    <fa>Chinese_simplified localisation of LibreOffice</fa>
+   <fil_PH>Chinese_simplified localisation of LibreOffice</fil_PH>
    <fi>Chinese_simplified localisation of LibreOffice</fi>
    <fr>Localisation chinois-simplifié pour LibreOffice</fr>
    <he_IL>Chinese_simplified localisation of LibreOffice</he_IL>
@@ -53,6 +55,7 @@ Chinese_CN_LO
    <sv>Kinesisk_förenklad lokalisering av LibreOffice</sv>
    <tr>Chinese_simplified localisation of LibreOffice</tr>
    <uk>Chinese_simplified локалізація LibreOffice</uk>
+   <vi>Chinese_simplified localisation of LibreOffice</vi>
    <zh_CN>Chinese_simplified localisation of LibreOffice</zh_CN>
    <zh_TW>Chinese_simplified localisation of LibreOffice</zh_TW>
 </description>

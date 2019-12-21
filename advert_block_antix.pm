@@ -13,6 +13,7 @@ Advert-Block-antiX
    <am>Block adservers with a modified Hosts file</am>
    <ar>Block adservers with a modified Hosts file</ar>
    <bg>Block adservers with a modified Hosts file</bg>
+   <bn>Block adservers with a modified Hosts file</bn>
    <ca>Bloqueig de publicitat per fitxer d'amfitrions modificat</ca>
    <cs>Block adservers with a modified Hosts file</cs>
    <da>Block reklameservere med en ændrede Hosts-fil</da>
@@ -23,6 +24,7 @@ Advert-Block-antiX
    <et>Block adservers with a modified Hosts file</et>
    <eu>Block adservers with a modified Hosts file</eu>
    <fa>Block adservers with a modified Hosts file</fa>
+   <fil_PH>Block adservers with a modified Hosts file</fil_PH>
    <fi>Block adservers with a modified Hosts file</fi>
    <fr>Bloquage des serveurs de publicité au moyen d'un fichier Hosts modifié</fr>
    <he_IL>Block adservers with a modified Hosts file</he_IL>
@@ -53,6 +55,7 @@ Advert-Block-antiX
    <sv>Blockera annonsservrar med en modifierad Hosts fil</sv>
    <tr>Block adservers with a modified Hosts file</tr>
    <uk>Блокувальних реклами з модифікованим файлом hosts</uk>
+   <vi>Chặn các máy chủ quảng cáo với một tệp Hosts được chỉnh sửa</vi>
    <zh_CN>Block adservers with a modified Hosts file</zh_CN>
    <zh_TW>Block adservers with a modified Hosts file</zh_TW>
 </description>

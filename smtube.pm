@@ -13,6 +13,7 @@ SMtube
    <am>search and download Youtube videos</am>
    <ar>search and download Youtube videos</ar>
    <bg>search and download Youtube videos</bg>
+   <bn>search and download Youtube videos</bn>
    <ca>Cerca i descarrega vídeos de Youtube</ca>
    <cs>search and download Youtube videos</cs>
    <da>søg efter og download Youtube-videoer</da>
@@ -23,6 +24,7 @@ SMtube
    <et>search and download Youtube videos</et>
    <eu>search and download Youtube videos</eu>
    <fa>search and download Youtube videos</fa>
+   <fil_PH>search and download Youtube videos</fil_PH>
    <fi>search and download Youtube videos</fi>
    <fr>Rechercher et télécharger des vidéos Youtube</fr>
    <he_IL>search and download Youtube videos</he_IL>
@@ -53,6 +55,7 @@ SMtube
    <sv>sök och ladda ner Youtube videos</sv>
    <tr>search and download Youtube videos</tr>
    <uk>пошук та завантаження відео з Youtube</uk>
+   <vi>search and download Youtube videos</vi>
    <zh_CN>search and download Youtube videos</zh_CN>
    <zh_TW>search and download Youtube videos</zh_TW>
 </description>

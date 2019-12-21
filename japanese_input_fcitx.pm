@@ -13,6 +13,7 @@ Japanese_Input_fcitx
    <am>Japanese fcitx</am>
    <ar>Japanese fcitx</ar>
    <bg>Japanese fcitx</bg>
+   <bn>Japanese fcitx</bn>
    <ca>Fcitx en italià</ca>
    <cs>Japanese fcitx</cs>
    <da>Japansk fcitx</da>
@@ -23,6 +24,7 @@ Japanese_Input_fcitx
    <et>Japanese fcitx</et>
    <eu>Japanese fcitx</eu>
    <fa>Japanese fcitx</fa>
+   <fil_PH>Japanese fcitx</fil_PH>
    <fi>Japanese fcitx</fi>
    <fr>Japonais fcitx</fr>
    <he_IL>Japanese fcitx</he_IL>
@@ -51,8 +53,9 @@ Japanese_Input_fcitx
    <sq>Japanese fcitx</sq>
    <sr>Japanese fcitx</sr>
    <sv>Japansk fcitx</sv>
-   <tr>Japanese fcitx</tr>
+   <tr>Japonca fcitx</tr>
    <uk>Japanese fcitx</uk>
+   <vi>Japanese fcitx</vi>
    <zh_CN>Japanese fcitx</zh_CN>
    <zh_TW>Japanese fcitx</zh_TW>
 </description>

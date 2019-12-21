@@ -13,6 +13,7 @@ MX 16 Wallpapers
    <am>backgrounds originally supplied with MX 16</am>
    <ar>backgrounds originally supplied with MX 16</ar>
    <bg>backgrounds originally supplied with MX 16</bg>
+   <bn>backgrounds originally supplied with MX 16</bn>
    <ca>Fons de pantalla subministrats d'origen amb MX16</ca>
    <cs>backgrounds originally supplied with MX 16</cs>
    <da>baggrunde fra MX 16</da>
@@ -23,6 +24,7 @@ MX 16 Wallpapers
    <et>backgrounds originally supplied with MX 16</et>
    <eu>backgrounds originally supplied with MX 16</eu>
    <fa>backgrounds originally supplied with MX 16</fa>
+   <fil_PH>backgrounds originally supplied with MX 16</fil_PH>
    <fi>backgrounds originally supplied with MX 16</fi>
    <fr>Fonds d'écran MX 16</fr>
    <he_IL>backgrounds originally supplied with MX 16</he_IL>
@@ -53,6 +55,7 @@ MX 16 Wallpapers
    <sv>wallpapers ursprungligen medföljande MX 16</sv>
    <tr>backgrounds originally supplied with MX 16</tr>
    <uk>оригінальні шпалери для MX 16</uk>
+   <vi>backgrounds originally supplied with MX 16</vi>
    <zh_CN>backgrounds originally supplied with MX 16</zh_CN>
    <zh_TW>backgrounds originally supplied with MX 16</zh_TW>
 </description>

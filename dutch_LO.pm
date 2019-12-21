@@ -13,6 +13,7 @@ Dutch_Libreoffice
    <am>Dutch LibreOffice Language Meta-Package</am>
    <ar>Dutch LibreOffice Language Meta-Package</ar>
    <bg>Dutch LibreOffice Language Meta-Package</bg>
+   <bn>Dutch LibreOffice Language Meta-Package</bn>
    <ca>Meta-paquet per LibreOffice en Holandès</ca>
    <cs>Dutch LibreOffice Language Meta-Package</cs>
    <da>Hollandsk LibreOffice sprog-metapakke</da>
@@ -23,6 +24,7 @@ Dutch_Libreoffice
    <et>Dutch LibreOffice Language Meta-Package</et>
    <eu>Dutch LibreOffice Language Meta-Package</eu>
    <fa>Dutch LibreOffice Language Meta-Package</fa>
+   <fil_PH>Dutch LibreOffice Language Meta-Package</fil_PH>
    <fi>Dutch LibreOffice Language Meta-Package</fi>
    <fr>Méta-Paquet langue néerlandaise pour LibreOffice</fr>
    <he_IL>Dutch LibreOffice Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Dutch_Libreoffice
    <sv>Holländska LibreOffice Språk Meta-Paket</sv>
    <tr>Dutch LibreOffice Language Meta-Package</tr>
    <uk>Dutch LibreOffice Language Meta-Package</uk>
+   <vi>Dutch LibreOffice Language Meta-Package</vi>
    <zh_CN>Dutch LibreOffice Language Meta-Package</zh_CN>
    <zh_TW>Dutch LibreOffice Language Meta-Package</zh_TW>
 </description>

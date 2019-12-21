@@ -13,6 +13,7 @@ SMplayer
    <am>themable gui frontend to MPlayer with other interesting features</am>
    <ar>themable gui frontend to MPlayer with other interesting features</ar>
    <bg>themable gui frontend to MPlayer with other interesting features</bg>
+   <bn>themable gui frontend to MPlayer with other interesting features</bn>
    <ca>Frontal IGU configurable per MPlayer amb característiques interessants</ca>
    <cs>themable gui frontend to MPlayer with other interesting features</cs>
    <da>grafisk brugerflade-frontend med temaer til MPlayer med andre interessante funktionaliteter</da>
@@ -23,6 +24,7 @@ SMplayer
    <et>themable gui frontend to MPlayer with other interesting features</et>
    <eu>themable gui frontend to MPlayer with other interesting features</eu>
    <fa>themable gui frontend to MPlayer with other interesting features</fa>
+   <fil_PH>themable gui frontend to MPlayer with other interesting features</fil_PH>
    <fi>themable gui frontend to MPlayer with other interesting features</fi>
    <fr>Interface graphique/frontend personnalisable pour MPlayer avec fonctionnalités utiles</fr>
    <he_IL>themable gui frontend to MPlayer with other interesting features</he_IL>
@@ -53,6 +55,7 @@ SMplayer
    <sv>temabar grafisk front-end till MPlayer med andra intressanta möjligheter</sv>
    <tr>themable gui frontend to MPlayer with other interesting features</tr>
    <uk>themable gui frontend to MPlayer with other interesting features</uk>
+   <vi>themable gui frontend to MPlayer with other interesting features</vi>
    <zh_CN>themable gui frontend to MPlayer with other interesting features</zh_CN>
    <zh_TW>themable gui frontend to MPlayer with other interesting features</zh_TW>
 </description>

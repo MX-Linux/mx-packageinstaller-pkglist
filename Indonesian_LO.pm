@@ -13,25 +13,27 @@ Indonesian_Libreoffice
    <am>Indonesian Language Meta-Package for LibreOffice</am>
    <ar>Indonesian Language Meta-Package for LibreOffice</ar>
    <bg>Indonesian Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Indonesian per LibreOffice</ca>
+   <bn>Indonesian Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Indonesi per LibreOffice</ca>
    <cs>Indonesian Language Meta-Package for LibreOffice</cs>
-   <da>Indonesian sprog-metapakke til LibreOffice</da>
-   <de>Indonesian Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Indonesian</el>
+   <da>Indonesian Language Meta-Package for LibreOffice</da>
+   <de>Indonesisches Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα ινδονησιακά</el>
    <en>Indonesian Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Indonesian para LibreOffice</es>
+   <es>Metapaquete de idioma indonesio para LibreOffice</es>
    <et>Indonesian Language Meta-Package for LibreOffice</et>
    <eu>Indonesian Language Meta-Package for LibreOffice</eu>
    <fa>Indonesian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Indonesian Language Meta-Package for LibreOffice</fil_PH>
    <fi>Indonesian Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Indonesian pour LibreOffice</fr>
+   <fr>Indonesian Language Meta-Package for LibreOffice</fr>
    <he_IL>Indonesian Language Meta-Package for LibreOffice</he_IL>
    <hi>Indonesian Language Meta-Package for LibreOffice</hi>
    <hr>Indonesian Language Meta-Package for LibreOffice</hr>
    <hu>Indonesian Language Meta-Package for LibreOffice</hu>
    <id>Indonesian Language Meta-Package for LibreOffice</id>
    <is>Indonesian Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Indonesian per LibreOffice</it>
+   <it>Meta-pacchetto della lingua indonesiana per LibreOffice</it>
    <ja_JP>Indonesian Language Meta-Package for LibreOffice</ja_JP>
    <ja>Indonesian Language Meta-Package for LibreOffice</ja>
    <kk>Indonesian Language Meta-Package for LibreOffice</kk>
@@ -40,19 +42,20 @@ Indonesian_Libreoffice
    <mk>Indonesian Language Meta-Package for LibreOffice</mk>
    <mr>Indonesian Language Meta-Package for LibreOffice</mr>
    <nb>Indonesian Language Meta-Package for LibreOffice</nb>
-   <nl>Indonesian Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Indonesian metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Indonesian Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Indonesian Meta-Pacote de Idioma para LibreOffice</pt>
+   <nl>Indonesisch Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Indonesian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Indonesian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Indonésio Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Indonesian Language Meta-Package for LibreOffice</ro>
    <ru>Indonesian Language Meta-Package for LibreOffice</ru>
    <sk>Indonesian Language Meta-Package for LibreOffice</sk>
-   <sl>Indonesian Language Meta-Package for LibreOffice</sl>
+   <sl>Indonezijski jezikovni meta-paket za LibreOffice</sl>
    <sq>Indonesian Language Meta-Package for LibreOffice</sq>
    <sr>Indonesian Language Meta-Package for LibreOffice</sr>
-   <sv>Indonesian Språk Meta-Paket för LibreOffice</sv>
+   <sv>Indonesiskt Språk Meta-Paket för LibreOffice</sv>
    <tr>Indonesian Language Meta-Package for LibreOffice</tr>
    <uk>Indonesian Language Meta-Package for LibreOffice</uk>
+   <vi>Indonesian Language Meta-Package for LibreOffice</vi>
    <zh_CN>Indonesian Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Indonesian Language Meta-Package for LibreOffice</zh_TW>
 </description>

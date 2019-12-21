@@ -13,6 +13,7 @@ Kodi
    <am>Kodi Media Center (formerly XBMC)</am>
    <ar>Kodi Media Center (formerly XBMC)</ar>
    <bg>Kodi Media Center (formerly XBMC)</bg>
+   <bn>Kodi Media Center (formerly XBMC)</bn>
    <ca>Centre de Mèdia Kodi (anteriorment XBMC)</ca>
    <cs>Kodi Media Center (formerly XBMC)</cs>
    <da>Kodi Media Center (tidligere XBMC)</da>
@@ -23,6 +24,7 @@ Kodi
    <et>Kodi Media Center (formerly XBMC)</et>
    <eu>Kodi Media Center (formerly XBMC)</eu>
    <fa>Kodi Media Center (formerly XBMC)</fa>
+   <fil_PH>Kodi Media Center (formerly XBMC)</fil_PH>
    <fi>Kodi Media Center (formerly XBMC)</fi>
    <fr>Kodi Media Center (anciennement XBMC)</fr>
    <he_IL>Kodi Media Center (formerly XBMC)</he_IL>
@@ -53,6 +55,7 @@ Kodi
    <sv>Kodi Media Center (tidigare XBMC)</sv>
    <tr>Kodi Media Center (formerly XBMC)</tr>
    <uk>Kodi Media Center (колишній XBMC)</uk>
+   <vi>Kodi Media Center (formerly XBMC)</vi>
    <zh_CN>Kodi Media Center (formerly XBMC)</zh_CN>
    <zh_TW>Kodi Media Center (formerly XBMC)</zh_TW>
 </description>

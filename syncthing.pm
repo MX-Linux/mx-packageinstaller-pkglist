@@ -13,6 +13,7 @@ Syncthing
    <am>Syncthing file sync utility</am>
    <ar>Syncthing file sync utility</ar>
    <bg>Syncthing file sync utility</bg>
+   <bn>Syncthing file sync utility</bn>
    <ca>Utilitat de sincronització de fitxers Syncthing</ca>
    <cs>Syncthing file sync utility</cs>
    <da>Syncthing file sync utility</da>
@@ -23,6 +24,7 @@ Syncthing
    <et>Syncthing file sync utility</et>
    <eu>Syncthing file sync utility</eu>
    <fa>Syncthing file sync utility</fa>
+   <fil_PH>Syncthing file sync utility</fil_PH>
    <fi>Syncthing file sync utility</fi>
    <fr>Utilitaire de synchronisation de fichier Syncthing</fr>
    <he_IL>Syncthing file sync utility</he_IL>
@@ -53,6 +55,7 @@ Syncthing
    <sv>Syncthing filsynkroniserings-redskap</sv>
    <tr>Syncthing file sync utility</tr>
    <uk>Syncthing file sync utility</uk>
+   <vi>Syncthing file sync utility</vi>
    <zh_CN>Syncthing file sync utility</zh_CN>
    <zh_TW>Syncthing file sync utility</zh_TW>
 </description>

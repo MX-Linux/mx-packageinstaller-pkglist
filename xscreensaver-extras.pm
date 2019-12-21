@@ -13,6 +13,7 @@ additional screensavers
    <am>extra screensavers</am>
    <ar>extra screensavers</ar>
    <bg>extra screensavers</bg>
+   <bn>extra screensavers</bn>
    <ca>Estalvis de pantalla addicionals</ca>
    <cs>extra screensavers</cs>
    <da>ekstra pauseskærme</da>
@@ -23,6 +24,7 @@ additional screensavers
    <et>extra screensavers</et>
    <eu>extra screensavers</eu>
    <fa>extra screensavers</fa>
+   <fil_PH>extra screensavers</fil_PH>
    <fi>extra screensavers</fi>
    <fr>écrans de veille supplémentaires</fr>
    <he_IL>extra screensavers</he_IL>
@@ -45,14 +47,15 @@ additional screensavers
    <pt_BR>Proteções de tela adicionais</pt_BR>
    <pt>protetores de ecrã extra</pt>
    <ro>extra screensavers</ro>
-   <ru>extra screensavers</ru>
+   <ru>дополнительные экранные заставки</ru>
    <sk>extra screensavers</sk>
    <sl>Dodatni ohranjevalniki zaslona</sl>
    <sq>extra screensavers</sq>
    <sr>extra screensavers</sr>
    <sv>extra skärmsläckare</sv>
-   <tr>extra screensavers</tr>
+   <tr>fazladan ekran koruyucular</tr>
    <uk>extra screensavers</uk>
+   <vi>extra screensavers</vi>
    <zh_CN>extra screensavers</zh_CN>
    <zh_TW>extra screensavers</zh_TW>
 </description>

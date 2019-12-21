@@ -13,6 +13,7 @@ Japanses_Thunderbird
    <am>Japanese localisation of Thunderbird</am>
    <ar>Japanese localisation of Thunderbird</ar>
    <bg>Japanese localisation of Thunderbird</bg>
+   <bn>Japanese localisation of Thunderbird</bn>
    <ca>Localització en japonès de Thunderbird</ca>
    <cs>Japanese localisation of Thunderbird</cs>
    <da>Japansk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Japanses_Thunderbird
    <et>Japanese localisation of Thunderbird</et>
    <eu>Japanese localisation of Thunderbird</eu>
    <fa>Japanese localisation of Thunderbird</fa>
+   <fil_PH>Japanese localisation of Thunderbird</fil_PH>
    <fi>Japanese localisation of Thunderbird</fi>
    <fr>Localisation japonaise pour Thunderbird</fr>
    <he_IL>Japanese localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Japanses_Thunderbird
    <sq>Japanese localisation of Thunderbird</sq>
    <sr>Japanese localisation of Thunderbird</sr>
    <sv>Japansk lokalisering av Thunderbird</sv>
-   <tr>Japanese localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Japonca yerelleştirmesi</tr>
    <uk>Japanese локалізація Thunderbird</uk>
+   <vi>Japanese localisation of Thunderbird</vi>
    <zh_CN>Japanese localisation of Thunderbird</zh_CN>
    <zh_TW>Japanese localisation of Thunderbird</zh_TW>
 </description>

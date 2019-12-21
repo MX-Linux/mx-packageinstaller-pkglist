@@ -13,6 +13,7 @@ Chinese_Input_fcitx
    <am>Chinese fcitx</am>
    <ar>Chinese fcitx</ar>
    <bg>Chinese fcitx</bg>
+   <bn>Chinese fcitx</bn>
    <ca>FCTIX en Xinès</ca>
    <cs>Chinese fcitx</cs>
    <da>Kinesisk fcitx</da>
@@ -23,6 +24,7 @@ Chinese_Input_fcitx
    <et>Chinese fcitx</et>
    <eu>Chinese fcitx</eu>
    <fa>Chinese fcitx</fa>
+   <fil_PH>Chinese fcitx</fil_PH>
    <fi>Chinese fcitx</fi>
    <fr>Chinois fcitx</fr>
    <he_IL>Chinese fcitx</he_IL>
@@ -51,8 +53,9 @@ Chinese_Input_fcitx
    <sq>Chinese fcitx</sq>
    <sr>Chinese fcitx</sr>
    <sv>Kinesisk fcitx</sv>
-   <tr>Chinese fcitx</tr>
+   <tr>Çince fcitx</tr>
    <uk>Chinese fcitx</uk>
+   <vi>Chinese fcitx</vi>
    <zh_CN>Chinese fcitx</zh_CN>
    <zh_TW>Chinese fcitx</zh_TW>
 </description>

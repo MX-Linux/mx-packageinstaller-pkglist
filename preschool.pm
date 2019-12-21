@@ -13,6 +13,7 @@ Preschool
    <am>Pre-School. Includes: gamine, gcompris and tuxpaint</am>
    <ar>Pre-School. Includes: gamine, gcompris and tuxpaint</ar>
    <bg>Pre-School. Includes: gamine, gcompris and tuxpaint</bg>
+   <bn>Pre-School. Includes: gamine, gcompris and tuxpaint</bn>
    <ca>Pre-escolar: inclou gamine, gcompris i tuxpaint</ca>
    <cs>Pre-School. Includes: gamine, gcompris and tuxpaint</cs>
    <da>Førskole. Inkluderer: gamine, gcompris og tuxpaint</da>
@@ -23,6 +24,7 @@ Preschool
    <et>Pre-School. Includes: gamine, gcompris and tuxpaint</et>
    <eu>Pre-School. Includes: gamine, gcompris and tuxpaint</eu>
    <fa>Pre-School. Includes: gamine, gcompris and tuxpaint</fa>
+   <fil_PH>Pre-School. Includes: gamine, gcompris and tuxpaint</fil_PH>
    <fi>Pre-School. Includes: gamine, gcompris and tuxpaint</fi>
    <fr>Maternelle. Inclus: gamine, gcompris et tuxpaint</fr>
    <he_IL>Pre-School. Includes: gamine, gcompris and tuxpaint</he_IL>
@@ -53,6 +55,7 @@ Preschool
    <sv>Pre-School. Inkluderar: gamine, gcompris och tuxpaint</sv>
    <tr>Pre-School. Includes: gamine, gcompris and tuxpaint</tr>
    <uk>Pre-School. Includes: gamine, gcompris and tuxpaint</uk>
+   <vi>Pre-School. Includes: gamine, gcompris and tuxpaint</vi>
    <zh_CN>Pre-School. Includes: gamine, gcompris and tuxpaint</zh_CN>
    <zh_TW>Pre-School. Includes: gamine, gcompris and tuxpaint</zh_TW>
 </description>

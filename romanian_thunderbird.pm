@@ -13,6 +13,7 @@ Romanian_Thunderbird
    <am>Romanian localisation of Thunderbird</am>
    <ar>Romanian localisation of Thunderbird</ar>
    <bg>Romanian localisation of Thunderbird</bg>
+   <bn>Romanian localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Romanès</ca>
    <cs>Romanian localisation of Thunderbird</cs>
    <da>Rumænsk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Romanian_Thunderbird
    <et>Romanian localisation of Thunderbird</et>
    <eu>Romanian localisation of Thunderbird</eu>
    <fa>Romanian localisation of Thunderbird</fa>
+   <fil_PH>Romanian localisation of Thunderbird</fil_PH>
    <fi>Romanian localisation of Thunderbird</fi>
    <fr>Localisation roumaine pour Thunderbird</fr>
    <he_IL>Romanian localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Romanian_Thunderbird
    <sq>Romanian localisation of Thunderbird</sq>
    <sr>Romanian localisation of Thunderbird</sr>
    <sv>Rumänsk lokalisering av Thunderbird </sv>
-   <tr>Romanian localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Rumence yerelleştirmesi</tr>
    <uk>Romanian локалізація Thunderbird</uk>
+   <vi>Romanian localisation of Thunderbird</vi>
    <zh_CN>Romanian localisation of Thunderbird</zh_CN>
    <zh_TW>Romanian localisation of Thunderbird</zh_TW>
 </description>

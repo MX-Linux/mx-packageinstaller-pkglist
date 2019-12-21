@@ -13,6 +13,7 @@ Pan
    <am>a gnome Usenet newsreader</am>
    <ar>a gnome Usenet newsreader</ar>
    <bg>a gnome Usenet newsreader</bg>
+   <bn>a gnome Usenet newsreader</bn>
    <ca>lector de notícies Usenet</ca>
    <cs>a gnome Usenet newsreader</cs>
    <da>en gnome Usenet-nyhedslæser</da>
@@ -23,6 +24,7 @@ Pan
    <et>a gnome Usenet newsreader</et>
    <eu>a gnome Usenet newsreader</eu>
    <fa>a gnome Usenet newsreader</fa>
+   <fil_PH>a gnome Usenet newsreader</fil_PH>
    <fi>a gnome Usenet newsreader</fi>
    <fr>Un lecteur de nouvelles Usenet pour Gnome</fr>
    <he_IL>a gnome Usenet newsreader</he_IL>
@@ -53,6 +55,7 @@ Pan
    <sv>en gnome Usenet nyhetsläsare</sv>
    <tr>a gnome Usenet newsreader</tr>
    <uk>a gnome Usenet newsreader</uk>
+   <vi>a gnome Usenet newsreader</vi>
    <zh_CN>a gnome Usenet newsreader</zh_CN>
    <zh_TW>a gnome Usenet newsreader</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Adapta Gtk Theme
    <am>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</am>
    <ar>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</ar>
    <bg>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</bg>
+   <bn>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</bn>
    <ca>Un tema modern Gtk en variants clara i fosca, amb ginys de realçat blau neó</ca>
    <cs>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</cs>
    <da>Et moderne fladt Gtk-tema i lyse og mørke varianter, med widgets med neonblå højlys</da>
@@ -23,6 +24,7 @@ Adapta Gtk Theme
    <et>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</et>
    <eu>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</eu>
    <fa>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</fa>
+   <fil_PH>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</fil_PH>
    <fi>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</fi>
    <fr>Thème contemporain Gtk Flat en versions claires et sombres, avec widgets aux éclairages bleus neon</fr>
    <he_IL>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</he_IL>
@@ -53,6 +55,7 @@ Adapta Gtk Theme
    <sv>ett modernt platt Gtk-tema i ljus eller mörk variant och widgets med neonblå reflexer</sv>
    <tr>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</tr>
    <uk>сучасна пласка Gtk-тема у світлому і темному варіантах з блакитно-неоновою підсвіткою віджетів</uk>
+   <vi>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</vi>
    <zh_CN>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</zh_CN>
    <zh_TW>a modern flat Gtk Theme in light and dark variants, with widgets having neon blue highlights</zh_TW>
 </description>

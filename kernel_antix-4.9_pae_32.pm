@@ -13,25 +13,27 @@ antix 4.9 32 bit pae
    <am>antiX 4.9.200 kernel, 32 bit pae</am>
    <ar>antiX 4.9.200 kernel, 32 bit pae</ar>
    <bg>antiX 4.9.200 kernel, 32 bit pae</bg>
-   <ca>Kernel d'antix 4.9.200, 32 bit pae</ca>
+   <bn>antiX 4.9.200 kernel, 32 bit pae</bn>
+   <ca>Kernel antiX 4.9.200, 32 bit PAE</ca>
    <cs>antiX 4.9.200 kernel, 32 bit pae</cs>
-   <da>antiX 4.9.200 kerne, 32 bit pae</da>
+   <da>antiX 4.9.200 kernel, 32 bit pae</da>
    <de>antiX 4.9.200 kernel, 32 bit pae</de>
    <el>πυρήνας antiX 4.9.200, 32 bit pae</el>
    <en>antiX 4.9.200 kernel, 32 bit pae</en>
-   <es>kernel antiX pae 4.9.200, 32 bit</es>
+   <es>antiX 4.9.200 kernel, 32 bit pae</es>
    <et>antiX 4.9.200 kernel, 32 bit pae</et>
    <eu>antiX 4.9.200 kernel, 32 bit pae</eu>
    <fa>antiX 4.9.200 kernel, 32 bit pae</fa>
+   <fil_PH>antiX 4.9.200 kernel, 32 bit pae</fil_PH>
    <fi>antiX 4.9.200 kernel, 32 bit pae</fi>
-   <fr>Noyau antiX 4.9.200 pae, 32 bit</fr>
+   <fr>antiX 4.9.200 kernel, 32 bit pae</fr>
    <he_IL>antiX 4.9.200 kernel, 32 bit pae</he_IL>
    <hi>antiX 4.9.200 kernel, 32 bit pae</hi>
    <hr>antiX 4.9.200 kernel, 32 bit pae</hr>
    <hu>antiX 4.9.200 kernel, 32 bit pae</hu>
    <id>antiX 4.9.200 kernel, 32 bit pae</id>
    <is>antiX 4.9.200 kernel, 32 bit pae</is>
-   <it>antiX 4.9.200 kernel, 32 bit pae</it>
+   <it>Kernel antiX 4.9.200, 32 bit pae</it>
    <ja_JP>antiX 4.9.200 kernel, 32 bit pae</ja_JP>
    <ja>antiX 4.9.200 kernel, 32 bit pae</ja>
    <kk>antiX 4.9.200 kernel, 32 bit pae</kk>
@@ -43,16 +45,17 @@ antix 4.9 32 bit pae
    <nl>antiX 4.9.200 kernel, 32 bit pae</nl>
    <pl>antiX 4.9.200 kernel, 32 bit pae</pl>
    <pt_BR>antiX 4.9.200 kernel, 32 bit pae</pt_BR>
-   <pt>Núcleo antiX 4.9.200, 32 bit pae</pt>
+   <pt>Núcleo (kernel) antiX 4.9.200, 32 bit pae</pt>
    <ro>antiX 4.9.200 kernel, 32 bit pae</ro>
    <ru>antiX 4.9.200 kernel, 32 bit pae</ru>
    <sk>antiX 4.9.200 kernel, 32 bit pae</sk>
-   <sl>antiX 4.9.200 kernel, 32 bit pae</sl>
+   <sl>antiX 4.9.200 jedro, 32 bitno pae</sl>
    <sq>antiX 4.9.200 kernel, 32 bit pae</sq>
    <sr>antiX 4.9.200 kernel, 32 bit pae</sr>
    <sv>antiX 4.9.200 kärna, 32 bit pae</sv>
    <tr>antiX 4.9.200 kernel, 32 bit pae</tr>
    <uk>antiX 4.9.200 kernel, 32 bit pae</uk>
+   <vi>antiX 4.9.200 kernel, 32 bit pae</vi>
    <zh_CN>antiX 4.9.200 kernel, 32 bit pae</zh_CN>
    <zh_TW>antiX 4.9.200 kernel, 32 bit pae</zh_TW>
 </description>

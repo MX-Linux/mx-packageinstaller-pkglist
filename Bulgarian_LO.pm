@@ -13,25 +13,27 @@ Bulgarian_Libreoffice
    <am>Bulgarian Language Meta-Package for LibreOffice</am>
    <ar>Bulgarian Language Meta-Package for LibreOffice</ar>
    <bg>Bulgarian Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Bulgarian per LibreOffice</ca>
+   <bn>Bulgarian Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Búlgar per LibreOffice</ca>
    <cs>Bulgarian Language Meta-Package for LibreOffice</cs>
-   <da>Bulgarian sprog-metapakke til LibreOffice</da>
-   <de>Bulgarian Meta-Paket für LibreOffice</de>
-   <el>LibreOffice στα Bulgarian</el>
+   <da>Bulgarian Language Meta-Package for LibreOffice</da>
+   <de>Bulgarisches Meta-Paket für LibreOffice</de>
+   <el>LibreOffice στα βουλγαρικά</el>
    <en>Bulgarian Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Bulgarian para LibreOffice</es>
+   <es>Meta-Paquete de idioma búlgaro para LibreOffice</es>
    <et>Bulgarian Language Meta-Package for LibreOffice</et>
    <eu>Bulgarian Language Meta-Package for LibreOffice</eu>
    <fa>Bulgarian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Bulgarian Language Meta-Package for LibreOffice</fil_PH>
    <fi>Bulgarian Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Bulgarian pour LibreOffice</fr>
+   <fr>Bulgarian Language Meta-Package for LibreOffice</fr>
    <he_IL>Bulgarian Language Meta-Package for LibreOffice</he_IL>
    <hi>Bulgarian Language Meta-Package for LibreOffice</hi>
    <hr>Bulgarian Language Meta-Package for LibreOffice</hr>
    <hu>Bulgarian Language Meta-Package for LibreOffice</hu>
    <id>Bulgarian Language Meta-Package for LibreOffice</id>
    <is>Bulgarian Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Bulgarian per LibreOffice</it>
+   <it>Meta-pacchetto della lingua bulgara per LibreOffice</it>
    <ja_JP>Bulgarian Language Meta-Package for LibreOffice</ja_JP>
    <ja>Bulgarian Language Meta-Package for LibreOffice</ja>
    <kk>Bulgarian Language Meta-Package for LibreOffice</kk>
@@ -40,19 +42,20 @@ Bulgarian_Libreoffice
    <mk>Bulgarian Language Meta-Package for LibreOffice</mk>
    <mr>Bulgarian Language Meta-Package for LibreOffice</mr>
    <nb>Bulgarian Language Meta-Package for LibreOffice</nb>
-   <nl>Bulgarian Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Bulgarian metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Bulgarian Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Bulgarian Meta-Pacote de Idioma para LibreOffice</pt>
+   <nl>Bulgarian Language Meta-Package for LibreOffice</nl>
+   <pl>Bulgarian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Bulgarian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Búlgaro Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Bulgarian Language Meta-Package for LibreOffice</ro>
    <ru>Bulgarian Language Meta-Package for LibreOffice</ru>
    <sk>Bulgarian Language Meta-Package for LibreOffice</sk>
-   <sl>Bulgarian Language Meta-Package for LibreOffice</sl>
+   <sl>Bolgarski jezikovni meta-paket za LibreOffice</sl>
    <sq>Bulgarian Language Meta-Package for LibreOffice</sq>
    <sr>Bulgarian Language Meta-Package for LibreOffice</sr>
-   <sv>Bulgarian Språk Meta-Paket för LibreOffice</sv>
+   <sv>Bulgariskt Språk Meta-Paket för LibreOffice</sv>
    <tr>Bulgarian Language Meta-Package for LibreOffice</tr>
    <uk>Bulgarian Language Meta-Package for LibreOffice</uk>
+   <vi>Bulgarian Language Meta-Package for LibreOffice</vi>
    <zh_CN>Bulgarian Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Bulgarian Language Meta-Package for LibreOffice</zh_TW>
 </description>

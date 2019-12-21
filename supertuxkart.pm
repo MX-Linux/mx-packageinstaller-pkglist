@@ -13,6 +13,7 @@ SuperTuxKart
    <am>Mario kart style racing</am>
    <ar>Mario kart style racing</ar>
    <bg>Mario kart style racing</bg>
+   <bn>Mario kart style racing</bn>
    <ca>Curses del tipus Mario Kart</ca>
    <cs>Mario kart style racing</cs>
    <da>Racerspil i stil med Mario kart</da>
@@ -23,6 +24,7 @@ SuperTuxKart
    <et>Mario kart style racing</et>
    <eu>Mario kart style racing</eu>
    <fa>Mario kart style racing</fa>
+   <fil_PH>Mario kart style racing</fil_PH>
    <fi>Mario Kartin tyylinen kilpa-ajopeli</fi>
    <fr>Jeu de courses de type Mario-kart</fr>
    <he_IL>Mario kart style racing</he_IL>
@@ -53,6 +55,7 @@ SuperTuxKart
    <sv>Mario kart stil racing</sv>
    <tr>Mario kart style racing</tr>
    <uk>Mario kart style racing</uk>
+   <vi>Mario kart style racing</vi>
    <zh_CN>Mario kart style racing</zh_CN>
    <zh_TW>Mario kart style racing</zh_TW>
 </description>

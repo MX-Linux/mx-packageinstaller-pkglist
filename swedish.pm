@@ -13,6 +13,7 @@ Swedish
    <am>Swedish Language Meta-Package</am>
    <ar>Swedish Language Meta-Package</ar>
    <bg>Swedish Language Meta-Package</bg>
+   <bn>Swedish Language Meta-Package</bn>
    <ca>Meta-paquet de llengua Sueca</ca>
    <cs>Swedish Language Meta-Package</cs>
    <da>Svensk sprog-metapakke</da>
@@ -23,6 +24,7 @@ Swedish
    <et>Swedish Language Meta-Package</et>
    <eu>Swedish Language Meta-Package</eu>
    <fa>Swedish Language Meta-Package</fa>
+   <fil_PH>Swedish Language Meta-Package</fil_PH>
    <fi>Swedish Language Meta-Package</fi>
    <fr>Méta-paquet langue pour suédoise</fr>
    <he_IL>Swedish Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Swedish
    <sv>Svenskt Språk-Meta-Paket</sv>
    <tr>Swedish Language Meta-Package</tr>
    <uk>Swedish Language Meta-Package</uk>
+   <vi>Swedish Language Meta-Package</vi>
    <zh_CN>Swedish Language Meta-Package</zh_CN>
    <zh_TW>Swedish Language Meta-Package</zh_TW>
 </description>

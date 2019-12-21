@@ -13,6 +13,7 @@ SpaceFM
    <am>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</am>
    <ar>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ar>
    <bg>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</bg>
+   <bn>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</bn>
    <ca>Gestor d'escriptori i fitxers multi-panell amb pestanyes estable, ràpid, flexible i pràctic</ca>
    <cs>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</cs>
    <da>en fil- og skrivebordshåndtering med flere paneler og faneblade som tilbyder stabilitet, bekvemmelighed og fleksibilitet</da>
@@ -23,6 +24,7 @@ SpaceFM
    <et>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</et>
    <eu>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</eu>
    <fa>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</fa>
+   <fil_PH>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</fil_PH>
    <fi>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</fi>
    <fr>Un gestionnaire de bureau et de fichiers à plusieurs panneaux, procurant stabilité, rapidité, facilité et souplesse</fr>
    <he_IL>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</he_IL>
@@ -53,6 +55,7 @@ SpaceFM
    <sv>en multi-panels fil och skrivbordshanterare med flikar som erbjuder stabilitet, snabbhet, bekvämlighet och flexibilitet</sv>
    <tr>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</tr>
    <uk>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</uk>
+   <vi>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</vi>
    <zh_CN>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</zh_CN>
    <zh_TW>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</zh_TW>
 </description>

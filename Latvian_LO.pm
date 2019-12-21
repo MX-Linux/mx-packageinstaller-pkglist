@@ -13,25 +13,27 @@ Latvian_Libreoffice
    <am>Latvian Language Meta-Package for LibreOffice</am>
    <ar>Latvian Language Meta-Package for LibreOffice</ar>
    <bg>Latvian Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Latvian per LibreOffice</ca>
+   <bn>Latvian Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Letó per LibreOffice</ca>
    <cs>Latvian Language Meta-Package for LibreOffice</cs>
-   <da>Latvian sprog-metapakke til LibreOffice</da>
-   <de>Latvian Meta-Paket für LibreOffice</de>
+   <da>Latvian Language Meta-Package for LibreOffice</da>
+   <de>Lettisches Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Latvian</el>
    <en>Latvian Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Latvian para LibreOffice</es>
+   <es>Meta-Paquete de idioma letón para LibreOffice</es>
    <et>Latvian Language Meta-Package for LibreOffice</et>
    <eu>Latvian Language Meta-Package for LibreOffice</eu>
    <fa>Latvian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Latvian Language Meta-Package for LibreOffice</fil_PH>
    <fi>Latvian Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Latvian pour LibreOffice</fr>
+   <fr>Latvian Language Meta-Package for LibreOffice</fr>
    <he_IL>Latvian Language Meta-Package for LibreOffice</he_IL>
    <hi>Latvian Language Meta-Package for LibreOffice</hi>
    <hr>Latvian Language Meta-Package for LibreOffice</hr>
    <hu>Latvian Language Meta-Package for LibreOffice</hu>
    <id>Latvian Language Meta-Package for LibreOffice</id>
    <is>Latvian Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Latvian per LibreOffice</it>
+   <it>Meta-pacchetto della lingua lettone per LibreOffice</it>
    <ja_JP>Latvian Language Meta-Package for LibreOffice</ja_JP>
    <ja>Latvian Language Meta-Package for LibreOffice</ja>
    <kk>Latvian Language Meta-Package for LibreOffice</kk>
@@ -40,19 +42,20 @@ Latvian_Libreoffice
    <mk>Latvian Language Meta-Package for LibreOffice</mk>
    <mr>Latvian Language Meta-Package for LibreOffice</mr>
    <nb>Latvian Language Meta-Package for LibreOffice</nb>
-   <nl>Latvian Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Latvian metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Latvian Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Latvian Meta-Pacote de Idioma para LibreOffice</pt>
+   <nl>Lets Taal Meta-Pakket voor LibreOffice</nl>
+   <pl>Latvian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Latvian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Letão Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Latvian Language Meta-Package for LibreOffice</ro>
    <ru>Latvian Language Meta-Package for LibreOffice</ru>
    <sk>Latvian Language Meta-Package for LibreOffice</sk>
-   <sl>Latvian Language Meta-Package for LibreOffice</sl>
+   <sl>Latvijski jezikovni meta-paket za LibreOffice</sl>
    <sq>Latvian Language Meta-Package for LibreOffice</sq>
    <sr>Latvian Language Meta-Package for LibreOffice</sr>
-   <sv>Latvian Språk Meta-Paket för LibreOffice</sv>
+   <sv>Lettländskt Språk Meta-Paket för LibreOffice</sv>
    <tr>Latvian Language Meta-Package for LibreOffice</tr>
    <uk>Latvian Language Meta-Package for LibreOffice</uk>
+   <vi>Latvian Language Meta-Package for LibreOffice</vi>
    <zh_CN>Latvian Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Latvian Language Meta-Package for LibreOffice</zh_TW>
 </description>

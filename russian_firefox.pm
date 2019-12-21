@@ -13,6 +13,7 @@ Russian_Firefox
    <am>Russian localisation of Firefox</am>
    <ar>Russian localisation of Firefox</ar>
    <bg>Russian localisation of Firefox</bg>
+   <bn>Russian localisation of Firefox</bn>
    <ca>Localització de Firefox en Rus</ca>
    <cs>Russian localisation of Firefox</cs>
    <da>Russisk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Russian_Firefox
    <et>Russian localisation of Firefox</et>
    <eu>Russian localisation of Firefox</eu>
    <fa>Russian localisation of Firefox</fa>
+   <fil_PH>Russian localisation of Firefox</fil_PH>
    <fi>Russian localisation of Firefox</fi>
    <fr>Localisation russe pour Firefox</fr>
    <he_IL>Russian localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Russian_Firefox
    <sq>Russian localisation of Firefox</sq>
    <sr>Russian localisation of Firefox</sr>
    <sv>Rysk lokalisering av Firefox </sv>
-   <tr>Russian localisation of Firefox</tr>
+   <tr>Firefox'un Rusça yerelleştirmesi</tr>
    <uk>Russian локалізація Firefox</uk>
+   <vi>Russian localisation of Firefox</vi>
    <zh_CN>Russian localisation of Firefox</zh_CN>
    <zh_TW>Russian localisation of Firefox</zh_TW>
 </description>

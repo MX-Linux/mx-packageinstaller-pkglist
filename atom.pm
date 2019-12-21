@@ -13,6 +13,7 @@ atom
    <am>atom text editor IDE</am>
    <ar>atom text editor IDE</ar>
    <bg>atom text editor IDE</bg>
+   <bn>atom text editor IDE</bn>
    <ca>atom editor de text IDE</ca>
    <cs>atom text editor IDE</cs>
    <da>atom-tekstredigerings-IDE</da>
@@ -23,6 +24,7 @@ atom
    <et>atom text editor IDE</et>
    <eu>atom text editor IDE</eu>
    <fa>atom text editor IDE</fa>
+   <fil_PH>atom text editor IDE</fil_PH>
    <fi>atom text editor IDE</fi>
    <fr>IDE pour l'éditeur de texte Atom</fr>
    <he_IL>atom text editor IDE</he_IL>
@@ -53,6 +55,7 @@ atom
    <sv>atom textredigerare IDE</sv>
    <tr>atom text editor IDE</tr>
    <uk>atom text editor IDE</uk>
+   <vi>atom text editor IDE</vi>
    <zh_CN>atom text editor IDE</zh_CN>
    <zh_TW>atom text editor IDE</zh_TW>
 </description>

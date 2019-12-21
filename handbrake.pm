@@ -13,6 +13,7 @@ Handbrake
    <am>versatile DVD ripper and video transcoder (cli and GUI)</am>
    <ar>versatile DVD ripper and video transcoder (cli and GUI)</ar>
    <bg>versatile DVD ripper and video transcoder (cli and GUI)</bg>
+   <bn>versatile DVD ripper and video transcoder (cli and GUI)</bn>
    <ca>gravador de DVDs i transcodificador de vídeo versàtil (IGU i consola)</ca>
    <cs>versatile DVD ripper and video transcoder (cli and GUI)</cs>
    <da>alsidig DVD-ripper og -videotranskoder (kommandolinje og grafisk brugerflade)</da>
@@ -23,6 +24,7 @@ Handbrake
    <et>versatile DVD ripper and video transcoder (cli and GUI)</et>
    <eu>versatile DVD ripper and video transcoder (cli and GUI)</eu>
    <fa>versatile DVD ripper and video transcoder (cli and GUI)</fa>
+   <fil_PH>versatile DVD ripper and video transcoder (cli and GUI)</fil_PH>
    <fi>versatile DVD ripper and video transcoder (cli and GUI)</fi>
    <fr>Extracteur de DVD et transcodeur vidéo (cli and GUI)</fr>
    <he_IL>versatile DVD ripper and video transcoder (cli and GUI)</he_IL>
@@ -53,6 +55,7 @@ Handbrake
    <sv>mångsidig DVD ripper och video transcoder (cli och GUI)</sv>
    <tr>versatile DVD ripper and video transcoder (cli and GUI)</tr>
    <uk>універсальний DVD витягувач та відео перетворювач (графічний та консольний)</uk>
+   <vi>versatile DVD ripper and video transcoder (cli and GUI)</vi>
    <zh_CN>versatile DVD ripper and video transcoder (cli and GUI)</zh_CN>
    <zh_TW>versatile DVD ripper and video transcoder (cli and GUI)</zh_TW>
 </description>

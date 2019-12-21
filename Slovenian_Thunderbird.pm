@@ -13,6 +13,7 @@ Slovenian_Thunderbird
    <am>Slovenian localisation of Thunderbird</am>
    <ar>Slovenian localisation of Thunderbird</ar>
    <bg>Slovenian localisation of Thunderbird</bg>
+   <bn>Slovenian localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Eslovè</ca>
    <cs>Slovenian localisation of Thunderbird</cs>
    <da>Slovensk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Slovenian_Thunderbird
    <et>Slovenian localisation of Thunderbird</et>
    <eu>Slovenian localisation of Thunderbird</eu>
    <fa>Slovenian localisation of Thunderbird</fa>
+   <fil_PH>Slovenian localisation of Thunderbird</fil_PH>
    <fi>Slovenian localisation of Thunderbird</fi>
    <fr>Localisation slovène pour Thunderbird</fr>
    <he_IL>Slovenian localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Slovenian_Thunderbird
    <sq>Slovenian localisation of Thunderbird</sq>
    <sr>Slovenian localisation of Thunderbird</sr>
    <sv>Slovensk lokalisering av Thunderbird</sv>
-   <tr>Slovenian localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Slovence yerelleştirmesi</tr>
    <uk>Slovenian localisation of Thunderbird</uk>
+   <vi>Slovenian localisation of Thunderbird</vi>
    <zh_CN>Slovenian localisation of Thunderbird</zh_CN>
    <zh_TW>Slovenian localisation of Thunderbird</zh_TW>
 </description>

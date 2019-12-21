@@ -13,18 +13,20 @@ antiX 5.2 64 bit
    <am>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</am>
    <ar>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</ar>
    <bg>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</bg>
-   <ca>Kernel d'antix 5.2.21 amb pegats per meltdown i Spectra, 64 bit</ca>
+   <bn>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</bn>
+   <ca>Kernel antiX 5.2.21 esmenat per Meltdown i Spectre, 64 bit</ca>
    <cs>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</cs>
-   <da>antiX 5.2.21 kerne meltdown- og spectre-rettelse, 64 bit</da>
-   <de>antiX 5.2.21 Kernel - Meltdown und Spectre gepatcht, 64 Bit</de>
+   <da>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</da>
+   <de>antiX 5.2.21 Kernel Meltdown und Spectre gepatcht, 64 bit</de>
    <el>antiX 5.2.21 πυρήνα Meltdown και Spectre patched, 64 bit</el>
    <en>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</en>
-   <es>kernel antiX 5.2.21 con parche Meltdown y Spectre, 64 bit</es>
+   <es>antiX 5.2.21 kernel Meltdown y Spectre parcheados, 64 bit</es>
    <et>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</et>
    <eu>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</eu>
    <fa>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</fa>
+   <fil_PH>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</fil_PH>
    <fi>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</fi>
-   <fr>Noyau antiX 5.2.21 patché pour Meltdown et Spectre, 64 bit</fr>
+   <fr>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</fr>
    <he_IL>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</he_IL>
    <hi>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</hi>
    <hr>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</hr>
@@ -42,17 +44,18 @@ antiX 5.2 64 bit
    <nb>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</nb>
    <nl>antiX 5.2.21 kernel Meltdown en Spectre patched, 64 bit</nl>
    <pl>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</pl>
-   <pt_BR>antiX 5.2.21 kernel com correções para as falhas Meltdown e Spectre, 64 bit</pt_BR>
-   <pt>Núcleo antiX 5.2.21 com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
+   <pt_BR>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</pt_BR>
+   <pt>Núcleo (kernel) antiX 5.2.21 com correcções para as falhas Meltdown e Spectre, 64 bit</pt>
    <ro>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</ro>
    <ru>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</ru>
    <sk>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</sk>
-   <sl>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</sl>
+   <sl>antiX 5.2.21 Meltdownjedro in Spectre zakrpano, 64 bitno</sl>
    <sq>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</sq>
    <sr>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</sr>
    <sv>antiX 5.2.21 kärna Meltdown och Spectre fixad, 64 bit</sv>
    <tr>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</tr>
    <uk>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</uk>
+   <vi>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</vi>
    <zh_CN>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</zh_CN>
    <zh_TW>antiX 5.2.21 kernel Meltdown and Spectre patched, 64 bit</zh_TW>
 </description>

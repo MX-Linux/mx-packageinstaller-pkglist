@@ -13,6 +13,7 @@ Vietnamese_Input
    <am>Vietnamese Fonts and ibus</am>
    <ar>Vietnamese Fonts and ibus</ar>
    <bg>Vietnamese Fonts and ibus</bg>
+   <bn>Vietnamese Fonts and ibus</bn>
    <ca>Tipus de lletra i IBUS Vietnamesos</ca>
    <cs>Vietnamese Fonts and ibus</cs>
    <da>Vietnamesisk skrifttyper og ibus</da>
@@ -23,6 +24,7 @@ Vietnamese_Input
    <et>Vietnamese Fonts and ibus</et>
    <eu>Vietnamese Fonts and ibus</eu>
    <fa>Vietnamese Fonts and ibus</fa>
+   <fil_PH>Vietnamese Fonts and ibus</fil_PH>
    <fi>Vietnamese Fonts and ibus</fi>
    <fr>Polices vietnamiennes et ibus</fr>
    <he_IL>Vietnamese Fonts and ibus</he_IL>
@@ -53,6 +55,7 @@ Vietnamese_Input
    <sv>Vietnamesiska Typsnitt och ibus</sv>
    <tr>Vietnamese Fonts and ibus</tr>
    <uk>Vietnamese Fonts and ibus</uk>
+   <vi>Vietnamese Fonts and ibus</vi>
    <zh_CN>Vietnamese Fonts and ibus</zh_CN>
    <zh_TW>Vietnamese Fonts and ibus</zh_TW>
 </description>

@@ -13,25 +13,27 @@ Zulu_Libreoffice
    <am>Zulu Language Meta-Package for LibreOffice</am>
    <ar>Zulu Language Meta-Package for LibreOffice</ar>
    <bg>Zulu Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Zulu per LibreOffice</ca>
+   <bn>Zulu Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Zulu per LibreOffice</ca>
    <cs>Zulu Language Meta-Package for LibreOffice</cs>
-   <da>Zulu sprog-metapakke til LibreOffice</da>
+   <da>Zulu Language Meta-Package for LibreOffice</da>
    <de>Zulu Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Zulu</el>
    <en>Zulu Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Zulu para LibreOffice</es>
+   <es>Metapaquete de idioma zulú para LibreOffice</es>
    <et>Zulu Language Meta-Package for LibreOffice</et>
    <eu>Zulu Language Meta-Package for LibreOffice</eu>
    <fa>Zulu Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Zulu Language Meta-Package for LibreOffice</fil_PH>
    <fi>Zulu Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Zulu pour LibreOffice</fr>
+   <fr>Meta-Paquet de langue Zoulou pour LibreOffice</fr>
    <he_IL>Zulu Language Meta-Package for LibreOffice</he_IL>
    <hi>Zulu Language Meta-Package for LibreOffice</hi>
    <hr>Zulu Language Meta-Package for LibreOffice</hr>
    <hu>Zulu Language Meta-Package for LibreOffice</hu>
    <id>Zulu Language Meta-Package for LibreOffice</id>
    <is>Zulu Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Zulu per LibreOffice</it>
+   <it>Meta-pacchetto della lingua zulu per LibreOffice</it>
    <ja_JP>Zulu Language Meta-Package for LibreOffice</ja_JP>
    <ja>Zulu Language Meta-Package for LibreOffice</ja>
    <kk>Zulu Language Meta-Package for LibreOffice</kk>
@@ -40,19 +42,20 @@ Zulu_Libreoffice
    <mk>Zulu Language Meta-Package for LibreOffice</mk>
    <mr>Zulu Language Meta-Package for LibreOffice</mr>
    <nb>Zulu Language Meta-Package for LibreOffice</nb>
-   <nl>Zulu Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Zulu metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Zulu Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <nl>Zulu Language Meta-Package for LibreOffice</nl>
+   <pl>Zulu Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Zulu Language Meta-Package for LibreOffice</pt_BR>
    <pt>Zulu Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Zulu Language Meta-Package for LibreOffice</ro>
    <ru>Zulu Language Meta-Package for LibreOffice</ru>
    <sk>Zulu Language Meta-Package for LibreOffice</sk>
-   <sl>Zulu Language Meta-Package for LibreOffice</sl>
+   <sl>Zulujski jezikovni meta-paket za LibreOffice</sl>
    <sq>Zulu Language Meta-Package for LibreOffice</sq>
    <sr>Zulu Language Meta-Package for LibreOffice</sr>
    <sv>Zulu Språk Meta-Paket för LibreOffice</sv>
    <tr>Zulu Language Meta-Package for LibreOffice</tr>
    <uk>Zulu Language Meta-Package for LibreOffice</uk>
+   <vi>Zulu Language Meta-Package for LibreOffice</vi>
    <zh_CN>Zulu Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Zulu Language Meta-Package for LibreOffice</zh_TW>
 </description>
