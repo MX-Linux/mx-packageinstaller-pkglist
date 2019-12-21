@@ -13,6 +13,7 @@ Shotwell
    <am>digital photo organizer</am>
    <ar>digital photo organizer</ar>
    <bg>digital photo organizer</bg>
+   <bn>digital photo organizer</bn>
    <ca>Organitzador de fotos digitals</ca>
    <cs>digital photo organizer</cs>
    <da>organisering af digitale billeder</da>
@@ -23,6 +24,7 @@ Shotwell
    <et>digital photo organizer</et>
    <eu>digital photo organizer</eu>
    <fa>digital photo organizer</fa>
+   <fil_PH>digital photo organizer</fil_PH>
    <fi>digital photo organizer</fi>
    <fr>Agenda photo numérique</fr>
    <he_IL>digital photo organizer</he_IL>
@@ -53,6 +55,7 @@ Shotwell
    <sv>digital foto-organiserare</sv>
    <tr>digital photo organizer</tr>
    <uk>digital photo organizer</uk>
+   <vi>digital photo organizer</vi>
    <zh_CN>digital photo organizer</zh_CN>
    <zh_TW>digital photo organizer</zh_TW>
 </description>

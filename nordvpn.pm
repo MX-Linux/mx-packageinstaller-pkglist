@@ -13,6 +13,7 @@ NordVPN - VPN
    <am>NordVPN - NordVPN client and sysVinit scripts</am>
    <ar>NordVPN - NordVPN client and sysVinit scripts</ar>
    <bg>NordVPN - NordVPN client and sysVinit scripts</bg>
+   <bn>NordVPN - NordVPN client and sysVinit scripts</bn>
    <ca>NordVPN - scripts client NordVPN i sysVinit</ca>
    <cs>NordVPN - NordVPN client and sysVinit scripts</cs>
    <da>NordVPN - NordVPN client and sysVinit scripts</da>
@@ -23,6 +24,7 @@ NordVPN - VPN
    <et>NordVPN - NordVPN client and sysVinit scripts</et>
    <eu>NordVPN - NordVPN client and sysVinit scripts</eu>
    <fa>NordVPN - NordVPN client and sysVinit scripts</fa>
+   <fil_PH>NordVPN - NordVPN client and sysVinit scripts</fil_PH>
    <fi>NordVPN - NordVPN client and sysVinit scripts</fi>
    <fr>Scripts pour NordVPN - NordVPN client et sysVinit</fr>
    <he_IL>NordVPN - NordVPN client and sysVinit scripts</he_IL>
@@ -53,6 +55,7 @@ NordVPN - VPN
    <sv>NordVPN - NordVPN klient och sysVinit skript</sv>
    <tr>NordVPN - NordVPN client and sysVinit scripts</tr>
    <uk>NordVPN - NordVPN client and sysVinit scripts</uk>
+   <vi>NordVPN - NordVPN client and sysVinit scripts</vi>
    <zh_CN>NordVPN - NordVPN client and sysVinit scripts</zh_CN>
    <zh_TW>NordVPN - NordVPN client and sysVinit scripts</zh_TW>
 </description>
@@ -64,7 +67,7 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-# purge obsolete nordvpn-sysvinit-compat 
+# purge obsolete nordvpn-sysvinit-compat
 if dpkg-query -f '${db:Status-Abbrev}' -W nordvpn-sysvinit-compat  2>/dev/null 1>/dev/null; then
 apt-get -y remove --purge nordvpn-sysvinit-compat
 fi
@@ -88,7 +91,7 @@ nordvpn
 </uninstall_package_names>
 
 <postuninstall>
-# purge obsolete nordvpn-sysvinit-compat 
+# purge obsolete nordvpn-sysvinit-compat
 if dpkg-query -f '${db:Status-Abbrev}' -W nordvpn-sysvinit-compat  2>/dev/null 1>/dev/null; then
 apt-get -y remove --purge nordvpn-sysvinit-compat
 fi

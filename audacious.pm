@@ -13,6 +13,7 @@ Audacious
    <am>lightweight winamp/xmms like audio player</am>
    <ar>lightweight winamp/xmms like audio player</ar>
    <bg>lightweight winamp/xmms like audio player</bg>
+   <bn>lightweight winamp/xmms like audio player</bn>
    <ca>Reproductor lleuger d'àudio estil winamp/xmms</ca>
    <cs>lightweight winamp/xmms like audio player</cs>
    <da>letvægts winamp/xmms ligesom lydafspiller</da>
@@ -23,6 +24,7 @@ Audacious
    <et>lightweight winamp/xmms like audio player</et>
    <eu>lightweight winamp/xmms like audio player</eu>
    <fa>lightweight winamp/xmms like audio player</fa>
+   <fil_PH>lightweight winamp/xmms like audio player</fil_PH>
    <fi>lightweight winamp/xmms like audio player</fi>
    <fr>Lecteur audio léger de type winamp/xmms</fr>
    <he_IL>lightweight winamp/xmms like audio player</he_IL>
@@ -53,6 +55,7 @@ Audacious
    <sv>lättvikts winamp/xmms-liknande ljudspelare</sv>
    <tr>lightweight winamp/xmms like audio player</tr>
    <uk>легкий аудіо програвач схожий на winamp/xmms</uk>
+   <vi>trình nghe nhạc gọn nhẹ tương tự winamp/xmms</vi>
    <zh_CN>lightweight winamp/xmms like audio player</zh_CN>
    <zh_TW>lightweight winamp/xmms like audio player</zh_TW>
 </description>

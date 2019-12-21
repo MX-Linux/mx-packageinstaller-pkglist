@@ -13,6 +13,7 @@ Bulgarian_Firefox
    <am>Bulgarian localisation of Firefox</am>
    <ar>Bulgarian localisation of Firefox</ar>
    <bg>Bulgarian localisation of Firefox</bg>
+   <bn>Bulgarian localisation of Firefox</bn>
    <ca>Localització de Firefox en Búlgar</ca>
    <cs>Bulgarian localisation of Firefox</cs>
    <da>Bulgarsk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Bulgarian_Firefox
    <et>Bulgarian localisation of Firefox</et>
    <eu>Bulgarian localisation of Firefox</eu>
    <fa>Bulgarian localisation of Firefox</fa>
+   <fil_PH>Bulgarian localisation of Firefox</fil_PH>
    <fi>Bulgarian localisation of Firefox</fi>
    <fr>Localisation bulgare pour Firefox</fr>
    <he_IL>Bulgarian localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Bulgarian_Firefox
    <sq>Bulgarian localisation of Firefox</sq>
    <sr>Bulgarian localisation of Firefox</sr>
    <sv>Bulgarisk lokalisering av  Firefox</sv>
-   <tr>Bulgarian localisation of Firefox</tr>
+   <tr>Firefox'un Bulgarca yerelleştirmesi</tr>
    <uk>Bulgarian локалізація Firefox</uk>
+   <vi>Bulgarian localisation of Firefox</vi>
    <zh_CN>Bulgarian localisation of Firefox</zh_CN>
    <zh_TW>Bulgarian localisation of Firefox</zh_TW>
 </description>

@@ -14,6 +14,7 @@ OBS-Studio
    <am>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</am>
    <ar>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ar>
    <bg>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</bg>
+   <bn>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</bn>
    <ca>OBS-Studio - Streaming Video i Screencaster (cal maquinari OpenGL 3)</ca>
    <cs>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</cs>
    <da>OBS-Studio - Streaming af video og skærmudsendelse (kræver OpenGL 3-hardware)</da>
@@ -24,6 +25,7 @@ OBS-Studio
    <et>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</et>
    <eu>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</eu>
    <fa>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</fa>
+   <fil_PH>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</fil_PH>
    <fi>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</fi>
    <fr>OBS-Studio - Diffusion vidéo et capture vidéo d'écran (support OpenGL 3 nécessaire)</fr>
    <he_IL>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</he_IL>
@@ -54,6 +56,7 @@ OBS-Studio
    <sv>OBS-Studio - Strömmande Video och Skärminspelare (OpenGL 3 hårdvara krävs)</sv>
    <tr>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</tr>
    <uk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</uk>
+   <vi>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</vi>
    <zh_CN>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</zh_CN>
    <zh_TW>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</zh_TW>
 </description>

@@ -13,6 +13,7 @@ grub customizer
    <am>customize grub boot menu</am>
    <ar>customize grub boot menu</ar>
    <bg>customize grub boot menu</bg>
+   <bn>customize grub boot menu</bn>
    <ca>personalitza el menú d'arrencada GRUB</ca>
    <cs>customize grub boot menu</cs>
    <da>tilpas grub-opstartsmenu</da>
@@ -23,6 +24,7 @@ grub customizer
    <et>customize grub boot menu</et>
    <eu>customize grub boot menu</eu>
    <fa>customize grub boot menu</fa>
+   <fil_PH>customize grub boot menu</fil_PH>
    <fi>customize grub boot menu</fi>
    <fr>personnalisation du menu de démarrage du grub</fr>
    <he_IL>customize grub boot menu</he_IL>
@@ -53,6 +55,7 @@ grub customizer
    <sv>anpassa grub boot meny</sv>
    <tr>customize grub boot menu</tr>
    <uk>customize grub boot menu</uk>
+   <vi>customize grub boot menu</vi>
    <zh_CN>customize grub boot menu</zh_CN>
    <zh_TW>customize grub boot menu</zh_TW>
 </description>

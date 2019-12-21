@@ -13,6 +13,7 @@ Albanian_Firefox
    <am>Albanian localisation of Firefox</am>
    <ar>Albanian localisation of Firefox</ar>
    <bg>Albanian localisation of Firefox</bg>
+   <bn>Albanian localisation of Firefox</bn>
    <ca>Localització de Firefox en Albanès</ca>
    <cs>Albanian localisation of Firefox</cs>
    <da>Albansk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Albanian_Firefox
    <et>Albanian localisation of Firefox</et>
    <eu>Albanian localisation of Firefox</eu>
    <fa>Albanian localisation of Firefox</fa>
+   <fil_PH>Albanian localisation of Firefox</fil_PH>
    <fi>Albanian localisation of Firefox</fi>
    <fr>Localisation albanaise pour Firefox</fr>
    <he_IL>Albanian localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Albanian_Firefox
    <sq>Albanian localisation of Firefox</sq>
    <sr>Albanian localisation of Firefox</sr>
    <sv>Albansk lokalisering av Firefox</sv>
-   <tr>Albanian localisation of Firefox</tr>
+   <tr>Firefox'un Arnavutça yerelleştirmesi</tr>
    <uk>Albanian локалізація Firefox</uk>
+   <vi>Albanian localisation of Firefox</vi>
    <zh_CN>Albanian localisation of Firefox</zh_CN>
    <zh_TW>Albanian localisation of Firefox</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Finch
    <am>a text-console-based, modular instant messaging client</am>
    <ar>a text-console-based, modular instant messaging client</ar>
    <bg>a text-console-based, modular instant messaging client</bg>
+   <bn>a text-console-based, modular instant messaging client</bn>
    <ca>un client de missatgeria instantània basat en terminal</ca>
    <cs>a text-console-based, modular instant messaging client</cs>
    <da>En tekstkonsol-baseret, modulær strakssamtale-klient</da>
@@ -23,6 +24,7 @@ Finch
    <et>a text-console-based, modular instant messaging client</et>
    <eu>a text-console-based, modular instant messaging client</eu>
    <fa>a text-console-based, modular instant messaging client</fa>
+   <fil_PH>a text-console-based, modular instant messaging client</fil_PH>
    <fi>a text-console-based, modular instant messaging client</fi>
    <fr>Un client console-texte modulaire de messagerie instantanée</fr>
    <he_IL>a text-console-based, modular instant messaging client</he_IL>
@@ -47,12 +49,13 @@ Finch
    <ro>a text-console-based, modular instant messaging client</ro>
    <ru>Консольный модульный клиент мгновенных сообщений</ru>
    <sk>a text-console-based, modular instant messaging client</sk>
-   <sl>na tekstovni konmzoli temelječ, modularni odjemalec za instantno sporočanje</sl>
+   <sl>Na tekstovni konzoli temelječ, modularni odjemalec za instantno sporočanje</sl>
    <sq>a text-console-based, modular instant messaging client</sq>
    <sr>a text-console-based, modular instant messaging client</sr>
    <sv>en textkonsol-baserad modulär snabbmeddelande-klient</sv>
    <tr>a text-console-based, modular instant messaging client</tr>
    <uk>консольний модульний клієнт миттєвих повідомлень</uk>
+   <vi>a text-console-based, modular instant messaging client</vi>
    <zh_CN>a text-console-based, modular instant messaging client</zh_CN>
    <zh_TW>a text-console-based, modular instant messaging client</zh_TW>
 </description>

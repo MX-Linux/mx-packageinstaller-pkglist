@@ -13,6 +13,7 @@ Messaging
    <am>voice chat between two pc's via encrypted mumble</am>
    <ar>voice chat between two pc's via encrypted mumble</ar>
    <bg>voice chat between two pc's via encrypted mumble</bg>
+   <bn>voice chat between two pc's via encrypted mumble</bn>
    <ca>Xat de veu entre dos PCs amb mumble encriptat</ca>
    <cs>voice chat between two pc's via encrypted mumble</cs>
    <da>stemmechat mellem to pc'er via krypteret mumble</da>
@@ -23,6 +24,7 @@ Messaging
    <et>voice chat between two pc's via encrypted mumble</et>
    <eu>voice chat between two pc's via encrypted mumble</eu>
    <fa>voice chat between two pc's via encrypted mumble</fa>
+   <fil_PH>voice chat between two pc's via encrypted mumble</fil_PH>
    <fi>voice chat between two pc's via encrypted mumble</fi>
    <fr>Échanges vocaux chiffrés entre deux PC via mumble</fr>
    <he_IL>voice chat between two pc's via encrypted mumble</he_IL>
@@ -47,12 +49,13 @@ Messaging
    <ro>voice chat between two pc's via encrypted mumble</ro>
    <ru>Голосовой чат между двумя PC через шифрованный канал</ru>
    <sk>voice chat between two pc's via encrypted mumble</sk>
-   <sl>Glasovni povogovr med dvema računalnikoma preko šifriranega Mumble</sl>
+   <sl>Glasovni pogovor med dvema računalnikoma preko šifriranega Mumble</sl>
    <sq>voice chat between two pc's via encrypted mumble</sq>
    <sr>voice chat between two pc's via encrypted mumble</sr>
    <sv>röstchatt mellan två pc's via encrypted mumble</sv>
    <tr>voice chat between two pc's via encrypted mumble</tr>
    <uk>зашифрований голосовий чат між двома ПК</uk>
+   <vi>voice chat between two pc's via encrypted mumble</vi>
    <zh_CN>voice chat between two pc's via encrypted mumble</zh_CN>
    <zh_TW>voice chat between two pc's via encrypted mumble</zh_TW>
 </description>

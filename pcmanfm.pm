@@ -13,6 +13,7 @@ PCManFM
    <am>a fast and lightweight file manager</am>
    <ar>a fast and lightweight file manager</ar>
    <bg>a fast and lightweight file manager</bg>
+   <bn>a fast and lightweight file manager</bn>
    <ca>Un gestor de fitxers ràpid i lleuger</ca>
    <cs>a fast and lightweight file manager</cs>
    <da>en hurtig og letvægts filhåndtering</da>
@@ -23,6 +24,7 @@ PCManFM
    <et>a fast and lightweight file manager</et>
    <eu>a fast and lightweight file manager</eu>
    <fa>a fast and lightweight file manager</fa>
+   <fil_PH>a fast and lightweight file manager</fil_PH>
    <fi>a fast and lightweight file manager</fi>
    <fr>Un gestionnaire de fichiers rapide et léger</fr>
    <he_IL>a fast and lightweight file manager</he_IL>
@@ -51,8 +53,9 @@ PCManFM
    <sq>a fast and lightweight file manager</sq>
    <sr>a fast and lightweight file manager</sr>
    <sv>en snabb lättvikts filhanterare</sv>
-   <tr>a fast and lightweight file manager</tr>
+   <tr>hızlı ve hafif bir dosya yöneticisi</tr>
    <uk>швидкий та легкий файловий менеджер</uk>
+   <vi>a fast and lightweight file manager</vi>
    <zh_CN>a fast and lightweight file manager</zh_CN>
    <zh_TW>a fast and lightweight file manager</zh_TW>
 </description>

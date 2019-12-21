@@ -13,6 +13,7 @@ Korean_Libreoffice
    <am>Korean localisation of LibreOffice</am>
    <ar>Korean localisation of LibreOffice</ar>
    <bg>Korean localisation of LibreOffice</bg>
+   <bn>Korean localisation of LibreOffice</bn>
    <ca>Localització en Coreà per a LibreOffice</ca>
    <cs>Korean localisation of LibreOffice</cs>
    <da>Koreansk oversættelse af LibreOffice</da>
@@ -23,6 +24,7 @@ Korean_Libreoffice
    <et>Korean localisation of LibreOffice</et>
    <eu>Korean localisation of LibreOffice</eu>
    <fa>Korean localisation of LibreOffice</fa>
+   <fil_PH>Korean localisation of LibreOffice</fil_PH>
    <fi>Korean localisation of LibreOffice</fi>
    <fr>Localisation coréenne pour LibreOffice</fr>
    <he_IL>Korean localisation of LibreOffice</he_IL>
@@ -51,8 +53,9 @@ Korean_Libreoffice
    <sq>Korean localisation of LibreOffice</sq>
    <sr>Korean localisation of LibreOffice</sr>
    <sv>Koreansk lokalisering av LibreOffice</sv>
-   <tr>Korean localisation of LibreOffice</tr>
+   <tr>LibreOffice Korece yerelleştirmesi</tr>
    <uk>Korean локалізація LibreOffice</uk>
+   <vi>Korean localisation of LibreOffice</vi>
    <zh_CN>Korean localisation of LibreOffice</zh_CN>
    <zh_TW>Korean localisation of LibreOffice</zh_TW>
 </description>

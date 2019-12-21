@@ -13,6 +13,7 @@ Icelandic_Firefox
    <am>Icelandic localisation of Firefox</am>
    <ar>Icelandic localisation of Firefox</ar>
    <bg>Icelandic localisation of Firefox</bg>
+   <bn>Icelandic localisation of Firefox</bn>
    <ca>Localització de Firefox en Islandès</ca>
    <cs>Icelandic localisation of Firefox</cs>
    <da>Islandsk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Icelandic_Firefox
    <et>Icelandic localisation of Firefox</et>
    <eu>Icelandic localisation of Firefox</eu>
    <fa>Icelandic localisation of Firefox</fa>
+   <fil_PH>Icelandic localisation of Firefox</fil_PH>
    <fi>Icelandic localisation of Firefox</fi>
    <fr>Localisation islandaise pour Firefox</fr>
    <he_IL>Icelandic localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Icelandic_Firefox
    <sq>Icelandic localisation of Firefox</sq>
    <sr>Icelandic localisation of Firefox</sr>
    <sv>Isländsk lokalisering av Firefox </sv>
-   <tr>Icelandic localisation of Firefox</tr>
+   <tr>Firefox'un İzlandaca yerelleştirmesi</tr>
    <uk>Icelandic локалізація Firefox</uk>
+   <vi>Icelandic localisation of Firefox</vi>
    <zh_CN>Icelandic localisation of Firefox</zh_CN>
    <zh_TW>Icelandic localisation of Firefox</zh_TW>
 </description>

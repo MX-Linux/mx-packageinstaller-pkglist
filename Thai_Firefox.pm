@@ -13,6 +13,7 @@ Thai_Firefox
    <am>Thai localisation of Firefox</am>
    <ar>Thai localisation of Firefox</ar>
    <bg>Thai localisation of Firefox</bg>
+   <bn>Thai localisation of Firefox</bn>
    <ca>Localització de Firefox en Tailandès</ca>
    <cs>Thai localisation of Firefox</cs>
    <da>Thai oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Thai_Firefox
    <et>Thai localisation of Firefox</et>
    <eu>Thai localisation of Firefox</eu>
    <fa>Thai localisation of Firefox</fa>
+   <fil_PH>Thai localisation of Firefox</fil_PH>
    <fi>Thai localisation of Firefox</fi>
    <fr>Localisation thai pour Firefox</fr>
    <he_IL>Thai localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Thai_Firefox
    <sq>Thai localisation of Firefox</sq>
    <sr>Thai localisation of Firefox</sr>
    <sv>Thailändsk lokalisering av Firefox</sv>
-   <tr>Thai localisation of Firefox</tr>
+   <tr>Firefox'un Tayca yerelleştirmesi</tr>
    <uk>Thai localisation of Firefox</uk>
+   <vi>Thai localisation of Firefox</vi>
    <zh_CN>Thai localisation of Firefox</zh_CN>
    <zh_TW>Thai localisation of Firefox</zh_TW>
 </description>

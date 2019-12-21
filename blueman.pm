@@ -13,6 +13,7 @@ Blueman
    <am>a GTK+ bluetooth management utility</am>
    <ar>a GTK+ bluetooth management utility</ar>
    <bg>a GTK+ bluetooth management utility</bg>
+   <bn>a GTK+ bluetooth management utility</bn>
    <ca>Eina de gestió Bluetooth GTK+</ca>
    <cs>a GTK+ bluetooth management utility</cs>
    <da>et GTK+ bluetooth-håndteringsredskab</da>
@@ -23,6 +24,7 @@ Blueman
    <et>a GTK+ bluetooth management utility</et>
    <eu>a GTK+ bluetooth management utility</eu>
    <fa>a GTK+ bluetooth management utility</fa>
+   <fil_PH>a GTK+ bluetooth management utility</fil_PH>
    <fi>a GTK+ bluetooth management utility</fi>
    <fr>Un utilitaire GTK+ de gestion bluetooth</fr>
    <he_IL>a GTK+ bluetooth management utility</he_IL>
@@ -53,6 +55,7 @@ Blueman
    <sv>ett GTK+ bluetooth hanteringsverktyg</sv>
    <tr>a GTK+ bluetooth management utility</tr>
    <uk>GTK+ утиліта для bluetooth</uk>
+   <vi>một ứng dụng quản lí bluetooth GTK+</vi>
    <zh_CN>a GTK+ bluetooth management utility</zh_CN>
    <zh_TW>a GTK+ bluetooth management utility</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Dutch
    <am>Dutch Language Meta-Package</am>
    <ar>Dutch Language Meta-Package</ar>
    <bg>Dutch Language Meta-Package</bg>
+   <bn>Dutch Language Meta-Package</bn>
    <ca>Meta-paquet per llengua Holandesa</ca>
    <cs>Dutch Language Meta-Package</cs>
    <da>Hollandsk sprog-metapakke</da>
@@ -23,6 +24,7 @@ Dutch
    <et>Dutch Language Meta-Package</et>
    <eu>Dutch Language Meta-Package</eu>
    <fa>Dutch Language Meta-Package</fa>
+   <fil_PH>Dutch Language Meta-Package</fil_PH>
    <fi>Dutch Language Meta-Package</fi>
    <fr>Méta-Paquet langue néerlandaise</fr>
    <he_IL>Dutch Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Dutch
    <sv>Holländska språket Meta-Paket</sv>
    <tr>Dutch Language Meta-Package</tr>
    <uk>Dutch Language Meta-Package</uk>
+   <vi>Dutch Language Meta-Package</vi>
    <zh_CN>Dutch Language Meta-Package</zh_CN>
    <zh_TW>Dutch Language Meta-Package</zh_TW>
 </description>

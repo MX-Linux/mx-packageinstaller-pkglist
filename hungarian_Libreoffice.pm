@@ -13,6 +13,7 @@ Hungarian_Libreoffice
    <am>Hungarian LibreOffice Language Meta-Package</am>
    <ar>Hungarian LibreOffice Language Meta-Package</ar>
    <bg>Hungarian LibreOffice Language Meta-Package</bg>
+   <bn>Hungarian LibreOffice Language Meta-Package</bn>
    <ca>Meta-paquet per LibreOffice en Hongarès</ca>
    <cs>Hungarian LibreOffice Language Meta-Package</cs>
    <da>Ungarsk LibreOffice sprog-metapakke</da>
@@ -23,6 +24,7 @@ Hungarian_Libreoffice
    <et>Hungarian LibreOffice Language Meta-Package</et>
    <eu>Hungarian LibreOffice Language Meta-Package</eu>
    <fa>Hungarian LibreOffice Language Meta-Package</fa>
+   <fil_PH>Hungarian LibreOffice Language Meta-Package</fil_PH>
    <fi>Hungarian LibreOffice Language Meta-Package</fi>
    <fr>Méta-paquet langue hongroise pour LibreOffice</fr>
    <he_IL>Hungarian LibreOffice Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Hungarian_Libreoffice
    <sv>Ungerskt LibreOffice Språk Meta-Paket </sv>
    <tr>Hungarian LibreOffice Language Meta-Package</tr>
    <uk>Hungarian LibreOffice Language Meta-Package</uk>
+   <vi>Hungarian LibreOffice Language Meta-Package</vi>
    <zh_CN>Hungarian LibreOffice Language Meta-Package</zh_CN>
    <zh_TW>Hungarian LibreOffice Language Meta-Package</zh_TW>
 </description>

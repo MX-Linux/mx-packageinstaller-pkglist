@@ -13,6 +13,7 @@ MX 15 Wallpapers
    <am>backgrounds originally supplied with MX 15</am>
    <ar>backgrounds originally supplied with MX 15</ar>
    <bg>backgrounds originally supplied with MX 15</bg>
+   <bn>backgrounds originally supplied with MX 15</bn>
    <ca>fons de pantalla subministrats amb MX 15</ca>
    <cs>backgrounds originally supplied with MX 15</cs>
    <da>baggrunde fra MX 15</da>
@@ -23,6 +24,7 @@ MX 15 Wallpapers
    <et>backgrounds originally supplied with MX 15</et>
    <eu>backgrounds originally supplied with MX 15</eu>
    <fa>backgrounds originally supplied with MX 15</fa>
+   <fil_PH>backgrounds originally supplied with MX 15</fil_PH>
    <fi>backgrounds originally supplied with MX 15</fi>
    <fr>Fonds d'écran MX 15</fr>
    <he_IL>backgrounds originally supplied with MX 15</he_IL>
@@ -53,6 +55,7 @@ MX 15 Wallpapers
    <sv>wallpapers ursprungligen medföljande MX 15</sv>
    <tr>backgrounds originally supplied with MX 15</tr>
    <uk>оригінальні шпалери для MX 15</uk>
+   <vi>backgrounds originally supplied with MX 15</vi>
    <zh_CN>backgrounds originally supplied with MX 15</zh_CN>
    <zh_TW>backgrounds originally supplied with MX 15</zh_TW>
 </description>

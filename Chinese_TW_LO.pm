@@ -13,6 +13,7 @@ Chinese_TW_LO
    <am>Chinese_traditional localisation of LibreOffice</am>
    <ar>Chinese_traditional localisation of LibreOffice</ar>
    <bg>Chinese_traditional localisation of LibreOffice</bg>
+   <bn>Chinese_traditional localisation of LibreOffice</bn>
    <ca>Localització de LibreOffice en Xinès tradicional</ca>
    <cs>Chinese_traditional localisation of LibreOffice</cs>
    <da>Kinesisk (traditionel) oversættelse af LibreOffice</da>
@@ -23,6 +24,7 @@ Chinese_TW_LO
    <et>Chinese_traditional localisation of LibreOffice</et>
    <eu>Chinese_traditional localisation of LibreOffice</eu>
    <fa>Chinese_traditional localisation of LibreOffice</fa>
+   <fil_PH>Chinese_traditional localisation of LibreOffice</fil_PH>
    <fi>Chinese_traditional localisation of LibreOffice</fi>
    <fr>Localisation chinois-traditionnel pour LibreOffice</fr>
    <he_IL>Chinese_traditional localisation of LibreOffice</he_IL>
@@ -51,8 +53,9 @@ Chinese_TW_LO
    <sq>Chinese_traditional localisation of LibreOffice</sq>
    <sr>Chinese_traditional localisation of LibreOffice</sr>
    <sv>Kinesisk_traditionell lokalisering av LibreOffice</sv>
-   <tr>Chinese_traditional localisation of LibreOffice</tr>
+   <tr>LibreOffice Geleneksel_Çince yerelleştirmesi</tr>
    <uk>Chinese_traditional локалізація LibreOffice</uk>
+   <vi>Chinese_traditional localisation of LibreOffice</vi>
    <zh_CN>Chinese_traditional localisation of LibreOffice</zh_CN>
    <zh_TW>Chinese_traditional localisation of LibreOffice</zh_TW>
 </description>

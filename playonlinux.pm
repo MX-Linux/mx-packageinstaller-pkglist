@@ -13,6 +13,7 @@ Play on Linux
    <am>Play on Linux</am>
    <ar>Play on Linux</ar>
    <bg>Play on Linux</bg>
+   <bn>Play on Linux</bn>
    <ca>Play on Linux</ca>
    <cs>Play on Linux</cs>
    <da>Play on Linux</da>
@@ -23,6 +24,7 @@ Play on Linux
    <et>Play on Linux</et>
    <eu>Play on Linux</eu>
    <fa>Play on Linux</fa>
+   <fil_PH>Play on Linux</fil_PH>
    <fi>Play on Linux</fi>
    <fr>Play on Linux</fr>
    <he_IL>Play on Linux</he_IL>
@@ -53,6 +55,7 @@ Play on Linux
    <sv>Play on Linux</sv>
    <tr>Play on Linux</tr>
    <uk>Play on Linux</uk>
+   <vi>Play on Linux</vi>
    <zh_CN>Play on Linux</zh_CN>
    <zh_TW>Play on Linux</zh_TW>
 </description>

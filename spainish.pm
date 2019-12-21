@@ -13,6 +13,7 @@ Spanish
    <am>Spanish Language Meta-Package</am>
    <ar>Spanish Language Meta-Package</ar>
    <bg>Spanish Language Meta-Package</bg>
+   <bn>Spanish Language Meta-Package</bn>
    <ca>Meta-paquet de llengua en castellà</ca>
    <cs>Spanish Language Meta-Package</cs>
    <da>Spansk sprog-metapakke</da>
@@ -23,6 +24,7 @@ Spanish
    <et>Spanish Language Meta-Package</et>
    <eu>Spanish Language Meta-Package</eu>
    <fa>Spanish Language Meta-Package</fa>
+   <fil_PH>Spanish Language Meta-Package</fil_PH>
    <fi>Spanish Language Meta-Package</fi>
    <fr>Méta-paquet pour langue espagnole</fr>
    <he_IL>Spanish Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Spanish
    <sv>Spanskt Språk-Meta-Paket</sv>
    <tr>Spanish Language Meta-Package</tr>
    <uk>Spanish Language Meta-Package</uk>
+   <vi>Spanish Language Meta-Package</vi>
    <zh_CN>Spanish Language Meta-Package</zh_CN>
    <zh_TW>Spanish Language Meta-Package</zh_TW>
 </description>

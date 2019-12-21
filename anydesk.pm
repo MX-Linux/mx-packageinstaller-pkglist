@@ -13,6 +13,7 @@ AnyDesk
    <am>AnyDesk remote access</am>
    <ar>AnyDesk remote access</ar>
    <bg>AnyDesk remote access</bg>
+   <bn>AnyDesk remote access</bn>
    <ca>Accés remot AnyDesk</ca>
    <cs>AnyDesk remote access</cs>
    <da>AnyDesk remote access</da>
@@ -23,6 +24,7 @@ AnyDesk
    <et>AnyDesk remote access</et>
    <eu>AnyDesk remote access</eu>
    <fa>AnyDesk remote access</fa>
+   <fil_PH>AnyDesk remote access</fil_PH>
    <fi>AnyDesk remote access</fi>
    <fr>AnyDesk accès à distance</fr>
    <he_IL>AnyDesk remote access</he_IL>
@@ -51,8 +53,9 @@ AnyDesk
    <sq>AnyDesk remote access</sq>
    <sr>AnyDesk remote access</sr>
    <sv>AnyDesk fjärråtkomst</sv>
-   <tr>AnyDesk remote access</tr>
+   <tr>AnyDesk uzaktan erişim</tr>
    <uk>AnyDesk remote access</uk>
+   <vi>AnyDesk remote access</vi>
    <zh_CN>AnyDesk remote access</zh_CN>
    <zh_TW>AnyDesk remote access</zh_TW>
 </description>

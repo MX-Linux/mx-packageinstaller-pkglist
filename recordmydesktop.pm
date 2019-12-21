@@ -14,6 +14,7 @@ recordmydesktop
    <am>a desktop session recorder</am>
    <ar>a desktop session recorder</ar>
    <bg>a desktop session recorder</bg>
+   <bn>a desktop session recorder</bn>
    <ca>Enregistrador de sessions d'escriptori</ca>
    <cs>a desktop session recorder</cs>
    <da>en skrivebordssessionsoptager</da>
@@ -24,6 +25,7 @@ recordmydesktop
    <et>a desktop session recorder</et>
    <eu>a desktop session recorder</eu>
    <fa>a desktop session recorder</fa>
+   <fil_PH>a desktop session recorder</fil_PH>
    <fi>a desktop session recorder</fi>
    <fr>Un enregistreur de session de bureau</fr>
    <he_IL>a desktop session recorder</he_IL>
@@ -54,6 +56,7 @@ recordmydesktop
    <sv>en skrivbordssessions-inspelare</sv>
    <tr>a desktop session recorder</tr>
    <uk>a desktop session recorder</uk>
+   <vi>a desktop session recorder</vi>
    <zh_CN>a desktop session recorder</zh_CN>
    <zh_TW>a desktop session recorder</zh_TW>
 </description>

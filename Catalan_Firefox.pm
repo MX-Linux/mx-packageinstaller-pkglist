@@ -13,6 +13,7 @@ Catalan_Firefox
    <am>Catalan localisation of Firefox</am>
    <ar>Catalan localisation of Firefox</ar>
    <bg>Catalan localisation of Firefox</bg>
+   <bn>Catalan localisation of Firefox</bn>
    <ca>Localització de Firefox en Català</ca>
    <cs>Catalan localisation of Firefox</cs>
    <da>Catalansk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Catalan_Firefox
    <et>Catalan localisation of Firefox</et>
    <eu>Catalan localisation of Firefox</eu>
    <fa>Catalan localisation of Firefox</fa>
+   <fil_PH>Catalan localisation of Firefox</fil_PH>
    <fi>Catalan localisation of Firefox</fi>
    <fr>Localisation catalane pour Firefox</fr>
    <he_IL>Catalan localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Catalan_Firefox
    <sq>Catalan localisation of Firefox</sq>
    <sr>Catalan localisation of Firefox</sr>
    <sv>Katalansk lokalisering av Firefox</sv>
-   <tr>Catalan localisation of Firefox</tr>
+   <tr>Firefox'un Katalanca yerelleştirmesi</tr>
    <uk>Catalan локалізація Firefox</uk>
+   <vi>Catalan localisation of Firefox</vi>
    <zh_CN>Catalan localisation of Firefox</zh_CN>
    <zh_TW>Catalan localisation of Firefox</zh_TW>
 </description>

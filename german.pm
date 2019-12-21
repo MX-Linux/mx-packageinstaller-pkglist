@@ -13,6 +13,7 @@ German
    <am>German Language Meta-Package</am>
    <ar>German Language Meta-Package</ar>
    <bg>German Language Meta-Package</bg>
+   <bn>German Language Meta-Package</bn>
    <ca>Meta-paquet de llengua alemanya</ca>
    <cs>German Language Meta-Package</cs>
    <da>Tysk sprog-metapakke</da>
@@ -23,6 +24,7 @@ German
    <et>German Language Meta-Package</et>
    <eu>German Language Meta-Package</eu>
    <fa>German Language Meta-Package</fa>
+   <fil_PH>German Language Meta-Package</fil_PH>
    <fi>German Language Meta-Package</fi>
    <fr>Méta-paquet pour langue allemande</fr>
    <he_IL>German Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ German
    <sv>Tyskt Språk Meta-Paket</sv>
    <tr>German Language Meta-Package</tr>
    <uk>German Language Meta-Package</uk>
+   <vi>German Language Meta-Package</vi>
    <zh_CN>German Language Meta-Package</zh_CN>
    <zh_TW>German Language Meta-Package</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Pidgin
    <am>an easy to use and free chat client</am>
    <ar>an easy to use and free chat client</ar>
    <bg>an easy to use and free chat client</bg>
+   <bn>an easy to use and free chat client</bn>
    <ca>client de xat lliure i fàcil d'usar</ca>
    <cs>an easy to use and free chat client</cs>
    <da>en letanvendelig og fri chat-klient</da>
@@ -23,6 +24,7 @@ Pidgin
    <et>an easy to use and free chat client</et>
    <eu>an easy to use and free chat client</eu>
    <fa>an easy to use and free chat client</fa>
+   <fil_PH>an easy to use and free chat client</fil_PH>
    <fi>an easy to use and free chat client</fi>
    <fr>Un client de discussion libre et facile d'utilisation</fr>
    <he_IL>an easy to use and free chat client</he_IL>
@@ -53,6 +55,7 @@ Pidgin
    <sv>en lättanvänd och fri chattklient</sv>
    <tr>an easy to use and free chat client</tr>
    <uk>легкий у користуванні та вільний чат клієнт</uk>
+   <vi>an easy to use and free chat client</vi>
    <zh_CN>an easy to use and free chat client</zh_CN>
    <zh_TW>an easy to use and free chat client</zh_TW>
 </description>

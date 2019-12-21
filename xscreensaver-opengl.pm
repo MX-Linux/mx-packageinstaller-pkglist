@@ -13,6 +13,7 @@ openGL screensavers
    <am>extra opengl screensavers</am>
    <ar>extra opengl screensavers</ar>
    <bg>extra opengl screensavers</bg>
+   <bn>extra opengl screensavers</bn>
    <ca>estalvis de pantalla opengl addicionals</ca>
    <cs>extra opengl screensavers</cs>
    <da>ekstra opengl-pauseskærme</da>
@@ -23,6 +24,7 @@ openGL screensavers
    <et>extra opengl screensavers</et>
    <eu>extra opengl screensavers</eu>
    <fa>extra opengl screensavers</fa>
+   <fil_PH>extra opengl screensavers</fil_PH>
    <fi>extra opengl screensavers</fi>
    <fr>écrans de veille opengl supplémentaires</fr>
    <he_IL>extra opengl screensavers</he_IL>
@@ -45,7 +47,7 @@ openGL screensavers
    <pt_BR>Proteções de tela opengl adicionais</pt_BR>
    <pt>protetores de ecrã opengl extra</pt>
    <ro>extra opengl screensavers</ro>
-   <ru>extra opengl screensavers</ru>
+   <ru>дополнительные opengl скринсэйверы</ru>
    <sk>extra opengl screensavers</sk>
    <sl>Dodatni opengl ohranjevalniki zaslona</sl>
    <sq>extra opengl screensavers</sq>
@@ -53,6 +55,7 @@ openGL screensavers
    <sv>extra opengl skärmsläckare</sv>
    <tr>extra opengl screensavers</tr>
    <uk>extra opengl screensavers</uk>
+   <vi>extra opengl screensavers</vi>
    <zh_CN>extra opengl screensavers</zh_CN>
    <zh_TW>extra opengl screensavers</zh_TW>
 </description>

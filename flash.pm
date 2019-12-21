@@ -13,6 +13,7 @@ adobe flash
    <am>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</am>
    <ar>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</ar>
    <bg>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</bg>
+   <bn>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</bn>
    <ca>Adobe Flash oficial, incloent-hi extensions per Chromium (pepperflash) i Firefox</ca>
    <cs>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</cs>
    <da>Officiel Adobe Flash, inklusiv plugins til chromium (pepperflash) og firefox</da>
@@ -23,6 +24,7 @@ adobe flash
    <et>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</et>
    <eu>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</eu>
    <fa>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</fa>
+   <fil_PH>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</fil_PH>
    <fi>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</fi>
    <fr>Adobe Flash officiel, incluant plugins pour Chromium (pepperflash) et Firefox</fr>
    <he_IL>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</he_IL>
@@ -53,6 +55,7 @@ adobe flash
    <sv>Officiell Adobe Flash, inkluderande plugins för chromium (pepperflash) och firefox</sv>
    <tr>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</tr>
    <uk>Офіційний Adobe Flash, включно з плагінами для chromium (pepperflash) та firefox</uk>
+   <vi>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</vi>
    <zh_CN>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</zh_CN>
    <zh_TW>Official Adobe Flash, including plugins for chromium (pepperflash) and firefox</zh_TW>
 </description>

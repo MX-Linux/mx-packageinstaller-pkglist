@@ -13,6 +13,7 @@ MX 17 Wallpapers
    <am>backgrounds originally supplied with MX 17</am>
    <ar>backgrounds originally supplied with MX 17</ar>
    <bg>backgrounds originally supplied with MX 17</bg>
+   <bn>backgrounds originally supplied with MX 17</bn>
    <ca>Fons de pantalla subministrats amb MX 17</ca>
    <cs>backgrounds originally supplied with MX 17</cs>
    <da>baggrunde fra MX 17</da>
@@ -23,6 +24,7 @@ MX 17 Wallpapers
    <et>backgrounds originally supplied with MX 17</et>
    <eu>backgrounds originally supplied with MX 17</eu>
    <fa>backgrounds originally supplied with MX 17</fa>
+   <fil_PH>backgrounds originally supplied with MX 17</fil_PH>
    <fi>backgrounds originally supplied with MX 17</fi>
    <fr>Fonds d'écran initialement fournis avec MX 17</fr>
    <he_IL>backgrounds originally supplied with MX 17</he_IL>
@@ -53,6 +55,7 @@ MX 17 Wallpapers
    <sv>wallpapers ursprungligen medföljande MX 17</sv>
    <tr>backgrounds originally supplied with MX 17</tr>
    <uk>backgrounds originally supplied with MX 17</uk>
+   <vi>backgrounds originally supplied with MX 17</vi>
    <zh_CN>backgrounds originally supplied with MX 17</zh_CN>
    <zh_TW>backgrounds originally supplied with MX 17</zh_TW>
 </description>

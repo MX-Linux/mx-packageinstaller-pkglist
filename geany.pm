@@ -13,6 +13,7 @@ Geany
    <am>fast and lightweight IDE and text editor</am>
    <ar>fast and lightweight IDE and text editor</ar>
    <bg>fast and lightweight IDE and text editor</bg>
+   <bn>fast and lightweight IDE and text editor</bn>
    <ca>IDE i editor de text ràpid i lleuger</ca>
    <cs>fast and lightweight IDE and text editor</cs>
    <da>hurtig og letvægts IDE og tekstredigering</da>
@@ -23,6 +24,7 @@ Geany
    <et>fast and lightweight IDE and text editor</et>
    <eu>fast and lightweight IDE and text editor</eu>
    <fa>fast and lightweight IDE and text editor</fa>
+   <fil_PH>fast and lightweight IDE and text editor</fil_PH>
    <fi>fast and lightweight IDE and text editor</fi>
    <fr>Éditeur de texte IDE rapide et léger</fr>
    <he_IL>fast and lightweight IDE and text editor</he_IL>
@@ -53,6 +55,7 @@ Geany
    <sv>snabb lättvikts IDE och textredigerare</sv>
    <tr>fast and lightweight IDE and text editor</tr>
    <uk>швидкий і легкий текстовий редактор та IDE</uk>
+   <vi>fast and lightweight IDE and text editor</vi>
    <zh_CN>fast and lightweight IDE and text editor</zh_CN>
    <zh_TW>fast and lightweight IDE and text editor</zh_TW>
 </description>

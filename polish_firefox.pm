@@ -13,6 +13,7 @@ Polish_Firefox
    <am>Polish localisation of Firefox</am>
    <ar>Polish localisation of Firefox</ar>
    <bg>Polish localisation of Firefox</bg>
+   <bn>Polish localisation of Firefox</bn>
    <ca>Localització de Firefox en Polonès</ca>
    <cs>Polish localisation of Firefox</cs>
    <da>Polsk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Polish_Firefox
    <et>Polish localisation of Firefox</et>
    <eu>Polish localisation of Firefox</eu>
    <fa>Polish localisation of Firefox</fa>
+   <fil_PH>Polish localisation of Firefox</fil_PH>
    <fi>Polish localisation of Firefox</fi>
    <fr>Localisation polonaise pour Firefox</fr>
    <he_IL>Polish localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Polish_Firefox
    <sq>Polish localisation of Firefox</sq>
    <sr>Polish localisation of Firefox</sr>
    <sv>Polsk lokalisering av Firefox</sv>
-   <tr>Polish localisation of Firefox</tr>
+   <tr>Firefox'un Lehçe yerelleştirmesi</tr>
    <uk>Polish локалізація Firefox</uk>
+   <vi>Polish localisation of Firefox</vi>
    <zh_CN>Polish localisation of Firefox</zh_CN>
    <zh_TW>Polish localisation of Firefox</zh_TW>
 </description>

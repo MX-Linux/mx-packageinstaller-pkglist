@@ -13,6 +13,7 @@ Opera
    <am>Opera browser (32 bit is beta-only)</am>
    <ar>Opera browser (32 bit is beta-only)</ar>
    <bg>Opera browser (32 bit is beta-only)</bg>
+   <bn>Opera browser (32 bit is beta-only)</bn>
    <ca>Navegador Opera (32 bit només beta)</ca>
    <cs>Opera browser (32 bit is beta-only)</cs>
    <da>Opera-browser (32 bit er kun beta)</da>
@@ -23,6 +24,7 @@ Opera
    <et>Opera browser (32 bit is beta-only)</et>
    <eu>Opera browser (32 bit is beta-only)</eu>
    <fa>Opera browser (32 bit is beta-only)</fa>
+   <fil_PH>Opera browser (32 bit is beta-only)</fil_PH>
    <fi>Opera browser (32 bit is beta-only)</fi>
    <fr>Navigateur Opera (32 bit en beta uniquement)</fr>
    <he_IL>Opera browser (32 bit is beta-only)</he_IL>
@@ -51,8 +53,9 @@ Opera
    <sq>Opera browser (32 bit is beta-only)</sq>
    <sr>Opera browser (32 bit is beta-only)</sr>
    <sv>Opera webbläsare (32 bit är enbart i beta)</sv>
-   <tr>Opera browser (32 bit is beta-only)</tr>
+   <tr>Opera tarayıcı (32 bit yalnızca betadır)</tr>
    <uk>Браузер Opera (32 біт лише у бета-версії)</uk>
+   <vi>Opera browser (32 bit is beta-only)</vi>
    <zh_CN>Opera browser (32 bit is beta-only)</zh_CN>
    <zh_TW>Opera browser (32 bit is beta-only)</zh_TW>
 </description>

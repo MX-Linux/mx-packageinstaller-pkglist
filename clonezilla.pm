@@ -13,6 +13,7 @@ clonezilla
    <am>clone and restore disks and partitions</am>
    <ar>clone and restore disks and partitions</ar>
    <bg>clone and restore disks and partitions</bg>
+   <bn>clone and restore disks and partitions</bn>
    <ca>Clona i restaura discos i particions</ca>
    <cs>clone and restore disks and partitions</cs>
    <da>klon og gendan diske og partitioner</da>
@@ -23,6 +24,7 @@ clonezilla
    <et>clone and restore disks and partitions</et>
    <eu>clone and restore disks and partitions</eu>
    <fa>clone and restore disks and partitions</fa>
+   <fil_PH>clone and restore disks and partitions</fil_PH>
    <fi>kloonaa ja palauta levyjä ja osioita</fi>
    <fr>Copie et restauration de disques et de partitions</fr>
    <he_IL>clone and restore disks and partitions</he_IL>
@@ -53,6 +55,7 @@ clonezilla
    <sv>klona och återställ diskar och partitioner</sv>
    <tr>clone and restore disks and partitions</tr>
    <uk>клонування та відновлення дисків і розділів</uk>
+   <vi>clone and restore disks and partitions</vi>
    <zh_CN>clone and restore disks and partitions</zh_CN>
    <zh_TW>clone and restore disks and partitions</zh_TW>
 </description>

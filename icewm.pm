@@ -13,6 +13,7 @@ IceWM
    <am>lightweight environment</am>
    <ar>lightweight environment</ar>
    <bg>lightweight environment</bg>
+   <bn>lightweight environment</bn>
    <ca>entorn lleuger</ca>
    <cs>lightweight environment</cs>
    <da>letvægts miljø</da>
@@ -23,6 +24,7 @@ IceWM
    <et>lightweight environment</et>
    <eu>lightweight environment</eu>
    <fa>lightweight environment</fa>
+   <fil_PH>lightweight environment</fil_PH>
    <fi>lightweight environment</fi>
    <fr>Environnement léger</fr>
    <he_IL>lightweight environment</he_IL>
@@ -51,8 +53,9 @@ IceWM
    <sq>lightweight environment</sq>
    <sr>lightweight environment</sr>
    <sv>lättviktsmiljö</sv>
-   <tr>lightweight environment</tr>
+   <tr>hafif masaüstü ortamı</tr>
    <uk>легке віконне середовище</uk>
+   <vi>lightweight environment</vi>
    <zh_CN>lightweight environment</zh_CN>
    <zh_TW>lightweight environment</zh_TW>
 </description>

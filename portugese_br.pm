@@ -13,6 +13,7 @@ Portugese(BR)
    <am>Portugese(BR) Language Meta-Package</am>
    <ar>Portugese(BR) Language Meta-Package</ar>
    <bg>Portugese(BR) Language Meta-Package</bg>
+   <bn>Portugese(BR) Language Meta-Package</bn>
    <ca>Meta-paquet de llengua en Portuguès (BR)</ca>
    <cs>Portugese(BR) Language Meta-Package</cs>
    <da>Portugisisk (brasilien) sprog-metapakke</da>
@@ -23,6 +24,7 @@ Portugese(BR)
    <et>Portugese(BR) Language Meta-Package</et>
    <eu>Portugese(BR) Language Meta-Package</eu>
    <fa>Portugese(BR) Language Meta-Package</fa>
+   <fil_PH>Portugese(BR) Language Meta-Package</fil_PH>
    <fi>Portugese(BR) Language Meta-Package</fi>
    <fr>Méta-paquet pour langue portugaise (BR)</fr>
    <he_IL>Portugese(BR) Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Portugese(BR)
    <sv>Portugisiskt(BR) Språk Meta-Paket</sv>
    <tr>Portugese(BR) Language Meta-Package</tr>
    <uk>Portugese(BR) Language Meta-Package</uk>
+   <vi>Portugese(BR) Language Meta-Package</vi>
    <zh_CN>Portugese(BR) Language Meta-Package</zh_CN>
    <zh_TW>Portugese(BR) Language Meta-Package</zh_TW>
 </description>

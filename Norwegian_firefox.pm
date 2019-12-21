@@ -13,6 +13,7 @@ Norwegian_Firefox
    <am>Norwegian localisation of Firefox</am>
    <ar>Norwegian localisation of Firefox</ar>
    <bg>Norwegian localisation of Firefox</bg>
+   <bn>Norwegian localisation of Firefox</bn>
    <ca>Localització de Firefox en Noruec</ca>
    <cs>Norwegian localisation of Firefox</cs>
    <da>Norsk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Norwegian_Firefox
    <et>Norwegian localisation of Firefox</et>
    <eu>Norwegian localisation of Firefox</eu>
    <fa>Norwegian localisation of Firefox</fa>
+   <fil_PH>Norwegian localisation of Firefox</fil_PH>
    <fi>Norwegian localisation of Firefox</fi>
    <fr>Localisation norvégienne pour Firefox</fr>
    <he_IL>Norwegian localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Norwegian_Firefox
    <sq>Norwegian localisation of Firefox</sq>
    <sr>Norwegian localisation of Firefox</sr>
    <sv>Norsk lokalisering av Firefox </sv>
-   <tr>Norwegian localisation of Firefox</tr>
+   <tr>Firefox'un Norveççe yerelleştirmesi</tr>
    <uk>Norwegian локалізація Firefox</uk>
+   <vi>Norwegian localisation of Firefox</vi>
    <zh_CN>Norwegian localisation of Firefox</zh_CN>
    <zh_TW>Norwegian localisation of Firefox</zh_TW>
 </description>

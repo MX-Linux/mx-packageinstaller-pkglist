@@ -14,6 +14,7 @@ VirtualBox
    <am>Virtualbox</am>
    <ar>Virtualbox</ar>
    <bg>Virtualbox</bg>
+   <bn>Virtualbox</bn>
    <ca>Virtualbox</ca>
    <cs>Virtualbox</cs>
    <da>Virtualbox</da>
@@ -24,6 +25,7 @@ VirtualBox
    <et>Virtualbox</et>
    <eu>Virtualbox</eu>
    <fa>Virtualbox</fa>
+   <fil_PH>Virtualbox</fil_PH>
    <fi>Virtualbox</fi>
    <fr>Virtualbox</fr>
    <he_IL>Virtualbox</he_IL>
@@ -54,6 +56,7 @@ VirtualBox
    <sv>Virtualbox</sv>
    <tr>Virtualbox</tr>
    <uk>Virtualbox</uk>
+   <vi>Virtualbox</vi>
    <zh_CN>Virtualbox</zh_CN>
    <zh_TW>Virtualbox</zh_TW>
 </description>

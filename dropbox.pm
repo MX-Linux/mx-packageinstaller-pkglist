@@ -13,6 +13,7 @@ Dropbox
    <am>Dropbox file sync utility</am>
    <ar>Dropbox file sync utility</ar>
    <bg>Dropbox file sync utility</bg>
+   <bn>Dropbox file sync utility</bn>
    <ca>Utilitat de sincronització de fitxers amb Dropbox</ca>
    <cs>Dropbox file sync utility</cs>
    <da>Dropbox-filsynkroniseringsredskab</da>
@@ -23,6 +24,7 @@ Dropbox
    <et>Dropbox file sync utility</et>
    <eu>Dropbox file sync utility</eu>
    <fa>Dropbox file sync utility</fa>
+   <fil_PH>Dropbox file sync utility</fil_PH>
    <fi>Dropbox file sync utility</fi>
    <fr>Utilitaire de synchronisation de fichier Dropbox</fr>
    <he_IL>Dropbox file sync utility</he_IL>
@@ -51,8 +53,9 @@ Dropbox
    <sq>Dropbox file sync utility</sq>
    <sr>Dropbox file sync utility</sr>
    <sv>Dropbox filsynkroniserings-redskap</sv>
-   <tr>Dropbox file sync utility</tr>
+   <tr>Dropbox dosya eşzamanlama yardımcısı</tr>
    <uk>утиліта синхронізації файлів Dropbox</uk>
+   <vi>ứng dụng đồng bộ hóa tệp Dropbox</vi>
    <zh_CN>Dropbox file sync utility</zh_CN>
    <zh_TW>Dropbox file sync utility</zh_TW>
 </description>

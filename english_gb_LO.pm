@@ -13,6 +13,7 @@ GB_English_Libreoffice
    <am>GB English Help for LibreOffice</am>
    <ar>GB English Help for LibreOffice</ar>
    <bg>GB English Help for LibreOffice</bg>
+   <bn>GB English Help for LibreOffice</bn>
    <ca>Ajuda en anglès (UK) per LibreOffice</ca>
    <cs>GB English Help for LibreOffice</cs>
    <da>Engelsk (storbritannien) hjælp til LibreOffice</da>
@@ -23,6 +24,7 @@ GB_English_Libreoffice
    <et>GB English Help for LibreOffice</et>
    <eu>GB English Help for LibreOffice</eu>
    <fa>GB English Help for LibreOffice</fa>
+   <fil_PH>GB English Help for LibreOffice</fil_PH>
    <fi>GB English Help for LibreOffice</fi>
    <fr>Aide anglais_GB pour LibreOffice</fr>
    <he_IL>GB English Help for LibreOffice</he_IL>
@@ -51,8 +53,9 @@ GB_English_Libreoffice
    <sq>GB English Help for LibreOffice</sq>
    <sr>GB English Help for LibreOffice</sr>
    <sv>GB Engelsk Hjälp för LibreOffice</sv>
-   <tr>GB English Help for LibreOffice</tr>
+   <tr>LibreOffice için Britanya ingilizcesi Yardımı</tr>
    <uk>GB English довідка LibreOffice</uk>
+   <vi>GB English Help for LibreOffice</vi>
    <zh_CN>GB English Help for LibreOffice</zh_CN>
    <zh_TW>GB English Help for LibreOffice</zh_TW>
 </description>

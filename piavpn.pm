@@ -13,16 +13,18 @@ PIAVPN - Private Internet Access VPN
    <am>Private Internet Access VPN</am>
    <ar>Private Internet Access VPN</ar>
    <bg>Private Internet Access VPN</bg>
+   <bn>Private Internet Access VPN</bn>
    <ca>Accés privat a internet VPN</ca>
    <cs>Private Internet Access VPN</cs>
    <da>Private Internet Access VPN</da>
-   <de>Private Internet Access VPN</de>
+   <de>Privater Internetzugang VPN</de>
    <el>Private Internet Access VPN</el>
    <en>Private Internet Access VPN</en>
    <es>Acceso Privado a Internet VPN</es>
    <et>Private Internet Access VPN</et>
    <eu>Private Internet Access VPN</eu>
    <fa>Private Internet Access VPN</fa>
+   <fil_PH>Private Internet Access VPN</fil_PH>
    <fi>Private Internet Access VPN</fi>
    <fr>Accès Internet Privé par VPN</fr>
    <he_IL>Private Internet Access VPN</he_IL>
@@ -42,10 +44,10 @@ PIAVPN - Private Internet Access VPN
    <nb>Private Internet Access VPN</nb>
    <nl>Privé Internet Toegang VPN</nl>
    <pl>Private Internet Access VPN</pl>
-   <pt_BR>Private Internet Access VPN</pt_BR>
+   <pt_BR>Acesso Privado à Internet VPN</pt_BR>
    <pt>Acesso Privado à Internet VPN</pt>
    <ro>Private Internet Access VPN</ro>
-   <ru>Private Internet Access VPN</ru>
+   <ru>Частный VPN для выхода в интернет</ru>
    <sk>Private Internet Access VPN</sk>
    <sl>Zasebni spletni dostop preko VPN</sl>
    <sq>Private Internet Access VPN</sq>
@@ -53,6 +55,7 @@ PIAVPN - Private Internet Access VPN
    <sv>Private Internet Access VPN</sv>
    <tr>Private Internet Access VPN</tr>
    <uk>Private Internet Access VPN</uk>
+   <vi>Private Internet Access VPN</vi>
    <zh_CN>Private Internet Access VPN</zh_CN>
    <zh_TW>Private Internet Access VPN</zh_TW>
 </description>

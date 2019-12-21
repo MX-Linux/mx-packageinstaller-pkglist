@@ -13,6 +13,7 @@ KDE5 Standard
    <am>Installs kde-standard, kde-plasma-desktop</am>
    <ar>Installs kde-standard, kde-plasma-desktop</ar>
    <bg>Installs kde-standard, kde-plasma-desktop</bg>
+   <bn>Installs kde-standard, kde-plasma-desktop</bn>
    <ca>Instal·la kde-standard i kde-plasma-desktop</ca>
    <cs>Installs kde-standard, kde-plasma-desktop</cs>
    <da>Installerer kde-standard, kde-plasma-desktop</da>
@@ -23,6 +24,7 @@ KDE5 Standard
    <et>Installs kde-standard, kde-plasma-desktop</et>
    <eu>Installs kde-standard, kde-plasma-desktop</eu>
    <fa>Installs kde-standard, kde-plasma-desktop</fa>
+   <fil_PH>Installs kde-standard, kde-plasma-desktop</fil_PH>
    <fi>Installs kde-standard, kde-plasma-desktop</fi>
    <fr>Installation de kde-standard, kde-plasma-desktop</fr>
    <he_IL>Installs kde-standard, kde-plasma-desktop</he_IL>
@@ -53,6 +55,7 @@ KDE5 Standard
    <sv>Installerar kde-standard, kde-plasma-desktop</sv>
    <tr>Installs kde-standard, kde-plasma-desktop</tr>
    <uk>встановлює набори kde-standard, kde-plasma-desktop</uk>
+   <vi>Installs kde-standard, kde-plasma-desktop</vi>
    <zh_CN>Installs kde-standard, kde-plasma-desktop</zh_CN>
    <zh_TW>Installs kde-standard, kde-plasma-desktop</zh_TW>
 </description>

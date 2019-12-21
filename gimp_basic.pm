@@ -13,6 +13,7 @@ GIMP Basic
    <am>advanced picture editor - installs GIMP only</am>
    <ar>advanced picture editor - installs GIMP only</ar>
    <bg>advanced picture editor - installs GIMP only</bg>
+   <bn>advanced picture editor - installs GIMP only</bn>
    <ca>editor gràfic avançat; instal·la només GIMP</ca>
    <cs>advanced picture editor - installs GIMP only</cs>
    <da>avanceret billedredigering - installerer kun GIMP</da>
@@ -23,6 +24,7 @@ GIMP Basic
    <et>advanced picture editor - installs GIMP only</et>
    <eu>advanced picture editor - installs GIMP only</eu>
    <fa>advanced picture editor - installs GIMP only</fa>
+   <fil_PH>advanced picture editor - installs GIMP only</fil_PH>
    <fi>advanced picture editor - installs GIMP only</fi>
    <fr>Éditeur d'image avancé - installe Gimp uniquement</fr>
    <he_IL>advanced picture editor - installs GIMP only</he_IL>
@@ -53,6 +55,7 @@ GIMP Basic
    <sv>avancerad bildredigerare - installerar enbart GIMP</sv>
    <tr>advanced picture editor - installs GIMP only</tr>
    <uk>розширений редактор зображень - встановлює лише GIMP</uk>
+   <vi>advanced picture editor - installs GIMP only</vi>
    <zh_CN>advanced picture editor - installs GIMP only</zh_CN>
    <zh_TW>advanced picture editor - installs GIMP only</zh_TW>
 </description>

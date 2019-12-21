@@ -13,6 +13,7 @@ Serbian_Firefox
    <am>Serbian localisation of Firefox</am>
    <ar>Serbian localisation of Firefox</ar>
    <bg>Serbian localisation of Firefox</bg>
+   <bn>Serbian localisation of Firefox</bn>
    <ca>Localització de Firefox en Serbi</ca>
    <cs>Serbian localisation of Firefox</cs>
    <da>Serbisk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Serbian_Firefox
    <et>Serbian localisation of Firefox</et>
    <eu>Serbian localisation of Firefox</eu>
    <fa>Serbian localisation of Firefox</fa>
+   <fil_PH>Serbian localisation of Firefox</fil_PH>
    <fi>Serbian localisation of Firefox</fi>
    <fr>Localisation serbe pour Firefox</fr>
    <he_IL>Serbian localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Serbian_Firefox
    <sq>Serbian localisation of Firefox</sq>
    <sr>Serbian localisation of Firefox</sr>
    <sv>Serbisk  lokalisering av Firefox</sv>
-   <tr>Serbian localisation of Firefox</tr>
+   <tr>Firefox'un Sırpça yerelleştirmesi</tr>
    <uk>Serbian localisation of Firefox</uk>
+   <vi>Serbian localisation of Firefox</vi>
    <zh_CN>Serbian localisation of Firefox</zh_CN>
    <zh_TW>Serbian localisation of Firefox</zh_TW>
 </description>

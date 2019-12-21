@@ -13,6 +13,7 @@ Gnumeric
    <am>lightweight spreadsheet</am>
    <ar>lightweight spreadsheet</ar>
    <bg>lightweight spreadsheet</bg>
+   <bn>lightweight spreadsheet</bn>
    <ca>Full de càlcul lleuger</ca>
    <cs>lightweight spreadsheet</cs>
    <da>letvægts regneark</da>
@@ -23,6 +24,7 @@ Gnumeric
    <et>lightweight spreadsheet</et>
    <eu>lightweight spreadsheet</eu>
    <fa>lightweight spreadsheet</fa>
+   <fil_PH>lightweight spreadsheet</fil_PH>
    <fi>lightweight spreadsheet</fi>
    <fr>Tableur léger</fr>
    <he_IL>lightweight spreadsheet</he_IL>
@@ -53,6 +55,7 @@ Gnumeric
    <sv>lättvikts spreadsheet</sv>
    <tr>lightweight spreadsheet</tr>
    <uk>легкий табличний процесор</uk>
+   <vi>lightweight spreadsheet</vi>
    <zh_CN>lightweight spreadsheet</zh_CN>
    <zh_TW>lightweight spreadsheet</zh_TW>
 </description>

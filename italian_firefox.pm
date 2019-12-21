@@ -13,6 +13,7 @@ Italian_Firefox
    <am>Italian localisation of Firefox</am>
    <ar>Italian localisation of Firefox</ar>
    <bg>Italian localisation of Firefox</bg>
+   <bn>Italian localisation of Firefox</bn>
    <ca>Localització de Firefox en Italià</ca>
    <cs>Italian localisation of Firefox</cs>
    <da>Italiensk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Italian_Firefox
    <et>Italian localisation of Firefox</et>
    <eu>Italian localisation of Firefox</eu>
    <fa>Italian localisation of Firefox</fa>
+   <fil_PH>Italian localisation of Firefox</fil_PH>
    <fi>Italian localisation of Firefox</fi>
    <fr>Localisation italienne pour Firefox</fr>
    <he_IL>Italian localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Italian_Firefox
    <sq>Italian localisation of Firefox</sq>
    <sr>Italian localisation of Firefox</sr>
    <sv>Italiensk lokalisering av Firefox </sv>
-   <tr>Italian localisation of Firefox</tr>
+   <tr>Firefox'un İtalyanca yerelleştirmesi</tr>
    <uk>Italian локалізація Firefox</uk>
+   <vi>Italian localisation of Firefox</vi>
    <zh_CN>Italian localisation of Firefox</zh_CN>
    <zh_TW>Italian localisation of Firefox</zh_TW>
 </description>

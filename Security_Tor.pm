@@ -13,6 +13,7 @@ Tor and Privoxy
    <am>Tor and Privoxy</am>
    <ar>Tor and Privoxy</ar>
    <bg>Tor and Privoxy</bg>
+   <bn>Tor and Privoxy</bn>
    <ca>Tor i Privoxy</ca>
    <cs>Tor and Privoxy</cs>
    <da>Tor og Privoxy</da>
@@ -23,6 +24,7 @@ Tor and Privoxy
    <et>Tor and Privoxy</et>
    <eu>Tor and Privoxy</eu>
    <fa>Tor and Privoxy</fa>
+   <fil_PH>Tor and Privoxy</fil_PH>
    <fi>Tor and Privoxy</fi>
    <fr>Tor et Privoxy</fr>
    <he_IL>Tor and Privoxy</he_IL>
@@ -53,6 +55,7 @@ Tor and Privoxy
    <sv>Tor och Privoxy</sv>
    <tr>Tor and Privoxy</tr>
    <uk>Tor and Privoxy</uk>
+   <vi>Tor and Privoxy</vi>
    <zh_CN>Tor and Privoxy</zh_CN>
    <zh_TW>Tor and Privoxy</zh_TW>
 </description>

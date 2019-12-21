@@ -13,6 +13,7 @@ Wine
    <am>run Windows applications without a copy of Microsoft Windows</am>
    <ar>run Windows applications without a copy of Microsoft Windows</ar>
    <bg>run Windows applications without a copy of Microsoft Windows</bg>
+   <bn>run Windows applications without a copy of Microsoft Windows</bn>
    <ca>Executa aplicacions Windows sense una còpia de MS-Windows</ca>
    <cs>run Windows applications without a copy of Microsoft Windows</cs>
    <da>kør Windows-programmer uden en kopi af Microsoft Windows</da>
@@ -23,6 +24,7 @@ Wine
    <et>run Windows applications without a copy of Microsoft Windows</et>
    <eu>run Windows applications without a copy of Microsoft Windows</eu>
    <fa>run Windows applications without a copy of Microsoft Windows</fa>
+   <fil_PH>run Windows applications without a copy of Microsoft Windows</fil_PH>
    <fi>run Windows applications without a copy of Microsoft Windows</fi>
    <fr>Lancer des applications Windows sans avoir besoin d'installer Windows</fr>
    <he_IL>run Windows applications without a copy of Microsoft Windows</he_IL>
@@ -53,6 +55,7 @@ Wine
    <sv>kör Windows applikationer utan Microsoft Windows</sv>
    <tr>run Windows applications without a copy of Microsoft Windows</tr>
    <uk>run Windows applications without a copy of Microsoft Windows</uk>
+   <vi>run Windows applications without a copy of Microsoft Windows</vi>
    <zh_CN>run Windows applications without a copy of Microsoft Windows</zh_CN>
    <zh_TW>run Windows applications without a copy of Microsoft Windows</zh_TW>
 </description>

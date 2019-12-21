@@ -13,6 +13,7 @@ MOC
    <am>a console audio player designed to be powerful and easy to use</am>
    <ar>a console audio player designed to be powerful and easy to use</ar>
    <bg>a console audio player designed to be powerful and easy to use</bg>
+   <bn>a console audio player designed to be powerful and easy to use</bn>
    <ca>reproductor d'àudio dissenyat per a ser potent i fàcil d'usar</ca>
    <cs>a console audio player designed to be powerful and easy to use</cs>
    <da>en konsol-lydafspiller som er designet til at være kraftfuld og let at bruge</da>
@@ -23,6 +24,7 @@ MOC
    <et>a console audio player designed to be powerful and easy to use</et>
    <eu>a console audio player designed to be powerful and easy to use</eu>
    <fa>a console audio player designed to be powerful and easy to use</fa>
+   <fil_PH>a console audio player designed to be powerful and easy to use</fil_PH>
    <fi>a console audio player designed to be powerful and easy to use</fi>
    <fr>Un lecteur audio en console puissant et simple d'utilisation</fr>
    <he_IL>a console audio player designed to be powerful and easy to use</he_IL>
@@ -53,6 +55,7 @@ MOC
    <sv>en konsol-ljudspelare designad för att vara kraftfull och lättanvänd</sv>
    <tr>a console audio player designed to be powerful and easy to use</tr>
    <uk>консольний програвач аудіо створений що бути потужним та простим у використанні</uk>
+   <vi>a console audio player designed to be powerful and easy to use</vi>
    <zh_CN>a console audio player designed to be powerful and easy to use</zh_CN>
    <zh_TW>a console audio player designed to be powerful and easy to use</zh_TW>
 </description>

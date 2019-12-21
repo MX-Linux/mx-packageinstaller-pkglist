@@ -13,6 +13,7 @@ Swedish_Thunderbird
    <am>Swedish localisation of Thunderbird</am>
    <ar>Swedish localisation of Thunderbird</ar>
    <bg>Swedish localisation of Thunderbird</bg>
+   <bn>Swedish localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Suec</ca>
    <cs>Swedish localisation of Thunderbird</cs>
    <da>Svensk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Swedish_Thunderbird
    <et>Swedish localisation of Thunderbird</et>
    <eu>Swedish localisation of Thunderbird</eu>
    <fa>Swedish localisation of Thunderbird</fa>
+   <fil_PH>Swedish localisation of Thunderbird</fil_PH>
    <fi>Swedish localisation of Thunderbird</fi>
    <fr>Localisation suédoise pour Thunderbird</fr>
    <he_IL>Swedish localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Swedish_Thunderbird
    <sq>Swedish localisation of Thunderbird</sq>
    <sr>Swedish localisation of Thunderbird</sr>
    <sv>Svensk lokalisering av Thunderbird</sv>
-   <tr>Swedish localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün İsveççe yerelleştirmesi</tr>
    <uk>Swedish localisation of Thunderbird</uk>
+   <vi>Swedish localisation of Thunderbird</vi>
    <zh_CN>Swedish localisation of Thunderbird</zh_CN>
    <zh_TW>Swedish localisation of Thunderbird</zh_TW>
 </description>

@@ -13,6 +13,7 @@ gscan2pdf
    <am>A GUI to produce PDFs or DjVus from scanned documents</am>
    <ar>A GUI to produce PDFs or DjVus from scanned documents</ar>
    <bg>A GUI to produce PDFs or DjVus from scanned documents</bg>
+   <bn>A GUI to produce PDFs or DjVus from scanned documents</bn>
    <ca>Una IGU per crear PDFs o DJVus des de documents escanejats</ca>
    <cs>A GUI to produce PDFs or DjVus from scanned documents</cs>
    <da>En grafisk brugerflade til at skabe PDF'er eller DjVus fra skannede dokumenter</da>
@@ -23,6 +24,7 @@ gscan2pdf
    <et>A GUI to produce PDFs or DjVus from scanned documents</et>
    <eu>A GUI to produce PDFs or DjVus from scanned documents</eu>
    <fa>A GUI to produce PDFs or DjVus from scanned documents</fa>
+   <fil_PH>A GUI to produce PDFs or DjVus from scanned documents</fil_PH>
    <fi>A GUI to produce PDFs or DjVus from scanned documents</fi>
    <fr>Une interface graphique permettant de créer des PDFs et DjVus à partir de documents scannés</fr>
    <he_IL>A GUI to produce PDFs or DjVus from scanned documents</he_IL>
@@ -53,6 +55,7 @@ gscan2pdf
    <sv>Ett grafiskt gränssnitt för att  producera PDFs eller DjVus av skannade dokument</sv>
    <tr>A GUI to produce PDFs or DjVus from scanned documents</tr>
    <uk>Графічний інтерфейс для створення PDF та DjVU файлів з відсканованих документів</uk>
+   <vi>A GUI to produce PDFs or DjVus from scanned documents</vi>
    <zh_CN>A GUI to produce PDFs or DjVus from scanned documents</zh_CN>
    <zh_TW>A GUI to produce PDFs or DjVus from scanned documents</zh_TW>
 </description>

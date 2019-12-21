@@ -13,6 +13,7 @@ GB_English_Thunderbird
    <am>GB English localisation of Thunderbird</am>
    <ar>GB English localisation of Thunderbird</ar>
    <bg>GB English localisation of Thunderbird</bg>
+   <bn>GB English localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en anglès (UK)</ca>
    <cs>GB English localisation of Thunderbird</cs>
    <da>Engelsk (storbritannien) oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ GB_English_Thunderbird
    <et>GB English localisation of Thunderbird</et>
    <eu>GB English localisation of Thunderbird</eu>
    <fa>GB English localisation of Thunderbird</fa>
+   <fil_PH>GB English localisation of Thunderbird</fil_PH>
    <fi>GB English localisation of Thunderbird</fi>
    <fr>Localisation anglaise_GB pour Thunderbird</fr>
    <he_IL>GB English localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ GB_English_Thunderbird
    <sq>GB English localisation of Thunderbird</sq>
    <sr>GB English localisation of Thunderbird</sr>
    <sv>GB Engelsk lokalisering av Thunderbird</sv>
-   <tr>GB English localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün Britanya İngilizcesi yerelleştirmesi</tr>
    <uk>GB English локалізація Thunderbird</uk>
+   <vi>GB English localisation of Thunderbird</vi>
    <zh_CN>GB English localisation of Thunderbird</zh_CN>
    <zh_TW>GB English localisation of Thunderbird</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Local Web Server
    <am>apache2, php7, mariaDB</am>
    <ar>apache2, php7, mariaDB</ar>
    <bg>apache2, php7, mariaDB</bg>
+   <bn>apache2, php7, mariaDB</bn>
    <ca>apache2, php7, mariaDB</ca>
    <cs>apache2, php7, mariaDB</cs>
    <da>apache2, php7, mariaDB</da>
@@ -23,6 +24,7 @@ Local Web Server
    <et>apache2, php7, mariaDB</et>
    <eu>apache2, php7, mariaDB</eu>
    <fa>apache2, php7, mariaDB</fa>
+   <fil_PH>apache2, php7, mariaDB</fil_PH>
    <fi>apache2, php7, mariaDB</fi>
    <fr>apache2, php7, mariaDB</fr>
    <he_IL>apache2, php7, mariaDB</he_IL>
@@ -53,6 +55,7 @@ Local Web Server
    <sv>apache2, php7, mariaDB</sv>
    <tr>apache2, php7, mariaDB</tr>
    <uk>apache2, php7, mariaDB</uk>
+   <vi>apache2, php7, mariaDB</vi>
    <zh_CN>apache2, php7, mariaDB</zh_CN>
    <zh_TW>apache2, php7, mariaDB</zh_TW>
 </description>

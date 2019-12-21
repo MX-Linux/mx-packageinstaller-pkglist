@@ -13,6 +13,7 @@ Dutch_Firefox
    <am>Dutch localisation of Firefox</am>
    <ar>Dutch localisation of Firefox</ar>
    <bg>Dutch localisation of Firefox</bg>
+   <bn>Dutch localisation of Firefox</bn>
    <ca>Localització de Firefox en Holandès</ca>
    <cs>Dutch localisation of Firefox</cs>
    <da>Hollandsk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Dutch_Firefox
    <et>Dutch localisation of Firefox</et>
    <eu>Dutch localisation of Firefox</eu>
    <fa>Dutch localisation of Firefox</fa>
+   <fil_PH>Dutch localisation of Firefox</fil_PH>
    <fi>Dutch localisation of Firefox</fi>
    <fr>Localisation néerlandaise pour Firefox</fr>
    <he_IL>Dutch localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Dutch_Firefox
    <sq>Dutch localisation of Firefox</sq>
    <sr>Dutch localisation of Firefox</sr>
    <sv>Holländsk lokalisering av Firefox</sv>
-   <tr>Dutch localisation of Firefox</tr>
+   <tr>Firefox'un Flemenkçe yerelleştirmesi</tr>
    <uk>Dutch локалізація Firefox</uk>
+   <vi>Dutch localisation of Firefox</vi>
    <zh_CN>Dutch localisation of Firefox</zh_CN>
    <zh_TW>Dutch localisation of Firefox</zh_TW>
 </description>

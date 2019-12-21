@@ -13,25 +13,27 @@ Odia_Libreoffice
    <am>Odia Language Meta-Package for LibreOffice</am>
    <ar>Odia Language Meta-Package for LibreOffice</ar>
    <bg>Odia Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Odia per LibreOffice</ca>
+   <bn>Odia Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Odia per LibreOffice</ca>
    <cs>Odia Language Meta-Package for LibreOffice</cs>
-   <da>Odia sprog-metapakke til LibreOffice</da>
+   <da>Odia Language Meta-Package for LibreOffice</da>
    <de>Odia Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Odia</el>
    <en>Odia Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Odia para LibreOffice</es>
+   <es>Odia Language Meta-Package para LibreOffice</es>
    <et>Odia Language Meta-Package for LibreOffice</et>
    <eu>Odia Language Meta-Package for LibreOffice</eu>
    <fa>Odia Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Odia Language Meta-Package for LibreOffice</fil_PH>
    <fi>Odia Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Odia pour LibreOffice</fr>
+   <fr>Odia Language Meta-Package for LibreOffice</fr>
    <he_IL>Odia Language Meta-Package for LibreOffice</he_IL>
    <hi>Odia Language Meta-Package for LibreOffice</hi>
    <hr>Odia Language Meta-Package for LibreOffice</hr>
    <hu>Odia Language Meta-Package for LibreOffice</hu>
    <id>Odia Language Meta-Package for LibreOffice</id>
    <is>Odia Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Odia per LibreOffice</it>
+   <it>Odia Language Meta-Package for LibreOffice</it>
    <ja_JP>Odia Language Meta-Package for LibreOffice</ja_JP>
    <ja>Odia Language Meta-Package for LibreOffice</ja>
    <kk>Odia Language Meta-Package for LibreOffice</kk>
@@ -41,18 +43,19 @@ Odia_Libreoffice
    <mr>Odia Language Meta-Package for LibreOffice</mr>
    <nb>Odia Language Meta-Package for LibreOffice</nb>
    <nl>Odia Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Odia metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Odia Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Odia Meta-Pacote de Idioma para LibreOffice</pt>
+   <pl>Odia Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Odia Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Oriá Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Odia Language Meta-Package for LibreOffice</ro>
    <ru>Odia Language Meta-Package for LibreOffice</ru>
    <sk>Odia Language Meta-Package for LibreOffice</sk>
-   <sl>Odia Language Meta-Package for LibreOffice</sl>
+   <sl>Odijski jezikovni meta-paket za LibreOffice</sl>
    <sq>Odia Language Meta-Package for LibreOffice</sq>
    <sr>Odia Language Meta-Package for LibreOffice</sr>
    <sv>Odia Språk Meta-Paket för LibreOffice</sv>
    <tr>Odia Language Meta-Package for LibreOffice</tr>
    <uk>Odia Language Meta-Package for LibreOffice</uk>
+   <vi>Odia Language Meta-Package for LibreOffice</vi>
    <zh_CN>Odia Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Odia Language Meta-Package for LibreOffice</zh_TW>
 </description>

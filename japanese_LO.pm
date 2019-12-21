@@ -13,6 +13,7 @@ Japanses_Libreoffice
    <am>Japanese localisation of LibreOffice</am>
    <ar>Japanese localisation of LibreOffice</ar>
    <bg>Japanese localisation of LibreOffice</bg>
+   <bn>Japanese localisation of LibreOffice</bn>
    <ca>Localització en japonès de LibreOffice</ca>
    <cs>Japanese localisation of LibreOffice</cs>
    <da>Japansk oversættelse af LibreOffice</da>
@@ -23,6 +24,7 @@ Japanses_Libreoffice
    <et>Japanese localisation of LibreOffice</et>
    <eu>Japanese localisation of LibreOffice</eu>
    <fa>Japanese localisation of LibreOffice</fa>
+   <fil_PH>Japanese localisation of LibreOffice</fil_PH>
    <fi>Japanese localisation of LibreOffice</fi>
    <fr>Localisation japonaise pour LibreOffice</fr>
    <he_IL>Japanese localisation of LibreOffice</he_IL>
@@ -51,8 +53,9 @@ Japanses_Libreoffice
    <sq>Japanese localisation of LibreOffice</sq>
    <sr>Japanese localisation of LibreOffice</sr>
    <sv>Japansk lokalisering av LibreOffice</sv>
-   <tr>Japanese localisation of LibreOffice</tr>
+   <tr>LibreOffice Japonca yerelleştirmesi</tr>
    <uk>Japanese локалізація LibreOffice</uk>
+   <vi>Japanese localisation of LibreOffice</vi>
    <zh_CN>Japanese localisation of LibreOffice</zh_CN>
    <zh_TW>Japanese localisation of LibreOffice</zh_TW>
 </description>

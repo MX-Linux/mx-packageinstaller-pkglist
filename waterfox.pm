@@ -13,6 +13,7 @@ Waterfox
    <am>alternative mozilla-based browser</am>
    <ar>alternative mozilla-based browser</ar>
    <bg>alternative mozilla-based browser</bg>
+   <bn>alternative mozilla-based browser</bn>
    <ca>Navegador alternatiu basat en Mozilla</ca>
    <cs>alternative mozilla-based browser</cs>
    <da>Alternativ mozilla-baseret browser</da>
@@ -23,6 +24,7 @@ Waterfox
    <et>alternative mozilla-based browser</et>
    <eu>alternative mozilla-based browser</eu>
    <fa>alternative mozilla-based browser</fa>
+   <fil_PH>alternative mozilla-based browser</fil_PH>
    <fi>alternative mozilla-based browser</fi>
    <fr>Navigateur alternatif basé sur Mozilla</fr>
    <he_IL>alternative mozilla-based browser</he_IL>
@@ -53,6 +55,7 @@ Waterfox
    <sv>alternativ mozilla-baserad webbläsare</sv>
    <tr>alternative mozilla-based browser</tr>
    <uk>alternative mozilla-based browser</uk>
+   <vi>alternative mozilla-based browser</vi>
    <zh_CN>alternative mozilla-based browser</zh_CN>
    <zh_TW>alternative mozilla-based browser</zh_TW>
 </description>
@@ -72,8 +75,8 @@ waterfox-classic-kpe
 
 
 <postinstall>
-if [ "$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)" != "en" ]; then 
-apt-get install waterfox-classic-i18n-$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1) 
+if [ "$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)" != "en" ]; then
+apt-get install waterfox-classic-i18n-$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)
 fi
 </postinstall>
 

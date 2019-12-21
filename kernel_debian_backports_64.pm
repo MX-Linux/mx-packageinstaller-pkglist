@@ -13,7 +13,8 @@ Debian-Backports 64 bit
    <am>Debian Backports kernel Meltdown patched, 64 bit</am>
    <ar>Debian Backports kernel Meltdown patched, 64 bit</ar>
    <bg>Debian Backports kernel Meltdown patched, 64 bit</bg>
-   <ca>Nucli de Debian Backports 64 bit, amb pedaç per Meltdown</ca>
+   <bn>Debian Backports kernel Meltdown patched, 64 bit</bn>
+   <ca>Kernel de Debian Backports 64 bit, amb pedaç per Meltdown</ca>
    <cs>Debian Backports kernel Meltdown patched, 64 bit</cs>
    <da>Debian backports kerne meltdown-rettelse, 64 bit</da>
    <de>Debian Backports-Kernel Meltdown gepatcht, 64 Bit</de>
@@ -23,6 +24,7 @@ Debian-Backports 64 bit
    <et>Debian Backports kernel Meltdown patched, 64 bit</et>
    <eu>Debian Backports kernel Meltdown patched, 64 bit</eu>
    <fa>Debian Backports kernel Meltdown patched, 64 bit</fa>
+   <fil_PH>Debian Backports kernel Meltdown patched, 64 bit</fil_PH>
    <fi>Debian Backports kernel Meltdown patched, 64 bit</fi>
    <fr>Noyau Debian Backports correctifs Meltdown, 64 bit</fr>
    <he_IL>Debian Backports kernel Meltdown patched, 64 bit</he_IL>
@@ -43,7 +45,7 @@ Debian-Backports 64 bit
    <nl>Debian Backports kernel Meltdown patched, 64 bit</nl>
    <pl>Debian Backports kernel Meltdown patched, 64 bit</pl>
    <pt_BR>Debian Backports kernel Meltdown patched, 64 bit</pt_BR>
-   <pt>Núcleo do Debian Backports com correcção para a falha Meltdown, 64 bit</pt>
+   <pt>Núcleo (kernel) do Debian Backports com correcção para a falha Meltdown, 64 bit</pt>
    <ro>Debian Backports kernel Meltdown patched, 64 bit</ro>
    <ru>Debian ядро Backports с патчем от Meltdown, 64 bit</ru>
    <sk>Debian Backports kernel Meltdown patched, 64 bit</sk>
@@ -53,6 +55,7 @@ Debian-Backports 64 bit
    <sv>Debian Backports kärna Meltdown patched, 64 bit</sv>
    <tr>Debian Backports kernel Meltdown patched, 64 bit</tr>
    <uk>Debian Backports kernel Meltdown patched, 64 bit</uk>
+   <vi>Debian Backports kernel Meltdown patched, 64 bit</vi>
    <zh_CN>Debian Backports kernel Meltdown patched, 64 bit</zh_CN>
    <zh_TW>Debian Backports kernel Meltdown patched, 64 bit</zh_TW>
 </description>

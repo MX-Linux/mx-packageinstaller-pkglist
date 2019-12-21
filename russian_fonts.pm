@@ -13,6 +13,7 @@ Russian_Fonts
    <am>Russian fonts packages</am>
    <ar>Russian fonts packages</ar>
    <bg>Russian fonts packages</bg>
+   <bn>Russian fonts packages</bn>
    <ca>Paquets de tipus de lletra Ciríl·lics (rus)</ca>
    <cs>Russian fonts packages</cs>
    <da>Russisk skrifttyper-pakke</da>
@@ -23,6 +24,7 @@ Russian_Fonts
    <et>Russian fonts packages</et>
    <eu>Russian fonts packages</eu>
    <fa>Russian fonts packages</fa>
+   <fil_PH>Russian fonts packages</fil_PH>
    <fi>Russian fonts packages</fi>
    <fr>Paquets pour polices russes</fr>
    <he_IL>Russian fonts packages</he_IL>
@@ -51,8 +53,9 @@ Russian_Fonts
    <sq>Russian fonts packages</sq>
    <sr>Russian fonts packages</sr>
    <sv>Ryska typsnitts-paket</sv>
-   <tr>Russian fonts packages</tr>
+   <tr>Rusça yazı tipi paketleri</tr>
    <uk>Russian fonts packages</uk>
+   <vi>Russian fonts packages</vi>
    <zh_CN>Russian fonts packages</zh_CN>
    <zh_TW>Russian fonts packages</zh_TW>
 </description>

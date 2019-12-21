@@ -13,6 +13,7 @@ Obsidian Icon Theme
    <am>an updated/refreshed Faenza-ish icon theme with many colour choices</am>
    <ar>an updated/refreshed Faenza-ish icon theme with many colour choices</ar>
    <bg>an updated/refreshed Faenza-ish icon theme with many colour choices</bg>
+   <bn>an updated/refreshed Faenza-ish icon theme with many colour choices</bn>
    <ca>tema de icones actualitzat tipus Faenza amb moltes opcions de color</ca>
    <cs>an updated/refreshed Faenza-ish icon theme with many colour choices</cs>
    <da>et opdateret/genopfrisket Faenza-ish-ikontema med mange valg af farver</da>
@@ -23,6 +24,7 @@ Obsidian Icon Theme
    <et>an updated/refreshed Faenza-ish icon theme with many colour choices</et>
    <eu>an updated/refreshed Faenza-ish icon theme with many colour choices</eu>
    <fa>an updated/refreshed Faenza-ish icon theme with many colour choices</fa>
+   <fil_PH>an updated/refreshed Faenza-ish icon theme with many colour choices</fil_PH>
    <fi>an updated/refreshed Faenza-ish icon theme with many colour choices</fi>
    <fr>Un thème d'icônes de type Faenza remis au goût du jour, avec plusieurs choix de couleurs</fr>
    <he_IL>an updated/refreshed Faenza-ish icon theme with many colour choices</he_IL>
@@ -53,6 +55,7 @@ Obsidian Icon Theme
    <sv>ett uppdaterat/förbättrat Faenza-aktigt ikontema med många färgval</sv>
    <tr>an updated/refreshed Faenza-ish icon theme with many colour choices</tr>
    <uk>оновлена тема піктограм Faenza з великим вибором кольорів</uk>
+   <vi>an updated/refreshed Faenza-ish icon theme with many colour choices</vi>
    <zh_CN>an updated/refreshed Faenza-ish icon theme with many colour choices</zh_CN>
    <zh_TW>an updated/refreshed Faenza-ish icon theme with many colour choices</zh_TW>
 </description>

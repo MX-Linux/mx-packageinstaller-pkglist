@@ -13,6 +13,7 @@ gftp
    <am>a multithreaded FTP client</am>
    <ar>a multithreaded FTP client</ar>
    <bg>a multithreaded FTP client</bg>
+   <bn>a multithreaded FTP client</bn>
    <ca>un client de FTP multifilar</ca>
    <cs>a multithreaded FTP client</cs>
    <da>en multitrådet FTP-klient</da>
@@ -23,6 +24,7 @@ gftp
    <et>a multithreaded FTP client</et>
    <eu>a multithreaded FTP client</eu>
    <fa>a multithreaded FTP client</fa>
+   <fil_PH>a multithreaded FTP client</fil_PH>
    <fi>a multithreaded FTP client</fi>
    <fr>Client FTP multiprocessus</fr>
    <he_IL>a multithreaded FTP client</he_IL>
@@ -53,6 +55,7 @@ gftp
    <sv>en multitråds FTP-klient</sv>
    <tr>a multithreaded FTP client</tr>
    <uk>багатопотоковий FTP-клієнт</uk>
+   <vi>a multithreaded FTP client</vi>
    <zh_CN>a multithreaded FTP client</zh_CN>
    <zh_TW>a multithreaded FTP client</zh_TW>
 </description>

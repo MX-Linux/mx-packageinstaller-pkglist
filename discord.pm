@@ -13,6 +13,7 @@ Discord
    <am>All-in-one voice and text chat for gamers</am>
    <ar>All-in-one voice and text chat for gamers</ar>
    <bg>All-in-one voice and text chat for gamers</bg>
+   <bn>All-in-one voice and text chat for gamers</bn>
    <ca>Xat integral (tot en un) per a veu i text per jugadors</ca>
    <cs>All-in-one voice and text chat for gamers</cs>
    <da>Alt-i-ét stemme- og tekstchat til spillere</da>
@@ -23,6 +24,7 @@ Discord
    <et>All-in-one voice and text chat for gamers</et>
    <eu>All-in-one voice and text chat for gamers</eu>
    <fa>All-in-one voice and text chat for gamers</fa>
+   <fil_PH>All-in-one voice and text chat for gamers</fil_PH>
    <fi>All-in-one voice and text chat for gamers</fi>
    <fr>Chat texte et voix tout-en-un pour les joueurs</fr>
    <he_IL>All-in-one voice and text chat for gamers</he_IL>
@@ -53,6 +55,7 @@ Discord
    <sv>Allt-i-ett röst och textchatt för gamers</sv>
    <tr>All-in-one voice and text chat for gamers</tr>
    <uk>Повноцінний голосовий та текстовий чат для гравців</uk>
+   <vi>All-in-one voice and text chat for gamers</vi>
    <zh_CN>All-in-one voice and text chat for gamers</zh_CN>
    <zh_TW>All-in-one voice and text chat for gamers</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Turkish_Firefox
    <am>Turkish localisation of Firefox</am>
    <ar>Turkish localisation of Firefox</ar>
    <bg>Turkish localisation of Firefox</bg>
+   <bn>Turkish localisation of Firefox</bn>
    <ca>Localització de Firefox en Turc</ca>
    <cs>Turkish localisation of Firefox</cs>
    <da>Tyrkisk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Turkish_Firefox
    <et>Turkish localisation of Firefox</et>
    <eu>Turkish localisation of Firefox</eu>
    <fa>Turkish localisation of Firefox</fa>
+   <fil_PH>Turkish localisation of Firefox</fil_PH>
    <fi>Turkish localisation of Firefox</fi>
    <fr>Localisation turque pour Firefox</fr>
    <he_IL>Turkish localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Turkish_Firefox
    <sq>Turkish localisation of Firefox</sq>
    <sr>Turkish localisation of Firefox</sr>
    <sv>Turkisk lokalisering av Firefox</sv>
-   <tr>Turkish localisation of Firefox</tr>
+   <tr>Firefox'un Türkçe yerelleştirmesi</tr>
    <uk>Turkish localisation of Firefox</uk>
+   <vi>Turkish localisation of Firefox</vi>
    <zh_CN>Turkish localisation of Firefox</zh_CN>
    <zh_TW>Turkish localisation of Firefox</zh_TW>
 </description>

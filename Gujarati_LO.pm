@@ -13,25 +13,27 @@ Gujarati_Libreoffice
    <am>Gujarati Language Meta-Package for LibreOffice</am>
    <ar>Gujarati Language Meta-Package for LibreOffice</ar>
    <bg>Gujarati Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Gujarati per LibreOffice</ca>
+   <bn>Gujarati Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Gujarati per LibreOffice</ca>
    <cs>Gujarati Language Meta-Package for LibreOffice</cs>
-   <da>Gujarati sprog-metapakke til LibreOffice</da>
+   <da>Gujarati Language Meta-Package for LibreOffice</da>
    <de>Gujarati Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Gujarati</el>
    <en>Gujarati Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Gujarati para LibreOffice</es>
+   <es>Meta-Paquete de idioma Guyaratí para LibreOffice</es>
    <et>Gujarati Language Meta-Package for LibreOffice</et>
    <eu>Gujarati Language Meta-Package for LibreOffice</eu>
    <fa>Gujarati Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Gujarati Language Meta-Package for LibreOffice</fil_PH>
    <fi>Gujarati Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Gujarati pour LibreOffice</fr>
+   <fr>Gujarati Language Meta-Package for LibreOffice</fr>
    <he_IL>Gujarati Language Meta-Package for LibreOffice</he_IL>
    <hi>Gujarati Language Meta-Package for LibreOffice</hi>
    <hr>Gujarati Language Meta-Package for LibreOffice</hr>
    <hu>Gujarati Language Meta-Package for LibreOffice</hu>
    <id>Gujarati Language Meta-Package for LibreOffice</id>
    <is>Gujarati Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Gujarati per LibreOffice</it>
+   <it>Meta-pacchetto della lingua gujarati per LibreOffice</it>
    <ja_JP>Gujarati Language Meta-Package for LibreOffice</ja_JP>
    <ja>Gujarati Language Meta-Package for LibreOffice</ja>
    <kk>Gujarati Language Meta-Package for LibreOffice</kk>
@@ -41,18 +43,19 @@ Gujarati_Libreoffice
    <mr>Gujarati Language Meta-Package for LibreOffice</mr>
    <nb>Gujarati Language Meta-Package for LibreOffice</nb>
    <nl>Gujarati Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Gujarati metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Gujarati Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <pl>Gujarati Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Gujarati Language Meta-Package for LibreOffice</pt_BR>
    <pt>Gujarati Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Gujarati Language Meta-Package for LibreOffice</ro>
    <ru>Gujarati Language Meta-Package for LibreOffice</ru>
    <sk>Gujarati Language Meta-Package for LibreOffice</sk>
-   <sl>Gujarati Language Meta-Package for LibreOffice</sl>
+   <sl>Gujaratski jezikovni meta-paket za LibreOffice</sl>
    <sq>Gujarati Language Meta-Package for LibreOffice</sq>
    <sr>Gujarati Language Meta-Package for LibreOffice</sr>
    <sv>Gujarati Språk Meta-Paket för LibreOffice</sv>
    <tr>Gujarati Language Meta-Package for LibreOffice</tr>
    <uk>Gujarati Language Meta-Package for LibreOffice</uk>
+   <vi>Gujarati Language Meta-Package for LibreOffice</vi>
    <zh_CN>Gujarati Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Gujarati Language Meta-Package for LibreOffice</zh_TW>
 </description>

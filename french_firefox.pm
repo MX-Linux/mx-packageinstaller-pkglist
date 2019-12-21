@@ -13,6 +13,7 @@ French_Firefox
    <am>French localisation of Firefox</am>
    <ar>French localisation of Firefox</ar>
    <bg>French localisation of Firefox</bg>
+   <bn>French localisation of Firefox</bn>
    <ca>Localització de Firefox en Francès</ca>
    <cs>French localisation of Firefox</cs>
    <da>Fransk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ French_Firefox
    <et>French localisation of Firefox</et>
    <eu>French localisation of Firefox</eu>
    <fa>French localisation of Firefox</fa>
+   <fil_PH>French localisation of Firefox</fil_PH>
    <fi>French localisation of Firefox</fi>
    <fr>Localisation française pour Firefox</fr>
    <he_IL>French localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ French_Firefox
    <sq>French localisation of Firefox</sq>
    <sr>French localisation of Firefox</sr>
    <sv>Fransk lokalisering av Firefox</sv>
-   <tr>French localisation of Firefox</tr>
+   <tr>Firefox'un Fransızca yerelleştirmesi</tr>
    <uk>French локалізація Firefox</uk>
+   <vi>French localisation of Firefox</vi>
    <zh_CN>French localisation of Firefox</zh_CN>
    <zh_TW>French localisation of Firefox</zh_TW>
 </description>

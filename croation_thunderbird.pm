@@ -13,6 +13,7 @@ Croatian_thunderbird
    <am>Croatian localisation of thunderbird</am>
    <ar>Croatian localisation of thunderbird</ar>
    <bg>Croatian localisation of thunderbird</bg>
+   <bn>Croatian localisation of thunderbird</bn>
    <ca>Localització de Thunderbird en Croata</ca>
    <cs>Croatian localisation of thunderbird</cs>
    <da>Kroatisk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Croatian_thunderbird
    <et>Croatian localisation of thunderbird</et>
    <eu>Croatian localisation of thunderbird</eu>
    <fa>Croatian localisation of thunderbird</fa>
+   <fil_PH>Croatian localisation of thunderbird</fil_PH>
    <fi>Croatian localisation of thunderbird</fi>
    <fr>Localisation croate pour Thunderbird</fr>
    <he_IL>Croatian localisation of thunderbird</he_IL>
@@ -51,8 +53,9 @@ Croatian_thunderbird
    <sq>Croatian localisation of thunderbird</sq>
    <sr>Croatian localisation of thunderbird</sr>
    <sv>Kroatisk lokalisering av thunderbird</sv>
-   <tr>Croatian localisation of thunderbird</tr>
+   <tr>Thunderbird'ün Hırvatça yerelleştirmesi</tr>
    <uk>Croatian локалізація thunderbird</uk>
+   <vi>Croatian localisation of thunderbird</vi>
    <zh_CN>Croatian localisation of thunderbird</zh_CN>
    <zh_TW>Croatian localisation of thunderbird</zh_TW>
 </description>

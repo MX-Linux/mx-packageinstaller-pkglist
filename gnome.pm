@@ -13,6 +13,7 @@ Gnome Base
    <am>Minimal install of gnome shell</am>
    <ar>Minimal install of gnome shell</ar>
    <bg>Minimal install of gnome shell</bg>
+   <bn>Minimal install of gnome shell</bn>
    <ca>Instal·lació mínima de Gnome Shell</ca>
    <cs>Minimal install of gnome shell</cs>
    <da>Minimal installation af gnome shell</da>
@@ -23,6 +24,7 @@ Gnome Base
    <et>Minimal install of gnome shell</et>
    <eu>Minimal install of gnome shell</eu>
    <fa>Minimal install of gnome shell</fa>
+   <fil_PH>Minimal install of gnome shell</fil_PH>
    <fi>Minimal install of gnome shell</fi>
    <fr>Installation minimale de Gnome Shell</fr>
    <he_IL>Minimal install of gnome shell</he_IL>
@@ -53,6 +55,7 @@ Gnome Base
    <sv>Minimal installation av gnome shell</sv>
    <tr>Minimal install of gnome shell</tr>
    <uk>мінімальний набір середовища gnome</uk>
+   <vi>Minimal install of gnome shell</vi>
    <zh_CN>Minimal install of gnome shell</zh_CN>
    <zh_TW>Minimal install of gnome shell</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Plex
    <am>Plex Mediaserver (includes web client)(requires reboot after install)</am>
    <ar>Plex Mediaserver (includes web client)(requires reboot after install)</ar>
    <bg>Plex Mediaserver (includes web client)(requires reboot after install)</bg>
+   <bn>Plex Mediaserver (includes web client)(requires reboot after install)</bn>
    <ca>Mediaserver Plex (inclou client web; cal rearrencar després d'instal·lar)</ca>
    <cs>Plex Mediaserver (includes web client)(requires reboot after install)</cs>
    <da>Plex-medieserver (inkluderer webklient)(kræver genstart efter installation)</da>
@@ -23,6 +24,7 @@ Plex
    <et>Plex Mediaserver (includes web client)(requires reboot after install)</et>
    <eu>Plex Mediaserver (includes web client)(requires reboot after install)</eu>
    <fa>Plex Mediaserver (includes web client)(requires reboot after install)</fa>
+   <fil_PH>Plex Mediaserver (includes web client)(requires reboot after install)</fil_PH>
    <fi>Plex Mediaserver (includes web client)(requires reboot after install)</fi>
    <fr>Plex Mediaserver (client web inclus)(nécessite un re-démarrage après installation)</fr>
    <he_IL>Plex Mediaserver (includes web client)(requires reboot after install)</he_IL>
@@ -53,6 +55,7 @@ Plex
    <sv>Plex Mediaserver (inkluderar webbklient)(kräver omstart efter installation)</sv>
    <tr>Plex Mediaserver (includes web client)(requires reboot after install)</tr>
    <uk>Plex Mediaserver (includes web client)(requires reboot after install)</uk>
+   <vi>Plex Mediaserver (includes web client)(requires reboot after install)</vi>
    <zh_CN>Plex Mediaserver (includes web client)(requires reboot after install)</zh_CN>
    <zh_TW>Plex Mediaserver (includes web client)(requires reboot after install)</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Czech_Libreoffice
    <am>Czech LibreOffice Language Meta-Package</am>
    <ar>Czech LibreOffice Language Meta-Package</ar>
    <bg>Czech LibreOffice Language Meta-Package</bg>
+   <bn>Czech LibreOffice Language Meta-Package</bn>
    <ca>Localització de LibreOffice en Txec</ca>
    <cs>Czech LibreOffice Language Meta-Package</cs>
    <da>Tjekkisk LibreOffice sprog-metapakke</da>
@@ -23,6 +24,7 @@ Czech_Libreoffice
    <et>Czech LibreOffice Language Meta-Package</et>
    <eu>Czech LibreOffice Language Meta-Package</eu>
    <fa>Czech LibreOffice Language Meta-Package</fa>
+   <fil_PH>Czech LibreOffice Language Meta-Package</fil_PH>
    <fi>Czech LibreOffice Language Meta-Package</fi>
    <fr>Méta-Paquet langue tchèque pour LibreOffice</fr>
    <he_IL>Czech LibreOffice Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Czech_Libreoffice
    <sv>Tjeckisk LibreOffice Språk Meta-Paket</sv>
    <tr>Czech LibreOffice Language Meta-Package</tr>
    <uk>Czech LibreOffice Language Meta-Package</uk>
+   <vi>Czech LibreOffice Language Meta-Package</vi>
    <zh_CN>Czech LibreOffice Language Meta-Package</zh_CN>
    <zh_TW>Czech LibreOffice Language Meta-Package</zh_TW>
 </description>

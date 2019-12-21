@@ -13,6 +13,7 @@ Icelandic_Thunderbird
    <am>Icelandic localisation of Thunderbird</am>
    <ar>Icelandic localisation of Thunderbird</ar>
    <bg>Icelandic localisation of Thunderbird</bg>
+   <bn>Icelandic localisation of Thunderbird</bn>
    <ca>Localització de Thunderbird en Islandès</ca>
    <cs>Icelandic localisation of Thunderbird</cs>
    <da>Islandsk oversættelse af Thunderbird</da>
@@ -23,6 +24,7 @@ Icelandic_Thunderbird
    <et>Icelandic localisation of Thunderbird</et>
    <eu>Icelandic localisation of Thunderbird</eu>
    <fa>Icelandic localisation of Thunderbird</fa>
+   <fil_PH>Icelandic localisation of Thunderbird</fil_PH>
    <fi>Icelandic localisation of Thunderbird</fi>
    <fr>Localisation islandaise pour Thunderbird</fr>
    <he_IL>Icelandic localisation of Thunderbird</he_IL>
@@ -51,8 +53,9 @@ Icelandic_Thunderbird
    <sq>Icelandic localisation of Thunderbird</sq>
    <sr>Icelandic localisation of Thunderbird</sr>
    <sv>Isländsk  lokalisering av Thunderbird </sv>
-   <tr>Icelandic localisation of Thunderbird</tr>
+   <tr>Thunderbird'ün İzlandaca yerelleştirmesi</tr>
    <uk>Icelandic локалізація Thunderbird</uk>
+   <vi>Icelandic localisation of Thunderbird</vi>
    <zh_CN>Icelandic localisation of Thunderbird</zh_CN>
    <zh_TW>Icelandic localisation of Thunderbird</zh_TW>
 </description>

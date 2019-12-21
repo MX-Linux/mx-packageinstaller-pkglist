@@ -13,25 +13,27 @@ Asturian_Libreoffice
    <am>Asturian Language Meta-Package for LibreOffice</am>
    <ar>Asturian Language Meta-Package for LibreOffice</ar>
    <bg>Asturian Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Asturian per LibreOffice</ca>
+   <bn>Asturian Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Asturià per LibreOffice</ca>
    <cs>Asturian Language Meta-Package for LibreOffice</cs>
-   <da>Asturian sprog-metapakke til LibreOffice</da>
-   <de>Asturian Meta-Paket für LibreOffice</de>
+   <da>Asturian Language Meta-Package for LibreOffice</da>
+   <de>Asturisches Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Asturian</el>
    <en>Asturian Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Asturian para LibreOffice</es>
+   <es>Meta-Paquete de lengua asturiana para LibreOffice</es>
    <et>Asturian Language Meta-Package for LibreOffice</et>
    <eu>Asturian Language Meta-Package for LibreOffice</eu>
    <fa>Asturian Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Asturian Language Meta-Package for LibreOffice</fil_PH>
    <fi>Asturian Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Asturian pour LibreOffice</fr>
+   <fr>Asturian Language Meta-Package for LibreOffice</fr>
    <he_IL>Asturian Language Meta-Package for LibreOffice</he_IL>
    <hi>Asturian Language Meta-Package for LibreOffice</hi>
    <hr>Asturian Language Meta-Package for LibreOffice</hr>
    <hu>Asturian Language Meta-Package for LibreOffice</hu>
    <id>Asturian Language Meta-Package for LibreOffice</id>
    <is>Asturian Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Asturian per LibreOffice</it>
+   <it>Meta-pacchetto della lingua asturiana per LibreOffice</it>
    <ja_JP>Asturian Language Meta-Package for LibreOffice</ja_JP>
    <ja>Asturian Language Meta-Package for LibreOffice</ja>
    <kk>Asturian Language Meta-Package for LibreOffice</kk>
@@ -40,19 +42,20 @@ Asturian_Libreoffice
    <mk>Asturian Language Meta-Package for LibreOffice</mk>
    <mr>Asturian Language Meta-Package for LibreOffice</mr>
    <nb>Asturian Language Meta-Package for LibreOffice</nb>
-   <nl>Asturian Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Asturian metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Asturian Meta-Pacote de Idioma para LibreOffice</pt_BR>
-   <pt>Asturian Meta-Pacote de Idioma para LibreOffice</pt>
+   <nl>Asturiaans Taal Meta-Pakket voor LibreOffice​</nl>
+   <pl>Asturian Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Asturian Language Meta-Package for LibreOffice</pt_BR>
+   <pt>Asturiano Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Asturian Language Meta-Package for LibreOffice</ro>
    <ru>Asturian Language Meta-Package for LibreOffice</ru>
    <sk>Asturian Language Meta-Package for LibreOffice</sk>
-   <sl>Asturian Language Meta-Package for LibreOffice</sl>
+   <sl>Asturijanski jezikovni meta-paket za LibreOffice</sl>
    <sq>Asturian Language Meta-Package for LibreOffice</sq>
    <sr>Asturian Language Meta-Package for LibreOffice</sr>
-   <sv>Asturian Språk Meta-Paket för LibreOffice</sv>
+   <sv>Asturiskt Språk Meta-Paket för LibreOffice</sv>
    <tr>Asturian Language Meta-Package for LibreOffice</tr>
    <uk>Asturian Language Meta-Package for LibreOffice</uk>
+   <vi>Asturian Language Meta-Package for LibreOffice</vi>
    <zh_CN>Asturian Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Asturian Language Meta-Package for LibreOffice</zh_TW>
 </description>

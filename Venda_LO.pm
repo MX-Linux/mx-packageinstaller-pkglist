@@ -13,25 +13,27 @@ Venda_Libreoffice
    <am>Venda Language Meta-Package for LibreOffice</am>
    <ar>Venda Language Meta-Package for LibreOffice</ar>
    <bg>Venda Language Meta-Package for LibreOffice</bg>
-   <ca>Meta-paquet d'Venda per LibreOffice</ca>
+   <bn>Venda Language Meta-Package for LibreOffice</bn>
+   <ca>Metapaquet d'idioma Venda per LibreOffice</ca>
    <cs>Venda Language Meta-Package for LibreOffice</cs>
-   <da>Venda sprog-metapakke til LibreOffice</da>
+   <da>Venda Language Meta-Package for LibreOffice</da>
    <de>Venda Meta-Paket für LibreOffice</de>
    <el>LibreOffice στα Venda</el>
    <en>Venda Language Meta-Package for LibreOffice</en>
-   <es>Meta-Paquete de Idioma Venda para LibreOffice</es>
+   <es>Meta-Paquete de idioma Venda para LibreOffice</es>
    <et>Venda Language Meta-Package for LibreOffice</et>
    <eu>Venda Language Meta-Package for LibreOffice</eu>
    <fa>Venda Language Meta-Package for LibreOffice</fa>
+   <fil_PH>Venda Language Meta-Package for LibreOffice</fil_PH>
    <fi>Venda Language Meta-Package for LibreOffice</fi>
-   <fr>Méta-paquet langue Venda pour LibreOffice</fr>
+   <fr>Venda Language Meta-Package for LibreOffice</fr>
    <he_IL>Venda Language Meta-Package for LibreOffice</he_IL>
    <hi>Venda Language Meta-Package for LibreOffice</hi>
    <hr>Venda Language Meta-Package for LibreOffice</hr>
    <hu>Venda Language Meta-Package for LibreOffice</hu>
    <id>Venda Language Meta-Package for LibreOffice</id>
    <is>Venda Language Meta-Package for LibreOffice</is>
-   <it>Meta-pacchetto della lingua Venda per LibreOffice</it>
+   <it>Venda Language Meta-Package for LibreOffice</it>
    <ja_JP>Venda Language Meta-Package for LibreOffice</ja_JP>
    <ja>Venda Language Meta-Package for LibreOffice</ja>
    <kk>Venda Language Meta-Package for LibreOffice</kk>
@@ -40,19 +42,20 @@ Venda_Libreoffice
    <mk>Venda Language Meta-Package for LibreOffice</mk>
    <mr>Venda Language Meta-Package for LibreOffice</mr>
    <nb>Venda Language Meta-Package for LibreOffice</nb>
-   <nl>Venda Taal Meta-Pakket voor LibreOffice</nl>
-   <pl>Venda metapakiet językowy dla LibreOffice</pl>
-   <pt_BR>Venda Meta-Pacote de Idioma para LibreOffice</pt_BR>
+   <nl>Venda Language Meta-Package for LibreOffice</nl>
+   <pl>Venda Language Meta-Package for LibreOffice</pl>
+   <pt_BR>Venda Language Meta-Package for LibreOffice</pt_BR>
    <pt>Venda Meta-Pacote de Idioma para LibreOffice</pt>
    <ro>Venda Language Meta-Package for LibreOffice</ro>
    <ru>Venda Language Meta-Package for LibreOffice</ru>
    <sk>Venda Language Meta-Package for LibreOffice</sk>
-   <sl>Venda Language Meta-Package for LibreOffice</sl>
+   <sl>Vendski jezikovni meta-paket za LibreOffice</sl>
    <sq>Venda Language Meta-Package for LibreOffice</sq>
    <sr>Venda Language Meta-Package for LibreOffice</sr>
    <sv>Venda Språk Meta-Paket för LibreOffice</sv>
    <tr>Venda Language Meta-Package for LibreOffice</tr>
    <uk>Venda Language Meta-Package for LibreOffice</uk>
+   <vi>Venda Language Meta-Package for LibreOffice</vi>
    <zh_CN>Venda Language Meta-Package for LibreOffice</zh_CN>
    <zh_TW>Venda Language Meta-Package for LibreOffice</zh_TW>
 </description>

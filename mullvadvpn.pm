@@ -13,6 +13,7 @@ Mullvad VPN
    <am>Mullvad VPN and sysVinit scripts</am>
    <ar>Mullvad VPN and sysVinit scripts</ar>
    <bg>Mullvad VPN and sysVinit scripts</bg>
+   <bn>Mullvad VPN and sysVinit scripts</bn>
    <ca>Scripts Mullvad VPN i sysVinit</ca>
    <cs>Mullvad VPN and sysVinit scripts</cs>
    <da>Mullvad VPN and sysVinit scripts</da>
@@ -23,6 +24,7 @@ Mullvad VPN
    <et>Mullvad VPN and sysVinit scripts</et>
    <eu>Mullvad VPN and sysVinit scripts</eu>
    <fa>Mullvad VPN and sysVinit scripts</fa>
+   <fil_PH>Mullvad VPN and sysVinit scripts</fil_PH>
    <fi>Mullvad VPN and sysVinit scripts</fi>
    <fr>Scripts pour Mullvad VPN et sysVinit</fr>
    <he_IL>Mullvad VPN and sysVinit scripts</he_IL>
@@ -53,6 +55,7 @@ Mullvad VPN
    <sv>Mullvad VPN och sysVinit skript</sv>
    <tr>Mullvad VPN and sysVinit scripts</tr>
    <uk>Mullvad VPN and sysVinit scripts</uk>
+   <vi>Mullvad VPN and sysVinit scripts</vi>
    <zh_CN>Mullvad VPN and sysVinit scripts</zh_CN>
    <zh_TW>Mullvad VPN and sysVinit scripts</zh_TW>
 </description>

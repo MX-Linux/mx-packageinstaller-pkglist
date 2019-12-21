@@ -13,6 +13,7 @@ Secondary
    <am>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</am>
    <ar>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</ar>
    <bg>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</bg>
+   <bn>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</bn>
    <ca>Secundària: inclou calibre, celestia, dia, laby, lightspeed, melting, ri-li i stellarium</ca>
    <cs>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</cs>
    <da>Videregående skole. Inkluderer: calibre, celestia, dia, laby, lightspeed,  melting, ri-li og stellarium</da>
@@ -23,6 +24,7 @@ Secondary
    <et>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</et>
    <eu>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</eu>
    <fa>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</fa>
+   <fil_PH>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</fil_PH>
    <fi>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</fi>
    <fr>Secondaire. Inclus: calibre, celestia, dia, laby, lightspeed, melting, ri-li et stellarium</fr>
    <he_IL>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</he_IL>
@@ -45,7 +47,7 @@ Secondary
    <pt_BR>Ensino fundamental (7º ao 9º ano). Inclui: calibre, celestia, dia, laby, lightspeed, melting, ri-li e stellarium</pt_BR>
    <pt>Ensino básico 3º ciclo. Inclui: calibre, celestia, dia, laby, lightspeed, melting, ri-li e stellarium</pt>
    <ro>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</ro>
-   <ru>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</ru>
+   <ru>Средняя школа, включает: calibre, celestia, dia, laby, lightspeed, melting, ri-li и stellarium</ru>
    <sk>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</sk>
    <sl>Srednja šola. Vsebuje: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</sl>
    <sq>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</sq>
@@ -53,6 +55,7 @@ Secondary
    <sv>Secondary. Inkluderar: calibre, celestia, dia, laby, lightspeed, melting, ri-li och stellarium</sv>
    <tr>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</tr>
    <uk>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</uk>
+   <vi>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</vi>
    <zh_CN>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</zh_CN>
    <zh_TW>Secondary. Includes: calibre, celestia, dia, laby, lightspeed, melting, ri-li and stellarium</zh_TW>
 </description>

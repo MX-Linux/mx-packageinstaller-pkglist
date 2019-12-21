@@ -13,6 +13,7 @@ Java
    <am>Java 8- installs openjdk-8</am>
    <ar>Java 8- installs openjdk-8</ar>
    <bg>Java 8- installs openjdk-8</bg>
+   <bn>Java 8- installs openjdk-8</bn>
    <ca>Java 8- instal·la openjdk-8</ca>
    <cs>Java 8- installs openjdk-8</cs>
    <da>Java 8- installs openjdk-8</da>
@@ -23,6 +24,7 @@ Java
    <et>Java 8- installs openjdk-8</et>
    <eu>Java 8- installs openjdk-8</eu>
    <fa>Java 8- installs openjdk-8</fa>
+   <fil_PH>Java 8- installs openjdk-8</fil_PH>
    <fi>Java 8- installs openjdk-8</fi>
    <fr>Java 8- installe openjdk-8</fr>
    <he_IL>Java 8- installs openjdk-8</he_IL>
@@ -53,6 +55,7 @@ Java
    <sv>Java 8- installerar openjdk-8</sv>
    <tr>Java 8- installs openjdk-8</tr>
    <uk>Java 8- installs openjdk-8</uk>
+   <vi>Java 8- installs openjdk-8</vi>
    <zh_CN>Java 8- installs openjdk-8</zh_CN>
    <zh_TW>Java 8- installs openjdk-8</zh_TW>
 </description>

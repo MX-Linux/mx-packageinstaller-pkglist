@@ -13,25 +13,27 @@ Brave
    <am>Latest Brave browser</am>
    <ar>Latest Brave browser</ar>
    <bg>Latest Brave browser</bg>
+   <bn>Latest Brave browser</bn>
    <ca>Darrer navegador Brave</ca>
    <cs>Latest Brave browser</cs>
-   <da>Seneste Brave-browser</da>
-   <de>Aktueller Brave-Browser</de>
-   <el>Τελευταίο πρόγραμμα περιήγησης Brave</el>
+   <da>Latest Brave browser</da>
+   <de>Brave Browser (neuste Version)</de>
+   <el>Latest Brave browser</el>
    <en>Latest Brave browser</en>
-   <es>El último navegador Brave</es>
+   <es>Latest Brave browser</es>
    <et>Latest Brave browser</et>
    <eu>Latest Brave browser</eu>
    <fa>Latest Brave browser</fa>
+   <fil_PH>Latest Brave browser</fil_PH>
    <fi>Latest Brave browser</fi>
-   <fr>La dernière version de Brave</fr>
+   <fr>Latest Brave browser</fr>
    <he_IL>Latest Brave browser</he_IL>
    <hi>Latest Brave browser</hi>
    <hr>Latest Brave browser</hr>
    <hu>Latest Brave browser</hu>
    <id>Latest Brave browser</id>
    <is>Latest Brave browser</is>
-   <it>Ultimo browser Brave</it>
+   <it>Latest Brave browser</it>
    <ja_JP>Latest Brave browser</ja_JP>
    <ja>Latest Brave browser</ja>
    <kk>Latest Brave browser</kk>
@@ -40,19 +42,20 @@ Brave
    <mk>Latest Brave browser</mk>
    <mr>Latest Brave browser</mr>
    <nb>Latest Brave browser</nb>
-   <nl>Meest recente Brave browser</nl>
-   <pl>najnowsza przeglądarka Brave</pl>
-   <pt_BR>Navegador Brave mais recente</pt_BR>
-   <pt>Navegador Brave mais recente</pt>
+   <nl>Latest Brave browser</nl>
+   <pl>Latest Brave browser</pl>
+   <pt_BR>Latest Brave browser</pt_BR>
+   <pt>Latest Brave browser</pt>
    <ro>Latest Brave browser</ro>
-   <ru>Браузер Brave последней версии</ru>
+   <ru>Latest Brave browser</ru>
    <sk>Latest Brave browser</sk>
-   <sl>Zadnja različica jezikovnega paketa</sl>
+   <sl>Latest Brave browser</sl>
    <sq>Latest Brave browser</sq>
    <sr>Latest Brave browser</sr>
-   <sv>Senaste Brave webbläsare</sv>
+   <sv>Latest Brave browser</sv>
    <tr>Latest Brave browser</tr>
-   <uk>Крайня версія браузера Brave</uk>
+   <uk>Latest Brave browser</uk>
+   <vi>Latest Brave browser</vi>
    <zh_CN>Latest Brave browser</zh_CN>
    <zh_TW>Latest Brave browser</zh_TW>
 </description>
@@ -65,19 +68,19 @@ Brave
 
 <preinstall>
 URL="https://brave-browser-apt-release.s3.brave.com"
-ASC="${URL}/brave-core.asc" 
-TKR="/etc/apt/trusted.gpg.d/brave-browser-release.gpg" 
+ASC="${URL}/brave-core.asc"
+TKR="/etc/apt/trusted.gpg.d/brave-browser-release.gpg"
 SRC="/etc/apt/sources.list.d/brave-browser-release.list"
 VER="$(sed -n  's/^VERSION_CODENAME=//p' /etc/os-release)"
 case $(cat /etc/debian_version) in
- 8*) VER=jessie   ;;
- 9*) VER=stretch  ;;
+8*) VER=jessie   ;;
+9*) VER=stretch  ;;
 10*) VER=buster   ;;
 11*) VER=bullseye ;;
 esac
- 
+
 DEB="deb [arch=amd64] ${URL}/ $VER main"
- 
+
 curl -s $ASC | ( apt-key --keyring $TKR add - 2>/dev/null )
 echo "$DEB" | tee $SRC
 apt-get update
@@ -106,7 +109,7 @@ brave-keyring
 
 apt-get -y remove --purge brave-browser brave-browser
 SRC=/etc/apt/sources.list.d/brave-browser-release.list
-TKR="/etc/apt/trusted.gpg.d/brave-browser-release.gpg" 
+TKR="/etc/apt/trusted.gpg.d/brave-browser-release.gpg"
 rm -f $SRC 2>/dev/null
 rm -f $TKR 2>/dev/null
 apt-get update

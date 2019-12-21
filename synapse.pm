@@ -13,6 +13,7 @@ Synapse
    <am>alternate semantic file launcher</am>
    <ar>alternate semantic file launcher</ar>
    <bg>alternate semantic file launcher</bg>
+   <bn>alternate semantic file launcher</bn>
    <ca>Llançadora de fitxers amb semàntica alternativa</ca>
    <cs>alternate semantic file launcher</cs>
    <da>alternativ skematisk filstarter</da>
@@ -23,6 +24,7 @@ Synapse
    <et>alternate semantic file launcher</et>
    <eu>alternate semantic file launcher</eu>
    <fa>alternate semantic file launcher</fa>
+   <fil_PH>alternate semantic file launcher</fil_PH>
    <fi>alternate semantic file launcher</fi>
    <fr>Lanceur sémantique d'application</fr>
    <he_IL>alternate semantic file launcher</he_IL>
@@ -53,6 +55,7 @@ Synapse
    <sv>alternativ semantisk filstartare</sv>
    <tr>alternate semantic file launcher</tr>
    <uk>alternate semantic file launcher</uk>
+   <vi>alternate semantic file launcher</vi>
    <zh_CN>alternate semantic file launcher</zh_CN>
    <zh_TW>alternate semantic file launcher</zh_TW>
 </description>

@@ -13,6 +13,7 @@ Palemoon
    <am>Palemoon from the mx repo</am>
    <ar>Palemoon from the mx repo</ar>
    <bg>Palemoon from the mx repo</bg>
+   <bn>Palemoon from the mx repo</bn>
    <ca>Palemoon del dipòsit de MX</ca>
    <cs>Palemoon from the mx repo</cs>
    <da>Palemoon mx-softwarekilden</da>
@@ -23,6 +24,7 @@ Palemoon
    <et>Palemoon from the mx repo</et>
    <eu>Palemoon from the mx repo</eu>
    <fa>Palemoon from the mx repo</fa>
+   <fil_PH>Palemoon from the mx repo</fil_PH>
    <fi>Palemoon from the mx repo</fi>
    <fr>Palemoon du dépôt MX</fr>
    <he_IL>Palemoon from the mx repo</he_IL>
@@ -53,6 +55,7 @@ Palemoon
    <sv>Palemoon från mx repo</sv>
    <tr>Palemoon from the mx repo</tr>
    <uk>Palemoon зі сховища mx</uk>
+   <vi>Palemoon from the mx repo</vi>
    <zh_CN>Palemoon from the mx repo</zh_CN>
    <zh_TW>Palemoon from the mx repo</zh_TW>
 </description>

@@ -13,6 +13,7 @@ xscreensaver
    <am>the classic screensaver for X servers</am>
    <ar>the classic screensaver for X servers</ar>
    <bg>the classic screensaver for X servers</bg>
+   <bn>the classic screensaver for X servers</bn>
    <ca>l'estalvi de pantalla clàssic per a servidors de X</ca>
    <cs>the classic screensaver for X servers</cs>
    <da>den klassiske pauseskærm til X-servere</da>
@@ -23,6 +24,7 @@ xscreensaver
    <et>the classic screensaver for X servers</et>
    <eu>the classic screensaver for X servers</eu>
    <fa>the classic screensaver for X servers</fa>
+   <fil_PH>the classic screensaver for X servers</fil_PH>
    <fi>the classic screensaver for X servers</fi>
    <fr>Écran de veille classique des serveurs X</fr>
    <he_IL>the classic screensaver for X servers</he_IL>
@@ -53,6 +55,7 @@ xscreensaver
    <sv>klassisk skärmsläckare för X server</sv>
    <tr>the classic screensaver for X servers</tr>
    <uk>the classic screensaver for X servers</uk>
+   <vi>the classic screensaver for X servers</vi>
    <zh_CN>the classic screensaver for X servers</zh_CN>
    <zh_TW>the classic screensaver for X servers</zh_TW>
 </description>

@@ -13,7 +13,8 @@ Debian-Backports 32 bit No PAE
    <am>Debian Backports Kernel (32 bit No PAE)</am>
    <ar>Debian Backports Kernel (32 bit No PAE)</ar>
    <bg>Debian Backports Kernel (32 bit No PAE)</bg>
-   <ca>Nucli de Debian Backports (32 bit sense PAE)</ca>
+   <bn>Debian Backports Kernel (32 bit No PAE)</bn>
+   <ca>Kernel de Debian Backports (32 bit sense PAE)</ca>
    <cs>Debian Backports Kernel (32 bit No PAE)</cs>
    <da>Debian backports kerne (32 bit uden PAE)</da>
    <de>Debian Backports Kernel (32 Bit ohne PAE)</de>
@@ -23,6 +24,7 @@ Debian-Backports 32 bit No PAE
    <et>Debian Backports Kernel (32 bit No PAE)</et>
    <eu>Debian Backports Kernel (32 bit No PAE)</eu>
    <fa>Debian Backports Kernel (32 bit No PAE)</fa>
+   <fil_PH>Debian Backports Kernel (32 bit No PAE)</fil_PH>
    <fi>Debian Backports Kernel (32 bit No PAE)</fi>
    <fr>Noyau Debian Backports (32 bit No PAE)</fr>
    <he_IL>Debian Backports Kernel (32 bit No PAE)</he_IL>
@@ -43,7 +45,7 @@ Debian-Backports 32 bit No PAE
    <nl>Debian Backports Kernel (32 bit Geen PAE)</nl>
    <pl>Debian Backports Kernel (32 bit No PAE)</pl>
    <pt_BR>Debian Backports Kernel (32 bit No PAE)</pt_BR>
-   <pt>Núcleo do Debian Backports (32 bit No PAE)</pt>
+   <pt>Núcleo (kernel) do Debian Backports (32 bit No PAE)</pt>
    <ro>Debian Backports Kernel (32 bit No PAE)</ro>
    <ru>Debian ядро Backports, 32 bit no-PAE</ru>
    <sk>Debian Backports Kernel (32 bit No PAE)</sk>
@@ -53,6 +55,7 @@ Debian-Backports 32 bit No PAE
    <sv>Debian Backports Kärna (32 bit No PAE)</sv>
    <tr>Debian Backports Kernel (32 bit No PAE)</tr>
    <uk>Debian Backports Kernel (32 bit No PAE)</uk>
+   <vi>Debian Backports Kernel (32 bit No PAE)</vi>
    <zh_CN>Debian Backports Kernel (32 bit No PAE)</zh_CN>
    <zh_TW>Debian Backports Kernel (32 bit No PAE)</zh_TW>
 </description>

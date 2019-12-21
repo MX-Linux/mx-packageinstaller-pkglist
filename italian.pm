@@ -13,6 +13,7 @@ Italian
    <am>Italian Language Meta-Package</am>
    <ar>Italian Language Meta-Package</ar>
    <bg>Italian Language Meta-Package</bg>
+   <bn>Italian Language Meta-Package</bn>
    <ca>Metapaquet de llenguatge italià</ca>
    <cs>Italian Language Meta-Package</cs>
    <da>Italiensk sprog-metapakke</da>
@@ -23,6 +24,7 @@ Italian
    <et>Italian Language Meta-Package</et>
    <eu>Italian Language Meta-Package</eu>
    <fa>Italian Language Meta-Package</fa>
+   <fil_PH>Italian Language Meta-Package</fil_PH>
    <fi>Italian Language Meta-Package</fi>
    <fr>Méta-paquet pour langue italienne</fr>
    <he_IL>Italian Language Meta-Package</he_IL>
@@ -53,6 +55,7 @@ Italian
    <sv>Italienskt Språk-Meta-Paket </sv>
    <tr>Italian Language Meta-Package</tr>
    <uk>Italian Language Meta-Package</uk>
+   <vi>Italian Language Meta-Package</vi>
    <zh_CN>Italian Language Meta-Package</zh_CN>
    <zh_TW>Italian Language Meta-Package</zh_TW>
 </description>

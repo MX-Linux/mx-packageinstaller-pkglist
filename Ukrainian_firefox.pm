@@ -13,6 +13,7 @@ Ukrainian_Firefox
    <am>Ukrainian localisation of Firefox</am>
    <ar>Ukrainian localisation of Firefox</ar>
    <bg>Ukrainian localisation of Firefox</bg>
+   <bn>Ukrainian localisation of Firefox</bn>
    <ca>Localització de Firefox en Ucrainès</ca>
    <cs>Ukrainian localisation of Firefox</cs>
    <da>Ukrainsk oversættelse af Firefox</da>
@@ -23,6 +24,7 @@ Ukrainian_Firefox
    <et>Ukrainian localisation of Firefox</et>
    <eu>Ukrainian localisation of Firefox</eu>
    <fa>Ukrainian localisation of Firefox</fa>
+   <fil_PH>Ukrainian localisation of Firefox</fil_PH>
    <fi>Ukrainian localisation of Firefox</fi>
    <fr>Localisation ukrainienne pour Firefox</fr>
    <he_IL>Ukrainian localisation of Firefox</he_IL>
@@ -51,8 +53,9 @@ Ukrainian_Firefox
    <sq>Ukrainian localisation of Firefox</sq>
    <sr>Ukrainian localisation of Firefox</sr>
    <sv>Ukrainsk lokalisering av Firefox</sv>
-   <tr>Ukrainian localisation of Firefox</tr>
+   <tr>Firefox'un Ukraynaca yerelleştirmesi</tr>
    <uk>Ukrainian localisation of Firefox</uk>
+   <vi>Ukrainian localisation of Firefox</vi>
    <zh_CN>Ukrainian localisation of Firefox</zh_CN>
    <zh_TW>Ukrainian localisation of Firefox</zh_TW>
 </description>

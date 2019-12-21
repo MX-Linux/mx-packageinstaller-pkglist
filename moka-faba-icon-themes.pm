@@ -13,6 +13,7 @@ Moka/Faba Icon Themes
    <am>a comprehensive icon set with a uniform flat "rounded square" look</am>
    <ar>a comprehensive icon set with a uniform flat "rounded square" look</ar>
    <bg>a comprehensive icon set with a uniform flat "rounded square" look</bg>
+   <bn>a comprehensive icon set with a uniform flat "rounded square" look</bn>
    <ca>joc d'icones extens amb un aspecte uniforme de "quadrat arrodonit"</ca>
    <cs>a comprehensive icon set with a uniform flat "rounded square" look</cs>
    <da>et omfattende ikonsæt med et ensartet fladt "afrundende firkanter"-look</da>
@@ -23,6 +24,7 @@ Moka/Faba Icon Themes
    <et>a comprehensive icon set with a uniform flat "rounded square" look</et>
    <eu>a comprehensive icon set with a uniform flat "rounded square" look</eu>
    <fa>a comprehensive icon set with a uniform flat "rounded square" look</fa>
+   <fil_PH>a comprehensive icon set with a uniform flat "rounded square" look</fil_PH>
    <fi>a comprehensive icon set with a uniform flat "rounded square" look</fi>
    <fr>Un jeu d'icônes clair à l'apparence uniforme flat "rounded square"</fr>
    <he_IL>a comprehensive icon set with a uniform flat "rounded square" look</he_IL>
@@ -53,6 +55,7 @@ Moka/Faba Icon Themes
    <sv>ett omfattande ikon-set med en uniform platt "rundad fyrkant" look</sv>
    <tr>a comprehensive icon set with a uniform flat "rounded square" look</tr>
    <uk>всебічний набір піктограм в пласкому стилі "округлий квадрат"</uk>
+   <vi>a comprehensive icon set with a uniform flat "rounded square" look</vi>
    <zh_CN>a comprehensive icon set with a uniform flat "rounded square" look</zh_CN>
    <zh_TW>a comprehensive icon set with a uniform flat "rounded square" look</zh_TW>
 </description>

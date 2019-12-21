@@ -13,6 +13,7 @@ Dictionary
    <am>OpenDict Dictionary</am>
    <ar>OpenDict Dictionary</ar>
    <bg>OpenDict Dictionary</bg>
+   <bn>OpenDict Dictionary</bn>
    <ca>Diccionari OpenDict</ca>
    <cs>OpenDict Dictionary</cs>
    <da>OpenDict-ordbog</da>
@@ -23,6 +24,7 @@ Dictionary
    <et>OpenDict Dictionary</et>
    <eu>OpenDict Dictionary</eu>
    <fa>OpenDict Dictionary</fa>
+   <fil_PH>OpenDict Dictionary</fil_PH>
    <fi>OpenDict Dictionary</fi>
    <fr>Dictionnaire OpenDict</fr>
    <he_IL>OpenDict Dictionary</he_IL>
@@ -51,8 +53,9 @@ Dictionary
    <sq>OpenDict Dictionary</sq>
    <sr>OpenDict Dictionary</sr>
    <sv>OpenDict Ordbok</sv>
-   <tr>OpenDict Dictionary</tr>
+   <tr>OpenDict Sözlük</tr>
    <uk>Словник OpenDict</uk>
+   <vi>OpenDict Dictionary</vi>
    <zh_CN>OpenDict Dictionary</zh_CN>
    <zh_TW>OpenDict Dictionary</zh_TW>
 </description>

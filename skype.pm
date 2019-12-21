@@ -13,6 +13,7 @@ Skype (64bit only)
    <am>Peer-to-peer video, voice, messaging</am>
    <ar>Peer-to-peer video, voice, messaging</ar>
    <bg>Peer-to-peer video, voice, messaging</bg>
+   <bn>Peer-to-peer video, voice, messaging</bn>
    <ca>Missatgeria peer-to-peer de vídeo i veu</ca>
    <cs>Peer-to-peer video, voice, messaging</cs>
    <da>Modpart-til-modpart video, stemme, samtale</da>
@@ -23,6 +24,7 @@ Skype (64bit only)
    <et>Peer-to-peer video, voice, messaging</et>
    <eu>Peer-to-peer video, voice, messaging</eu>
    <fa>Peer-to-peer video, voice, messaging</fa>
+   <fil_PH>Peer-to-peer video, voice, messaging</fil_PH>
    <fi>Peer-to-peer video, voice, messaging</fi>
    <fr>Messagerie vocale, vidéo, peer-to-peer</fr>
    <he_IL>Peer-to-peer video, voice, messaging</he_IL>
@@ -53,6 +55,7 @@ Skype (64bit only)
    <sv>Peer-to-peer video, röst, meddelandetjänst</sv>
    <tr>Peer-to-peer video, voice, messaging</tr>
    <uk>Peer-to-peer video, voice, messaging</uk>
+   <vi>Peer-to-peer video, voice, messaging</vi>
    <zh_CN>Peer-to-peer video, voice, messaging</zh_CN>
    <zh_TW>Peer-to-peer video, voice, messaging</zh_TW>
 </description>
