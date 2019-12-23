@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.12.03) mx; urgency=medium
+
+  * update mxfluxbox.pm
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 22 Dec 2019 19:05:29 -0500
+
 mx-packageinstaller-pkglist (19.12.02) mx; urgency=medium
 
   * add brave 
