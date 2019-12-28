@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (19.12.04) mx; urgency=medium
+
+  * add calibre-latest (downloads from cablibre) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 28 Dec 2019 18:54:34 -0500
+
 mx-packageinstaller-pkglist (19.12.03) mx; urgency=medium
 
   * update mxfluxbox.pm
