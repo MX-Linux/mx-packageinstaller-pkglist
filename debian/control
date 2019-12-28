@@ -36,3 +36,14 @@ Priority: optional
 Multi-Arch: foreign
 Description: libreoffice dummy helper package
  A helper package for MX Package Installer.
+ 
+Package: calibre-helper
+Architecture: all
+Maintainer: dummy <user@dev.null>
+Conflicts: calibre
+Provides: calibre-helper
+Section: misc
+Priority: optional
+Multi-Arch: foreign
+Description: calibre dummy helper package
+ A helper package for MX Package Installer.
