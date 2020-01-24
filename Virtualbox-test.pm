@@ -68,13 +68,13 @@ all
 <screenshot>https://screenshots.debian.net/screenshots/000/015/010/large.png</screenshot>
 
 <preinstall>
-
+echo "deb http://mxrepo.com/mx/testrepo/ buster test">/etc/apt/sources.list.d/mxpitemp.list
+apt-get update
+apt-get install -t a=mx,c=test virtualbox virtualbox-ext-pack virtualbox-guest-additions-iso
 </preinstall>
 
 <install_package_names>
-virtualbox
-virtualbox-ext-pack
-virtualbox-guest-additions-iso
+
 </install_package_names>
 
 
