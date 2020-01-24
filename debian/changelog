@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (20.01.02) mx; urgency=medium
+
+  * fix virtualbox-test so that test is disabled when done. 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 23 Jan 2020 22:47:06 -0500
+
 mx-packageinstaller-pkglist (20.01.01) mx; urgency=medium
 
   * add virtualbox-test

@@ -79,6 +79,8 @@ apt-get install -t a=mx,c=test virtualbox virtualbox-ext-pack virtualbox-guest-a
 
 
 <postinstall>
+rm -f /etc/apt/sources.list.d/mxpitemp.list
+apt-get update
 gpasswd -M $(getent group users | cut -d: -f4) vboxusers
 </postinstall>
 
