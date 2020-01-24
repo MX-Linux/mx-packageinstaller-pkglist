@@ -6,7 +6,7 @@ Kernels
 </category>
 
 <name>
-Debian 64 bit
+Debian 64 bit (4.19)
 </name>
 
 <description>
