@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (20.01.01) mx; urgency=medium
+
+  * add virtualbox-test
+  * add kernel master version to debian kernel entries 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 23 Jan 2020 20:49:55 -0500
+
 mx-packageinstaller-pkglist (19.12.04) mx; urgency=medium
 
   * add calibre-latest (downloads from cablibre) 
