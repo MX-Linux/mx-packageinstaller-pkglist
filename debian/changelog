@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (20.01.03) mx; urgency=medium
+
+  * add libreoffice-firefox-compat depend on lo-helper packages 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 28 Jan 2020 17:12:30 -0500
+
 mx-packageinstaller-pkglist (20.01.02) mx; urgency=medium
 
   * fix virtualbox-test so that test is disabled when done. 

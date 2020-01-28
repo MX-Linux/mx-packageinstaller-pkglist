@@ -18,6 +18,7 @@ Package: lo-backports-helper
 Architecture: all
 Maintainer: dummy <user@dev.null>
 Conflicts: lo-main-helper
+Depends:  libreoffice-firefox-compat
 Provides: lo-backports-helper
 Section: misc
 Priority: optional
@@ -30,6 +31,7 @@ Package: lo-main-helper
 Architecture: all
 Maintainer: dummy <user@dev.null>
 Conflicts: lo-backports-helper
+Depends: libreoffice-firefox-compat
 Provides: lo-main-helper
 Section: misc
 Priority: optional
