@@ -1,0 +1,5 @@
+calibre-helper_20.01.03_all.deb misc optional
+lo-backports-helper_20.01.03_all.deb misc optional
+lo-main-helper_20.01.03_all.deb misc optional
+mx-packageinstaller-pkglist_20.01.03_all.deb admin optional
+mx-packageinstaller-pkglist_20.01.03_amd64.buildinfo admin optional

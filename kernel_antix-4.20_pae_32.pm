@@ -67,7 +67,8 @@ antiX 5.2 32 bit pae
 <screenshot>none</screenshot>
 
 <preinstall>
-
+echo "deb http://la.mxrepo.com/antix/buster buster main">/etc/apt/sources.list.d/mxpitemp.list
+apt-get update
 </preinstall>
 
 <install_package_names>
@@ -77,6 +78,8 @@ linux-headers-5.2.21-antix.2-686-smp-pae
 
 
 <postinstall>
+rm /etc/apt/sources.list.d/mxpitemp.list
+apt-get update
 rebuild_dkms_packages.sh linux-image-5.2.21-antix.2-686-smp-pae
 </postinstall>
 
