@@ -62,7 +62,7 @@ VirtualBox
 </description>
 
 <installable>
-all
+64
 </installable>
 
 <screenshot>https://screenshots.debian.net/screenshots/000/015/010/large.png</screenshot>

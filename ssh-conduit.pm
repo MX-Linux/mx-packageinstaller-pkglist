@@ -67,7 +67,8 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-
+echo "deb http://la.mxrepo.com/antix/buster buster main">/etc/apt/sources.list.d/mxpitemp.list
+apt-get update
 </preinstall>
 
 <install_package_names>
@@ -76,7 +77,8 @@ ssh-conduit-antix
 
 
 <postinstall>
-
+rm /etc/apt/sources.list.d/mxpitemp.list
+apt-get update
 </postinstall>
 
 
