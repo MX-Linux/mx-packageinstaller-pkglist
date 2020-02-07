@@ -2,6 +2,7 @@ mx-packageinstaller-pkglist (20.02.01) mx; urgency=medium
 
   * update antiX kernel entries
   * update antiX 1-to-1 entries 
+  * update ssh-conduit-antix entry
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 05 Feb 2020 18:55:07 -0500
 
