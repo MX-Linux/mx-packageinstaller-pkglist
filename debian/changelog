@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (20.02.02) mx; urgency=medium
+
+  * 32 bit virtualbox entry
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 10 Feb 2020 18:33:21 -0500
+
 mx-packageinstaller-pkglist (20.02.01) mx; urgency=medium
 
   * update antiX kernel entries
