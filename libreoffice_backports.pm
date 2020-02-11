@@ -69,12 +69,12 @@ all
 
 <preinstall>
 
-lo-installer.sh --backports --reinstall
+lo-installer.sh --backports --reinstall --extra libreoffice-base lo-backports-helper
 
 </preinstall>
 
 <install_package_names>
-lo-backports-helper
+
 </install_package_names>
 
 
@@ -90,7 +90,6 @@ libreoffice-draw
 libreoffice-impress
 libreoffice-math
 libreoffice-writer
-uno-libs3
 ure
 lo-backports-helper
 </uninstall_package_names>

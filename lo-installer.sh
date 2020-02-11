@@ -4,6 +4,7 @@
 # to install a set of default libreoffice packages
 # from default debian repo or up-/downgrade to/from debian backports
 #  vers 2019-10-16.2
+#  vers 2020-02-10.1
 
 this="${0##*/}"
 
@@ -11,18 +12,27 @@ this="${0##*/}"
 IFS='=' read _ distro < <( grep '^VERSION_CODENAME=' /etc/os-release)
 
 # dpl - default package list
-dpl="
-     libreoffice-base    libreoffice-calc libreoffice-draw
+#      libreoffice-base    
+dpl="libreoffice-common
+     libreoffice-calc libreoffice-draw
      libreoffice-impress libreoffice-math libreoffice-writer
      libreoffice-gnome   libreoffice-gtk3
      "
 # dll - default 'lib' list
-dll="fonts-opensymbol uno-libs3 ure"
+#dll="fonts-opensymbol uno-libs3 ure"
+dll="fonts-opensymbol ure"
+
+# lo-help lo-l10n
+
+LOHELP=$(dpkg-query --list 'libreoffice-help-*' | grep ^i| cut -d " " -f3)
+LOL10N=$(dpkg-query --list 'libreoffice-l10n-*' | grep ^i| cut -d " " -f3)
+
 
 usage () {
   echo  "Usage: $this [-b | -d | -h | -r  | -x ]  libreoffice-packges...
   -b, --backports    force backports install 
   -d, --distro       force distribution install - downgrade from backports
+  -m, --main         same as --distro 
   -h, --help         show help info
   -r, --reinstall    reinstall packages
   -x, --extra        install extra libreoffice-packages in addition to default package list
@@ -76,10 +86,11 @@ main() {
    case "$(pkg_distro_target)" in
       *-backports)  
         echo install_backports $p_list $dll
-        install_backports $p_list $dll
+        install_backports $p_list $dll $LOHELP $LOL10N || exit 1
+
         ;;
       *)  echo install_${distro}  $p_list $dll
-        install_distro  $p_list $dll
+        install_distro  $p_list $dll $LOHELP $LOL10N || exit 1
         ;;
    esac
 }
@@ -98,15 +109,16 @@ check_cli() {
    while [ ${#} -gt 0 ]; do
       case "$1" in
          -d|--distro    ) force="${distro}";;
+         -m|--main      ) force="${distro}";;
          -b|--backports ) force="${distro}-backports";;
          -h|--help      ) help;;
          -r|--reinstall ) reinstall="--reinstall";;
          -x|--extra     ) extra="true";;
-         -[dbhrx]?*     ) i="$1"; shift;  set -- $(echo "$i" |sed 's/^-//; s/./ -&/g') "$@";continue;;
+         -[dmbhrx]?*    ) i="$1"; shift;  set -- $(echo "$i" |sed 's/^-//; s/./ -&/g') "$@";continue;;
          libreoffice*   ) pl+="$1 ";; 
          -\?            ) usage;; 
          -*             ) croak "Unsupportert option: '$1'"; usage;;
-         *              ) fatal "Supported packagename pattern 'libreoffice*' - failed: $1";;
+         *              ) [ "x$extra" = "xtrue" ] && pl+="$1 " || fatal "Supported packagename pattern 'libreoffice*' - failed: $1";;
       esac
       shift
    done
@@ -203,7 +215,9 @@ install_backports() {
    printf  'Package: *\nPin: release n=buster-backports\nPin-Priority: 1001\n' > ${tmp_preferences}
    cfg_pref="-o Dir::Etc::preferences=${tmp_preferences}";
    apt-get -o=Dpkg::Use-Pty=0 ${cfg_source} ${cfg_pref}  install ${pkg_list} ${reinstall}
+   APT_RET="$?"
    rm ${tmp_source_list} ${tmp_preferences} 2>/dev/null
+   return $APT_RET
 }
     
 install_distro() {
@@ -214,7 +228,9 @@ install_distro() {
    printf  'Package: *\nPin: release n=buster\nPin-Priority: 1001\n' > ${tmp_preferences}
    cfg_pref="-o Dir::Etc::preferences=${tmp_preferences}";
    apt-get -o=Dpkg::Use-Pty=0 ${cfg_pref} install ${pkg_list} ${reinstall}
+   APT_RET="$?"
    rm ${tmp_preferences} 2>/dev/null
+   return $APT_RET
 }
 
 # 
