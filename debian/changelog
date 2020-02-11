@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (20.02.03) mx; urgency=medium
+
+  * update libreoffice entires (fehlix) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 10 Feb 2020 20:26:53 -0500
+
 mx-packageinstaller-pkglist (20.02.02) mx; urgency=medium
 
   * remove 32 bit virtualbox entry

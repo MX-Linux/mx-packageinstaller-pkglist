@@ -60,7 +60,6 @@ LibreOffice
    <zh_TW>Meta-Package for LibreOffice</zh_TW>
 </description>
 
-
 <installable>
 all
 </installable>
@@ -69,19 +68,21 @@ all
 
 <preinstall>
 
-lo-installer.sh --distro --reinstall
+lo-installer.sh --main --reinstall --extra libreoffice-style-colibre lo-main-helper
+if [ "$?" = "0" ]; then
+   apt-get --yes  -o=Dpkg::Use-Pty=0 install --reinstall libreoffice-base
+fi
 
 </preinstall>
 
 <install_package_names>
-lo-main-helper
+
 </install_package_names>
 
 
 <postinstall>
 
 </postinstall>
-
 
 <uninstall_package_names>
 libreoffice-base
@@ -90,7 +91,6 @@ libreoffice-draw
 libreoffice-impress
 libreoffice-math
 libreoffice-writer
-uno-libs3
 ure
 lo-main-helper
 </uninstall_package_names>
