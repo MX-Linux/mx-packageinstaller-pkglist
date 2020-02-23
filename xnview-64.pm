@@ -78,6 +78,8 @@ xnview
 
 
 <postinstall>
+CMD='QT_PLATFORMTHEME=${QT_PLATFORMTHEME/gtk2/fusion} QT_PLATFORM_PLUGIN=${QT_PLATFORMTHEME/gtk2/fusion} QT_QPA_PLATFORMTHEME=${QT_QPA_PLATFORMTHEME/gtk2/fusion} exec xnview "$@"'
+sed -i "s%^Exec=xnview%Exec=bash -c '$CMD' _ %" /usr/share/applications/XnView.desktop 
 
 </postinstall>
 
