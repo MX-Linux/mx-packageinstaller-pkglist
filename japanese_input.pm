@@ -74,7 +74,6 @@ all
 im-config
 ibus-anthy
 ibus-mozc
-ibus-qt4
 ibus-gtk3
 ibus-gtk
 python-appindicator
@@ -92,7 +91,6 @@ manpages-ja
 im-config
 ibus-anthy
 ibus-mozc
-ibus-qt4
 ibus-gtk3
 ibus-gtk
 python-appindicator
