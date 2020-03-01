@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (20.03.01) mx; urgency=medium
+
+  * remove ibus-qt4 from depends on japanese-ibus 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 01 Mar 2020 09:23:24 -0500
+
 mx-packageinstaller-pkglist (20.02.04) mx; urgency=medium
 
   * new xnview-64
