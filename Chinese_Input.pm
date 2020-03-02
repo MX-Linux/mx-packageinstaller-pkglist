@@ -74,9 +74,7 @@ all
 fonts-arphic-uming
 im-config
 ibus-pinyin
-ibus-qt4
 ibus-gtk3
-python-appindicator
 manpages-zh
 </install_package_names>
 
@@ -90,9 +88,7 @@ manpages-zh
 fonts-arphic-uming
 im-config
 ibus-pinyin
-ibus-qt4
 ibus-gtk3
-python-appindicator
 manpages-zh
 </uninstall_package_names>
 </app>
