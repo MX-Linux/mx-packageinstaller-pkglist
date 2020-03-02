@@ -76,7 +76,6 @@ ibus-anthy
 ibus-mozc
 ibus-gtk3
 ibus-gtk
-python-appindicator
 fonts-vlgothic
 manpages-ja
 </install_package_names>
@@ -93,7 +92,6 @@ ibus-anthy
 ibus-mozc
 ibus-gtk3
 ibus-gtk
-python-appindicator
 fonts-vlgothic
 manpages-ja
 </uninstall_package_names>

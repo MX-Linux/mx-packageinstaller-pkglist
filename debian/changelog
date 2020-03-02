@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (20.03.02) mx; urgency=medium
+
+  * futher correction of japanese-ibus
+  * also chinese-ibus
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 01 Mar 2020 20:55:24 -0500
+
 mx-packageinstaller-pkglist (20.03.01) mx; urgency=medium
 
   * remove ibus-qt4 from depends on japanese-ibus 
