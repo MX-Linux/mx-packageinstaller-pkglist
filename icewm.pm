@@ -73,7 +73,6 @@ all
 <install_package_names>
 icewm
 icewm-common
-icewm-themes-antix
 </install_package_names>
 
 
@@ -85,6 +84,5 @@ icewm-themes-antix
 <uninstall_package_names>
 icewm
 icewm-common
-icewm-themes-antix
 </uninstall_package_names>
 </app>
