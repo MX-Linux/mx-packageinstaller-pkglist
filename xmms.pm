@@ -67,7 +67,8 @@ all
 <screenshot>http://www.xmms.org/screenshots/main.gif</screenshot>
 
 <preinstall>
-
+echo "deb http://la.mxrepo.com/antix/buster buster main">/etc/apt/sources.list.d/mxpitemp.list
+apt-get update
 </preinstall>
 
 <install_package_names>
@@ -77,7 +78,8 @@ xmms-plugins-antix
 
 
 <postinstall>
-
+rm /etc/apt/sources.list.d/mxpitemp.list
+apt-get update
 </postinstall>
 
 
