@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (20.03.05) mx; urgency=medium
+
+  * add vscode
+  * update lo-help-indonesia and chinese_fonts 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 21 Mar 2020 11:28:13 -0400
+
 mx-packageinstaller-pkglist (20.03.04) mx; urgency=medium
 
   * update xmms to pull from antix repo 
