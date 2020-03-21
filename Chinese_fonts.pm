@@ -72,7 +72,7 @@ all
 
 <install_package_names>
 xfonts-wqy
-ttf-freefont
+fonts-freefont-ttf
 ttf-wqy-zenhei
 </install_package_names>
 
@@ -84,7 +84,7 @@ ttf-wqy-zenhei
 
 <uninstall_package_names>
 xfonts-wqy
-ttf-freefont
+fonts-freefont-ttf
 ttf-wqy-zenhei
 </uninstall_package_names>
 </app>

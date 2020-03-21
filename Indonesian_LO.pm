@@ -71,7 +71,6 @@ all
 
 package_list="
 libreoffice-l10n-id
-libreoffice-help-id
 "
 lo-installer.sh $package_list
 
@@ -89,6 +88,5 @@ lo-installer.sh $package_list
 
 <uninstall_package_names>
 libreoffice-l10n-id
-libreoffice-help-id
 </uninstall_package_names>
 </app>
