@@ -64,7 +64,7 @@ Zoom
 32
 </installable>
 
-<screenshot>https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.zoom.us%2Fimages%2Fen-us%2Fdesktop%2Fgeneric%2Fgallery-view-recording-notification.png&imgrefurl=https%3A%2F%2Fsupport.zoom.us%2Fhc%2Fen-us%2Farticles%2F360000486746-Recording-Notifications&tbnid=bqaT3DAISLqEyM&vet=12ahUKEwj0sJKOxL7oAhVIWKwKHX0SDWMQMygDegUIARDuAQ..i&docid=WFCvwZ6UFy5_KM&w=640&h=400&q=zoom%20client%20screenshot&client=firefox-b-1-d&ved=2ahUKEwj0sJKOxL7oAhVIWKwKHX0SDWMQMygDegUIARDuAQ</screenshot>
+<screenshot>none</screenshot>
 
 <preinstall>
 curl -RL https://zoom.us/client/latest/zoom_i386.deb -o /tmp/zoom.deb
