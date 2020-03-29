@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (20.03.06) mx; urgency=medium
+
+  * update masted-pdf-editor (fehlix) 
+  * add zoom to messaging
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 28 Mar 2020 21:30:46 -0400
+
 mx-packageinstaller-pkglist (20.03.05) mx; urgency=medium
 
   * add vscode
