@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (20.03.08) mx; urgency=medium
+
+  * update control file
+  * update lo-backports (fehlix) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 30 Mar 2020 22:43:45 -0400
+
 mx-packageinstaller-pkglist (20.03.07) mx; urgency=medium
 
   * update zoom to remove screenshots 

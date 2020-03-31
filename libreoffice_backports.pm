@@ -69,6 +69,8 @@ all
 
 <preinstall>
 
+apt-get --yes  -o=Dpkg::Use-Pty=0 remove libreoffice-base
+
 lo-installer.sh --backports --reinstall --extra libreoffice-base lo-backports-helper
 
 </preinstall>
