@@ -83,4 +83,11 @@ winehq-staging
 <uninstall_package_names>
 winehq-staging
 </uninstall_package_names>
+
+<postuninstall>
+apt-get remove wine-*
+</postuninstall>
+
+</app>
+
 </app>
