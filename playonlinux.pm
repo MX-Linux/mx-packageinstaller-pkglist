@@ -72,6 +72,7 @@ all
 
 <install_package_names>
 wine-staging
+winehq-staging
 wine-staging-compat
 playonlinux
 </install_package_names>
@@ -83,8 +84,6 @@ playonlinux
 
 
 <uninstall_package_names>
-wine-staging
-wine-staging-compat
 playonlinux
 </uninstall_package_names>
 </app>

@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (20.04.03) mx; urgency=medium
+
+  * revise wine packages in playonlinux 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 20 Apr 2020 20:02:41 -0400
+
 mx-packageinstaller-pkglist (20.04.02) mx; urgency=medium
 
   * remove more wine 
