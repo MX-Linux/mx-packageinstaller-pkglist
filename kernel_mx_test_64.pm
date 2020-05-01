@@ -72,21 +72,21 @@ apt-get update
 </preinstall>
 
 <install_package_names>
-linux-image-5.4.0-3-amd64-unsigned
-linux-headers-5.4.0-3-amd64
+linux-image-5.4.0-4-amd64-unsigned
+linux-headers-5.4.0-4-amd64
 broadcom-sta-dkms
 </install_package_names>
 
 
 <postinstall>
 rm -f /etc/apt/sources.list.d/mxpitemp.list
-rebuild_dkms_packages.sh linux-image-5.4.0-3-amd64-unsigned
+rebuild_dkms_packages.sh linux-image-5.4.0-4-amd64-unsigned
 apt-get update
 </postinstall>
 
 
 <uninstall_package_names>
-linux-image-5.4.0-3-amd64-unsigned
-linux-headers-5.4.0-3-amd64
+linux-image-5.4.0-4-amd64-unsigned
+linux-headers-5.4.0-4-amd64
 </uninstall_package_names>
 </app>
