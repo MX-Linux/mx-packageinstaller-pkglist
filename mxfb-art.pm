@@ -6,7 +6,7 @@ Wallpapers
 </category>
 
 <name>
-MX flubox Wallpapers
+MX Fluxbox Wallpapers
 </name>
 
 <description>
