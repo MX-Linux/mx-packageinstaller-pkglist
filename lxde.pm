@@ -95,5 +95,6 @@ lxlauncher
 lxtask
 lxmusic
 lxpanel
+lxpolkit
 </uninstall_package_names>
 </app>

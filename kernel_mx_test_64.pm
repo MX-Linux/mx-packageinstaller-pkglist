@@ -69,12 +69,12 @@ Debian 5.4 64 bit (mx test)
 <preinstall>
 echo "deb http://mxrepo.com/mx/testrepo/ buster test">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
+apt-get install -t a=mx,c=test linux-image-5.4.0-4-amd64-unsigned linux-headers-5.4.0-4-amd64 broadcom-sta-dkms
 </preinstall>
 
 <install_package_names>
-linux-image-5.4.0-4-amd64-unsigned
+linux-image-5.4.0-4-amd64-unsigned 
 linux-headers-5.4.0-4-amd64
-broadcom-sta-dkms
 </install_package_names>
 
 
