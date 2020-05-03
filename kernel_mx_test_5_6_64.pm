@@ -69,12 +69,12 @@ Kernels
 <preinstall>
 echo "deb http://mxrepo.com/mx/testrepo/ buster test">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
+apt-get install -t a=mx,c=test linux-image-5.6.0-trunk-amd64-unsigned linux-headers-5.6.0-trunk-amd64 broadcom-sta-dkms
 </preinstall>
 
 <install_package_names>
 linux-image-5.6.0-trunk-amd64-unsigned
 linux-headers-5.6.0-trunk-amd64
-broadcom-sta-dkms
 </install_package_names>
 
 

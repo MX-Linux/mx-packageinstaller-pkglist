@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (20.05.01) mx; urgency=medium
+
+  * update test kernels
+  * update lxde to include lxpolkit 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 03 May 2020 12:27:23 -0400
+
 mx-packageinstaller-pkglist (20.04.04) mx; urgency=medium
 
   * revise kernels 
