@@ -72,9 +72,18 @@ all
 
 <install_package_names>
 lxde
-lxtask
+lxappearance-obconf
+lxsession-edit
+lxterminal
+lxde-core
+lxde-icon-theme
+lxinput
 lxlauncher
+lxtask
 lxmusic
+lxpanel
+lxpolkit
+obconf
 </install_package_names>
 
 
