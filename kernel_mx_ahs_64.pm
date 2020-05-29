@@ -6,7 +6,7 @@ Kernels
 </category>
 
 <name>
-Debian 5.6 64 bit (mx test)
+Debian 5.6 64 bit (ahs)
 </name>
 
 <description>
