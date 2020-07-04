@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (20.07.01) mx; urgency=medium
+
+  * add kdiff3 and kompare
+  * update deadbeef 
+
+ -- Dolphin Oracle <dolphin@littlebyte>  Sat, 04 Jul 2020 11:28:58 -0400
+
 mx-packageinstaller-pkglist (20.05.05) mx; urgency=medium
 
   * add ahs kernel 
