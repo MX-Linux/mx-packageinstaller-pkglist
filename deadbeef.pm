@@ -72,7 +72,6 @@ all
 
 <install_package_names>
 deadbeef
-deadbeef-gtk3
 </install_package_names>
 
 
@@ -83,6 +82,5 @@ deadbeef-gtk3
 
 <uninstall_package_names>
 deadbeef
-deadbeef-gtk3
 </uninstall_package_names>
 </app>
