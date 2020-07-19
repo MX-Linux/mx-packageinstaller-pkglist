@@ -67,7 +67,12 @@ all
 <screenshot>https://code-industry.net/wp-content/uploads/2016/05/pdfa-edit.png</screenshot>
 
 <preinstall>
-curl -RL $(curl -s https://code-industry.net/free-pdf-editor/ | grep -Eo https://[^[:space:]]*$(dpkg --print-architecture).deb | tail -1) -o /tmp/master_pdf.deb
+ARCH=$(dpkg --print-architecture)
+if [ "$ARCH" = "amd64" ]; then
+	ARCH="x86_64"
+fi
+
+curl -RL $(curl -s curl -s https://code-industry.net/free-pdf-editor/ |grep qt5.$ARCH.deb |cut -d"\"" -f2) -o /tmp/master_pdf.deb
 apt install /tmp/master_pdf.deb
 rm /tmp/master_pdf.deb
 </preinstall>
