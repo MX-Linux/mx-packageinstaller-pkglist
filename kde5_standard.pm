@@ -74,6 +74,11 @@ apt-get install --install-recommends kde-standard
 <install_package_names>
 kde-standard
 kde-plasma-desktop
+plasma-modified-defaults-mx
+desktop-defaults-mx-kde
+muon-modified-launcher
+partitionmanager-modified-launcher
+plasma-look-and-feel-theme-mx
 </install_package_names>
 
 <postinstall>
