@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (20.07.04) mx; urgency=medium
+
+  * revised KDE installation
+
+ -- Dolphin Oracle <dolphin@littlebyte>  Sun, 02 Aug 2020 14:48:12 -0400
+
 mx-packageinstaller-pkglist (20.07.03) mx; urgency=medium
 
   * revised 64 bit kernel entries 
