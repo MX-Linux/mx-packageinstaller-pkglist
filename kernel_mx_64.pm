@@ -67,7 +67,8 @@ Debian 5.6.14 64 bit
 <screenshot>none</screenshot>
 
 <preinstall>
-
+echo "deb http://mxrepo.com/mx/repo/ buster ahs">/etc/apt/sources.list.d/mxpitemp.list
+apt-get update 
 </preinstall>
 
 <install_package_names>
@@ -77,7 +78,9 @@ linux-headers-5.6.0-2-amd64
 
 
 <postinstall>
+rm -f /etc/apt/sources.list.d/mxpitemp.list
 rebuild_dkms_packages.sh linux-image-5.6.0-2-amd64-unsigned
+apt-get update
 </postinstall>
 
 
