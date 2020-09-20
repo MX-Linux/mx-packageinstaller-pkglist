@@ -72,6 +72,14 @@ fluxbox
 idesk
 mx-fluxbox
 gkrellm
+mxfb-docs 
+mx-fluxbox-about 
+mx-fluxbox-data 
+faba-icon-theme 
+moka-icon-theme 
+wmalauncher 
+lxappearance 
+rofi-calc
 </install_package_names>
 
 
@@ -85,5 +93,13 @@ fluxbox
 idesk
 mx-fluxbox
 gkrellm
+mxfb-docs 
+mx-fluxbox-about 
+mx-fluxbox-data 
+faba-icon-theme 
+moka-icon-theme 
+wmalauncher 
+lxappearance 
+rofi-calc
 </uninstall_package_names>
 </app>

@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (20.09.01) mx; urgency=medium
+
+  * revise liquorix kernel entries
+  * revise mx-fluxbox entry
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 20 Sep 2020 09:32:19 -0400
+
 mx-packageinstaller-pkglist (20.08.02) mx; urgency=medium
 
   * fix kernel entry 

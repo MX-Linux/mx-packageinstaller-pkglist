@@ -74,8 +74,6 @@ apt-get update
 <install_package_names>
 linux-image-liquorix-686
 linux-headers-liquorix-686
-broadcom-sta-dkms
-ndiswrapper-dkms
 </install_package_names>
 
 
