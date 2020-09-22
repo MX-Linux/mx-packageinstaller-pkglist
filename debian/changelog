@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (20.09.02) mx; urgency=medium
+
+  * fix calibre (latest) uninstaller to work with MXPI
+  * make wine-config show up after installing wine
+
+ -- fehlix <fehlix@mxlinux.org>  Sun, 20 Sep 2020 14:07:16 -0400
+
 mx-packageinstaller-pkglist (20.09.01) mx; urgency=medium
 
   * revise liquorix kernel entries

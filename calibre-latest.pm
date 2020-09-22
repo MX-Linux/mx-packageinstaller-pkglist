@@ -81,6 +81,13 @@ INS=$TMP/linux-installer.sh
 curl -o $INS -RLJ  https://download.calibre-ebook.com/linux-installer.sh
 chmod +x $INS
 $INS
+echo "Fixing calibre-uninstaller to work with MXPI..."
+# fix calibre uninstaller to work with MXPI
+# by "removing" raw_input on /dev/tty to disable blocking keyboard
+if [ -x /usr/bin/calibre-uninstall ]; then
+    sed -i -r  -e "\:^sys.stdin = open[(]'/dev/tty'[)].*:s:^:#:" \
+               -e "s/raw_input[(][^)]+[)]/'y'/" /usr/bin/calibre-uninstall
+fi
 echo "DONE!"
 </postinstall>
 
