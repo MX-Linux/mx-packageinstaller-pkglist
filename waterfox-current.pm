@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <app>
 
 <category>
@@ -6,7 +6,7 @@ Browser
 </category>
 
 <name>
-Waterfox
+Waterfox Current
 </name>
 
 <description>
@@ -70,18 +70,88 @@ Waterfox
 </preinstall>
 
 <install_package_names>
-waterfox-classic-kpe
+waterfox-current-kpe
 </install_package_names>
 
-
 <postinstall>
-if [ "$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)" != "en" ]; then
-apt-get install waterfox-classic-i18n-$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)
+
+if ! dpkg-query -f '${db:Status-Abbrev}' -W  waterfox-current-kpe 2>/dev/null | grep -sq '^i'; then
+   echo DONE!
+   exit
 fi
+
+# add xfce helper preferred applcations
+HELPER='[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Icon=waterfox-current
+Name=Waterfox Current
+NoDisplay=true
+StartupNotify=false
+Terminal=false
+Type=X-XFCE-Helper
+X-XFCE-Binaries=waterfox-current;
+X-XFCE-Category=WebBrowser
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B "%s";
+'
+if [ -d /usr/share/xfce4/helpers ]; then
+   echo "$HELPER" > /usr/share/xfce4/helpers/waterfox-current.desktop
+fi
+
+PKGS=()
+# KDE Plasma intergration
+if pgrep -x plasmashell >/dev/null; then
+   PKGS+=(waterfox-current-kde)
+fi
+
+# deal with locales
+
+lang=${LANG,,} ; lang=${lang%%.*} ; lang=${lang//_/-};
+lc_all=${LC_ALL,,}; lc_all=${LC_ALL%%.*} ; lc_all=${lc_all//_/-};
+language="${LANGUAGE//:/ }";
+
+langlocale=( $( printf '%s\n' ${language} ${lang}  ${lc_all} | sort -ru) );
+
+if [ "${lanlocale[*]}" = "en-us" ]; then
+   : do nothing en-us is preinstalled
+else
+    echo "Checking available language packs..."
+    # lookup all available lang-packs
+    I18N=( $(LANG=C apt-cache policy  'waterfox-current-i18n-*' | \
+            sed -nr '/waterfox-current-i18n-([^:]+):/s//\1/p' ) )
+
+    # check available language packs
+    for lang in "${langlocale[@]}"; do
+    lang2="${lang%%-*}" # 2letter lang code ll-ll;
+
+    if printf '%s\n' "${I18N[@]}" | grep -sq "$lang"; then
+       PKGS+=(waterfox-current-i18n-$lang)
+    elif printf '%s\n' "${I18N[@]}" | grep -v -- - | grep -sq "$lang2"; then
+       PKGS+=(waterfox-current-i18n-$lang2)
+    elif printf '%s\n' "${I18N[@]}" | grep -sq "${lang2}-${lang2}"; then
+       PKGS+=(waterfox-current-i18n-${lang2}-${lang2})
+    else
+       echo "No language packs found"
+    fi
+    done
+fi
+###############
+PKGS=( $( printf '%s\n' ${PKGS[@]} | sort -ru)  )
+if [ "${#PKGS[@]}" -gt 0 ]; then
+    apt-get --yes  -o=Dpkg::Use-Pty=0 install --reinstall "${PKGS[@]}"
+fi
+echo Done!
+
 </postinstall>
 
-
 <uninstall_package_names>
-waterfox-classic-kpe
+waterfox-current-kpe
 </uninstall_package_names>
+
+<postuninstall>
+if [ -f /usr/share/xfce4/helpers/waterfox-current.desktop ]; then
+   rm   /usr/share/xfce4/helpers/waterfox-current.desktop
+fi
+</postuninstall>
 </app>
