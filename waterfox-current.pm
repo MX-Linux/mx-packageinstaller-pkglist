@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <app>
 
 <category>
@@ -6,7 +6,7 @@ Browser
 </category>
 
 <name>
-Waterfox
+Waterfox Current
 </name>
 
 <description>
@@ -70,18 +70,79 @@ Waterfox
 </preinstall>
 
 <install_package_names>
-waterfox-classic-kpe
+waterfox-current-kpe
 </install_package_names>
 
 
 <postinstall>
-if [ "$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)" != "en" ]; then
-apt-get install waterfox-classic-i18n-$(locale |grep LANG|cut -d= -f2 |cut -d_ -f1)
+
+# KDE Plasma intergration
+if pgrep -x plasmashell >/dev/null; then
+   PKGKDE="waterfox-classic-kde"
+else
+   PKGKDE=""
 fi
+
+# add xfce helper preferred applcations
+HELPER="[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Icon=waterfox-current
+Name=Waterfox Current
+NoDisplay=true
+StartupNotify=false
+Terminal=false
+Type=X-XFCE-Helper
+X-XFCE-Binaries=waterfox-current;
+X-XFCE-Category=WebBrowser
+X-XFCE-Commands=%B;
+X-XFCE-CommandsWithParameter=%B "%s";
+"
+if [ -d /usr/share/xfce4/helpers ]; then
+   if  [ ! -d /usr/share/xfce4/helpers/waterfox-current.desktop ]; then
+       echo "$HELPER" > /usr/share/xfce4/helpers/waterfox-current.desktop
+   fi
+fi
+ 
+if [ "${LANG%%.*}" = "en_US" ]; then
+   PKGI18N=""
+else
+	echo "Checking available language packs..."
+	# check available language packs
+	lang=${LANG%%.*}  # trim .UTF-8 
+	lang=${lang,,}    # lower case
+	lang=${lang//_/-} # underscore to hyphen
+	lang2=${lang%%-*} # 2letter lang code; 
+	# lookup all available; put locale code into array
+	I18N=( $(LANG=C apt-cache policy  'waterfox-current-i18n-*' | \
+	        sed -nr '/waterfox-current-i18n-([^:]+):/s//\1/p' ) )
+	
+	if printf '%s\n' "${I18N[@]}" | grep -sq "$lang"; then
+	   PKGI18N=waterfox-current-i18n-$lang
+	elif printf '%s\n' "${I18N[@]}" | grep -v -- - | grep -sq "$lang2"; then
+	   PKGI18N=waterfox-current-i18n-$lang2
+	elif printf '%s\n' "${I18N[@]}" | grep -sq "${lang2}-${lang2}"; then
+	   PKGI18N=waterfox-current-i18n-${lang2}-${lang2}
+	else
+	   echo "No language packs found for $LANG"
+	fi
+fi
+if [ -n "$PKGI18N" -o -n "$PKGKDE" ]; then
+	echo "Installing  $PKGKDE $PKGI18N"
+	apt-get install $PKGKDE $PKGI18N
+fi 
+echo Done!
+	
 </postinstall>
 
-
 <uninstall_package_names>
-waterfox-classic-kpe
+waterfox-current-kpe
 </uninstall_package_names>
+
+<postuninstall>
+if [ -d /usr/share/xfce4/helpers/waterfox-current.desktop ]; then
+   rm   /usr/share/xfce4/helpers/waterfox-current.desktop
+fi
+</postuninstall>
+
 </app>

@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (20.10.01) mx; urgency=medium
+
+  * adjust Vivaldi
+  * added OnlyOffice
+  * added Waterfox Classic, Waterfox Current
+
+ -- fehlix <fehlix@mxlinux.org>  Thu, 08 Oct 2020 16:28:16 -0400
+
 mx-packageinstaller-pkglist (20.09.04) mx; urgency=medium
 
   * update antix kernels 
