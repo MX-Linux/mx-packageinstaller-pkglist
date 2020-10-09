@@ -84,7 +84,7 @@ else
 fi
 
 # add xfce helper preferred applcations
-HELPER="[Desktop Entry]
+HELPER='[Desktop Entry]
 Version=1.0
 Encoding=UTF-8
 Icon=waterfox-classic
@@ -97,11 +97,9 @@ X-XFCE-Binaries=waterfox-classic;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B "%s";
-"
+'
 if [ -d /usr/share/xfce4/helpers ]; then
-   if  [ ! -d /usr/share/xfce4/helpers/waterfox-classic.desktop ]; then
-       echo "$HELPER" > /usr/share/xfce4/helpers/waterfox-classic.desktop
-   fi
+   echo "$HELPER" > /usr/share/xfce4/helpers/waterfox-classic.desktop
 fi
 	 
 if [ "${LANG%%.*}" = "en_US" ]; then
@@ -129,7 +127,7 @@ else
 fi
 if [ -n "$PKGI18N" -o -n "$PKGKDE" ]; then
 	echo "Installing  $PKGKDE $PKGI18N"
-	apt-get install $PKGKDE $PKGI18N
+	apt-get -y install $PKGKDE $PKGI18N
 fi 
 echo Done!
 	
@@ -140,7 +138,7 @@ waterfox-classic-kpe
 </uninstall_package_names>
 
 <postuninstall>
-if [ -d /usr/share/xfce4/helpers/waterfox-classic.desktop ]; then
+if [ -f /usr/share/xfce4/helpers/waterfox-classic.desktop ]; then
    rm   /usr/share/xfce4/helpers/waterfox-classic.desktop
 fi
 </postuninstall>
