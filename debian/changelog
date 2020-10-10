@@ -1,10 +1,13 @@
 mx-packageinstaller-pkglist (20.10.01) mx; urgency=medium
 
+  [fehlix]
   * adjust Vivaldi
   * added OnlyOffice
   * added Waterfox Classic, Waterfox Current
+  [dolphin]
+  * add 5.8 kernel
 
- -- fehlix <fehlix@mxlinux.org>  Thu, 08 Oct 2020 16:28:16 -0400
+ -- dolphinoracle <dolphinoracle@gmail.com>  Sat, 10 Oct 2020 14:21:52 -0400
 
 mx-packageinstaller-pkglist (20.09.04) mx; urgency=medium
 
