@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (20.10.02) mx; urgency=medium
+
+  * adjust ExpressVPN
+
+ -- fehlix <fehlix@mxlinux.org>  Wed, 14 Oct 2020 15:54:22 -0400
+
 mx-packageinstaller-pkglist (20.10.01) mx; urgency=medium
 
   [fehlix]
