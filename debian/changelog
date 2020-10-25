@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (20.10.04) mx; urgency=medium
+
+  * update antiX kernels (bluez bug patched) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 25 Oct 2020 16:47:45 -0400
+
 mx-packageinstaller-pkglist (20.10.03) mx; urgency=medium
 
   * added lutris
