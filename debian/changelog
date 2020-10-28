@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (20.10.05) mx; urgency=medium
+
+  * add new 5.8 kernel, remove old 5.6 kernel 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 28 Oct 2020 18:46:33 -0400
+
 mx-packageinstaller-pkglist (20.10.04) mx; urgency=medium
 
   * update antiX kernels (bluez bug patched) 
