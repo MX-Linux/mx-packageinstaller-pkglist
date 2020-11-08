@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (20.11.01) mx; urgency=medium
+
+  * revise rebuild-dkms script
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 08 Nov 2020 15:48:11 -0500
+
 mx-packageinstaller-pkglist (20.10.05) mx; urgency=medium
 
   * add new 5.8 kernel, remove old 5.6 kernel 
