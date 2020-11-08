@@ -77,7 +77,8 @@ linux-headers-686
 
 
 <postinstall>
-rebuild_dkms_packages.sh linux-image-686
+file=$(apt-cache show linux-image-686 |grep -m1 Depends) && file=${file#"Depends:"}
+rebuild_dkms_packages.sh $file
 </postinstall>
 
 
