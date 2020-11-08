@@ -79,7 +79,8 @@ linux-headers-686
 
 
 <postinstall>
-file=$(apt-cache show linux-image-686 |grep -m1 Depends) && file=${file#"Depends:"}
+file=$(apt-cache show linux-image-686 |grep -m1 Depends) 
+file=${file#"Depends:"}
 rebuild_dkms_packages.sh $file
 rm -f /etc/apt/sources.list.d/mxpitemp.list
 apt-get -y remove linux-image-686 linux-headers-686
