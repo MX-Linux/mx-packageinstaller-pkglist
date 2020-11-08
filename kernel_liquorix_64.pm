@@ -78,7 +78,8 @@ linux-headers-liquorix-amd64
 
 
 <postinstall>
-file=$(apt-cache show linux-image-liquorix-amd64 |grep -m1 Depends) && file=${file#"Depends:"}
+file=$(apt-cache show linux-image-liquorix-amd64 |grep -m1 Depends) 
+file=${file#"Depends:"}
 rebuild_dkms_packages.sh $file
 rm -f /etc/apt/sources.list.d/mxpitemp.list
 rebuild_dkms_packages.sh linux-image-liquorix-amd64

@@ -78,7 +78,8 @@ linux-headers-liquorix-686-pae
 
 
 <postinstall>
-file=$(apt-cache show linux-image-liquorix-686-pae |grep -m1 Depends) && file=${file#"Depends:"}
+file=$(apt-cache show linux-image-liquorix-686-pae |grep -m1 Depends) 
+file=${file#"Depends:"}
 rebuild_dkms_packages.sh $file
 rebuild_dkms_packages.sh linux-image-liquorix-686-pae
 rm -f /etc/apt/sources.list.d/mxpitemp.list
