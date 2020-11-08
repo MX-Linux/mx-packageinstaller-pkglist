@@ -79,8 +79,9 @@ linux-headers-amd64
 
 
 <postinstall>
+file=$(apt-cache show linux-image-amd64 |grep -m1 Depends) && file=${file#"Depends:"}
+rebuild_dkms_packages.sh $file
 rm -f /etc/apt/sources.list.d/mxpitemp.list
-rebuild_dkms_packages.sh linux-image-amd64
 apt-get -y remove linux-image-amd64 linux-headers-amd64
 apt-get update
 </postinstall>
