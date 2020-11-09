@@ -21,6 +21,6 @@ kernel=${kernel%-unsigned}
 echo "update dkms modules for kernel: " $kernel |tee /var/log/rebuild-dkms.log
 echo "see log at /var/log/rebuild-dkms.log"
 
-#/usr/lib/dkms/dkms_autoinstaller start $kernel |tee -a /var/log/rebuild-dkms.log
+/usr/lib/dkms/dkms_autoinstaller start $kernel |tee -a /var/log/rebuild-dkms.log
 
 exit 0
