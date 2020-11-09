@@ -3,9 +3,12 @@
 #force rebuild of dkms packages (virtualbox, nvidia, fglrx, broadcom, ndiswrapper)
 #part of mx-packageinstaller
 
-[[ $(dpkg-query --show $1 2>/dev/null && echo $?) ]] || exit 0
-
 kernel="$1"
+
+# if parameter passed, then check to see if package is installed, exit if not
+if [ -n "$kernel" ]; then
+	[[ $(dpkg-query --status $1 2>/dev/null ) ]] || exit 0
+fi	
 
 #if no kernel parameter given, assume current kernel
 if [ -z "$kernel" ]; then
