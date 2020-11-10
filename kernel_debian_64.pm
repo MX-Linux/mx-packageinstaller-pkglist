@@ -77,7 +77,7 @@ linux-headers-amd64
 
 
 <postinstall>
-file=$(apt-cache show linux-image-amd64=4.19 |grep -m1 Depends) 
+file=$(apt-cache show linux-image-amd64=4.19* |grep -m1 Depends) 
 file=${file#"Depends:"}
 rebuild_dkms_packages.sh $file
 </postinstall>
