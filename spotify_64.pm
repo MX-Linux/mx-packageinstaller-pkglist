@@ -67,7 +67,7 @@ Spotify
 <screenshot>none</screenshot>
 
 <preinstall>
-sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 0x2ebf997c15bda244b6ebf5d84773bd5e130d1d45
+curl -sS https://download.spotify.com/debian/pubkey_0D811D58.gpg | sudo apt-key add - 
 echo "deb http://repository.spotify.com stable non-free">/etc/apt/sources.list.d/spotify.list
 apt-get update
 </preinstall>
