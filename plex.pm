@@ -86,7 +86,6 @@ fi
 
 <postuninstall>
 apt-get remove plex-sysvinit-compat
-rm /etc/apt/sources.list.d/plex-mx.list
 </postuninstall>
 
 <uninstall_package_names>
