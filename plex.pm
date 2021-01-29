@@ -87,6 +87,5 @@ fi
 
 <uninstall_package_names>
 plexmediaserver
-plex-sysvinit-compat
 </uninstall_package_names>
 </app>
