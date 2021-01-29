@@ -69,7 +69,7 @@ all
 <preinstall>
 apt-get install apt-transport-https
 curl https://downloads.plex.tv/plex-keys/PlexSign.key | apt-key add -
-echo "deb https://downloads.plex.tv/repo/deb public main">/etc/apt/sources.list.d/mxpitemp.list
+echo "deb https://downloads.plex.tv/repo/deb public main">/etc/apt/sources.list.d/plex-mx.list
 apt-get update
 </preinstall>
 
@@ -84,6 +84,10 @@ apt-get install plex-sysvinit-compat
 fi
 </postinstall>
 
+<postuninstall>
+apt-get remove plex-sysvinit-compat
+rm /etc/apt/sources.list.d/plex-mx.list
+</postuninstall>
 
 <uninstall_package_names>
 plexmediaserver
