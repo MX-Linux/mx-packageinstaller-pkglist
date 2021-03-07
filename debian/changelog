@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (21.03.02) mx; urgency=medium
+
+  * remove libreoffice entries
+  * add gnome-games for armhf entry
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 07 Mar 2021 18:29:31 -0500
+
 mx-packageinstaller-pkglist (21.03.01) mx; urgency=medium
 
   * revise for armhf support 

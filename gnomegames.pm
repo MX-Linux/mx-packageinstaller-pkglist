@@ -61,7 +61,7 @@ Simple Card Games
 </description>
 
 <installable>
-all
+32,64
 </installable>
 
 <screenshot>https://screenshots.debian.net/screenshots/000/014/909/large.png</screenshot>
