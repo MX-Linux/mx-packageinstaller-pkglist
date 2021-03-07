@@ -61,7 +61,7 @@ Plex
 </description>
 
 <installable>
-all
+32,64
 </installable>
 
 <screenshot>https://www.plex.tv/wp-content/uploads/2016/06/image-block-plex-media-server-macbook.jpg</screenshot>

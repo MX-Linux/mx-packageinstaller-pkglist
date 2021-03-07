@@ -62,7 +62,7 @@ ksnip
 </description>
 
 <installable>
-all
+32,64
 </installable>
 
 <screenshot>https://a.fsdn.com/con/app/proj/ksnip/screenshots/32b0eaefbc23f9053d9f2f68065fc2bcbb93.png</screenshot>
