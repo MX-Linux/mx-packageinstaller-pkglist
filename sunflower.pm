@@ -61,7 +61,7 @@ Sunflower
 </description>
 
 <installable>
-all
+32,64
 </installable>
 
 <screenshot>https://sunflower-fm.org/site/gallery/images/5f9b38108c926a6730000f57c81372a8.png</screenshot>

@@ -61,7 +61,7 @@ XMMS
 </description>
 
 <installable>
-all
+32,64
 </installable>
 
 <screenshot>http://www.xmms.org/screenshots/main.gif</screenshot>

@@ -61,7 +61,7 @@ Google Chrome
 </description>
 
 <installable>
-64
+ 64
 </installable>
 
 <screenshot>https://www.google.com/chrome/assets/common/images/marquee/chrome-new.jpg</screenshot>

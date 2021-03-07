@@ -61,7 +61,7 @@ Romanian_Firfox
 </description>
 
 <installable>
-all
+32,64
 </installable>
 
 <screenshot>none</screenshot>

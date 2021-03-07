@@ -62,7 +62,7 @@ Hotshots
 </description>
 
 <installable>
-all
+32,64
 </installable>
 
 <screenshot>http://ubuntuhandbook.org/wp-content/uploads/2013/07/HotShots-300x248.jpg</screenshot>

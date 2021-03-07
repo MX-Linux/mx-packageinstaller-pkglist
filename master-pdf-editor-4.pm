@@ -61,7 +61,7 @@ Master PDF Editor 4 (Free Version)
 </description>
 
 <installable>
-all
+32,64
 </installable>
 
 <screenshot>https://code-industry.net/wp-content/uploads/2016/05/pdfa-edit.png</screenshot>
