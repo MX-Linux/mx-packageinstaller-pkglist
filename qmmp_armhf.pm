@@ -61,7 +61,7 @@ Qmmp
 </description>
 
 <installable>
-32,64
+armhf
 </installable>
 
 <screenshot>https://screenshots.debian.net/screenshots/000/011/984/large.png</screenshot>
@@ -72,7 +72,6 @@ Qmmp
 
 <install_package_names>
 qmmp
-qmmp-plugin-projectm
 </install_package_names>
 
 
@@ -83,6 +82,5 @@ qmmp-plugin-projectm
 
 <uninstall_package_names>
 qmmp
-qmmp-plugin-projectm
 </uninstall_package_names>
 </app>
