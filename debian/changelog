@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (21.03.06) mx; urgency=medium
+
+  * update ahs kernel (5.10.-5mx) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 30 Mar 2021 18:16:09 -0400
+
 mx-packageinstaller-pkglist (21.03.05) mx; urgency=medium
 
   * update ahs kernel (add 5.10)
