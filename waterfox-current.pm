@@ -70,12 +70,12 @@ Waterfox Current
 </preinstall>
 
 <install_package_names>
-waterfox-current-kpe
+waterfox-g3-kpe
 </install_package_names>
 
 <postinstall>
 
-if ! dpkg-query -f '${db:Status-Abbrev}' -W  waterfox-current-kpe 2>/dev/null | grep -sq '^i'; then
+if ! dpkg-query -f '${db:Status-Abbrev}' -W  waterfox-g3-kpe 2>/dev/null | grep -sq '^i'; then
    echo DONE!
    exit
 fi
@@ -84,13 +84,13 @@ fi
 HELPER='[Desktop Entry]
 Version=1.0
 Encoding=UTF-8
-Icon=waterfox-current
-Name=Waterfox Current
+Icon=waterfox-g3
+Name=Waterfox-current
 NoDisplay=true
 StartupNotify=false
 Terminal=false
 Type=X-XFCE-Helper
-X-XFCE-Binaries=waterfox-current;
+X-XFCE-Binaries=waterfox-g3;
 X-XFCE-Category=WebBrowser
 X-XFCE-Commands=%B;
 X-XFCE-CommandsWithParameter=%B "%s";
@@ -102,7 +102,7 @@ fi
 PKGS=()
 # KDE Plasma intergration
 if pgrep -x plasmashell >/dev/null; then
-   PKGS+=(waterfox-current-kde)
+   PKGS+=(waterfox-g3-kde)
 fi
 
 # deal with locales
@@ -118,7 +118,7 @@ if [ "${lanlocale[*]}" = "en-us" ]; then
 else
     echo "Checking available language packs..."
     # lookup all available lang-packs
-    I18N=( $(LANG=C apt-cache policy  'waterfox-current-i18n-*' | \
+    I18N=( $(LANG=C apt-cache policy  'waterfox-g3-i18n-*' | \
             sed -nr '/waterfox-current-i18n-([^:]+):/s//\1/p' ) )
 
     # check available language packs
@@ -126,11 +126,11 @@ else
     lang2="${lang%%-*}" # 2letter lang code ll-ll;
 
     if printf '%s\n' "${I18N[@]}" | grep -sq "$lang"; then
-       PKGS+=(waterfox-current-i18n-$lang)
+       PKGS+=(waterfox-g3-i18n-$lang)
     elif printf '%s\n' "${I18N[@]}" | grep -v -- - | grep -sq "$lang2"; then
-       PKGS+=(waterfox-current-i18n-$lang2)
+       PKGS+=(waterfox-g3-i18n-$lang2)
     elif printf '%s\n' "${I18N[@]}" | grep -sq "${lang2}-${lang2}"; then
-       PKGS+=(waterfox-current-i18n-${lang2}-${lang2})
+       PKGS+=(waterfox-g3-i18n-${lang2}-${lang2})
     else
        echo "No language packs found"
     fi
@@ -146,7 +146,7 @@ echo Done!
 </postinstall>
 
 <uninstall_package_names>
-waterfox-current-kpe
+waterfox-g3-kpe
 </uninstall_package_names>
 
 <postuninstall>
