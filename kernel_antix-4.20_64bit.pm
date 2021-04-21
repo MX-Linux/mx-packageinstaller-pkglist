@@ -67,7 +67,7 @@ antiX 5.8 64 bit
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://la.mxrepo.com/antix/buster buster main">/etc/apt/sources.list.d/mxpitemp.list
+echo "deb http://la.mxrepo.com/antix/bullseye bullseye main">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 </preinstall>
 

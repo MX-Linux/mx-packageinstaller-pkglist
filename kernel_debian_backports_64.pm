@@ -67,9 +67,9 @@ Debian-Backports 64 bit
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://http.debian.net/debian buster-backports main">/etc/apt/sources.list.d/mxpitemp.list
+echo "deb http://http.debian.net/debian bullseye-backports main">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
-apt-get install -t buster-backports linux-image-amd64 linux-headers-amd64
+apt-get install -t bullseye-backports linux-image-amd64 linux-headers-amd64
 </preinstall>
 
 <install_package_names>

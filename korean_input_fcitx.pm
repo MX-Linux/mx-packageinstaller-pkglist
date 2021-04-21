@@ -81,10 +81,9 @@ fcitx-ui-light
 fcitx-hangul
 fonts-baekmuk
 im-config
-fcitx-config-gtk2
+fcitx-config-gtk
 fcitx-frontend-gtk2
 fcitx-frontend-gtk3
-fcitx-frontend-qt4
 fcitx-frontend-qt5
 fonts-alee
 </install_package_names>
@@ -106,10 +105,9 @@ fcitx-ui-light
 fcitx-hangul
 fonts-baekmuk
 im-config
-fcitx-config-gtk2
+fcitx-config-gtk
 fcitx-frontend-gtk2
 fcitx-frontend-gtk3
-fcitx-frontend-qt4
 fcitx-frontend-qt5
 fonts-alee
 </uninstall_package_names>

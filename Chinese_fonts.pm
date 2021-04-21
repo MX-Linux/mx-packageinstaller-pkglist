@@ -85,6 +85,6 @@ ttf-wqy-zenhei
 <uninstall_package_names>
 xfonts-wqy
 fonts-freefont-ttf
-ttf-wqy-zenhei
+fonts-wqy-zenhei
 </uninstall_package_names>
 </app>

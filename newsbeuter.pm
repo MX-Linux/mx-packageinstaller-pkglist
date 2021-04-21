@@ -6,7 +6,7 @@ Newsreader
 </category>
 
 <name>
-Newsbeuter
+Newsboat
 </name>
 
 <description>
@@ -64,14 +64,14 @@ Newsbeuter
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/000/063/large.png</screenshot>
+<screenshot></screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-newsbeuter
+newsboat
 </install_package_names>
 
 
@@ -81,6 +81,6 @@ newsbeuter
 
 
 <uninstall_package_names>
-newsbeuter
+newsboat
 </uninstall_package_names>
 </app>
