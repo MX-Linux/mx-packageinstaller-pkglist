@@ -205,14 +205,14 @@ install_backports() {
    if ! backports_enabled; then
       tmp_source_list="$(mktemp -t apt_tmp_sources_list.XXXXXXXXXXXX)"
       chmod 644 ${tmp_source_list} 
-      echo "deb http://deb.debian.org/debian buster-backports main contrib non-free" > ${tmp_source_list}
+      echo "deb http://deb.debian.org/debian bullseye-backports main contrib non-free" > ${tmp_source_list}
       cfg_source="-o Dir::Etc::sourcelist=${tmp_source_list}"
       cfg_update="-o Dir::Etc::sourceparts=- -o APT::Get::List-Cleanup=0"
       apt-get ${cfg_source} ${cfg_update} update
    fi
    tmp_preferences="$(mktemp -t apt_tmp_preferences.XXXXXXXXXXXX)"
    chmod 644 ${tmp_preferences}
-   printf  'Package: *\nPin: release n=buster-backports\nPin-Priority: 1001\n' > ${tmp_preferences}
+   printf  'Package: *\nPin: release n=bullseye-backports\nPin-Priority: 1001\n' > ${tmp_preferences}
    cfg_pref="-o Dir::Etc::preferences=${tmp_preferences}";
    apt-get -o=Dpkg::Use-Pty=0 ${cfg_source} ${cfg_pref}  install ${pkg_list} ${reinstall}
    APT_RET="$?"
@@ -225,7 +225,7 @@ install_distro() {
    local cfg_source=""
    tmp_preferences="$(mktemp -t apt_tmp_preferences.XXXXXXXXXXXX)"
    chmod 644 ${tmp_preferences}
-   printf  'Package: *\nPin: release n=buster\nPin-Priority: 1001\n' > ${tmp_preferences}
+   printf  'Package: *\nPin: release n=bullseye\nPin-Priority: 1001\n' > ${tmp_preferences}
    cfg_pref="-o Dir::Etc::preferences=${tmp_preferences}";
    apt-get -o=Dpkg::Use-Pty=0 ${cfg_pref} install ${pkg_list} ${reinstall}
    APT_RET="$?"
