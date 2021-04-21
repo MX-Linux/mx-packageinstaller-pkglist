@@ -72,11 +72,8 @@ fluxbox
 idesk
 mx-fluxbox
 gkrellm
-mxfb-docs 
-mx-fluxbox-about 
+mxfb-docs  
 mx-fluxbox-data 
-faba-icon-theme 
-moka-icon-theme 
 wmalauncher 
 lxappearance 
 rofi-calc
@@ -94,10 +91,7 @@ idesk
 mx-fluxbox
 gkrellm
 mxfb-docs 
-mx-fluxbox-about 
 mx-fluxbox-data 
-faba-icon-theme 
-moka-icon-theme 
 wmalauncher 
 lxappearance 
 rofi-calc

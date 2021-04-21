@@ -82,9 +82,8 @@ fcitx-anthy
 fcitx-mozc
 fcitx-table-all
 fcitx-config-gtk2
-fcitx-frontend-gtk2
+fcitx-frontend-gtk
 fcitx-frontend-gtk3
-fcitx-frontend-qt4
 fcitx-frontend-qt5
 im-config
 </install_package_names>
@@ -106,10 +105,9 @@ fcitx-ui-light
 fcitx-anthy
 fcitx-mozc
 fcitx-table-all
-fcitx-config-gtk2
+fcitx-config-gtk
 fcitx-frontend-gtk2
 fcitx-frontend-gtk3
-fcitx-frontend-qt4
 fcitx-frontend-qt5
 im-config
 </uninstall_package_names>

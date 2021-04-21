@@ -67,9 +67,9 @@ Debian-Backports 32 bit No PAE
 <screenshot>none</screenshot>
 
 <preinstall>
-echo "deb http://http.debian.net/debian buster-backports main">/etc/apt/sources.list.d/mxpitemp.list
+echo "deb http://http.debian.net/debian bullseye-backports main">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
-apt-get install -t buster-backports
+apt-get install -t bullseye-backports linux-image-686 linux-headers-686
 </preinstall>
 
 <install_package_names>

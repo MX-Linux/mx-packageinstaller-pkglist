@@ -61,7 +61,7 @@ Simple Card Games
 </description>
 
 <installable>
-32,64
+armhf
 </installable>
 
 <screenshot>https://screenshots.debian.net/screenshots/000/014/909/large.png</screenshot>

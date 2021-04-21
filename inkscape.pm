@@ -77,8 +77,6 @@ imagemagick
 libwmf-bin
 perlmagick
 pstoedit
-python-lxml
-python-numpy
 transfig
 </install_package_names>
 

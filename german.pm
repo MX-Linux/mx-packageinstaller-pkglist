@@ -72,7 +72,7 @@ all
 
 <install_package_names>
 aspell-de
-myspell-de-de
+myspell-de-de-1901
 manpages-de
 </install_package_names>
 
@@ -84,7 +84,7 @@ manpages-de
 
 <uninstall_package_names>
 aspell-de
-myspell-de-de
+myspell-de-de-1901
 manpages-de
 </uninstall_package_names>
 </app>

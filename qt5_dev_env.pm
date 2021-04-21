@@ -72,8 +72,9 @@ all
 
 <install_package_names>
 qtcreator
-qt5-default
+qttools5-dev
 qttools5-dev-tools
+qtdeclarative5-dev-tools
 </install_package_names>
 
 
@@ -84,7 +85,8 @@ qttools5-dev-tools
 
 <uninstall_package_names>
 qtcreator
-qt5-default
+qttools5-dev
 qttools5-dev-tools
+qtdeclarative5-dev-tools
 </uninstall_package_names>
 </app>
