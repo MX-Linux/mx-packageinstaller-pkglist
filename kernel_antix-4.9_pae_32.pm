@@ -72,20 +72,20 @@ apt-get update
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.264-antix.1-686-smp-pae
-linux-headers-4.9.264-antix.1-686-smp-pae
+linux-image-4.9.0-264-antix.1-686-smp-pae
+linux-headers-4.9.0-264-antix.1-686-smp-pae
 </install_package_names>
 
 
 <postinstall>
 rm /etc/apt/sources.list.d/mxpitemp.list
 apt-get update
-rebuild_dkms_packages.sh linux-image-4.9.264-antix.1-686-smp-pae
+rebuild_dkms_packages.sh linux-image-4.9.0-264-antix.1-686-smp-pae
 </postinstall>
 
 
 <uninstall_package_names>
-linux-image-4.9.264-antix.1-686-smp-pae
-linux-headers-4.9.264-antix.1-686-smp-pae
+linux-image-4.9.0-264-antix.1-686-smp-pae
+linux-headers-4.9.0-264-antix.1-686-smp-pae
 </uninstall_package_names>
 </app>
