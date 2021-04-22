@@ -1,5 +1,11 @@
 mx-packageinstaller-pkglist (21.04.3mx19) mx; urgency=medium
 
+  * update antix 4.9 kernel 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 22 Apr 2021 06:33:04 -0400
+
+mx-packageinstaller-pkglist (21.04.3mx19) mx; urgency=medium
+
   * update antiX 4.9 kernel 
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 21 Apr 2021 06:38:54 -0400

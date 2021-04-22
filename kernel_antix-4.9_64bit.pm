@@ -72,8 +72,8 @@ apt-get update
 </preinstall>
 
 <install_package_names>
-linux-image-4.9.264-antix.1-amd64-smp
-linux-headers-4.9.264-antix.1-amd64-smp
+linux-image-4.9.0-264-antix.1-amd64-smp
+linux-headers-4.9.0-264-antix.1-amd64-smp
 </install_package_names>
 
 
@@ -85,7 +85,7 @@ apt-get update
 
 
 <uninstall_package_names>
-linux-image-4.9.264-antix.1-amd64-smp
-linux-headers-4.9.264-antix.1-amd64-smp
+linux-image-4.9.0-264-antix.1-amd64-smp
+linux-headers-4.9.0-264-antix.1-amd64-smp
 </uninstall_package_names>
 </app>
