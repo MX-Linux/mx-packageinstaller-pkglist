@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <app>
 
 <category>
@@ -61,36 +61,37 @@ ExpressVPN
 </description>
 
 <installable>
-32,64
+32,64,armhf
 </installable>
 
 <screenshot>none</screenshot>
 
 <preinstall>
 
-if [ "$(dpkg --print-architecture)" = "amd64" ]; then
-ARCH="amd64"
-else
-ARCH="i386"
-fi
+ARCH="$(dpkg --print-architecture)"
+
 # ExpressVPN Release signing key  0xAFF2A1415F6A3A38
 KEY=0xAFF2A1415F6A3A38
 
 # prepare temp dir
 DIR=$(mktemp -d /tmp/tmpdir-expressvpn-keyring.XXXXXXXXXXXXX)
 TKR=$DIR/keyring.kbx
+TKG=$DIR/keyring.gpg
 GPG_HOME=$DIR
 chmod 700 $DIR
 # prepare tidy-up
-tidy_up() { rm -r /tmp/tmpdir-expressvpn-keyring.* 2>/dev/null ; }
+tidy_up() { 
+	rm -r /tmp/tmpdir-expressvpn-keyring.* 2&gt;/dev/null 
+}
 trap tidy_up EXIT
 
 # get deb and sig
-#DEB=$(curl -RL -s https://www.expressvpn.com/latest| grep -oE  'https://download.expressvpn.xyz/clients/linux/expressvpn_[0-9.-]*_'${ARCH}'.deb' | head -1)
-DEB=$(curl -RJL -s 'https://www.expressvpn.com/latest#linux'| grep -m1 -oE  "https://[[:alnum:]._/-]+/expressvpn_[0-9._-]+_${ARCH}.deb" | head -1)
+DEB=$(curl -RJL -s 'https://www.expressvpn.com/latest#linux' |
+      grep -m1 -oE  "https://[[:alnum:]._/-]+/expressvpn_[0-9._-]+_${ARCH}.deb" | 
+      head -1)
 SIG="${DEB}.asc"
 
-pushd $DIR >/dev/null
+pushd $DIR &gt;/dev/null
 echo "--------------------------------------"
 echo "get ExpressVPN deb-packaga ${DEB##*/}"
 echo "--------------------------------------"
@@ -106,12 +107,12 @@ DEB="${DEB##*/}"
 SIG="${SIG##*/}"
 if [ ! -f "$DEB" ]; then
    echo "Error downloading deb-package: $DEB"
-   echo exit 
+   echo exit
    exit 1
 fi
 if [ ! -f "$SIG" ]; then
    echo "Error downloading signature $SIG"
-   echo exit 
+   echo exit
    exit 1
 fi
 
@@ -130,47 +131,47 @@ else
 gpg -q --homedir=$GPG_HOME --no-default-keyring --keyring $TKR $IMPORT_OPTIONS --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys $KEY
 fi
 # keyring sanity check
-rm $PUB
-gpg --homedir=$GPG_HOME  --no-default-keyring --keyring $TKR --output $PUB $EXPORT_OPTIONS --export  $KEY
+gpg --homedir=$GPG_HOME  --no-default-keyring --keyring $TKR --output $TKG $EXPORT_OPTIONS --export  $KEY
 rm $TKR
-gpg -q --homedir=$GPG_HOME --no-default-keyring --keyring $TKR $IMPORT_OPTIONS  --import $PUB
+gpg -q --homedir=$GPG_HOME --no-default-keyring --keyring $TKR $IMPORT_OPTIONS  --import $TKG
 gpg --homedir=$GPG_HOME  --no-default-keyring --keyring $TKR --keyid-format 0xlong --list-keys $KEY
 
 echo "--------------------------------------"
 echo "verify ExpressVPN package signature ..."
-gpgv --homedir=$GPG_HOME --ignore-time-conflict --keyring $TKR $SIG $DEB
-RT=$?
 echo "--------------------------------------"
+gpgv --ignore-time-conflict --keyring $TKG $SIG $DEB  2&gt;&amp;1
+RT=$?
 if [ $RT != 0 ]; then
 echo "Fatal: signature not verified - exit"
 exit $RT
 fi
 
-#if [ ! /proc/1/exe -ef /usr/lib/systemd/systemd ]; then
-#echo "--------------------------------------"
-#echo "stop ExpressVPN daemon ..."
-#echo "--------------------------------------"
-#   /sbin/invoke-rc.d expressvpn stop
-#fi
 echo "--------------------------------------"
 echo "install ExpressVPN deb package"
 echo "--------------------------------------"
-#dpkg -i  $DIR/$DEB
-# fix systemd check
-PAT='which[[:space:]]+(/bin/)?systemctl'
+
+PAT='(which|command[[:space:]]+-v)[[:space:]]+(/bin/)?systemctl'
 RPL='test -d /run/systemd/system'
-sed -i -E "s=$PAT=$RPL=" /var/lib/dpkg/info/expressvpn.{post,pre}* 2>/dev/null
+sed -i -E "s=$PAT=$RPL=" /var/lib/dpkg/info/expressvpn.{post,pre}* 2&gt;/dev/null
 dpkg --unpack  $DIR/$DEB
-sed -i -E "s=$PAT=$RPL=" /var/lib/dpkg/info/expressvpn.{post,pre}* 2>/dev/null
+sed -i -E "s=$PAT=$RPL=" /var/lib/dpkg/info/expressvpn.{post,pre}* 2&gt;/dev/null
 
 # fix postrm unnecessary warning
-sed -i -E 's=/usr/bin/expressvpn[[:space:]]+status=/usr/bin/expressvpn status 2>/dev/null=' /var/lib/dpkg/info/expressvpn.prerm  2>/dev/null
+sed -i -E 's=/usr/bin/expressvpn[[:space:]]+status=/usr/bin/expressvpn status 2&gt;/dev/null=' /var/lib/dpkg/info/expressvpn.prerm  2&gt;/dev/null
 # fix postinst SUDO_USER to work with pkexec
-sed -i -E 's=\$\{?USER\}?=$(logname)=' /var/lib/dpkg/info/expressvpn.postinst  2>/dev/null
+sed -i -E 's=\$\{?USER\}?=$(logname)=' /var/lib/dpkg/info/expressvpn.postinst  2&gt;/dev/null
 
-# fix lsb_functions
-sed -i -e 's/^function pidofproc/function pidofproc_XXX/' \
-       -e 's/^function killproc/function killproc_XXX/'  /usr/lib/expressvpn/expressvpn.init 2>/dev/null
+# fix expressvpn provided init.d script: 
+# by converting expresvpn service to sysvinit script using  sysd2v.sh
+if which sysd2v.sh &gt;/dev/null; then
+   if [ -e /usr/lib/expressvpn/expressvpn.service ]; then
+      if [ -e /usr/lib/expressvpn/expressvpn.init ]; then
+         rm  /usr/lib/expressvpn/expressvpn.init
+      fi
+	  touch /usr/lib/expressvpn/expressvpn.init
+      sysd2v.sh /usr/lib/expressvpn/expressvpn.service &gt;&gt; /usr/lib/expressvpn/expressvpn.init
+   fi
+fi
 
 dpkg --configure  expressvpn
 apt-get -yf install
@@ -182,7 +183,9 @@ touch /etc/default/expressvpn
 if ! [ -d /run/systemd/system ]; then
 /etc/init.d/expressvpn restart
 fi
-echo DONE!
+
+echo "...$(gettext -d apt -s ' Done')!"
+
 </preinstall>
 
 <install_package_names>
@@ -200,7 +203,8 @@ expressvpn
 <postuninstall>
 
 case "x$(dpkg-query -f '${db:Status-Abbrev}' -W expressvpn 2>/dev/null)" in
-xr*)  apt-get -y remove --purge expressvpn
+xr*)  
+apt-get -y remove --purge expressvpn
 update-rc.d expressvpn remove 2>/dev/null
 rm -f /usr/share/bash-completion/completions/expressvpn 2>/dev/null
 rm -f /etc/bash_completion.d/expressvpn 2>/dev/null
