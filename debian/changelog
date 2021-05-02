@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (21.04.4mx19+1) mx; urgency=medium
+
+  * fix Mullvad VPN sysvinit
+
+ -- fehlix <fehlix@mxlinux.org>  Sat, 01 May 2021 14:04:16 -0400
+ 
 mx-packageinstaller-pkglist (21.04.4mx19) mx; urgency=medium
 
   * fix expressvpn sysvinit
