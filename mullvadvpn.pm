@@ -84,7 +84,10 @@ echo "Downloading Mullvad VPN for Linux 64bit:"
 pushd $DIR >/dev/null
 
 # get filepath of latest release on github
-FIL=$(curl -sRLJ https://github.com/mullvad/mullvadvpn-app/releases/latest| sed -nr '\|.*href="([[:alnum:]/_.-]+MullvadVPN[0-9._-]+_amd64.deb)".*|{s||\1|p;q}')
+FIL=$(curl -sRLJ https://github.com/mullvad/mullvadvpn-app/releases | sed -nr '\|.*href="([[:alnum:]/_.-]+MullvadVPN[0-9._-]+_amd64.deb)".*|{s||\1|p;q}')
+[ -n "$FIL" ] || {
+    echo "ERROR: Download of Mullvad VPN failed [no file name] "; exit 2; }
+
 URL=https://github.com${FIL}
 DEB=$(basename "$FIL" )
 SIG=$DEB.asc
@@ -94,7 +97,7 @@ echo "---------------------------------------------------------"
 echo " "
 
 curl --progress-bar -RLJO $URL
-[ -n "$DEB" ] || {
+[ -s "$DEB" ] || {
     echo "ERROR: Download of Mullvad VPN failed [no package name] "; exit 3; }
 
 echo "---------------------------------------------------------"
@@ -103,7 +106,7 @@ echo "---------------------------------------------------------"
 echo " "
 
 curl --progress-bar  -RLJO $URL.asc
-[ -f "$SIG" ] || { echo "ERROR: Download of signature '${SIG}' failed "; exit 4; }
+[ -s "$SIG" ] || { echo "ERROR: Download of signature '${SIG}' failed "; exit 4; }
 
 KEY=https://mullvad.net/media/mullvad-code-signing.asc
 echo "--------------------------------------"
@@ -111,7 +114,7 @@ echo "get Mullvad VPN code signing key: ${KEY##*/}"
 echo "--------------------------------------"
 curl --progress-bar -RLJO $KEY
 KEY=${KEY##*/}
-[ -f $KEY ] || {
+[ -s $KEY ] || {
     echo "ERROR: Download of Mullvad VPN signing key : mullvad-code-signing.asc failed "; exit 5; }
 echo "---------------------------------------------------------"
 echo "received Mullvad VPN code signing key: ${KEY##*/}"
