@@ -83,6 +83,5 @@ libgl1-mesa-dri
 
 <uninstall_package_names>
 blender
-libgl1-mesa-dri
 </uninstall_package_names>
 </app>
