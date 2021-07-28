@@ -72,7 +72,6 @@ Simple Card Games
 
 <install_package_names>
 gnome-games
-hearts
 </install_package_names>
 
 
@@ -83,6 +82,5 @@ hearts
 
 <uninstall_package_names>
 gnome-games
-hearts
 </uninstall_package_names>
 </app>
