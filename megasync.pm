@@ -67,8 +67,8 @@ Megasync
 <screenshot></screenshot>
 
 <preinstall>
-echo "deb https://mega.nz/linux/MEGAsync/Debian_10.0/ ./">/etc/apt/sources.list.d/mxpitemp.list
-wget https://mega.nz/linux/MEGAsync/Debian_10.0/Release.key -O /tmp/megarelease.key
+echo "deb https://mega.nz/linux/MEGAsync/Debian_testing/ ./">/etc/apt/sources.list.d/mxpitemp.list
+wget https://mega.nz/linux/MEGAsync/Debian_testing/Release.key -O /tmp/megarelease.key
 apt-key add /tmp/megarelease.key
 rm /tmp/megarelease.key
 apt-get update

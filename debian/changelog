@@ -1,5 +1,11 @@
 mx-packageinstaller-pkglist (21.07.1mx21) mx; urgency=medium
 
+  * update megasync 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 29 Jul 2021 18:33:30 -0400
+
+mx-packageinstaller-pkglist (21.07.1mx21) mx; urgency=medium
+
   * update simplegames 
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 28 Jul 2021 17:30:57 -0400
