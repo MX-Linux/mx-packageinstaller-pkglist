@@ -72,7 +72,6 @@ all
 
 <install_package_names>
 fcitx
-fcitx-config-gtk
 fcitx-frontend-all
 fcitx-frontend-fbterm
 fcitx-tools
@@ -86,6 +85,7 @@ fcitx-frontend-gtk2
 fcitx-frontend-gtk3
 fcitx-frontend-qt5
 fonts-alee
+mozc-utils-gui
 </install_package_names>
 
 
@@ -105,10 +105,10 @@ fcitx-ui-light
 fcitx-hangul
 fonts-baekmuk
 im-config
-fcitx-config-gtk
 fcitx-frontend-gtk2
 fcitx-frontend-gtk3
 fcitx-frontend-qt5
 fonts-alee
+mozc-utils-gui
 </uninstall_package_names>
 </app>

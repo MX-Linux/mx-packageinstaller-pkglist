@@ -80,6 +80,7 @@ fcitx-ui-classic
 fcitx-ui-light
 fcitx-unikey
 im-config
+mozc-utils-gui
 </install_package_names>
 
 
@@ -98,5 +99,6 @@ fcitx-ui-classic
 fcitx-ui-light
 fcitx-unikey
 im-config
+mozc-utils-gui
 </uninstall_package_names>
 </app>
