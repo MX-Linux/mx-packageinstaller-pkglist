@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (21.07.3mx21) mx; urgency=medium
+
+  * fcitx entry changes
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 31 Jul 2021 10:02:18 -0400
+
 mx-packageinstaller-pkglist (21.07.2mx21) mx; urgency=medium
 
   * update megasync 
