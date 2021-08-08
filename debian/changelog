@@ -1,3 +1,15 @@
+mx-packageinstaller-pkglist (21.08.3mx19) mx; urgency=medium
+
+  * autoupdate ahs kernels (5.10) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 08 Aug 2021 15:36:07 -0400
+
+mx-packageinstaller-pkglist (21.08.2mx19) mx; urgency=medium
+
+  * Version bump to replace mistaken version push.
+
+ -- Timothy E. Harris <maintainer@mxrepo.com>  Mon, 02 Aug 2021 11:29:03 -0400
+
 mx-packageinstaller-pkglist (21.07.1mx19) mx; urgency=medium
 
   * update kernels
