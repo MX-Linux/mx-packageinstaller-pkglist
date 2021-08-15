@@ -72,7 +72,6 @@ all
 
 <install_package_names>
 thunderbird-l10n-lt
-lightning-l10n-lt
 </install_package_names>
 
 
@@ -83,6 +82,5 @@ lightning-l10n-lt
 
 <uninstall_package_names>
 thunderbird-l10n-lt
-lightning-l10n-lt
 </uninstall_package_names>
 </app>
