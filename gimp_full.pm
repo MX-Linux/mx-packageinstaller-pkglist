@@ -75,7 +75,6 @@ gimp
 gimp-data
 gimp-data-extras
 gimp-cbmplugs
-gimp-dcraw
 gimp-dds
 gimp-gap
 gimp-gluas
@@ -95,7 +94,6 @@ gimp
 gimp-data
 gimp-data-extras
 gimp-cbmplugs
-gimp-dcraw
 gimp-dds
 gimp-gap
 gimp-gluas
