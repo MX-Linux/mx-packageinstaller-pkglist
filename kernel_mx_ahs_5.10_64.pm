@@ -67,7 +67,8 @@ Debian 5.10 64 bit (latest)
 <screenshot>none</screenshot>
 
 <preinstall>
-
+echo "deb http://mxrepo.com/mx/repo/ buster ahs">/etc/apt/sources.list.d/mxpitemp.list
+apt-get update 
 </preinstall>
 
 <install_package_names>
@@ -77,6 +78,8 @@ linux-headers-amd64-mx
 
 
 <postinstall>
+rm /etc/apt/sources.list.d/mxpitemp.list
+apt-get update
 file=$(apt-cache show linux-image-amd64-mx=5.10* |grep -m1 Depends) 
 file=${file#"Depends:"}
 rebuild_dkms_packages.sh $file
