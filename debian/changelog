@@ -1,5 +1,12 @@
 mx-packageinstaller-pkglist (21.09.02mx21) mx; urgency=medium
 
+  * add xfce4-screenshooter
+  * remove muon modified desktop launcher from kde5.pm
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 09 Sep 2021 22:09:28 -0400
+
+mx-packageinstaller-pkglist (21.09.02mx21) mx; urgency=medium
+
   * update krita
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 06 Sep 2021 20:53:31 -0400
