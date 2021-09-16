@@ -64,7 +64,7 @@ Qmmp
 32,64
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/011/984/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/17876/simage/large-dec164cb8654ccc5016558e6634db62a.png</screenshot>
 
 <preinstall>
 
