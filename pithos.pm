@@ -64,7 +64,7 @@ Pithos
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/009/199/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/15100/simage/large-d27ed7d8c116dca4963b6be57026d5ef.png</screenshot>
 
 <preinstall>
 

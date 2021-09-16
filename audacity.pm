@@ -64,7 +64,7 @@ Audacity
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/010/385/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/18711/simage/large-6f2be2826eb5daca0c53a2d9d3ad1370.png</screenshot>
 
 <preinstall>
 

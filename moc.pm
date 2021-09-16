@@ -64,7 +64,7 @@ MOC
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/008/410/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/20427/simage/large-48df6b264973a11ecefa1f918660d0ff.png</screenshot>
 
 <preinstall>
 

@@ -64,7 +64,7 @@ Audacious
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/415/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/13375/simage/large-c14cfd085f2f93bc339ed23dc3b96b3f.png</screenshot>
 
 <preinstall>
 
