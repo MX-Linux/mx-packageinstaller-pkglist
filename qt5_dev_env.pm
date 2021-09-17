@@ -64,7 +64,7 @@ QT5 Dev Enviroment
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/009/134/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/9135/simage/large-8b9e3b4d59744fb8e0d57176f58cc2b4.png</screenshot>
 
 <preinstall>
 

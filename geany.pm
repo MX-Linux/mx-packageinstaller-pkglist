@@ -64,7 +64,7 @@ Geany
 all
 </installable>
 
-<screenshot>http://screenshots.debian.net/screenshots/000/010/462/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/20298/simage/large-c1a664fbdf26dca919dfa7d71bd13af6.png</screenshot>
 
 <preinstall>
 
