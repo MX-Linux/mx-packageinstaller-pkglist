@@ -64,7 +64,7 @@ Mirage
 all
 </installable>
 
-<screenshot>http://screenshots.debian.net/screenshots/000/005/675/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/17077/simage/large-46548f01930173db7d88df0bfaca8a34.png</screenshot>
 
 <preinstall>
 

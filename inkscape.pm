@@ -64,7 +64,7 @@ Inkscape
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/295/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/simage/large-a9cbfc994f89e74e39989722c8ee1210.png</screenshot>
 
 <preinstall>
 

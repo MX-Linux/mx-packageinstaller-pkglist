@@ -64,7 +64,7 @@ Krita
 32,64
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/017/088/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/17088/simage/large-c659c2cd481e3a889007e93872d7d990.png</screenshot>
 
 <preinstall>
 

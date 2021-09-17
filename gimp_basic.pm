@@ -64,7 +64,7 @@ GIMP Basic
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/005/024/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/20295/simage/large-728e3a9877cb35208c407157dbdc8ca1.png</screenshot>
 
 <preinstall>
 

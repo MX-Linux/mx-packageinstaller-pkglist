@@ -64,7 +64,7 @@ Scribus
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/005/761/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/9959/simage/large-f7c0bac461145744e33cace32392f5b3.png</screenshot>
 
 <preinstall>
 

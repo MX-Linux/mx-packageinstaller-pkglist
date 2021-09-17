@@ -64,7 +64,7 @@ Shotwell
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/009/008/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/19498/simage/large-e765009ad7a5d40d1100a7dce019524e.png</screenshot>
 
 <preinstall>
 

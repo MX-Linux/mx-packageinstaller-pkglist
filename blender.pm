@@ -64,7 +64,7 @@ Blender
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/012/359/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/18881/simage/large-e25f6a52875ac2fe9310efefa03b5e4e.png</screenshot>
 
 <preinstall>
 

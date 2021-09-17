@@ -64,7 +64,7 @@ gThumb
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/013/461/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/18425/simage/large-79c8b627d5e79d2195d58e1ef7083fed.png</screenshot>
 
 <preinstall>
 

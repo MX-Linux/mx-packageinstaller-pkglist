@@ -64,7 +64,7 @@ gscan2pdf
 all
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/15650/simage/large-2ef2bfdf7682e98c4c904ba3ccb10f45.png</screenshot>
 
 <preinstall>
 
