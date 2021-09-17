@@ -64,7 +64,7 @@ SuperTuxKart
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/009/727/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/21086/simage/large-78602bbbf8d4bac53a9e411f5be34ebc.png</screenshot>
 
 <preinstall>
 

@@ -64,7 +64,7 @@ Steam
 32,64
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/014/991/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/14991/simage/large-fdb68e27705c0554fa7ffc10e4ba1dc0.png</screenshot>
 
 <preinstall>
 
