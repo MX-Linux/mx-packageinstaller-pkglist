@@ -64,7 +64,7 @@ Claws-Mail
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/004/963/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/simage/large-dbe045ffea027722d4ef09298fb4a475.png</screenshot>
 
 <preinstall>
 

@@ -64,7 +64,7 @@ Thunderbird
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/009/137/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/9137/simage/large-494998606d628caec7cdc1b11ba321e7.png</screenshot>
 
 <preinstall>
 

@@ -64,7 +64,7 @@ Kmail
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/282/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/15282/simage/large-a66c9ca83457d7c6142dd4b2b560388c.png</screenshot>
 
 <preinstall>
 
