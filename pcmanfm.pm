@@ -64,7 +64,7 @@ PCManFM
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/000/678/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/678/simage/large-d684fdae329246e9d64ff756d7026925.png</screenshot>
 
 <preinstall>
 

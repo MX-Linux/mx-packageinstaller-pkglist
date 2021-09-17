@@ -64,7 +64,7 @@ Nemo
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/014/910/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/10645/simage/large-bb41e0eb935574d89e6e935052e50201.png</screenshot>
 
 <preinstall>
 

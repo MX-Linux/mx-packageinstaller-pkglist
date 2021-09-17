@@ -64,7 +64,7 @@ gftp
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/013/705/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/514/simage/large-63f4b658c83970473a75b2f5e5562501.png</screenshot>
 
 <preinstall>
 
