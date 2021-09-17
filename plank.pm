@@ -64,7 +64,7 @@ Plank
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/110/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/16671/simage/large-1637fd3645c613ddcb6ae6380a8c713d.png</screenshot>
 
 <preinstall>
 
