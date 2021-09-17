@@ -64,7 +64,7 @@ Play on Linux
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/063/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/15062/simage/large-ce0adddba47b1796d24f40baaad3daa5.png</screenshot>
 
 <preinstall>
 

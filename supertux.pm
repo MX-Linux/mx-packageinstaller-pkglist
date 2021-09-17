@@ -64,7 +64,7 @@ SuperTux
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/007/228/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/19360/simage/large-28ca72bd8597c8b25b8cf56bb52d7b59.png</screenshot>
 
 <preinstall>
 

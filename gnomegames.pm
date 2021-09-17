@@ -64,7 +64,7 @@ Simple Card Games
 32,64
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/014/909/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/19127/simage/large-9cfeb8c5c871396db2a32a5695c9368d.png</screenshot>
 
 <preinstall>
 

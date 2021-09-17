@@ -64,7 +64,7 @@ Lutris
 32,64
 </installable>
 
-<screenshot></screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/19728/simage/large-0d5cb97b12386e46b5766f169776ddd6.png</screenshot>
 
 <preinstall>
 
