@@ -64,7 +64,7 @@ Cairo Dock
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/009/145/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/9408/simage/large-2e3b2b89a8137631be6aaf4024af45bf.png</screenshot>
 
 <preinstall>
 
