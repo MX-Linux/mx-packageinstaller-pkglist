@@ -64,7 +64,7 @@ KDE5 Standard
 all
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/15970/simage/large-1cfbe7b3b55e8064866402bf7d787529.png</screenshot>
 
 <preinstall>
 apt-get update

@@ -64,7 +64,7 @@ MATE
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/010/990/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/10989/simage/large-5f6b6d061614f03ee7b6bd5c55064986.png</screenshot>
 
 <preinstall>
 
