@@ -64,7 +64,7 @@ Gnome Base
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/010/781/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/21037/simage/large-8e296fd0bd6ec74f8d231527566553e5.png</screenshot>
 
 <preinstall>
 
