@@ -64,7 +64,7 @@ Filezilla
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/296/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/16543/simage/large-0c91b873626cbcbb45a974f4f7cedc4a.png</screenshot>
 
 <preinstall>
 

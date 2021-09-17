@@ -64,7 +64,7 @@ SpaceFM
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/014/593/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/14626/simage/large-64be861cbc3a5c9425856aa24ecb34e6.png</screenshot>
 
 <preinstall>
 

@@ -64,7 +64,7 @@ Dolphin
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/016/631/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/14863/simage/large-fd15a4ccfdf71e01f83f9dcffe13b1cd.png</screenshot>
 
 <preinstall>
 
