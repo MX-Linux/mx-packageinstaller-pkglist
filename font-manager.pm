@@ -64,7 +64,7 @@ font-manager
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/014/272/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/19173/simage/large-3accd8fd6ea15e8aad9622f45c664dec.png</screenshot>
 
 <preinstall>
 
