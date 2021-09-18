@@ -64,7 +64,7 @@ MS-Teams
 64
 </installable>
 
-<screenshot></screenshot>
+<screenshot>https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/KeyMessage3:VP5-1920x720</screenshot>
 
 <preinstall>
 curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > /tmp/microsoft.gpg

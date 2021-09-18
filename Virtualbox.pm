@@ -65,7 +65,7 @@ VirtualBox
 64
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/010/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/9108/simage/large-e5809fdad2f4fa256e63549c1d1117fa.png</screenshot>
 
 <preinstall>
 

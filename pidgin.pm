@@ -64,7 +64,7 @@ Pidgin
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/009/009/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/9009/simage/large-4d05cebb5f4c5a3b1bde5f73798bc7dd.png</screenshot>
 
 <preinstall>
 
