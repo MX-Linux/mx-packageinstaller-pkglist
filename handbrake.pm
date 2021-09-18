@@ -64,7 +64,7 @@ Handbrake
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/014/720/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/18400/simage/large-6335d2f42f3491f7d8582e348a082b06.png</screenshot>
 
 <preinstall>
 

@@ -64,7 +64,7 @@ Kodi
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/013/655/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/13655/simage/large-416335837027fc248977245b4bf5d9e5.png</screenshot>
 
 <preinstall>
 
