@@ -6,72 +6,72 @@ Torrent
 </category>
 
 <name>
-Deluge
+rTorrent
 </name>
 
 <description>
-   <am>bittorrent client written in Python/PyGTK</am>
-   <ar>bittorrent client written in Python/PyGTK</ar>
-   <bg>bittorrent client written in Python/PyGTK</bg>
-   <bn>bittorrent client written in Python/PyGTK</bn>
-   <ca>bittorrent client written in Python/PyGTK</ca>
-   <cs>bittorrent client written in Python/PyGTK</cs>
-   <da>bittorrent client written in Python/PyGTK</da>
-   <de>bittorrent client written in Python/PyGTK</de>
-   <el>bittorrent client written in Python/PyGTK</el>
-   <en>bittorrent client written in Python/PyGTK</en>
-   <es>bittorrent client written in Python/PyGTK</es>
-   <et>bittorrent client written in Python/PyGTK</et>
-   <eu>bittorrent client written in Python/PyGTK</eu>
-   <fa>bittorrent client written in Python/PyGTK</fa>
-   <fil_PH>bittorrent client written in Python/PyGTK</fil_PH>
-   <fi>bittorrent client written in Python/PyGTK</fi>
-   <fr>bittorrent client written in Python/PyGTK</fr>
-   <he_IL>bittorrent client written in Python/PyGTK</he_IL>
-   <hi>bittorrent client written in Python/PyGTK</hi>
-   <hr>bittorrent client written in Python/PyGTK</hr>
-   <hu>bittorrent client written in Python/PyGTK</hu>
-   <id>bittorrent client written in Python/PyGTK</id>
-   <is>bittorrent client written in Python/PyGTK</is>
+   <am>an ncurses BitTorrent client</am>
+   <ar>an ncurses BitTorrent client</ar>
+   <bg>an ncurses BitTorrent client</bg>
+   <bn>an ncurses BitTorrent client</bn>
+   <ca>Un client de BitTorrent en ncurses</ca>
+   <cs>an ncurses BitTorrent client</cs>
+   <da>en ncurses BitTorrent-klient</da>
+   <de>Ein mit ncurses realisierter BitTorrent-Client</de>
+   <el>ένα ncurses BitTorrent πελάτη</el>
+   <en>an ncurses BitTorrent client</en>
+   <es>Un cliente ncurses BitTorrent</es>
+   <et>an ncurses BitTorrent client</et>
+   <eu>an ncurses BitTorrent client</eu>
+   <fa>an ncurses BitTorrent client</fa>
+   <fil_PH>an ncurses BitTorrent client</fil_PH>
+   <fi>an ncurses BitTorrent client</fi>
+   <fr>Client BitTorrent ncurses</fr>
+   <he_IL>an ncurses BitTorrent client</he_IL>
+   <hi>an ncurses BitTorrent client</hi>
+   <hr>an ncurses BitTorrent client</hr>
+   <hu>an ncurses BitTorrent client</hu>
+   <id>an ncurses BitTorrent client</id>
+   <is>an ncurses BitTorrent client</is>
    <it>client BitTorrent che usa ncurses</it>
-   <ja_JP>bittorrent client written in Python/PyGTK</ja_JP>
-   <ja>bittorrent client written in Python/PyGTK</ja>
-   <kk>bittorrent client written in Python/PyGTK</kk>
-   <ko>bittorrent client written in Python/PyGTK</ko>
-   <lt>bittorrent client written in Python/PyGTK</lt>
-   <mk>bittorrent client written in Python/PyGTK</mk>
-   <mr>bittorrent client written in Python/PyGTK</mr>
-   <nb>bittorrent client written in Python/PyGTK</nb>
-   <nl>bittorrent client written in Python/PyGTK</nl>
-   <pl>bittorrent client written in Python/PyGTK</pl>
-   <pt_BR>bittorrent client written in Python/PyGTK</pt_BR>
-   <pt>bittorrent client written in Python/PyGTK</pt>
-   <ro>bittorrent client written in Python/PyGTK</ro>
-   <ru>bittorrent client written in Python/PyGTK</ru>
-   <sk>bittorrent client written in Python/PyGTK</sk>
-   <sl>bittorrent client written in Python/PyGTK</sl>
-   <sq>bittorrent client written in Python/PyGTK</sq>
-   <sr>bittorrent client written in Python/PyGTK</sr>
-   <sv>bittorrent client written in Python/PyGTK</sv>
-   <tr>bittorrent client written in Python/PyGTK</tr>
-   <uk>bittorrent client written in Python/PyGTK</uk>
-   <vi>bittorrent client written in Python/PyGTK</vi>
-   <zh_CN>bittorrent client written in Python/PyGTK</zh_CN>
-   <zh_TW>bittorrent client written in Python/PyGTK</zh_TW>
+   <ja_JP>an ncurses BitTorrent client</ja_JP>
+   <ja>an ncurses BitTorrent client</ja>
+   <kk>an ncurses BitTorrent client</kk>
+   <ko>an ncurses BitTorrent client</ko>
+   <lt>an ncurses BitTorrent client</lt>
+   <mk>an ncurses BitTorrent client</mk>
+   <mr>an ncurses BitTorrent client</mr>
+   <nb>an ncurses BitTorrent client</nb>
+   <nl>een ncurses BitTorrent programma</nl>
+   <pl>klient ncurses BitTorrent</pl>
+   <pt_BR>Cliente de BitTorrent baseado em ncurses</pt_BR>
+   <pt>Cliente de BitTorrent baseado em ncurses</pt>
+   <ro>an ncurses BitTorrent client</ro>
+   <ru>Клиент BitTorrent с интерфейсом на ncurses</ru>
+   <sk>an ncurses BitTorrent client</sk>
+   <sl>Ncurses BitTorrent odjemalec</sl>
+   <sq>an ncurses BitTorrent client</sq>
+   <sr>an ncurses BitTorrent client</sr>
+   <sv>en ncurses BitTorrent klient</sv>
+   <tr>an ncurses BitTorrent client</tr>
+   <uk>консольний BitTorrent клієнт</uk>
+   <vi>an ncurses BitTorrent client</vi>
+   <zh_CN>an ncurses BitTorrent client</zh_CN>
+   <zh_TW>an ncurses BitTorrent client</zh_TW>
 </description>
 
 <installable>
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/shrine/screenshot/7842/simage/large-dd1502fd1ac4ea5a8eca711b5b9f2263.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/7759/simage/small-c9c590a75f503e24cbc5c05f287e68c4.png</screenshot>
 
 <preinstall>
 
 </preinstall>
 
 <install_package_names>
-deluge
+rtorrent
 </install_package_names>
 
 
@@ -81,6 +81,6 @@ deluge
 
 
 <uninstall_package_names>
-deluge
+rtorrent
 </uninstall_package_names>
 </app>
