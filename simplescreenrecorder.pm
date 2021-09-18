@@ -65,7 +65,7 @@ SimpleScreenRecorder
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/303/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/16802/simage/large-ec0c111cee540b8a7ab79897edf95a0e.png</screenshot>
 
 <preinstall>
 
