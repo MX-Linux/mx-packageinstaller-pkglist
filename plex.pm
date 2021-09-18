@@ -64,7 +64,7 @@ Plex
 32,64
 </installable>
 
-<screenshot>https://www.plex.tv/wp-content/uploads/2016/06/image-block-plex-media-server-macbook.jpg</screenshot>
+<screenshot>https://www.plex.tv/wp-content/uploads/2021/05/image-avod-devices-all-may-2021-1440x872.png</screenshot>
 
 <preinstall>
 apt-get install apt-transport-https

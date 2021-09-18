@@ -64,7 +64,7 @@ WinFF
 32,64
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/009/557/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/9557/simage/large-9bbe837c9012e8e213fbed74a818fdd1.png</screenshot>
 
 <preinstall>
 
