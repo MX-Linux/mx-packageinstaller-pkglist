@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (21.09.04mx21) mx; urgency=medium
+
+  * update screenshots 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 18 Sep 2021 17:27:34 -0400
+
 mx-packageinstaller-pkglist (21.09.03mx21) mx; urgency=medium
 
   * add xfce4-screenshooter
