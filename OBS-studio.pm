@@ -65,7 +65,7 @@ OBS-Studio
 32,64
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/014/886/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/14886/simage/large-857110c6c568d762f6b90ffda2444c38.png</screenshot>
 
 <preinstall>
 
