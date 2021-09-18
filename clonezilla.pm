@@ -64,7 +64,7 @@ clonezilla
 all
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/16934/simage/large-c325f6808fa1b883eb4f4f2348607c43.png</screenshot>
 
 <preinstall>
 

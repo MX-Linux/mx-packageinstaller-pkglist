@@ -64,7 +64,7 @@ Kdenlive
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/004/462/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/simage/large-7b16775f8299dafdaff98fe052862521.png</screenshot>
 
 <preinstall>
 
