@@ -64,7 +64,7 @@ Google Earth Pro
 64
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot>https://www.google.com/intl/en_us/earth/assets/static/images/versions/versions__pro__desktop-image.v2.png</screenshot>
 
 <preinstall>
 wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -

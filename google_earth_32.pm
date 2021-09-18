@@ -64,7 +64,7 @@ Google Earth
 32
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot>https://www.google.com/intl/en_us/earth/assets/static/images/versions/versions__pro__desktop-image.v2.png</screenshot>
 
 <preinstall>
 wget http://dl.google.com/dl/earth/client/current/google-earth-stable_current_i386.deb

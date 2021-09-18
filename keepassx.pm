@@ -64,7 +64,7 @@ KeepassX
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/308/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/15308/simage/large-fa1c9a17fe53dd738f36b802f1986bdc.png</screenshot>
 
 <preinstall>
 
