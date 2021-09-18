@@ -64,7 +64,7 @@ Gnumeric
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/000/200/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/17740/simage/large-bda6ce9db2eea5d7e8ebbf50f06aece9.png</screenshot>
 
 <preinstall>
 

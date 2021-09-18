@@ -64,7 +64,7 @@ GnuCash
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/007/648/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/7648/simage/large-19cc92a51eb040d99c23d0c9cc00c461.png</screenshot>
 
 <preinstall>
 

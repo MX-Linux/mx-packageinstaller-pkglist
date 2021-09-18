@@ -65,7 +65,7 @@ LibreOffice (backports version)
 32,64
 </installable>
 
-<screenshot></screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/18671/simage/large-c8241f577413887dbe78e15ff7706863.png</screenshot>
 
 <preinstall>
 

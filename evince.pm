@@ -64,7 +64,7 @@ Evince
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/840/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/18669/simage/large-7189a84321497a2e8e99d24f99088376.png</screenshot>
 
 <preinstall>
 

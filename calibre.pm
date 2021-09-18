@@ -64,7 +64,7 @@ Calibre
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/014/971/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/14971/simage/large-11a7b7b361bc4ac3a7b0488a61b6a157.png</screenshot>
 
 <preinstall>
 
