@@ -64,7 +64,7 @@ Openshot
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/009/285/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/9285/simage/large-b66a17bfbf56c0352158487f1640c87f.png</screenshot>
 
 <preinstall>
 

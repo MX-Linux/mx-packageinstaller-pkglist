@@ -64,7 +64,7 @@ SMplayer
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/015/414/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/16565/simage/large-37df3ff568411fefa80297c9db6a2cf7.png</screenshot>
 
 <preinstall>
 

@@ -64,7 +64,7 @@ SMtube
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/010/334/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/16566/simage/large-a31e1d6ee82b6e3be8387b934b9b16b0.png</screenshot>
 
 <preinstall>
 

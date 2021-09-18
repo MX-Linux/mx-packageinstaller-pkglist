@@ -64,7 +64,7 @@ Deluge
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/shrine/screenshot/7842/simage/large-dd1502fd1ac4ea5a8eca711b5b9f2263.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/7843/simage/large-9b59ed83a57ba3cd871f3a1e6e3024d0.png</screenshot>
 
 <preinstall>
 
