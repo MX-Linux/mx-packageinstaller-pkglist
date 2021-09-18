@@ -64,7 +64,7 @@ Okular
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/009/644/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/18985/simage/large-7a7455471559509df398e15ef333df64.png</screenshot>
 
 <preinstall>
 

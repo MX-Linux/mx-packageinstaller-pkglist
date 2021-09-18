@@ -64,7 +64,7 @@ HP Printing
 all
 </installable>
 
-<screenshot>none</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/16686/simage/large-da60e95bb7ce4a10ed1821b8c9081223.png</screenshot>
 
 <preinstall>
 

@@ -64,7 +64,7 @@ Abiword
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/013/886/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/17757/simage/large-feb423487ee4a063e0ff8ac8a1400f05.png</screenshot>
 
 <preinstall>
 

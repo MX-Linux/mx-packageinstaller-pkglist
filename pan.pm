@@ -64,7 +64,7 @@ Pan
 all
 </installable>
 
-<screenshot>https://screenshots.debian.net/screenshots/000/000/586/large.png</screenshot>
+<screenshot>https://screenshots.debian.net/shrine/screenshot/586/simage/large-f9b546c944f81a4e8f7868d477cf2cc7.png</screenshot>
 
 <preinstall>
 
