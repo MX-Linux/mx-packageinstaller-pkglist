@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (21.10.01mx21) mx; urgency=medium
+
+  * update debian kernel label 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 06 Oct 2021 09:54:43 -0400
+
 mx-packageinstaller-pkglist (21.09.06mx21) mx; urgency=medium
 
   * hindi fonts 

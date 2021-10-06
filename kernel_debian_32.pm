@@ -6,7 +6,7 @@ Kernels
 </category>
 
 <name>
-Debian 32 bit no-pae (4.19)
+Debian 32 bit no-pae (5.10)
 </name>
 
 <description>
