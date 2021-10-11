@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <app>
 
 <category>
@@ -67,51 +67,54 @@ Opera
 <screenshot>http://www-static.operacdn.com/static-heap/e3/e3be37900045a27590062000a1e380e005644b8a/linux.png</screenshot>
 
 <preinstall>
-
-# get opera archive keying
+# prepare tmpdir 
 TD=$(mktemp -d /tmp/tmpdir-opera-keyring.XXXXXXXXXXXXX)
 
-AK=$TD/opera-archive-keyring.asc
+TA=$TD/opera-archive-keyring.asc
+TK=$TD/opera-archive-keyring.gpg
+AK=/etc/apt/trusted.gpg.d/opera-archive-keyring.gpg
+SL=/etc/apt/sources.list.d/opera-stable.list
+
+if [ -f $AK ];then rm $AK; fi
+if [ -f $SL ];then rm $SL; fi
+
+# prepare tidy-up
+tidy_up() { rm -r $TD  2>/dev/null; }
+trap tidy_up EXIT
 
 echo "Get Opera Archive Keyring"
-
-curl -sq -o $AK -RLJ https://deb.opera.com/archive.key
-if [ ! -f $AK ]; then
+curl -sq -o $TA -RLJ https://deb.opera.com/archive.key
+if [ ! -f $TA ]; then
 echo "Failed to fetch Oprea Archive Keyring"
 echo "Exit"
 exit 1
 fi
 
 # keyring sanity check
-TK=$TD/keyring.kbx
-gpg -q --no-default-keyring --keyring $TK --import $AK
+touch $TK 
+gpg -q --no-default-keyring --keyring gnupg-ring:$TK --import $TA
 
 echo "Adding Opera Archive Keyring"
 
-AK=/etc/apt/trusted.gpg.d/opera-archive-keyring.gpg
-rm $AK 2>/dev/null
+gpg --no-default-keyring --keyring gnupg-ring:$TK --keyid-format 0xlong --list-keys
 
-gpg --no-default-keyring --keyring $TK --output $AK --export  'Opera Software Archive'
-gpg --no-default-keyring --keyring $AK --keyid-format 0xlong --list-keys 'Opera Software Archive'
-
-rm -r $TD 2>/dev/null
+cp $TK $AK
+chmod 744 $AK
 
 # disable opera in /etc/apt/sources.list.d/various.list
-
 if [ -f /etc/apt/sources.list.d/various.list ]; then
-sed -i -r '/opera.com/{s/^[[:space:]]*//; s/^([^#])/# \1/}' /etc/apt/sources.list.d/various.list
+   sed -i -r '/opera.com/d' /etc/apt/sources.list.d/various.list
 fi
 
-
-# enable opera's default list  in /etc/apt/sources.list.d/opera-stable.list
+# enable opera's sources list /etc/apt/sources.list.d/opera-stable.list
 echo "deb https://deb.opera.com/opera-stable/ stable non-free" > /etc/apt/sources.list.d/opera-stable.list
-
-apt-get update
 
 # create dummy /etc/apt/sources.list
 if [ ! -f /etc/apt/sources.list ]; then
 echo "## empty list " > /etc/apt/sources.list
 fi
+
+apt-get update
 
 </preinstall>
 
@@ -121,15 +124,33 @@ opera-stable
 
 
 <postinstall>
+    
+case "$(dpkg --print-architecture)" in
+amd64)  OLIB="/usr/lib/x86_64-linux-gnu/opera"
+;;
+i386)   OLIB="/usr/lib/i386-linux-gnu/opera"
+;;
+esac
 
-# if [ -f /etc/apt/sources.list.d/opera-stable.list ]; then sed -i -r '/opera.com/ s/^([^#])/#\1/' /etc/apt/sources.list.d/various.list; apt-get update; fi
+if [ ! -d $OLIB ]; then
+   exit 0
+fi
 
 echo "#-------------------------------------#"
 echo "adding HTML5 propriatary media support"
 echo "#-------------------------------------#"
 #set -x
+# ubuntu signing keys
+KIDS=(
+#pub  rsa4096/0x871920D1991BC93C 2018-09-17 [SC]
+      F6ECB3762474EDA9D21B7022871920D1991BC93C
+#uid  Ubuntu Archive Automatic Signing Key (2018)
 
-KIDS="0x3B4FE6ACC0B21F32 0BFB847F3F272F5B 0x40976EAF437D05B5"
+#pub  rsa4096/0x3B4FE6ACC0B21F32 2012-05-11 [SC]
+      790BC7277767219C42C86F933B4FE6ACC0B21F32
+#uid  Ubuntu Archive Automatic Signing Key (2012)
+)
+
 KS="--keyserver keyserver.ubuntu.com"
 B=http://security.ubuntu.com/ubuntu
 
@@ -138,31 +159,43 @@ case $( . /etc/os-release; echo $VERSION_ID) in
 ;;
 10) U=$B/dists/bionic-security
 ;;
-*) U=$B/dists/xenial-security
+11) U=$B/dists/bionic-security
+;;
+*)  U=$B/dists/bionic-security
 ;;
 esac
 
+# prepare tmpdir 
 TD=$(mktemp -d /tmp/tmpdir-ffmpeg.XXXXXXXXXXXXX)
-KR="--keyring $TD/keyring.kbx"
+# prepare tidy-up
+tidy_up() { rm -r $TD  2>/dev/null; }
+trap tidy_up EXIT
 
-if  gpg -q --no-default-keyring  $KR $KS --recv-key $KIDS  2>/dev/null; then
+KR="$TD/keyring.kbx"
+touch $KR 
+if  gpg -q --no-default-keyring --keyring $KR $KS --recv-key ${KIDS[@]}  2>/dev/null; then
 echo "Checking security-archive signing key :  OK"
 else
 echo "Checking security-archive signing key : failed "
 echo "Exit"
-exit 1
+exit 
 fi
 
 R=$TD/InRelease
 curl -sq -o $R -RLJ $U/InRelease
+if [ ! -f $R ]; then
+echo "Failed to get InRelease file"
+exit  
+fi
 
-if  gpgv -q $KR  $R  2>/dev/null; then
+if  gpgv -q --keyring $KR $R  2>/dev/null; then
 echo "Release signature check: OK"
 else
 echo "Release signature check: failed "
 echo "Exit"
-exit 2
+exit 
 fi
+
 ARCH="$(dpkg --print-architecture)"
 S=$(sed -n -E  's=^ ([a-zA-Z0-9]{64}).*universe/binary-'"$ARCH"'/Packages.gz=\1=p' $R )
 
@@ -176,13 +209,11 @@ echo "Package-list checksum verification: ok"
 else
 echo "Package-list checksum verification: failed"
 echo "Exit"
-exit 3
+exit 
 fi
-
 
 P=$(zgrep -E '^Filename|^SHA256:' $P  | grep -v -- '-dbg' | grep -E '\bchromium-codecs-ffmpeg-extra_' | sed 's/Filename: //')
 S=$(zgrep -E '^Filename|^SHA256:' Packages.gz  | grep -v -- '-dbg' | grep -A1 -E '\bchromium-codecs-ffmpeg-extra_' | grep -m1 ^SHA256 |  sed 's/SHA256: //')
-
 
 DEB=chromium-codecs-ffmpeg-extra.deb
 echo "$S  $DEB" > $DEB.sha256
@@ -194,7 +225,7 @@ echo "Deb-package checksum verification: ok"
 else
 echo "deb-Package checksum verification: failed"
 echo "Exit"
-exit 3
+exit 
 fi
 
 case "$(dpkg --print-architecture)" in
@@ -209,10 +240,7 @@ dpkg-deb --fsys-tarfile $DEB | sudo tar x -C / --wildcards \*libffmpeg\.so --xfo
 echo "Installed lib: /$LIB/libffmpeg.so"
 echo "Installed $( strings /$LIB/libffmpeg.so | grep -m1 'FFmpeg version')"
 
-rm -r $TD 2>/dev/null
-
-echo DONE
-
+echo ... $(gettext -d apt -s ' Done')'!'
 </postinstall>
 
 
@@ -222,16 +250,17 @@ opera-stable
 
 <postuninstall>
 
-#set -x
-# disable opera in /etc/apt/sources.list.d/various.list
-
+# remove opera's sources lists entries
 if [ -f "/etc/apt/sources.list.d/various.list" ]; then
-sed -i -r '/opera.com/{s/^[[:space:]]*//; s/^([^#])/# \1/}' /etc/apt/sources.list.d/various.list
+sed -i -r '/opera.com/d' /etc/apt/sources.list.d/various.list
+fi
+if [ -f /etc/apt/sources.list.d/opera-stable.list ]; then
+     rm /etc/apt/sources.list.d/opera-stable.list
 fi
 
-# disable opera's default list  in /etc/apt/sources.list.d/opera-stable.list
-if [ -f /etc/apt/sources.list.d/opera-stable.list ]; then
-sed -i -r '/opera.com/{s/^[[:space:]]*//; s/^([^#])/# \1/}' /etc/apt/sources.list.d/opera-stable.list
+# remove opera-archive-keyring
+if [ -f /etc/apt/trusted.gpg.d/opera-archive-keyring.gpg ]; then
+     rm /etc/apt/trusted.gpg.d/opera-archive-keyring.gpg
 fi
 
 case "$(dpkg --print-architecture)" in
