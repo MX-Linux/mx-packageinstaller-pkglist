@@ -6,7 +6,7 @@ Browser
 </category>
 
 <name>
-Waterfox Current
+Waterfox G3
 </name>
 
 <description>
@@ -76,28 +76,27 @@ waterfox-g3-kpe
 <postinstall>
 
 if ! dpkg-query -f '${db:Status-Abbrev}' -W  waterfox-g3-kpe 2>/dev/null | grep -sq '^i'; then
-   echo DONE!
    exit
 fi
 
 # add xfce helper preferred applcations
-HELPER='[Desktop Entry]
-Version=1.0
-Encoding=UTF-8
-Icon=waterfox-g3
-Name=Waterfox-current
-NoDisplay=true
-StartupNotify=false
-Terminal=false
-Type=X-XFCE-Helper
-X-XFCE-Binaries=waterfox-g3;
-X-XFCE-Category=WebBrowser
-X-XFCE-Commands=%B;
-X-XFCE-CommandsWithParameter=%B "%s";
-'
-if [ -d /usr/share/xfce4/helpers ]; then
-   echo "$HELPER" > /usr/share/xfce4/helpers/waterfox-current.desktop
-fi
+#HELPER='[Desktop Entry]
+#Version=1.0
+#Encoding=UTF-8
+#Icon=waterfox-g3
+#Name=Waterfox-current
+#NoDisplay=true
+#StartupNotify=false
+#Terminal=false
+#Type=X-XFCE-Helper
+#X-XFCE-Binaries=waterfox-g3;
+#X-XFCE-Category=WebBrowser
+#X-XFCE-Commands=%B;
+#X-XFCE-CommandsWithParameter=%B "%s";
+#'
+#if [ -d /usr/share/xfce4/helpers ]; then
+#   echo "$HELPER" > /usr/share/xfce4/helpers/waterfox-current.desktop
+#fi
 
 PKGS=()
 # KDE Plasma intergration
@@ -119,7 +118,7 @@ else
     echo "Checking available language packs..."
     # lookup all available lang-packs
     I18N=( $(LANG=C apt-cache policy  'waterfox-g3-i18n-*' | \
-            sed -nr '/waterfox-current-i18n-([^:]+):/s//\1/p' ) )
+            sed -nr '/waterfox-g3-i18n-([^:]+):/s//\1/p' ) )
 
     # check available language packs
     for lang in "${langlocale[@]}"; do
@@ -141,7 +140,7 @@ PKGS=( $( printf '%s\n' ${PKGS[@]} | sort -ru)  )
 if [ "${#PKGS[@]}" -gt 0 ]; then
     apt-get --yes  -o=Dpkg::Use-Pty=0 install --reinstall "${PKGS[@]}"
 fi
-echo Done!
+echo ... $(gettext -d apt -s ' Done')'!'
 
 </postinstall>
 
@@ -152,6 +151,9 @@ waterfox-g3-kpe
 <postuninstall>
 if [ -f /usr/share/xfce4/helpers/waterfox-current.desktop ]; then
    rm   /usr/share/xfce4/helpers/waterfox-current.desktop
+fi
+if [ -f /usr/share/xfce4/helpers/waterfox-g3.desktop ]; then
+   rm   /usr/share/xfce4/helpers/waterfox-g3.desktop
 fi
 </postuninstall>
 </app>
