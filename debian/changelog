@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (21.10.05mx21) mx; urgency=medium
+
+  * add slack-desktop 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 23 Oct 2021 12:48:26 -0400
+
 mx-packageinstaller-pkglist (21.10.03mx21) mx; urgency=medium
 
   * update freeoffice 
