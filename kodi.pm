@@ -72,6 +72,7 @@ all
 
 <install_package_names>
 kodi
+kodi-repository-kodi
 </install_package_names>
 
 
@@ -82,5 +83,6 @@ kodi
 
 <uninstall_package_names>
 kodi
+kodi-repository-kodi
 </uninstall_package_names>
 </app>
