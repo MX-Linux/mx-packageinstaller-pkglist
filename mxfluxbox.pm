@@ -73,10 +73,12 @@ idesk
 mx-fluxbox
 gkrellm
 mxfb-docs  
-mx-fluxbox-data 
+mx-fluxbox-data
+mxfb-accessories
 wmalauncher 
 lxappearance 
 rofi-calc
+custom-toolbox
 </install_package_names>
 
 
@@ -92,8 +94,10 @@ mx-fluxbox
 gkrellm
 mxfb-docs 
 mx-fluxbox-data 
+mxfb-accessories
 wmalauncher 
 lxappearance 
 rofi-calc
+custom-toolbox
 </uninstall_package_names>
 </app>

@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (21.10.08mx21) mx; urgency=medium
+
+  * flesh out mxfluxbox.pm
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 30 Oct 2021 16:27:05 -0400
+
 mx-packageinstaller-pkglist (21.10.07mx21) mx; urgency=medium
 
   * update kodi.pm 
