@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (21.11.01mx21) mx; urgency=medium
+
+  * update signal-desktop
+  * add 5.14 kernel (ahs) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 23 Nov 2021 22:53:07 -0500
+
 mx-packageinstaller-pkglist (21.10.08mx21) mx; urgency=medium
 
   * flesh out mxfluxbox.pm
