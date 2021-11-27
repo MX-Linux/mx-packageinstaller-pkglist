@@ -61,20 +61,13 @@ Master PDF Editor (Free Version)
 </description>
 
 <installable>
-32,64
+64
 </installable>
 
 <screenshot>https://code-industry.net/wp-content/uploads/2016/05/pdfa-edit.png</screenshot>
 
 <preinstall>
-ARCH=$(dpkg --print-architecture)
-if [ "$ARCH" = "amd64" ]; then
-	ARCH="x86_64"
-fi
-
-curl -RL $(curl -s curl -s https://code-industry.net/free-pdf-editor/ |grep qt5.$ARCH.deb |cut -d"\"" -f2) -o /tmp/master_pdf.deb
-apt install /tmp/master_pdf.deb
-rm /tmp/master_pdf.deb
+/usr/share/mx-packageinstaller-pkglist/install-master-pdf-editor.sh
 </preinstall>
 
 <install_package_names>
