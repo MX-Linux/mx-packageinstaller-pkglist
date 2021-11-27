@@ -1,3 +1,15 @@
+mx-packageinstaller-pkglist (21.08.6mx19) mx; urgency=medium
+
+  * update master-pdf-editor-5
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 27 Nov 2021 13:27:35 -0500
+
+mx-packageinstaller-pkglist (21.08.5mx19) mx; urgency=medium
+
+  * update freeoffice
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 22 Oct 2021 21:37:14 -0400
+
 mx-packageinstaller-pkglist (21.08.4mx19) mx; urgency=medium
 
   * actually enable ahs repo to install kernels 
