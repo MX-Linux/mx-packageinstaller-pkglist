@@ -10,54 +10,54 @@ Variety
 </name>
 
 <description>
-   <am>wallpaper changer and manager</am>
-   <ar>wallpaper changer and manager</ar>
-   <bg>wallpaper changer and manager</bg>
-   <bn>wallpaper changer and manager</bn>
-   <ca>wallpaper changer and manager</ca>
-   <cs>wallpaper changer and manager</cs>
-   <da>wallpaper changer and manager</da>
-   <de>wallpaper changer and manager</de>
-   <el>wallpaper changer and manager</el>
+   <am>պաստառների փոխարկիչ և կառավարիչ</am>
+   <ar>مدير ومغير ورق الحائط</ar>
+   <bg>смяна на тапети и мениджър</bg>
+   <bn>penukar kertas dinding dan pengurus</bn>
+   <ca>gestor i canviador de fons de pantalla</ca>
+   <cs>měnič a správce tapet</cs>
+   <da>tapetskifter og manager</da>
+   <de>Tapetenwechsler und Manager</de>
+   <el>αλλαγή ταπετσαρίας και διαχειριστής</el>
    <en>wallpaper changer and manager</en>
-   <es>wallpaper changer and manager</es>
-   <et>wallpaper changer and manager</et>
-   <eu>wallpaper changer and manager</eu>
-   <fa>wallpaper changer and manager</fa>
-   <fil_PH>wallpaper changer and manager</fil_PH>
-   <fi>wallpaper changer and manager</fi>
-   <fr>wallpaper changer and manager</fr>
-   <he_IL>wallpaper changer and manager</he_IL>
-   <hi>wallpaper changer and manager</hi>
-   <hr>wallpaper changer and manager</hr>
-   <hu>wallpaper changer and manager</hu>
-   <id>wallpaper changer and manager</id>
-   <is>wallpaper changer and manager</is>
-   <it>wallpaper changer and manager</it>
-   <ja_JP>wallpaper changer and manager</ja_JP>
-   <ja>wallpaper changer and manager</ja>
-   <kk>wallpaper changer and manager</kk>
-   <ko>wallpaper changer and manager</ko>
-   <lt>wallpaper changer and manager</lt>
-   <mk>wallpaper changer and manager</mk>
-   <mr>wallpaper changer and manager</mr>
-   <nb>wallpaper changer and manager</nb>
-   <nl>wallpaper changer and manager</nl>
-   <pl>wallpaper changer and manager</pl>
-   <pt_BR>wallpaper changer and manager</pt_BR>
-   <pt>wallpaper changer and manager</pt>
-   <ro>wallpaper changer and manager</ro>
-   <ru>wallpaper changer and manager</ru>
-   <sk>wallpaper changer and manager</sk>
-   <sl>wallpaper changer and manager</sl>
-   <sq>wallpaper changer and manager</sq>
-   <sr>wallpaper changer and manager</sr>
-   <sv>wallpaper changer and manager</sv>
-   <tr>wallpaper changer and manager</tr>
-   <uk>wallpaper changer and manager</uk>
-   <vi>wallpaper changer and manager</vi>
-   <zh_CN>wallpaper changer and manager</zh_CN>
-   <zh_TW>wallpaper changer and manager</zh_TW>
+   <es>cambiador de papel tapiz y administrador</es>
+   <et>tapeedivahetaja ja haldur</et>
+   <eu>horma-paper-aldaketa eta kudeatzailea</eu>
+   <fa>تغییر دهنده و مدیر کاغذ دیواری   </fa>
+   <fil_PH>wallpaper changer at manager</fil_PH>
+   <fi>taustakuvan vaihtaja ja johtaja</fi>
+   <fr>changeur et gestionnaire de fond d'écran</fr>
+   <he_IL>מחליף טפטים ומנהל </he_IL>
+   <hi>वॉलपेपर परिवर्तक और प्रबंधक</hi>
+   <hr>mjenjač tapeta i upravitelj</hr>
+   <hu>tapéta váltó és menedzser</hu>
+   <id>pengubah dan pengelola wallpaper</id>
+   <is>veggfóðursbreytir og framkvæmdastjóri</is>
+   <it>cambia sfondi e gestore</it>
+   <ja_JP>壁紙チェンジャーとマネージャー</ja_JP>
+   <ja>壁紙チェンジャーとマネージャー</ja>
+   <kk>тұсқағазды өзгертуші және менеджер</kk>
+   <ko>월페이퍼 체인저 및 관리자</ko>
+   <lt>tapetų keitiklis ir tvarkyklė</lt>
+   <mk>менувач на тапети и менаџер</mk>
+   <mr>वॉलपेपर चेंजर आणि व्यवस्थापक</mr>
+   <nb>bakgrunnsveksler og manager</nb>
+   <nl>behangwisselaar en manager</nl>
+   <pl>zmieniacz tapet i menedżer</pl>
+   <pt_BR>trocador e gerenciador de papel de parede</pt_BR>
+   <pt>trocador e gerenciador de papel de parede</pt>
+   <ro>schimbător de imagini de fundal și manager</ro>
+   <ru>сменщик обоев и менеджер</ru>
+   <sk>menič tapiet a manažér</sk>
+   <sl>menjalnik ozadja in upravitelj</sl>
+   <sq>ndërruesi dhe menaxheri i letër-muri</sq>
+   <sr>мењач тапета и менаџер</sr>
+   <sv>мењач тапета и менаџер</sv>
+   <tr>duvar kağıdı değiştirici ve yönetici</tr>
+   <uk>зміна шпалер і менеджер</uk>
+   <vi>trình thay đổi hình nền và trình quản lý</vi>
+   <zh_CN>壁紙更換器和經理</zh_CN>
+   <zh_TW>壁纸更换器和经理</zh_TW>
 </description>
 
 <installable>
