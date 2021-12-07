@@ -73,6 +73,7 @@ package_list="
 libreoffice-l10n-kk
 "
 lo-installer.sh $package_list
+apt-get update -o=Dpkg::Use-Pty=0 -o Acquire::http:Timeout=10 -o Acquire::https:Timeout=10 -o Acquire::ftp:Timeout=10
 
 </preinstall>
 

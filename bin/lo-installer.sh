@@ -5,238 +5,343 @@
 # from default debian repo or up-/downgrade to/from debian backports
 #  vers 2019-10-16.2
 #  vers 2020-02-10.1
-
-this="${0##*/}"
-
-# debian distro codename
-IFS='=' read _ distro < <( grep '^VERSION_CODENAME=' /etc/os-release)
-
-# dpl - default package list
-#      libreoffice-base    
-dpl="libreoffice-common
-     libreoffice-calc libreoffice-draw
-     libreoffice-impress libreoffice-math libreoffice-writer
-     libreoffice-gnome   libreoffice-gtk3
-     "
-# dll - default 'lib' list
-#dll="fonts-opensymbol uno-libs3 ure"
-dll="fonts-opensymbol ure"
-
-# lo-help lo-l10n
-
-LOHELP=$(dpkg-query --list 'libreoffice-help-*' | grep ^i| cut -d " " -f3)
-LOL10N=$(dpkg-query --list 'libreoffice-l10n-*' | grep ^i| cut -d " " -f3)
+#  vers 2021-12-01 -  reworked for bullseye - fehlix
 
 
-usage () {
-  echo  "Usage: $this [-b | -d | -h | -r  | -x ]  libreoffice-packges...
-  -b, --backports    force backports install 
-  -d, --distro       force distribution install - downgrade from backports
-  -m, --main         same as --distro 
-  -h, --help         show help info
-  -r, --reinstall    reinstall packages
-  -x, --extra        install extra libreoffice-packages in addition to default package list
-  "
-  [ -z "$1" ] && exit 1
+if (($(id -u )==0)); then
+	SUDO=""
+else
+    SUDO="sudo"
+    sudo -k
+fi
+
+debian_codename() {
+    grep -oP 'VERSION_CODENAME=\K.*' /etc/os-release 2>/dev/null
 }
-help () {
-  echo "LibreOffice installer"  
-  usage help
-  echo  "Default libreoffice-packages list: $dpl
-  To install default libreoffice packages run:
-     $this
-  To install in addition to default list run 
-     $this -x aditional libreoffice packages
-  Example: 
-     $this -x libreoffice-help-de
-  To install only a specifc package list run
-     $this specific_libreoffice_packages
-     This will replace the default packages with the specific package list.
-  Example: 
-     $this libreoffice-writer libreoffice-help-de
-     This will install only writer and help.
-  To install libroffice packages from ${ditribution}-backports run
-     $this --distro   
-  To downgrade installed libroffice packages from ${distro}-backports 
-     $this --backports   
-Note: All package names to be installed have to start with 'libreoffice'.
- 
-  "
-  exit 1
-        
+debian_architecture() {
+    dpkg --print-architecture
+}
+
+usage() {
+    : todo
 }
 
 main() {
 
-   pl=""
-   check_cli "$@"
-   if [ -n "$DEBUG" ]; then
-   echo "#--------------------"
-   echo "LibreOffice Installer"
-   echo "#--------------------"
-   echo "force : " $force
-   echo "extra : " $extra
-   echo "x_list: " "$pl"
-   echo "p_list: $p_list"
-   fi
-   # [ -n "$extra" ] && dll=""
+    INSTALL_TARGET=""
+    SIMULATE=
+    MYDEBUG=
+    REINSTALL=
 
-   apt-get update
+    local CLP=()
+    local a b c
+    for a in "$@" ""; do
+        c=$b
+        case $b in
+            -h|--help)  USAGE=true
+                        ;;
+            -b|--backports)
+                        INSTALL_TARGET=backports
+                        c=
+                        ;;
+            -m|--main)  INSTALL_TARGET=main
+                        c=
+                        ;;
+            -r|--reinstall)  REINSTALL="--reinstall"
+                        c=
+                        ;;
+            -s|--simulate)  SIMULATE="-s"
+                        c=
+                        ;;
+            -d|--debug) MYDEBUG=true
+                        c=
+                        ;;
+            -*)         echo "[WARN] unknown parameter ignored: $p";
+                        ;;
+        esac
+        b=$a
+        [[ $c ]] && CLP+=("$c")
+    done
 
-   case "$(pkg_distro_target)" in
-      *-backports)  
-        echo install_backports $p_list $dll
-        install_backports $p_list $dll $LOHELP $LOL10N || exit 1
+    LO_ADD_PKGS=()
+    LO_HELPER=()
+    for p in "${CLP[@]}"; do
+        [[ $p =~ libreoffice-*       ]] && LO_ADD_PKGS+=( $p )
+        [[ $p == lo-main-helper      ]] && LO_HELPER+=( $p )
+        [[ $p == lo-backports-helper ]] && LO_HELPER+=( $p )
+    done
 
-        ;;
-      *)  echo install_${distro}  $p_list $dll
-        install_distro  $p_list $dll $LOHELP $LOL10N || exit 1
-        ;;
-   esac
-}
+    # default list of libreoffice installed packages
+    #
+    LO_INSTALL_PACKAGES_ALL=(
+        libreoffice-base
+        libreoffice-base-core
+        libreoffice-base-drivers
+        libreoffice-calc
+        libreoffice-common
+        libreoffice-core
+        libreoffice-draw
+        libreoffice-gnome
+        libreoffice-gtk3
+        libreoffice-help-common
+        libreoffice-help-en-us
+        libreoffice-impress
+        libreoffice-java-common
+        libreoffice-math
+        libreoffice-report-builder-bin
+        libreoffice-sdbc-hsqldb
+        libreoffice-style-breeze
+        libreoffice-style-colibre
+        libreoffice-style-sifr
+        libreoffice-writer
+        libreoffice-avmedia-backend-gstreamer
+        libjuh-java
+        libjurt-java
+        liblibreoffice-java
+        libridl-java
+        libuno-cppu3
+        libuno-cppuhelpergcc3-3
+        libuno-purpenvhelpergcc3-3
+        libuno-sal3
+        libuno-salhelpergcc3-3
+        libunoil-java
+        libunoloader-java
+        uno-libs-private
+        ure
+        fonts-opensymbol
+        )
 
-check_cli() {
+    LO_INSTALL_PACKAGES_MANUAL=(
+        libreoffice-base
+        libreoffice-base-core
+        libreoffice-calc
+        libreoffice-common
+        libreoffice-core
+        libreoffice-draw
+        libreoffice-gnome
+        libreoffice-gtk3
+        libreoffice-help-en-us
+        libreoffice-impress
+        libreoffice-java-common
+        libreoffice-math
+        libreoffice-report-builder-bin
+        libreoffice-sdbc-hsqldb
+        libreoffice-style-sifr
+        libreoffice-writer
+        ure
+        fonts-opensymbol
+        libreoffice-avmedia-backend-gstreamer
+        )
 
-   # this needs run as root
-   euid=$(id -u)
-   if test "$euid" != 0; then
-      printf 'This command needs %s privileges to be executed.\n' "root"
-      exit 1
-   fi
+    LO_INSTALL_PACKAGES_EXTRA=(
+
+#   libjuh-java
+#   libjurt-java
+        liblibreoffice-java
+#       libreoffice-base-drivers
+#       libreoffice-help-common
+        libreoffice-style-breeze
+        libreoffice-style-colibre
+#   libridl-java
+        libuno-cppu3
+#       libuno-cppuhelpergcc3-3
+        libuno-purpenvhelpergcc3-3
+        libuno-sal3
+        libuno-salhelpergcc3-3
+#   libunoil-java
+        libunoloader-java
+#       uno-libs-private
+        )
+
+
+    LO_INSTALL_PACKAGES=( ${LO_INSTALL_PACKAGES_MANUAL[@]} )
+
+    LO_INSTALL_PACKAGES+=( ${LO_INSTALL_PACKAGES_EXTRA[@]} )
+
+    LO_INSTALLED_PACKAGES=()
+
+    if lo_installed; then
+        LO_INSTALLED_PACKAGES=( $(lo_installed_packages) )
+        LO_INSTALL_PACKAGES+=( ${LO_INSTALLED_PACKAGES[@]} )
+    fi
+
+    LO_INSTALL_PACKAGES+=( ${LO_ADD_PKGS[@]} )
+
+    if ! lo_installed; then
+        [[ -z $INSTALL_TARGET ]] && INSTALL_TARGET=main
+    fi
+
+
+    [[ $MYDEBUG ]] && echo LO_INSTALLED_ARCH     $(lo_installed_arch)
+    [[ $MYDEBUG ]] && echo LO_INSTALLED_VERSION  $(lo_installed_version)
+    LO_CANDIDATE_VERSION=$(lo_candidate_version)
+    [[ $MYDEBUG ]] && echo LO_CANDIDATE_VERSION=$LO_CANDIDATE_VERSION
+    LO_CANDIDATE_SUITE=$(lo_candidate_suite)
+    [[ $MYDEBUG ]] && echo LO_CANDIDATE_SUITE=$LO_CANDIDATE_SUITE
+    [[ $MYDEBUG ]] && echo "****************************************"
+    if [[ -z $INSTALL_TARGET ]]; then
+        if  [[ -n ${LO_CANDIDATE_SUITE} &&  -z ${LO_CANDIDATE_SUITE##bullseye*} ]]; then
+            INSTALL_TARGET=main
+        fi
+        if [[ ${LO_CANDIDATE_SUITE} == bullseye-backports ]]; then
+            INSTALL_TARGET=backports
+        fi
+    fi
+
+    [[ $MYDEBUG ]] && echo INSTALL_TARGET=$INSTALL_TARGET
+
+    if [[ -z $INSTALL_TARGET || $INSTALL_TARGET == backports ]]; then
+        set_backports_apt_pref
+        if ! backports_enabled; then
+		    APT_OPTS="-o=Dpkg::Use-Pty=0 -o Acquire::http:Timeout=10 -o Acquire::https:Timeout=10 -o Acquire::ftp:Timeout=10"
+            ${SUDO} apt-get $APT_OPTS $APT_CFG_BACKPORTS_SOURCE $APT_CFG_BACKPORTS_UPDATE update 
+        fi
+    fi
+    if [[ $INSTALL_TARGET == main ]]; then
+        set_main_apt_pref
+    fi
+    [[ $MYDEBUG ]] && echo APT_CFG=$APT_CFG
+    [[ $MYDEBUG ]] && echo "****************************************"
+    LO_CANDIDATE_VERSION=$(lo_candidate_version)
+    [[ $MYDEBUG ]] && echo LO_CANDIDATE_VERSION=$LO_CANDIDATE_VERSION
+    LO_CANDIDATE_SUITE=$(lo_candidate_suite)
+    [[ $MYDEBUG ]] && echo LO_CANDIDATE_SUITE=$LO_CANDIDATE_SUITE
+    [[ $MYDEBUG ]] && echo "****************************************"
+
+    #LO_INSTALLEDPKGS=( $(lo_installed_packages) )
+    #printf '%-40s\t%-40s\t%-40s\n' ${LO_INSTALLEDPKGS[@]}
+
+    [[ $MYDEBUG ]] && echo LO_BACKPORTS_VERSION  $(lo_backports_version)
+    [[ $MYDEBUG ]] && echo APT_CFG=$APT_CFG
+
+    [[ $MYDEBUG ]] && set -xv
+    $SUDO apt-get $SIMULATE $APT_CFG install $REINSTALL $(apt-cache $APT_CFG madison "${LO_INSTALL_PACKAGES[@]}" | grep "${LO_CANDIDATE_VERSION#*:}"  | grep "$(debian_architecture)" | grep "$(debian_codename)"  | cut -d'|' -f1) ${LO_HELPER[*]}
     
-   force="";     reinstall="";     extra=""
-   
-   while [ ${#} -gt 0 ]; do
-      case "$1" in
-         -d|--distro    ) force="${distro}";;
-         -m|--main      ) force="${distro}";;
-         -b|--backports ) force="${distro}-backports";;
-         -h|--help      ) help;;
-         -r|--reinstall ) reinstall="--reinstall";;
-         -x|--extra     ) extra="true";;
-         -[dmbhrx]?*    ) i="$1"; shift;  set -- $(echo "$i" |sed 's/^-//; s/./ -&/g') "$@";continue;;
-         libreoffice*   ) pl+="$1 ";; 
-         -\?            ) usage;; 
-         -*             ) croak "Unsupportert option: '$1'"; usage;;
-         *              ) [ "x$extra" = "xtrue" ] && pl+="$1 " || fatal "Supported packagename pattern 'libreoffice*' - failed: $1";;
-      esac
-      shift
-   done
-   if [ -n "$extra" ] && [ -z "$pl" ]; then
-      echo "Fatal: No libreoffice packages given to install" ; exit 1;
-   fi
-   if [ -n "$DEBUG" ]; then
-      [ -n "$extra" ] && echo "extra:$(echo $dpl) $pl"
-      [ -z "$extra" ] && echo "$pl"
-   fi
-   
-   
-   p_list="$pl"
-   if [ -z "$extra" ] && [ -z "$pl" ]; then
-      p_list="$dpl"
-   fi
-   if [ -n "$extra" ]; then
-      declare -A pla
-      for p in $dpl $pl; do pla[$p]=1;  done
-      p_list="${!pla[*]}"
-   fi
-   
-   if [ -z "$p_list" ] ; then
-      usage;
-   fi
+    #APT_OPTS="-o=Dpkg::Use-Pty=0 -o Acquire::http:Timeout=10 -o Acquire::https:Timeout=10 -o Acquire::ftp:Timeout=10"
+    #$SUDO apt-get $APT_OPTS  update
+
+    [[ $MYDEBUG ]] && printf '\n\nLO_INSTALL_PACKAGES[@]}\n'
+    [[ $MYDEBUG ]] && printf '%s\n' "${LO_INSTALL_PACKAGES[@]}"
+}
+debian_uri() {
+    local arch=$(debian_architecture)
+    local codename=$(debian_codename)
+    local release="o=Debian,a=[a-z.-]*,n=$codename,l=Debian,c=main,b=$arch"
+    apt-cache policy | grep -B1  "$release" | head -1 | cut -d' ' -f3
 }
 
-pkg_is_installed() {
-   local chk_pkg="${1:-libreoffice-core}"
-   case $(dpkg-query -W -f '${db:Status-Status}' ${chk_pkg} 2>/dev/null) in
-      installed    ) return 0;;
-      not-installed) return 1;;
-   esac
+deb_line_backports() {
+    local arch=$(debian_architecture)
+    local uri=$(debian_uri)
+    local components="main contrib non-free"
+    local backports="$(debian_codename)-backports"
+    local deb_line="deb [arch=$arch] $uri $backports $components"
+    echo "$deb_line"
 }
-
-pkg_installed_version() {
-   local chk_pkg="${1:-libreoffice-core}"
-   pkg_installed_version=$(dpkg-query -W -f '${Version}' ${chk_pkg} 2>/dev/null)
-   echo "$pkg_installed_version"
+lo_installed() {
+    dpkg-query -W -f='${db:Status-Abbrev}\n'  libreoffice-core 2>/dev/null | grep -sq ^i
 }
-pkg_candidate_version() {
-   local chk_pkg="${1:-libreoffice-core}"
-   read _ pkg_candidate_version < <(LANG=C apt-cache policy ${chk_pkg} | grep 'Candidate:' 2>/dev/null)
-   echo "$pkg_candidate_version"
+lo_installed_version() {
+    if lo_installed; then
+       dpkg-query -W -f='${Version}\n'  libreoffice-core  2>/dev/null
+    fi
 }
+lo_installed_arch() {
+    if lo_installed; then
+       dpkg-query -W -f='${Architecture}\n'  libreoffice-core  2>/dev/null
+    fi
+}
+lo_candidate_version() {
+    unset LC_MESSAGES
+    unset LC_ALL
 
-
-pkg_distro_target() {
-   [ -n "${force}" ] && echo "${force}"             && return
-   backports_enabled && echo "${distro}-backports"  && return
-   
-   local chk_pkg="${1:-libreoffice-core}"
-   pkg_candidate_target=""
-   [ -z "$(pkg_candidate_version)" ] && fatal "No libroffice candiate version found"
-   if apt-cache madison ${chk_pkg} | grep "$(pkg_candidate_version)" | grep -sq "\s${distro}/"; then
-      echo "${distro}"
-   else
-      echo "${distro}-backports"
-   fi
+    [[ $MYDEBUG ]] && echo "LANG=C.UTF-8 apt-cache policy $APT_CFG  libreoffice-core | grep -oP '^[[:space:]]*Candidate[[:space:]]*:[[:space:]]*\K.*' 2>/dev/null" >&2
+    LANG=C.UTF-8 apt-cache policy $APT_CFG  libreoffice-core | grep -oP '^[[:space:]]*Candidate[[:space:]]*:[[:space:]]*\K.*' 2>/dev/null
+}
+lo_backports_version() {
+    local arch=$(lo_installed_arch)
+    local codename=$(debian_codename)
+    local pkg=${1:-libreoffice-core}
+    echo $(apt-cache madison $CFG_BACKPORTS_SOURCE $pkg | grep -F "debian ${codename}-backports" | grep $arch | cut -d'|' -f2)
+}
+lo_candidate_suite() {
+    local codename=$(debian_codename)
+    [[ $MYDEBUG ]] && echo "apt-cache madison $APT_CFG libreoffice-core | grep $(lo_candidate_version) | grep -Po $codename(-(security|backports))?(?=/main)" >&2
+    apt-cache madison $APT_CFG libreoffice-core | grep "$(lo_candidate_version)" | grep -Po "$codename(-(security|backports))?(?=/main)"
 }
 
 backports_enabled() {
-    if sed  -re '/^[[:space:]]*#/d; /^[[:space:]]*deb[[:space:]]+/!d' /etc/apt/sources.list{,.d/*.list} \
-       | grep -sqE  "/debian\s\s*${distro}-backports(\s|/)"; then
-       return 0
+    apt-cache policy | grep -sq -F "o=Debian Backports,a=${codename}-backports,n=${codename}-backports"
+}
+lo_installed_packages() {
+    dpkg -l | grep ^i | grep "$(lo_installed_version)" | awk '{print $2}'
+}
+set_backports_apt_pref() {
+    local codename=$(debian_codename)
+    APT_BACKPORTS_PREF="$(mktemp -t apt_backports_pref.XXXXXXXXXXXX)"
+    chmod 644 ${APT_BACKPORTS_PREF}
+    printf  "Package: *\nPin: release o=Debian Backports,n=${codename}-backports\nPin-Priority: 1001\n" > ${APT_BACKPORTS_PREF}
+
+    APT_CFG_BACKPORTS_PREF="-o Dir::Etc::preferences=${APT_BACKPORTS_PREF}"
+
+    if backports_enabled; then
+       [[ $MYDEBUG ]] && echo backports_enabled: True
+       BACKPORTS_SOURCELIST=""
+       APT_CFG_BACKPORTS_SOURCE=""
+       APT_CFG_BACKPORTS_UPDATE=
     else
-       return 1
+        [[ $MYDEBUG ]] && echo backports_enabled: False
+        BACKPORTS_SOURCELIST=$(backports_sourcelist)
+        [[ $MYDEBUG ]] && echo BACKPORTS_SOURCELIST $BACKPORTS_SOURCELIST
+        [[ $MYDEBUG ]] && cat $BACKPORTS_SOURCELIST
+        APT_CFG_BACKPORTS_SOURCE="-o Dir::Etc::sourcelist=$BACKPORTS_SOURCELIST"
+        APT_CFG_BACKPORTS_UPDATE="-o Dir::Etc::sourceparts=- -o APT::Get::List-Cleanup=0"
     fi
-}
-    
-## check this:
-if [ -n "$DEBUG" ]; then
-   echo $distro
-   if pkg_is_installed;  then echo pkg_is_installed ; fi
-   if pkg_is_installed;  then echo $(pkg_installed_version) ; fi
-   if pkg_is_installed;  then echo $(pkg_candidate_version) ; fi
-   if backports_enabled; then echo backports_enabled; else echo backports not enabled ; fi
-   echo pkg_distro_target $(pkg_distro_target)
-fi
 
-install_backports() {
-   local pkg_list="$*"
-   local cfg_source=""
-   if ! backports_enabled; then
-      tmp_source_list="$(mktemp -t apt_tmp_sources_list.XXXXXXXXXXXX)"
-      chmod 644 ${tmp_source_list} 
-      echo "deb http://deb.debian.org/debian bullseye-backports main contrib non-free" > ${tmp_source_list}
-      cfg_source="-o Dir::Etc::sourcelist=${tmp_source_list}"
-      cfg_update="-o Dir::Etc::sourceparts=- -o APT::Get::List-Cleanup=0"
-      apt-get ${cfg_source} ${cfg_update} update
-   fi
-   tmp_preferences="$(mktemp -t apt_tmp_preferences.XXXXXXXXXXXX)"
-   chmod 644 ${tmp_preferences}
-   printf  'Package: *\nPin: release n=bullseye-backports\nPin-Priority: 1001\n' > ${tmp_preferences}
-   cfg_pref="-o Dir::Etc::preferences=${tmp_preferences}";
-   apt-get -o=Dpkg::Use-Pty=0 ${cfg_source} ${cfg_pref}  install ${pkg_list} ${reinstall}
-   APT_RET="$?"
-   rm ${tmp_source_list} ${tmp_preferences} 2>/dev/null
-   return $APT_RET
-}
-    
-install_distro() {
-   local pkg_list="$*"
-   local cfg_source=""
-   tmp_preferences="$(mktemp -t apt_tmp_preferences.XXXXXXXXXXXX)"
-   chmod 644 ${tmp_preferences}
-   printf  'Package: *\nPin: release n=bullseye\nPin-Priority: 1001\n' > ${tmp_preferences}
-   cfg_pref="-o Dir::Etc::preferences=${tmp_preferences}";
-   apt-get -o=Dpkg::Use-Pty=0 ${cfg_pref} install ${pkg_list} ${reinstall}
-   APT_RET="$?"
-   rm ${tmp_preferences} 2>/dev/null
-   return $APT_RET
+    APT_CFG="-o=Dpkg::Use-Pty=0 ${APT_CFG_BACKPORTS_SOURCE} ${APT_CFG_BACKPORTS_PREF}"
+    }
+
+set_main_apt_pref() {
+    local codename=$(debian_codename)
+    APT_MAIN_PREF="$(mktemp -t apt_main_pref.XXXXXXXXXXXX)"
+    chmod 644 ${APT_MAIN_PREF}
+    printf  "Package: *\nPin: release o=Debian,n=${codename}\nPin-Priority: 1001\n\n" > ${APT_MAIN_PREF}
+    printf  "Package: *\nPin: release o=Debian,n=${codename}-security\nPin-Priority: 1001\n\n" >> ${APT_MAIN_PREF}
+    APT_CFG_MAIN_PREF="-o Dir::Etc::preferences=${APT_MAIN_PREF}";
+    APT_CFG="-o=Dpkg::Use-Pty=0 ${APT_CFG_MAIN_PREF}"
+    }
+
+tidy_up() {
+    [[ $MYDEBUG ]] && set -x
+    [[ -f $APT_MAIN_PREF        ]] && rm  $APT_MAIN_PREF
+    [[ -f $APT_BACKPORTS_PREF   ]] && rm  $APT_BACKPORTS_PREF
+    [[ -f $BACKPORTS_SOURCELIST ]] && rm  $BACKPORTS_SOURCELIST
+
+    }
+
+trap tidy_up EXIT
+
+
+LO_CANDIDATE_PKGS=
+
+lo_backports_packages() {
+    local arch=$(lo_installed_arch)
+    local P=( $@ )
+    local B=()
+    for p in $@; do
+        echo $p $(lo_backports_version $p)
+    done
+
 }
 
-# 
-fatal() { echo "Fatal:" "$@"; exit 1; }
-croak() { echo "Fatal:" "$@"; exit 1; }
+#lo_backports_packages ${LO_INSTALLEDPKGS[@]}
+
+backports_sourcelist() {
+    tmp_sourcelist="$(mktemp -t apt_backports_sourcelist.XXXXXXXXXXXX)"
+    chmod 644 ${tmp_sourcelist}
+    echo "$(deb_line_backports)" >> ${tmp_sourcelist}
+    echo $tmp_sourcelist
+}
 
 main "$@"
-              
-exit
+
