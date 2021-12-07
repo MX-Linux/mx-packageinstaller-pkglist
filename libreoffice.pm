@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <app>
 
 <category>
@@ -68,10 +68,8 @@ LibreOffice
 
 <preinstall>
 
-lo-installer.sh --main --reinstall --extra libreoffice-style-colibre lo-main-helper
-if [ "$?" = "0" ]; then
-   apt-get --yes  -o=Dpkg::Use-Pty=0 install --reinstall libreoffice-base
-fi
+lo-installer.sh --reinstall --main lo-main-helper
+apt-get update -o=Dpkg::Use-Pty=0 -o Acquire::http:Timeout=10 -o Acquire::https:Timeout=10 -o Acquire::ftp:Timeout=10
 
 </preinstall>
 
@@ -94,4 +92,9 @@ libreoffice-writer
 ure
 lo-main-helper
 </uninstall_package_names>
+
+<postuninstall>
+apt-get --yes  -o=Dpkg::Use-Pty=0 remove 'libreoffice*' 'libuno*'
+</postuninstall>
+
 </app>
