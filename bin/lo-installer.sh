@@ -5,29 +5,47 @@
 # from default debian repo or up-/downgrade to/from debian backports
 #  vers 2019-10-16.2
 #  vers 2020-02-10.1
-#  vers 2021-12-01 -  reworked for bullseye - fehlix
+#  vers 2021-12-01 -  reworked for bullseye... - fehlix
 
+VERSION="2021-12-01"
+
+usage () {
+
+cat <<USAGE
+
+lo-installer.sh - LibreOffice installer
+
+Helper script to install LibreOffice default set of writer, calc, draw,
+math, impress and base modules from either Debian's main or backports repository.
+Additional libreoffice packages like language or help packages can be added.
+
+Usage:
+    lo-installer.sh [-b | -m | -r  | -s | -d  | -h  | -v ]  [ libreoffice-packages ... ]
+
+Options:
+    -b, --backports    install or upgrade to Debian's backports provided version
+    -m, --main         install or downgrade to Debian's main provided version
+    -r, --reinstall    reinstall libroffice packages
+    -s, --simulate     do not install, run simulation
+    -d, --debug        print lot's of additonal info
+    -h, --help         show help info
+    -v, --version      print version
+
+USAGE
+  exit 0
+}
 
 if (($(id -u )==0)); then
-	SUDO=""
+    SUDO=""
 else
     SUDO="sudo"
     sudo -k
+    sudo -v
 fi
-
-debian_codename() {
-    grep -oP 'VERSION_CODENAME=\K.*' /etc/os-release 2>/dev/null
-}
-debian_architecture() {
-    dpkg --print-architecture
-}
-
-usage() {
-    : todo
-}
 
 main() {
 
+    DEBIAN_CODENAME=$(debian_codename) || exit 1
     INSTALL_TARGET=""
     SIMULATE=
     MYDEBUG=
@@ -38,7 +56,7 @@ main() {
     for a in "$@" ""; do
         c=$b
         case $b in
-            -h|--help)  USAGE=true
+            -h|--help)  usage
                         ;;
             -b|--backports)
                         INSTALL_TARGET=backports
@@ -47,14 +65,20 @@ main() {
             -m|--main)  INSTALL_TARGET=main
                         c=
                         ;;
-            -r|--reinstall)  REINSTALL="--reinstall"
+            -r|--reinstall)
+                        REINSTALL="--reinstall"
                         c=
                         ;;
-            -s|--simulate)  SIMULATE="-s"
+            -s|--simulate)
+                        SIMULATE="-s"
                         c=
                         ;;
             -d|--debug) MYDEBUG=true
                         c=
+                        ;;
+            -v|--version)
+                        echo VERSION=$VERSION
+                        exit 0
                         ;;
             -*)         echo "[WARN] unknown parameter ignored: $p";
                         ;;
@@ -118,8 +142,6 @@ main() {
         libreoffice-common
         libreoffice-core
         libreoffice-draw
-        libreoffice-gnome
-        libreoffice-gtk3
         libreoffice-help-en-us
         libreoffice-impress
         libreoffice-java-common
@@ -132,6 +154,22 @@ main() {
         fonts-opensymbol
         libreoffice-avmedia-backend-gstreamer
         )
+
+    LO_INSTALL_PACKAGES_MANUAL_KDE=(
+        libreoffice-kde5
+        libreoffice-kf5
+        )
+
+    LO_INSTALL_PACKAGES_MANUAL_GNOME=(
+        libreoffice-gnome
+        libreoffice-gtk3
+        )
+
+    if pidof -q /usr/bin/plasmashell; then
+        LO_INSTALL_PACKAGES_MANUAL+=( ${LO_INSTALL_PACKAGES_MANUAL_KDE[@]} )
+    else
+        LO_INSTALL_PACKAGES_MANUAL+=( ${LO_INSTALL_PACKAGES_MANUAL_GNOME[@]} )
+    fi
 
     LO_INSTALL_PACKAGES_EXTRA=(
 
@@ -180,10 +218,10 @@ main() {
     [[ $MYDEBUG ]] && echo LO_CANDIDATE_SUITE=$LO_CANDIDATE_SUITE
     [[ $MYDEBUG ]] && echo "****************************************"
     if [[ -z $INSTALL_TARGET ]]; then
-        if  [[ -n ${LO_CANDIDATE_SUITE} &&  -z ${LO_CANDIDATE_SUITE##bullseye*} ]]; then
+        if  [[ -n ${LO_CANDIDATE_SUITE} &&  -z ${LO_CANDIDATE_SUITE##${DEBIAN_CODENAME}*} ]]; then
             INSTALL_TARGET=main
         fi
-        if [[ ${LO_CANDIDATE_SUITE} == bullseye-backports ]]; then
+        if [[ ${LO_CANDIDATE_SUITE} == ${DEBIAN_CODENAME}-backports ]]; then
             INSTALL_TARGET=backports
         fi
     fi
@@ -193,8 +231,8 @@ main() {
     if [[ -z $INSTALL_TARGET || $INSTALL_TARGET == backports ]]; then
         set_backports_apt_pref
         if ! backports_enabled; then
-		    APT_OPTS="-o=Dpkg::Use-Pty=0 -o Acquire::http:Timeout=10 -o Acquire::https:Timeout=10 -o Acquire::ftp:Timeout=10"
-            ${SUDO} apt-get $APT_OPTS $APT_CFG_BACKPORTS_SOURCE $APT_CFG_BACKPORTS_UPDATE update 
+            APT_OPTS="-o=Dpkg::Use-Pty=0 -o Acquire::http:Timeout=10 -o Acquire::https:Timeout=10 -o Acquire::ftp:Timeout=10"
+            ${SUDO} apt-get $APT_OPTS $APT_CFG_BACKPORTS_SOURCE $APT_CFG_BACKPORTS_UPDATE update
         fi
     fi
     if [[ $INSTALL_TARGET == main ]]; then
@@ -216,13 +254,37 @@ main() {
 
     [[ $MYDEBUG ]] && set -xv
     $SUDO apt-get $SIMULATE $APT_CFG install $REINSTALL $(apt-cache $APT_CFG madison "${LO_INSTALL_PACKAGES[@]}" | grep "${LO_CANDIDATE_VERSION#*:}"  | grep "$(debian_architecture)" | grep "$(debian_codename)"  | cut -d'|' -f1) ${LO_HELPER[*]}
-    
+
     #APT_OPTS="-o=Dpkg::Use-Pty=0 -o Acquire::http:Timeout=10 -o Acquire::https:Timeout=10 -o Acquire::ftp:Timeout=10"
     #$SUDO apt-get $APT_OPTS  update
 
     [[ $MYDEBUG ]] && printf '\n\nLO_INSTALL_PACKAGES[@]}\n'
     [[ $MYDEBUG ]] && printf '%s\n' "${LO_INSTALL_PACKAGES[@]}"
 }
+
+debian_codename() {
+    local debian_version="/etc/debian_version"
+    if ! [ -r $debian_version ]; then
+        echo "[FATAL]: Debian version file '$debian_version' not found. exit" >&2
+        exit 1
+    fi
+    local debian_id=$(cat $debian_version 2>/dev/null | cut -d. -f1)
+    case "$debian_id" in
+         9) echo stretch  ;;
+        10) echo buster   ;;
+        11) echo bullseye ;;
+        12) echo bookworm ;;
+        13) echo trixie   ;;
+         *) echo "[FATAL]: Debian [$debian_id] codename not found. exit " >&2
+            exit 1
+            ;;
+    esac
+}
+
+debian_architecture() {
+    dpkg --print-architecture
+}
+
 debian_uri() {
     local arch=$(debian_architecture)
     local codename=$(debian_codename)
