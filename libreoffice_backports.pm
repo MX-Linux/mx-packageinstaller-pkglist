@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <app>
 
 <category>
@@ -69,16 +69,14 @@ LibreOffice (backports version)
 
 <preinstall>
 
-apt-get --yes  -o=Dpkg::Use-Pty=0 remove libreoffice-base
-
-lo-installer.sh --backports --reinstall --extra libreoffice-base lo-backports-helper
+lo-installer.sh --reinstall --backports lo-backports-helper
+apt-get update -o=Dpkg::Use-Pty=0 -o Acquire::http:Timeout=10 -o Acquire::https:Timeout=10 -o Acquire::ftp:Timeout=10
 
 </preinstall>
 
 <install_package_names>
 
 </install_package_names>
-
 
 <postinstall>
 
@@ -95,4 +93,9 @@ libreoffice-writer
 ure
 lo-backports-helper
 </uninstall_package_names>
+
+<postuninstall>
+apt-get --yes  -o=Dpkg::Use-Pty=0 remove 'libreoffice*' 'libuno*'
+</postuninstall>
+
 </app>

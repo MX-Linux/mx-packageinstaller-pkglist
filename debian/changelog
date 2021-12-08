@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (21.12.01mx21) mx; urgency=medium
+
+  * fix Libreoffice installer up/downgrade backports/main
+
+ -- fehlix <fehlix@mxlinux.org>  Mon, 06 Dec 2021 19:28:22 -0500
+
 mx-packageinstaller-pkglist (21.11.03mx21) mx; urgency=medium
 
   * add variety wallpaper changer 
