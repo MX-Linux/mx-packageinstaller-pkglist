@@ -69,15 +69,17 @@ Telegram Desktop Client (debian backports)
 <preinstall>
 echo "deb http://deb.debian.org/debian bullseye-backports main contrib non-free">/etc/apt/sources.list.d/mxpitemp.list
 apt-get update
+apt-get install telegram-desktop -t bullseye-backports
 </preinstall>
 
 <install_package_names>
-telegram-desktop
+
 </install_package_names>
 
 
 <postinstall>
-
+rm -f /etc/apt/sources.list.d/mxpitemp.list
+apt-get update
 </postinstall>
 
 
@@ -86,7 +88,6 @@ telegram-desktop
 </uninstall_package_names>
 
 <postuninstall>
-rm -f /etc/apt/sources.list.d/mxpitemp.list
-apt-get update
+
 </postuninstall>
 </app>
