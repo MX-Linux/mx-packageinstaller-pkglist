@@ -101,7 +101,7 @@ fi
 
 # disable existing Opera sources list entries
 sed -i -r '/opera.com/d' /etc/apt/sources.list /etc/apt/sources.list.d/*.list 2>/dev/null
-
+rm /etc/apt/sources.list.d/opera*.list 2>/dev/null
 # temporary enable opera's default list  in /etc/apt/sources.list.d/mxpitmp.list
 rm -f  /etc/apt/sources.list.d/mxpitmp.list 2>/dev/null
 echo "$DEBSRC" > /etc/apt/sources.list.d/mxpitmp.list
