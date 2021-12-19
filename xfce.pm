@@ -62,6 +62,7 @@ xfce4-wavelan-plugin
 xfce4-weather-plugin
 xfce4-whiskermenu-plugin
 xfce4-xkb-plugin
+xfwm4
 xfconf
 xfdesktop4
 xfdesktop4-data
@@ -71,6 +72,7 @@ thunar-data
 thunar-gtkhash
 thunar-volman
 thunar-custom-actions-mx
+mx-comfort-themes
 
 </install_package_names>
 
