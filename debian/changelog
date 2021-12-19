@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (21.12.04mx21) mx; urgency=medium
+
+  * add pulseeffects
+  * add xfce 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 19 Dec 2021 16:22:28 -0500
+
 mx-packageinstaller-pkglist (21.12.03mx21) mx; urgency=medium
 
   * update opera
