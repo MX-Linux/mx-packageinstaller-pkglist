@@ -1,6 +1,7 @@
 mx-packageinstaller-pkglist (21.12.05mx21) mx; urgency=medium
 
   * update antix kernels
+  * add 5.15 kernel
   * add fotoxx 
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 30 Dec 2021 15:55:28 -0500
