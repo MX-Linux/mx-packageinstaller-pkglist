@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (21.08.8mx19) mx; urgency=medium
+
+  * add fotoxx
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 30 Dec 2021 16:12:07 -0500
+
 mx-packageinstaller-pkglist (21.08.7mx19) mx; urgency=medium
 
   * update opera
