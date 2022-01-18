@@ -1,4 +1,4 @@
-mx-packageinstaller-pkglist (21.01.01mx21) mx; urgency=medium
+mx-packageinstaller-pkglist (22.01.01mx21) mx; urgency=medium
 
   * add more default packages
   * add avidemux 

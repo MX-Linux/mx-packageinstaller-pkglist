@@ -27,7 +27,7 @@ Asunder
    <fil_PH>graphical audio CD ripper at encoder</fil_PH>
    <fi>graafinen audio-CD-rippaaja ja -kooderi</fi>
    <fr>ripper et encodeur de CD audio graphiques</fr>
-   <he_IL>מרטש ומקודד תקליטורי שמע i></he_IL>
+   <he_IL>מרטש ומקודד תקליטורי שמע </he_IL>
    <hi>graphical audio CD ripper and encoder</hi>
    <hr>grafički audio CD ripper i koder</hr>
    <hu>grafikus audio CD ripper és kódoló</hu>
