@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (21.01.01mx21) mx; urgency=medium
+
+  * add more default packages
+  * add avidemux 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 18 Jan 2022 18:13:49 -0500
+
 mx-packageinstaller-pkglist (21.12.05mx21) mx; urgency=medium
 
   * update antix kernels
