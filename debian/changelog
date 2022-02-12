@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (22.02.01mx21) mx; urgency=medium
+
+  * add 5.16 kernel 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 12 Feb 2022 09:35:01 -0500
+
 mx-packageinstaller-pkglist (22.01.03mx21) mx; urgency=medium
 
   * update ahs kernel entry 
