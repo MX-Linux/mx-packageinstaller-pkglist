@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <app>
 
 <category>
@@ -72,7 +72,7 @@ all
 
 <install_package_names>
 aspell-no
-myspell-nb
+hunspell-no
 </install_package_names>
 
 
@@ -83,6 +83,6 @@ myspell-nb
 
 <uninstall_package_names>
 aspell-no
-myspell-nb
+hunspell-no
 </uninstall_package_names>
 </app>
