@@ -1,3 +1,13 @@
+mx-packageinstaller-pkglist (22.03.04mx21) mx; urgency=medium
+
+  * replace myspell with hunspell for language meta packs 
+  * use hunspell "frami" version de_AT, de_DE and de_CH
+  * adjust filenames Firefox-, LibreOffice-, Thunderbird- and nag-meta packs 
+  * add UTF-8 encoding to XML declaration header
+  * replace KeePassX with KeePassXC
+
+ -- fehlix <fehlix@mxlinux.org>  Sun, 20 Mar 2022 17:22:09 -0400
+
 mx-packageinstaller-pkglist (22.03.03mx21) mx; urgency=medium
 
   * update ahs 5.16 kernel 
