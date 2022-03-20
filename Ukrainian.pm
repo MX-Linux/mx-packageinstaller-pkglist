@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <app>
 
 <category>
@@ -73,7 +73,7 @@ all
 <install_package_names>
 aspell-uk
 console-cyrillic
-myspell-uk
+hunspell-uk
 </install_package_names>
 
 
@@ -85,6 +85,6 @@ myspell-uk
 <uninstall_package_names>
 aspell-uk
 console-cyrillic
-myspell-uk
+hunspell-uk
 </uninstall_package_names>
 </app>
