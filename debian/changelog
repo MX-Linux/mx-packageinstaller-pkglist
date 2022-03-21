@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (22.03.05mx21) mx; urgency=medium
+
+  * add librewolf 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 21 Mar 2022 18:28:34 -0400
+
 mx-packageinstaller-pkglist (22.03.04mx21) mx; urgency=medium
 
   * replace myspell with hunspell for language meta packs 
