@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (22.03.06mx21) mx; urgency=medium
+
+  * update ahs kernel 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 26 Mar 2022 20:35:07 -0400
+
 mx-packageinstaller-pkglist (22.03.05mx21) mx; urgency=medium
 
   * add librewolf 
