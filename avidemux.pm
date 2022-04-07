@@ -71,7 +71,15 @@ all
 </preinstall>
 
 <install_package_names>
-avidemux
+avidemux-cli 
+avidemux-common 
+avidemux-jobs-qt 
+avidemux-plugins-cli 
+avidemux-plugins-common
+avidemux-plugins-qt 
+avidemux-plugins-settings 
+avidemux-qt 
+avidemux-qt-data
 </install_package_names>
 
 
@@ -81,6 +89,14 @@ avidemux
 
 
 <uninstall_package_names>
-avidemux
+avidemux-cli 
+avidemux-common 
+avidemux-jobs-qt 
+avidemux-plugins-cli 
+avidemux-plugins-common
+avidemux-plugins-qt 
+avidemux-plugins-settings 
+avidemux-qt 
+avidemux-qt-data
 </uninstall_package_names>
 </app>
