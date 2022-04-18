@@ -14,7 +14,7 @@ Spotify
    <ar>Spotify from Spotify Repo</ar>
    <bg>Spotify from Spotify Repo</bg>
    <bn>Spotify from Spotify Repo</bn>
-   <ca>Spotify del dipòsit Spotify /ca>
+   <ca>Spotify del dipòsit Spotify </ca>
    <cs>Spotify from Spotify Repo</cs>
    <da>Spotify fra Spotify softwarekilde</da>
    <de>Spotify vom Spotify Repo</de>
