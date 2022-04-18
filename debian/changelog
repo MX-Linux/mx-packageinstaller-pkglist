@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (22.04.03mx21) mx; urgency=medium
+
+  *  update spotify
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 18 Apr 2022 18:59:17 -0400
+
 mx-packageinstaller-pkglist (22.04.02mx21) mx; urgency=medium
 
   * add ms edge
