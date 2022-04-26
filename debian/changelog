@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (22.04.04mx21) mx; urgency=medium
+
+  * virtualization category
+  * virt-manager
+  * gnome-boxes 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 25 Apr 2022 21:33:06 -0400
+
 mx-packageinstaller-pkglist (22.04.03mx21) mx; urgency=medium
 
   *  update spotify

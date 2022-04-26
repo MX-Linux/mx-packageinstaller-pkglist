@@ -3,7 +3,7 @@
 
 
 <category>
-Misc
+Virtualization
 </category>
 
 <name>
