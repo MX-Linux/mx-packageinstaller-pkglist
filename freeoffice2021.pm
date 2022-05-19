@@ -61,7 +61,7 @@ SoftMaker FreeOffice 2021
 </description>
 
 <installable>
-32,64
+64
 </installable>
 
 <screenshot>none</screenshot>
