@@ -91,6 +91,8 @@ libvirt-daemon-system
 <uninstall_package_names>
 virt-manager
 virt-viewer
+libvirt-daemon-system-sysv
+libvirt-daemon-system
 </uninstall_package_names>
 
 </app>
