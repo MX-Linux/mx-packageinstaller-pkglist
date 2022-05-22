@@ -2,6 +2,7 @@ mx-packageinstaller-pkglist (22.05.01mx21) mx; urgency=medium
 
   * add shutter
   * add 5.17 kernel 
+  * update antiX kernels 
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 22 May 2022 16:28:57 -0400
 
