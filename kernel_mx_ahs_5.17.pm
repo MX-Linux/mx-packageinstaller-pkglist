@@ -6,7 +6,7 @@ Kernels
 </category>
 
 <name>
-Debian 5.16 64 bit (AHS)
+Debian 5.17 64 bit (AHS)
 </name>
 
 <description>
