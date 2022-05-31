@@ -96,7 +96,6 @@ php7.4-readline
 <uninstall_package_names>
 apache2
 apache2-utils
-curl
 mariadb-server
 mariadb-client
 php7.4
