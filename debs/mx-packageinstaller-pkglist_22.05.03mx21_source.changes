@@ -18,26 +18,26 @@ Changes:
    * add xfce4-helpers for LibreWolf
    * remove curl from uninstall in localwebserver
 Checksums-Sha1:
- 83fc43b0cae71d2a3b772984511c2358c3b3f455 1474 mx-packageinstaller-pkglist_22.05.03mx21.dsc
- e3d6f6373fb7a87ce7035102a51c6bd36f60735f 178536 mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
- c2da4a90ba6a11d538a3dfaf8692d8a6dfe6a400 6154 mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
+ 36ae35e0e58d2a3ff7306dd540eecbcb5dc369cd 1474 mx-packageinstaller-pkglist_22.05.03mx21.dsc
+ 874707df847584448e13754ee951ea4a35ba860f 178484 mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
+ bd680d80ec55a592f15eba7287aed1f0fc0a6dde 6154 mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
 Checksums-Sha256:
- 7e080ddbce68426fef77b9a7c17f2ad447b6a11efe1822a46f498673f1def6d7 1474 mx-packageinstaller-pkglist_22.05.03mx21.dsc
- eed0714692672f60329b1a93a377fdd1ffa2570e3bbb0e54622baa4424ff935e 178536 mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
- 4118338ae94ed6c4ecdcdd3fba9709007c0c4301f13ccc99f0128ee8725db00c 6154 mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
+ fdb3a0eec6a7f06d3481b6a02140122e10d700fcffde0333da1aa0d2eb6a929d 1474 mx-packageinstaller-pkglist_22.05.03mx21.dsc
+ 8f4478e994e084c286bc6aa8f7d75861996d6dacb7aa99dc816e1339ca0c9463 178484 mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
+ 214947f346876f8aab02177b8dc77206e38b3f477cefabd745bfe3b526eb8b7d 6154 mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
 Files:
- a8937e6bf547a9e37a12bfcccdba6f40 1474 admin optional mx-packageinstaller-pkglist_22.05.03mx21.dsc
- 5965625dab76f3c1cbd5cddac27a0b7d 178536 admin optional mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
- 2b9fa0fd366021aacd550427085ec782 6154 admin optional mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
+ 122cde2be213a012a2037f490961aa83 1474 admin optional mx-packageinstaller-pkglist_22.05.03mx21.dsc
+ ca6dc8a65ca09cecf95298a47d2713a4 178484 admin optional mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
+ 2fca3f47158527061702f4011148333f 6154 admin optional mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmKVacoTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPgACACEN4ectazg7W8E0kyzvz8PGwxvEbIB
-rc6Ms9th/H3t1LRFnRCej6QunjBMbqi7Fbxfh1VDvU3QZ69jxz1BtrMYUV7UyjC6
-/US29hyipIdVcnvUl8ItsIAcwdUtpuD5OLtxWaNxvn/HCmiGcUbk2W/NZ2rHR7T0
-/0QQbX6VtbDOMyFx+PJIcnEyAQJRNbop4os5HiR4EUPSrET+6oLC3Ba0hgRFQFRe
-mozW0yRjcWinp1OY+dv93VNiRWix4+a1o8XxQuLfJYYz7SBkZ3dpakO0qXZ/LkDy
-+3/G1DzcgcZ5OVy9ljIuzfG6MupERwGh7Ll7o8vcyDEkUf6nFIwdko3l
-=/L7F
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmKVvYQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCqAB/96gpn8WhPuNFHMAiEE2k8MmH6SxnIf
+pgwOgNaUeZoFlAYIa5kfMa5x5tGxfk7A5X9eiwjqsDmhtyrqfsvZiQejBWyJoHsF
+3Lmg5Dex29GKuyMsh7S82iRzcD4zeDErtk/Eh4wlTaC/Uj+2UCkShZ76P1INYLSu
+pgBEkt7zTCIBdz16GTZDrsmJbVjD0SYySe6u2SEEzjrFgy+QRQ9VbY8OE6RiFGJ0
+5dpHu7Xbqn5oItUrILzb2U2+DZJHLzLAgMTKuHe3yuNR5Ki/YtTaZtsfvDZeNBK3
+Plcakg1lDZemZIYVPcqjzOQyV6NBSiQiBxfDInLHQMfqgtEyQrjV2J1+
+=4CsO
 -----END PGP SIGNATURE-----
