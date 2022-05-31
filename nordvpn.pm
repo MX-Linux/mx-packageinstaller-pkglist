@@ -80,6 +80,7 @@ apt-get update
 
 <install_package_names>
 nordvpn
+xterm
 </install_package_names>
 
 <postinstall>
