@@ -1,0 +1,61 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 30 May 2022 20:14:57 -0400
+Source: mx-packageinstaller-pkglist
+Binary: calibre-helper lo-backports-helper lo-main-helper mx-packageinstaller-pkglist
+Architecture: source all
+Version: 22.05.03mx21
+Distribution: mx
+Urgency: medium
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Changed-By: fehlix <fehlix@mxlinux.org>
+Description:
+ calibre-helper - calibre dummy helper package
+ lo-backports-helper - libreoffice dummy helper package
+ lo-main-helper - libreoffice dummy helper package
+ mx-packageinstaller-pkglist - Part of MX program for installing additional packages.
+Changes:
+ mx-packageinstaller-pkglist (22.05.03mx21) mx; urgency=medium
+ .
+   * add Windscribe VPN
+   * add xterm to NordVPN
+   * add xfce4-helpers for LibreWolf
+   * remove curl from uninstall in localwebserver
+Checksums-Sha1:
+ 83fc43b0cae71d2a3b772984511c2358c3b3f455 1474 mx-packageinstaller-pkglist_22.05.03mx21.dsc
+ e3d6f6373fb7a87ce7035102a51c6bd36f60735f 178536 mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
+ d8fa92618a27bdf512c09d14feb2c18d58d50bce 10032 calibre-helper_22.05.03mx21_all.deb
+ 0cc0125a2067ac6d736bcbbe42fb685631792fe1 9940 lo-backports-helper_22.05.03mx21_all.deb
+ 090721520cb55fbdf968ffe759d3fdb762cee900 9932 lo-main-helper_22.05.03mx21_all.deb
+ 28e7ad984ce11b16789f6f2e8ac403f56e1fcbf3 177688 mx-packageinstaller-pkglist_22.05.03mx21_all.deb
+ c2da4a90ba6a11d538a3dfaf8692d8a6dfe6a400 6154 mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
+Checksums-Sha256:
+ 7e080ddbce68426fef77b9a7c17f2ad447b6a11efe1822a46f498673f1def6d7 1474 mx-packageinstaller-pkglist_22.05.03mx21.dsc
+ eed0714692672f60329b1a93a377fdd1ffa2570e3bbb0e54622baa4424ff935e 178536 mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
+ cbb5af37e90cb365117f13e8232065885d26a03e4d8e1d84a469e36ec4846f51 10032 calibre-helper_22.05.03mx21_all.deb
+ 12557f1768be7644b86c77a06843161f940058edc34afcd3e149463692d2f4f5 9940 lo-backports-helper_22.05.03mx21_all.deb
+ 9f64a3c7a926387d6102eecffcc7a2346772e8708abdd2b8fb48fe6abb5c7e79 9932 lo-main-helper_22.05.03mx21_all.deb
+ 1008e780fcc59abeeec52c474a022a48ab13c7c9f342f82fcdd2b64cf7d14ec3 177688 mx-packageinstaller-pkglist_22.05.03mx21_all.deb
+ 4118338ae94ed6c4ecdcdd3fba9709007c0c4301f13ccc99f0128ee8725db00c 6154 mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
+Files:
+ a8937e6bf547a9e37a12bfcccdba6f40 1474 admin optional mx-packageinstaller-pkglist_22.05.03mx21.dsc
+ 5965625dab76f3c1cbd5cddac27a0b7d 178536 admin optional mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
+ cd13e0eae6d1f72ce30aef5ee3bae79c 10032 misc optional calibre-helper_22.05.03mx21_all.deb
+ 7d6a4657962432c2ff1462ef432b15cd 9940 misc optional lo-backports-helper_22.05.03mx21_all.deb
+ 755401d6c97b41d6e410d4ebed78d012 9932 misc optional lo-main-helper_22.05.03mx21_all.deb
+ c9bde8c1d51f6e574f0a8f52cf9a96e0 177688 admin optional mx-packageinstaller-pkglist_22.05.03mx21_all.deb
+ 2b9fa0fd366021aacd550427085ec782 6154 admin optional mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmKVacoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFsKB/sGoFVm+9+R7r8LLo6HLJc8uY/PKrCB
+I7pwPeRDB8usVZ9jfxjshBRPD1Jk3EUo7OKj8INdd7eg6qHOaXLFDfSnHUMc46sM
+CB97aTm2yaS6E5cu88zmGD2Z6KuxbUS8u+Oq8Tw5QGLKQt/CVojGU7g3S7eUsyaS
+wxZqYuG/MmA8V+lVzbdv2mQgVp7nLzYbRqXGRFuwLbP6yR0f5YFsG3MTGI7rFyUc
+LLiA9aCbOaeD0vTtQdzFImzfdjz0DUCr6OOfyAjKOSl/bt/pdmouf/oXMpqvEY42
+exMls65d3RRC7zJZIVEV1BuXxGR11lu3KRC2Y/bYnDLO3zH9ktNLzFUc
+=Bp0+
+-----END PGP SIGNATURE-----

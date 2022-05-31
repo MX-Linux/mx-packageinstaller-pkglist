@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 30 May 2022 20:14:57 -0400
+Source: mx-packageinstaller-pkglist
+Architecture: source
+Version: 22.05.03mx21
+Distribution: mx
+Urgency: medium
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Changed-By: fehlix <fehlix@mxlinux.org>
+Changes:
+ mx-packageinstaller-pkglist (22.05.03mx21) mx; urgency=medium
+ .
+   * add Windscribe VPN
+   * add xterm to NordVPN
+   * add xfce4-helpers for LibreWolf
+   * remove curl from uninstall in localwebserver
+Checksums-Sha1:
+ 83fc43b0cae71d2a3b772984511c2358c3b3f455 1474 mx-packageinstaller-pkglist_22.05.03mx21.dsc
+ e3d6f6373fb7a87ce7035102a51c6bd36f60735f 178536 mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
+ c2da4a90ba6a11d538a3dfaf8692d8a6dfe6a400 6154 mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
+Checksums-Sha256:
+ 7e080ddbce68426fef77b9a7c17f2ad447b6a11efe1822a46f498673f1def6d7 1474 mx-packageinstaller-pkglist_22.05.03mx21.dsc
+ eed0714692672f60329b1a93a377fdd1ffa2570e3bbb0e54622baa4424ff935e 178536 mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
+ 4118338ae94ed6c4ecdcdd3fba9709007c0c4301f13ccc99f0128ee8725db00c 6154 mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
+Files:
+ a8937e6bf547a9e37a12bfcccdba6f40 1474 admin optional mx-packageinstaller-pkglist_22.05.03mx21.dsc
+ 5965625dab76f3c1cbd5cddac27a0b7d 178536 admin optional mx-packageinstaller-pkglist_22.05.03mx21.tar.xz
+ 2b9fa0fd366021aacd550427085ec782 6154 admin optional mx-packageinstaller-pkglist_22.05.03mx21_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmKVacoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPgACACEN4ectazg7W8E0kyzvz8PGwxvEbIB
+rc6Ms9th/H3t1LRFnRCej6QunjBMbqi7Fbxfh1VDvU3QZ69jxz1BtrMYUV7UyjC6
+/US29hyipIdVcnvUl8ItsIAcwdUtpuD5OLtxWaNxvn/HCmiGcUbk2W/NZ2rHR7T0
+/0QQbX6VtbDOMyFx+PJIcnEyAQJRNbop4os5HiR4EUPSrET+6oLC3Ba0hgRFQFRe
+mozW0yRjcWinp1OY+dv93VNiRWix4+a1o8XxQuLfJYYz7SBkZ3dpakO0qXZ/LkDy
++3/G1DzcgcZ5OVy9ljIuzfG6MupERwGh7Ll7o8vcyDEkUf6nFIwdko3l
+=/L7F
+-----END PGP SIGNATURE-----
