@@ -1,4 +1,4 @@
 *.pm		usr/share/mx-packageinstaller-pkglist
-*.sh    usr/share/mx-packageinstaller-pkglist
+*.sh    	usr/share/mx-packageinstaller-pkglist
 *.dict		usr/share/mx-packageinstaller-pkglist
 bin/*		usr/bin
