@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (22.06.01mx21) mx; urgency=medium
+
+  * update 5.17 kernel 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 15 Jun 2022 21:58:16 -0400
+
 mx-packageinstaller-pkglist (22.05.02mx21) mx; urgency=medium
 
   * fix typo in 5.17 kernel entry 
