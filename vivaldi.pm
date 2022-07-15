@@ -61,7 +61,7 @@ Vivaldi
 </description>
 
 <installable>
-all
+64,armhf
 </installable>
 
 <screenshot></screenshot>
