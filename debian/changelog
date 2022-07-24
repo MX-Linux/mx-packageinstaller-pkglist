@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (22.07.02mx21) mx; urgency=medium
+
+  * add steam-devices
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 24 Jul 2022 10:28:54 -0400
+
 mx-packageinstaller-pkglist (22.07.01mx21) mx; urgency=medium
 
   * update vivaldi 
