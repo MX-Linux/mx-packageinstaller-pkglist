@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (22.08.01mx21) mx; urgency=medium
+
+  * add ms-fonts
+  * add 5.18 kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 21 Aug 2022 15:07:42 -0400
+
 mx-packageinstaller-pkglist (22.07.02mx21) mx; urgency=medium
 
   * add steam-devices
