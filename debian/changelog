@@ -1,6 +1,11 @@
 mx-packageinstaller-pkglist (22.09.01mx21) mx; urgency=medium
 
+  [Dolphin Oracle]
   * update antiX kernels 
+  [fehlix]
+  * update Mullvad VPN
+  * update Windscribe VPN
+  * update Master PDF Editor 4 + 5
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 15 Sep 2022 18:36:29 -0400
 
