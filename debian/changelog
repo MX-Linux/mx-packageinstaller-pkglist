@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (22.09.01mx21) mx; urgency=medium
+
+  * update antiX kernels 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 15 Sep 2022 18:36:29 -0400
+
 mx-packageinstaller-pkglist (22.08.02mx21) mx; urgency=medium
 
   * update 5.18 kernel to -4mx
