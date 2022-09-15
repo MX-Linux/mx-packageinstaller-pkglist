@@ -2,7 +2,7 @@ Source: mx-packageinstaller-pkglist
 Section: admin
 Priority: optional
 Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
-Build-Depends: debhelper (>=9),
+Build-Depends: debhelper (>=12),
 Standards-Version: 3.9.5
 Vcs-Git: git://github.com/MX-Linux/mx-packageinstaller-pkglist
 
@@ -16,7 +16,6 @@ Description: Part of MX program for installing additional packages.
 
 Package: lo-backports-helper
 Architecture: all
-Maintainer: dummy <user@dev.null>
 Conflicts: lo-main-helper
 Depends:  libreoffice-firefox-compat
 Provides: lo-backports-helper
@@ -29,7 +28,6 @@ Description: libreoffice dummy helper package
  
 Package: lo-main-helper
 Architecture: all
-Maintainer: dummy <user@dev.null>
 Conflicts: lo-backports-helper
 Depends: libreoffice-firefox-compat
 Provides: lo-main-helper
@@ -41,7 +39,6 @@ Description: libreoffice dummy helper package
  
 Package: calibre-helper
 Architecture: all
-Maintainer: dummy <user@dev.null>
 Conflicts: calibre
 Provides: calibre-helper
 Section: misc

@@ -68,21 +68,33 @@ Master PDF Editor 4 (Free Version)
 
 <preinstall>
 
-rm /tmp/master_pdf_4.deb         2>/dev/null
-rm -r /tmp/master_pdf_4_control  2>/dev/null
-ARCH=$(dpkg --print-architecture)
-curl -RL https://code-industry.net/public/master-pdf-editor-4.3.89_${ARCH/amd64/qt5.amd64}.deb -o /tmp/master_pdf_4.deb
-mkdir  /tmp/master_pdf_4_control
-pushd /tmp/master_pdf_4_control >/dev/null
-ar p  /tmp/master_pdf_4.deb  control.tar.gz | tar -xz
+<![CDATA[
+set -e
+ARC=$(dpkg --print-architecture)
+DEB="master-pdf-editor-4.3.89_${ARC/amd64/qt5.amd64}.deb"
+URL="https://code-industry.net/public"
+TMPDEB=/tmp/master_pdf_4.deb
+TMPDIR=/tmp/master_pdf_4_dir
+
+test -e $TMPDEB && rm -r $TMPDEB
+test -e $TMPDIR && rm -r $TMPDIR
+mkdir $TMPDIR 
+echo "Get: $DEB"
+echo ""
+curl --progress-bar -RLJ -o $TMPDEB $URL/$DEB
+pushd $TMPDIR >/dev/null
+ar p  $TMPDEB control.tar.gz | tar -xz
 sed -i s/master-pdf-editor/master-pdf-editor-4/ control
-tar cvzf control.tar.gz *[!z]
-ar r  /tmp/master_pdf_4.deb  control.tar.gz
+tar -czf control.tar.gz *[!z]
+ar r $TMPDEB  control.tar.gz
 popd >/dev/null
-apt install /tmp/master_pdf_4.deb
-rm /tmp/master.txt     2>/dev/null
-rm /tmp/master_pdf_4.deb 2>/dev/null
-rm -r /tmp/master_pdf_4_control  2>/dev/null
+echo "Install $DEB"
+dpkg -i $TMPDEB
+apt-get install -yf
+rm $TMPDEB
+rm -r $TMPDIR
+echo "...$(gettext -d apt -s ' Done')!"
+]]>
 
 </preinstall>
 

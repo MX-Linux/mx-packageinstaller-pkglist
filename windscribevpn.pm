@@ -67,14 +67,14 @@ Windscribe VPN
 <screenshot>none</screenshot>
 
 <preinstall>
-
+<![CDATA[
 INITHELPER=/usr/share/mx-packageinstaller-pkglist/windscribe_sysvinit_helper.sh
 
 TMP_DIR=$(mktemp -d /tmp/mxpi-windscribe-installer.XXXXXXXXXX)
-tidy_up() { rm -r /tmp/mxpi-windscribe-installer.* 2&gt;/dev/null ; }
+tidy_up() { rm -r /tmp/mxpi-windscribe-installer.* 2>/dev/null ; }
 trap tidy_up EXIT
 chmod +xr $TMP_DIR
-pushd $TMP_DIR &gt;/dev/null
+pushd $TMP_DIR >/dev/null
 
 DLD_URL=https://windscribe.net/install/desktop/linux_deb_x64/beta
 DEB_URL=$(curl -sI $DLD_URL | grep -oP '^location: \Khttps://[0-9a-zA-Z/._-].*/windscribe[0-9a-zA-Z._-]*_amd64.deb')
@@ -87,7 +87,7 @@ curl -RLJO $DEB_URL
 DEB=${DEB_URL##*/}
 if [ ! -r "$DEB" ]; then
    echo "Error downloading $DEB"
-   popd &gt;/dev/null
+   popd >/dev/null
    exit 1
 fi
 
@@ -104,18 +104,18 @@ fi
 ar x "$DEB" control.tar.gz
 mkdir AR
 tar -C AR -xzf control.tar.gz
-pushd AR &gt;/dev/null
-sed -i "\:$INITHELPER:d" /var/lib/dpkg/info/windscribe.p* 2&gt;/dev/null
-sed -i 's/sudo //' /var/lib/dpkg/info/windscribe.p* 2&gt;/dev/null
-sed -i "2itest -r $INITHELPER &amp;&amp; source $INITHELPER" /var/lib/dpkg/info/windscribe.p*  2&gt;/dev/null
-sed -i "2itest -r $INITHELPER &amp;&amp; source $INITHELPER" p*
+pushd AR >/dev/null
+sed -i "\:$INITHELPER:d" /var/lib/dpkg/info/windscribe.p* 2>/dev/null
+sed -i 's/sudo //' /var/lib/dpkg/info/windscribe.p* 2>/dev/null
+sed -i "2itest -r $INITHELPER && source $INITHELPER" /var/lib/dpkg/info/windscribe.p*  2>/dev/null
+sed -i "2itest -r $INITHELPER && source $INITHELPER" p*
 sed -i 's/sudo //' p*
 echo "# remove sysVinit script" >> prerm
-echo "test -f /usr/local/bin/windscribe-cli &amp;&amp; rm /usr/local/bin/windscribe-cli" >> prerm
-echo "test -f /etc/init.d/windscribe-helper &amp;&amp; rm /etc/init.d/windscribe-helper" >> prerm
+echo "test -f /usr/local/bin/windscribe-cli && rm /usr/local/bin/windscribe-cli" >> prerm
+echo "test -f /etc/init.d/windscribe-helper && rm /etc/init.d/windscribe-helper" >> prerm
 rm ../control.tar.gz 
 tar -czf ../control.tar.gz ./
-popd &gt;/dev/null
+popd >/dev/null
 cp $DEB ${DEB%.deb}.orig.deb
 ar r $DEB control.tar.gz
 
@@ -124,6 +124,9 @@ cp windscribe-helper /etc/init.d/windscribe-helper
 dpkg --configure windscribe
 apt-get -y install -f
 echo "...$(gettext -d apt -s ' Done')!"
+
+]]>
+
 </preinstall>
 
 <install_package_names>
@@ -139,8 +142,11 @@ windscribe
 </uninstall_package_names>
 
 <postuninstall>
-test -f /etc/init.d/windscribe-helper &amp;&amp; rm /etc/init.d/windscribe-helper
+<![CDATA[
+test -f /etc/init.d/windscribe-helper && rm /etc/init.d/windscribe-helper
 echo "...$(gettext -d apt -s ' Done')!"
+]]>
+
 </postuninstall>
 
 </app>
