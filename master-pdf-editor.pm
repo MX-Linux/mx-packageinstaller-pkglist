@@ -81,6 +81,6 @@ Master PDF Editor (Free Version)
 
 
 <uninstall_package_names>
-master-pdf-editor
+master-pdf-editor-5
 </uninstall_package_names>
 </app>
