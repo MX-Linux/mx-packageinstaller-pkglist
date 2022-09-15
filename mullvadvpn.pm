@@ -79,7 +79,6 @@ chmod 700 $DIR
 
 # prepare tidy-up
 tidy_up() { rm -r $DIR  2>/dev/null; }
-echo "tidy_up() { rm -r $DIR  2>/dev/null; }"
 trap tidy_up EXIT
 
 echo "Downloading Mullvad VPN for Linux 64bit:"
