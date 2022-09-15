@@ -67,6 +67,7 @@ Mullvad VPN
 <screenshot>none</screenshot>
 
 <preinstall>
+<![CDATA[
 #!/bin/bash
 # mullvadvpn 64bit only
 #
@@ -78,24 +79,24 @@ chmod 700 $DIR
 
 # prepare tidy-up
 tidy_up() { rm -r $DIR  2>/dev/null; }
+echo "tidy_up() { rm -r $DIR  2>/dev/null; }"
 trap tidy_up EXIT
 
 echo "Downloading Mullvad VPN for Linux 64bit:"
 pushd $DIR >/dev/null
 
 # get filepath of latest release on github
-FIL=$(curl -sRLJ https://github.com/mullvad/mullvadvpn-app/releases | sed -nr '\|.*href="([[:alnum:]/_.-]+MullvadVPN[0-9._-]+_amd64.deb)".*|{s||\1|p;q}')
-[ -n "$FIL" ] || {
+URL=$(curl -sRLJ https://api.github.com/repos/mullvad/mullvadvpn-app/releases/latest 2>&1 | 
+      grep -m1 -oP '.*browser_download_url.*"\Khttps://[a-z0-9_/.-]+MullvadVPN.*_amd64[.]deb')
+[ -n "$URL" ] || {
     echo "ERROR: Download of Mullvad VPN failed [no file name] "; exit 2; }
 
-URL=https://github.com${FIL}
-DEB=$(basename "$FIL" )
+DEB=$(basename "$URL" )
 SIG=$DEB.asc
 echo "---------------------------------------------------------"
 echo "get Mullvad VPN deb-packaga ${DEB}"
 echo "---------------------------------------------------------"
 echo " "
-
 curl --progress-bar -RLJO $URL
 [ -s "$DEB" ] || {
     echo "ERROR: Download of Mullvad VPN failed [no package name] "; exit 3; }
@@ -104,7 +105,6 @@ echo "---------------------------------------------------------"
 echo "get Mullvad VPN deb-package signature ${SIG}"
 echo "---------------------------------------------------------"
 echo " "
-
 curl --progress-bar  -RLJO $URL.asc
 [ -s "$SIG" ] || { echo "ERROR: Download of signature '${SIG}' failed "; exit 4; }
 
@@ -125,7 +125,7 @@ gpg --show-keys --keyid-format 0xlong --with-fingerprint $KEY
 echo "---------------------------------------------------------"
 echo "verify Mullvad VPN deb-package signature"
 echo "---------------------------------------------------------"
-gpgv --ignore-time-conflict --keyring ./$KEY $SIG $DEB  || { #  2&gt;&amp;1
+gpgv --ignore-time-conflict --keyring ./$KEY $SIG $DEB 2>&1 || {
     "ERROR: Signature verifcation failed"; exit 6; }
 
 # remove obsolete packages if installed
@@ -226,6 +226,7 @@ apt-get install -yf
 echo "---------------------------------------------------------"
 echo "...$(gettext -d apt -s ' Done')!"
 echo "---------------------------------------------------------"
+]]>
 
 </preinstall>
 
@@ -242,6 +243,10 @@ mullvad-vpn
 
 <postuninstall>
 apt-get -y purge mullvad-vpn
+echo "---------------------------------------------------------"
+echo "...$(gettext -d apt -s ' Done')!"
+echo "---------------------------------------------------------"
+
 </postuninstall>
 
 </app>
