@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (22.09.03mx21) mx; urgency=medium
+
+  * update 5.9 kernel 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 30 Sep 2022 23:02:47 -0400
+
 mx-packageinstaller-pkglist (22.09.02mx21) mx; urgency=medium
 
   [fehlix]
