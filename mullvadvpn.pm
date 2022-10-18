@@ -85,7 +85,8 @@ echo "Downloading Mullvad VPN for Linux 64bit:"
 pushd $DIR >/dev/null
 
 # get filepath of latest release on github
-URL=$(curl -sRLJ https://api.github.com/repos/mullvad/mullvadvpn-app/releases/latest 2>&1 | 
+URL=$(curl -sRLJ https://api.github.com/repos/mullvad/mullvadvpn-app/releases 2>&1 |
+      grep -v 'beta' |
       grep -m1 -oP '.*browser_download_url.*"\Khttps://[a-z0-9_/.-]+MullvadVPN.*_amd64[.]deb')
 [ -n "$URL" ] || {
     echo "ERROR: Download of Mullvad VPN failed [no file name] "; exit 2; }
