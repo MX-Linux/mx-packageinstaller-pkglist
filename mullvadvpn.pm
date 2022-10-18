@@ -96,7 +96,7 @@ echo "---------------------------------------------------------"
 echo "get Mullvad VPN deb-packaga ${DEB}"
 echo "---------------------------------------------------------"
 echo " "
-curl --progress-bar -RLJO $URL
+[ -f $DEB ] || curl --progress-bar -o $DEB -RLJ $URL
 [ -s "$DEB" ] || {
     echo "ERROR: Download of Mullvad VPN failed [no package name] "; exit 3; }
 
@@ -104,7 +104,8 @@ echo "---------------------------------------------------------"
 echo "get Mullvad VPN deb-package signature ${SIG}"
 echo "---------------------------------------------------------"
 echo " "
-curl --progress-bar  -RLJO $URL.asc
+[ -f $SIG ] && rm $SIG
+curl --progress-bar  -RLJ -o $SIG $URL.asc
 [ -s "$SIG" ] || { echo "ERROR: Download of signature '${SIG}' failed "; exit 4; }
 
 KEY=https://mullvad.net/media/mullvad-code-signing.asc
@@ -203,14 +204,32 @@ if [ -f /etc/init.d/mullvad-daemon ];then rm /etc/init.d/mullvad-daemon; fi
 " >> /var/lib/dpkg/info/mullvad-vpn.postrm
 
 # convert mullvad-daemon.service to sysV-init
-if [ -f /etc/init.d/mullvad-daemon ];then rm /etc/init.d/mullvad-daemon; fi
-touch /etc/init.d/mullvad-daemon
-sysd2v.sh $(ls -r1 /opt/MullvadVPN/resources/mullvad-daemon.service* | head -1 ) > /etc/init.d/mullvad-daemon
+if [ -f /etc/init.d/mullvad-daemon ]; then 
+	service mullvad-daemon stop || true
+	rm /etc/init.d/mullvad-daemon
+fi
+
+for SRV in /usr/lib/systemd/system/mullvad-*.service; do
+[ -f $SRV ] || continue
+INIT=${SRV%.service}; INIT=${INIT##*/};   
+sysd2v.sh $SRV > /etc/init.d/$INIT
+chmod +x /etc/init.d/$INIT
+[ "$INIT" == "mullvad-daemon" ] || continue
+
+# mullvad-daemon init script
 sed -i '
     s|^DAEMON=/opt/Mullvad.*VPN/|DAEMON=/opt/MullvadVPN/|
+    /MULLVAD_RESOURCE_DIR=/{s:"::g; s:/opt/Mullvad.*VPN/:/opt/MullvadVPN/:}
     s/mullvad-daemon.service/mullvad-daemon/g
-    s/-sysd2v.pid/.pid/' /etc/init.d/mullvad-daemon
-chmod +x /etc/init.d/mullvad-daemon
+    s/-sysd2v.pid/.pid/
+    /X-Start-Before:/d
+    /X-Stop-After:/d
+    /Should-Start:/s/NetworkManager/$network &/
+    /Should-Stop:/s/NetworkManager/$network &/
+    ' /etc/init.d/$INIT
+
+done
+
 
 if [ -h /opt/MullvadVPN ];then
    rm /opt/MullvadVPN;
