@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (22.11.01mx21) mx; urgency=medium
+
+  * add 6.0 kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 30 Oct 2022 18:54:39 -0400
+
 mx-packageinstaller-pkglist (22.10.03mx21) mx; urgency=medium
 
   *  update mullvad (again again)
