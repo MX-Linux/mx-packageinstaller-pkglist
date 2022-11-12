@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (22.11.02mx21) mx; urgency=medium
+
+  * update 6.0 kernel (3.1mx)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 11 Nov 2022 19:50:21 -0500
+
 mx-packageinstaller-pkglist (22.11.01mx21) mx; urgency=medium
 
   * add 6.0 (3mx) kernel
