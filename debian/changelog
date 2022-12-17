@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (22.12.01mx21) mx; urgency=medium
+
+  * bump 6.0 kernel abi 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 17 Dec 2022 13:52:53 -0500
+
 mx-packageinstaller-pkglist (22.11.04mx21) mx; urgency=medium
 
   * update teamviewer 
