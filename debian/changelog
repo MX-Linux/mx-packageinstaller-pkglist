@@ -1,4 +1,4 @@
-mx-packageinstaller-pkglist (23.11.01mx21) mx; urgency=medium
+mx-packageinstaller-pkglist (23.01.01mx21) mx; urgency=medium
 
   * remove 32 bit zoom.  no longer offerred
 
