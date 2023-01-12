@@ -1,3 +1,34 @@
+mx-packageinstaller-pkglist (21.08.13mx19) mx; urgency=medium
+
+  * remove 32 bit zoom option, zoom no longer offers it
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 11 Jan 2023 20:07:21 -0500
+
+mx-packageinstaller-pkglist (21.08.12mx19) mx; urgency=medium
+
+  * update teamviewer
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 26 Nov 2022 22:19:31 -0500
+
+mx-packageinstaller-pkglist (21.08.11mx19) mx; urgency=medium
+
+  *  update mullvadvpn (again)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 18 Oct 2022 18:00:59 -0400
+
+mx-packageinstaller-pkglist (21.08.10mx19) mx; urgency=medium
+
+  *  update mullvadvpn
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 17 Oct 2022 20:53:53 -0400
+
+mx-packageinstaller-pkglist (21.08.9mx19) mx; urgency=medium
+
+  * mullvadvpn & windscribevpn
+  * antix kernel updates
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 18 Sep 2022 18:53:27 -0400
+
 mx-packageinstaller-pkglist (21.08.8mx19) mx; urgency=medium
 
   * add fotoxx
