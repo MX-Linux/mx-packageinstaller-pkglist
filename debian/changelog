@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.11.01mx21) mx; urgency=medium
+
+  * remove 32 bit zoom.  no longer offerred
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 11 Jan 2023 20:02:14 -0500
+
 mx-packageinstaller-pkglist (22.12.02mx21) mx; urgency=medium
 
   * remove kernel entries with ksmbd zero day vulnerability
