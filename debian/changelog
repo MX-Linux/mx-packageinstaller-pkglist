@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.01.02mx21) mx; urgency=medium
+
+  * adjust ahs repo handingl 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 20 Jan 2023 19:02:56 -0500
+
 mx-packageinstaller-pkglist (23.01.01mx21) mx; urgency=medium
 
   * remove 32 bit zoom.  no longer offerred
