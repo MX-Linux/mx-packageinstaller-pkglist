@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (21.08.14mx19) mx; urgency=medium
+
+  * remove 32 bit masterpdf4, no longer offerred
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 25 Jan 2023 19:30:13 -0500
+
 mx-packageinstaller-pkglist (21.08.13mx19) mx; urgency=medium
 
   * remove 32 bit zoom option, zoom no longer offers it
