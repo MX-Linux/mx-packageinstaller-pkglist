@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.01.03mx21) mx; urgency=medium
+
+  * add 6.1 kernel
+  * remove masterpdf4 for 32 bit
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 25 Jan 2023 19:25:09 -0500
+
 mx-packageinstaller-pkglist (23.01.02mx21) mx; urgency=medium
 
   * adjust ahs repo handingl 
