@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.01.05mx21) mx; urgency=medium
+
+  [fehlix]
+  * update windscribe-vpn
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 30 Jan 2023 20:11:07 -0500
+
 mx-packageinstaller-pkglist (23.01.04mx21) mx; urgency=medium
 
   * add antix-archive-keyring if necessary
