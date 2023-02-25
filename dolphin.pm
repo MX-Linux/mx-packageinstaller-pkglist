@@ -72,7 +72,6 @@ all
 
 <install_package_names>
 dolphin
-kde-servicemenu-rootactions
 </install_package_names>
 
 
@@ -83,6 +82,5 @@ kde-servicemenu-rootactions
 
 <uninstall_package_names>
 dolphin
-kde-servicemenu-rootactions
 </uninstall_package_names>
 </app>
