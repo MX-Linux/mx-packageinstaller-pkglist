@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.07.01mx23) mx; urgency=medium
+
+  * update pm files for bookworm
+  * some not working yet due to repo not built out 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 25 Feb 2023 13:09:32 -0500
+
 mx-packageinstaller-pkglist (23.02.02mx21) mx; urgency=medium
 
   * update 6.1 kernel to -5mx
