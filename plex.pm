@@ -68,7 +68,7 @@ Plex
 
 <preinstall>
 apt-get install apt-transport-https
-curl https://downloads.plex.tv/plex-keys/PlexSign.key | apt-key add -
+curl https://downloads.plex.tv/plex-keys/PlexSign.key /etc/apt/trusted.gpg.d/plex.gpg
 echo "deb https://downloads.plex.tv/repo/deb public main">/etc/apt/sources.list.d/plex-mx.list
 apt-get update
 </preinstall>
