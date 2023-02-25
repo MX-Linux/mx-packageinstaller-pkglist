@@ -71,8 +71,8 @@ all
 </preinstall>
 
 <install_package_names>
-openshot
-openshot-doc
+openshot-qt
+openshot-qt-doc
 frei0r-plugins
 </install_package_names>
 
@@ -83,8 +83,8 @@ frei0r-plugins
 
 
 <uninstall_package_names>
-openshot
-openshot-doc
+openshot-qt
+openshot-qt-doc
 frei0r-plugins
 </uninstall_package_names>
 </app>
