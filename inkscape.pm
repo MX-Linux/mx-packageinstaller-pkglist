@@ -77,7 +77,6 @@ imagemagick
 libwmf-bin
 perlmagick
 pstoedit
-transfig
 </install_package_names>
 
 
