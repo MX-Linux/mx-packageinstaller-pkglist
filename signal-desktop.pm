@@ -67,7 +67,7 @@ Signal Desktop Client
 <screenshot></screenshot>
 
 <preinstall>
-wget -O- https://updates.signal.org/desktop/apt/keys.asc | apt-key add -
+wget -O- https://updates.signal.org/desktop/apt/keys.asc | gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/signal-desktop.gpg
 echo "deb [arch=amd64] https://updates.signal.org/desktop/apt xenial main">/etc/apt/sources.list.d/signal-xenial-added-by-mxpi.list
 apt-get update
 </preinstall>
@@ -88,5 +88,6 @@ signal-desktop
 
 <postuninstall>
 rm /etc/apt/sources.list.d/signal-xenial-added-by-mxpi.list
+rm /etc/apt/trusted.gpg.d/signal-desktop.gpg
 </postuninstall>
 </app>
