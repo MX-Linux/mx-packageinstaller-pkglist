@@ -71,7 +71,7 @@ all
 
 <install_package_names>
 budgie-desktop
-gnome-tweak-tool
+gnome-tweaks
 budgie-desktop-doc
 </install_package_names>
 
@@ -81,7 +81,7 @@ budgie-desktop-doc
 
 <uninstall_package_names>
 budgie-desktop
-gnome-tweak-tool
+gnome-tweaks
 budgie-desktop-doc
 </uninstall_package_names>
 
