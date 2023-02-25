@@ -80,7 +80,6 @@ lxde-icon-theme
 lxinput
 lxlauncher
 lxtask
-lxmusic
 lxpanel
 lxpolkit
 obconf
@@ -102,7 +101,6 @@ lxde-icon-theme
 lxinput
 lxlauncher
 lxtask
-lxmusic
 lxpanel
 lxpolkit
 </uninstall_package_names>
