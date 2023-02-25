@@ -71,7 +71,9 @@ Steam
 </preinstall>
 
 <install_package_names>
-steam
+steam-installer
+steam-libs
+steam-libs-i386
 </install_package_names>
 
 
@@ -81,6 +83,8 @@ apt-get install -f
 
 
 <uninstall_package_names>
-steam
+steam-installer
+steam-libs
+steam-libs-i386
 </uninstall_package_names>
 </app>
