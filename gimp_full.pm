@@ -76,10 +76,10 @@ gimp-data
 gimp-data-extras
 gimp-cbmplugs
 gimp-dds
-gimp-gap
 gimp-gluas
 gimp-gmic
 gimp-lensfun
+gimp-plugin-registry
 gimp-texturize
 </install_package_names>
 
@@ -95,10 +95,10 @@ gimp-data
 gimp-data-extras
 gimp-cbmplugs
 gimp-dds
-gimp-gap
 gimp-gluas
 gimp-gmic
 gimp-lensfun
+gimp-plugin-registry
 gimp-texturize
 </uninstall_package_names>
 </app>
