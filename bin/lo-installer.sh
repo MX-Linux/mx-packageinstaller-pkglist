@@ -275,6 +275,7 @@ debian_codename() {
         11) echo bullseye ;;
         12) echo bookworm ;;
         13) echo trixie   ;;
+        "bookworm/sid") echo bookworm;;
          *) echo "[FATAL]: Debian [$debian_id] codename not found. exit " >&2
             exit 1
             ;;
