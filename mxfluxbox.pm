@@ -79,6 +79,7 @@ wmalauncher
 lxappearance 
 rofi-calc
 custom-toolbox
+roxterm
 </install_package_names>
 
 
@@ -99,5 +100,6 @@ wmalauncher
 lxappearance 
 rofi-calc
 custom-toolbox
+roxterm
 </uninstall_package_names>
 </app>
