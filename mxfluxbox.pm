@@ -84,7 +84,7 @@ roxterm
 
 
 <postinstall>
-sudo -H -u $(logname) /usr/bin/mxflux_install.sh
+
 </postinstall>
 
 
