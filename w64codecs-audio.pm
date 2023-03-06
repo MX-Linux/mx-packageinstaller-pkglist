@@ -2,11 +2,11 @@
 <app>
 
 <category>
-Audio
+Video
 </category>
 
 <name>
-w32codecs
+w64codecs
 </name>
 
 <description>
@@ -14,7 +14,7 @@ library of older windows, quicktime, and realplayer codecs
 </description>
 
 <installable>
-32
+64
 </installable>
 
 <screenshot></screenshot>
@@ -22,10 +22,10 @@ library of older windows, quicktime, and realplayer codecs
 <preinstall>
 ARCH=$(dpkg --print-architecture)
 SITE="https://www.deb-multimedia.org/"
-TARGET=$(curl -s  https://www.deb-multimedia.org/dists/stable/non-free/binary-${ARCH}/package/w32codecs |grep Filename |cut -d":" -f2 |cut -d" " -f2)
+TARGET=$(curl -s  https://www.deb-multimedia.org/dists/stable/non-free/binary-${ARCH}/package/w64codecs |grep Filename |cut -d":" -f2 |cut -d" " -f2)
 TARGET="${TARGET%deb*}deb"
-wget $SITE${TARGET} -O /tmp/w32codecs.deb
-apt-get install /tmp/w32codecs.deb
+wget $SITE${TARGET} -O /tmp/w64codecs.deb
+apt-get install /tmp/w64codecs.deb
 </preinstall>
 
 <install_package_names>
@@ -34,11 +34,11 @@ apt-get install /tmp/w32codecs.deb
 
 
 <postinstall>
-rm /tmp/w32codecs.deb
+rm /tmp/w64codecs.deb
 </postinstall>
 
 
 <uninstall_package_names>
-w32codecs
+w64codecs
 </uninstall_package_names>
 </app>
