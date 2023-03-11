@@ -69,6 +69,7 @@ all
 <preinstall>
 apt-get update
 apt-get install --install-recommends kde-standard
+apt-get remove -y plasma-workspace-wayland
 </preinstall>
 
 <install_package_names>
