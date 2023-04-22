@@ -1,0 +1,60 @@
+#/bin/bash
+
+#update category.dict files
+
+#assuming zip file downloadded from transifex in extract in same folder as script
+
+#categories to update
+
+CAT="Audio
+Browser
+Children
+Desktop_Environments
+Development
+Docks
+Email
+FileManagers
+Flash
+FTP
+Games
+Graphics
+Icons
+Kernels
+Language
+Media_Center
+Media_Converter
+Messaging
+Misc
+Network
+Newsreader
+Office
+Printing
+Remote_Access
+Screencast
+Screensaver
+Screenshot_Utilities
+Server
+Themes
+Torrent
+Utility
+Video
+Wallpapers
+Window_Managers
+Virtualization"
+
+LANG="am ar bg ca cs da de el es et eu fa fi fr fr_BE he_IL hi hr hu id is it ja kk ko lt mk mr nb nl pl pt pt_BR ro ru sk sl sq sr sv tr uk zh_CN zh_TW"
+
+count=1
+echo "" > category.dict
+for i in $CAT; do
+	echo "[${i}]" >> category.dict
+	for j in $LANG; do
+		file="anticapitalista_antix-development_mx-packageinstaller-categories/mx-packageinstaller-categories_${j}.txt"
+		if [ -e "$file" ]; then
+			echo "${j}=$(sed -n "${count}p" "$file")"  >> category.dict
+		fi
+	done
+	count=$((count + 1))
+done
+
+
