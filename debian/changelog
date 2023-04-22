@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.07.06mx23) mx; urgency=medium
+
+  * add japanese input uim
+  * update popular app category translations 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 22 Apr 2023 15:56:41 -0400
+
 mx-packageinstaller-pkglist (23.07.05mx23) mx; urgency=medium
 
   * update category.dict 
