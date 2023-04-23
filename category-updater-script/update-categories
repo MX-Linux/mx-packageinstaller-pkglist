@@ -47,7 +47,7 @@ LANG="am ar bg ca cs da de el es et eu fa fi fr fr_BE he_IL hi hr hu id is it ja
 count=1
 echo "" > category.dict
 for i in $CAT; do
-	echo "[${i}]" >> category.dict
+	echo "[${i}]" | sed "s/_/ /" >> category.dict
 	for j in $LANG; do
 		file="anticapitalista_antix-development_mx-packageinstaller-categories/mx-packageinstaller-categories_${j}.txt"
 		if [ -e "$file" ]; then
