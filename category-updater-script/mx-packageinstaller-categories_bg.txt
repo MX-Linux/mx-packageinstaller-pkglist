@@ -6,9 +6,7 @@ Desktop Environments
 Дискове
 Docks
 Email
-FileManagers
 File Managers
-Flash
 FTP
 Games
 Графика

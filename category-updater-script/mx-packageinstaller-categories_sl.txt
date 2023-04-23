@@ -6,9 +6,7 @@ Razvoj
 Diski
 Sidrišča
 Pošta
-Upravljanje datotek
 Upravljalniki datotek
-Flash
 FTP
 Igre
 Grafika

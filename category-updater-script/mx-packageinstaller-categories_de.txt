@@ -7,8 +7,6 @@ Speichermedien
 Docks
 Email
 Dateimanager
-Dateimanager
-Flash
 FTP
 Spiele
 Grafik

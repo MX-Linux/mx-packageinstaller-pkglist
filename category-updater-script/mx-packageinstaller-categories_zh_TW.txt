@@ -6,9 +6,7 @@ Desktop Environments
 磁碟
 Docks
 電子郵件
-FileManagers
 檔案管理員
-Flash
 FTP
 遊戲
 圖形處理

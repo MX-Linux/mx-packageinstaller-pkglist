@@ -6,9 +6,7 @@ Desarrollo
 Discos
 Muellas
 Email
-Gestor de ficheros
 Gestores de archivos
-Flash
 FTP
 Juegos
 Gráficos

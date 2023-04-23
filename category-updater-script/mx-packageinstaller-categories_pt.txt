@@ -6,9 +6,7 @@ Desenvolvimento
 Discos
 Docas
 Correio Electrónico
-Gestores de Ficheiros
 Gestores de ficheiros
-Flash
 FTP
 Jogos
 Grafismo/Imagem
