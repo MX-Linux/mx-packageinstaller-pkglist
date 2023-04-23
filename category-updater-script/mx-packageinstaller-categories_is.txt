@@ -1,0 +1,39 @@
+Audio
+Vafranum
+Children
+Desktop Environments
+Development
+Diskar
+Docks
+Email
+FileManagers
+File Managers
+Flash
+FTP
+Games
+Graphics
+Icons
+Kernels
+Language
+LaTex
+Media Center
+Media Converter
+Messaging
+Misc
+Netkerfi
+Newsreader
+Non-Free
+Skrifstofuforrit
+Prentun
+Remote Access
+Screencast
+Screensaver
+Screenshot Utilities
+Server
+Themes
+Torrent
+Utility
+Video
+Wallpapers
+Window Managers
+Virtualization
