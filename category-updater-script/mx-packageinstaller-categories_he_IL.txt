@@ -6,9 +6,7 @@ Desktop Environments
 כוננים
 מעגנים
 Email
-FileManagers
 File Managers
-Flash
 FTP
 Games
 גרפיקה

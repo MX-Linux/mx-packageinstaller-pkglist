@@ -6,9 +6,7 @@ Geliştirme
 Diskler
 Paneller
 Eposta
-Dosya Yöneticileri
 Dosya Yöneticisi
-Flash
 FTP
 Oyunlar
 Grafikler

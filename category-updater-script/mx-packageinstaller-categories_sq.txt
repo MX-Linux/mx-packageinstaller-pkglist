@@ -6,9 +6,7 @@ Zhvillim
 Disqe
 Panele
 Email
-Përgjegjës kartelash
 Përgjegjës Kartelash
-Flash
 FTP
 Lojëra
 Grafikë

@@ -7,8 +7,6 @@ Disker
 Samlevinduer
 E-post
 Filbehandlere
-Filbehandlere
-Flash
 FTP
 Spill
 Grafikk

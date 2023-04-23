@@ -7,8 +7,6 @@ Dyski
 Doki pulpitu
 Email
 Menedżery plików
-Menedżery plików
-Flash
 FTP
 Gry
 Grafika

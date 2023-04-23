@@ -6,9 +6,7 @@ Sviluppo
 Dischi
 Barre Dock
 Email
-File Manager
 Gestori di File
-Flash
 FTP
 Giochi
 Grafica

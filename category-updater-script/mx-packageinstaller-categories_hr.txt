@@ -7,8 +7,6 @@ Diskovi
 Docks
 Email
 Upravitelji datotekama
-Upravitelji datotekama
-Flash
 FTP
 Igre
 Grafika

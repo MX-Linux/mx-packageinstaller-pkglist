@@ -7,8 +7,6 @@ Disky
 Dokovacie panely
 Email
 Správcovia súborov
-File Managers
-Flash
 FTP
 Hry
 Grafika
