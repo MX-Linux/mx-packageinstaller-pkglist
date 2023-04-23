@@ -179,9 +179,9 @@ sq=Mjedise Desktop
 sr=Desktop Environments
 sv=Skrivbordsmiljö
 tr=Masaüstü Ortamları
-uk=Desktop Environments
+uk=Середовище стільниці
 zh_CN=桌面环境
-zh_TW=Desktop Environments
+zh_TW=桌面環境
 
 [Development]
 am=Development
@@ -639,9 +639,9 @@ sq=Kernela
 sr=Kernels
 sv=Kärnor
 tr=Çekirdekler
-uk=Kernels
+uk=Ядро
 zh_CN=内核
-zh_TW=Kernels
+zh_TW=核心
 
 [Language]
 am=ቋንቋ 
