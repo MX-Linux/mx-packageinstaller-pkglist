@@ -1,0 +1,39 @@
+Âm thanh
+Browser
+Children
+Desktop Environments
+Development
+Disks
+Docks
+Email
+FileManagers
+File Managers
+Flash
+FTP
+Games
+Đồ họa
+Icons
+Kernels
+Language
+LaTex
+Media Center
+Media Converter
+Messaging
+Misc
+Network
+Newsreader
+Non-Free
+Văn phòng 
+In ấn
+Remote Access
+Screencast
+Screensaver
+Screenshot Utilities
+Server
+Themes
+Torrent
+Utility
+Video
+Wallpapers
+Window Managers
+Virtualization
