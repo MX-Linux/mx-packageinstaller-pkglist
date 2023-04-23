@@ -44,7 +44,7 @@ Wallpapers
 Window_Managers
 Virtualization"
 
-LANG="af am ar be bg bn bs ca ceb co cs cy da de el eo es et eu fa fi fil fil_PH fr fr_BE fy ga gd gl gl_ES gu ha haw he he_IL hi hr ht hu hy id is it ja jv ka kk km kn ko ku ky lb lo lt lv mg mi mk ml mn mr ms mt my nb nb ne nl ny or pa pl ps pt pt_BR ro ru rue tw sd si sk sl sm sn so sq sr st su sv sw ta te tg th tk tr tt ug uk ur uz vi xh yi yo yue_CN zh_CN zh_HK zh_TW"
+LANG="af am ar be bg bn bs ca ceb co cs cy da de el eo es et eu fa fi fil fil_PH fr fr_BE fy ga gd gl gl_ES gu ha haw he he_IL hi hr ht hu hy id is it ja jv ka kk km kn ko ku ky lb lo lt lv mg mi mk ml mn mr ms mt my nb ne nl ny or pa pl ps pt pt_BR ro ru rue tw sd si sk sl sm sn so sq sr st su sv sw ta te tg th tk tr tt ug uk ur uz vi xh yi yo yue_CN zh_CN zh_HK zh_TW"
 
 count=1
 echo "" > category.dict

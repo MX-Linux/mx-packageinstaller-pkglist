@@ -1,7 +1,7 @@
 Audio
 Browser 
 Kinder
-Desktop Environments
+ Desktop-Umgebung
 Entwicklung
 Speichermedien
 Docks
