@@ -1,7 +1,7 @@
 音訊
 瀏覽器
 小孩
-Desktop Environments
+桌面環境
 程式開發
 磁碟
 Docks
@@ -11,7 +11,7 @@ FTP
 遊戲
 圖形處理
 圖示
-Kernels
+核心
 語言
 LaTex
 媒體中心
