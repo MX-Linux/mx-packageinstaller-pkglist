@@ -6,9 +6,7 @@ Vývoj
 Disky
 Docky
 Email
-Správci souborů
 Správce souborů
-Flash
 FTP
 Hry
 Grafika

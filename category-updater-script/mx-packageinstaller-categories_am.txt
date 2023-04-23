@@ -6,9 +6,7 @@ Development
 ዲስኮች
 Docks
 Email
-FileManagers
 File Managers
-Flash
 FTP
 Games
 ንድፍ

@@ -7,8 +7,6 @@ Discuri
 Docuri
 Email
 Manager de fișiere
-File Managers
-Flash
 FTP
 Jocuri
 Grafică

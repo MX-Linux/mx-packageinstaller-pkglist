@@ -6,9 +6,7 @@ Ontwikkeling
 Opslagmedia
 Docks
 Email
-BestandsBeheerders
 Bestandsbeheerders
-Flash
 FTP
 Spellen
 Grafisch

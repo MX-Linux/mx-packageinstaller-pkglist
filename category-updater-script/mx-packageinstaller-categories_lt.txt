@@ -7,8 +7,6 @@ Diskai
 Docks
 El. paštas
 Failų tvarkytuvės
-File Managers
-Flash
 FTP
 Žaidimai
 Grafika

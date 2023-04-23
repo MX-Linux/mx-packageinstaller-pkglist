@@ -7,8 +7,6 @@ Discos
 Docks
 Correo electrónico
 Xestores de ficheiros
-Xestores de ficheiros
-Flash
 FTP
 Xogos
 Gráficos

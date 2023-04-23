@@ -7,8 +7,6 @@ Hårddiskar
 Dockor
 Email
 Filhanterare
-Filhanterare
-Flash
 FTP
 Spel
 Grafik

@@ -6,9 +6,7 @@ Desktop Environments
 الأقراص
 Docks
 Email
-FileManagers
 File Managers
-Flash
 FTP
 Games
 رسومات

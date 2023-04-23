@@ -6,9 +6,7 @@ Development
 Disks
 Docks
 Email
-FileManagers
 File Managers
-Flash
 FTP
 Games
 Đồ họa

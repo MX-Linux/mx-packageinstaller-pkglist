@@ -7,8 +7,6 @@
 程序坞
 邮件
 文件管理器
-File Managers
-Flash
 FTP
 游戏
 图像

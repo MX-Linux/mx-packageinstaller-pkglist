@@ -7,8 +7,6 @@ Opslagmedia
 Docks
 Email
 Bestandsbeheerders
-Bestandsbeheerders
-Flash
 FTP
 Spellen
 Grafisch

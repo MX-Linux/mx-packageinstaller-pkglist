@@ -6,9 +6,7 @@ Kehitystyökalut
 Levyt
 Telakat
 Sähköposti
-Tiedostonhallinta
 Tiedostonhallintaohjelmat
-Adobe Flash
 FTP
 Pelit
 Grafiikka
