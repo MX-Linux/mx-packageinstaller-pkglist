@@ -7,8 +7,6 @@ Discos
 Docks
 Email
 Gestores de Archivos
-Gestores de Archivos
-Flash
 FTP
 Juegos
 Gráficos

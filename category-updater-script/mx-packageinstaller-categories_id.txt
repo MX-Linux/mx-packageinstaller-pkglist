@@ -6,9 +6,7 @@ Development
 Disks
 Dok
 Email
-FileManagers
 File Managers
-Flash
 FTP
 Games
 Graphics

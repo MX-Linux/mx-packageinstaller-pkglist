@@ -7,8 +7,6 @@ Discs
 Docks
 Correu
 Gestors de fitxers
-Gestors de fitxers
-Flash
 FTP
 Jocs
 Gràfics

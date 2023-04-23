@@ -7,8 +7,6 @@ Diske
 Dokke
 E-mail
 Filhåndteringer
-File Managers
-Flash
 FTP
 Spil
 Grafik

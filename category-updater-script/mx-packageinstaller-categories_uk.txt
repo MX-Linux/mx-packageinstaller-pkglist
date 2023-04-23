@@ -6,9 +6,7 @@ Desktop Environments
 Диски
 Документи
 Е-пошта
-FileManagers
 Файлові менеджери
-Флеш
 FTP
 Ігри
 Графіка

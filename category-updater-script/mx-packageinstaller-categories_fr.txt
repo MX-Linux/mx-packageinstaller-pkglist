@@ -6,9 +6,7 @@ Développement
 Disques
 Docks
 Courrier électronique
-Gestionnaires de fichiers
 Gestionnaire de fichiers
-Flash
 FTP
 Jeux
 Graphisme
