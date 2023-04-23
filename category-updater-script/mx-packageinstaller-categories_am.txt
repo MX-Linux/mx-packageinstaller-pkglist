@@ -1,0 +1,39 @@
+ድምፅ
+መቃኛ
+Children
+Desktop Environments
+Development
+ዲስኮች
+Docks
+Email
+FileManagers
+File Managers
+Flash
+FTP
+Games
+ንድፍ
+ምልክት
+Kernels
+ቋንቋ 
+LaTex
+Media Center
+Media Converter
+Messaging
+Misc
+ኔትዎርክ
+Newsreader
+Non-Free
+ቢሮ
+በ ማተም ላይ
+Remote Access
+Screencast
+Screensaver
+Screenshot Utilities
+Server
+Themes
+Torrent
+Utility
+Video
+Wallpapers
+Window Managers
+Virtualization

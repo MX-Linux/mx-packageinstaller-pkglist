@@ -11,9 +11,11 @@ Browser
 Children
 Desktop_Environments
 Development
+Disks
 Docks
 Email
 FileManagers
+File_Managers
 Flash
 FTP
 Games
@@ -21,12 +23,14 @@ Graphics
 Icons
 Kernels
 Language
+LaTex
 Media_Center
 Media_Converter
 Messaging
 Misc
 Network
 Newsreader
+Non-Free
 Office
 Printing
 Remote_Access
@@ -49,11 +53,12 @@ echo "" > category.dict
 for i in $CAT; do
 	echo "[${i}]" | sed "s/_/ /" >> category.dict
 	for j in $LANG; do
-		file="anticapitalista_antix-development_mx-packageinstaller-categories/mx-packageinstaller-categories_${j}.txt"
+		file="mx-packageinstaller-categories_${j}.txt"
 		if [ -e "$file" ]; then
 			echo "${j}=$(sed -n "${count}p" "$file")"  >> category.dict
 		fi
 	done
+	echo "" >> category.dict
 	count=$((count + 1))
 done
 

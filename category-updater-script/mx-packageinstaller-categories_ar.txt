@@ -1,0 +1,39 @@
+Audio
+متصفح
+Children
+Desktop Environments
+تطوير
+الأقراص
+Docks
+Email
+FileManagers
+File Managers
+Flash
+FTP
+Games
+رسومات
+Icons
+Kernels
+اللغة
+LaTex
+Media Center
+Media Converter
+Messaging
+Misc
+الشبكة
+Newsreader
+Non-Free
+مكتب
+Printing
+Remote Access
+Screencast
+Screensaver
+Screenshot Utilities
+Server
+Themes
+Torrent
+Utility
+Video
+Wallpapers
+Window Managers
+Virtualization
