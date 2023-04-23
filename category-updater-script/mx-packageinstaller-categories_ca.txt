@@ -4,7 +4,7 @@ Infantil
 Entorns d'escriptori
 Desenvolupament
 Discs
-Docks
+Acobladors
 Correu
 Gestors de fitxers
 FTP
@@ -15,23 +15,23 @@ Nuclis
 Idioma
 LaTex
 Multimèdia
-Conversors de mèdia
+Convertidors de mèdia
 Missatgeria
 Diversos
 Xarxa
 Lectors de notícies
-NoLliure
+No Lliure
 Oficina 
 Impressió 
 Accés remot
-Screencast
+Enregistrament de pantalla
 Estalvi de pantalla
 Captura de pantalla
 Servidor
 Temes
-Torrent 
+Torrent
 Eines
 Vídeo
 Empaperat
 Gestors de finestres
-Virtualization
+Virtualització
