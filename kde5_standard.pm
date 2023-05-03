@@ -73,7 +73,6 @@ all
 <install_package_names>
 kde-standard
 unar
-kde-style-qtcurve
 ffmpegthumbs
 kdegraphics-thumbnailers
 kimageformat-plugins
