@@ -67,13 +67,88 @@ all
 <screenshot>https://screenshots.debian.net/shrine/screenshot/15970/simage/large-1cfbe7b3b55e8064866402bf7d787529.png</screenshot>
 
 <preinstall>
-apt-get update
-apt-get install --install-recommends kde-standard
-apt-get remove -y plasma-workspace-wayland
+
 </preinstall>
 
 <install_package_names>
 kde-standard
+unar
+kde-style-qtcurve
+ffmpegthumbs
+kdegraphics-thumbnailers
+kimageformat-plugins
+kio-extras
+kamera 
+qt5-image-formats-plugins 
+kdepim-addons sonnet-plugins 
+systemsettings
+kwin-x11 
+sddm 
+konq-plugins 
+plasma-nm 
+accountwizard 
+kdepim-themeeditors 
+mbox-importer
+pim-data-exporter 
+pim-sieve-editor 
+kalendarac 
+libqt5multimedia5-plugins
+qml-module-qtquick-virtualkeyboard 
+javascript-common 
+libjs-jquery 
+kaccounts-providers
+kactivities-bin 
+libkf5baloowidgets-bin 
+libkf5dbusaddons-bin 
+kpackagelauncherqml catdoc
+libkf5guiaddons-bin 
+libkf5iconthemes-bin 
+libkf5kcmutils-bin
+libkf5kdelibs4support5-bin
+libkf5khtml-bin
+libkf5libkdepim-plugins
+kde-config-mailtransport
+qml-module-org-kde-newstuff
+libkf5parts-plugins 
+libkf5pimtextedit-plugins
+qml-module-org-kde-runnermodel 
+media-player-info 
+libkf5xmlgui-bin 
+libkgantt2-l10n
+kde-config-screenlocker 
+kuserfeedback-doc 
+libqca-qt5-2-plugins 
+qtspeech5-speechd-plugin
+bluedevil
+breeze-gtk-theme
+fonts-hack
+ibus-data
+kde-config-flatpak
+kde-config-gtk-style 
+kde-config-sddm 
+kde-style-oxygen-qt5 
+kgamma5 khotkeys 
+kinfocenter 
+kmenuedit
+kscreen 
+ksshaskpass 
+kwrited 
+libpam-kwallet5 
+plasma-browser-integration
+plasma-discover plasma-disks 
+plasma-firewall 
+plasma-systemmonitor 
+plasma-thunderbolt
+plasma-vault 
+plasma-welcome 
+powerdevil
+xdg-desktop-portal-kde
+qml-module-org-kde-activities 
+fonts-noto-hinted
+qml-module-gsettings1.0 
+ksystemstats 
+qml-module-org-kde-pipewire 
+kdeconnect
 kde-plasma-desktop
 plasma-modified-defaults-mx
 desktop-defaults-mx-kde
@@ -87,6 +162,83 @@ plasma-look-and-feel-theme-mx
 
 <uninstall_package_names>
 kde-standard
+unar
+kde-style-qtcurve
+ffmpegthumbs
+kdegraphics-thumbnailers
+kimageformat-plugins
+kio-extras
+kamera 
+qt5-image-formats-plugins 
+kdepim-addons sonnet-plugins 
+systemsettings
+kwin-x11 
+sddm 
+konq-plugins 
+plasma-nm 
+accountwizard 
+kdepim-themeeditors 
+mbox-importer
+pim-data-exporter 
+pim-sieve-editor 
+kalendarac 
+libqt5multimedia5-plugins
+qml-module-qtquick-virtualkeyboard 
+javascript-common 
+libjs-jquery 
+kaccounts-providers
+kactivities-bin 
+libkf5baloowidgets-bin 
+libkf5dbusaddons-bin 
+kpackagelauncherqml catdoc
+libkf5guiaddons-bin 
+libkf5iconthemes-bin 
+libkf5kcmutils-bin
+libkf5kdelibs4support5-bin
+libkf5khtml-bin
+libkf5libkdepim-plugins
+kde-config-mailtransport
+qml-module-org-kde-newstuff
+libkf5parts-plugins 
+libkf5pimtextedit-plugins
+qml-module-org-kde-runnermodel 
+media-player-info 
+libkf5xmlgui-bin 
+libkgantt2-l10n
+kde-config-screenlocker 
+kuserfeedback-doc 
+libqca-qt5-2-plugins 
+qtspeech5-speechd-plugin
+bluedevil
+breeze-gtk-theme
+fonts-hack
+ibus-data
+kde-config-flatpak
+kde-config-gtk-style 
+kde-config-sddm 
+kde-style-oxygen-qt5 
+kgamma5 khotkeys 
+kinfocenter 
+kmenuedit
+kscreen 
+ksshaskpass 
+kwrited 
+libpam-kwallet5 
+plasma-browser-integration
+plasma-discover plasma-disks 
+plasma-firewall 
+plasma-systemmonitor 
+plasma-thunderbolt
+plasma-vault 
+plasma-welcome 
+powerdevil
+xdg-desktop-portal-kde
+qml-module-org-kde-activities 
+fonts-noto-hinted
+qml-module-gsettings1.0 
+ksystemstats 
+qml-module-org-kde-pipewire 
+kdeconnect
 kde-plasma-desktop
 </uninstall_package_names>
 

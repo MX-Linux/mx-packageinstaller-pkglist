@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.07.07mx23) mx; urgency=medium
+
+  * update kde install routine 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 02 May 2023 22:59:29 -0400
+
 mx-packageinstaller-pkglist (23.07.06mx23) mx; urgency=medium
 
   * add japanese input uim
