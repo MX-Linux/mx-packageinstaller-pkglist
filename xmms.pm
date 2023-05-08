@@ -88,4 +88,8 @@ apt-get update
 xmms
 xmms-plugins-antix
 </uninstall_package_names>
+
+
+<postuninstall>
+</postuninstall>
 </app>
