@@ -1,6 +1,7 @@
 mx-packageinstaller-pkglist (23.07.08mx23) mx; urgency=medium
 
   * add showfoto and digikam 
+  * update Xfce, add Xfce4-appfinder
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 08 May 2023 19:07:30 -0400
 
