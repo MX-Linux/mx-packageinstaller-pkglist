@@ -151,7 +151,6 @@ kdeconnect
 kde-plasma-desktop
 plasma-modified-defaults-mx
 desktop-defaults-mx-kde
-partitionmanager-modified-launcher
 plasma-look-and-feel-theme-mx
 </install_package_names>
 
