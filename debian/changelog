@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.07.11mx23) mx; urgency=medium
+
+  * remove debian-builder from deb-packaging tools
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 13 May 2023 23:41:33 -0400
+
 mx-packageinstaller-pkglist (23.07.10mx23) mx; urgency=medium
 
   * update some gpg key management in several pm files

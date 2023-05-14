@@ -73,7 +73,6 @@ cp /etc/apt/sources.list.d/debian.list /etc/apt/pbuilder.list
 
 <install_package_names>
 pbuilder
-debian-builder
 debhelper
 libparse-debcontrol-perl
 devscripts
@@ -92,7 +91,6 @@ rm -f /etc/apt/pbuilder.list
 
 <uninstall_package_names>
 pbuilder
-debian-builder
 debhelper
 libparse-debcontrol-perl
 devscripts
