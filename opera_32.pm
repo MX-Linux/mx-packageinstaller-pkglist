@@ -68,7 +68,7 @@ Opera
 
 <preinstall>
 sed -i -r '/opera.com/ s/^#+//' /etc/apt/sources.list.d/various.list
-wget -O - http://deb.opera.com/archive.key | apt-key add -
+wget -O - http://deb.opera.com/archive.key | tee /etc/apt/trusted.gpg.d/opera.asc
 apt-get update
 </preinstall>
 

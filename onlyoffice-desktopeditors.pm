@@ -76,7 +76,7 @@ trap tidy_up EXIT
 #echo "Fetching release signature..."
 pushd $TMP >/dev/null
 # OnlyOffice long key-id:
-KEY="0x8320CA65CB2DE8E5"  # OnlyOffice signing long key-id
+KEY="CB2DE8E5"  # OnlyOffice signing long key-id
 
 popd >/dev/null
 echo "Fetching OnlyOffice release signing key 0x$KEY ..."
