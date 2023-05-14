@@ -85,7 +85,7 @@ fi
 SHOWKEY=$($GPGCMD --show-keys ${KEYASC})
 if (($? ==0 )); then
 echo  "$SHOWKEY" | sed 's/^uid\s*/uid   /'
-apt-key add $KEYASC 2>/dev/null >/dev/null
+cp $KEYASC /etc/apt/trusted.gpg.d/opera-archive.asc 2>/dev/null >/dev/null
 else
 echo "[ERROR]: Invalid Opera archive keyring"
 echo "Exit"

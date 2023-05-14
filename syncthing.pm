@@ -67,7 +67,7 @@ all
 <screenshot>none</screenshot>
 
 <preinstall>
-curl -s https://syncthing.net/release-key.txt /etc/apt/trusted.gpg.d/syncthing.gpg
+curl -s https://syncthing.net/release-key.txt |tee /etc/apt/trusted.gpg.d/syncthing.asc
 echo "deb https://apt.syncthing.net/ syncthing stable">/etc/apt/sources.list.d/syncthing.list
 apt-get update
 </preinstall>
