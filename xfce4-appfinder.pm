@@ -72,11 +72,11 @@ xfce4-appfinder
 </install_package_names>
 
 <postinstall>
-xfce4-appfinder
+
 </postinstall>
 
 <uninstall_package_names>
-
+xfce4-appfinder
 </uninstall_package_names>
 
 <postuninstall>
