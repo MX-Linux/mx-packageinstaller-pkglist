@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.07.12mx23) mx; urgency=medium
+
+  * adjust vlc
+  * correct uninstall area of xfce4-appfinder
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 04 Jun 2023 12:33:02 -0400
+
 mx-packageinstaller-pkglist (23.07.11mx23) mx; urgency=medium
 
   * remove debian-builder from deb-packaging tools
