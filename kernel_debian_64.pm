@@ -6,7 +6,7 @@ Kernels
 </category>
 
 <name>
-Debian 64 bit (5.10)
+Debian 64 bit
 </name>
 
 <description>
