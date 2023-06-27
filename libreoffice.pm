@@ -25,35 +25,35 @@ LibreOffice
    <eu>Meta-Package for LibreOffice</eu>
    <fa>Meta-Package for LibreOffice</fa>
    <fil_PH>Meta-Package for LibreOffice</fil_PH>
-   <fi>Meta-Package for LibreOffice</fi>
-   <fr>Meta-Package for LibreOffice</fr>
+   <fi>Metatieto-paketti LibreOffice:lle</fi>
+   <fr>Meta-Paquet pour LibreOffice</fr>
    <he_IL>Meta-Package for LibreOffice</he_IL>
-   <hi>Meta-Package for LibreOffice</hi>
+   <hi>लिब्रे-ऑफिस हेतु मेटा-पैकेज</hi>
    <hr>Meta-Package for LibreOffice</hr>
    <hu>Meta-Package for LibreOffice</hu>
    <id>Meta-Package for LibreOffice</id>
    <is>Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
    <ja_JP>Meta-Package for LibreOffice</ja_JP>
-   <ja>Meta-Package for LibreOffice</ja>
+   <ja>LibreOffice用メタパッケージ</ja>
    <kk>Meta-Package for LibreOffice</kk>
    <ko>Meta-Package for LibreOffice</ko>
    <lt>Meta-Package for LibreOffice</lt>
    <mk>Meta-Package for LibreOffice</mk>
    <mr>Meta-Package for LibreOffice</mr>
-   <nb>Meta-Package for LibreOffice</nb>
+   <nb>LibreOffice metapakke</nb>
    <nl>Meta-Pakket voor LibreOffice</nl>
    <pl>Meta-Pakiet dla LibreOffice</pl>
-   <pt_BR>Meta-Package for LibreOffice</pt_BR>
+   <pt_BR>Meta-Pacote para o LibreOffice</pt_BR>
    <pt>Meta-Pacote para LibreOffice</pt>
    <ro>Meta-Package for LibreOffice</ro>
    <ru>Мета-пакет для LibreOffice</ru>
    <sk>Meta-Package for LibreOffice</sk>
    <sl>Meta-paket za LibreOffice</sl>
-   <sq>Meta-Package for LibreOffice</sq>
+   <sq>Meta-Paketë për LibreOffice-in</sq>
    <sr>Meta-Package for LibreOffice</sr>
    <sv>Meta-Paket för LibreOffice</sv>
-   <tr>Meta-Package for LibreOffice</tr>
+   <tr>LibreOffice için Üst-Paket</tr>
    <uk>Meta-Package for LibreOffice</uk>
    <vi>Meta-Package for LibreOffice</vi>
    <zh_CN>Meta-Package for LibreOffice</zh_CN>
