@@ -34,7 +34,6 @@ Greek_Firefox
    <id>Greek localisation of Firefox</id>
    <is>Greek localisation of Firefox</is>
    <it>Localizzazione greca di Firefox </it>
-   <ja_JP>Greek localisation of Firefox</ja_JP>
    <ja>Firefox のギリシャ語パック</ja>
    <kk>Greek localisation of Firefox</kk>
    <ko>Greek localisation of Firefox</ko>

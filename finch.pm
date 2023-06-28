@@ -34,7 +34,6 @@ Finch
    <id>a text-console-based, modular instant messaging client</id>
    <is>a text-console-based, modular instant messaging client</is>
    <it>Client di messaggistica istantanea modulare con interfaccia basata sul terminale </it>
-   <ja_JP>a text-console-based, modular instant messaging client</ja_JP>
    <ja>テキストコンソールベースのモジュール式インスタントメッセージ・クライアント</ja>
    <kk>a text-console-based, modular instant messaging client</kk>
    <ko>a text-console-based, modular instant messaging client</ko>

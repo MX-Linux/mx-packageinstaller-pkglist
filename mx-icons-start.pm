@@ -34,7 +34,6 @@ Start Menu Button Icons
    <id>extra icons for customizing the start menu button (antechdesigns collection)</id>
    <is>extra icons for customizing the start menu button (antechdesigns collection)</is>
    <it> icone extra per personalizzare il pulsante start menu (collezione antechdesigns)</it>
-   <ja_JP>extra icons for customizing the start menu button (antechdesigns collection)</ja_JP>
    <ja>スタートメニューボタンをカスタマイズするための追加アイコン (antechdesigns collection)</ja>
    <kk>extra icons for customizing the start menu button (antechdesigns collection)</kk>
    <ko>extra icons for customizing the start menu button (antechdesigns collection)</ko>

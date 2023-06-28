@@ -34,7 +34,6 @@ Polish
    <id>Polish Language Meta-Package</id>
    <is>Polish Language Meta-Package</is>
    <it>Meta-pacchetto della lingua polacca</it>
-   <ja_JP>Polish Language Meta-Package</ja_JP>
    <ja>ポーランド語メタパッケージ</ja>
    <kk>Polish Language Meta-Package</kk>
    <ko>Polish Language Meta-Package</ko>

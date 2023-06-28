@@ -34,7 +34,6 @@ QT5 Documention
    <id>Documentation files for Qt-5 and QtCreator IDE</id>
    <is>Documentation files for Qt-5 and QtCreator IDE</is>
    <it>File di documentazione per Qt-5 e QtCreator IDE</it>
-   <ja_JP>Documentation files for Qt-5 and QtCreator IDE</ja_JP>
    <ja>Qt-5 および QtCreator IDE の文書ファイル</ja>
    <kk>Documentation files for Qt-5 and QtCreator IDE</kk>
    <ko>Documentation files for Qt-5 and QtCreator IDE</ko>

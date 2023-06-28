@@ -34,7 +34,6 @@ Avidemux
    <id>the avidemux video editor</id>
    <is>the avidemux video editor</is>
    <it>editor video dell'ambiente avidemux</it>
-   <ja_JP>the avidemux video editor</ja_JP>
    <ja>the avidemux video editor</ja>
    <kk>the avidemux video editor</kk>
    <ko>the avidemux video editor</ko>

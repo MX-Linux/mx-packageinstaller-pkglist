@@ -34,7 +34,6 @@ Khmer_Libreoffice
    <id>Khmer Language Meta-Package for LibreOffice</id>
    <is>Khmer Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Khmer Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Khmer Language Meta-Package for LibreOffice</kk>
    <ko>Khmer Language Meta-Package for LibreOffice</ko>

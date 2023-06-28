@@ -34,7 +34,6 @@ Blueman
    <id>a GTK+ bluetooth management utility</id>
    <is>a GTK+ bluetooth management utility</is>
    <it>Utility GTK+ di gestione del bluethooth</it>
-   <ja_JP>a GTK+ bluetooth management utility</ja_JP>
    <ja>GTK+ bluetooth 管理ユーティリティ</ja>
    <kk>a GTK+ bluetooth management utility</kk>
    <ko>a GTK+ bluetooth management utility</ko>

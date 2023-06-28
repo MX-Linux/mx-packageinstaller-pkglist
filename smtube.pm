@@ -34,7 +34,6 @@ SMtube
    <id>search and download Youtube videos</id>
    <is>search and download Youtube videos</is>
    <it>cerca e scarica video da Youtube</it>
-   <ja_JP>search and download Youtube videos</ja_JP>
    <ja>YouTube 動画の検索とダウンロード</ja>
    <kk>search and download Youtube videos</kk>
    <ko>search and download Youtube videos</ko>

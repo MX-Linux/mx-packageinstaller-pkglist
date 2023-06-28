@@ -34,7 +34,6 @@ Icelandic_Firefox
    <id>Icelandic localisation of Firefox</id>
    <is>Icelandic localisation of Firefox</is>
    <it>Localizzazione islandese di Firefox</it>
-   <ja_JP>Icelandic localisation of Firefox</ja_JP>
    <ja>Firefox のアイスランド語パック</ja>
    <kk>Icelandic localisation of Firefox</kk>
    <ko>Icelandic localisation of Firefox</ko>

@@ -34,7 +34,6 @@ Japanese_Input
    <id>Japanese ibus</id>
    <is>Japanese ibus</is>
    <it>Ibus per la lingua giapponese</it>
-   <ja_JP>Japanese ibus</ja_JP>
    <ja>日本語 ibus</ja>
    <kk>Japanese ibus</kk>
    <ko>Japanese ibus</ko>

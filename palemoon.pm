@@ -34,7 +34,6 @@ Palemoon
    <id>Palemoon from the mx repo</id>
    <is>Palemoon from the mx repo</is>
    <it>Palemoon dal repo mx</it>
-   <ja_JP>Palemoon from the mx repo</ja_JP>
    <ja>Pale Mmoon ブラウザ（MX repo より）</ja>
    <kk>Palemoon from the mx repo</kk>
    <ko>Palemoon from the mx repo</ko>

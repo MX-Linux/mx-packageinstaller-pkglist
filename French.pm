@@ -34,7 +34,6 @@ French
    <id>French Language Meta-Package</id>
    <is>French Language Meta-Package</is>
    <it>Meta-pacchetto della lingua francese</it>
-   <ja_JP>French Language Meta-Package</ja_JP>
    <ja>フランス語 メタパッケージ</ja>
    <kk>French Language Meta-Package</kk>
    <ko>French Language Meta-Package</ko>

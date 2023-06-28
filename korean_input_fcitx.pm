@@ -34,7 +34,6 @@ Korean_Input_fcitx
    <id>Korean Fonts and fcitx</id>
    <is>Korean Fonts and fcitx</is>
    <it>Font coreani e fcitx</it>
-   <ja_JP>Korean Fonts and fcitx</ja_JP>
    <ja>韓国語のフォントと fcitx</ja>
    <kk>Korean Fonts and fcitx</kk>
    <ko>Korean Fonts and fcitx</ko>

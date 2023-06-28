@@ -34,7 +34,6 @@ Dutch_Libreoffice
    <id>Dutch LibreOffice Language Meta-Package</id>
    <is>Dutch LibreOffice Language Meta-Package</is>
    <it>Meta-pacchetto della lingua olandese per LibreOffice</it>
-   <ja_JP>Dutch LibreOffice Language Meta-Package</ja_JP>
    <ja>オランダ語の LibreOffice言語メタパッケージ</ja>
    <kk>Dutch LibreOffice Language Meta-Package</kk>
    <ko>Dutch LibreOffice Language Meta-Package</ko>

@@ -34,7 +34,6 @@ KDE5 Standard
    <id>Installs kde-standard, kde-plasma-desktop</id>
    <is>Installs kde-standard, kde-plasma-desktop</is>
    <it>Installa kde-standard, kde-plasma-desktop</it>
-   <ja_JP>Installs kde-standard, kde-plasma-desktop</ja_JP>
    <ja>kde-standard、kde-plasma-desktop をインストールします</ja>
    <kk>Installs kde-standard, kde-plasma-desktop</kk>
    <ko>Installs kde-standard, kde-plasma-desktop</ko>

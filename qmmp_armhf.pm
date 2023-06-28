@@ -34,7 +34,6 @@ Qmmp
    <id>a winamp/xmms type feature-rich audio player written in Qt</id>
    <is>a winamp/xmms type feature-rich audio player written in Qt</is>
    <it>lettore audio, scritto in Qt, simile a winamp/xmms, ricco di funzionalità </it>
-   <ja_JP>a winamp/xmms type feature-rich audio player written in Qt</ja_JP>
    <ja>Qt で書かれた winamp/xmms 風の機能豊富なオーディオプレイヤー</ja>
    <kk>a winamp/xmms type feature-rich audio player written in Qt</kk>
    <ko>a winamp/xmms type feature-rich audio player written in Qt</ko>

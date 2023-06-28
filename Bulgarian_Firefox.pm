@@ -34,7 +34,6 @@ Bulgarian_Firefox
    <id>Bulgarian localisation of Firefox</id>
    <is>Bulgarian localisation of Firefox</is>
    <it>Localizzazione bulgara di Firefox </it>
-   <ja_JP>Bulgarian localisation of Firefox</ja_JP>
    <ja>Firefox のブルガリア語パック</ja>
    <kk>Bulgarian localisation of Firefox</kk>
    <ko>Bulgarian localisation of Firefox</ko>

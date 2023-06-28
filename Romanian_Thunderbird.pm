@@ -34,7 +34,6 @@ Romanian_Thunderbird
    <id>Romanian localisation of Thunderbird</id>
    <is>Romanian localisation of Thunderbird</is>
    <it>Localizzazione rumena di Thunderbird</it>
-   <ja_JP>Romanian localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のルーマニア語パック</ja>
    <kk>Romanian localisation of Thunderbird</kk>
    <ko>Romanian localisation of Thunderbird</ko>

@@ -34,7 +34,6 @@ Czech_Firefox
    <id>Czech localisation of Firefox</id>
    <is>Czech localisation of Firefox</is>
    <it>Localizzazione in Ceco di Firefox </it>
-   <ja_JP>Czech localisation of Firefox</ja_JP>
    <ja>Firefox のチェコ語パック</ja>
    <kk>Czech localisation of Firefox</kk>
    <ko>Czech localisation of Firefox</ko>

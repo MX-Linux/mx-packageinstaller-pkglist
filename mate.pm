@@ -34,7 +34,6 @@ MATE
    <id>basic install of MATE desktop</id>
    <is>basic install of MATE desktop</is>
    <it>installazione base del desktop MATE</it>
-   <ja_JP>basic install of MATE desktop</ja_JP>
    <ja>MATE デスクトップの基本インストール</ja>
    <kk>basic install of MATE desktop</kk>
    <ko>basic install of MATE desktop</ko>

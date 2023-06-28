@@ -34,7 +34,6 @@ Skype (64bit only)
    <id>Peer-to-peer video, voice, messaging</id>
    <is>Peer-to-peer video, voice, messaging</is>
    <it>Peer-to-peer video, voce e messaggi</it>
-   <ja_JP>Peer-to-peer video, voice, messaging</ja_JP>
    <ja>P2P のビデオ、音声、メッセージ</ja>
    <kk>Peer-to-peer video, voice, messaging</kk>
    <ko>Peer-to-peer video, voice, messaging</ko>

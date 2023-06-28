@@ -34,7 +34,6 @@ Tamil_Libreoffice
    <id>Tamil Language Meta-Package for LibreOffice</id>
    <is>Tamil Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua tamil per LibreOffice</it>
-   <ja_JP>Tamil Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のタミル語メタパッケージ</ja>
    <kk>Tamil Language Meta-Package for LibreOffice</kk>
    <ko>Tamil Language Meta-Package for LibreOffice</ko>

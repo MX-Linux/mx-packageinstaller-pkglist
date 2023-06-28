@@ -34,7 +34,6 @@ Kdenlive
    <id>the KDE video editor</id>
    <is>the KDE video editor</is>
    <it>editor video dell'ambiente KDE</it>
-   <ja_JP>the KDE video editor</ja_JP>
    <ja>KDE 用ビデオエディタ</ja>
    <kk>the KDE video editor</kk>
    <ko>the KDE video editor</ko>

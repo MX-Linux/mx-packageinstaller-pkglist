@@ -34,7 +34,6 @@ ROXFiler
    <id>a fast and powerful graphical file manager</id>
    <is>a fast and powerful graphical file manager</is>
    <it>semplice e veloce file manager grafico</it>
-   <ja_JP>a fast and powerful graphical file manager</ja_JP>
    <ja>高速で強力なグラフィカル・ファイルマネージャ</ja>
    <kk>a fast and powerful graphical file manager</kk>
    <ko>a fast and powerful graphical file manager</ko>

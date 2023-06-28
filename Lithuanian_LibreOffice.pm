@@ -34,7 +34,6 @@ Lithuanian_Libreoffice
    <id>Lithuanian Language Meta-Package for LibreOffice</id>
    <is>Lithuanian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua lituana per LibreOffice</it>
-   <ja_JP>Lithuanian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用のリトアニア語メタパッケージ</ja>
    <kk>Lithuanian Language Meta-Package for LibreOffice</kk>
    <ko>Lithuanian Language Meta-Package for LibreOffice</ko>

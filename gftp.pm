@@ -34,7 +34,6 @@ gftp
    <id>a multithreaded FTP client</id>
    <is>a multithreaded FTP client</is>
    <it>Client FTP multithread</it>
-   <ja_JP>a multithreaded FTP client</ja_JP>
    <ja>マルチスレッドの FTP クライアント</ja>
    <kk>a multithreaded FTP client</kk>
    <ko>a multithreaded FTP client</ko>

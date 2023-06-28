@@ -34,7 +34,6 @@ Greek_Libreoffice
    <id>Greek Language Meta-Package for LibreOffice</id>
    <is>Greek Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Greek Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Greek Language Meta-Package for LibreOffice</kk>
    <ko>Greek Language Meta-Package for LibreOffice</ko>

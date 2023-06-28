@@ -34,7 +34,6 @@ Slovak_Libreoffice
    <id>Slovak Language Meta-Package for LibreOffice</id>
    <is>Slovak Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua slovacca per LibreOffice</it>
-   <ja_JP>Slovak Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のスロバキア語メタパッケージ</ja>
    <kk>Slovak Language Meta-Package for LibreOffice</kk>
    <ko>Slovak Language Meta-Package for LibreOffice</ko>

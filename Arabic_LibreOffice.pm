@@ -34,7 +34,6 @@ Arabic_Libreoffice
    <id>Arabic Language Meta-Package for LibreOffice</id>
    <is>Arabic Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Arabic Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Arabic Language Meta-Package for LibreOffice</kk>
    <ko>Arabic Language Meta-Package for LibreOffice</ko>

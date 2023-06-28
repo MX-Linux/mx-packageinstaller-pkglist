@@ -34,7 +34,6 @@ Calibre
    <id>an e-book library management application</id>
    <is>an e-book library management application</is>
    <it>Applicazione per la gestione di librerie e-book</it>
-   <ja_JP>an e-book library management application</ja_JP>
    <ja>電子図書管理アプリケーション</ja>
    <kk>an e-book library management application</kk>
    <ko>an e-book library management application</ko>

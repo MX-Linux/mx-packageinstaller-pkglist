@@ -34,7 +34,6 @@ Romanian_Firfox
    <id>Romanian localisation of Firefox</id>
    <is>Romanian localisation of Firefox</is>
    <it>Localizzazione rumena di Firefox</it>
-   <ja_JP>Romanian localisation of Firefox</ja_JP>
    <ja>Firefox のルーマニア語パック</ja>
    <kk>Romanian localisation of Firefox</kk>
    <ko>Romanian localisation of Firefox</ko>

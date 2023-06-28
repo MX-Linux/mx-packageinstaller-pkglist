@@ -34,7 +34,6 @@ Slovenian_Thunderbird
    <id>Slovenian localisation of Thunderbird</id>
    <is>Slovenian localisation of Thunderbird</is>
    <it>Localizzazione slovena di Thunderbird</it>
-   <ja_JP>Slovenian localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のスロベニア語版</ja>
    <kk>Slovenian localisation of Thunderbird</kk>
    <ko>Slovenian localisation of Thunderbird</ko>

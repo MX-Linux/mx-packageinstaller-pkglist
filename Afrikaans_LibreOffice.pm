@@ -34,7 +34,6 @@ Afrikaans_Libreoffice
    <id>Afrikaans Language Meta-Package for LibreOffice</id>
    <is>Afrikaans Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Afrikaans Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Afrikaans Language Meta-Package for LibreOffice</kk>
    <ko>Afrikaans Language Meta-Package for LibreOffice</ko>

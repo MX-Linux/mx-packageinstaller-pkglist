@@ -34,7 +34,6 @@ Slovenian_Firefox
    <id>Slovenian localisation of Firefox</id>
    <is>Slovenian localisation of Firefox</is>
    <it>Localizzazione slovena di Firefox </it>
-   <ja_JP>Slovenian localisation of Firefox</ja_JP>
    <ja>Firefox のスロベニア語パック</ja>
    <kk>Slovenian localisation of Firefox</kk>
    <ko>Slovenian localisation of Firefox</ko>

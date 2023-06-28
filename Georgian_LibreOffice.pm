@@ -34,7 +34,6 @@ Georgian_Libreoffice
    <id>Georgian Language Meta-Package for LibreOffice</id>
    <is>Georgian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Georgian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Georgian Language Meta-Package for LibreOffice</kk>
    <ko>Georgian Language Meta-Package for LibreOffice</ko>

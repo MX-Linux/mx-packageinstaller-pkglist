@@ -34,7 +34,6 @@ French_Thunderbird
    <id>French localisation of Thunderbird</id>
    <is>French localisation of Thunderbird</is>
    <it>Localizzazione francese di Thunderbird</it>
-   <ja_JP>French localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のフランス語パック</ja>
    <kk>French localisation of Thunderbird</kk>
    <ko>French localisation of Thunderbird</ko>

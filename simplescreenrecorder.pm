@@ -35,7 +35,6 @@ SimpleScreenRecorder
    <id>a Qt-based screencast recorder</id>
    <is>a Qt-based screencast recorder</is>
    <it>registratore dello schermo basato su librerie Qt</it>
-   <ja_JP>a Qt-based screencast recorder</ja_JP>
    <ja>Qt ベースのスクリーンキャスト・レコーダー</ja>
    <kk>a Qt-based screencast recorder</kk>
    <ko>a Qt-based screencast recorder</ko>

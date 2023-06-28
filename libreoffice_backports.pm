@@ -34,7 +34,6 @@ LibreOffice (backports version)
    <id>Meta-Package for LibreOffice (backports version)</id>
    <is>Meta-Package for LibreOffice (backports version)</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Meta-Package for LibreOffice (backports version)</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Meta-Package for LibreOffice (backports version)</kk>
    <ko>Meta-Package for LibreOffice (backports version)</ko>

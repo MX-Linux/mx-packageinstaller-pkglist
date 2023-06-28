@@ -34,7 +34,6 @@ Norwegian
    <id>Norwegian Language Meta-Package</id>
    <is>Norwegian Language Meta-Package</is>
    <it>Meta-pacchetto della lingua norvegese</it>
-   <ja_JP>Norwegian Language Meta-Package</ja_JP>
    <ja>ノルウェー語メタパッケージ</ja>
    <kk>Norwegian Language Meta-Package</kk>
    <ko>Norwegian Language Meta-Package</ko>

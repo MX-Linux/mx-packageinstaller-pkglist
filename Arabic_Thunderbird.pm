@@ -34,7 +34,6 @@ Arabic_Thunderbird
    <id>Arabic localisation of Thunderbird</id>
    <is>Arabic localisation of Thunderbird</is>
    <it>Localizzazione araba di Thunderbird</it>
-   <ja_JP>Arabic localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のアラビア語用言語パック</ja>
    <kk>Arabic localisation of Thunderbird</kk>
    <ko>Arabic localisation of Thunderbird</ko>

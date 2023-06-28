@@ -34,7 +34,6 @@ GIT Tools
    <id>GIT Repo tools</id>
    <is>GIT Repo tools</is>
    <it>Strumenti GIT Repo</it>
-   <ja_JP>GIT Repo tools</ja_JP>
    <ja>GIT Repo ツール</ja>
    <kk>GIT Repo tools</kk>
    <ko>GIT Repo tools</ko>

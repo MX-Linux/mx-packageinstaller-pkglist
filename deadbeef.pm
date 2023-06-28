@@ -34,7 +34,6 @@ DeaDBeeF
    <id>simple audio player</id>
    <is>simple audio player</is>
    <it>Lettore di tracce audio semplice</it>
-   <ja_JP>simple audio player</ja_JP>
    <ja>シンプルなオーディオプレーヤー</ja>
    <kk>simple audio player</kk>
    <ko>simple audio player</ko>

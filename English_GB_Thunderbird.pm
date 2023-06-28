@@ -34,7 +34,6 @@ GB_English_Thunderbird
    <id>GB English localisation of Thunderbird</id>
    <is>GB English localisation of Thunderbird</is>
    <it>Localizzazione in Inglese GB di Thunderbird</it>
-   <ja_JP>GB English localisation of Thunderbird</ja_JP>
    <ja>Thunderbird の イギリス英語パック</ja>
    <kk>GB English localisation of Thunderbird</kk>
    <ko>GB English localisation of Thunderbird</ko>

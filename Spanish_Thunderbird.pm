@@ -34,7 +34,6 @@ Spanish_Thunderbird
    <id>Spanish localisation of Thunderbird</id>
    <is>Spanish localisation of Thunderbird</is>
    <it>Localizzazione spagnola di Thunderbird</it>
-   <ja_JP>Spanish localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のスペイン語パック</ja>
    <kk>Spanish localisation of Thunderbird</kk>
    <ko>Spanish localisation of Thunderbird</ko>

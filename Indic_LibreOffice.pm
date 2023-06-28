@@ -34,7 +34,6 @@ Indic_Libreoffice
    <id>Indic Language Meta-Package for LibreOffice</id>
    <is>Indic Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Indic Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Indic Language Meta-Package for LibreOffice</kk>
    <ko>Indic Language Meta-Package for LibreOffice</ko>

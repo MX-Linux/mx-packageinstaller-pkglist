@@ -34,7 +34,6 @@ Farsi_Firefox
    <id>Farsi localisation of Firefox</id>
    <is>Farsi localisation of Firefox</is>
    <it>Localizzazione persiana di Firefox</it>
-   <ja_JP>Farsi localisation of Firefox</ja_JP>
    <ja>Firefox のペルシャ語パック</ja>
    <kk>Farsi localisation of Firefox</kk>
    <ko>Farsi localisation of Firefox</ko>

@@ -34,7 +34,6 @@ Catalan_Firefox
    <id>Catalan localisation of Firefox</id>
    <is>Catalan localisation of Firefox</is>
    <it>Localizzazione catalana di Firefox</it>
-   <ja_JP>Catalan localisation of Firefox</ja_JP>
    <ja>Firefox のカタロニア語パック</ja>
    <kk>Catalan localisation of Firefox</kk>
    <ko>Catalan localisation of Firefox</ko>

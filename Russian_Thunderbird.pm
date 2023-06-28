@@ -34,7 +34,6 @@ Russian_Thunderbird
    <id>Russian localisation of Thunderbird</id>
    <is>Russian localisation of Thunderbird</is>
    <it>Localizzazione russa di Thunderbird</it>
-   <ja_JP>Russian localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のロシア語パック</ja>
    <kk>Russian localisation of Thunderbird</kk>
    <ko>Russian localisation of Thunderbird</ko>

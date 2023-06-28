@@ -34,7 +34,6 @@ Greek
    <id>Greek Language Meta-Package</id>
    <is>Greek Language Meta-Package</is>
    <it>Meta-pacchetto della lingua greca</it>
-   <ja_JP>Greek Language Meta-Package</ja_JP>
    <ja>ギリシャ語のメタパッケージ</ja>
    <kk>Greek Language Meta-Package</kk>
    <ko>Greek Language Meta-Package</ko>

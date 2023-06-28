@@ -34,7 +34,6 @@ Master PDF Editor 4 (Free Version)
    <id>Edit PDF documents.</id>
    <is>Edit PDF documents.</is>
    <it>Modifica i documenti in PDF.</it>
-   <ja_JP>Edit PDF documents.</ja_JP>
    <ja>PDF 文書の編集</ja>
    <kk>Edit PDF documents.</kk>
    <ko>Edit PDF documents.</ko>

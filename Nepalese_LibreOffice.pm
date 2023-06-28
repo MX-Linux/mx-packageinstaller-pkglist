@@ -34,7 +34,6 @@ Nepalese_Libreoffice
    <id>Nepalese Language Meta-Package for LibreOffice</id>
    <is>Nepalese Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua nepalese per LibreOffice</it>
-   <ja_JP>Nepalese Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用ネパール語メタパッケージ</ja>
    <kk>Nepalese Language Meta-Package for LibreOffice</kk>
    <ko>Nepalese Language Meta-Package for LibreOffice</ko>

@@ -34,7 +34,6 @@ Dutch
    <id>Dutch Language Meta-Package</id>
    <is>Dutch Language Meta-Package</is>
    <it>Meta-pacchetto della lingua olandese</it>
-   <ja_JP>Dutch Language Meta-Package</ja_JP>
    <ja>オランダ語のメタパッケージ</ja>
    <kk>Dutch Language Meta-Package</kk>
    <ko>Dutch Language Meta-Package</ko>

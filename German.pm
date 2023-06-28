@@ -34,7 +34,6 @@ German
    <id>German Language Meta-Package</id>
    <is>German Language Meta-Package</is>
    <it>Meta-pacchetto della lingua tedesca</it>
-   <ja_JP>German Language Meta-Package</ja_JP>
    <ja>ドイツ語メタパッケージ</ja>
    <kk>German Language Meta-Package</kk>
    <ko>German Language Meta-Package</ko>

@@ -34,7 +34,6 @@ Welsh_Libreoffice
    <id>Welsh Language Meta-Package for LibreOffice</id>
    <is>Welsh Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua gallese per LibreOffice</it>
-   <ja_JP>Welsh Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用 ウェールズ語メタパッケージ</ja>
    <kk>Welsh Language Meta-Package for LibreOffice</kk>
    <ko>Welsh Language Meta-Package for LibreOffice</ko>

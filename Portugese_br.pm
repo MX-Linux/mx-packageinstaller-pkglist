@@ -34,7 +34,6 @@ Portugese(BR)
    <id>Portugese(BR) Language Meta-Package</id>
    <is>Portugese(BR) Language Meta-Package</is>
    <it>Meta-pacchetto della lingua portoghese(BR)</it>
-   <ja_JP>Portugese(BR) Language Meta-Package</ja_JP>
    <ja>ポルトガル語(BR) 言語メタパッケージ</ja>
    <kk>Portugese(BR) Language Meta-Package</kk>
    <ko>Portugese(BR) Language Meta-Package</ko>

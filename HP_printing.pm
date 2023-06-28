@@ -34,7 +34,6 @@ HP Printing
    <id>HPLIP and printing extras</id>
    <is>HPLIP and printing extras</is>
    <it>HPLIP ed ulteriori pacchetti per la stampa</it>
-   <ja_JP>HPLIP and printing extras</ja_JP>
    <ja>HPLIP と印刷用エキストラ</ja>
    <kk>HPLIP and printing extras</kk>
    <ko>HPLIP and printing extras</ko>

@@ -34,7 +34,6 @@ x11vnc
    <id>VNC server for X window environments</id>
    <is>VNC server for X window environments</is>
    <it>Server VNC per ambienti X Window</it>
-   <ja_JP>VNC server for X window environments</ja_JP>
    <ja>X Window 環境用のVNCサーバー</ja>
    <kk>VNC server for X window environments</kk>
    <ko>VNC server for X window environments</ko>

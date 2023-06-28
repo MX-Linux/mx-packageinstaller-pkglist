@@ -34,7 +34,6 @@ Ndebele_Libreoffice
    <id>Ndebele Language Meta-Package for LibreOffice</id>
    <is>Ndebele Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua ndebele per LibreOffice</it>
-   <ja_JP>Ndebele Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用ンデベレ語 メタパッケージ</ja>
    <kk>Ndebele Language Meta-Package for LibreOffice</kk>
    <ko>Ndebele Language Meta-Package for LibreOffice</ko>

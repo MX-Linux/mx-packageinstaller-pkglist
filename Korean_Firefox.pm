@@ -34,7 +34,6 @@ Korean_Firefox
    <id>Korean localisation of Firefox</id>
    <is>Korean localisation of Firefox</is>
    <it>Localizzazione coreana di Firefox </it>
-   <ja_JP>Korean localisation of Firefox</ja_JP>
    <ja>Firefox の韓国語パック</ja>
    <kk>Korean localisation of Firefox</kk>
    <ko>Korean localisation of Firefox</ko>

@@ -34,7 +34,6 @@ Debian 32 bit no-pae
    <id>Default Debian 32bit linux kernel, no-PAE, single core</id>
    <is>Default Debian 32bit linux kernel, no-PAE, single core</is>
    <it>Kernel Debian di default 32bit, no-PAE, single core</it>
-   <ja_JP>Default Debian 32bit linux kernel, no-PAE, single core</ja_JP>
    <ja>既定の Debian 32bit linux kernel, no-PAE, single core</ja>
    <kk>Default Debian 32bit linux kernel, no-PAE, single core</kk>
    <ko>Default Debian 32bit linux kernel, no-PAE, single core</ko>

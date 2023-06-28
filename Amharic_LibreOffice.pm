@@ -34,7 +34,6 @@ Amharic_Libreoffice
    <id>Amharic Language Meta-Package for LibreOffice</id>
    <is>Amharic Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Amharic Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Amharic Language Meta-Package for LibreOffice</kk>
    <ko>Amharic Language Meta-Package for LibreOffice</ko>

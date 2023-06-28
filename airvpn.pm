@@ -34,7 +34,6 @@ AirVPN
    <id>AirVPN - Eddie - OpenVPN GUI with additional user-friendly features</id>
    <is>AirVPN - Eddie - OpenVPN GUI with additional user-friendly features</is>
    <it>AirVPN - Eddie - OpenVPN GUI con funzioni aggiuntive di facile utilizzo</it>
-   <ja_JP>AirVPN - Eddie - OpenVPN GUI with additional user-friendly features</ja_JP>
    <ja>AirVPN - Eddie - ユーザーフレンドリーな機能を追加した OpenVPN GUI</ja>
    <kk>AirVPN - Eddie - OpenVPN GUI with additional user-friendly features</kk>
    <ko>AirVPN - Eddie - OpenVPN GUI with additional user-friendly features</ko>

@@ -34,7 +34,6 @@ Uighur_Libreoffice
    <id>Uighur Language Meta-Package for LibreOffice</id>
    <is>Uighur Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua uigura per LibreOffice</it>
-   <ja_JP>Uighur Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用 ウイグル語メタパッケージ</ja>
    <kk>Uighur Language Meta-Package for LibreOffice</kk>
    <ko>Uighur Language Meta-Package for LibreOffice</ko>

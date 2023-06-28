@@ -34,7 +34,6 @@ Chromium
    <id>Latest Chromium browser and language pack</id>
    <is>Latest Chromium browser and language pack</is>
    <it>Ultimo browser Chromium con pacchetto della lingua</it>
-   <ja_JP>Latest Chromium browser and language pack</ja_JP>
    <ja>最新の Chromiumブラウザとその言語パック</ja>
    <kk>Latest Chromium browser and language pack</kk>
    <ko>Latest Chromium browser and language pack</ko>

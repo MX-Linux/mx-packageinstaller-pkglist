@@ -34,7 +34,6 @@ Venda_Libreoffice
    <id>Venda Language Meta-Package for LibreOffice</id>
    <is>Venda Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua venda per LibreOffice</it>
-   <ja_JP>Venda Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用 ヴェンダ語メタパッケージ</ja>
    <kk>Venda Language Meta-Package for LibreOffice</kk>
    <ko>Venda Language Meta-Package for LibreOffice</ko>

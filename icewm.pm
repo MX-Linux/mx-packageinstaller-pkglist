@@ -34,7 +34,6 @@ IceWM
    <id>lightweight environment</id>
    <is>lightweight environment</is>
    <it>Gestore di finestre che crea un ambiente leggero in stile Win95-OS/2-Motif</it>
-   <ja_JP>lightweight environment</ja_JP>
    <ja>軽量級の環境</ja>
    <kk>lightweight environment</kk>
    <ko>lightweight environment</ko>

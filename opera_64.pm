@@ -34,7 +34,6 @@ Opera
    <id>Opera browser</id>
    <is>Opera browser</is>
    <it>Opera browser</it>
-   <ja_JP>Opera browser</ja_JP>
    <ja>Opera ブラウザ</ja>
    <kk>Opera browser</kk>
    <ko>Opera browser</ko>

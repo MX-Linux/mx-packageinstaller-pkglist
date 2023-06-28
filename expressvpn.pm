@@ -34,7 +34,6 @@ ExpressVPN
    <id>ExpressVPN and sysVinit scripts</id>
    <is>ExpressVPN and sysVinit scripts</is>
    <it>ExpressVPN e script sysVinit</it>
-   <ja_JP>ExpressVPN and sysVinit scripts</ja_JP>
    <ja>ExpressVPN と sysVinit スクリプト</ja>
    <kk>ExpressVPN and sysVinit scripts</kk>
    <ko>ExpressVPN and sysVinit scripts</ko>

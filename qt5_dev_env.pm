@@ -34,7 +34,6 @@ QT5 Dev Enviroment
    <id>QT5 Development Environment</id>
    <is>QT5 Development Environment</is>
    <it>Ambiente di sviluppo QT5</it>
-   <ja_JP>QT5 Development Environment</ja_JP>
    <ja>QT5 開発環境</ja>
    <kk>QT5 Development Environment</kk>
    <ko>QT5 Development Environment</ko>

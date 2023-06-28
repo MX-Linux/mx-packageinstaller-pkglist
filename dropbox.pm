@@ -34,7 +34,6 @@ Dropbox
    <id>Dropbox file sync utility</id>
    <is>Dropbox file sync utility</is>
    <it>Utility di sincronizzazione dei file</it>
-   <ja_JP>Dropbox file sync utility</ja_JP>
    <ja>Dropbox ファイル同期ユーティリティ</ja>
    <kk>Dropbox file sync utility</kk>
    <ko>Dropbox file sync utility</ko>

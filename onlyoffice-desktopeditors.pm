@@ -34,7 +34,6 @@ OnlyOffice Desktop Editors
    <id>OnlyOffice Desktop Editors - a free software office suite</id>
    <is>OnlyOffice Desktop Editors - a free software office suite</is>
    <it>OnlyOffice Desktop Editors - a free software office suite</it>
-   <ja_JP>OnlyOffice Desktop Editors - a free software office suite</ja_JP>
    <ja>OnlyOffice Desktop Editors - a free software office suite</ja>
    <kk>OnlyOffice Desktop Editors - a free software office suite</kk>
    <ko>OnlyOffice Desktop Editors - a free software office suite</ko>

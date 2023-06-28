@@ -34,7 +34,6 @@ Megasync
    <id>Client for MEGA file syncing service</id>
    <is>Client for MEGA file syncing service</is>
    <it>Client per il servizio di sincronizzazione file di MEGA</it>
-   <ja_JP>Client for MEGA file syncing service</ja_JP>
    <ja>MEGA ファイル同期サービス用クライアント</ja>
    <kk>Client for MEGA file syncing service</kk>
    <ko>Client for MEGA file syncing service</ko>

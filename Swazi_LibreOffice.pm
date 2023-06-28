@@ -34,7 +34,6 @@ Swazi_Libreoffice
    <id>Swazi Language Meta-Package for LibreOffice</id>
    <is>Swazi Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua swati per LibreOffice</it>
-   <ja_JP>Swazi Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のスワジ語メタパッケージ</ja>
    <kk>Swazi Language Meta-Package for LibreOffice</kk>
    <ko>Swazi Language Meta-Package for LibreOffice</ko>

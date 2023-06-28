@@ -34,7 +34,6 @@ Ukrainian
    <id>Ukrainian Language Meta-Package</id>
    <is>Ukrainian Language Meta-Package</is>
    <it>Meta-pacchetto della lingua ucraina</it>
-   <ja_JP>Ukrainian Language Meta-Package</ja_JP>
    <ja>ウクライナ語 メタパッケージ</ja>
    <kk>Ukrainian Language Meta-Package</kk>
    <ko>Ukrainian Language Meta-Package</ko>

@@ -34,7 +34,6 @@ Japanese_Input_fcitx
    <id>Japanese fcitx</id>
    <is>Japanese fcitx</is>
    <it>Fcitx per la lingua giapponese</it>
-   <ja_JP>Japanese fcitx</ja_JP>
    <ja>日本語 fcitx</ja>
    <kk>Japanese fcitx</kk>
    <ko>Japanese fcitx</ko>

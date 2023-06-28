@@ -34,7 +34,6 @@ Uzbek_Libreoffice
    <id>Uzbek Language Meta-Package for LibreOffice</id>
    <is>Uzbek Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua uzbeka per LibreOffice</it>
-   <ja_JP>Uzbek Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のウズベク語メタパッケージ</ja>
    <kk>Uzbek Language Meta-Package for LibreOffice</kk>
    <ko>Uzbek Language Meta-Package for LibreOffice</ko>

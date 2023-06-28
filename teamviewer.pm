@@ -34,7 +34,6 @@ TeamViewer
    <id>Teamviewer remote access</id>
    <is>Teamviewer remote access</is>
    <it>Teamviewer accesso remoto</it>
-   <ja_JP>Teamviewer remote access</ja_JP>
    <ja>TeamViewer リモートアクセス</ja>
    <kk>Teamviewer remote access</kk>
    <ko>Teamviewer remote access</ko>

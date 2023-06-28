@@ -34,7 +34,6 @@ MX 15 Wallpapers
    <id>backgrounds originally supplied with MX 15</id>
    <is>backgrounds originally supplied with MX 15</is>
    <it>sfondi originariamente forniti con MX 15</it>
-   <ja_JP>backgrounds originally supplied with MX 15</ja_JP>
    <ja>MX 15 に同梱されているオリジナルな背景</ja>
    <kk>backgrounds originally supplied with MX 15</kk>
    <ko>backgrounds originally supplied with MX 15</ko>

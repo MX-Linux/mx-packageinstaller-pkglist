@@ -34,7 +34,6 @@ Debian 64 bit
    <id>Default Debian kernel Meltdown patched, 64bit</id>
    <is>Default Debian kernel Meltdown patched, 64bit</is>
    <it>Kernel Debian di default, con la patch per Meltdown, 64bit</it>
-   <ja_JP>Default Debian kernel Meltdown patched, 64bit</ja_JP>
    <ja>既定の Debian kernel Meltdown patched, 64bit</ja>
    <kk>Default Debian kernel Meltdown patched, 64bit</kk>
    <ko>Default Debian kernel Meltdown patched, 64bit</ko>

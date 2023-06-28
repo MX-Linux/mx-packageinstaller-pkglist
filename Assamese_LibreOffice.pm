@@ -34,7 +34,6 @@ Assamese_Libreoffice
    <id>Assamese Language Meta-Package for LibreOffice</id>
    <is>Assamese Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Assamese Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Assamese Language Meta-Package for LibreOffice</kk>
    <ko>Assamese Language Meta-Package for LibreOffice</ko>

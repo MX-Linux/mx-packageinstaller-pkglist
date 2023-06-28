@@ -34,7 +34,6 @@ SuperTuxKart
    <id>Mario kart style racing</id>
    <is>Mario kart style racing</is>
    <it>gioco di corse con i kart stile SuperMario</it>
-   <ja_JP>Mario kart style racing</ja_JP>
    <ja>マリオカート風のレースゲーム</ja>
    <kk>Mario kart style racing</kk>
    <ko>Mario kart style racing</ko>

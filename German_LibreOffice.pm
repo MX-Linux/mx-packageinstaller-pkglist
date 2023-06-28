@@ -34,7 +34,6 @@ German_Libreoffice
    <id>German Language Meta-Package for LibreOffice</id>
    <is>German Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>German Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>German Language Meta-Package for LibreOffice</kk>
    <ko>German Language Meta-Package for LibreOffice</ko>

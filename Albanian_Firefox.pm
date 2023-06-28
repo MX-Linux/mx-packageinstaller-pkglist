@@ -34,7 +34,6 @@ Albanian_Firefox
    <id>Albanian localisation of Firefox</id>
    <is>Albanian localisation of Firefox</is>
    <it>Localizzazione albanese di Firefox </it>
-   <ja_JP>Albanian localisation of Firefox</ja_JP>
    <ja>Firefox のアルバニア語用言語パック</ja>
    <kk>Albanian localisation of Firefox</kk>
    <ko>Albanian localisation of Firefox</ko>

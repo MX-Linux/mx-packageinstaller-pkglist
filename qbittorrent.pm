@@ -34,7 +34,6 @@ qBittorrent
    <id>a QT4 feature rich but lightweight client that is very similar to uTorrent</id>
    <is>a QT4 feature rich but lightweight client that is very similar to uTorrent</is>
    <it>client molto simile a uTorrent, ricco di funzionalità ma leggero, con interfaccia in QT4</it>
-   <ja_JP>a QT4 feature rich but lightweight client that is very similar to uTorrent</ja_JP>
    <ja>uTorrent に非常に似て QT4 の機能が豊富で軽量なクライアント</ja>
    <kk>a QT4 feature rich but lightweight client that is very similar to uTorrent</kk>
    <ko>a QT4 feature rich but lightweight client that is very similar to uTorrent</ko>

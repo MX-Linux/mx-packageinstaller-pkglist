@@ -34,7 +34,6 @@ Basque_Thunderbird
    <id>Basque localisation of Thunderbird</id>
    <is>Basque localisation of Thunderbird</is>
    <it>Localizzazione basca di Thunderbird</it>
-   <ja_JP>Basque localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のバスク語用言語パック</ja>
    <kk>Basque localisation of Thunderbird</kk>
    <ko>Basque localisation of Thunderbird</ko>

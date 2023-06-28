@@ -34,7 +34,6 @@ Swedish_Firefox
    <id>Swedish localisation of Firefox</id>
    <is>Swedish localisation of Firefox</is>
    <it>Localizzazione svedese di Firefox </it>
-   <ja_JP>Swedish localisation of Firefox</ja_JP>
    <ja>Firefox のスウェーデン語パック</ja>
    <kk>Swedish localisation of Firefox</kk>
    <ko>Swedish localisation of Firefox</ko>

@@ -34,7 +34,6 @@ Kinarwanda_Libreoffice
    <id>Kinarwanda Language Meta-Package for LibreOffice</id>
    <is>Kinarwanda Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Kinarwanda Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Kinarwanda Language Meta-Package for LibreOffice</kk>
    <ko>Kinarwanda Language Meta-Package for LibreOffice</ko>

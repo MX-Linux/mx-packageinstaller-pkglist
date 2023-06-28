@@ -34,7 +34,6 @@ French_Libreoffice
    <id>French Language Meta-Package for LibreOffice</id>
    <is>French Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>French Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>French Language Meta-Package for LibreOffice</kk>
    <ko>French Language Meta-Package for LibreOffice</ko>

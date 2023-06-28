@@ -34,7 +34,6 @@ Czech
    <id>Czech Language Meta-Package</id>
    <is>Czech Language Meta-Package</is>
    <it>Meta-pacchetto della lingua ceca</it>
-   <ja_JP>Czech Language Meta-Package</ja_JP>
    <ja>チェコ語のメタパッケージ</ja>
    <kk>Czech Language Meta-Package</kk>
    <ko>Czech Language Meta-Package</ko>

@@ -34,7 +34,6 @@ XMMS
    <id>multimedia player modelled on winamp</id>
    <is>multimedia player modelled on winamp</is>
    <it>riproduttore multimediale simile a winamp</it>
-   <ja_JP>multimedia player modelled on winamp</ja_JP>
    <ja>winamp を真似たマルチメディアプレーヤー</ja>
    <kk>multimedia player modelled on winamp</kk>
    <ko>multimedia player modelled on winamp</ko>

@@ -34,7 +34,6 @@ Scratch
    <id>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</id>
    <is>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</is>
    <it>Ambiente di programmazione grafica Scratch dal M.I.T. https://scratch.mit.edu/</it>
-   <ja_JP>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</ja_JP>
    <ja>M.I.T. からのスクラッチ グラフィカル プログラミング環境 https://scratch.mit.edu/</ja>
    <kk>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</kk>
    <ko>Scratch Graphical Programming envirnoment from M.I.T. https://scratch.mit.edu/</ko>

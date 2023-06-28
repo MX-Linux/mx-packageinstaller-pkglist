@@ -34,7 +34,6 @@ Scribus
    <id>a desktop page layout program</id>
    <is>a desktop page layout program</is>
    <it>programma di impaginazione per il desktop</it>
-   <ja_JP>a desktop page layout program</ja_JP>
    <ja>デスクトップのページレイアウト用プログラム</ja>
    <kk>a desktop page layout program</kk>
    <ko>a desktop page layout program</ko>

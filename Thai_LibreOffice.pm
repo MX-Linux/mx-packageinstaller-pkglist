@@ -34,7 +34,6 @@ Thai_Libreoffice
    <id>Thai Language Meta-Package for LibreOffice</id>
    <is>Thai Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua tailandese per LibreOffice</it>
-   <ja_JP>Thai Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のタイ語メタパッケージ</ja>
    <kk>Thai Language Meta-Package for LibreOffice</kk>
    <ko>Thai Language Meta-Package for LibreOffice</ko>

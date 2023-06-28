@@ -34,7 +34,6 @@ Syncthing
    <id>Syncthing file sync utility</id>
    <is>Syncthing file sync utility</is>
    <it>Syncthing applicazione di sincronizzazione di file</it>
-   <ja_JP>Syncthing file sync utility</ja_JP>
    <ja>Syncthing ファイル同期ユーティリティ</ja>
    <kk>Syncthing file sync utility</kk>
    <ko>Syncthing file sync utility</ko>

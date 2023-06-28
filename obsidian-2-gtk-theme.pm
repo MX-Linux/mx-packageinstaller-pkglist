@@ -34,7 +34,6 @@ Obsidian-2 Gtk Theme
    <id>a dark Gtk Theme</id>
    <is>a dark Gtk Theme</is>
    <it>un tema Gtk scuro</it>
-   <ja_JP>a dark Gtk Theme</ja_JP>
    <ja>Gtk のダークなテーマ</ja>
    <kk>a dark Gtk Theme</kk>
    <ko>a dark Gtk Theme</ko>

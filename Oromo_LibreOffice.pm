@@ -34,7 +34,6 @@ Oromo_Libreoffice
    <id>Oromo Language Meta-Package for LibreOffice</id>
    <is>Oromo Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua oromonica per LibreOffice</it>
-   <ja_JP>Oromo Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用オロモ言語メタパッケージ</ja>
    <kk>Oromo Language Meta-Package for LibreOffice</kk>
    <ko>Oromo Language Meta-Package for LibreOffice</ko>

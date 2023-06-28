@@ -34,7 +34,6 @@ Evince
    <id>a simple document (PostScript, PDF) viewer</id>
    <is>a simple document (PostScript, PDF) viewer</is>
    <it>Un semplice visualizzatore di documenti (PostScript, PDF)</it>
-   <ja_JP>a simple document (PostScript, PDF) viewer</ja_JP>
    <ja>シンプルな文書ビューア (PostScript, PDF 用)</ja>
    <kk>a simple document (PostScript, PDF) viewer</kk>
    <ko>a simple document (PostScript, PDF) viewer</ko>

@@ -34,7 +34,6 @@ Blender
    <id>a free and open source 3D animation suite</id>
    <is>a free and open source 3D animation suite</is>
    <it>Programma gratuito ed open source di animazione 3D</it>
-   <ja_JP>a free and open source 3D animation suite</ja_JP>
    <ja>フリーでオープンソースの3Dアニメーション・スイート</ja>
    <kk>a free and open source 3D animation suite</kk>
    <ko>a free and open source 3D animation suite</ko>

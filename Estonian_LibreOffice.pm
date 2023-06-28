@@ -34,7 +34,6 @@ Estonian_Libreoffice
    <id>Estonian Language Meta-Package for LibreOffice</id>
    <is>Estonian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Estonian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Estonian Language Meta-Package for LibreOffice</kk>
    <ko>Estonian Language Meta-Package for LibreOffice</ko>

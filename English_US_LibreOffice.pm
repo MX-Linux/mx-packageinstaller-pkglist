@@ -34,7 +34,6 @@ US_English_Libreoffice
    <id>US English Help for LibreOffice</id>
    <is>US English Help for LibreOffice</is>
    <it>Guida in Inglese US per LibreOffice</it>
-   <ja_JP>US English Help for LibreOffice</ja_JP>
    <ja>LibreOffice のアメリカ英語ヘルプ</ja>
    <kk>US English Help for LibreOffice</kk>
    <ko>US English Help for LibreOffice</ko>

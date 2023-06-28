@@ -34,7 +34,6 @@ Japanese_Fonts
    <id>Japanese fonts packages</id>
    <is>Japanese fonts packages</is>
    <it>Pacchetti di fonts per il Giapponese</it>
-   <ja_JP>Japanese fonts packages</ja_JP>
    <ja>日本語フォントのパッケージ集</ja>
    <kk>Japanese fonts packages</kk>
    <ko>Japanese fonts packages</ko>

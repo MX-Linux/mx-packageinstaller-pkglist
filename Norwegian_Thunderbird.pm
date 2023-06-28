@@ -34,7 +34,6 @@ Norwegian_Thunderbird
    <id>Norwegian localisation of Thunderbird</id>
    <is>Norwegian localisation of Thunderbird</is>
    <it>Localizzazione norvegese di Thunderbird</it>
-   <ja_JP>Norwegian localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のノルウェー語パック</ja>
    <kk>Norwegian localisation of Thunderbird</kk>
    <ko>Norwegian localisation of Thunderbird</ko>

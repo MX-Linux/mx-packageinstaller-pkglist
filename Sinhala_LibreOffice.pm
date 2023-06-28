@@ -34,7 +34,6 @@ Sinhala_Libreoffice
    <id>Sinhala Language Meta-Package for LibreOffice</id>
    <is>Sinhala Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua singalese per LibreOffice</it>
-   <ja_JP>Sinhala Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用のシンハラ語メタパッケージ</ja>
    <kk>Sinhala Language Meta-Package for LibreOffice</kk>
    <ko>Sinhala Language Meta-Package for LibreOffice</ko>

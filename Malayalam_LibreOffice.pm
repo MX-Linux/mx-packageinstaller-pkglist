@@ -34,7 +34,6 @@ Malayalam_Libreoffice
    <id>Malayalam Language Meta-Package for LibreOffice</id>
    <is>Malayalam Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua malayalam per LibreOffice</it>
-   <ja_JP>Malayalam Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のマレーシア語メタパッケージ</ja>
    <kk>Malayalam Language Meta-Package for LibreOffice</kk>
    <ko>Malayalam Language Meta-Package for LibreOffice</ko>

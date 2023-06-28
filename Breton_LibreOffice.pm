@@ -34,7 +34,6 @@ Breton_Libreoffice
    <id>Breton Language Meta-Package for LibreOffice</id>
    <is>Breton Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Breton Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Breton Language Meta-Package for LibreOffice</kk>
    <ko>Breton Language Meta-Package for LibreOffice</ko>

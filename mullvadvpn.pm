@@ -34,7 +34,6 @@ Mullvad VPN
    <id>Mullvad VPN and sysVinit scripts</id>
    <is>Mullvad VPN and sysVinit scripts</is>
    <it>Mullvad VPN e script sysVinit</it>
-   <ja_JP>Mullvad VPN and sysVinit scripts</ja_JP>
    <ja>Mullvad VPN と sysVinit スクリプト</ja>
    <kk>Mullvad VPN and sysVinit scripts</kk>
    <ko>Mullvad VPN and sysVinit scripts</ko>

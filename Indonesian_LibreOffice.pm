@@ -34,7 +34,6 @@ Indonesian_Libreoffice
    <id>Indonesian Language Meta-Package for LibreOffice</id>
    <is>Indonesian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Indonesian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Indonesian Language Meta-Package for LibreOffice</kk>
    <ko>Indonesian Language Meta-Package for LibreOffice</ko>

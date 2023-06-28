@@ -34,7 +34,6 @@ ssh Conduit
    <id>A simple way to use remote resources via an ssh encypted connection</id>
    <is>A simple way to use remote resources via an ssh encypted connection</is>
    <it>Un modo semplice per usare risorse remote attraverso una connessione ssh criptata</it>
-   <ja_JP>A simple way to use remote resources via an ssh encypted connection</ja_JP>
    <ja>ssh で暗号化された接続を介してリモートリソースを使用する簡単な方法</ja>
    <kk>A simple way to use remote resources via an ssh encypted connection</kk>
    <ko>A simple way to use remote resources via an ssh encypted connection</ko>

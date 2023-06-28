@@ -34,7 +34,6 @@ Danish_Libreoffice
    <id>Danish Language Meta-Package for LibreOffice</id>
    <is>Danish Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Danish Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Danish Language Meta-Package for LibreOffice</kk>
    <ko>Danish Language Meta-Package for LibreOffice</ko>

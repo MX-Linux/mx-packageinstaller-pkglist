@@ -34,7 +34,6 @@ Handbrake
    <id>versatile DVD ripper and video transcoder (cli and GUI)</id>
    <is>versatile DVD ripper and video transcoder (cli and GUI)</is>
    <it>versatile etrattore audio da DVD e transcoder video (CLI e GUI)</it>
-   <ja_JP>versatile DVD ripper and video transcoder (cli and GUI)</ja_JP>
    <ja>万能なDVDリッパーとビデオ トランスコーダー (CLIとGUI)</ja>
    <kk>versatile DVD ripper and video transcoder (cli and GUI)</kk>
    <ko>versatile DVD ripper and video transcoder (cli and GUI)</ko>

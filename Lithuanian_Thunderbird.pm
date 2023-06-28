@@ -34,7 +34,6 @@ Lithuanian_Thunderbird
    <id>Lithuanian localisation of Thunderbird</id>
    <is>Lithuanian localisation of Thunderbird</is>
    <it>Localizzazione lituana di Thunderbird</it>
-   <ja_JP>Lithuanian localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のリトアニア語パック</ja>
    <kk>Lithuanian localisation of Thunderbird</kk>
    <ko>Lithuanian localisation of Thunderbird</ko>

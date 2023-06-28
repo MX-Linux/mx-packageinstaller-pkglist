@@ -34,7 +34,6 @@ Dzongkha_Libreoffice
    <id>Dzongkha Language Meta-Package for LibreOffice</id>
    <is>Dzongkha Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Dzongkha Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Dzongkha Language Meta-Package for LibreOffice</kk>
    <ko>Dzongkha Language Meta-Package for LibreOffice</ko>

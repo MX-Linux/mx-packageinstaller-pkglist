@@ -34,7 +34,6 @@ Waterfox G3
    <id>alternative mozilla-based browser</id>
    <is>alternative mozilla-based browser</is>
    <it>browser alternativo basato su mozilla </it>
-   <ja_JP>alternative mozilla-based browser</ja_JP>
    <ja>Mozilla ベースの代替ブラウザ</ja>
    <kk>alternative mozilla-based browser</kk>
    <ko>alternative mozilla-based browser</ko>

@@ -34,7 +34,6 @@ Telugu_Libreoffice
    <id>Telugu Language Meta-Package for LibreOffice</id>
    <is>Telugu Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua telugu per LibreOffice</it>
-   <ja_JP>Telugu Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のテルグ語メタパッケージ</ja>
    <kk>Telugu Language Meta-Package for LibreOffice</kk>
    <ko>Telugu Language Meta-Package for LibreOffice</ko>

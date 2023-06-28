@@ -34,7 +34,6 @@ Dutch_Firefox
    <id>Dutch localisation of Firefox</id>
    <is>Dutch localisation of Firefox</is>
    <it>Localizzazione olandese di Firefox </it>
-   <ja_JP>Dutch localisation of Firefox</ja_JP>
    <ja>Firefox のオランダ語パック</ja>
    <kk>Dutch localisation of Firefox</kk>
    <ko>Dutch localisation of Firefox</ko>

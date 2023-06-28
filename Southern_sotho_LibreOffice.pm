@@ -34,7 +34,6 @@ Southern_sotho_Libreoffice
    <id>Southern_sotho Language Meta-Package for LibreOffice</id>
    <is>Southern_sotho Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua sotho del sud per LibreOffice</it>
-   <ja_JP>Southern_sotho Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用の南ソト語メタパッケージ</ja>
    <kk>Southern_sotho Language Meta-Package for LibreOffice</kk>
    <ko>Southern_sotho Language Meta-Package for LibreOffice</ko>

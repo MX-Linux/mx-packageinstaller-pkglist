@@ -34,7 +34,6 @@ GnuCash
    <id>personal and small-business financial-accounting software</id>
    <is>personal and small-business financial-accounting software</is>
    <it>Contabilità personale e per piccola impresa</it>
-   <ja_JP>personal and small-business financial-accounting software</ja_JP>
    <ja>個人や中小企業向けの財務会計ソフト</ja>
    <kk>personal and small-business financial-accounting software</kk>
    <ko>personal and small-business financial-accounting software</ko>

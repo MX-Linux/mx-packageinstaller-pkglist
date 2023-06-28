@@ -34,7 +34,6 @@ MX 17 Wallpapers
    <id>backgrounds originally supplied with MX 17</id>
    <is>backgrounds originally supplied with MX 17</is>
    <it>sfondi originariamente forniti con MX 17</it>
-   <ja_JP>backgrounds originally supplied with MX 17</ja_JP>
    <ja>MX 17 に同梱されているオリジナルな背景</ja>
    <kk>backgrounds originally supplied with MX 17</kk>
    <ko>backgrounds originally supplied with MX 17</ko>

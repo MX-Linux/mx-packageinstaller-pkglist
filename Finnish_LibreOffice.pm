@@ -34,7 +34,6 @@ Finnish_Libreoffice
    <id>Finnish Language Meta-Package for LibreOffice</id>
    <is>Finnish Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Finnish Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Finnish Language Meta-Package for LibreOffice</kk>
    <ko>Finnish Language Meta-Package for LibreOffice</ko>

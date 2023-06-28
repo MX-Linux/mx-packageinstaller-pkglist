@@ -34,7 +34,6 @@ Chinese_Input
    <id>Chinese ibus</id>
    <is>Chinese ibus</is>
    <it>Chinese ibus</it>
-   <ja_JP>Chinese ibus</ja_JP>
    <ja>中国語用 ibus</ja>
    <kk>Chinese ibus</kk>
    <ko>Chinese ibus</ko>

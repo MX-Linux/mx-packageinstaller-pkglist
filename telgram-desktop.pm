@@ -34,7 +34,6 @@ Telegram Desktop Client (debian backports)
    <id>Telegram Desktop Client (debian backports)</id>
    <is>Telegram Desktop Client (debian backports)</is>
    <it>Telegram Desktop Client (debian backports)</it>
-   <ja_JP>Telegram Desktop Client (debian backports)</ja_JP>
    <ja>Telegram Desktop Client (debian backports)</ja>
    <kk>Telegram Desktop Client (debian backports)</kk>
    <ko>Telegram Desktop Client (debian backports)</ko>

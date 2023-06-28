@@ -34,7 +34,6 @@ Romanian
    <id>Romanian Language Meta-Package</id>
    <is>Romanian Language Meta-Package</is>
    <it>Meta-pacchetto della lingua rumena</it>
-   <ja_JP>Romanian Language Meta-Package</ja_JP>
    <ja>ルーマニア語メタパッケージ</ja>
    <kk>Romanian Language Meta-Package</kk>
    <ko>Romanian Language Meta-Package</ko>

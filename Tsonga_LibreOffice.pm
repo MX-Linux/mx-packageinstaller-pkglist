@@ -34,7 +34,6 @@ Tsonga_Libreoffice
    <id>Tsonga Language Meta-Package for LibreOffice</id>
    <is>Tsonga Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua tsonga per LibreOffice</it>
-   <ja_JP>Tsonga Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のツォンガ語メタパッケージ</ja>
    <kk>Tsonga Language Meta-Package for LibreOffice</kk>
    <ko>Tsonga Language Meta-Package for LibreOffice</ko>

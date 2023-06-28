@@ -34,7 +34,6 @@ Hindi_Libreoffice
    <id>Hindi Language Meta-Package for LibreOffice</id>
    <is>Hindi Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Hindi Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Hindi Language Meta-Package for LibreOffice</kk>
    <ko>Hindi Language Meta-Package for LibreOffice</ko>

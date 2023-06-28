@@ -34,7 +34,6 @@ English_southafrican_Libreoffice
    <id>English_southafrican Language Meta-Package for LibreOffice</id>
    <is>English_southafrican Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>English_southafrican Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>English_southafrican Language Meta-Package for LibreOffice</kk>
    <ko>English_southafrican Language Meta-Package for LibreOffice</ko>

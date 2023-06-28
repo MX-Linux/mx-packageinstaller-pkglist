@@ -34,7 +34,6 @@ Guarani_Libreoffice
    <id>Guarani Language Meta-Package for LibreOffice</id>
    <is>Guarani Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Guarani Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Guarani Language Meta-Package for LibreOffice</kk>
    <ko>Guarani Language Meta-Package for LibreOffice</ko>

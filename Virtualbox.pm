@@ -35,7 +35,6 @@ VirtualBox
    <id>Virtualbox</id>
    <is>Virtualbox</is>
    <it>Virtualbox</it>
-   <ja_JP>Virtualbox</ja_JP>
    <ja>バーチャルボックス</ja>
    <kk>Virtualbox</kk>
    <ko>Virtualbox</ko>

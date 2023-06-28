@@ -34,7 +34,6 @@ LibreWolf
    <id>Latest LibreWolf browser (stable)</id>
    <is>Latest LibreWolf browser (stable)</is>
    <it>Ultima versione (stabile) del browser LibreWolf</it>
-   <ja_JP>Latest LibreWolf browser (stable)</ja_JP>
    <ja>Latest LibreWolf browser (stable)</ja>
    <kk>Latest LibreWolf browser (stable)</kk>
    <ko>Latest LibreWolf browser (stable)</ko>

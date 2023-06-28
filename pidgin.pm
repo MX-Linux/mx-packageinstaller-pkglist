@@ -34,7 +34,6 @@ Pidgin
    <id>an easy to use and free chat client</id>
    <is>an easy to use and free chat client</is>
    <it>client chat libero e di facile uso</it>
-   <ja_JP>an easy to use and free chat client</ja_JP>
    <ja>使い易い無料のチャットクライアント</ja>
    <kk>an easy to use and free chat client</kk>
    <ko>an easy to use and free chat client</ko>

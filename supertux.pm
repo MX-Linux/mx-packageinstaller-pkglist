@@ -34,7 +34,6 @@ SuperTux
    <id>Mario style platform game w/ Tux</id>
    <is>Mario style platform game w/ Tux</is>
    <it>Piattaforma di gioco in stile SuperMario con la presenza del pinguino Tux</it>
-   <ja_JP>Mario style platform game w/ Tux</ja_JP>
    <ja>タックスくんが登場するマリオ風プラットフォーム ゲーム</ja>
    <kk>Mario style platform game w/ Tux</kk>
    <ko>Mario style platform game w/ Tux</ko>

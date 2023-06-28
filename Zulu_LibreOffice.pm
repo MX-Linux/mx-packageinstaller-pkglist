@@ -34,7 +34,6 @@ Zulu_Libreoffice
    <id>Zulu Language Meta-Package for LibreOffice</id>
    <is>Zulu Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Zulu Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Zulu Language Meta-Package for LibreOffice</kk>
    <ko>Zulu Language Meta-Package for LibreOffice</ko>

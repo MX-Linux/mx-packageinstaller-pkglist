@@ -34,7 +34,6 @@ Basque_Firefox
    <id>Basque localisation of Firefox</id>
    <is>Basque localisation of Firefox</is>
    <it>Localizzazione basca di Firefox </it>
-   <ja_JP>Basque localisation of Firefox</ja_JP>
    <ja>Firefox のバスク語用言語パック</ja>
    <kk>Basque localisation of Firefox</kk>
    <ko>Basque localisation of Firefox</ko>

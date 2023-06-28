@@ -34,7 +34,6 @@ Inkscape
    <id>a vector-based drawing program</id>
    <is>a vector-based drawing program</is>
    <it>programma di disegno vettoriale</it>
-   <ja_JP>a vector-based drawing program</ja_JP>
    <ja>ベクトル描画プログラム</ja>
    <kk>a vector-based drawing program</kk>
    <ko>a vector-based drawing program</ko>

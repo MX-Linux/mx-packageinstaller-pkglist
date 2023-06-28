@@ -34,7 +34,6 @@ Mirage
    <id>fast and simple image viewer</id>
    <is>fast and simple image viewer</is>
    <it>visualizzatore di immagini semplice e veloce</it>
-   <ja_JP>fast and simple image viewer</ja_JP>
    <ja>高速でシンプルな画像ビューア</ja>
    <kk>fast and simple image viewer</kk>
    <ko>fast and simple image viewer</ko>

@@ -34,7 +34,6 @@ Icelandic_Thunderbird
    <id>Icelandic localisation of Thunderbird</id>
    <is>Icelandic localisation of Thunderbird</is>
    <it>Localizzazione islandese di Thunderbird</it>
-   <ja_JP>Icelandic localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のアイスランド語パック</ja>
    <kk>Icelandic localisation of Thunderbird</kk>
    <ko>Icelandic localisation of Thunderbird</ko>

@@ -34,7 +34,6 @@ Abiword
    <id>lightweight word processor</id>
    <is>lightweight word processor</is>
    <it>Editor di testo leggero</it>
-   <ja_JP>lightweight word processor</ja_JP>
    <ja>軽量級のワープロ</ja>
    <kk>lightweight word processor</kk>
    <ko>lightweight word processor</ko>

@@ -34,7 +34,6 @@ Basque_Libreoffice
    <id>Basque Language Meta-Package for LibreOffice</id>
    <is>Basque Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Basque Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Basque Language Meta-Package for LibreOffice</kk>
    <ko>Basque Language Meta-Package for LibreOffice</ko>

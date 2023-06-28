@@ -34,7 +34,6 @@ Finnish_Thunderbird
    <id>Finnish localisation of Thunderbird</id>
    <is>Finnish localisation of Thunderbird</is>
    <it>Localizzazione finlandese di Thunderbird</it>
-   <ja_JP>Finnish localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のフィンランド語パック</ja>
    <kk>Finnish localisation of Thunderbird</kk>
    <ko>Finnish localisation of Thunderbird</ko>

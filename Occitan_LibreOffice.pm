@@ -34,7 +34,6 @@ Occitan_Libreoffice
    <id>Occitan Language Meta-Package for LibreOffice</id>
    <is>Occitan Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua occitana per LibreOffice</it>
-   <ja_JP>Occitan Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のオック語メタパッケージ</ja>
    <kk>Occitan Language Meta-Package for LibreOffice</kk>
    <ko>Occitan Language Meta-Package for LibreOffice</ko>

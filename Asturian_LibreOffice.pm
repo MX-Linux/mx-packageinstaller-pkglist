@@ -34,7 +34,6 @@ Asturian_Libreoffice
    <id>Asturian Language Meta-Package for LibreOffice</id>
    <is>Asturian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Asturian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Asturian Language Meta-Package for LibreOffice</kk>
    <ko>Asturian Language Meta-Package for LibreOffice</ko>

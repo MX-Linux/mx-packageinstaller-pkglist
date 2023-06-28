@@ -34,7 +34,6 @@ Google Chrome
    <id>Latest Google Chrome browser (stable)</id>
    <is>Latest Google Chrome browser (stable)</is>
    <it>Ultima versione (stabile) del browser Google Chrome</it>
-   <ja_JP>Latest Google Chrome browser (stable)</ja_JP>
    <ja>最新のGoogle Chromeブラウザ（安定版）</ja>
    <kk>Latest Google Chrome browser (stable)</kk>
    <ko>Latest Google Chrome browser (stable)</ko>

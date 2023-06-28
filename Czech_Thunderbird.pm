@@ -34,7 +34,6 @@ Czech_Thunderbird
    <id>Czech localisation of Thunderbird</id>
    <is>Czech localisation of Thunderbird</is>
    <it>Localizzazione in Ceco di Thunderbird</it>
-   <ja_JP>Czech localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のチェコ語パック</ja>
    <kk>Czech localisation of Thunderbird</kk>
    <ko>Czech localisation of Thunderbird</ko>

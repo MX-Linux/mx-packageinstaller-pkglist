@@ -34,7 +34,6 @@ rTorrent
    <id>an ncurses BitTorrent client</id>
    <is>an ncurses BitTorrent client</is>
    <it>client BitTorrent che usa ncurses</it>
-   <ja_JP>an ncurses BitTorrent client</ja_JP>
    <ja>ncurse BitTorrent クライアント</ja>
    <kk>an ncurses BitTorrent client</kk>
    <ko>an ncurses BitTorrent client</ko>

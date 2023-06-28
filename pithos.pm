@@ -34,7 +34,6 @@ Pithos
    <id>a native Pandora Radio client</id>
    <is>a native Pandora Radio client</is>
    <it>client per la radio web Pandora</it>
-   <ja_JP>a native Pandora Radio client</ja_JP>
    <ja>ネイティブな Pandora Radio クライアント</ja>
    <kk>a native Pandora Radio client</kk>
    <ko>a native Pandora Radio client</ko>

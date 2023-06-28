@@ -34,7 +34,6 @@ Wine
    <id>run Windows applications without a copy of Microsoft Windows</id>
    <is>run Windows applications without a copy of Microsoft Windows</is>
    <it>esegue applicazioni Windows senza la presenza del sistema operativo Microsoft Windows</it>
-   <ja_JP>run Windows applications without a copy of Microsoft Windows</ja_JP>
    <ja>Windows のコピーなしで Windows アプリケーションを実行します</ja>
    <kk>run Windows applications without a copy of Microsoft Windows</kk>
    <ko>run Windows applications without a copy of Microsoft Windows</ko>

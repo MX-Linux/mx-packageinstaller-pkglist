@@ -34,7 +34,6 @@ Shotwell
    <id>digital photo organizer</id>
    <is>digital photo organizer</is>
    <it>organizzatore di foto digitali</it>
-   <ja_JP>digital photo organizer</ja_JP>
    <ja>デジタル写真オーガナイザ</ja>
    <kk>digital photo organizer</kk>
    <ko>digital photo organizer</ko>

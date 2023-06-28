@@ -34,7 +34,6 @@ Google Earth Pro
    <id>Google Earth Globe</id>
    <is>Google Earth Globe</is>
    <it>Google Earth Globe</it>
-   <ja_JP>Google Earth Globe</ja_JP>
    <ja>Google Earth 地球儀</ja>
    <kk>Google Earth Globe</kk>
    <ko>Google Earth Globe</ko>

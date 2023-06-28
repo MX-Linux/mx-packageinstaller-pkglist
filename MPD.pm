@@ -34,7 +34,6 @@ MPD Music Player Daemon
    <id>a flexible, powerful, server-side application for playing music</id>
    <is>a flexible, powerful, server-side application for playing music</is>
    <it>è un'applicazione lato server, flessibile e potente, per la la riproduzione di file musicali</it>
-   <ja_JP>a flexible, powerful, server-side application for playing music</ja_JP>
    <ja>音楽を再生用の柔軟で強力なサーバーサイド・アプリケーション</ja>
    <kk>a flexible, powerful, server-side application for playing music</kk>
    <ko>a flexible, powerful, server-side application for playing music</ko>
