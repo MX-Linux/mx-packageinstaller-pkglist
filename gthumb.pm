@@ -34,7 +34,6 @@ gThumb
    <id>advanced image viewer and browser</id>
    <is>advanced image viewer and browser</is>
    <it>Navigatore e visualizzatore di immagini avanzato</it>
-   <ja_JP>advanced image viewer and browser</ja_JP>
    <ja>高度な画像ビューアとブラウザ</ja>
    <kk>advanced image viewer and browser</kk>
    <ko>advanced image viewer and browser</ko>

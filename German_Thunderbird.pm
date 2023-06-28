@@ -34,7 +34,6 @@ German_Thunderbird
    <id>German localisation of Thunderbird</id>
    <is>German localisation of Thunderbird</is>
    <it>Localizzazione tedesca di Thunderbird</it>
-   <ja_JP>German localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のドイツ語パック</ja>
    <kk>German localisation of Thunderbird</kk>
    <ko>German localisation of Thunderbird</ko>

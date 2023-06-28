@@ -34,7 +34,6 @@ Estonian_Firefox
    <id>Estonian localisation of Firefox</id>
    <is>Estonian localisation of Firefox</is>
    <it>Localizzazione estone di Firefox</it>
-   <ja_JP>Estonian localisation of Firefox</ja_JP>
    <ja>Firefox のエストニア語パック</ja>
    <kk>Estonian localisation of Firefox</kk>
    <ko>Estonian localisation of Firefox</ko>

@@ -34,7 +34,6 @@ Croatian_thunderbird
    <id>Croatian localisation of thunderbird</id>
    <is>Croatian localisation of thunderbird</is>
    <it>Localizzazione croata di Thunderbird</it>
-   <ja_JP>Croatian localisation of thunderbird</ja_JP>
    <ja>Thunderbird のクロアチア語パック</ja>
    <kk>Croatian localisation of thunderbird</kk>
    <ko>Croatian localisation of thunderbird</ko>

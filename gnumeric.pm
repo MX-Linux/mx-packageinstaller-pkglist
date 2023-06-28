@@ -34,7 +34,6 @@ Gnumeric
    <id>lightweight spreadsheet</id>
    <is>lightweight spreadsheet</is>
    <it>foglio di calcolo leggero</it>
-   <ja_JP>lightweight spreadsheet</ja_JP>
    <ja>軽量な表計算ソフト</ja>
    <kk>lightweight spreadsheet</kk>
    <ko>lightweight spreadsheet</ko>

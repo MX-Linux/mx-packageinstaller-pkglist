@@ -34,7 +34,6 @@ German_Firefox
    <id>German localisation of Firefox</id>
    <is>German localisation of Firefox</is>
    <it>Localizzazione tedesca di Firefox</it>
-   <ja_JP>German localisation of Firefox</ja_JP>
    <ja>Firefox のドイツ語パック</ja>
    <kk>German localisation of Firefox</kk>
    <ko>German localisation of Firefox</ko>

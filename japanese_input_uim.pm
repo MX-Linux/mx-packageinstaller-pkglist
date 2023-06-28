@@ -34,7 +34,6 @@ Japanese_Input_uim
    <id>Japanese uim</id>
    <is>Japanese uim</is>
    <it>uim per la lingua giapponese</it>
-   <ja_JP>Japanese uim</ja_JP>
    <ja>Japanese uim</ja>
    <kk>Japanese uim</kk>
    <ko>Japanese uim</ko>

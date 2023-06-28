@@ -34,7 +34,6 @@ XnView
    <id>picture viewer, browser and converter</id>
    <is>picture viewer, browser and converter</is>
    <it>visualizzatore e convertitore di immagini</it>
-   <ja_JP>picture viewer, browser and converter</ja_JP>
    <ja>画像ビューアやブラウザ、コンバーター</ja>
    <kk>picture viewer, browser and converter</kk>
    <ko>picture viewer, browser and converter</ko>

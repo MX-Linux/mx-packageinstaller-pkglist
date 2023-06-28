@@ -34,7 +34,6 @@ Icelandic_Libreoffice
    <id>Icelandic Language Meta-Package for LibreOffice</id>
    <is>Icelandic Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Icelandic Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Icelandic Language Meta-Package for LibreOffice</kk>
    <ko>Icelandic Language Meta-Package for LibreOffice</ko>

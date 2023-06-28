@@ -34,7 +34,6 @@ Chinese_Input_fcitx
    <id>Chinese fcitx</id>
    <is>Chinese fcitx</is>
    <it>Chinese fcitx</it>
-   <ja_JP>Chinese fcitx</ja_JP>
    <ja>中国語用 fcitx</ja>
    <kk>Chinese fcitx</kk>
    <ko>Chinese fcitx</ko>

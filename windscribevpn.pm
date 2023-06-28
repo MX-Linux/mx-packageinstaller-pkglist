@@ -34,7 +34,6 @@ Windscribe VPN
    <id>Windscribe VPN and sysVinit scripts</id>
    <is>Windscribe VPN and sysVinit scripts</is>
    <it>Windscribe VPN and sysVinit scripts</it>
-   <ja_JP>Windscribe VPN and sysVinit scripts</ja_JP>
    <ja>Windscribe VPN and sysVinit scripts</ja>
    <kk>Windscribe VPN and sysVinit scripts</kk>
    <ko>Windscribe VPN and sysVinit scripts</ko>

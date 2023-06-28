@@ -34,7 +34,6 @@ Claws-Mail
    <id>Claws Mail lightweight email client</id>
    <is>Claws Mail lightweight email client</is>
    <it>Claws Mail, client email leggero</it>
-   <ja_JP>Claws Mail lightweight email client</ja_JP>
    <ja>Claws Mail - 軽量な電子メーラー</ja>
    <kk>Claws Mail lightweight email client</kk>
    <ko>Claws Mail lightweight email client</ko>

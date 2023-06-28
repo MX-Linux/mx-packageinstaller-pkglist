@@ -34,7 +34,6 @@ MX 21 Wallpapers
    <id>backgrounds originally supplied with MX 21</id>
    <is>backgrounds originally supplied with MX 21</is>
    <it>sfondi originariamente forniti con MX 21</it>
-   <ja_JP>backgrounds originally supplied with MX 21</ja_JP>
    <ja>backgrounds originally supplied with MX 21</ja>
    <kk>backgrounds originally supplied with MX 21</kk>
    <ko>backgrounds originally supplied with MX 21</ko>

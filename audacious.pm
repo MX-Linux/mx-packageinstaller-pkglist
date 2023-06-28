@@ -34,7 +34,6 @@ Audacious
    <id>lightweight winamp/xmms like audio player</id>
    <is>lightweight winamp/xmms like audio player</is>
    <it>Riproduttore di tracce audio, leggero come winamp/xmms</it>
-   <ja_JP>lightweight winamp/xmms like audio player</ja_JP>
    <ja>Winamp/XMMS に似た軽量なオーディオプレーヤー</ja>
    <kk>lightweight winamp/xmms like audio player</kk>
    <ko>lightweight winamp/xmms like audio player</ko>

@@ -34,7 +34,6 @@ GIMP Basic
    <id>advanced picture editor - installs GIMP only</id>
    <is>advanced picture editor - installs GIMP only</is>
    <it>Editor di immagini avanzato - installa solo GIMP</it>
-   <ja_JP>advanced picture editor - installs GIMP only</ja_JP>
    <ja>高度な画像エディター - GIMPのみインストール</ja>
    <kk>advanced picture editor - installs GIMP only</kk>
    <ko>advanced picture editor - installs GIMP only</ko>

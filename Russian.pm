@@ -34,7 +34,6 @@ Russian
    <id>Russian Language Meta-Package</id>
    <is>Russian Language Meta-Package</is>
    <it>Meta-pacchetto della lingua russa</it>
-   <ja_JP>Russian Language Meta-Package</ja_JP>
    <ja>ロシア語メタパッケージ</ja>
    <kk>Russian Language Meta-Package</kk>
    <ko>Russian Language Meta-Package</ko>

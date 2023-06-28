@@ -34,7 +34,6 @@ Spanish_Firefox
    <id>Spanish localisation of Firefox</id>
    <is>Spanish localisation of Firefox</is>
    <it>Localizzazione spagnola di Firefox </it>
-   <ja_JP>Spanish localisation of Firefox</ja_JP>
    <ja>Firefox のスペイン語パック</ja>
    <kk>Spanish localisation of Firefox</kk>
    <ko>Spanish localisation of Firefox</ko>

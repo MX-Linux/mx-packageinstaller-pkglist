@@ -34,7 +34,6 @@ xscreensaver
    <id>the classic screensaver for X servers</id>
    <is>the classic screensaver for X servers</is>
    <it>il classico salvaschermo per server X</it>
-   <ja_JP>the classic screensaver for X servers</ja_JP>
    <ja>X サーバー用のクラシックなスクリーンセーバー</ja>
    <kk>the classic screensaver for X servers</kk>
    <ko>the classic screensaver for X servers</ko>

@@ -34,7 +34,6 @@ Plex
    <id>Plex Mediaserver (includes web client)(requires reboot after install)</id>
    <is>Plex Mediaserver (includes web client)(requires reboot after install)</is>
    <it>Plex Mediaserver (include un client web)(richiede un reboot dopo l'installazione)</it>
-   <ja_JP>Plex Mediaserver (includes web client)(requires reboot after install)</ja_JP>
    <ja>Plex メディアサーバー (ウェブクライアントを含む) (インストール後に再起動が必要)</ja>
    <kk>Plex Mediaserver (includes web client)(requires reboot after install)</kk>
    <ko>Plex Mediaserver (includes web client)(requires reboot after install)</ko>

@@ -34,7 +34,6 @@ Thunderbird
    <id>Latest Thunderbird email client from MX Community</id>
    <is>Latest Thunderbird email client from MX Community</is>
    <it>l'ultima versione di client email Thunderbird dalla MX Community</it>
-   <ja_JP>Latest Thunderbird email client from MX Community</ja_JP>
    <ja>最新の Thunderbird メールソフト（MXコミュニティからの）</ja>
    <kk>Latest Thunderbird email client from MX Community</kk>
    <ko>Latest Thunderbird email client from MX Community</ko>

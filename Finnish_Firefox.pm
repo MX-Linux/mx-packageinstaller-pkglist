@@ -34,7 +34,6 @@ Finnish_Firefox
    <id>Finnish localisation of Firefox</id>
    <is>Finnish localisation of Firefox</is>
    <it>Localizzazione finlandese di Firefox </it>
-   <ja_JP>Finnish localisation of Firefox</ja_JP>
    <ja>Firefox のフィンランド語パック</ja>
    <kk>Finnish localisation of Firefox</kk>
    <ko>Finnish localisation of Firefox</ko>

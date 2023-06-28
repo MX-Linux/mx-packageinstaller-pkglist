@@ -35,7 +35,6 @@ OBS-Studio
    <id>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</id>
    <is>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</is>
    <it>OBS-Studio - Strumento di registrazione e streaming di contenuti video (è richiesto hardware OpenGL 3)</it>
-   <ja_JP>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ja_JP>
    <ja>OBS-Studio - ストリーミングビデオおよびスクリーンキャスター（OpenGL 3 ハードウェアが必要です）</ja>
    <kk>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</kk>
    <ko>OBS-Studio - Streaming Video and Screencaster (OpenGL 3 hardware required)</ko>

@@ -34,7 +34,6 @@ Cairo Dock
    <id>3d capable dock w/ plugins</id>
    <is>3d capable dock w/ plugins</is>
    <it>Barra dock con capacità 3D e plugin</it>
-   <ja_JP>3d capable dock w/ plugins</ja_JP>
    <ja>プラグイン付き3Dドック</ja>
    <kk>3d capable dock w/ plugins</kk>
    <ko>3d capable dock w/ plugins</ko>

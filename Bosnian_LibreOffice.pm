@@ -34,7 +34,6 @@ Bosnian_Libreoffice
    <id>Bosnian Language Meta-Package for LibreOffice</id>
    <is>Bosnian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Bosnian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Bosnian Language Meta-Package for LibreOffice</kk>
    <ko>Bosnian Language Meta-Package for LibreOffice</ko>

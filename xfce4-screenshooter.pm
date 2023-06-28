@@ -35,7 +35,6 @@ xfce4-screenshot
    <id>utilitas tangkapan layar</id>
    <is>gagnsemi skjámynda</is>
    <it>Strumento di cattura dello schermo basato sulle librerie Qt (non kde) simile a Snipping Tools</it>
-   <ja_JP>スクリーンショットユーティリティ</ja_JP>
    <ja>Qt ベースのスクリーンショットツール (kde でなく) - Windows Snipping ツールに触発されたスクリーンショットツール</ja>
    <kk>скриншоттың қызметтік бағдарламасы</kk>
    <ko>스크린샷 유틸리티</ko>

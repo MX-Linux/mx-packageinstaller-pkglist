@@ -34,7 +34,6 @@ Falkon
    <id>Latest Falkon lightweight browser</id>
    <is>Latest Falkon lightweight browser</is>
    <it>Ultimo browser leggero Falkon</it>
-   <ja_JP>Latest Falkon lightweight browser</ja_JP>
    <ja>最新の Falkon 軽量ブラウザ</ja>
    <kk>Latest Falkon lightweight browser</kk>
    <ko>Latest Falkon lightweight browser</ko>

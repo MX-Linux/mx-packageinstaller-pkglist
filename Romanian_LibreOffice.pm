@@ -34,7 +34,6 @@ Romanian_Libreoffice
    <id>Romanian Language Meta-Package for LibreOffice</id>
    <is>Romanian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua rumena</it>
-   <ja_JP>Romanian Language Meta-Package for LibreOffice</ja_JP>
    <ja>ルーマニア語メタパッケージ</ja>
    <kk>Romanian Language Meta-Package for LibreOffice</kk>
    <ko>Romanian Language Meta-Package for LibreOffice</ko>

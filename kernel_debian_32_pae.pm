@@ -34,7 +34,6 @@ Debian 32 bit w/pae
    <id>Default Debian 32bit linux kernel w/PAE</id>
    <is>Default Debian 32bit linux kernel w/PAE</is>
    <it>Kernel Debian di default 32bit w/PAE</it>
-   <ja_JP>Default Debian 32bit linux kernel w/PAE</ja_JP>
    <ja>既定の Debian 32bit linux kernel w/PAE</ja>
    <kk>Default Debian 32bit linux kernel w/PAE</kk>
    <ko>Default Debian 32bit linux kernel w/PAE</ko>

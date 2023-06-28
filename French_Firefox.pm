@@ -34,7 +34,6 @@ French_Firefox
    <id>French localisation of Firefox</id>
    <is>French localisation of Firefox</is>
    <it>Localizzazione francese di Firefox </it>
-   <ja_JP>French localisation of Firefox</ja_JP>
    <ja>Firefox のフランス語パック</ja>
    <kk>French localisation of Firefox</kk>
    <ko>French localisation of Firefox</ko>

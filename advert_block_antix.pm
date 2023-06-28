@@ -34,7 +34,6 @@ Advert-Block-antiX
    <id>Block adservers with a modified Hosts file</id>
    <is>Block adservers with a modified Hosts file</is>
    <it>Blocca la pubblicità con un file Hosts modificato</it>
-   <ja_JP>Block adservers with a modified Hosts file</ja_JP>
    <ja>修正された Hostsファイルを使用して広告ブロックをします</ja>
    <kk>Block adservers with a modified Hosts file</kk>
    <ko>Block adservers with a modified Hosts file</ko>

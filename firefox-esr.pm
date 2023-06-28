@@ -34,7 +34,6 @@ Firefox-ESR
    <id>Latest Firefox-ESR</id>
    <is>Latest Firefox-ESR</is>
    <it>Ultima versione di Firefox</it>
-   <ja_JP>Latest Firefox-ESR</ja_JP>
    <ja>最新の Firefox</ja>
    <kk>Latest Firefox-ESR</kk>
    <ko>Latest Firefox-ESR</ko>

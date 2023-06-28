@@ -34,7 +34,6 @@ Synapse
    <id>alternate semantic file launcher</id>
    <is>alternate semantic file launcher</is>
    <it>avviatore semantico per avviare applicazioni e accedere a file rilevanti </it>
-   <ja_JP>alternate semantic file launcher</ja_JP>
    <ja>代替セマンティック ファイルランチャー</ja>
    <kk>alternate semantic file launcher</kk>
    <ko>alternate semantic file launcher</ko>

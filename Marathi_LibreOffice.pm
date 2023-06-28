@@ -34,7 +34,6 @@ Marathi_Libreoffice
    <id>Marathi Language Meta-Package for LibreOffice</id>
    <is>Marathi Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua marathi per LibreOffice</it>
-   <ja_JP>Marathi Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のマラーティー語メタパッケージ</ja>
    <kk>Marathi Language Meta-Package for LibreOffice</kk>
    <ko>Marathi Language Meta-Package for LibreOffice</ko>

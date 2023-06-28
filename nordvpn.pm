@@ -34,7 +34,6 @@ NordVPN - VPN
    <id>NordVPN - NordVPN client and sysVinit scripts</id>
    <is>NordVPN - NordVPN client and sysVinit scripts</is>
    <it>NordVPN - NordVPN client e script sysVinit</it>
-   <ja_JP>NordVPN - NordVPN client and sysVinit scripts</ja_JP>
    <ja>NordVPN - NordVPN クライアントと sysVinit スクリプト</ja>
    <kk>NordVPN - NordVPN client and sysVinit scripts</kk>
    <ko>NordVPN - NordVPN client and sysVinit scripts</ko>

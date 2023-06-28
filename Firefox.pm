@@ -34,7 +34,6 @@ Firefox
    <id>Latest Firefox</id>
    <is>Latest Firefox</is>
    <it>Ultima versione di Firefox</it>
-   <ja_JP>Latest Firefox</ja_JP>
    <ja>最新の Firefox</ja>
    <kk>Latest Firefox</kk>
    <ko>Latest Firefox</ko>

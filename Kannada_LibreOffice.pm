@@ -34,7 +34,6 @@ Kannada_Libreoffice
    <id>Kannada Language Meta-Package for LibreOffice</id>
    <is>Kannada Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Kannada Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Kannada Language Meta-Package for LibreOffice</kk>
    <ko>Kannada Language Meta-Package for LibreOffice</ko>

@@ -34,7 +34,6 @@ Kazakh_Libreoffice
    <id>Kazakh Language Meta-Package for LibreOffice</id>
    <is>Kazakh Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Kazakh Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Kazakh Language Meta-Package for LibreOffice</kk>
    <ko>Kazakh Language Meta-Package for LibreOffice</ko>

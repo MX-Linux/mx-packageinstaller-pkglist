@@ -34,7 +34,6 @@ deb packaging tools
    <id>tools for creation of deb packages</id>
    <is>tools for creation of deb packages</is>
    <it>Strumenti per la creazione di pacchetti deb</it>
-   <ja_JP>tools for creation of deb packages</ja_JP>
    <ja>deb パッケージ作成ツール</ja>
    <kk>tools for creation of deb packages</kk>
    <ko>tools for creation of deb packages</ko>

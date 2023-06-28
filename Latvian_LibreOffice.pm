@@ -34,7 +34,6 @@ Latvian_Libreoffice
    <id>Latvian Language Meta-Package for LibreOffice</id>
    <is>Latvian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Latvian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Latvian Language Meta-Package for LibreOffice</kk>
    <ko>Latvian Language Meta-Package for LibreOffice</ko>

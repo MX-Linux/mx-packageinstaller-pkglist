@@ -34,7 +34,6 @@ Local Web Server
    <id>apache2, php8.2, mariaDB</id>
    <is>apache2, php8.2, mariaDB</is>
    <it>apache2, php8.2, mariaDB</it>
-   <ja_JP>apache2, php8.2, mariaDB</ja_JP>
    <ja>apache2, php8.2, mariaDB</ja>
    <kk>apache2, php8.2, mariaDB</kk>
    <ko>apache2, php8.2, mariaDB</ko>

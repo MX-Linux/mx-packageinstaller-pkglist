@@ -34,7 +34,6 @@ Ukrainian_Fonts
    <id>Ukrainian fonts packages</id>
    <is>Ukrainian fonts packages</is>
    <it>Pacchetti di fonts per l'Ucraino</it>
-   <ja_JP>Ukrainian fonts packages</ja_JP>
    <ja>ウクライナ語のフォントパッケージ集</ja>
    <kk>Ukrainian fonts packages</kk>
    <ko>Ukrainian fonts packages</ko>

@@ -34,7 +34,6 @@ Turkish_Libreoffice
    <id>Turkish Language Meta-Package for LibreOffice</id>
    <is>Turkish Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua turca per LibreOffice</it>
-   <ja_JP>Turkish Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のトルコ語メタパッケージ</ja>
    <kk>Turkish Language Meta-Package for LibreOffice</kk>
    <ko>Turkish Language Meta-Package for LibreOffice</ko>

@@ -34,7 +34,6 @@ LXDE
    <id>basic install of LXDE</id>
    <is>basic install of LXDE</is>
    <it>installazione base di LXDE</it>
-   <ja_JP>basic install of LXDE</ja_JP>
    <ja>LXDE の基本的なインストール</ja>
    <kk>basic install of LXDE</kk>
    <ko>basic install of LXDE</ko>

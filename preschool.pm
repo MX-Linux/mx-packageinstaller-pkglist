@@ -34,7 +34,6 @@ Preschool
    <id>Pre-School. Includes: gamine, gcompris and tuxpaint</id>
    <is>Pre-School. Includes: gamine, gcompris and tuxpaint</is>
    <it>Elementari. Include: gamine, gcompris e tuxpaint</it>
-   <ja_JP>Pre-School. Includes: gamine, gcompris and tuxpaint</ja_JP>
    <ja>プレスクール。これは gamine、gcompris、tuxpaint を含みます</ja>
    <kk>Pre-School. Includes: gamine, gcompris and tuxpaint</kk>
    <ko>Pre-School. Includes: gamine, gcompris and tuxpaint</ko>

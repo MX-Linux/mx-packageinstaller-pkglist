@@ -34,7 +34,6 @@ Newsboat
    <id>a text mode rss feed reader with podcast support</id>
    <is>a text mode rss feed reader with podcast support</is>
    <it>lettore di feed RSS testuale con supporto per podcast</it>
-   <ja_JP>a text mode rss feed reader with podcast support</ja_JP>
    <ja>ポッドキャストをサポートしたテキストモードの RSS フィードリーダー</ja>
    <kk>a text mode rss feed reader with podcast support</kk>
    <ko>a text mode rss feed reader with podcast support</ko>

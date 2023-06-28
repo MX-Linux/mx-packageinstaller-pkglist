@@ -34,7 +34,6 @@ Italian_Thunderbird
    <id>Italian localisation of Thunderbird</id>
    <is>Italian localisation of Thunderbird</is>
    <it>Localizzazione italiana di Thunderbird</it>
-   <ja_JP>Italian localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のイタリア語パック</ja>
    <kk>Italian localisation of Thunderbird</kk>
    <ko>Italian localisation of Thunderbird</ko>

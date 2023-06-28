@@ -34,7 +34,6 @@ openGL screensavers
    <id>extra opengl screensavers</id>
    <is>extra opengl screensavers</is>
    <it>screensaver opengl extra</it>
-   <ja_JP>extra opengl screensavers</ja_JP>
    <ja>追加の OpenGL スクリーンセーバー</ja>
    <kk>extra opengl screensavers</kk>
    <ko>extra opengl screensavers</ko>

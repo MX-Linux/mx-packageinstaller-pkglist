@@ -34,7 +34,6 @@ Dutch_Thunderbird
    <id>Dutch localisation of Thunderbird</id>
    <is>Dutch localisation of Thunderbird</is>
    <it>Localizzazione olandese di Thunderbird</it>
-   <ja_JP>Dutch localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のオランダ語パック</ja>
    <kk>Dutch localisation of Thunderbird</kk>
    <ko>Dutch localisation of Thunderbird</ko>

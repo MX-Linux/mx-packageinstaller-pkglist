@@ -34,7 +34,6 @@ Polish_Firefox
    <id>Polish localisation of Firefox</id>
    <is>Polish localisation of Firefox</is>
    <it>Localizzazione polacca di Firefox </it>
-   <ja_JP>Polish localisation of Firefox</ja_JP>
    <ja>Firefox のポーランド語パック</ja>
    <kk>Polish localisation of Firefox</kk>
    <ko>Polish localisation of Firefox</ko>

@@ -34,7 +34,6 @@ Brave
    <id>Latest Brave browser</id>
    <is>Latest Brave browser</is>
    <it>Ultimo browser Brave</it>
-   <ja_JP>Latest Brave browser</ja_JP>
    <ja>最新の Brave ブラウザ</ja>
    <kk>Latest Brave browser</kk>
    <ko>Latest Brave browser</ko>

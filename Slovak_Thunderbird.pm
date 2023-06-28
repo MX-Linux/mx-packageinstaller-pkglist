@@ -34,7 +34,6 @@ Slovak_Thunderbird
    <id>Slovak localisation of Thunderbird</id>
    <is>Slovak localisation of Thunderbird</is>
    <it>Localizzazione slovacca di Thunderbird</it>
-   <ja_JP>Slovak localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のスロバキア語パック</ja>
    <kk>Slovak localisation of Thunderbird</kk>
    <ko>Slovak localisation of Thunderbird</ko>

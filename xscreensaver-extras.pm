@@ -34,7 +34,6 @@ additional screensavers
    <id>extra screensavers</id>
    <is>extra screensavers</is>
    <it>screensaver extra</it>
-   <ja_JP>extra screensavers</ja_JP>
    <ja>その他のスクリーンセーバー</ja>
    <kk>extra screensavers</kk>
    <ko>extra screensavers</ko>

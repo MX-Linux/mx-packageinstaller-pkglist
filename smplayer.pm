@@ -34,7 +34,6 @@ SMplayer
    <id>themable gui frontend to MPlayer with other interesting features</id>
    <is>themable gui frontend to MPlayer with other interesting features</is>
    <it>interfaccia grafica per MPlayer con ulteriori interessanti funzionalità</it>
-   <ja_JP>themable gui frontend to MPlayer with other interesting features</ja_JP>
    <ja>MPlayer に他の興味深い機能を組み合わせた GUI フロントエンド</ja>
    <kk>themable gui frontend to MPlayer with other interesting features</kk>
    <ko>themable gui frontend to MPlayer with other interesting features</ko>

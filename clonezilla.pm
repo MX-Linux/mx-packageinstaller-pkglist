@@ -34,7 +34,6 @@ clonezilla
    <id>clone and restore disks and partitions</id>
    <is>clone and restore disks and partitions</is>
    <it>clona e ripristina dischi e partizioni</it>
-   <ja_JP>clone and restore disks and partitions</ja_JP>
    <ja>ディスクとパーティションのクローンと復元</ja>
    <kk>clone and restore disks and partitions</kk>
    <ko>clone and restore disks and partitions</ko>

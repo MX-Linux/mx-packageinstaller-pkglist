@@ -34,7 +34,6 @@ Budgie Desktop
    <id>a lightweight desktop environment</id>
    <is>a lightweight desktop environment</is>
    <it>Un ambiente desktop leggero</it>
-   <ja_JP>a lightweight desktop environment</ja_JP>
    <ja>軽量なデスクトップ環境</ja>
    <kk>a lightweight desktop environment</kk>
    <ko>a lightweight desktop environment</ko>

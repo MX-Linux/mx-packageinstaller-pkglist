@@ -34,7 +34,6 @@ Northern_sotho_Libreoffice
    <id>Northern_sotho Language Meta-Package for LibreOffice</id>
    <is>Northern_sotho Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua sotho del nord per LibreOffice</it>
-   <ja_JP>Northern_sotho Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用北ソト語メタパッケージ</ja>
    <kk>Northern_sotho Language Meta-Package for LibreOffice</kk>
    <ko>Northern_sotho Language Meta-Package for LibreOffice</ko>

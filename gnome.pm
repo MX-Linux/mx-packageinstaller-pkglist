@@ -34,7 +34,6 @@ Gnome Base
    <id>Minimal install of gnome shell</id>
    <is>Minimal install of gnome shell</is>
    <it>Installazione minimale di Gnome Shell</it>
-   <ja_JP>Minimal install of gnome shell</ja_JP>
    <ja>GNOMEシェルの最小インストール</ja>
    <kk>Minimal install of gnome shell</kk>
    <ko>Minimal install of gnome shell</ko>

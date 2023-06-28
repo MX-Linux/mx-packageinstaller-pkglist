@@ -34,7 +34,6 @@ Croatian_Additional
    <id>Additional Croatian Meta-Package</id>
    <is>Additional Croatian Meta-Package</is>
    <it>Meta-pacchetto aggiuntivo della lingua croata</it>
-   <ja_JP>Additional Croatian Meta-Package</ja_JP>
    <ja>クロアチア語の追加メタパッケージ</ja>
    <kk>Additional Croatian Meta-Package</kk>
    <ko>Additional Croatian Meta-Package</ko>

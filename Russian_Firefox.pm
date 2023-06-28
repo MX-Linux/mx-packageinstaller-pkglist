@@ -34,7 +34,6 @@ Russian_Firefox
    <id>Russian localisation of Firefox</id>
    <is>Russian localisation of Firefox</is>
    <it>Localizzazione russa di Firefox</it>
-   <ja_JP>Russian localisation of Firefox</ja_JP>
    <ja>Firefox のロシア語パック</ja>
    <kk>Russian localisation of Firefox</kk>
    <ko>Russian localisation of Firefox</ko>

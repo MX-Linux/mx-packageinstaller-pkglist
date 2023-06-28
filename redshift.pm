@@ -34,7 +34,6 @@ Redshift
    <id>Transition monitor color temperature by time of day</id>
    <is>Transition monitor color temperature by time of day</is>
    <it>Transizione della temperatura del colore del monitor per ora del giorno</it>
-   <ja_JP>Transition monitor color temperature by time of day</ja_JP>
    <ja>時間帯別のトランジションモニターの色温度</ja>
    <kk>Transition monitor color temperature by time of day</kk>
    <ko>Transition monitor color temperature by time of day</ko>

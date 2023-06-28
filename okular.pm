@@ -34,7 +34,6 @@ Okular
    <id>a universal document viewer -WARNING- pulls in elements of KDE</id>
    <is>a universal document viewer -WARNING- pulls in elements of KDE</is>
    <it>un visualizzatore universale di documenti -ATTENZIONE- richiama elementi di KDE</it>
-   <ja_JP>a universal document viewer -WARNING- pulls in elements of KDE</ja_JP>
    <ja>ユニバーサル・ドキュメントビューア -警告- これは KDE の要素を取り込みます</ja>
    <kk>a universal document viewer -WARNING- pulls in elements of KDE</kk>
    <ko>a universal document viewer -WARNING- pulls in elements of KDE</ko>

@@ -34,7 +34,6 @@ Vietnamese_Input
    <id>Vietnamese Fonts and ibus</id>
    <is>Vietnamese Fonts and ibus</is>
    <it>Fonts e ibus per la lingua vietnamita</it>
-   <ja_JP>Vietnamese Fonts and ibus</ja_JP>
    <ja>ベトナム語のフォントと ibus</ja>
    <kk>Vietnamese Fonts and ibus</kk>
    <ko>Vietnamese Fonts and ibus</ko>

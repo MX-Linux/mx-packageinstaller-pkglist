@@ -34,7 +34,6 @@ Chinese_TW_Thunderbird
    <id>Chinese (Taiwan) localisation of Thunderbird</id>
    <is>Chinese (Taiwan) localisation of Thunderbird</is>
    <it>Localizzazione cinese (Taiwan) di Thunderbird</it>
-   <ja_JP>Chinese (Taiwan) localisation of Thunderbird</ja_JP>
    <ja>Thunderbird の簡体字中国語パック</ja>
    <kk>Chinese (Taiwan) localisation of Thunderbird</kk>
    <ko>Chinese (Taiwan) localisation of Thunderbird</ko>

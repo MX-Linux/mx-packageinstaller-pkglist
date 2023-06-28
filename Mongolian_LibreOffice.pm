@@ -34,7 +34,6 @@ Mongolian_Libreoffice
    <id>Mongolian Language Meta-Package for LibreOffice</id>
    <is>Mongolian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua mongola per LibreOffice</it>
-   <ja_JP>Mongolian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用モンゴル語メタパッケージ</ja>
    <kk>Mongolian Language Meta-Package for LibreOffice</kk>
    <ko>Mongolian Language Meta-Package for LibreOffice</ko>

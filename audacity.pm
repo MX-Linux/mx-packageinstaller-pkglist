@@ -34,7 +34,6 @@ Audacity
    <id>a multi-track audio editor</id>
    <is>a multi-track audio editor</is>
    <it>Audio editor multi-traccia</it>
-   <ja_JP>a multi-track audio editor</ja_JP>
    <ja>マルチトラック用のオーディオエディタ</ja>
    <kk>a multi-track audio editor</kk>
    <ko>a multi-track audio editor</ko>

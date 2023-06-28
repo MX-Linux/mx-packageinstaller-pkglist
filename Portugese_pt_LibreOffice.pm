@@ -34,7 +34,6 @@ Portugese(PT) Libreoffice
    <id>Portugese(PT) Language Meta-Package for LibreOffice</id>
    <is>Portugese(PT) Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua portoghese(PT)</it>
-   <ja_JP>Portugese(PT) Language Meta-Package for LibreOffice</ja_JP>
    <ja>ポルトガル語 (PT) のメタパッケージ</ja>
    <kk>Portugese(PT) Language Meta-Package for LibreOffice</kk>
    <ko>Portugese(PT) Language Meta-Package for LibreOffice</ko>

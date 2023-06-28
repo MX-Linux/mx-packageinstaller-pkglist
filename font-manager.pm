@@ -34,7 +34,6 @@ font-manager
    <id>font management application from the GNOME desktop</id>
    <is>font management application from the GNOME desktop</is>
    <it>applicazione per la gestione dei font da GNOME desktop</it>
-   <ja_JP>font management application from the GNOME desktop</ja_JP>
    <ja>GNOME デスクトップ用のフォント管理アプリ</ja>
    <kk>font management application from the GNOME desktop</kk>
    <ko>font management application from the GNOME desktop</ko>

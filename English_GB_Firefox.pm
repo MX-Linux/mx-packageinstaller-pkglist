@@ -34,7 +34,6 @@ GB_English_Firefox
    <id>GB English localisation of Firefox</id>
    <is>GB English localisation of Firefox</is>
    <it>Localizzazione in Inglese GB di Firefox </it>
-   <ja_JP>GB English localisation of Firefox</ja_JP>
    <ja>Firefox のイギリス英語パック</ja>
    <kk>GB English localisation of Firefox</kk>
    <ko>GB English localisation of Firefox</ko>

@@ -34,7 +34,6 @@ Openshot
    <id>non-linear video editor</id>
    <is>non-linear video editor</is>
    <it>editor video non lineare</it>
-   <ja_JP>non-linear video editor</ja_JP>
    <ja>ノンリニア・ビデオエディタ</ja>
    <kk>non-linear video editor</kk>
    <ko>non-linear video editor</ko>

@@ -34,7 +34,6 @@ Latvian_Firefox
    <id>Latvian localisation of Firefox</id>
    <is>Latvian localisation of Firefox</is>
    <it>Localizzazione lettone di Firefox</it>
-   <ja_JP>Latvian localisation of Firefox</ja_JP>
    <ja>Firefox のラトビア語パック</ja>
    <kk>Latvian localisation of Firefox</kk>
    <ko>Latvian localisation of Firefox</ko>

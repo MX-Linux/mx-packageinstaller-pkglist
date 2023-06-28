@@ -34,7 +34,6 @@ Chinese_fonts
    <id>Chinese fonts packages</id>
    <is>Chinese fonts packages</is>
    <it>Pacchetti di fonts per il Cinese</it>
-   <ja_JP>Chinese fonts packages</ja_JP>
    <ja>中国語用のフォントパッケージ</ja>
    <kk>Chinese fonts packages</kk>
    <ko>Chinese fonts packages</ko>

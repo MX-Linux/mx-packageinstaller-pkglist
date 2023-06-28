@@ -34,7 +34,6 @@ Opera
    <id>Opera browser (32 bit is beta-only)</id>
    <is>Opera browser (32 bit is beta-only)</is>
    <it>Opera browser</it>
-   <ja_JP>Opera browser (32 bit is beta-only)</ja_JP>
    <ja>Opera ブラウザ</ja>
    <kk>Opera browser (32 bit is beta-only)</kk>
    <ko>Opera browser (32 bit is beta-only)</ko>

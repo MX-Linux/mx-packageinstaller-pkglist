@@ -34,7 +34,6 @@ Spanish
    <id>Spanish Language Meta-Package</id>
    <is>Spanish Language Meta-Package</is>
    <it>Meta-pacchetto della lingua spagnola</it>
-   <ja_JP>Spanish Language Meta-Package</ja_JP>
    <ja>スペイン語のメタパッケージ</ja>
    <kk>Spanish Language Meta-Package</kk>
    <ko>Spanish Language Meta-Package</ko>

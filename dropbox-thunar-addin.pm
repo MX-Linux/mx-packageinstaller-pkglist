@@ -34,7 +34,6 @@ Dropbox Thunar Addin
    <id>Thunar Addin for Dropbox file sync utility</id>
    <is>Thunar Addin for Dropbox file sync utility</is>
    <it>Utilità aggiuntiva di Dropbox per Thunar</it>
-   <ja_JP>Thunar Addin for Dropbox file sync utility</ja_JP>
    <ja>Dropboxファイル同期ユーティリティ用の Thunarアドイン</ja>
    <kk>Thunar Addin for Dropbox file sync utility</kk>
    <ko>Thunar Addin for Dropbox file sync utility</ko>

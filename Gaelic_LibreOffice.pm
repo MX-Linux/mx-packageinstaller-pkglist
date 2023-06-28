@@ -34,7 +34,6 @@ Gaelic_Libreoffice
    <id>Gaelic Language Meta-Package for LibreOffice</id>
    <is>Gaelic Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Gaelic Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Gaelic Language Meta-Package for LibreOffice</kk>
    <ko>Gaelic Language Meta-Package for LibreOffice</ko>

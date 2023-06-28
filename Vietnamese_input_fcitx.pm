@@ -34,7 +34,6 @@ Vietnamese_Input_fcitx
    <id>Vietnamese Fonts and fcitx</id>
    <is>Vietnamese Fonts and fcitx</is>
    <it>Font e fcitx per la lingua vietnamita</it>
-   <ja_JP>Vietnamese Fonts and fcitx</ja_JP>
    <ja>ベトナム語のフォントと fcitx</ja>
    <kk>Vietnamese Fonts and fcitx</kk>
    <ko>Vietnamese Fonts and fcitx</ko>

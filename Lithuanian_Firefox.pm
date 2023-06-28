@@ -34,7 +34,6 @@ Lithuanian_Firefox
    <id>Lithuanian localisation of Firefox</id>
    <is>Lithuanian localisation of Firefox</is>
    <it>Localizzazione lituana di Firefox</it>
-   <ja_JP>Lithuanian localisation of Firefox</ja_JP>
    <ja>Firefox のリトアニア語パック</ja>
    <kk>Lithuanian localisation of Firefox</kk>
    <ko>Lithuanian localisation of Firefox</ko>

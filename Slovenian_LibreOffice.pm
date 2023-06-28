@@ -34,7 +34,6 @@ Slovenian_Libreoffice
    <id>Slovenian Language Meta-Package for LibreOffice</id>
    <is>Slovenian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua slovena per LibreOffice</it>
-   <ja_JP>Slovenian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のスロベニア語メタパッケージ</ja>
    <kk>Slovenian Language Meta-Package for LibreOffice</kk>
    <ko>Slovenian Language Meta-Package for LibreOffice</ko>

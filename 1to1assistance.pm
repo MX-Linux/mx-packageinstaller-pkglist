@@ -34,7 +34,6 @@ Remote Access
    <id>Remote access help app from antiX</id>
    <is>Remote access help app from antiX</is>
    <it>App da antiX, che permette un accesso remoto</it>
-   <ja_JP>Remote access help app from antiX</ja_JP>
    <ja>antiX リモートアクセスのアプリヘルプ</ja>
    <kk>Remote access help app from antiX</kk>
    <ko>Remote access help app from antiX</ko>

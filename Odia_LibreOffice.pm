@@ -34,7 +34,6 @@ Odia_Libreoffice
    <id>Odia Language Meta-Package for LibreOffice</id>
    <is>Odia Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua oriya per LibreOffice</it>
-   <ja_JP>Odia Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のオリヤー語メタパッケージ</ja>
    <kk>Odia Language Meta-Package for LibreOffice</kk>
    <ko>Odia Language Meta-Package for LibreOffice</ko>

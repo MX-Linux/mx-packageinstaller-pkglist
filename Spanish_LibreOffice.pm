@@ -34,7 +34,6 @@ Spanish_Libreoffice
    <id>Spanish Language Meta-Package for LibreOffice</id>
    <is>Spanish Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua spagnola per LibreOffice</it>
-   <ja_JP>Spanish Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のスペイン語メタパッケージ</ja>
    <kk>Spanish Language Meta-Package for LibreOffice</kk>
    <ko>Spanish Language Meta-Package for LibreOffice</ko>

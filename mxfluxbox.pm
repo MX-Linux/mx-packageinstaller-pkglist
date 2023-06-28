@@ -32,7 +32,6 @@ Fluxbox (with MX-flux settings)
    <id>fluxbox</id>
    <is>fluxbox</is>
    <it>fluxbox</it>
-   <ja_JP>fluxbox</ja_JP>
    <ja>fluxbox</ja>
    <kk>fluxbox</kk>
    <ko>fluxbox</ko>

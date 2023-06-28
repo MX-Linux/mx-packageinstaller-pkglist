@@ -34,7 +34,6 @@ Xhosa_Libreoffice
    <id>Xhosa Language Meta-Package for LibreOffice</id>
    <is>Xhosa Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua xhosa per LibreOffice</it>
-   <ja_JP>Xhosa Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用 コサ語メタパッケージ</ja>
    <kk>Xhosa Language Meta-Package for LibreOffice</kk>
    <ko>Xhosa Language Meta-Package for LibreOffice</ko>

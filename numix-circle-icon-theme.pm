@@ -34,7 +34,6 @@ Numix Circle Icons
    <id>numix circular icons</id>
    <is>numix circular icons</is>
    <it>numix icone rotonde</it>
-   <ja_JP>numix circular icons</ja_JP>
    <ja>numix 丸型アイコン</ja>
    <kk>numix circular icons</kk>
    <ko>numix circular icons</ko>

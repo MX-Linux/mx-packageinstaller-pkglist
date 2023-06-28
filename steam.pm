@@ -34,7 +34,6 @@ Steam
    <id>Steam powered games</id>
    <is>Steam powered games</is>
    <it>Giochi offerti da Steam</it>
-   <ja_JP>Steam powered games</ja_JP>
    <ja>Steam で動くゲーム</ja>
    <kk>Steam powered games</kk>
    <ko>Steam powered games</ko>

@@ -34,7 +34,6 @@ gscan2pdf
    <id>A GUI to produce PDFs or DjVus from scanned documents</id>
    <is>A GUI to produce PDFs or DjVus from scanned documents</is>
    <it>Un'interfaccia grafica per ottenere PDF o DjVus da documenti scansionati</it>
-   <ja_JP>A GUI to produce PDFs or DjVus from scanned documents</ja_JP>
    <ja>スキャンした文書から PDF や DjVus を作成する GUI</ja>
    <kk>A GUI to produce PDFs or DjVus from scanned documents</kk>
    <ko>A GUI to produce PDFs or DjVus from scanned documents</ko>

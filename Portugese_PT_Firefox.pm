@@ -34,7 +34,6 @@ Portugese(PT) Firefox
    <id>Portugese(PT) localisation of Firefox</id>
    <is>Portugese(PT) localisation of Firefox</is>
    <it>Localizzazione portoghese(PT) di Firefox</it>
-   <ja_JP>Portugese(PT) localisation of Firefox</ja_JP>
    <ja>Firefox のポルトガル語 (PT) パック</ja>
    <kk>Portugese(PT) localisation of Firefox</kk>
    <ko>Portugese(PT) localisation of Firefox</ko>

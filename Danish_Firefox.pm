@@ -34,7 +34,6 @@ Danish_Firefox
    <id>Danish localisation of Firefox</id>
    <is>Danish localisation of Firefox</is>
    <it>Localizzazione danese di Firefox </it>
-   <ja_JP>Danish localisation of Firefox</ja_JP>
    <ja>Firefox のデンマーク語パック</ja>
    <kk>Danish localisation of Firefox</kk>
    <ko>Danish localisation of Firefox</ko>

@@ -34,7 +34,6 @@ Pan
    <id>a gnome Usenet newsreader</id>
    <is>a gnome Usenet newsreader</is>
    <it>lettore di news dalla rete Usenet basato su GTK2</it>
-   <ja_JP>a gnome Usenet newsreader</ja_JP>
    <ja>GNOME Usenet ニュースリーダ</ja>
    <kk>a gnome Usenet newsreader</kk>
    <ko>a gnome Usenet newsreader</ko>

@@ -34,7 +34,6 @@ Kodi
    <id>Kodi Media Center (formerly XBMC)</id>
    <is>Kodi Media Center (formerly XBMC)</is>
    <it>Kodi Media Center (in precedenza XBMC)</it>
-   <ja_JP>Kodi Media Center (formerly XBMC)</ja_JP>
    <ja>Kodi メディアセンタ（旧 XBMC）</ja>
    <kk>Kodi Media Center (formerly XBMC)</kk>
    <ko>Kodi Media Center (formerly XBMC)</ko>

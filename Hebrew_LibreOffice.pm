@@ -34,7 +34,6 @@ Hebrew_Libreoffice
    <id>Hebrew Language Meta-Package for LibreOffice</id>
    <is>Hebrew Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Hebrew Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Hebrew Language Meta-Package for LibreOffice</kk>
    <ko>Hebrew Language Meta-Package for LibreOffice</ko>

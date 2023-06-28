@@ -34,7 +34,6 @@ Gujarati_Libreoffice
    <id>Gujarati Language Meta-Package for LibreOffice</id>
    <is>Gujarati Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Gujarati Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Gujarati Language Meta-Package for LibreOffice</kk>
    <ko>Gujarati Language Meta-Package for LibreOffice</ko>

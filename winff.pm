@@ -34,7 +34,6 @@ WinFF
    <id>graphical video and audio batch converter</id>
    <is>graphical video and audio batch converter</is>
    <it>convertitore grafico batch per video e audio che usa FFmpeg o avconv</it>
-   <ja_JP>graphical video and audio batch converter</ja_JP>
    <ja>グラフィカルなビデオとオーディオのバッチコンバータ</ja>
    <kk>graphical video and audio batch converter</kk>
    <ko>graphical video and audio batch converter</ko>

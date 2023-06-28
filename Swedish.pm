@@ -34,7 +34,6 @@ Swedish
    <id>Swedish Language Meta-Package</id>
    <is>Swedish Language Meta-Package</is>
    <it>Meta-pacchetto della lingua svedese</it>
-   <ja_JP>Swedish Language Meta-Package</ja_JP>
    <ja>スウェーデン語 メタパッケージ</ja>
    <kk>Swedish Language Meta-Package</kk>
    <ko>Swedish Language Meta-Package</ko>

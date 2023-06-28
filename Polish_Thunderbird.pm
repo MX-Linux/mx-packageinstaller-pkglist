@@ -34,7 +34,6 @@ Polish_Thunderbird
    <id>Polish localisation of Thunderbird</id>
    <is>Polish localisation of Thunderbird</is>
    <it>Localizzazione polacca di Thunderbird</it>
-   <ja_JP>Polish localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のポーランド語パック</ja>
    <kk>Polish localisation of Thunderbird</kk>
    <ko>Polish localisation of Thunderbird</ko>

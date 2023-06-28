@@ -34,7 +34,6 @@ Vietnamese_Libreoffice
    <id>Vietnamese Language Meta-Package for LibreOffice</id>
    <is>Vietnamese Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua vietnamita per LibreOffice</it>
-   <ja_JP>Vietnamese Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のベトナム語メタパッケージ</ja>
    <kk>Vietnamese Language Meta-Package for LibreOffice</kk>
    <ko>Vietnamese Language Meta-Package for LibreOffice</ko>

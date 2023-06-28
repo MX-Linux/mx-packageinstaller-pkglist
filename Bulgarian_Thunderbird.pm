@@ -34,7 +34,6 @@ Bulgarian_Thunderbird
    <id>Bulgarian localisation of Thunderbird</id>
    <is>Bulgarian localisation of Thunderbird</is>
    <it>Localizzazione bulgara di Thunderbird</it>
-   <ja_JP>Bulgarian localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のブルガリア語パック</ja>
    <kk>Bulgarian localisation of Thunderbird</kk>
    <ko>Bulgarian localisation of Thunderbird</ko>

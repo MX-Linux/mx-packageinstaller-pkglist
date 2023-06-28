@@ -34,7 +34,6 @@ Portugese(PT) Thunderbird
    <id>Portugese(PT) localisation of Thunderbird</id>
    <is>Portugese(PT) localisation of Thunderbird</is>
    <it>Localizzazione portoghese(PT) di Thunderbird</it>
-   <ja_JP>Portugese(PT) localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のポルトガル語 (PT) パック</ja>
    <kk>Portugese(PT) localisation of Thunderbird</kk>
    <ko>Portugese(PT) localisation of Thunderbird</ko>

@@ -34,7 +34,6 @@ Albanian_Thunderbird
    <id>Albanian localisation of Thunderbird</id>
    <is>Albanian localisation of Thunderbird</is>
    <it>Localizzazione albanese di Thunderbird</it>
-   <ja_JP>Albanian localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のアルバニア語用言語パック</ja>
    <kk>Albanian localisation of Thunderbird</kk>
    <ko>Albanian localisation of Thunderbird</ko>

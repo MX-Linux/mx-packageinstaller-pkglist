@@ -34,7 +34,6 @@ grub-themes-mx
    <id>themes for grub boot menu</id>
    <is>themes for grub boot menu</is>
    <it>temi per il menu di boot grub</it>
-   <ja_JP>themes for grub boot menu</ja_JP>
    <ja>GRUB ブートメニューのテーマ</ja>
    <kk>themes for grub boot menu</kk>
    <ko>themes for grub boot menu</ko>

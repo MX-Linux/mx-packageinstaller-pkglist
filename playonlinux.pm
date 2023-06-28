@@ -34,7 +34,6 @@ Play on Linux
    <id>Play on Linux</id>
    <is>Play on Linux</is>
    <it>Play on Linux</it>
-   <ja_JP>Play on Linux</ja_JP>
    <ja>Linux でプレイ</ja>
    <kk>Play on Linux</kk>
    <ko>Play on Linux</ko>

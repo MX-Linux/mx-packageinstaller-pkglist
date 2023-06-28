@@ -34,7 +34,6 @@ Arabic_Firefox
    <id>Arabic localisation of Firefox</id>
    <is>Arabic localisation of Firefox</is>
    <it>Localizzazione araba di Firefox </it>
-   <ja_JP>Arabic localisation of Firefox</ja_JP>
    <ja>Firefox のアラビア語用言語パック</ja>
    <kk>Arabic localisation of Firefox</kk>
    <ko>Arabic localisation of Firefox</ko>

@@ -34,7 +34,6 @@ Tswana_Libreoffice
    <id>Tswana Language Meta-Package for LibreOffice</id>
    <is>Tswana Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua tswana per LibreOffice</it>
-   <ja_JP>Tswana Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のツワナ語メタパッケージ</ja>
    <kk>Tswana Language Meta-Package for LibreOffice</kk>
    <ko>Tswana Language Meta-Package for LibreOffice</ko>

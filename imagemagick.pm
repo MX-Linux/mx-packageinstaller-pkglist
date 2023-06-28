@@ -34,7 +34,6 @@ ImageMagick
    <id>a software suite to create, edit, and compose bitmap images</id>
    <is>a software suite to create, edit, and compose bitmap images</is>
    <it>una suite di programmi per creare, modificare e comporre immagini bitmap</it>
-   <ja_JP>a software suite to create, edit, and compose bitmap images</ja_JP>
    <ja>ビットマップ画像の作成・編集・合成を行うソフトウェアスイート</ja>
    <kk>a software suite to create, edit, and compose bitmap images</kk>
    <ko>a software suite to create, edit, and compose bitmap images</ko>

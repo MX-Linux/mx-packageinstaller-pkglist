@@ -34,7 +34,6 @@ SpaceFM
    <id>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</id>
    <is>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</is>
    <it>gestore di file e desktop a più riquadri con schede che offre stabilità, velocità, convenienza e flessibilità.</it>
-   <ja_JP>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ja_JP>
    <ja>安定性やスピード、利便性、柔軟性を提供するマルチパネル・タブ付きのファイル兼デスクトップマネージャー</ja>
    <kk>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</kk>
    <ko>a multi-panel tabbed file and desktop manager offering stability, speed, convenience and flexibility</ko>

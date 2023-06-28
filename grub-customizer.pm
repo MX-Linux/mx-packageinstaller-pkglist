@@ -34,7 +34,6 @@ grub customizer
    <id>customize grub boot menu</id>
    <is>customize grub boot menu</is>
    <it>personalizzare il menu del boot di grub</it>
-   <ja_JP>customize grub boot menu</ja_JP>
    <ja>GRUB ブートメニューのカスタマイズ</ja>
    <kk>customize grub boot menu</kk>
    <ko>customize grub boot menu</ko>

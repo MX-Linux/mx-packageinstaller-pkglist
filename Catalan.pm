@@ -34,7 +34,6 @@ Catalan
    <id>Catalan Language Meta-Package</id>
    <is>Catalan Language Meta-Package</is>
    <it>Meta-pacchetto della lingua catalana</it>
-   <ja_JP>Catalan Language Meta-Package</ja_JP>
    <ja>カタロニア語のメタパッケージ</ja>
    <kk>Catalan Language Meta-Package</kk>
    <ko>Catalan Language Meta-Package</ko>

@@ -34,7 +34,6 @@ GB_English_Libreoffice
    <id>GB English Help for LibreOffice</id>
    <is>GB English Help for LibreOffice</is>
    <it>Guida in Inglese GB per LibreOffice</it>
-   <ja_JP>GB English Help for LibreOffice</ja_JP>
    <ja>LibreOffice用のイギリス英語ヘルプ</ja>
    <kk>GB English Help for LibreOffice</kk>
    <ko>GB English Help for LibreOffice</ko>

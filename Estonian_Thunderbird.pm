@@ -34,7 +34,6 @@ Estonian_Thunderbird
    <id>Estonian localisation of Thunderbird</id>
    <is>Estonian localisation of Thunderbird</is>
    <it>Localizzazione estone di Thunderbird</it>
-   <ja_JP>Estonian localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のエストニア語パック</ja>
    <kk>Estonian localisation of Thunderbird</kk>
    <ko>Estonian localisation of Thunderbird</ko>

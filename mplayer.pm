@@ -34,7 +34,6 @@ mplayer
    <id>a powerful multimedia player and much more</id>
    <is>a powerful multimedia player and much more</is>
    <it>potente lettore multimediale e molto altro</it>
-   <ja_JP>a powerful multimedia player and much more</ja_JP>
    <ja>強力なマルチメディアプレーヤーやその他など</ja>
    <kk>a powerful multimedia player and much more</kk>
    <ko>a powerful multimedia player and much more</ko>

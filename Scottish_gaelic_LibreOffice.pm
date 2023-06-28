@@ -34,7 +34,6 @@ Scottish_gaelic_Libreoffice
    <id>Scottish_gaelic Language Meta-Package for LibreOffice</id>
    <is>Scottish_gaelic Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua gaelica scozzese per LibreOffice</it>
-   <ja_JP>Scottish_gaelic Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用の高地スコットランド・ゲール語メタパッケージ</ja>
    <kk>Scottish_gaelic Language Meta-Package for LibreOffice</kk>
    <ko>Scottish_gaelic Language Meta-Package for LibreOffice</ko>

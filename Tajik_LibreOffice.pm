@@ -34,7 +34,6 @@ Tajik_Libreoffice
    <id>Tajik Language Meta-Package for LibreOffice</id>
    <is>Tajik Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua tagica per LibreOffice</it>
-   <ja_JP>Tajik Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のタジク語メタパッケージ</ja>
    <kk>Tajik Language Meta-Package for LibreOffice</kk>
    <ko>Tajik Language Meta-Package for LibreOffice</ko>

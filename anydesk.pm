@@ -34,7 +34,6 @@ AnyDesk
    <id>AnyDesk remote access</id>
    <is>AnyDesk remote access</is>
    <it>AnyDesk accesso remoto</it>
-   <ja_JP>AnyDesk remote access</ja_JP>
    <ja>AnyDesk リモートアクセス</ja>
    <kk>AnyDesk remote access</kk>
    <ko>AnyDesk remote access</ko>

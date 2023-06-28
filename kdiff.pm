@@ -34,7 +34,6 @@ kdiff3 (3 files)
    <id>graphical tool to diff and merge files</id>
    <is>graphical tool to diff and merge files</is>
    <it>strumento grafico per valutare le differenze dei file attraverso diff e merge</it>
-   <ja_JP>graphical tool to diff and merge files</ja_JP>
    <ja>ファイルの差分とマージを行うグラフィカルなツール</ja>
    <kk>graphical tool to diff and merge files</kk>
    <ko>graphical tool to diff and merge files</ko>

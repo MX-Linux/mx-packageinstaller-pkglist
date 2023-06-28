@@ -34,7 +34,6 @@ Italian_Libreoffice
    <id>Italian LibreOffice Language Meta-Package</id>
    <is>Italian LibreOffice Language Meta-Package</is>
    <it>Meta-pacchetto della lingua italiana per LibreOffice</it>
-   <ja_JP>Italian LibreOffice Language Meta-Package</ja_JP>
    <ja>イタリア語 LibreOffice 言語メタパッケージ</ja>
    <kk>Italian LibreOffice Language Meta-Package</kk>
    <ko>Italian LibreOffice Language Meta-Package</ko>

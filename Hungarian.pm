@@ -34,7 +34,6 @@ Hungarian
    <id>Hungarian Language Meta-Package</id>
    <is>Hungarian Language Meta-Package</is>
    <it>Meta-pacchetto della lingua ungherese</it>
-   <ja_JP>Hungarian Language Meta-Package</ja_JP>
    <ja>ハンガリー語のメタパッケージ</ja>
    <kk>Hungarian Language Meta-Package</kk>
    <ko>Hungarian Language Meta-Package</ko>

@@ -34,7 +34,6 @@ PCManFM
    <id>a fast and lightweight file manager</id>
    <is>a fast and lightweight file manager</is>
    <it>file manager veloce e leggero</it>
-   <ja_JP>a fast and lightweight file manager</ja_JP>
    <ja>高速で軽量なファイルマネージャ</ja>
    <kk>a fast and lightweight file manager</kk>
    <ko>a fast and lightweight file manager</ko>

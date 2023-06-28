@@ -34,7 +34,6 @@ Norwegian_Firefox
    <id>Norwegian localisation of Firefox</id>
    <is>Norwegian localisation of Firefox</is>
    <it>Localizzazione norvegese di Firefox</it>
-   <ja_JP>Norwegian localisation of Firefox</ja_JP>
    <ja>Firefox のノルウェー語パック</ja>
    <kk>Norwegian localisation of Firefox</kk>
    <ko>Norwegian localisation of Firefox</ko>

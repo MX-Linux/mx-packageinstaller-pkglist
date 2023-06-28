@@ -34,7 +34,6 @@ Signal Desktop Client
    <id>Signal Desktop Client</id>
    <is>Signal Desktop Client</is>
    <it>Signal Desktop Client</it>
-   <ja_JP>Signal Desktop Client</ja_JP>
    <ja>Signal Desktop Client</ja>
    <kk>Signal Desktop Client</kk>
    <ko>Signal Desktop Client</ko>

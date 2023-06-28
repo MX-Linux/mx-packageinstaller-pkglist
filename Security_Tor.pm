@@ -34,7 +34,6 @@ Tor and Privoxy
    <id>Tor and Privoxy</id>
    <is>Tor and Privoxy</is>
    <it>Tor e Privoxy</it>
-   <ja_JP>Tor and Privoxy</ja_JP>
    <ja>Tor と Privoxy</ja>
    <kk>Tor and Privoxy</kk>
    <ko>Tor and Privoxy</ko>

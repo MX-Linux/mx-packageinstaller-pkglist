@@ -34,7 +34,6 @@ GIMP Full
    <id>advanced picture editor- installs GIMP, help and plugins</id>
    <is>advanced picture editor- installs GIMP, help and plugins</is>
    <it>Editor di immagini avanzato - installa GIMP, guida e plugins</it>
-   <ja_JP>advanced picture editor- installs GIMP, help and plugins</ja_JP>
    <ja>高度な画像エディター - GIMP、ヘルプ、プラグインをインストールします</ja>
    <kk>advanced picture editor- installs GIMP, help and plugins</kk>
    <ko>advanced picture editor- installs GIMP, help and plugins</ko>

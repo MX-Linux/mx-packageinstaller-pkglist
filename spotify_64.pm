@@ -34,7 +34,6 @@ Spotify
    <id>Spotify from Spotify Repo</id>
    <is>Spotify from Spotify Repo</is>
    <it>Spotify dal repo testing di Spotify</it>
-   <ja_JP>Spotify from Spotify Repo</ja_JP>
    <ja>Spotify テストレポより Spotify</ja>
    <kk>Spotify from Spotify Repo</kk>
    <ko>Spotify from Spotify Repo</ko>

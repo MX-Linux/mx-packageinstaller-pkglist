@@ -34,7 +34,6 @@ Afrikaan_Firefox
    <id>Afrikaan localisation of Firefox</id>
    <is>Afrikaan localisation of Firefox</is>
    <it>Localizzazione in Afrikaans di Firefox</it>
-   <ja_JP>Afrikaan localisation of Firefox</ja_JP>
    <ja>Firefox のアフリカーンス語用言語パック</ja>
    <kk>Afrikaan localisation of Firefox</kk>
    <ko>Afrikaan localisation of Firefox</ko>

@@ -34,7 +34,6 @@ Open Drive
    <id>Multi-service cloud storage sync client</id>
    <is>Multi-service cloud storage sync client</is>
    <it>Client di sincronizzazione di archiviazione cloud multi-servizio</it>
-   <ja_JP>Multi-service cloud storage sync client</ja_JP>
    <ja>マルチサービス・クラウドストレージ同期クライアント</ja>
    <kk>Multi-service cloud storage sync client</kk>
    <ko>Multi-service cloud storage sync client</ko>

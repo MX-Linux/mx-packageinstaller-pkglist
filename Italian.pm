@@ -34,7 +34,6 @@ Italian
    <id>Italian Language Meta-Package</id>
    <is>Italian Language Meta-Package</is>
    <it>Meta-pacchetto della lingua italiana</it>
-   <ja_JP>Italian Language Meta-Package</ja_JP>
    <ja>イタリア語メタパッケージ</ja>
    <kk>Italian Language Meta-Package</kk>
    <ko>Italian Language Meta-Package</ko>

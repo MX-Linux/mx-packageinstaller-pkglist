@@ -34,7 +34,6 @@ Plank
    <id>Simple but good looking dock</id>
    <is>Simple but good looking dock</is>
    <it>barra dock semplice ma bella</it>
-   <ja_JP>Simple but good looking dock</ja_JP>
    <ja>シンプルでも見栄えの良いドック</ja>
    <kk>Simple but good looking dock</kk>
    <ko>Simple but good looking dock</ko>

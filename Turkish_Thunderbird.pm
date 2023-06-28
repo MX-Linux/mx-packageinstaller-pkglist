@@ -34,7 +34,6 @@ Turkish_Thunderbird
    <id>Turkish localisation of Thunderbird</id>
    <is>Turkish localisation of Thunderbird</is>
    <it>Localizzazione turca di Thunderbird</it>
-   <ja_JP>Turkish localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のトルコ語パック</ja>
    <kk>Turkish localisation of Thunderbird</kk>
    <ko>Turkish localisation of Thunderbird</ko>

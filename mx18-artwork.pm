@@ -34,7 +34,6 @@ MX 18 Wallpapers
    <id>backgrounds originally supplied with MX 18</id>
    <is>backgrounds originally supplied with MX 18</is>
    <it>sfondi originariamente forniti con MX 18</it>
-   <ja_JP>backgrounds originally supplied with MX 18</ja_JP>
    <ja>MX 18 に同梱されているオリジナルな背景</ja>
    <kk>backgrounds originally supplied with MX 18</kk>
    <ko>backgrounds originally supplied with MX 18</ko>

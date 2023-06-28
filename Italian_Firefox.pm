@@ -34,7 +34,6 @@ Italian_Firefox
    <id>Italian localisation of Firefox</id>
    <is>Italian localisation of Firefox</is>
    <it>Localizzazione italiana di Firefox</it>
-   <ja_JP>Italian localisation of Firefox</ja_JP>
    <ja>Firefox のイタリア語パック</ja>
    <kk>Italian localisation of Firefox</kk>
    <ko>Italian localisation of Firefox</ko>

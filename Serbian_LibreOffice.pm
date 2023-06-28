@@ -34,7 +34,6 @@ Serbian_Libreoffice
    <id>Serbian Language Meta-Package for LibreOffice</id>
    <is>Serbian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua serba per LibreOffice</it>
-   <ja_JP>Serbian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用のセルビア語メタパッケージ</ja>
    <kk>Serbian Language Meta-Package for LibreOffice</kk>
    <ko>Serbian Language Meta-Package for LibreOffice</ko>

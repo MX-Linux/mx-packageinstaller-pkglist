@@ -34,7 +34,6 @@ Russian_Fonts
    <id>Russian fonts packages</id>
    <is>Russian fonts packages</is>
    <it>Pacchetti di fonts per il Russo</it>
-   <ja_JP>Russian fonts packages</ja_JP>
    <ja>ロシア語のフォントパッケージ集</ja>
    <kk>Russian fonts packages</kk>
    <ko>Russian fonts packages</ko>

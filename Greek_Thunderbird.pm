@@ -34,7 +34,6 @@ Greek_Thunderbird
    <id>Greek localisation of Thunderbird</id>
    <is>Greek localisation of Thunderbird</is>
    <it>Localizzazione greca di Thunderbird</it>
-   <ja_JP>Greek localisation of Thunderbird</ja_JP>
    <ja>Thunderbird のギリシャ語パック</ja>
    <kk>Greek localisation of Thunderbird</kk>
    <ko>Greek localisation of Thunderbird</ko>

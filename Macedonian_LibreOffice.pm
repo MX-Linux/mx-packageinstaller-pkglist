@@ -34,7 +34,6 @@ Macedonian_Libreoffice
    <id>Macedonian Language Meta-Package for LibreOffice</id>
    <is>Macedonian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua macedone per LibreOffice</it>
-   <ja_JP>Macedonian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice 用のマケドニア語メタパッケージ</ja>
    <kk>Macedonian Language Meta-Package for LibreOffice</kk>
    <ko>Macedonian Language Meta-Package for LibreOffice</ko>

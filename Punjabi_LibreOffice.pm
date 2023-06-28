@@ -34,7 +34,6 @@ Punjabi_Libreoffice
    <id>Punjabi Language Meta-Package for LibreOffice</id>
    <is>Punjabi Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto della lingua punjabi per LibreOffice</it>
-   <ja_JP>Punjabi Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用パンジャブ語メタパッケージ</ja>
    <kk>Punjabi Language Meta-Package for LibreOffice</kk>
    <ko>Punjabi Language Meta-Package for LibreOffice</ko>

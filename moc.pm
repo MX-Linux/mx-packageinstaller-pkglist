@@ -34,7 +34,6 @@ MOC
    <id>a console audio player designed to be powerful and easy to use</id>
    <is>a console audio player designed to be powerful and easy to use</is>
    <it>un lettore audio da terminale progettato per essere completo e facile da usare </it>
-   <ja_JP>a console audio player designed to be powerful and easy to use</ja_JP>
    <ja>パワフルで使いやすいコンソール用のオーディオプレーヤー</ja>
    <kk>a console audio player designed to be powerful and easy to use</kk>
    <ko>a console audio player designed to be powerful and easy to use</ko>

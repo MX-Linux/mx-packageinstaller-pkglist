@@ -34,7 +34,6 @@ Moka/Faba Icon Themes
    <id>a comprehensive icon set with a uniform flat "rounded square" look</id>
    <is>a comprehensive icon set with a uniform flat "rounded square" look</is>
    <it>un set di icone completo con un look uniforme a "quadrato arrotondato"</it>
-   <ja_JP>a comprehensive icon set with a uniform flat "rounded square" look</ja_JP>
    <ja>統一された、フラットで丸みを帯びた四角い外観のアイコンの完全なセット</ja>
    <kk>a comprehensive icon set with a uniform flat "rounded square" look</kk>
    <ko>a comprehensive icon set with a uniform flat "rounded square" look</ko>

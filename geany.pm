@@ -34,7 +34,6 @@ Geany
    <id>fast and lightweight IDE and text editor</id>
    <is>fast and lightweight IDE and text editor</is>
    <it>Editor di testo, ed Ambiente di Sviluppo Integrato, veloce e leggero</it>
-   <ja_JP>fast and lightweight IDE and text editor</ja_JP>
    <ja>高速かつ軽量な IDE（統合開発環境）とテキストエディタ</ja>
    <kk>fast and lightweight IDE and text editor</kk>
    <ko>fast and lightweight IDE and text editor</ko>

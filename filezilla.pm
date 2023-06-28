@@ -34,7 +34,6 @@ Filezilla
    <id>a full-featured FTP client with an easy-to-use GUI</id>
    <is>a full-featured FTP client with an easy-to-use GUI</is>
    <it>Client Ftp ad interfaccia grafica, completo e di facile uso</it>
-   <ja_JP>a full-featured FTP client with an easy-to-use GUI</ja_JP>
    <ja>使いやすい GUI を備えたフル機能の FTP クライアント</ja>
    <kk>a full-featured FTP client with an easy-to-use GUI</kk>
    <ko>a full-featured FTP client with an easy-to-use GUI</ko>

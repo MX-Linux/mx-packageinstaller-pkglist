@@ -34,7 +34,6 @@ Belarusian_Libreoffice
    <id>Belarusian Language Meta-Package for LibreOffice</id>
    <is>Belarusian Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Belarusian Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Belarusian Language Meta-Package for LibreOffice</kk>
    <ko>Belarusian Language Meta-Package for LibreOffice</ko>

@@ -34,7 +34,6 @@ Catalan_Libreoffice
    <id>Catalan LibreOffice Language Meta-Package</id>
    <is>Catalan LibreOffice Language Meta-Package</is>
    <it>Meta-pacchetto della lingua catalana per LibreOffice</it>
-   <ja_JP>Catalan LibreOffice Language Meta-Package</ja_JP>
    <ja>カタロニア語用 LibreOffice 言語メタパッケージ</ja>
    <kk>Catalan LibreOffice Language Meta-Package</kk>
    <ko>Catalan LibreOffice Language Meta-Package</ko>

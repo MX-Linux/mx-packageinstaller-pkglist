@@ -34,7 +34,6 @@ PIAVPN - Private Internet Access VPN
    <id>Private Internet Access VPN</id>
    <is>Private Internet Access VPN</is>
    <it>Accesso internet privato VPN</it>
-   <ja_JP>Private Internet Access VPN</ja_JP>
    <ja>プライベートインターネットアクセスVPN</ja>
    <kk>Private Internet Access VPN</kk>
    <ko>Private Internet Access VPN</ko>

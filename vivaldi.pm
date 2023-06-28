@@ -34,7 +34,6 @@ Vivaldi
    <id>Vivaldi web browser</id>
    <is>Vivaldi web browser</is>
    <it>Vivaldi web browser</it>
-   <ja_JP>Vivaldi web browser</ja_JP>
    <ja>Vivaldi ウェブブラウザ</ja>
    <kk>Vivaldi web browser</kk>
    <ko>Vivaldi web browser</ko>

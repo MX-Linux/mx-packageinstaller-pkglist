@@ -34,7 +34,6 @@ Bengali_Libreoffice
    <id>Bengali Language Meta-Package for LibreOffice</id>
    <is>Bengali Language Meta-Package for LibreOffice</is>
    <it>Meta-pacchetto per LibreOffice</it>
-   <ja_JP>Bengali Language Meta-Package for LibreOffice</ja_JP>
    <ja>LibreOffice用メタパッケージ</ja>
    <kk>Bengali Language Meta-Package for LibreOffice</kk>
    <ko>Bengali Language Meta-Package for LibreOffice</ko>
