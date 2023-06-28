@@ -1,5 +1,11 @@
 mx-packageinstaller-pkglist (23.07.14mx23) mx; urgency=medium
 
+  * remove ja_JP 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 28 Jun 2023 19:35:17 -0400
+
+mx-packageinstaller-pkglist (23.07.14mx23) mx; urgency=medium
+
   * update package descriptions
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 26 Jun 2023 21:24:53 -0400
