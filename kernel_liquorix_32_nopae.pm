@@ -67,31 +67,28 @@ Liquorix 32 bit no-pae
 <screenshot>none</screenshot>
 
 <preinstall>
-[ $(apt-get update --print-uris | grep -c -m1 -E "/mx/repo/dists/bullseye/ahs/") = 0 ] || exit 0
-MXREPO=$(apt-get update --print-uris | grep -m1 -oE "https?://.*/mx/repo/dists/bullseye/main" | tail -1 | sed "s:^:deb :; s:/repo/dists/:/repo/ :; s:/main: ahs:")
-: ${MXREPO:=deb http://mxrepo.com/mx/repo/ bullseye ahs}
+[ $(apt-get update --print-uris | grep -c -m1 -E "/mx/repo/dists/bookworm/ahs/") = 0 ] || exit 0
+MXREPO=$(apt-get update --print-uris | grep -m1 -oE "https?://.*/mx/repo/dists/bookworm/main" | tail -1 | sed "s:^:deb :; s:/repo/dists/:/repo/ :; s:/main: ahs:")
+: ${MXREPO:=deb http://mxrepo.com/mx/repo/ bookworm ahs}
 echo "$MXREPO" > /etc/apt/sources.list.d/mxpitemp.list
 apt-get update 
 </preinstall>
 
 <install_package_names>
-linux-image-liquorix-686
-linux-headers-liquorix-686
+linux-image-6.3.9-1-liquorix-686
+linux-headers-6.3.9-1-liquorix-686
 </install_package_names>
 
 
 <postinstall>
-file=$(apt-cache show linux-image-liquorix-686 |grep -m1 Depends) 
-file=${file#"Depends:"}
-rebuild_dkms_packages.sh $file
+rebuild_dkms_packages.sh linux-image-6.3.9-1-liquorix-686
 rm -f /etc/apt/sources.list.d/mxpitemp.list
-apt-get -y remove linux-image-liquorix-686 linux-headers-liquorix-686
 apt-get update
-
 </postinstall>
 
 
 <uninstall_package_names>
-
+linux-image-6.3.9-1-liquorix-686
+linux-headers-6.3.9-1-liquorix-686
 </uninstall_package_names>
 </app>
