@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.07.16mx23) mx; urgency=medium
+
+  * update kernel entries
+  * update windscribe (fehlix) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 03 Jul 2023 16:29:44 -0400
+
 mx-packageinstaller-pkglist (23.07.15mx23) mx; urgency=medium
 
   * remove ja_JP 
