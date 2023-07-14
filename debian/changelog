@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.07.18mx23) mx; urgency=medium
+
+  * update xmms (remove xmms-plugins-antix, add xmms-skins-antix)
+  * add ahs kernel entry
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 13 Jul 2023 22:19:17 -0400
+
 mx-packageinstaller-pkglist (23.07.17mx23) mx; urgency=medium
 
   * remove rtl8821cu-dkms from kernel installs over 6.1
