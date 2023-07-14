@@ -73,7 +73,7 @@ apt-get update
 
 <install_package_names>
 xmms
-xmms-plugins-antix
+xmms-skins-antix
 </install_package_names>
 
 
@@ -85,7 +85,7 @@ apt-get update
 
 <uninstall_package_names>
 xmms
-xmms-plugins-antix
+xmms-skins-antix
 </uninstall_package_names>
 
 
