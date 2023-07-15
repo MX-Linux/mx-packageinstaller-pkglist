@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.07.19mx23) mx; urgency=medium
+
+  *  remove unneeded rtl dkms file when installing ahs kernel
+  *  update megasync key managmenet and repo
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 15 Jul 2023 09:16:48 -0400
+
 mx-packageinstaller-pkglist (23.07.18mx23) mx; urgency=medium
 
   * update xmms (remove xmms-plugins-antix, add xmms-skins-antix)
