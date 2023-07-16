@@ -67,7 +67,6 @@ Liquorix 6.3.9-1 32 bit pae
 <screenshot>none</screenshot>
 
 <preinstall>
-apt-get remove rtl8821cu-dkms
 [ $(apt-get update --print-uris | grep -c -m1 -E "/mx/repo/dists/bookworm/ahs/") = 0 ] || exit 0
 MXREPO=$(apt-get update --print-uris | grep -m1 -oE "https?://.*/mx/repo/dists/bookworm/main" | tail -1 | sed "s:^:deb :; s:/repo/dists/:/repo/ :; s:/main: ahs:")
 : ${MXREPO:=deb http://mxrepo.com/mx/repo/ bookworm ahs}
