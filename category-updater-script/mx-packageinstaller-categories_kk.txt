@@ -2,14 +2,14 @@ Audio
 Браузер
 Children
 Desktop Environments
-Development
+Өндіру
 Disks
 Docks
 Email
 File Managers
 FTP
-Games
-Graphics
+Ойындар
+Бейнелеу
 Icons
 Kernels
 Тіл

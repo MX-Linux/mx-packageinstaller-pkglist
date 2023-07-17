@@ -34,4 +34,4 @@ Przydatne narzędzia
 Wideo
 Tapety
 Menedżery okien
-Virtualization
+Wirtualizacja

@@ -2,13 +2,13 @@
 Browser
 Children
 Desktop Environments
-Development
+พัฒนาโปรแกรม
 ดิสก์
 Docks
 Email
 File Managers
 FTP
-Games
+เกม
 กราฟิก
 ไอคอน
 Kernels

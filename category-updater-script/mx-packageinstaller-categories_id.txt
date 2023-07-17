@@ -2,14 +2,14 @@ Audio
 Browser
 Children
 Desktop Environments
-Development
+Pengembangan
 Disks
 Dok
 Email
 File Managers
 FTP
-Games
-Graphics
+Permainan
+Grafis
 Icons
 Kernels
 Language

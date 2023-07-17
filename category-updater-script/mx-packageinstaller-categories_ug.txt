@@ -2,14 +2,14 @@ Audio
 Browser
 Children
 Desktop Environments
-Development
+ئىجادىيەت
 Disks
 Docks
 Email
 File Managers
 FTP
-Games
-Graphics
+ئويۇن
+گرافىك
 Icons
 Kernels
 Language

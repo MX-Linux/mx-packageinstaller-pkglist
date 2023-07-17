@@ -1,10 +1,10 @@
 Audio
-Buscador
+Navegador
 Niños
 Ambiente de escritorio
 Desarrollo
 Discos
-Muellas
+Docks
 Email
 Gestores de archivos
 FTP

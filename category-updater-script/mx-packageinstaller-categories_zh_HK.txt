@@ -2,14 +2,14 @@ Audio
 Browser
 Children
 Desktop Environments
-Development
+開發
 Disks
 Docks
 Email
 File Managers
 FTP
-Games
-Graphics
+遊戲
+美工繪圖
 Icons
 Kernels
 Language
@@ -21,7 +21,7 @@ Misc
 Network
 Newsreader
 Non-Free
-Office
+辦公
 Printing
 Remote Access
 Screencast

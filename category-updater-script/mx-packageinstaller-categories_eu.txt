@@ -2,14 +2,14 @@ Audio
 Arakatzaile
 Children
 Desktop Environments
-Development
+Garapena
 Disks
 Docks
 Email
 File Managers
 FTP
-Games
-Graphics
+Jokoak
+Grafikoak
 Icons
 Kernels
 Language
