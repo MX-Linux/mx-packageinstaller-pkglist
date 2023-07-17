@@ -2,14 +2,14 @@ Audio
 Veebibrauserit
 Children
 Desktop Environments
-Development
+Arendus
 Disks
 Docks
 Email
 File Managers
 FTP
-Games
-Graphics
+Mängud
+Graafika
 Icons
 Kernels
 Keel

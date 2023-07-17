@@ -1,12 +1,12 @@
 Audio
 Browser 
 Kinder
- Desktop-Umgebung
+Arbeitsoberflächen
 Entwicklung
 Speichermedien
 Docks
 Email
-Dateimanager
+Dateiverwaltung
 FTP
 Spiele
 Grafik
@@ -15,7 +15,7 @@ Kernels
 Sprache
 LaTex
 Media Center
-Medien Konvertierer
+Medien-Konvertierer
 Messaging
 Verschiedenes
 Netzwerk
@@ -24,14 +24,14 @@ Proprietäre Software
 Büro
 Drucken
 Fernzugriff
-Screencast
+Bidschirmaufnahme
 Bildschirmschoner
-Screenshot Utilities
-Zentralrechner
-Themes
+Bildschirmfoto
+Server
+Themen
 Torrent 
 Dienstprogramm
 Video
-Hintergründe
+Hintergrundbilder
 Fenstermanager
-Virtualization
+Virtualisierung

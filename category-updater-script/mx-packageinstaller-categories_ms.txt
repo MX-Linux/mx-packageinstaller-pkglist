@@ -2,14 +2,14 @@ Audio
 Browser
 Children
 Desktop Environments
-Development
+Pembangunan
 Disks
 Docks
 Email
 File Managers
 FTP
-Games
-Graphics
+Permainan
+Grafik
 Icons
 Kernels
 Language
@@ -21,7 +21,7 @@ Misc
 Network
 Newsreader
 Non-Free
-Office
+Pejabat
 Printing
 Remote Access
 Screencast

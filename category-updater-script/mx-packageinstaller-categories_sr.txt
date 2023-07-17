@@ -2,14 +2,14 @@ Audio
 Броусер
 Children
 Desktop Environments
-Development
+Развој
 Disks
 Docks
 Email
 File Managers
 FTP
-Games
-Graphics
+Игре
+Цртање
 Icons
 Kernels
 Језик

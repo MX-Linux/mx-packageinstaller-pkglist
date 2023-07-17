@@ -2,14 +2,14 @@ Audio
 Browser
 Children
 Desktop Environments
-Datblygu
+Մշակում
 Disks
 Docks
 Email
 File Managers
 FTP
-Gemau
-Graffeg
+Խաղեր
+Պատկեր
 Icons
 Kernels
 Language
@@ -21,7 +21,7 @@ Misc
 Network
 Newsreader
 Non-Free
-Swyddfa
+Գրասենեակ
 Printing
 Remote Access
 Screencast

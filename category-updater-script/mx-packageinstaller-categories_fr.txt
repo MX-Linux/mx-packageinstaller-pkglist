@@ -6,7 +6,7 @@ Développement
 Disques
 Docks
 Courrier électronique
-Gestionnaire de fichiers
+Gestionnaires de fichiers
 FTP
 Jeux
 Graphisme
@@ -29,7 +29,7 @@ Capture vidéo d’écran
 Outils de capture d’écran
 Serveur
 Thèmes
-Torrent 
+Torrent
 Utilitaires
 Vidéo
 Fonds d’écran

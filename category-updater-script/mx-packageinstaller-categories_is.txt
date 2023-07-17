@@ -2,14 +2,14 @@ Audio
 Vafranum
 Children
 Desktop Environments
-Development
+Forritun
 Diskar
 Docks
 Email
 File Managers
 FTP
-Games
-Graphics
+Leikir
+Myndvinnsla
 Icons
 Kernels
 Language

@@ -2,14 +2,14 @@ Audio
 Browser
 Children
 Desktop Environments
-Datblygu
+Taneflit
 Disks
 Docks
 Email
 File Managers
 FTP
-Gemau
-Graffeg
+Uraren
+Udlifen 
 Icons
 Kernels
 Language
@@ -21,7 +21,7 @@ Misc
 Network
 Newsreader
 Non-Free
-Swyddfa
+Office
 Printing
 Remote Access
 Screencast

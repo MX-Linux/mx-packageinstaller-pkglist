@@ -2,13 +2,13 @@
 መቃኛ
 Children
 Desktop Environments
-Development
+አበልፃጊዎች
 ዲስኮች
 Docks
 Email
 File Managers
 FTP
-Games
+ጨዋታዎች
 ንድፍ
 ምልክት
 Kernels

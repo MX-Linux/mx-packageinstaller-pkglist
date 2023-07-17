@@ -2,14 +2,14 @@ Audio
 Browser
 Children
 Desktop Environments
-Development
+განვითარება
 Disks
 Docks
 Email
 File Managers
 FTP
-Games
-Graphics
+თამაშები
+გრაფიკა
 Icons
 Kernels
 Language

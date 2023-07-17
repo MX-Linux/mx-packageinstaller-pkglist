@@ -8,7 +8,7 @@ Docks
 Email
 File Managers
 FTP
-Games
+ألعاب
 رسومات
 Icons
 Kernels
