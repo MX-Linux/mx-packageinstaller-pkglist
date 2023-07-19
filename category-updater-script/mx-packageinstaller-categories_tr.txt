@@ -34,4 +34,4 @@ Yardımcı gereç
 Video
 Duvar kağıtları
 Pencere Yöneticileri
-Virtualization
+Sanallaştırma
