@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.07.22mx23) mx; urgency=medium
+
+  * update translations
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 18 Jul 2023 22:57:41 -0400
+
 mx-packageinstaller-pkglist (23.07.21mx23) mx; urgency=medium
 
   * update categories.dict
