@@ -67,7 +67,7 @@ LibreOffice (backports version)
 <screenshot>https://screenshots.debian.net/shrine/screenshot/18671/simage/large-c8241f577413887dbe78e15ff7706863.png</screenshot>
 
 <preinstall>
-
+apt-get install openjdk-17-jre
 lo-installer.sh --reinstall --backports lo-backports-helper
 apt-get update -o=Dpkg::Use-Pty=0 -o Acquire::http:Timeout=10 -o Acquire::https:Timeout=10 -o Acquire::ftp:Timeout=10
 
@@ -91,7 +91,6 @@ libreoffice-math
 libreoffice-writer
 ure
 lo-backports-helper
-openjdk-17-jre
 </uninstall_package_names>
 
 <postuninstall>
