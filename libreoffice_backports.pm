@@ -91,6 +91,7 @@ libreoffice-math
 libreoffice-writer
 ure
 lo-backports-helper
+openjdk-17-jre
 </uninstall_package_names>
 
 <postuninstall>
