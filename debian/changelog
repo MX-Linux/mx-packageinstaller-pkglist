@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.07.23mx23) mx; urgency=medium
+
+  * install openjdk-17-jre BEFORE running libreoffice install
+  * fixes weird issue with ca-certificates-jave
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 20 Jul 2023 20:53:00 -0400
+
 mx-packageinstaller-pkglist (23.07.22mx23) mx; urgency=medium
 
   * update translations
