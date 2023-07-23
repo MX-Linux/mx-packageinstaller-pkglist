@@ -133,6 +133,7 @@ main() {
         uno-libs-private
         ure
         fonts-opensymbol
+        python3-uno       
         )
 
     LO_INSTALL_PACKAGES_MANUAL=(
@@ -153,6 +154,7 @@ main() {
         ure
         fonts-opensymbol
         libreoffice-avmedia-backend-gstreamer
+        python3-uno       
         )
 
     LO_INSTALL_PACKAGES_MANUAL_KDE=(
