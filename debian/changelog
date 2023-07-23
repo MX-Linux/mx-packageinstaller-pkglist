@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.07.24mx23) mx; urgency=medium
+
+  * update LO install routine to pull in python-uno (fehlix)
+  * make avidemux 64 bit only
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 23 Jul 2023 15:44:49 -0400
+
 mx-packageinstaller-pkglist (23.07.23mx23) mx; urgency=medium
 
   * install openjdk-17-jre BEFORE running libreoffice install
