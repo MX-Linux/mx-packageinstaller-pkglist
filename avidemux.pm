@@ -60,7 +60,7 @@ Avidemux
 </description>
 
 <installable>
-all
+64
 </installable>
 
 <screenshot>https://screenshots.debian.net/shrine/screenshot/9191/simage/large-d636f93beb6b52c308742e71412cddda.png</screenshot>
