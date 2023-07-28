@@ -1,8 +1,12 @@
 mx-packageinstaller-pkglist (23.07.01mx21) mx; urgency=medium
 
+  [ fehlix ]
   * update windscribe
 
- -- fehlix <fehlix@mxlinux.org>  Thu, 27 Jul 2023 15:33:38 -0500
+  [ Dolphin Oracle ]
+  * new build
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 27 Jul 2023 21:18:38 -0500
 
 mx-packageinstaller-pkglist (23.05.03mx21) mx; urgency=medium
 
