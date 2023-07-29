@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.07.25mx23) mx; urgency=medium
+
+  * remove 32 bit liquiorix kernel entries
+  * update debian and ahs kernel entries
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 29 Jul 2023 11:20:18 -0400
+
 mx-packageinstaller-pkglist (23.07.24mx23) mx; urgency=medium
 
   * update LO install routine to pull in python-uno (fehlix)
