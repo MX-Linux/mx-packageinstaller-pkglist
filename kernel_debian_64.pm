@@ -10,53 +10,51 @@ Debian 64 bit
 </name>
 
 <description>
-   <am>Default Debian kernel Meltdown patched, 64bit</am>
-   <ar>Default Debian kernel Meltdown patched, 64bit</ar>
-   <bg>Default Debian kernel Meltdown patched, 64bit</bg>
-   <bn>Default Debian kernel Meltdown patched, 64bit</bn>
-   <ca>Kernel Debian per omissió, esmenat per Meltdown, 64 bit</ca>
-   <cs>Default Debian kernel Meltdown patched, 64bit</cs>
-   <da>Default Debian kernel Meltdown patched, 64bit</da>
-   <de>Default Debian Kernel Meltdown gepatcht, 64bit</de>
-   <el>Προκαθορισμένος πυρήνας Debian με Meltdown patched, 64bit</el>
-   <en>Default Debian kernel Meltdown patched, 64bit</en>
-   <es>Kernel Debian predeterminado Meltdown parcheado, 64bit</es>
-   <et>Default Debian kernel Meltdown patched, 64bit</et>
-   <eu>Default Debian kernel Meltdown patched, 64bit</eu>
-   <fa>Default Debian kernel Meltdown patched, 64bit</fa>
-   <fil_PH>Default Debian kernel Meltdown patched, 64bit</fil_PH>
-   <fi>Vakiollinen Debian:in ydin, Meltdown-haavoittuvuus paikattu, 64-bittinen</fi>
-   <fr>Noyau Debian par défaut correctifs Meltdown, 64bit</fr>
-   <he_IL>Default Debian kernel Meltdown patched, 64bit</he_IL>
-   <hi>डिफ़ॉल्ट डेबियन कर्नेल मेल्टडाउन पैच, 64 बिट </hi>
-   <hr>Default Debian kernel Meltdown patched, 64bit</hr>
-   <hu>Default Debian kernel Meltdown patched, 64bit</hu>
-   <id>Default Debian kernel Meltdown patched, 64bit</id>
-   <is>Default Debian kernel Meltdown patched, 64bit</is>
-   <it>Kernel Debian di default, con la patch per Meltdown, 64bit</it>
-   <ja>既定の Debian kernel Meltdown patched, 64bit</ja>
-   <kk>Default Debian kernel Meltdown patched, 64bit</kk>
-   <ko>Default Debian kernel Meltdown patched, 64bit</ko>
-   <lt>Default Debian kernel Meltdown patched, 64bit</lt>
-   <mk>Default Debian kernel Meltdown patched, 64bit</mk>
-   <mr>Default Debian kernel Meltdown patched, 64bit</mr>
-   <nb>Standard Debian-kjerne, Meltdown-fikset, 64 bit</nb>
-   <nl>Standaard Debian kernel Meltdown patched, 64bit</nl>
-   <pl>Default Debian kernel Meltdown patched, 64bit</pl>
-   <pt_BR>Núcleo (Kernel) Linux de 64 bits padrão do Debian com as correções Meltdown</pt_BR>
-   <pt>Kernel Debian padrão com correcções para as falhas Meltdown e Spectre, 64bit</pt>
-   <ro>Default Debian kernel Meltdown patched, 64bit</ro>
-   <ru>Стандартное Debian ядро с патчем от Meltdown, 64 бита</ru>
-   <sk>Default Debian kernel Meltdown patched, 64bit</sk>
-   <sl>Privzeto Debian Meltdown jedro zakrpano, 64 bitno</sl>
-   <sq>Kerneli parazgjedhje Debian arnuar për Meltdown, 64bit</sq>
-   <sr>Default Debian kernel Meltdown patched, 64bit</sr>
-   <sv>Standard Debian kärna Meltdown fixad, 64bit</sv>
-   <tr>Öntanmlı Debian Meltdown yamalı çekirdeği, 64 bit</tr>
-   <uk>Default Debian kernel Meltdown patched, 64bit</uk>
-   <vi>Default Debian kernel Meltdown patched, 64bit</vi>
-   <zh_CN>Default Debian kernel Meltdown patched, 64bit</zh_CN>
-   <zh_TW>Default Debian kernel Meltdown patched, 64bit</zh_TW>
+<am>የዴቢያን ነባሪ ከርነል</am>
+<ar>ﺔﻴﺿﺍﺮﺘﻓﻻ﻿ﺍ ﻥﺎﻴﺑﺩ ﺓﺍﻮﻧ</ar>
+<bg>Ядрото по подразбиране на Debian</bg>
+<bn>ডেবিয়ান ডিফল্ট কার্নেল</bn>
+<ca>Nucli predeterminat de Debian</ca>
+<cs>Výchozí jádro Debianu</cs>
+<da>Debians standardkerne</da>
+<de>Debian-Standardkernel</de>
+<el>Προεπιλεγμένος πυρήνας του Debian</el>
+<es>Núcleo predeterminado de Debian</es>
+<et>Debiani vaiketuum</et>
+<eu>Debian kernel lehenetsia</eu>
+<en>Debian default kernel</en>
+<fa>ﻥﺎﯿﺑﺩ ﺽﺮﻓ ﺶﯿﭘ ﻪﺘﺴﻫ</fa>
+<fil_PH>Debian na default na kernel</fil_PH>
+<fi>Debianin oletusydin</fi>
+<fr>Noyau par défaut de Debian</fr>
+<he_IL>ןאיבד לש לדחמה תרירב תביל</he_IL>
+<hi>डेबियन डिफ़ॉल्ट कर्नेल</hi>
+<hr>Zadana jezgra Debiana</hr>
+<hu>Debian alapértelmezett kernel</hu>
+<id>Kernel bawaan Debian</id>
+<is>Debian sjálfgefinn kjarni</is>
+<it>Kernel predefinito Debian</it>
+<ja>Debian のデフォルトのカーネル</ja>
+<kk>Debian әдепкі ядросы</kk>
+<ko>데비안 기본 커널</ko>
+<lt>Debian'o numatytasis branduolys</lt>
+<mk>Стандардно јадро на Debian</mk>
+<mr>डेबियन डीफॉल्ट कर्नल</mr>
+<nb>Debians standard kjerne</nb>
+<nl>Standaard kernel van Debian</nl>
+<pl>Domyślne jądro Debiana</pl>
+<pt_BR>Kernel padrão do Debian</pt_BR>
+<pt>Kernel padrão do Debian</pt>
+<ro>Nucleul implicit Debian</ro>
+<ru>Ядро Debian по умолчанию</ru>
+<sk>Predvolené jadro Debianu</sk>
+<sl>Privzeto jedro Debian</sl>
+<sq>Kerneli i paracaktuar i Debian</sq>
+<sr>Дебиан подразумевано језгро</sr>
+<sv>Debians standardkärna</sv>
+<tr>Debian varsayılan çekirdeği</tr>
+<uk>Стандартне ядро Debian</uk>
+<vi>Hạt nhân mặc định của Debian</vi>
 </description>
 
 <installable>
