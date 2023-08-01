@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.07.02mx21) mx; urgency=medium
+
+  * update ahs kernel entries
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 31 Jul 2023 22:45:16 -0400
+
 mx-packageinstaller-pkglist (23.07.01mx21) mx; urgency=medium
 
   [ fehlix ]
