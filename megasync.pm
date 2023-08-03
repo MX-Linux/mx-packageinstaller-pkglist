@@ -66,7 +66,7 @@ Megasync
 <screenshot></screenshot>
 
 <preinstall>
-echo "deb https://mega.nz/linux/repo/Debian_12/ ./ Packages">/etc/apt/sources.list.d/mxpitemp.list
+echo "deb https://mega.nz/linux/repo/Debian_12/ ./">/etc/apt/sources.list.d/mxpitemp.list
 curl -sS https://mega.nz/linux/repo/Debian_12/Release.key | gpg --dearmor --yes -o /etc/apt/trusted.gpg.d/megasync.gpg
 apt-get update
 </preinstall>
