@@ -18,42 +18,41 @@ Waterfox G3
    <cs>alternative mozilla-based browser</cs>
    <da>Alternativ mozilla-baseret browser</da>
    <de>Alternativer Mozilla-basierter Browser</de>
-   <el>εναλλακτικό πρόγραμμα περιήγησης που βασίζεται σε mozilla</el>
+   <el>Εναλλακτικό πρόγραμμα περιήγησης που βασίζεται σε mozilla</el>
    <en>alternative mozilla-based browser</en>
    <es>Navegador alternativo basado en Mozilla</es>
    <et>alternative mozilla-based browser</et>
    <eu>alternative mozilla-based browser</eu>
    <fa>alternative mozilla-based browser</fa>
    <fil_PH>alternative mozilla-based browser</fil_PH>
-   <fi>alternative mozilla-based browser</fi>
+   <fi>vaihtoehtoinen Mozilla-pohjainen internet-selain</fi>
    <fr>Navigateur alternatif basé sur Mozilla</fr>
    <he_IL>alternative mozilla-based browser</he_IL>
-   <hi>alternative mozilla-based browser</hi>
+   <hi>मोज़िला-आधारित वैकल्पिक ब्राउज़र</hi>
    <hr>alternative mozilla-based browser</hr>
    <hu>alternative mozilla-based browser</hu>
    <id>alternative mozilla-based browser</id>
    <is>alternative mozilla-based browser</is>
-   <it>browser alternativo basato su mozilla</it>
-   <ja_JP>alternative mozilla-based browser</ja_JP>
-   <ja>alternative mozilla-based browser</ja>
+   <it>browser alternativo basato su mozilla </it>
+   <ja>Mozilla ベースの代替ブラウザ</ja>
    <kk>alternative mozilla-based browser</kk>
    <ko>alternative mozilla-based browser</ko>
    <lt>alternative mozilla-based browser</lt>
    <mk>alternative mozilla-based browser</mk>
    <mr>alternative mozilla-based browser</mr>
-   <nb>alternative mozilla-based browser</nb>
+   <nb>alternativ Mozilla-basert nettleser</nb>
    <nl>alternatieve op mozilla gebaseerde browser</nl>
    <pl>alternatywna przeglądarka oparta na Mozilli</pl>
-   <pt_BR>Navegador web alternativo baseado em código da Mozilla</pt_BR>
+   <pt_BR>Waterfox - Navegador de internet baseado no código do Mozilla</pt_BR>
    <pt>Navegador web alternativo baseado no firefox da Mozilla</pt>
    <ro>alternative mozilla-based browser</ro>
    <ru>Браузер основанный на Firefox (сохранена поддержка дополнений на XUL/XPCOM)</ru>
    <sk>alternative mozilla-based browser</sk>
    <sl>Alternativni brskalnik, ki temelji na Mozilli</sl>
-   <sq>alternative mozilla-based browser</sq>
+   <sq>shfletues alternativ bazuar në Mozilla</sq>
    <sr>alternative mozilla-based browser</sr>
    <sv>alternativ mozilla-baserad webbläsare</sv>
-   <tr>alternative mozilla-based browser</tr>
+   <tr>başka bir mozilla tabanlı tarayıcı</tr>
    <uk>alternative mozilla-based browser</uk>
    <vi>alternative mozilla-based browser</vi>
    <zh_CN>alternative mozilla-based browser</zh_CN>
