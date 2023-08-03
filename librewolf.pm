@@ -67,7 +67,7 @@ LibreWolf
 
 <preinstall>
 wget https://deb.librewolf.net/keyring.gpg -O /etc/apt/trusted.gpg.d/librewolf.gpg
-echo "deb [arch=amd64] http://deb.librewolf.net bullseye main">/etc/apt/sources.list.d/librewolf.list
+echo "deb [arch=amd64] http://deb.librewolf.net bookworm main">/etc/apt/sources.list.d/librewolf.list
 apt-get update
 </preinstall>
 
