@@ -34,7 +34,6 @@ OnlyOffice Desktop Editors
    <id>OnlyOffice Desktop Editors - a free software office suite</id>
    <is>OnlyOffice Desktop Editors - a free software office suite</is>
    <it>OnlyOffice Desktop Editors - a free software office suite</it>
-   <ja_JP>OnlyOffice Desktop Editors - a free software office suite</ja_JP>
    <ja>OnlyOffice Desktop Editors - a free software office suite</ja>
    <kk>OnlyOffice Desktop Editors - a free software office suite</kk>
    <ko>OnlyOffice Desktop Editors - a free software office suite</ko>
@@ -78,7 +77,7 @@ trap tidy_up EXIT
 #echo "Fetching release signature..."
 pushd $TMP >/dev/null
 # OnlyOffice long key-id:
-KEY="0x8320CA65CB2DE8E5"  # OnlyOffice signing long key-id
+KEY="CB2DE8E5"  # OnlyOffice signing long key-id
 
 popd >/dev/null
 echo "Fetching OnlyOffice release signing key 0x$KEY ..."
