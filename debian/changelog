@@ -1,4 +1,4 @@
-mx-packageinstaller-pkglist (23.08.03mx23) ; urgency=medium
+mx-packageinstaller-pkglist (23.08.03mx23) mx; urgency=medium
 
   * update megasync repo
 
