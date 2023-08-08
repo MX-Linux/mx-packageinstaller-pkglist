@@ -64,25 +64,28 @@ Debian 6.4 64 bit (AHS)
 <screenshot>none</screenshot>
 
 <preinstall>
-[ $(apt-get update --print-uris | grep -c -m1 -E "/mx/repo/dists/bookworm/ahs/") = 0 ] || exit 0
-MXREPO=$(apt-get update --print-uris | grep -m1 -oE "https?://.*/mx/repo/dists/bookworm/main" | tail -1 | sed "s:^:deb :; s:/repo/dists/:/repo/ :; s:/main: ahs:")
+if [ $(apt-get update --print-uris | grep -c -m1 -E "/mx/repo/dists/bookworm/ahs/") = 0 ]; then
+MXREPO=$(apt-get update --print-uris | grep -oE "https?://.*/mx/repo/dists/bookworm/main" | tail -1 | sed "s:^:deb :; s:/repo/dists/:/repo/ :; s:/main: ahs:")
 : ${MXREPO:=deb http://mxrepo.com/mx/repo/ bookworm ahs}
 echo "$MXREPO" > /etc/apt/sources.list.d/mxpitemp.list
-apt-get update 
+apt-get update
+fi
+DKMS_PKGS=($(dpkg-query -f '${db:Status-Abbrev}\t${Package}\n' -W  -- '*-dkms' | grep ^i | grep -- '-dkms$' | cut -d$'\t' -f2))
+apt-get install linux-image-6.4.0-1mx-ahs-amd64-unsigned linux-headers-6.4.0-1mx-ahs-amd64 ${DKMS_PKGS[*]}
 </preinstall>
 
 <install_package_names>
-linux-image-6.4.0-1mx-ahs-amd64-unsigned
-linux-headers-6.4.0-1mx-ahs-amd64
+
 </install_package_names>
 
 
 <postinstall>
+rebuild_dkms_packages.sh linux-image-6.4.0-1mx-ahs-amd64-unsigned
 if [ -f /etc/apt/sources.list.d/mxpitemp.list ]; then
 rm /etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 fi
-rebuild_dkms_packages.sh linux-image-6.4.0-1mx-ahs-amd64-unsigned
+echo "...$(gettext -d apt -s ' Done')!"
 </postinstall>
 
 
