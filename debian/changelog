@@ -1,6 +1,7 @@
 mx-packageinstaller-pkglist (23.07.03mx21) mx; urgency=medium
 
   * update ahs kernel
+  * 6.4 and 6.1
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 11 Aug 2023 23:32:04 -0400
 
