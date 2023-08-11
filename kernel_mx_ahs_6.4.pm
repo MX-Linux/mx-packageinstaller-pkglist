@@ -71,7 +71,7 @@ echo "$MXREPO" > /etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 fi
 DKMS_PKGS=($(dpkg-query -f '${db:Status-Abbrev}\t${Package}\n' -W  -- '*-dkms' | grep ^i | grep -- '-dkms$' | cut -d$'\t' -f2))
-apt-get install linux-image-6.4.0-2mx-ahs-amd64-unsigned linux-headers-6.4.0-1mx-ahs-amd64 ${DKMS_PKGS[*]}
+apt-get install linux-image-6.4.0-2mx-ahs-amd64-unsigned linux-headers-6.4.0-2mx-ahs-amd64 ${DKMS_PKGS[*]}
 </preinstall>
 
 <install_package_names>
