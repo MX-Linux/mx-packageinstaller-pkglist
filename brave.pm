@@ -76,8 +76,8 @@ case $(cat /etc/debian_version) in
 9*) VER=stretch  ;;
 10*) VER=buster   ;;
 11*) VER=bullseye ;;
-12*) VER=bookworm ;;
-*) VER=bullseye ;;
+12*) VER=stable ;;
+*) VER=stable ;;
 esac
 
 DEB="deb [arch=amd64] ${URL}/ $VER main"
