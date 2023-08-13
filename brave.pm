@@ -76,6 +76,7 @@ case $(cat /etc/debian_version) in
 9*) VER=stretch  ;;
 10*) VER=buster   ;;
 11*) VER=bullseye ;;
+12*) VER=bookworm ;;
 *) VER=bullseye ;;
 esac
 
