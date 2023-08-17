@@ -6,11 +6,11 @@ Kernels
 </category>
 
 <name>
-Liquorix 6.4.6-1 64 bit
+Liquorix 6.4.9-1 64 bit
 </name>
 
 <description>
-   Liquorix 6.4.6-1
+   Liquorix 6.4.9-1
 </description>
 
 <installable>
@@ -46,7 +46,7 @@ echo "...$(gettext -d apt -s ' Done')!"
 
 
 <uninstall_package_names>
-linux-image-6.4.6-1-liquorix-amd64
-linux-headers-6.4.6-1-liquorix-amd64
+linux-image-6.4.9-1-liquorix-amd64
+linux-headers-6.4.9-1-liquorix-amd64
 </uninstall_package_names>
 </app>
