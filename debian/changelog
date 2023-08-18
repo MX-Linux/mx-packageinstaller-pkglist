@@ -1,6 +1,7 @@
 mx-packageinstaller-pkglist (23.08.08mx23) mx; urgency=medium
 
   * update antix 4.9 entry, fix typo
+  * bump version on antiX 5.10 kernl
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 17 Aug 2023 22:00:03 -0400
 
