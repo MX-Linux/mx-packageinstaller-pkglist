@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.07.04mx21) mx; urgency=medium
+
+  * add liquorix kernel back
+  * update 6.4 kernels
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 22 Aug 2023 19:20:54 -0400
+
 mx-packageinstaller-pkglist (23.07.03mx21) mx; urgency=medium
 
   * update ahs kernel

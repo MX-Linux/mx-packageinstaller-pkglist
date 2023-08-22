@@ -75,8 +75,8 @@ apt-get update
 </preinstall>
 
 <install_package_names>
-linux-image-6.4.0-2mx-ahs-amd64-unsigned
-linux-headers-6.4.0-2mx-ahs-amd64
+linux-image-6.4.0-3mx-ahs-amd64-unsigned
+linux-headers-6.4.0-3mx-ahs-amd64
 </install_package_names>
 
 
@@ -85,12 +85,12 @@ if [ -f /etc/apt/sources.list.d/mxpitemp.list ]; then
 rm /etc/apt/sources.list.d/mxpitemp.list
 apt-get update
 fi
-rebuild_dkms_packages.sh linux-image-6.4.0-2mx-ahs-amd64-unsigned
+rebuild_dkms_packages.sh linux-image-6.4.0-3mx-ahs-amd64-unsigned
 </postinstall>
 
 
 <uninstall_package_names>
-linux-image-6.4.0-2mx-ahs-amd64-unsigned
-linux-headers-6.4.0-2mx-ahs-amd64
+linux-image-6.4.0-3mx-ahs-amd64-unsigned
+linux-headers-6.4.0-3mx-ahs-amd64
 </uninstall_package_names>
 </app>
