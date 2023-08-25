@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (21.08.16mx19) mx; urgency=medium
+
+  * update antiX kernels
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 25 Aug 2023 06:51:31 -0400
+
 mx-packageinstaller-pkglist (21.08.15mx19) mx; urgency=medium
 
   * install antix-archive-keyring if necessary
