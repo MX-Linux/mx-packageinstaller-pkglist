@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.08.11mx23) mx; urgency=medium
+
+  * update avidemux
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 30 Aug 2023 18:43:09 -0400
+
 mx-packageinstaller-pkglist (23.08.10mx23) mx; urgency=medium
 
   * update 6.4 kernels 
