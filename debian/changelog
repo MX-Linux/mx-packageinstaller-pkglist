@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.09.92mx23) mx; urgency=medium
+
+  * update ahs kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 07 Sep 2023 18:56:12 -0400
+
 mx-packageinstaller-pkglist (23.09.91mx23) mx; urgency=medium
 
   * remove lightspeed
