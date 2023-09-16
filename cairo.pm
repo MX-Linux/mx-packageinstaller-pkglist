@@ -124,7 +124,8 @@ cairo-dock-alsamixer-plug-in
 cairo-dock-animated-icons-plug-in
 cairo-dock-cairo-penguin-plug-in
 cairo-dock-clipper-plug-in
-cairo-dock-clock-plug-incairo-dock-core
+cairo-dock-clock-plug-in
+cairo-dock-core
 cairo-dock-dbus-plug-in
 cairo-dock-desklet-rendering-plug-in
 cairo-dock-dialog-rendering-plug-in
