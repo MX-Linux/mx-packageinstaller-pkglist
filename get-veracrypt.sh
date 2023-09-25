@@ -17,12 +17,12 @@ if [ ! "$?" = "0" ]; then
 fi
 
 #process text file to get version number 
-version=$(grep Debian-11 /tmp/veracrypt.txt | grep -v console| grep launchpad |cut -d"=" -f1 |cut -d"<" -f1 |cut -d">" -f1|tr -d [:space:])
+version=$(grep Debian-12 /tmp/veracrypt.txt | grep -v console| grep launchpad |cut -d"=" -f1 |cut -d"<" -f1 |cut -d">" -f1|tr -d [:space:])
 if [ -e "/tmp/veracrypt.txt" ]; then
 	rm /tmp/veracrypt.txt
 fi
 
-#get slack desktop deb
+#get vercrypt deb
 wget https://launchpadlibrarian.net/563962360/$version -O /tmp/veracrypt.deb
 if [ -e /tmp/veracrypt.deb ]; then
 	apt-get install /tmp/veracrypt.deb
