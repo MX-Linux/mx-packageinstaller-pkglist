@@ -23,7 +23,7 @@ if [ -e "/tmp/veracrypt.txt" ]; then
 fi
 
 #get vercrypt deb
-wget https://launchpadlibrarian.net/563962360/$version -O /tmp/veracrypt.deb
+wget https://launchpadlibrarian.net/674243941/$version -O /tmp/veracrypt.deb
 if [ -e /tmp/veracrypt.deb ]; then
 	apt-get install /tmp/veracrypt.deb
 	rm /tmp/veracrypt.deb
