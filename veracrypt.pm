@@ -20,7 +20,7 @@ all
 <screenshot></screenshot>
 
 <preinstall>
-/usr/share/mx-packageinstaller-pkglist/get_veracrypt.sh
+/usr/share/mx-packageinstaller-pkglist/get-veracrypt.sh
 </preinstall>
 
 <install_package_names>
