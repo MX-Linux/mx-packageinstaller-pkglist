@@ -16,8 +16,10 @@ if [ ! "$?" = "0" ]; then
 	exit 1
 fi
 
+arch=$(dpkg --print-architecture)
+
 #process text file to get version number 
-version=$(grep Debian-12 /tmp/veracrypt.txt | grep -v console| grep launchpad |cut -d"=" -f1 |cut -d"<" -f1 |cut -d">" -f1 |grep amd64|awk '{print $1}')
+version=$(grep Debian-12 /tmp/veracrypt.txt | grep -v console| grep launchpad |cut -d"=" -f1 |cut -d"<" -f1 |cut -d">" -f1 |grep "$arch"|awk '{print $1}')
 if [ -e "/tmp/veracrypt.txt" ]; then
 	rm /tmp/veracrypt.txt
 fi
