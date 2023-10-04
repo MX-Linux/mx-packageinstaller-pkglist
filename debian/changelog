@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.10.01mx23) mx; urgency=medium
+
+  * kernel updates
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 03 Oct 2023 20:28:36 -0400
+
 mx-packageinstaller-pkglist (23.09.95mx23) mx; urgency=medium
 
   * update veracrypt
