@@ -76,7 +76,7 @@ apt-get update
 
 <install_package_names>
 linux-image-6.5.0-1mx-ahs-amd64-unsigned
-linux-headers-6.5.0-1mxx-ahs-amd64
+linux-headers-6.5.0-1mx-ahs-amd64
 </install_package_names>
 
 
