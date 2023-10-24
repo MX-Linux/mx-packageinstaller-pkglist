@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.10.06mx23) mx; urgency=medium
+
+  * correct abi on ahs 6.5 kernel 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 23 Oct 2023 20:19:18 -0400
+
 mx-packageinstaller-pkglist (23.10.05mx23) mx; urgency=medium
 
   * update deb tools entry
