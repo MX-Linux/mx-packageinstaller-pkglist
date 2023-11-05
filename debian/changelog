@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.11.01mx23) mx; urgency=medium
+
+  * update liquorix 6.5 kernel 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 04 Nov 2023 20:02:46 -0400
+
 mx-packageinstaller-pkglist (23.10.07mx23) mx; urgency=medium
 
   * correct label on 6.5 ahs kernel
