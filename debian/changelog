@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.11.02mx23) mx; urgency=medium
+
+  * update kernels
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 08 Nov 2023 18:51:04 -0500
+
 mx-packageinstaller-pkglist (23.11.01mx23) mx; urgency=medium
 
   * update liquorix 6.5 kernel 
