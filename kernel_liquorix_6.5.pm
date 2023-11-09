@@ -6,11 +6,11 @@ Kernels
 </category>
 
 <name>
-Liquorix 6.5.9-2 64 bit
+Liquorix 6.5.10-1 64 bit
 </name>
 
 <description>
-   Liquorix 6.5.9-2
+   Liquorix 6.5.10-1
 </description>
 
 <installable>
