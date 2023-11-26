@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.11.05mx23) mx; urgency=medium
+
+  * misc. arch adjustments
+  * add 6.6 liquorix kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 26 Nov 2023 16:13:23 -0500
+
 mx-packageinstaller-pkglist (23.11.04mx23) mx; urgency=medium
 
   * remove adapta theme entries (no longer available)
