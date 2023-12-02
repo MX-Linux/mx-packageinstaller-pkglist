@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.11.07mx23) mx; urgency=medium
+
+  * update liquorix (6.6) and ahs (6.5) kernels 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 02 Dec 2023 09:23:41 -0500
+
 mx-packageinstaller-pkglist (23.11.06mx23) mx; urgency=medium
 
   * change arm64 pm installble tag to armsixtyfour (kodi-arm64)
