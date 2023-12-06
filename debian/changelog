@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.12.01mx23) mx; urgency=medium
+
+  * correct liquorix 6.6 typos
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 05 Dec 2023 19:11:18 -0500
+
 mx-packageinstaller-pkglist (23.11.07mx23) mx; urgency=medium
 
   * update liquorix (6.6) and ahs (6.5) kernels 
