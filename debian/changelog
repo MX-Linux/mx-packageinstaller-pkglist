@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.12.03mx23) UNRELEASED; urgency=medium
+
+  * add rpi chromium-browser
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 07 Dec 2023 18:31:11 -0500
+
 mx-packageinstaller-pkglist (23.12.02mx23) mx; urgency=medium
 
   * update get_veracrypt
