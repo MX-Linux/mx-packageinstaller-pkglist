@@ -23,7 +23,7 @@ if [ -e "/tmp/veracrypt.txt" ]; then
 fi
 
 #get slack desktop deb
-wget https://launchpadlibrarian.net/563962360/$version -O /tmp/veracrypt.deb
+wget https://launchpad.net/veracrypt/trunk/1.26.7/+download/$version -O /tmp/veracrypt.deb
 if [ -e /tmp/veracrypt.deb ]; then
 	apt-get install /tmp/veracrypt.deb
 	rm /tmp/veracrypt.deb
