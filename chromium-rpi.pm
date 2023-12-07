@@ -6,7 +6,7 @@ Browser
 </category>
 
 <name>
-Chromium
+Chromium (rpi)
 </name>
 
 <description>
@@ -60,7 +60,7 @@ Chromium
 </description>
 
 <installable>
-32,64
+armsixtyfour
 </installable>
 
 <screenshot>https://screenshots.debian.net/screenshots/000/015/269/large.png</screenshot>
@@ -70,9 +70,7 @@ Chromium
 </preinstall>
 
 <install_package_names>
-chromium
-chromium-l10n
-chromium-sandbox
+chromium-browser
 </install_package_names>
 
 
@@ -82,8 +80,6 @@ chromium-sandbox
 
 
 <uninstall_package_names>
-chromium
-chromium-l10n
-chromium-sandbox
+chromium-browser
 </uninstall_package_names>
 </app>
