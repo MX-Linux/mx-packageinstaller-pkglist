@@ -1,6 +1,7 @@
-mx-packageinstaller-pkglist (23.12.03mx23) UNRELEASED; urgency=medium
+mx-packageinstaller-pkglist (23.12.03mx23) mx; urgency=medium
 
   * add rpi chromium-browser
+  * category changes for apparmour and keepasx
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 07 Dec 2023 18:31:11 -0500
 
