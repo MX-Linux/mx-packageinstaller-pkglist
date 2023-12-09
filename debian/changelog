@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (23.12.04mx23) mx; urgency=medium
+
+  * update liquorix kernel
+  * add liqourix kernel metapackage
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 09 Dec 2023 00:26:47 -0500
+
 mx-packageinstaller-pkglist (23.12.03mx23) mx; urgency=medium
 
   * add rpi chromium-browser
