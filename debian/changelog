@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.12.06mx23) mx; urgency=medium
+
+  * update gimp full remove gimp-dds as uninstallable
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 14 Dec 2023 08:05:08 -0500
+
 mx-packageinstaller-pkglist (23.12.05mx23+1) mx; urgency=medium
 
   * remove parathenticals from machine translation of liqourix metpackage entry
