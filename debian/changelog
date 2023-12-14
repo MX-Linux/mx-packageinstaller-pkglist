@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.12.05mx23+1) mx; urgency=medium
+
+  * remove parathenticals from machine translation of liqourix metpackage entry
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 13 Dec 2023 23:52:53 -0500
+
 mx-packageinstaller-pkglist (23.12.05mx23) mx; urgency=medium
 
   * update liqourix kernels
