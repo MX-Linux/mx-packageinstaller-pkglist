@@ -1,6 +1,6 @@
-mx-packageinstaller-pkglist (24.01.7mx23) mx; urgency=medium
+mx-packageinstaller-pkglist (24.02.1mx23) mx; urgency=medium
 
-  * Change name fotoxx -> fotocx
+  * Change name fotoxx -> fotocx 
 
  -- Adrian <adrian@mxlinux.org>  Sun, 04 Feb 2024 22:25:30 -0500
 
