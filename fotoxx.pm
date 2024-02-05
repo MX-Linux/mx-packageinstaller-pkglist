@@ -6,7 +6,7 @@ Graphics
 </category>
 
 <name>
-fotoxx
+fotocx
 </name>
 
 <description>
@@ -24,7 +24,7 @@ all
 </preinstall>
 
 <install_package_names>
-fotoxx
+fotocx
 </install_package_names>
 
 
@@ -34,6 +34,6 @@ fotoxx
 
 
 <uninstall_package_names>
-fotoxx
+fotocx
 </uninstall_package_names>
 </app>
