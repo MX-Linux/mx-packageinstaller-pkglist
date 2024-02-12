@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (24.02.4mx23) mx; urgency=medium
+
+  * add arm64 xfce entry
+  * update deb_packaging_tools to include binfmt-support
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 11 Feb 2024 22:40:53 -0500
+
 mx-packageinstaller-pkglist (24.02.3mx23) mx; urgency=medium
 
   * kernel updates
