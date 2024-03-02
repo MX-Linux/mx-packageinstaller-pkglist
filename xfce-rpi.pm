@@ -14,7 +14,7 @@ Xfce (MX Linux)
 </description>
 
 <installable>
-arm64
+armsixtyfour
 </installable>
 
 <screenshot></screenshot>
