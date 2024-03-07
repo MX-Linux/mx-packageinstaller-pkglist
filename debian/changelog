@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (24.03.1mx23) mx; urgency=medium
+
+  * liquorix kernel 6.7.8-1
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 06 Mar 2024 20:06:25 -0500
+
 mx-packageinstaller-pkglist (24.02.7mx23) mx; urgency=medium
 
   * correct arch tag on xfce-rpi
