@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.07.17x21) mx; urgency=medium
+
+  * update spotify public key
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 24 Mar 2024 19:57:19 -0400
+
 mx-packageinstaller-pkglist (23.07.16x21) mx; urgency=medium
 
   * add mx14 artwork
