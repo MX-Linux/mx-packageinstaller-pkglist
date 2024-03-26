@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (24.03.07mx23) mx; urgency=medium
+
+  * update liquorix kernel to 6.7.10-3
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 25 Mar 2024 21:28:19 -0400
+
 mx-packageinstaller-pkglist (24.03.06mx23) mx; urgency=medium
 
   * update spotify public key
