@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (24.04.02mx23) mx; urgency=medium
+
+  * make xfce entries match official installes
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 13 Apr 2024 12:03:28 -0400
+
 mx-packageinstaller-pkglist (24.04.01mx23) mx; urgency=medium
 
   * update liquorix 6.7.12-1
