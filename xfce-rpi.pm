@@ -14,7 +14,7 @@ Xfce (MX Linux)
 </description>
 
 <installable>
-64,32
+armsixtyfour
 </installable>
 
 <screenshot></screenshot>
@@ -24,7 +24,7 @@ Xfce (MX Linux)
 </preinstall>
 
 <install_package_names>
-desktop-defaults-mx-xfce-desktop
+desktop-defaults-mx-xfce-desktop-rpi
 desktop-defaults-mx-xfce-system
 mx23-artwork
 xfce-superkey-mx
@@ -83,7 +83,7 @@ mx-comfort-themes
 </postinstall>
 
 <uninstall_package_names>
-desktop-defaults-mx-xfce-desktop
+desktop-defaults-mx-xfce-desktop-rpi
 desktop-defaults-mx-xfce-system
 xfce-superkey-mx
 xfce4-appfinder
