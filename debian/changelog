@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (24.05.02mx24) mx; urgency=medium
+
+  * add hyphenation-patterns and mythes-thesaurus (synonym dictionary)
+    to libreoffice language-pack installer
+
+ -- fehlix <fehlix@mxlinux.org>  Thu, 09 May 2024 16:09:58 -0400
+
 mx-packageinstaller-pkglist (24.05.01mx24) mx; urgency=medium
 
   * add liquorix 6.8 kernel
