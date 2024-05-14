@@ -68,7 +68,6 @@ Brave
 
 <preinstall>
 URL="https://brave-browser-apt-release.s3.brave.com"
-ASC="${URL}/brave-core.asc"
 TKR="/etc/apt/trusted.gpg.d/brave-browser-release.gpg"
 SRC="/etc/apt/sources.list.d/brave-browser-release.list"
 VER="$(sed -n  's/^VERSION_CODENAME=//p' /etc/os-release)"
@@ -82,7 +81,8 @@ esac
 
 DEB="deb [arch=amd64] ${URL}/ $VER main"
 
-curl -s $ASC | ( apt-key --keyring $TKR add - 2>/dev/null )
+curl -fsSLo $TKR https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+
 echo "$DEB" | tee $SRC
 apt-get update
 
