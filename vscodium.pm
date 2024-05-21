@@ -75,7 +75,6 @@ apt-get update
 <install_package_names>
 apt-transport-https
 codium
-codium-insiders
 </install_package_names>
 
 
@@ -86,7 +85,6 @@ codium-insiders
 
 <uninstall_package_names>
 codium
-codium-insiders
 </uninstall_package_names>
 
 <postuninstall>
