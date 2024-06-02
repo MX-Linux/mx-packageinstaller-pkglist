@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (24.06.01mx23) mx; urgency=medium
+
+  * remove skype (no longer available from MS as deb)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 01 Jun 2024 21:20:24 -0400
+
 mx-packageinstaller-pkglist (24.05.07mx23) mx; urgency=medium
 
   * update liquorix 6.8 kernel
