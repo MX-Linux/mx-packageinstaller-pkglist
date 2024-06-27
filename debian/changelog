@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (24.06.07mx23) mx; urgency=medium
+
+  * update liquorix 6.9 kernel
+  * add freeoffice2024 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 27 Jun 2024 17:53:12 -0400
+
 mx-packageinstaller-pkglist (24.06.06mx23) mx; urgency=medium
 
   * remove legacy w64/w32 codecs
