@@ -1,8 +1,9 @@
-mx-packageinstaller-pkglist (24.07.04mx23) UNRELEASED; urgency=medium
+mx-packageinstaller-pkglist (24.07.04mx23) mx; urgency=medium
 
   * update google chrome key management
+  * update liquorix 6.9.10 kernel
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 13 Jul 2024 10:01:46 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 23 Jul 2024 18:36:38 -0400
 
 mx-packageinstaller-pkglist (24.07.03mx23) mx; urgency=medium
 
