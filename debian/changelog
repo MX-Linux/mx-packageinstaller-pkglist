@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (24.07.05mx23) mx; urgency=medium
+
+  * update liquorix 6.9.11 kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 25 Jul 2024 19:11:01 -0400
+
 mx-packageinstaller-pkglist (24.07.04mx23) mx; urgency=medium
 
   * update google chrome key management
