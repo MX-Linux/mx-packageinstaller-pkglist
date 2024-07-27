@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (24.07.06mx23) UNRELEASED; urgency=medium
+
+  * add debian ahs kernels 6.8, 6.9
+  * update debian ahs kernel 6.6.15
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 27 Jul 2024 16:31:18 -0400
+
 mx-packageinstaller-pkglist (24.07.05mx23) mx; urgency=medium
 
   * update liquorix 6.9.11 kernel
