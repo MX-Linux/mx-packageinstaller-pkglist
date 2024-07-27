@@ -1,4 +1,4 @@
-mx-packageinstaller-pkglist (24.07.06mx23) UNRELEASED; urgency=medium
+mx-packageinstaller-pkglist (24.07.06mx23) mx; urgency=medium
 
   * add debian ahs kernels 6.8, 6.9
   * update debian ahs kernel 6.6.15
