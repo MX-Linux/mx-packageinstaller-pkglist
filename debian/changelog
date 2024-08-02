@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (24.08.01mx23) mx; urgency=medium
+
+  * update 6.9 kernels (liquorix and debian)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 02 Aug 2024 18:45:59 -0400
+
 mx-packageinstaller-pkglist (24.07.06mx23) mx; urgency=medium
 
   * add debian ahs kernels 6.8, 6.9
