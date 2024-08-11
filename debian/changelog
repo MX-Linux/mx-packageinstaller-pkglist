@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (24.08.03mx23) mx; urgency=medium
+
+  * update slack download url
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 11 Aug 2024 15:15:30 -0400
+
 mx-packageinstaller-pkglist (24.08.02mx23) mx; urgency=medium
 
   * liquorix kernel 6.9.12-2
