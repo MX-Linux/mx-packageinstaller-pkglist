@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (24.08.04mx23) mx; urgency=medium
+
+  * update brave repo
+  * update add 6.10 kernels
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 22 Aug 2024 20:06:19 -0400
+
 mx-packageinstaller-pkglist (24.08.03mx23) mx; urgency=medium
 
   * update slack download url
