@@ -59,20 +59,18 @@ Kapow
 </description>
 
 <installable>
-64
+64,32
 </installable>
 
 <screenshot></screenshot>
 
 <preinstall>
-wget https://download.opensuse.org/repositories/home:/gottcode/Debian_12/amd64/ -O /tmp/gottcode.txt; FRED=$(grep kapow /tmp/gottcode.txt |cut -d\/ -f2 |cut -d\" -f1 |grep -v mirror |grep -v dbgsym); echo $FRED; rm /tmp/gottcode.txt
-wget https://download.opensuse.org/repositories/home:/gottcode/Debian_12/amd64/$FRED -O /tmp/$FRED
-apt install /tmp/$FRED
+
 
 </preinstall>
 
 <install_package_names>
-
+kapow
 </install_package_names>
 
 
