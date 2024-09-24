@@ -1,6 +1,7 @@
 mx-packageinstaller-pkglist (24.09.06mx23) mx; urgency=medium
 
   * update liquorix 6.10 kernel
+  * add rustdesk
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 23 Sep 2024 19:45:02 -0400
 
