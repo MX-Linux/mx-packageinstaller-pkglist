@@ -66,15 +66,15 @@ LibreWolf
 <screenshot></screenshot>
 
 <preinstall>
-rm -f \
-  /etc/apt/sources.list.d/librewolf.sources \
-  /etc/apt/keyrings/librewolf.gpg \
-  /etc/apt/preferences.d/librewolf.pref \
-  /etc/apt/sources.list.d/librewolf.list \
-  /etc/apt/trusted.gpg.d/librewolf.gpg
-apt update && apt install extrepo -y
+rm -f /etc/apt/sources.list.d/librewolf.sources
+rm -f /etc/apt/keyrings/librewolf.gpg
+rm -f /etc/apt/preferences.d/librewolf.pref
+rm -f /etc/apt/sources.list.d/librewolf.list
+rm -f /etc/apt/trusted.gpg.d/librewolf.gpg
+apt-get update
+apt-get install extrepo -y
 extrepo enable librewolf
-apt update
+apt-get update
 
 </preinstall>
 
