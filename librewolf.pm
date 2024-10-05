@@ -34,7 +34,6 @@ LibreWolf
    <id>Latest LibreWolf browser (stable)</id>
    <is>Latest LibreWolf browser (stable)</is>
    <it>Ultima versione (stabile) del browser LibreWolf</it>
-   <ja_JP>Latest LibreWolf browser (stable)</ja_JP>
    <ja>Latest LibreWolf browser (stable)</ja>
    <kk>Latest LibreWolf browser (stable)</kk>
    <ko>Latest LibreWolf browser (stable)</ko>
@@ -67,9 +66,16 @@ LibreWolf
 <screenshot></screenshot>
 
 <preinstall>
-wget https://deb.librewolf.net/keyring.gpg -O /etc/apt/trusted.gpg.d/librewolf.gpg
-echo "deb [arch=amd64] http://deb.librewolf.net bullseye main">/etc/apt/sources.list.d/librewolf.list
-apt-get update
+rm -f \
+  /etc/apt/sources.list.d/librewolf.sources \
+  /etc/apt/keyrings/librewolf.gpg \
+  /etc/apt/preferences.d/librewolf.pref \
+  /etc/apt/sources.list.d/librewolf.list \
+  /etc/apt/trusted.gpg.d/librewolf.gpg
+apt update && apt install extrepo -y
+extrepo enable librewolf
+apt update
+
 </preinstall>
 
 <install_package_names>
@@ -109,8 +115,7 @@ librewolf
 if [ -f /usr/share/xfce4/helpers/librewolf.desktop ]; then
 rm /usr/share/xfce4/helpers/librewolf.desktop
 fi
-rm /etc/apt/sources.list.d/librewolf.list
-rm /etc/apt/trusted.gpg.d/librewolf.gpg
+extrepo disable librewolf
 apt-get update
 </postuninstall>
 </app>
