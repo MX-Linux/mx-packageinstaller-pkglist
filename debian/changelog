@@ -1,6 +1,7 @@
 mx-packageinstaller-pkglist (24.10.06mx23) mx; urgency=medium
 
   * update debian 6.11.4-2 kernel 
+  * add sddm-modified-init to kde standard routine
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 25 Oct 2024 18:20:09 -0400
 
