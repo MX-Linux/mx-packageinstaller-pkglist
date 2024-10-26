@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (24.10.07mx23) mx; urgency=medium
+
+  * update liquorix 6.11
+  * update mate install/remove routine
+  * update budgie install/remove routine
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 26 Oct 2024 15:43:02 -0400
+
 mx-packageinstaller-pkglist (24.10.06mx23) mx; urgency=medium
 
   * update debian 6.11.4-2 kernel 
