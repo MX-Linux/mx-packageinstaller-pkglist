@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (24.11.02mx23) mx; urgency=medium
+
+  * update liquorix 6.11.6
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 05 Nov 2024 18:06:47 -0500
+
 mx-packageinstaller-pkglist (24.11.01mx23) mx; urgency=medium
 
   * update debian 6.11 kernel (btusb bugfix)
