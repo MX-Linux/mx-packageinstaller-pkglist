@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (24.11.05mx23) mx; urgency=medium
+
+  * 6.11.8 liquorix kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 15 Nov 2024 18:47:04 -0500
+
 mx-packageinstaller-pkglist (24.11.04mx23) mx; urgency=medium
 
   * debian 6.11.7 kernel
