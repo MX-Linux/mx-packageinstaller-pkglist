@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (24.12.01mx23) mx; urgency=medium
+
+  * antiX 6.1 kernel
+  * debian (ahs) 6.12 kernel 
+  * liquorix 6.12 kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 21 Dec 2024 14:37:45 -0500
+
 mx-packageinstaller-pkglist (24.11.08mx23) mx; urgency=medium
 
   * liquorix 6.11.10
