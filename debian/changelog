@@ -1,6 +1,8 @@
 mx-packageinstaller-pkglist (24.12.01mx23) mx; urgency=medium
-
+  
+  [GFNIAE]
   * antiX 6.1 kernel
+  [dolphin oracle[
   * debian (ahs) 6.12 kernel 
   * liquorix 6.12 kernel
 
