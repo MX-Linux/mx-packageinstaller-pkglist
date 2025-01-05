@@ -6,7 +6,7 @@ Language
 </category>
 
 <name>
-Portugese(BR)_Firefox
+Portuguese(BR)_Firefox
 </name>
 
 <description>
@@ -41,7 +41,7 @@ Portugese(BR)_Firefox
    <mk>Portuguese(BR) localisation of Firefox</mk>
    <mr>Portuguese(BR) localisation of Firefox</mr>
    <nb>Brasiliansk portugisisk lokaltilpassing av Firefox</nb>
-   <nl>Portugese(BR) lokalisatie van Firefox</nl>
+   <nl>Portuguese(BR) lokalisatie van Firefox</nl>
    <pl>Portugalska (BR) lokalizacja przeglądarki Firefox</pl>
    <pt_BR>Português (BR) Localização para o Firefox</pt_BR>
    <pt>Português(BR) Localização para Firefox</pt>

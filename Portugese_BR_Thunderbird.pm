@@ -6,7 +6,7 @@ Language
 </category>
 
 <name>
-Portugese(BR)_Thunderbird
+Portuguese(BR)_Thunderbird
 </name>
 
 <description>
@@ -41,7 +41,7 @@ Portugese(BR)_Thunderbird
    <mk>Portuguese(BR) localisation of Thunderbird</mk>
    <mr>Portuguese(BR) localisation of Thunderbird</mr>
    <nb>Brasiliansk portugisisk lokaltilpassing av Thunderbird</nb>
-   <nl>Portugese(BR) lokalisatie van Thunderbird</nl>
+   <nl>Portuguese(BR) lokalisatie van Thunderbird</nl>
    <pl>Portugalska (BR) lokalizacja Thunderbirda</pl>
    <pt_BR>Português (BR) Localização para o Thunderbird</pt_BR>
    <pt>Português(BR) Localização para Thunderbird</pt>
