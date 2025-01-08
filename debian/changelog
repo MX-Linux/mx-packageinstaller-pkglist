@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.07.29x21) mx; urgency=medium
+
+  * update gimp-full so install completes
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 07 Jan 2025 19:46:36 -0500
+
 mx-packageinstaller-pkglist (23.07.28x21) mx; urgency=medium
 
   * update nordvpn keyring download locatoin
