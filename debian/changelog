@@ -1,8 +1,9 @@
 mx-packageinstaller-pkglist (25.02.04mx23) mx; urgency=medium
 
-  * update liquorix 6.12.15 kernel
+  * update liquorix 6.12.16 kernel
+  * update debian 6.12.16 kernel
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 21 Feb 2025 20:10:12 -0500
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 25 Feb 2025 19:51:49 -0500
 
 mx-packageinstaller-pkglist (25.02.03mx23) mx; urgency=medium
 
