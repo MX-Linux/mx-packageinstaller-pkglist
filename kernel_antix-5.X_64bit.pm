@@ -73,20 +73,20 @@ apt-get update
 </preinstall>
 
 <install_package_names>
-linux-image-5.10.234-antix.2-amd64-smp
-linux-headers-5.10.234-antix.2-amd64-smp
+linux-image-5.10.234-antix.1-amd64-smp
+linux-headers-5.10.234-antix.1-amd64-smp
 </install_package_names>
 
 
 <postinstall>
 rm /etc/apt/sources.list.d/mxpitemp.list
 apt-get update
-rebuild_dkms_packages.sh linux-image-5.10.234-antix.2-amd64-smp
+rebuild_dkms_packages.sh linux-image-5.10.234-antix.1-amd64-smp
 </postinstall>
 
 
 <uninstall_package_names>
-linux-image-5.10.234-antix.2-amd64-smp
-linux-headers-5.10.234-antix.2-amd64-smp
+linux-image-5.10.234-antix.1-amd64-smp
+linux-headers-5.10.234-antix.1-amd64-smp
 </uninstall_package_names>
 </app>
