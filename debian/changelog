@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (25.05.04mx25) mx; urgency=medium
+
+  * liquorix 6.14.8
+  * debian 6.12.29
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 27 May 2025 20:05:54 -0400
+
 mx-packageinstaller-pkglist (25.05.03mx25) mx; urgency=medium
 
   * liquorix 6.14.6
