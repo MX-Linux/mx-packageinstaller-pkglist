@@ -69,7 +69,7 @@ apt install /tmp/slimjet_amd64.deb
 </preinstall>
 
 <install_package_names>
-slimjet
+
 </install_package_names>
 
 
