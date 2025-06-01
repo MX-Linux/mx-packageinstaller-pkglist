@@ -6,7 +6,7 @@ Desktop Environments
 </category>
 
 <name>
-KDE5 Standard
+KDE6 Standard
 </name>
 
 <description>

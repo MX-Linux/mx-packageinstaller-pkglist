@@ -65,25 +65,20 @@ libdvdcss
 <screenshot></screenshot>
 
 <preinstall>
-ARCH=$(dpkg --print-architecture)
-SITE="https://www.deb-multimedia.org/"
-TARGET=$(curl -s  https://www.deb-multimedia.org/dists/stable/main/binary-${ARCH}/package/libdvdcss2 |grep Filename |cut -d":" -f2 |cut -d" " -f2)
-TARGET="${TARGET%deb*}deb"
-wget $SITE${TARGET} -O /tmp/libdvdcss2.deb
-apt-get install /tmp/libdvdcss2.deb
+
 </preinstall>
 
 <install_package_names>
-
+libdvd-pkg
 </install_package_names>
 
 
 <postinstall>
-rm /tmp/libdvdcss2.deb
+sudo dpkg-reconfigure libdvd-pkg
 </postinstall>
 
 
 <uninstall_package_names>
-libdvdcss2
+libdvd-pkg
 </uninstall_package_names>
 </app>
