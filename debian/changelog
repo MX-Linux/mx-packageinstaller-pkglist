@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (25.06.01mx25) mx; urgency=medium
+
+  * update kde
+  * remove kernels
+  * remove xmms
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 01 Jun 2025 17:16:20 -0400
+
 mx-packageinstaller-pkglist (25.05.05mx23) mx; urgency=medium
 
   * add slimjet 
