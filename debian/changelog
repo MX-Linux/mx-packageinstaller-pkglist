@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (25.06.01mx23) mx; urgency=medium
+
+  * update liquorix 6.14.9 kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 06 Jun 2025 20:16:11 -0400
+
 mx-packageinstaller-pkglist (25.05.05mx23) mx; urgency=medium
 
   * add slimjet 
