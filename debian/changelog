@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (25.06.06mx23) mx; urgency=medium
+
+  * further URIs capitalization fix for extrepo
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 15 Jun 2025 18:40:09 -0400
+
 mx-packageinstaller-pkglist (25.06.05mx23) mx; urgency=medium
 
   * fix URIs capitalization for extrepo sources entry
