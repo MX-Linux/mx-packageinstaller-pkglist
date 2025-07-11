@@ -6,7 +6,7 @@ Development
 </category>
 
 <name>
-QT5 Documention
+QT6 Documention
 </name>
 
 <description>
@@ -71,7 +71,8 @@ all
 
 <install_package_names>
 qtcreator-doc
-qt5-doc
+qt6-base-doc
+qt6-tools-doc
 </install_package_names>
 
 
@@ -81,7 +82,8 @@ qt5-doc
 
 
 <uninstall_package_names>
-qt5-doc
+qt6-base-doc
+qt6-tools-doc
 qtcreator-doc
 </uninstall_package_names>
 </app>
