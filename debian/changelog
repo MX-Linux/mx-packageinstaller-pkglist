@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (25.07.04mx23) mx; urgency=medium
+
+  * 6.12.38 kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 17 Jul 2025 18:36:03 -0400
+
 mx-packageinstaller-pkglist (25.07.03mx23) mx; urgency=medium
 
   * update 6.12.35 kernel
