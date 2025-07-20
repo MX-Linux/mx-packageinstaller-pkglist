@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (25.07.05mx23) mx; urgency=medium
+
+  * remove 6.12.38 kernel
+  * replace with 6.12.35 kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 19 Jul 2025 22:15:44 -0400
+
 mx-packageinstaller-pkglist (25.07.04mx23) mx; urgency=medium
 
   * 6.12.38 kernel
