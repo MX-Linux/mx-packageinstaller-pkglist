@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (25.08.01mx23) mx; urgency=medium
+
+  * update spotify repo key
+  * remove mpd (uninstallable on non-systemd)
+  * fix teamviewer repo setup
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 03 Aug 2025 22:48:09 -0400
+
 mx-packageinstaller-pkglist (25.07.05mx23) mx; urgency=medium
 
   * remove 6.12.38 kernel
