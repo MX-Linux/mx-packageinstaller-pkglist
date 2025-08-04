@@ -1,3 +1,23 @@
+mx-packageinstaller-pkglist (25.08.01mx25) mx; urgency=medium
+
+  * general update for mx25
+  * archive xnview (not currently installable)
+  * update krita
+  * add mx23 artwork
+  * remove smtube
+  * update java
+  * archive libtxc
+  * update gftp, text only
+  * remove scratch, not in repo
+  * update kmail for kde6
+  * teamviewer repo setup fix
+  * update PT_BR
+  * update gimp_full missing plugins
+  * remove mpd (uninstallable on non-systemd)
+  * update spotify repo key
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 03 Aug 2025 22:44:51 -0400
+
 mx-packageinstaller-pkglist (25.07.03mx25) mx; urgency=medium
 
   [ Adrian ]
