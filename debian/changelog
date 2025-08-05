@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (25.08.02mx25) UNRELEASED; urgency=medium
+
+  * update vivali keyring routine
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 05 Aug 2025 19:41:31 -0400
+
 mx-packageinstaller-pkglist (25.08.01mx25) mx; urgency=medium
 
   * general update for mx25
