@@ -4,6 +4,7 @@ mx-packageinstaller-pkglist (25.08.02mx28) mx; urgency=medium
   * archive sunflower, obisidian-gtk-theme, materia themes
   * archive rox-filer
   * archive xmms (missing depends) 
+  * pull ssh-conduit from mx repo
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 05 Aug 2025 20:08:29 -0400
 
