@@ -1,10 +1,11 @@
-mx-packageinstaller-pkglist (25.08.02mx27) UNRELEASED; urgency=medium
+mx-packageinstaller-pkglist (25.08.02mx28) mx; urgency=medium
 
   * update vivali keyring routine
   * archive sunflower, obisidian-gtk-theme, materia themes
   * archive rox-filer
+  * archive xmms (missing depends) 
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 05 Aug 2025 19:45:49 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 05 Aug 2025 20:08:29 -0400
 
 mx-packageinstaller-pkglist (25.08.01mx25) mx; urgency=medium
 
