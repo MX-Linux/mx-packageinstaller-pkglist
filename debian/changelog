@@ -1,8 +1,10 @@
 mx-packageinstaller-pkglist (25.08.05mx25) mx; urgency=medium
 
-  * update kde_standard 
+  * remove roxterm from mx-fluxbox
+  * add konsole to kde_standard
+  * general kde_standard revisions
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 17 Aug 2025 13:22:10 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 17 Aug 2025 16:40:20 -0400
 
 mx-packageinstaller-pkglist (25.08.02mx28) mx; urgency=medium
 
