@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (25.08.05mx25) mx; urgency=medium
+
+  * update kde_standard 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 17 Aug 2025 13:22:10 -0400
+
 mx-packageinstaller-pkglist (25.08.02mx28) mx; urgency=medium
 
   * update vivali keyring routine

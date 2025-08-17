@@ -86,7 +86,7 @@ kamera
 kaccounts-providers
 kactivitymanagerd
 kactivities-bin
-kaywind-wayland
+kwin-wayland
 kalendarac
 kde-cli-tools
 kde-cli-tools-data
@@ -122,9 +122,7 @@ libkf6dbusaddons-bin
 libkf6guiaddons-bin
 libkf6iconthemes-bin
 libkf6kcmutils-bin
-libkgantt2-l10n
 libpam-kwallet5
-libqca-qt-plugins
 libqt6multimedia6
 mbox-importer
 media-player-info
@@ -186,7 +184,7 @@ kamera
 kactivitymanagerd
 kaccounts-providers
 kactivities-bin
-kaywind-wayland
+kwin-wayland
 kalendarac
 kde-cli-tools
 kde-cli-tools-data
@@ -222,9 +220,7 @@ libkf6dbusaddons-bin
 libkf6guiaddons-bin
 libkf6iconthemes-bin
 libkf6kcmutils-bin
-libkgantt2-l10n
 libpam-kwallet5
-libqca-qt-plugins
 libqt6multimedia6
 mbox-importer
 media-player-info
