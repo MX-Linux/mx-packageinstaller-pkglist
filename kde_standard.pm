@@ -110,6 +110,7 @@ kio-extras
 kio-extras-data
 kmenuedit
 konq-plugins
+konsole
 kpackagelauncherqml
 kscreen
 ksshaskpass
@@ -208,6 +209,7 @@ kio-extras
 kio-extras-data
 kmenuedit
 konq-plugins
+konsole
 kpackagelauncherqml
 kscreen
 ksystemstats
