@@ -28,6 +28,7 @@ catfish
 desktop-defaults-mx-xfce
 desktop-defaults-mx-xfce-desktop
 desktop-defaults-mx-xfce-system
+policykit-1-gnome
 mx25-artwork
 xfce-superkey-mx
 xfce4-appfinder
