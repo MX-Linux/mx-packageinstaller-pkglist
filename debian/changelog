@@ -1,8 +1,9 @@
 mx-packageinstaller-pkglist (25.09.02mx25) mx; urgency=medium
 
   * remove rtl dkms packages when installing liquorix kernels 
+  * archive moc.pm 
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 22 Sep 2025 20:33:21 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 22 Sep 2025 20:34:17 -0400
 
 mx-packageinstaller-pkglist (25.09.01mx25) mx; urgency=medium
 
