@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (25.10.01mx25) mx; urgency=medium
+
+  * remove smtube from popular apps 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 07 Oct 2025 22:46:01 -0400
+
 mx-packageinstaller-pkglist (25.09.04mx25) mx; urgency=medium
 
   * bring back XnView
