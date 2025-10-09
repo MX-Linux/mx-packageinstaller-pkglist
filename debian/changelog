@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (25.10.02mx25) mx; urgency=medium
+
+  * add tlpui
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 08 Oct 2025 21:21:43 -0400
+
 mx-packageinstaller-pkglist (25.10.01mx25) mx; urgency=medium
 
   * remove smtube from popular apps 
