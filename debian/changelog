@@ -1,8 +1,9 @@
 mx-packageinstaller-pkglist (25.10.03mx25) mx; urgency=medium
 
   * add sysv & systemd specific virt-manager (libvirt)
+  * add virtualbox-qt to list for virtualbox
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 11 Oct 2025 10:44:55 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 12 Oct 2025 18:01:00 -0400
 
 mx-packageinstaller-pkglist (25.10.02mx25) mx; urgency=medium
 
