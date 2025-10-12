@@ -7,7 +7,7 @@ Virtualization
 </category>
 
 <name>
-Virt-manager (libvirt)
+Virt-manager (libvirt) (systemd)
 </name>
 
 <description>
