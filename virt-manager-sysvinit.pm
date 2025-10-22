@@ -7,7 +7,7 @@ Virtualization
 </category>
 
 <name>
-Virt-manager (libvirt) sysVinit
+Virt-manager (libvirt) (sysVinit)
 </name>
 
 <description>
