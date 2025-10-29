@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (25.10.05mx25) mx; urgency=medium
+
+  * update localwebserver, megasync, asunder Popular apps entries 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 28 Oct 2025 20:28:12 -0400
+
 mx-packageinstaller-pkglist (25.10.04mx25) mx; urgency=medium
 
   * add a cmake, ninja-build, and a few libs to development environment package
