@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (25.11.01mx25) mx; urgency=medium
+
+  * archive avidemux
+  * add liq. 6.15 and 6.16 kernels 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 06 Nov 2025 20:24:39 -0500
+
 mx-packageinstaller-pkglist (25.10.06mx25) mx; urgency=medium
 
   * add easyeffects
