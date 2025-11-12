@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (25.11.02mx25) mx; urgency=medium
+
+  * archive telegram-desktop since not currently available
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 12 Nov 2025 18:55:57 -0500
+
 mx-packageinstaller-pkglist (25.11.01mx25) mx; urgency=medium
 
   * archive avidemux
