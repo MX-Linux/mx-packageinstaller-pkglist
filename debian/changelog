@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (23.07.30x21) mx; urgency=medium
+
+  * remove firefox from 32 bit
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 16 Nov 2025 15:26:55 -0500
+
 mx-packageinstaller-pkglist (23.07.29x21) mx; urgency=medium
 
   * update gimp-full so install completes
