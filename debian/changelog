@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (25.11.03mx25) mx; urgency=medium
+
+  * add virtiosfd to virtmanager routines
+  * remove firefox from 32 bit builds
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 16 Nov 2025 15:17:37 -0500
+
 mx-packageinstaller-pkglist (25.11.02mx25) mx; urgency=medium
 
   * archive telegram-desktop since not currently available
