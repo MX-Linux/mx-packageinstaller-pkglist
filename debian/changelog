@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (25.12.01mx23) mx; urgency=medium
+
+  * add liquorix 6.17 kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 27 Dec 2025 10:41:50 -0500
+
 mx-packageinstaller-pkglist (25.11.02mx23) mx; urgency=medium
 
   * remove firefox from 32 bit
