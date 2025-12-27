@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (25.12.02mx25) mx; urgency=medium
+
+  * add 6.17 liquorix kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 27 Dec 2025 10:39:13 -0500
+
 mx-packageinstaller-pkglist (25.12.01mx25) mx; urgency=medium
 
   * update librewolf, anydesk with extrepo routines
