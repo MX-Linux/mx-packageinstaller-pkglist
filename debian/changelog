@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (26.01.01mx25) mx; urgency=medium
+
+  * update liquorix 6.17 kernel
+  * add 6.18 kernels (liquorix, debian)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 06 Jan 2026 22:24:00 -0500
+
 mx-packageinstaller-pkglist (25.12.02mx25) mx; urgency=medium
 
   * add 6.17 liquorix kernel
