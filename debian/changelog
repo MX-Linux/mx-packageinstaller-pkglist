@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.01.03mx23) mx; urgency=medium
+
+  * archive expressvpn.pm (file link no longer exposed publicly)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 14 Jan 2026 19:38:29 -0500
+
 mx-packageinstaller-pkglist (26.01.02mx23) mx; urgency=medium
 
   * update liqu. 6.18 kernel
