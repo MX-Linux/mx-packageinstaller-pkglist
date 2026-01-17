@@ -103,7 +103,6 @@ if [ -f $SYSCTL ]; then  sysctl --load $SYSCTL; fi
 
 <uninstall_package_names>
 brave-browser
-brave-keyring
 </uninstall_package_names>
 
 <postuninstall>
