@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.01.05mx25) mx; urgency=medium
+
+  * fix 6.18 kernel entry
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 19 Jan 2026 09:59:18 -0500
+
 mx-packageinstaller-pkglist (26.01.04mx25) mx; urgency=medium
 
   * update brave.pm
