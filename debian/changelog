@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.02.02mx23) mx; urgency=medium
+
+  * update 6.18 liquorix kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 14 Feb 2026 09:10:32 -0500
+
 mx-packageinstaller-pkglist (26.02.01mx23) mx; urgency=medium
 
   * update liquorix 6.18 kernel
