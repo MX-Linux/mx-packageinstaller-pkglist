@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (26.02.04mx25) mx; urgency=medium
+
+  * update steam-installer entry to pull in recommended dependencies
+  * use "reinstall" function to remove and reinstall to get the recommends
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 22 Feb 2026 11:04:04 -0500
+
 mx-packageinstaller-pkglist (26.02.03mx25) mx; urgency=medium
 
   * update liquorix and debian 6.18 kernels (6.18.12)
