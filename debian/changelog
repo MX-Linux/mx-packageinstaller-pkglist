@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.02.06mx25) mx; urgency=medium
+
+  * add qemu-system-modules-spice to virt-manager setups
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 01 Mar 2026 09:32:16 -0500
+
 mx-packageinstaller-pkglist (26.02.05mx25) mx; urgency=medium
 
   * update liquorix 6.18 kernel
