@@ -1,7 +1,7 @@
 mx-packageinstaller-pkglist (26.03.1mx25) mx; urgency=medium
 
   * update masterpdf-editor-4 entry
-  * update liquorix 6.18.5 kernel
+  * update liquorix 6.18.15 kernel
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 02 Mar 2026 21:35:20 -0500
 
