@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (26.04.3mx25) mx; urgency=medium
+
+  * update google-chrome uri information
+  * update 6.19 liquorix kernel (6.19.11-2)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 10 Apr 2026 20:50:13 -0400
+
 mx-packageinstaller-pkglist (26.04.2mx25) mx; urgency=medium
 
   * update 6.19 liquorix kernel entry 
