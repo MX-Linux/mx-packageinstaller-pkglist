@@ -67,18 +67,19 @@ VirtualBox
 <screenshot>https://screenshots.debian.net/shrine/screenshot/9108/simage/large-e5809fdad2f4fa256e63549c1d1117fa.png</screenshot>
 
 <preinstall>
-
+addgroup vboxusers
+gpasswd -M $(getent group users | cut -d: -f4) vboxusers
 </preinstall>
 
 <install_package_names>
 virtualbox
-virtualbox-ext-pack
+virtualbox-qt
 virtualbox-guest-additions-iso
 </install_package_names>
 
 
 <postinstall>
-gpasswd -M $(getent group users | cut -d: -f4) vboxusers
+apt-get install virtulbox-ext-pack
 </postinstall>
 
 
