@@ -79,7 +79,7 @@ virtualbox-guest-additions-iso
 
 
 <postinstall>
-apt install virtulbox-ext-pack
+apt-get install virtulbox-ext-pack
 </postinstall>
 
 

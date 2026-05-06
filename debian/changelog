@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (26.05.1mx25) mx; urgency=medium
+
+  * update virtualbox install routine
+  * update liquorix 6.19 kenrel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 05 May 2026 20:43:19 -0400
+
 mx-packageinstaller-pkglist (26.04.6mx25) mx; urgency=medium
 
   * add qemu-system-modules-spice to gnome-boxes
