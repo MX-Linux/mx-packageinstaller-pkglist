@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.05.1mx23) mx; urgency=medium
+
+  * update virtualbox install routine
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 05 May 2026 20:42:08 -0400
+
 mx-packageinstaller-pkglist (26.04.3mx23) mx; urgency=medium
 
   * update google-chrome uri information
