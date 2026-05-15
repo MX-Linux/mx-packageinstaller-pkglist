@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.05.2mx25) mx; urgency=medium
+
+  * add liquorix 7.0
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 15 May 2026 18:15:38 -0400
+
 mx-packageinstaller-pkglist (26.05.1mx25) mx; urgency=medium
 
   * update virtualbox install routine
