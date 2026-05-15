@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.05.2mx23) mx; urgency=medium
+
+  * add liquorix 7.0
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 15 May 2026 18:13:54 -0400
+
 mx-packageinstaller-pkglist (26.05.1mx23+1) mx; urgency=medium
 
   * add liquorix 6.19
