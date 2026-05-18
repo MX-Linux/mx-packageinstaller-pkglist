@@ -1,8 +1,9 @@
-mx-packageinstaller-pkglist (26.05.2mx25+1) mx; urgency=medium
+mx-packageinstaller-pkglist (26.05.3mx25) mx; urgency=medium
 
   * add antiX 5.10 and 6.6 kernels (install only in popular apps)
+  * date liquorix kernel
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 16 May 2026 13:07:26 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 18 May 2026 19:20:31 -0400
 
 mx-packageinstaller-pkglist (26.05.2mx25) mx; urgency=medium
 
