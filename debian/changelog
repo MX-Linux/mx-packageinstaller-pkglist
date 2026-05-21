@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.05.4mx25) mx; urgency=medium
+
+  * update liquorix kernel (7.0.9)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 20 May 2026 20:25:43 -0400
+
 mx-packageinstaller-pkglist (26.05.3mx25) mx; urgency=medium
 
   * add antiX 5.10 and 6.6 kernels (install only in popular apps)
