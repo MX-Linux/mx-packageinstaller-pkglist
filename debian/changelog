@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.05.5mx23) mx; urgency=medium
+
+  * update vivaldi
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 21 May 2026 19:31:48 -0400
+
 mx-packageinstaller-pkglist (26.05.4mx23) mx; urgency=medium
 
   * update liquorix 7.0 kernel (7.0.9)
