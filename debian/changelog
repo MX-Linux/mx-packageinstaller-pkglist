@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.05.7mx25) mx; urgency=medium
+
+  * update liquorix 7.0.9-2 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 23 May 2026 19:20:47 -0400
+
 mx-packageinstaller-pkglist (26.05.5mx23) mx; urgency=medium
 
   * update vivaldi
