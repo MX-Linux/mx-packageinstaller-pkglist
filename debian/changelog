@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.05.6mx25) mx; urgency=medium
+
+  * include missing antix-repo-package-check script
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 22 May 2026 23:10:53 -0400
+
 mx-packageinstaller-pkglist (26.05.5mx25) mxD; urgency=medium
 
   * update vivaldi
