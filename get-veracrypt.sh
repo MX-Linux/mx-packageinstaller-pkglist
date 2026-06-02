@@ -19,7 +19,7 @@ fi
 arch=$(dpkg --print-architecture)
 
 #process text file to get version number 
-version=$(grep Debian-12 /tmp/veracrypt.txt | grep -v console| grep launchpad |cut -d"=" -f1 |cut -d"<" -f1 |cut -d">" -f1 |grep "$arch"|awk '{print $1}')
+version=$(grep Debian-13 /tmp/veracrypt.txt | grep -v console| grep launchpad |cut -d"=" -f1 |cut -d"<" -f1 |cut -d">" -f1 |grep "$arch"|awk '{print $1}')
 trunk=$(echo $version |cut -d"-" -f2)
 echo $version
 echo $trunk
