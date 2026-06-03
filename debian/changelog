@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.06.1mx25) mx; urgency=medium
+
+  * update veracrypt
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 02 Jun 2026 21:37:50 -0400
+
 mx-packageinstaller-pkglist (26.05.8mx25) mx; urgency=medium
 
   * update liquorix 7.0.10-1
