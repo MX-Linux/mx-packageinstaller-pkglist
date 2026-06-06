@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (26.06.2mx23) mx; urgency=medium
+
+  * update liquorix 7 kernel
+  * remove opera 32 bit (hasn't worked for years)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 05 Jun 2026 21:12:30 -0400
+
 mx-packageinstaller-pkglist (26.05.8mx23) mx; urgency=medium
 
   * update liquorix 7.0.10-1
