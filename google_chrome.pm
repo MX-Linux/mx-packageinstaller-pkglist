@@ -78,6 +78,7 @@ google-chrome-stable
 
 <postinstall>
 rm /etc/apt/sources.list.d/mxpitemp.list
+rm /etc/apt/trusted.gpg.d/google-chrome.gpg
 </postinstall>
 
 
