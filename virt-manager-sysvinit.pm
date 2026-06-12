@@ -7,7 +7,7 @@ Virtualization
 </category>
 
 <name>
-Virt-manager (libvirt) (systemd)
+Virt-manager (libvirt) (sysVinit)
 </name>
 
 <description>
@@ -73,14 +73,14 @@ Virt-manager (libvirt) (systemd)
 
 <install_package_names>
 virt-manager
+libvirt-daemon-system-sysv 
 gir1.2-spiceclientglib-2.0 
 gir1.2-spiceclientgtk-3.0 
-qemu-utils 
+qemu-utils
+qemu-system-modules-spice
 virt-viewer 
 qemu-system-x86
-qemu-system-modules-spice
 libvirt-daemon-system
-libvirt-daemon-system-systemd
 </install_package_names>
 
 
@@ -92,8 +92,8 @@ libvirt-daemon-system-systemd
 <uninstall_package_names>
 virt-manager
 virt-viewer
+libvirt-daemon-system-sysv
 libvirt-daemon-system
-libvirt-daemon-system-systemd
 </uninstall_package_names>
 
 </app>
