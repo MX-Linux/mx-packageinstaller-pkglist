@@ -88,5 +88,6 @@ spotify-client
 <postuninstall>
 rm -f /etc/apt/trusted.gpg.d/repository-spotify-com-keyring.gpg
 rm -f /etc/apt/trusted.gpg.d/spotify.gpg
+rm -f /etc/apt/sources.list.d/spotify.list
 </postuninstall>
 </app>
