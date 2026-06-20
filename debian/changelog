@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.06.4mx25) mx; urgency=medium
+
+  * update spotify repo key
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 20 Jun 2026 08:09:30 -0400
+
 mx-packageinstaller-pkglist (26.06.3mx25) mx; urgency=medium
 
   * update liquorix kernel (7.0.12)
