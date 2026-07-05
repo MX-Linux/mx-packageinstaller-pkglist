@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.07.1mx23) mx; urgency=medium
+
+  * update liquorix kernel (7.0.14-2) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 05 Jul 2026 18:57:46 -0400
+
 mx-packageinstaller-pkglist (26.06.7mx23) mx; urgency=medium
 
   * update liquorix kenrel (7.0.14-1)
