@@ -20,9 +20,9 @@ Siduction 7.1.4-1
 <screenshot>none</screenshot>
 
 <preinstall>
-if [ $(apt-get update --print-uris | grep -c -m1 -E "/mx/repo/dists/trixie/ahs/") = 0 ]; then
+if [ $(apt-get update --print-uris | grep -c -m1 -E "/mx/repo/dists/bookworm/ahs/") = 0 ]; then
 MXREPO=$(apt-get update --print-uris | grep -oE "https?://.*/mx/repo/dists/ahs/main" | tail -1 | sed "s:^:deb :; s:/repo/dists/:/repo/ :; s:/main: ahs:")
-: ${MXREPO:=deb http://mxrepo.com/mx/repo/ trixie ahs}
+: ${MXREPO:=deb http://mxrepo.com/mx/repo/ bookworm ahs}
 echo "$MXREPO" > /etc/apt/sources.list.d/mxpitemp.list
 apt-get update 
 fi
