@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (26.07.2mx25) mx; urgency=medium
+
+  * add siduction 7.1 kernel
+  * add liquorix 7.1 kernel
+  * remove ttf-mscorefonts-installer from popualr apps (still in repo)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 30 Jul 2026 18:03:01 -0400
+
 mx-packageinstaller-pkglist (26.07.1mx25) mx; urgency=medium
 
   * update liquorix kernel (7.0.14-2)
