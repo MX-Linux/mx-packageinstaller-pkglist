@@ -1,8 +1,8 @@
-mx-packageinstaller-pkglist (26.08.1mx23) UNRELEASED; urgency=medium
+mx-packageinstaller-pkglist (26.08.1mx23) mx; urgency=medium
 
-  * update liquorix 7.1 kernel (7.1.6-1)
+  * update liquorix 7.1 kernel (7.1.6-3)
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 05 Aug 2026 19:33:46 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 07 Aug 2026 18:07:26 -0400
 
 mx-packageinstaller-pkglist (26.07.3mx23) mx; urgency=medium
 
