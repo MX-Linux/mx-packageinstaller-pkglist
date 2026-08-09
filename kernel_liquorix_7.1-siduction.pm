@@ -50,8 +50,7 @@ echo "...$(gettext -d apt -s ' Done')!"
 
 
 <uninstall_package_names>
-linux-image-linux-image-7.1.7-1mx25ahs-siduction-amd64
-linux-headers-7.1.5-siduction-amd64
+linux-image-7.1.7-1mx25ahs-siduction-amd64
 linux-headers-7.1.7-1mx25ahs-siduction-amd64
 </uninstall_package_names>
 </app>
