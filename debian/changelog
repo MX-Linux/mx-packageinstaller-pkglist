@@ -1,6 +1,7 @@
 mx-packageinstaller-pkglist (26.08.6mx23) mx; urgency=medium
 
-  * update antiX kernels
+  * update antiX kernels 5.x series
+  * update liquorix kernel (7.1.10)
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 25 Aug 2026 20:21:59 -0400
 
