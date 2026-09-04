@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (26.09.1mx23) mx; urgency=medium
+
+  * update windwscribe
+  * update liquorix 7.12.12-2
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 04 Sep 2026 19:58:36 -0400
+
 mx-packageinstaller-pkglist (26.08.7mx23) mx; urgency=medium
 
   * update liquorix kernel 7.1.12
