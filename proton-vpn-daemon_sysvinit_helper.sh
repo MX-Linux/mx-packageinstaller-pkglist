@@ -1,8 +1,8 @@
 #!/bin/bash
 # Part of MX Package Installer's mx-packageinstaller-pkglist.
 # Purpose: systemctl shim providing sysvinit compatibility for
-# windscribe-helper.service, sourced into windscribe's maintainer scripts at
-# install time.
+# me.proton.vpn.split_tunneling.service, sourced into proton-vpn-daemon's
+# maintainer scripts at install time.
 
 function systemctl {
 local action=$1
