@@ -1,3 +1,16 @@
+mx-packageinstaller-pkglist (26.09.5mx25) mx; urgency=medium
+
+  * add Mullvad Browser
+  * add Mullvad VPN with dual-init (systemd/sysvinit) support
+  * update Windscribe VPN for dual-init support, fix missing "iw" dependency
+  * add NordVPN CLI and NordVPN GUI with dual-init completion
+  * add Proton VPN CLI and Proton VPN GUI with dual-init support
+  * update PIAVPN for the new pia-vpn-installer-helper package, replacing
+    the pkexec/Wayland-broken piavpn-downloader-installer
+  * archive expressvpn.pm, no .deb file publicly available anymore
+
+ -- fehlix <fehlix@mxlinux.org>  Thu, 17 Sep 2026 19:54:42 -0400
+
 mx-packageinstaller-pkglist (26.09.4mx25) mx; urgency=medium
 
   * update 7.2 kernels (7.2.6)
