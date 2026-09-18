@@ -1,8 +1,8 @@
 #!/bin/bash
 # Part of MX Package Installer's mx-packageinstaller-pkglist.
 # Purpose: systemctl shim providing sysvinit compatibility for
-# windscribe-helper.service, sourced into windscribe's maintainer scripts at
-# install time.
+# mullvad-daemon.service and mullvad-early-boot-blocking.service, sourced
+# into mullvad-vpn's maintainer scripts at install time.
 
 function systemctl {
 local action=$1
