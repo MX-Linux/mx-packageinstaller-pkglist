@@ -1,8 +1,8 @@
-mx-packageinstaller-pkglist (26.09.5mx23) mx; urgency=medium
+mx-packageinstaller-pkglist (26.09.6mx23) mx; urgency=medium
 
   * fix 7.2 siduction kernel entry
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 20 Sep 2026 10:17:31 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 20 Sep 2026 10:19:27 -0400
 
 mx-packageinstaller-pkglist (26.09.5mx23) mx; urgency=medium
 
