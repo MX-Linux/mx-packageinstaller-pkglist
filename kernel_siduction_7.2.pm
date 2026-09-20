@@ -31,7 +31,7 @@ echo "realtek rtl package to remove are " ${RTL_PKGS[*]}
 apt-get purge ${RTL_PKGS[*]}
 DKMS_PKGS=($(dpkg-query -f '${db:Status-Abbrev}\t${Package}\n' -W  -- '*-dkms' | grep ^i | grep -- '-dkms$' | cut -d$'\t' -f2))
 apt-get purge rtl*-dkms
-apt-get install linux-image-linux-image-7.2.6-1mx23ahs-siduction-amd64 linux-headers-7.2.6-1mx23ahs-siduction-amd64 ${DKMS_PKGS[*]}
+apt-get install linux-image-7.2.6-1mx23ahs-siduction-amd64 linux-headers-7.2.6-1mx23ahs-siduction-amd64 ${DKMS_PKGS[*]}
 </preinstall>
 
 <install_package_names>

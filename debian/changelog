@@ -1,5 +1,11 @@
 mx-packageinstaller-pkglist (26.09.5mx23) mx; urgency=medium
 
+  * fix 7.2 siduction kernel entry
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 20 Sep 2026 10:17:31 -0400
+
+mx-packageinstaller-pkglist (26.09.5mx23) mx; urgency=medium
+
   * add Mullvad Browser
   * add Mullvad VPN with dual-init (systemd/sysvinit) support
   * update Windscribe VPN for dual-init support, fix missing "iw" dependency
