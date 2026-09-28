@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.09.8mx23) mx; urgency=medium
+
+  * update 7.2 kernels 7.2.8-1
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 28 Sep 2026 19:11:53 -0400
+
 mx-packageinstaller-pkglist (26.09.7mx23) mx; urgency=medium
 
   * update 7.2 kernels (7.2.7-1)
