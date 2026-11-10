@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (26.11.3mx23) mx; urgency=medium
+
+  * add siduction 7.3 kernel
+  * add liquorix 7.3 kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 09 Nov 2026 19:15:32 -0500
+
 mx-packageinstaller-pkglist (26.11.2mx23) mx; urgency=medium
 
   * update liquorix 7.2.15-2
