@@ -20,10 +20,46 @@ EOF
 INITHELPER=/usr/share/mx-packageinstaller-pkglist/proton-vpn-daemon_sysvinit_helper.sh
 REPO_BASE=https://repo.protonvpn.com/debian
 
+# Short, user-facing refusal when apt would remove packages; the package
+# names go on one wrapped line at the end, for helpers/forum posts.
+# $1: what is being installed, $2: newline-separated packages apt would remove.
+refuse_removals() {
+echo
+echo "ERROR: $1 can't be installed on this system."
+echo
+if dpkg -l elogind 2>/dev/null | grep -sq '^ii'; then
+   echo "$1 depends on the 'systemd' package (as an installed package, not as"
+   echo "the running init system). On this sysvinit-only MX installation that"
+   echo "package conflicts with elogind: installing it would remove important"
+   echo "system packages, such as the login screen (lightdm) and MX Package"
+   echo "Installer itself."
+else
+   echo "Installing it would remove other installed packages."
+fi
+echo
+echo "Nothing was changed."
+echo
+echo "(Would be removed: $(echo $2))" | fmt -w 76
+}
+
 do_preinstall() {
 SCOPE="${1:-}"
 
 export DEBIAN_FRONTEND=noninteractive
+
+# Early exit before downloading anything: Proton hard-depends on systemd
+# (proton-vpn-daemon, python3-proton-vpn-api-core). Both come from Debian's
+# own repo, so this needs no Proton repo yet. On a sysvinit-only MX install
+# elogind declares Conflicts: systemd, and apt would swap elogind for systemd,
+# removing libpam-elogind, lightdm, polkitd, pkexec, synaptic, gparted, ...
+# (confirmed against the MX-25.3 sysvinit-only ISO's dpkg status).
+if ! dpkg -l systemd 2>/dev/null | grep -sq '^ii'; then
+   REMV=$(apt-get -s --no-install-recommends install systemd python3-systemd 2>/dev/null | awk '$1 == "Remv" { print $2 }')
+   if [ -n "$REMV" ]; then
+      refuse_removals "Proton VPN" "$REMV"
+      exit 1
+   fi
+fi
 
 TMP_DIR=$(mktemp -d /tmp/mxpi-protonvpn-installer.XXXXXXXXXX)
 tidy_up() { rm -r /tmp/mxpi-protonvpn-installer.* 2>/dev/null ; }
@@ -56,8 +92,30 @@ if [ ! -r "$RELDEB" ]; then
    exit 1
 fi
 
+REL_WAS_INSTALLED=
+dpkg -l 'protonvpn-*-release' 2>/dev/null | grep -sq '^ii' && REL_WAS_INSTALLED=1
+
 apt-get install -y "./$RELDEB"
 apt-get update
+
+# Safety net after the early systemd check above: simulate the full install
+# now that the Proton repo is known, and refuse if apt would remove anything
+# (catches other/future dependency conflicts too).
+case "$SCOPE" in
+   cli) FRONTEND="proton-vpn-cli" ;;
+   *)   FRONTEND="proton-vpn-gnome-desktop proton-vpn-cli" ;;
+esac
+REMV=$(apt-get -s --no-install-recommends install proton-vpn-daemon $FRONTEND 2>/dev/null | awk '$1 == "Remv" { print $2 }')
+if [ -n "$REMV" ]; then
+   refuse_removals "Proton VPN" "$REMV"
+   # Undo the repo setup, unless it was already there before.
+   if [ -z "$REL_WAS_INSTALLED" ]; then
+      apt-get -y purge 'protonvpn-*-release' >/dev/null 2>&1
+      apt-get update >/dev/null 2>&1
+   fi
+   popd >/dev/null
+   exit 1
+fi
 
 # Pre-install proton-vpn-daemon's dependencies only, filtered out of the Inst list.
 DEP=$(apt-get -s --no-install-recommends install proton-vpn-daemon 2>/dev/null | awk '$1 == "Inst" && $2 != "proton-vpn-daemon" { print $2 }')
