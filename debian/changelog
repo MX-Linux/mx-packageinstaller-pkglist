@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (26.11.4mx23) mx; urgency=medium
+
+  * protonvpn: refuse install on sysvinit-only systems 
+  * (systemd dependency would remove elogind, lightdm, polkitd and mx-packageinstaller)
+  * update siducation 7.3.3 kernel
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 10 Nov 2026 19:20:27 -0500
+
 mx-packageinstaller-pkglist (26.11.3mx23) mx; urgency=medium
 
   * add siduction 7.3 kernel
