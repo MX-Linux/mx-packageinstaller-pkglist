@@ -1,8 +1,14 @@
+mx-packageinstaller-pkglist (26.11.5mx23) mx; urgency=medium
+
+  * update liquorix 7.3 kernel (7.3.4)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 13 Nov 2026 13:32:05 -0500
+
 mx-packageinstaller-pkglist (26.11.4mx23) mx; urgency=medium
 
   * protonvpn: refuse install on sysvinit-only systems 
   * (systemd dependency would remove elogind, lightdm, polkitd and mx-packageinstaller)
-  * update siducation 7.3.3 kernel
+  * update siduction 7.3.3 kernel
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 10 Nov 2026 19:20:27 -0500
 
