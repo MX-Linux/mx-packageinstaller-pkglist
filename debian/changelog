@@ -1,3 +1,9 @@
+mx-packageinstaller-pkglist (26.11.5mx25) mx; urgency=medium
+
+  * update liquorix 7.3 kernel (7.3.4)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 13 Nov 2026 13:32:05 -0500
+
 mx-packageinstaller-pkglist (26.11.4mx25) mx; urgency=medium
 
   * protonvpn: refuse install on sysvinit-only systems 
