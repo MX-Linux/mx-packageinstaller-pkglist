@@ -104,4 +104,8 @@ fi
 <uninstall_package_names>
 google-chrome-stable
 </uninstall_package_names>
+<postuninstall>
+rm -f /etc/apt/sources.list.d/google-chrome.sources
+apt-get update
+</postuninstall>
 </app>
