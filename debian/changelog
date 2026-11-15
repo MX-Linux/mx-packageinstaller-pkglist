@@ -1,6 +1,8 @@
 mx-packageinstaller-pkglist (26.11.6mx25) UNRELEASED; urgency=medium
 
   * update google-chrome routines with additional cleanup and source checking
+  * mullvad-vpn: fix split tunneling under sysvinit (mount net_cls under
+/run, start daemon after elogind)
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 15 Nov 2026 13:33:14 -0500
 
