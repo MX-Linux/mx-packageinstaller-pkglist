@@ -67,10 +67,14 @@ Google Chrome
 
 <preinstall>
 #cleanup
-rm -f /etc/apt/sources.list.d/google-chrome.list
-rm -f /etc/apt/sources.list.d/mxpitemp.sources
+#remove any temporary google keys
 rm -f /etc/apt/trusted.gpg.d/google-chrome.gpg
-apt-get update
+#remove old or temporary sources, install will replace them, refresh sources in this case
+if [ -e "/etc/apt/sources.list.d/google-chrome.list" ] || [ -e "/etc/apt/sources.list.d/mxpitemp.sources" ] ; then
+	rm -f /etc/apt/sources.list.d/google-chrome.list
+	rm -f /etc/apt/sources.list.d/mxpitemp.sources
+	apt-get update
+fi
 # only add a temporary repo if no Google Chrome apt repo is still enabled after cleanup
 if apt-get indextargets --format '$(REPO_URI)' 2>/dev/null | grep -q 'dl\.google\.com/linux/chrome'; then
    echo "Google Chrome apt repo already enabled, not adding temporary repo"
