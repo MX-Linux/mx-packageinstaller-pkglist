@@ -1,4 +1,4 @@
-mx-packageinstaller-pkglist (26.11.6mx26) UNRELEASED; urgency=medium
+mx-packageinstaller-pkglist (26.11.6mx25) UNRELEASED; urgency=medium
 
   * update google-chrome routines with additional cleanup and source checking
 
