@@ -118,6 +118,15 @@ sed -i '
     /Should-Stop:/s/NetworkManager/$network &/
     ' /etc/init.d/$INIT
 
+# Split tunneling: under sysvinit /sys/fs/cgroup is mounted by elogind, which
+# starts in parallel with the daemon; if the daemon wins, its net_cls mount
+# fails. Mount net_cls under /run instead, and start after elogind.
+sed -i '
+    /^# Should-Start:/s/$/ elogind/
+    /^# Should-Stop:/s/$/ elogind/
+    /^MULLVAD_RESOURCE_DIR=/a TALPID_NET_CLS_MOUNT_DIR="/run/mullvad-net_cls"
+    ' /etc/init.d/$INIT
+
 done
 
 dpkg --configure mullvad-vpn
