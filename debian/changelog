@@ -1,3 +1,10 @@
+mx-packageinstaller-pkglist (26.11.7mx23) mx; urgency=medium
+
+  * protonvpn: disable Proton repo on dual-init systems
+  * update liqourix kernel 7.3.5-1
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 18 Nov 2026 20:03:22 -0500
+
 mx-packageinstaller-pkglist (26.11.6mx23) mx; urgency=medium
 
   * update google-chrome routines with additional cleanup and source checking
