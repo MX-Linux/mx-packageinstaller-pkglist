@@ -19,6 +19,71 @@ EOF
 
 INITHELPER=/usr/share/mx-packageinstaller-pkglist/proton-vpn-daemon_sysvinit_helper.sh
 REPO_BASE=https://repo.protonvpn.com/debian
+REPO_SRC=/etc/apt/sources.list.d/protonvpn-stable.sources
+
+# Repo disabled when sysvinit can be booted: a plain "apt upgrade" would
+# install proton-vpn-daemon without our systemctl shim helper, and its
+# maintainer scripts fail under sysvinit. Upgrade via MXPI instead.
+
+# Edit $REPO_SRC: remove every Enabled: line (also commented ones), tidy
+# blanks and empty lines; "off" adds "Enabled: no" as the first line of
+# each stanza that has fields.
+proton_repo_edit() {
+[ -f "$REPO_SRC" ] || return 0
+local t
+t=$(awk -v off="$1" '
+   function flush(  i) {
+      if (n) { if (off == "off" && f) print "Enabled: no"
+               for (i = 1; i <= n; i++) print b[i] }
+      n = 0; f = 0 }
+   tolower($0) ~ /^[# \t]*enabled[ \t]*:/ { next }
+   { sub(/[ \t]+$/, ""); gsub(/[ \t]+/, " ") }
+   $0 == "" { if (n) { flush(); gap = 1 }; next }
+   { if (gap && seen) print ""; gap = 0; seen = 1
+     b[++n] = $0; if ($0 !~ /^#/) f = 1 }
+   END { flush() }' "$REPO_SRC") || return 0
+[ "$t" = "$(cat "$REPO_SRC")" ] || printf '%s\n' "$t" > "$REPO_SRC"
+}
+
+proton_repo_enable() {
+proton_repo_edit on
+}
+
+# apt's own view, in any sources file, also with an empty cache.
+# An apt error (exit 100, e.g. a malformed sources file) counts as active.
+proton_repo_active() {
+local uris
+uris=$(LC_ALL=C apt-get update --print-uris 2>/dev/null) || return 0
+printf '%s\n' "$uris" | grep -qi 'repo\.protonvpn\.com/debian/dists/'
+}
+
+proton_repo_disable() {
+if [ -e /usr/lib/sysvinit/init ] && [ -e /usr/lib/systemd/systemd ]; then
+   :
+elif [ ! -d /run/systemd/system ]; then
+   :
+elif [ -e /sbin/init ] && [ ! -L /sbin/init ]; then
+   :
+else
+   return 0
+fi
+proton_repo_active || return 0
+proton_repo_edit off
+apt-get update >/dev/null 2>&1
+echo "--------------------------------"
+if ! LC_ALL=C apt-get update --print-uris >/dev/null 2>&1; then
+   echo "WARNING: apt can't read its sources lists - Proton VPN repo state unknown."
+   echo "Check with: sudo apt-get update"
+elif proton_repo_active; then
+   echo "WARNING: Proton VPN repo is still enabled (sysvinit detected) in:"
+   grep -rlis 'repo\.protonvpn\.com' /etc/apt/sources.list /etc/apt/sources.list.d/ \
+      | grep -vxF "$REPO_SRC" | sed 's/^/   /'
+   echo "Disable it there - a plain apt upgrade can break proton-vpn-daemon under sysvinit."
+else
+   echo "Note: Proton VPN repo disabled (sysvinit detected) - use MX Package Installer for install/upgrade only."
+fi
+echo "--------------------------------"
+}
 
 # Short, user-facing refusal when apt would remove packages; the package
 # names go on one wrapped line at the end, for helpers/forum posts.
@@ -62,7 +127,7 @@ if ! dpkg -l systemd 2>/dev/null | grep -sq '^ii'; then
 fi
 
 TMP_DIR=$(mktemp -d /tmp/mxpi-protonvpn-installer.XXXXXXXXXX)
-tidy_up() { rm -r /tmp/mxpi-protonvpn-installer.* 2>/dev/null ; }
+tidy_up() { rm -r /tmp/mxpi-protonvpn-installer.* 2>/dev/null ; proton_repo_disable ; }
 trap tidy_up EXIT
 # apt's sandboxed download runs as _apt; needs write access to this dir.
 chown _apt "$TMP_DIR"
@@ -95,6 +160,7 @@ fi
 REL_WAS_INSTALLED=
 dpkg -l 'protonvpn-*-release' 2>/dev/null | grep -sq '^ii' && REL_WAS_INSTALLED=1
 
+proton_repo_enable
 apt-get install -y "./$RELDEB"
 apt-get update
 
@@ -177,8 +243,8 @@ echo "...$(gettext -d apt -s ' Done')!"
 
 do_postinstall() {
 
-# Repo left enabled regardless of init (unlike Mullvad) - explicit user decision.
-:
+# Repo already disabled at the end of preinstall if needed; no-op otherwise.
+proton_repo_disable
 
 }
 
