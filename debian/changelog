@@ -1,3 +1,11 @@
+mx-packageinstaller-pkglist (26.11.7mx25) mx; urgency=medium
+
+  * protonvpn: disable Proton repo on dual-init systems
+  * update liqourix kernel 7.3.5-1
+  * stop curl from being removed during local web server pm file removal routine
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 18 Nov 2026 20:06:26 -0500
+
 mx-packageinstaller-pkglist (26.11.6mx25) mx; urgency=medium
 
   * update google-chrome routines with additional cleanup and source checking
